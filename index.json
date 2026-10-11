@@ -1,6 +1,39 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-11T23:07:21.164Z",
-	"creators": {},
-	"skins": []
+	"generatedAt": "2026-10-11T23:13:14.093Z",
+	"creators": {
+		"yliimh": {
+			"name": "yliimh",
+			"bio": "https://www.twitch.tv/yliimh",
+			"links": {
+				"twitch": "https://www.twitch.tv/yliimh"
+			}
+		}
+	},
+	"skins": [
+		{
+			"id": "ghostly-raven-soraka",
+			"name": "Ghostly Raven Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "yliimh",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-11",
+			"updatedAt": "2026-10-11",
+			"downloads": 0,
+			"thumb": "skins/ghostly-raven-soraka/thumb.webp?v=4b309cbb",
+			"file": {
+				"version": 1,
+				"asset": "ghostly-raven-soraka-v1.fantome",
+				"size": 34330478,
+				"sha256": "e3523f07793da7239147a60fcca313f0004d102f19a1f7bce547d8260b71d1e5"
+			},
+			"chromas": []
+		}
+	]
 }
