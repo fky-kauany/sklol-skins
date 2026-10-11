@@ -1,0 +1,33 @@
+# Atualiza o número de downloads de cada skin no index.json (de 6 em 6 horas, ou à mão pela aba Actions).
+name: downloads
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: downloads
+  cancel-in-progress: false
+
+jobs:
+  downloads:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node .github/scripts/downloads.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: commit
+        run: |
+          if git diff --quiet index.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "downloads" index.json
+          git push
