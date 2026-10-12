@@ -1,0 +1,25 @@
+{
+	"id": "2xko-caitlyn",
+	"name": "2XKO caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "## **COMMISION ME ON DISCORD @CEEREL**\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/2xko-caitlyn\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/2xko-caitlyn/thumb.webp?v=b4ec98ac",
+	"file": {
+		"version": 1,
+		"asset": "2xko-caitlyn-v1.fantome",
+		"size": 11660540,
+		"sha256": "bc0ad5a20b7461a7885219a166219bb4c27fefd72048dfcd92de187687bc2d28"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "1997-dude-graves",
+	"name": "1997 dude graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "###### *\"10/17/1997 The Earth is hungry. Its heart throbs and demands cleansing. The Earth is also thirsty.\"*\n\nInformation\n\n***\n\n**Modified champion: Graves**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game: Postal (1997)**\n\n3d extra 3d part from: [wλve](https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/1997-dude-graves\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/1997-dude-graves/thumb.webp?v=07bfcb73",
+	"file": {
+		"version": 1,
+		"asset": "1997-dude-graves-v1.fantome",
+		"size": 4962472,
+		"sha256": "8350351121ec1ac50eb17a39b579064a288ca454d83eceb8859c08582ee587db"
+	},
+	"chromas": []
+}

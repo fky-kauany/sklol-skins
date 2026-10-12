@@ -1,7 +1,23 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-11T23:13:14.093Z",
+	"generatedAt": "2026-10-12T23:40:40.983Z",
 	"creators": {
+		"ceerel": {
+			"name": "ceerel",
+			"avatar": "creators/ceerel.webp?v=72038c18",
+			"bio": "Commision in divine skins Discord server\nOr in dms @ceerel",
+			"links": {
+				"youtube": "https://www.youtube.com/@adcx9gonext"
+			}
+		},
+		"mojkqueira": {
+			"name": "mojkqueira",
+			"avatar": "creators/mojkqueira.webp?v=bc62ceb8",
+			"bio": "among us https://www.youtube.com/@sr.fimosinha3631",
+			"links": {
+				"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
+			}
+		},
 		"yliimh": {
 			"name": "yliimh",
 			"bio": "https://www.twitch.tv/yliimh",
@@ -11,6 +27,57 @@
 		}
 	},
 	"skins": [
+		{
+			"id": "1997-dude-graves",
+			"name": "1997 dude graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/1997-dude-graves/thumb.webp?v=07bfcb73",
+			"file": {
+				"version": 1,
+				"asset": "1997-dude-graves-v1.fantome",
+				"size": 4962472,
+				"sha256": "8350351121ec1ac50eb17a39b579064a288ca454d83eceb8859c08582ee587db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "2xko-caitlyn",
+			"name": "2XKO caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/2xko-caitlyn/thumb.webp?v=b4ec98ac",
+			"file": {
+				"version": 1,
+				"asset": "2xko-caitlyn-v1.fantome",
+				"size": 11660540,
+				"sha256": "bc0ad5a20b7461a7885219a166219bb4c27fefd72048dfcd92de187687bc2d28"
+			},
+			"chromas": []
+		},
 		{
 			"id": "ghostly-raven-soraka",
 			"name": "Ghostly Raven Soraka",
