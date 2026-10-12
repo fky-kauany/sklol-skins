@@ -1,4 +1,12 @@
 {
+	"12371234asd": {
+		"name": "12371234asd",
+		"avatar": "creators/12371234asd.webp?v=8adceb85",
+		"bio": "arclyris/ascilia side account used to post commissioned mods. check out my main page here \n\nhttps://divineskins.gg/archlyris",
+		"links": {
+			"discord": "https://discord.gg/yaByNwaxsP"
+		}
+	},
 	"azerkan67": {
 		"name": "azerkan67",
 		"bio": "Ping me on dc @azerkan67 /\n\ncommi or issues",
@@ -22,10 +30,28 @@
 			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 		}
 	},
+	"ikiryou": {
+		"name": "ikiryou",
+		"avatar": "creators/ikiryou.webp?v=2075acf6",
+		"bio": "sup\n\nbeen making custom skins for 3yrs\n\n\nhmu on discord if youre interested in commissioning me",
+		"links": {
+			"discord": "https://discord.com/users/785697456473243649",
+			"kofi": "https://ko-fi.com/ikiry0u"
+		}
+	},
 	"keduox": {
 		"name": "Keduox",
 		"avatar": "creators/keduox.png?v=fefc17e7",
 		"links": {}
+	},
+	"konari": {
+		"name": "Konari",
+		"avatar": "creators/konari.webp?v=1028128d",
+		"bio": "\n\n# Welcome to Konari Lab Ch. 白夜こなり!\n\n\n\n\nI'm Konari, a little fox who came from the Land of the Moonlit Night, and the creator behind the cozy lab, Konari Lab.\n\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)",
+		"links": {
+			"discord": "https://discord.gg/EEjd7DHj5r",
+			"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png"
+		}
 	},
 	"mojkqueira": {
 		"name": "mojkqueira",
@@ -33,6 +59,19 @@
 		"bio": "among us https://www.youtube.com/@sr.fimosinha3631",
 		"links": {
 			"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
+		}
+	},
+	"mxdjid": {
+		"name": "mxdjid",
+		"avatar": "creators/mxdjid.webp?v=b8c43cbd",
+		"links": {}
+	},
+	"nyxns0": {
+		"name": "nyxns0",
+		"avatar": "creators/nyxns0.webp?v=6c4c7142",
+		"links": {
+			"discord": "https://discord.gg/vXHXVgv7qy",
+			"x": "https://x.com/Nyxns0"
 		}
 	},
 	"yliimh": {

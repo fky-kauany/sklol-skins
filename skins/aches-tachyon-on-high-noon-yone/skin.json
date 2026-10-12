@@ -1,0 +1,23 @@
+{
+	"id": "aches-tachyon-on-high-noon-yone",
+	"name": "Aches Tachyon on High noon Yone",
+	"champion": 777,
+	"base": 55,
+	"creator": "12371234asd",
+	"description": "---\n\n**Created by** [12371234asd](https://www.divineskins.gg/12371234asd)\n\n**Original:** https://www.divineskins.gg/12371234asd/aches-tachyon-on-high-noon-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aches-tachyon-on-high-noon-yone/thumb.webp?v=4edab5c7",
+	"file": {
+		"version": 1,
+		"asset": "aches-tachyon-on-high-noon-yone-v1.fantome",
+		"size": 814350,
+		"sha256": "8638bddb8371d27cb19b573a07db5eef2e24ef9be890e9b85d8b1f794b99f1a4"
+	},
+	"chromas": []
+}

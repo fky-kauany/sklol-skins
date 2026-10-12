@@ -1,0 +1,26 @@
+{
+	"id": "agnes-tachyon-locke",
+	"name": "Agnes Tachyon Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "Locke as Agnes Tachyon from Umamusume: Pretty Derby.\n\nSkin Features:\nCustom Model\nCustom Icon and Banner\n\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins Discord Server.\n\nMy Discord: @nyxns0\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/agnes-tachyon-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/agnes-tachyon-locke/thumb.webp?v=62f2fa5f",
+	"file": {
+		"version": 1,
+		"asset": "agnes-tachyon-locke-v1.fantome",
+		"size": 12373942,
+		"sha256": "e4a3bd96221bf98aeb0b49cd0566cc410840ae464777b50b023c432754ce398a"
+	},
+	"chromas": []
+}

@@ -1,7 +1,15 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-12T23:43:13.064Z",
+	"generatedAt": "2026-10-12T23:50:49.693Z",
 	"creators": {
+		"12371234asd": {
+			"name": "12371234asd",
+			"avatar": "creators/12371234asd.webp?v=8adceb85",
+			"bio": "arclyris/ascilia side account used to post commissioned mods. check out my main page here \n\nhttps://divineskins.gg/archlyris",
+			"links": {
+				"discord": "https://discord.gg/yaByNwaxsP"
+			}
+		},
 		"azerkan67": {
 			"name": "azerkan67",
 			"bio": "Ping me on dc @azerkan67 /\n\ncommi or issues",
@@ -25,10 +33,28 @@
 				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 			}
 		},
+		"ikiryou": {
+			"name": "ikiryou",
+			"avatar": "creators/ikiryou.webp?v=2075acf6",
+			"bio": "sup\n\nbeen making custom skins for 3yrs\n\n\nhmu on discord if youre interested in commissioning me",
+			"links": {
+				"discord": "https://discord.com/users/785697456473243649",
+				"kofi": "https://ko-fi.com/ikiry0u"
+			}
+		},
 		"keduox": {
 			"name": "Keduox",
 			"avatar": "creators/keduox.png?v=fefc17e7",
 			"links": {}
+		},
+		"konari": {
+			"name": "Konari",
+			"avatar": "creators/konari.webp?v=1028128d",
+			"bio": "\n\n# Welcome to Konari Lab Ch. 白夜こなり!\n\n\n\n\nI'm Konari, a little fox who came from the Land of the Moonlit Night, and the creator behind the cozy lab, Konari Lab.\n\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)",
+			"links": {
+				"discord": "https://discord.gg/EEjd7DHj5r",
+				"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png"
+			}
 		},
 		"mojkqueira": {
 			"name": "mojkqueira",
@@ -36,6 +62,19 @@
 			"bio": "among us https://www.youtube.com/@sr.fimosinha3631",
 			"links": {
 				"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
+			}
+		},
+		"mxdjid": {
+			"name": "mxdjid",
+			"avatar": "creators/mxdjid.webp?v=b8c43cbd",
+			"links": {}
+		},
+		"nyxns0": {
+			"name": "nyxns0",
+			"avatar": "creators/nyxns0.webp?v=6c4c7142",
+			"links": {
+				"discord": "https://discord.gg/vXHXVgv7qy",
+				"x": "https://x.com/Nyxns0"
 			}
 		},
 		"yliimh": {
@@ -198,6 +237,256 @@
 				"asset": "aatrox-aizen-v1.fantome",
 				"size": 19640567,
 				"sha256": "1100dc9307f5517a43a5b5107345915ae6461c39d45fe0b95bd68a657aa99582"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-asta",
+			"name": "Asta",
+			"champion": 266,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aatrox-asta/thumb.webp?v=a7f479e4",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-asta-v1.fantome",
+				"size": 11214162,
+				"sha256": "3565c4efac9a797bbfe49db0193f9b980f74f6a0403bc8032556a708c4613d55"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-bellion",
+			"name": "Bellion",
+			"champion": 266,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aatrox-bellion/thumb.webp?v=7307a062",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-bellion-v1.fantome",
+				"size": 18245379,
+				"sha256": "514145323f6c0e396eadc909ef7e7c66f5e31670069fb2f10cb10d68ffa0f798"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-shan-hai-scrolls",
+			"name": "Shan Hai Scrolls",
+			"champion": 266,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aatrox-shan-hai-scrolls/thumb.webp?v=3aae01d2",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-shan-hai-scrolls-v1.fantome",
+				"size": 16267499,
+				"sha256": "d03f88f46eddcc43815cf1ecba9a90c3a3aa476c5a3e9610845864185842d51b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-toji",
+			"name": "Toji",
+			"champion": 266,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aatrox-toji/thumb.webp?v=4a8bcedf",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-toji-v1.fantome",
+				"size": 5762664,
+				"sha256": "3d85409db27db0647b6a737874a03d4f155e3d171bc83139a7e1bc2849f9a552"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-trump",
+			"name": "Aatrox: Trump",
+			"champion": 266,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aatrox-trump/thumb.webp?v=ce878cdd",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-trump-v1.fantome",
+				"size": 1508908,
+				"sha256": "14d4f2df51828d34546a7449cd4472aa2b629a417eeb249f6b6d13e43badb79b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "abyssal-buccaneer-kled",
+			"name": "Abyssal Buccaneer Kled",
+			"champion": 240,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/abyssal-buccaneer-kled/thumb.webp?v=a8e09cb9",
+			"file": {
+				"version": 1,
+				"asset": "abyssal-buccaneer-kled-v1.fantome",
+				"size": 30083387,
+				"sha256": "fa170871c7198955acf8ae1609ec9f1652bf22cb778576b28015b540701a55de"
+			},
+			"chromas": []
+		},
+		{
+			"id": "acheron-yasuo",
+			"name": "Acheron Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/acheron-yasuo/thumb.webp?v=507fdfb3",
+			"file": {
+				"version": 1,
+				"asset": "acheron-yasuo-v1.fantome",
+				"size": 26128679,
+				"sha256": "7ff1ece159afc38f63b850483adfb637ec487a2a659b02296e43796b90c337e6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aches-tachyon-on-high-noon-yone",
+			"name": "Aches Tachyon on High noon Yone",
+			"champion": 777,
+			"base": 55,
+			"creator": "12371234asd",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aches-tachyon-on-high-noon-yone/thumb.webp?v=4edab5c7",
+			"file": {
+				"version": 1,
+				"asset": "aches-tachyon-on-high-noon-yone-v1.fantome",
+				"size": 814350,
+				"sha256": "8638bddb8371d27cb19b573a07db5eef2e24ef9be890e9b85d8b1f794b99f1a4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aemeath-talon",
+			"name": "Aemeath Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aemeath-talon/thumb.webp?v=a163bfa8",
+			"file": {
+				"version": 1,
+				"asset": "aemeath-talon-v1.fantome",
+				"size": 16455992,
+				"sha256": "5d072ff95a6802ffe509f4eb86d90eccb8092d292ec89483dd38723ccc23fade"
+			},
+			"chromas": []
+		},
+		{
+			"id": "agnes-tachyon-locke",
+			"name": "Agnes Tachyon Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/agnes-tachyon-locke/thumb.webp?v=62f2fa5f",
+			"file": {
+				"version": 1,
+				"asset": "agnes-tachyon-locke-v1.fantome",
+				"size": 12373942,
+				"sha256": "e4a3bd96221bf98aeb0b49cd0566cc410840ae464777b50b023c432754ce398a"
 			},
 			"chromas": []
 		},

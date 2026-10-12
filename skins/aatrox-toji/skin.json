@@ -1,0 +1,25 @@
+{
+	"id": "aatrox-toji",
+	"name": "Toji",
+	"champion": 266,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/toji-aatrox\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aatrox-toji/thumb.webp?v=4a8bcedf",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-toji-v1.fantome",
+		"size": 5762664,
+		"sha256": "3d85409db27db0647b6a737874a03d4f155e3d171bc83139a7e1bc2849f9a552"
+	},
+	"chromas": []
+}

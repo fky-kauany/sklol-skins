@@ -1,0 +1,23 @@
+{
+	"id": "aatrox-trump",
+	"name": "Aatrox: Trump",
+	"champion": 266,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "Take over the rift\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/aatrox-trump\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aatrox-trump/thumb.webp?v=ce878cdd",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-trump-v1.fantome",
+		"size": 1508908,
+		"sha256": "14d4f2df51828d34546a7449cd4472aa2b629a417eeb249f6b6d13e43badb79b"
+	},
+	"chromas": []
+}

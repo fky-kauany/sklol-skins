@@ -1,0 +1,24 @@
+{
+	"id": "aatrox-asta",
+	"name": "Asta",
+	"champion": 266,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Asta Aatrox • Custom model • Custom Abilities • Works on every Aatrox skin • Demon form on Ult\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/asta-aatrox\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aatrox-asta/thumb.webp?v=a7f479e4",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-asta-v1.fantome",
+		"size": 11214162,
+		"sha256": "3565c4efac9a797bbfe49db0193f9b980f74f6a0403bc8032556a708c4613d55"
+	},
+	"chromas": []
+}

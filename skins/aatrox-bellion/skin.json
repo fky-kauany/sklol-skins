@@ -1,0 +1,26 @@
+{
+	"id": "aatrox-bellion",
+	"name": "Bellion",
+	"champion": 266,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Bellion Aatrox\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Aatrox skin\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/bellion-aatrox\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aatrox-bellion/thumb.webp?v=7307a062",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-bellion-v1.fantome",
+		"size": 18245379,
+		"sha256": "514145323f6c0e396eadc909ef7e7c66f5e31670069fb2f10cb10d68ffa0f798"
+	},
+	"chromas": []
+}

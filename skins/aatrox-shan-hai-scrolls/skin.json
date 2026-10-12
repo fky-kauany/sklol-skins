@@ -1,0 +1,25 @@
+{
+	"id": "aatrox-shan-hai-scrolls",
+	"name": "Shan Hai Scrolls",
+	"champion": 266,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/shan-hai-scrolls-aatrox\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aatrox-shan-hai-scrolls/thumb.webp?v=3aae01d2",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-shan-hai-scrolls-v1.fantome",
+		"size": 16267499,
+		"sha256": "d03f88f46eddcc43815cf1ecba9a90c3a3aa476c5a3e9610845864185842d51b"
+	},
+	"chromas": []
+}

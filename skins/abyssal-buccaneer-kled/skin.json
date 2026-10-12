@@ -1,0 +1,26 @@
+{
+	"id": "abyssal-buccaneer-kled",
+	"name": "Abyssal Buccaneer Kled",
+	"champion": 240,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "**Abyssal Buccaneer Kled**\n\n• Replaced for all SKIN/Chromas\n• Custom Model\n• Custom Abilities\n• Custom Animations\n• Custom FX\n\n---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/abyssal-buccaneer-kled\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/abyssal-buccaneer-kled/thumb.webp?v=a8e09cb9",
+	"file": {
+		"version": 1,
+		"asset": "abyssal-buccaneer-kled-v1.fantome",
+		"size": 30083387,
+		"sha256": "fa170871c7198955acf8ae1609ec9f1652bf22cb778576b28015b540701a55de"
+	},
+	"chromas": []
+}

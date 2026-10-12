@@ -1,0 +1,26 @@
+{
+	"id": "aemeath-talon",
+	"name": "Aemeath Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "COM FOR Khemarasam my goat\n\n\nCustom VFX VO ANIM MODEL \n\n**COMMISION ME ON DISCORD @ceerel**\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/aemeath-talon\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aemeath-talon/thumb.webp?v=a163bfa8",
+	"file": {
+		"version": 1,
+		"asset": "aemeath-talon-v1.fantome",
+		"size": 16455992,
+		"sha256": "5d072ff95a6802ffe509f4eb86d90eccb8092d292ec89483dd38723ccc23fade"
+	},
+	"chromas": []
+}
