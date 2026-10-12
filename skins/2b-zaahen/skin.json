@@ -1,0 +1,26 @@
+{
+	"id": "2b-zaahen",
+	"name": "2B zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "What changed??\r\nVoice over\r\nModel\r\nVfx\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/2b-zaahen\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/2b-zaahen/thumb.webp?v=3e66973c",
+	"file": {
+		"version": 1,
+		"asset": "2b-zaahen-v1.fantome",
+		"size": 25499965,
+		"sha256": "69c105c54c39f3ac3b01371cd2b4d2219cd1976649bc78979db7548ce07969e7"
+	},
+	"chromas": []
+}

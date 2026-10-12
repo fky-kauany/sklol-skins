@@ -1,7 +1,15 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-12T23:40:40.983Z",
+	"generatedAt": "2026-10-12T23:43:13.064Z",
 	"creators": {
+		"azerkan67": {
+			"name": "azerkan67",
+			"bio": "Ping me on dc @azerkan67 /\n\ncommi or issues",
+			"links": {
+				"kofi": "https://ko-fi.com/azerkan",
+				"youtube": "https://www.youtube.com/c/Xazerkan67X/"
+			}
+		},
 		"ceerel": {
 			"name": "ceerel",
 			"avatar": "creators/ceerel.webp?v=72038c18",
@@ -9,6 +17,18 @@
 			"links": {
 				"youtube": "https://www.youtube.com/@adcx9gonext"
 			}
+		},
+		"frog": {
+			"name": "Frog",
+			"bio": "XD",
+			"links": {
+				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
+			}
+		},
+		"keduox": {
+			"name": "Keduox",
+			"avatar": "creators/keduox.png?v=fefc17e7",
+			"links": {}
 		},
 		"mojkqueira": {
 			"name": "mojkqueira",
@@ -54,6 +74,58 @@
 			"chromas": []
 		},
 		{
+			"id": "2b-katarina",
+			"name": "2B Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/2b-katarina/thumb.webp?v=99e04a49",
+			"file": {
+				"version": 1,
+				"asset": "2b-katarina-v1.fantome",
+				"size": 17820699,
+				"sha256": "e5eedc56beacb8832842a4711571f8e69ebe5b9c991af6737be915527d3e9ada"
+			},
+			"chromas": []
+		},
+		{
+			"id": "2b-zaahen",
+			"name": "2B zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/2b-zaahen/thumb.webp?v=3e66973c",
+			"file": {
+				"version": 1,
+				"asset": "2b-zaahen-v1.fantome",
+				"size": 25499965,
+				"sha256": "69c105c54c39f3ac3b01371cd2b4d2219cd1976649bc78979db7548ce07969e7"
+			},
+			"chromas": []
+		},
+		{
 			"id": "2xko-caitlyn",
 			"name": "2XKO caitlyn",
 			"champion": 51,
@@ -75,6 +147,57 @@
 				"asset": "2xko-caitlyn-v1.fantome",
 				"size": 11660540,
 				"sha256": "bc0ad5a20b7461a7885219a166219bb4c27fefd72048dfcd92de187687bc2d28"
+			},
+			"chromas": []
+		},
+		{
+			"id": "67-veigar",
+			"name": "67 VEIGAR",
+			"champion": 45,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/67-veigar/thumb.webp?v=d6da708c",
+			"file": {
+				"version": 1,
+				"asset": "67-veigar-v1.fantome",
+				"size": 49945664,
+				"sha256": "e90ac459cd856f6ab7e1071310e81c7268399fd96c58a01895e45887ffa2ed95"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-aizen",
+			"name": "Aizen",
+			"champion": 266,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aatrox-aizen/thumb.webp?v=4898d03d",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-aizen-v1.fantome",
+				"size": 19640567,
+				"sha256": "1100dc9307f5517a43a5b5107345915ae6461c39d45fe0b95bd68a657aa99582"
 			},
 			"chromas": []
 		},

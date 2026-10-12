@@ -1,4 +1,12 @@
 {
+	"azerkan67": {
+		"name": "azerkan67",
+		"bio": "Ping me on dc @azerkan67 /\n\ncommi or issues",
+		"links": {
+			"kofi": "https://ko-fi.com/azerkan",
+			"youtube": "https://www.youtube.com/c/Xazerkan67X/"
+		}
+	},
 	"ceerel": {
 		"name": "ceerel",
 		"avatar": "creators/ceerel.webp?v=72038c18",
@@ -6,6 +14,18 @@
 		"links": {
 			"youtube": "https://www.youtube.com/@adcx9gonext"
 		}
+	},
+	"frog": {
+		"name": "Frog",
+		"bio": "XD",
+		"links": {
+			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
+		}
+	},
+	"keduox": {
+		"name": "Keduox",
+		"avatar": "creators/keduox.png?v=fefc17e7",
+		"links": {}
 	},
 	"mojkqueira": {
 		"name": "mojkqueira",

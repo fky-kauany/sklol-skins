@@ -1,0 +1,26 @@
+{
+	"id": "2b-katarina",
+	"name": "2B Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "frog",
+	"description": "The perfect android assassin has arrived. This custom **2B Katarina** skin transforms the Sinister Blade into YoRHa's deadliest operative. With her iconic blindfold, sleek combat attire, and razor-sharp blades, you'll feel the precision of a machine as you blink through enemies and unleash a whirlwind of destruction. This is the ultimate skin for players who value elegance and lethal efficiency.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/2b-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/2b-katarina/thumb.webp?v=99e04a49",
+	"file": {
+		"version": 1,
+		"asset": "2b-katarina-v1.fantome",
+		"size": 17820699,
+		"sha256": "e5eedc56beacb8832842a4711571f8e69ebe5b9c991af6737be915527d3e9ada"
+	},
+	"chromas": []
+}

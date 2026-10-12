@@ -1,0 +1,26 @@
+{
+	"id": "67-veigar",
+	"name": "67 VEIGAR",
+	"champion": 45,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "- CTRL +1 TUNGTUNG SAHUR / Cappuccino Assassino\r\n- CTRL +2 Trallalero Trallalla (need first ctrl +1 to Cappucino then its work)\r\n- CTRL +2 swap back to 67\r\n- CTRL +3 HAT\r\n\r\n- Q Stacks buffs :\r\n\r\n- 6 stacks (tuntung staff) / 7 stacks FX / 67 stacks FX + HAT\r\n---\r\n\r\n• Replaced for all SKIN/Chromas\r\n• Custom Model\r\n• Custom Abilities\r\n• Custom Animations\r\n• Custom FX\r\n\r\n---\r\n### 🩷Like the mod ?\r\n\r\n❤️‍🔥Help me on more projects at [ko-fi\r\n](https://ko-fi.com/azerkan)\r\n\r\nFan-made, not affiliated with Riot Games or any other company.\n\n---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/67-veigar\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/67-veigar/thumb.webp?v=d6da708c",
+	"file": {
+		"version": 1,
+		"asset": "67-veigar-v1.fantome",
+		"size": 49945664,
+		"sha256": "e90ac459cd856f6ab7e1071310e81c7268399fd96c58a01895e45887ffa2ed95"
+	},
+	"chromas": []
+}
