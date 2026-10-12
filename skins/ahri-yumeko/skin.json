@@ -1,0 +1,26 @@
+{
+	"id": "ahri-yumeko",
+	"name": "Yumeko",
+	"champion": 103,
+	"base": 0,
+	"creator": "frog",
+	"description": "Yumeko Ahri\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Ahri skin\r\n• Custom Voiceover of Yumeko\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/yumeko-ahri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ahri-yumeko/thumb.webp?v=c7402685",
+	"file": {
+		"version": 1,
+		"asset": "ahri-yumeko-v1.fantome",
+		"size": 20802202,
+		"sha256": "725aaf311a8dd3a14f72a7d5e7918686dbfd8dfa4e51e024e337be20f928163e"
+	},
+	"chromas": []
+}

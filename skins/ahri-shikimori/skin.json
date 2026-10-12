@@ -1,0 +1,26 @@
+{
+	"id": "ahri-shikimori",
+	"name": "Ahri Shikimori",
+	"champion": 103,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MIYAKO SHIKIMORI 」\n### *Replaces Ahri*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ahri-shikimori\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ahri-shikimori/thumb.webp?v=124cf3f7",
+	"file": {
+		"version": 1,
+		"asset": "ahri-shikimori-v1.fantome",
+		"size": 100178048,
+		"sha256": "362390d3d129779f04daf0ac1b8af8bc1c10fb08746fe2ce3388f5e427772beb"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "aizen-viego",
+	"name": "Aizen Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "**A wonderful com for @no.sanity.f.**\n\nCOMMISION ME IN DISCORD @ceerel\n\n*Works on all viego skins*\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/aizen-viego\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aizen-viego/thumb.webp?v=2da62ad1",
+	"file": {
+		"version": 1,
+		"asset": "aizen-viego-v1.fantome",
+		"size": 52857926,
+		"sha256": "b7bb363d61c4793c02b522fbfca2da75fc2731c541645f2a138ac64753753ef8"
+	},
+	"chromas": []
+}

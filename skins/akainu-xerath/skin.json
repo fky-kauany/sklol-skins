@@ -1,0 +1,26 @@
+{
+	"id": "akainu-xerath",
+	"name": "Akainu Xerath",
+	"champion": 101,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "### 📌 Mod Info\n**Type:** Custom Skin\n**Modified Skin(s):** All skins\n\n**Features:**\n- Custom model\n- Custom VFX\n- Custom SFX\n- Custom Animations\n\n\n\n**Commissioned by:** Skouz\n\n\n\n*Fan-made, not affiliated with Riot Games, Nintendo or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/akainu-xerath\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akainu-xerath/thumb.webp?v=d2ad25d7",
+	"file": {
+		"version": 1,
+		"asset": "akainu-xerath-v1.fantome",
+		"size": 14446007,
+		"sha256": "373053e3450742c4c07bbb953e14aa64065a59e5dbbb24137e4f12e4a8736db1"
+	},
+	"chromas": []
+}

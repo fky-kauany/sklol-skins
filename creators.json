@@ -44,6 +44,11 @@
 		"avatar": "creators/keduox.png?v=fefc17e7",
 		"links": {}
 	},
+	"kesa": {
+		"name": "kesa",
+		"avatar": "creators/kesa.webp?v=25b19952",
+		"links": {}
+	},
 	"konari": {
 		"name": "Konari",
 		"avatar": "creators/konari.webp?v=1028128d",
@@ -79,6 +84,14 @@
 		"bio": "https://www.twitch.tv/yliimh",
 		"links": {
 			"twitch": "https://www.twitch.tv/yliimh"
+		}
+	},
+	"youtzooooo": {
+		"name": "youtzooooo",
+		"avatar": "creators/youtzooooo.png?v=dac40698",
+		"bio": ":)",
+		"links": {
+			"discord": "https://discord.com/invite/AKCjefCcMK"
 		}
 	}
 }

@@ -1,0 +1,25 @@
+{
+	"id": "ahri-carrot",
+	"name": "Carrot",
+	"champion": 103,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/carrot-ahri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ahri-carrot/thumb.webp?v=01c7c5c1",
+	"file": {
+		"version": 1,
+		"asset": "ahri-carrot-v1.fantome",
+		"size": 20672490,
+		"sha256": "855883333b231bbf81e05a4a7764074a74813ef0b2cae3f0e03a48e17c4bbc13"
+	},
+	"chromas": []
+}

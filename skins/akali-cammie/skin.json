@@ -1,0 +1,26 @@
+{
+	"id": "akali-cammie",
+	"name": "Akali Cammie",
+	"champion": 84,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 CAMIE UTSUSHIMI 」\r\n### *Replaces Akali*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/akali-cammie\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akali-cammie/thumb.webp?v=9235fa1a",
+	"file": {
+		"version": 1,
+		"asset": "akali-cammie-v1.fantome",
+		"size": 37944236,
+		"sha256": "a3fb174694e6e6384addf49d9a638c168f666c6a6b7a290f2f1e9c6d71b5b872"
+	},
+	"chromas": []
+}

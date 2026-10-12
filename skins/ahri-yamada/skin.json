@@ -1,0 +1,26 @@
+{
+	"id": "ahri-yamada",
+	"name": "Ahri Yamada",
+	"champion": 103,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 YAMADA ANNA 」\r\n### *Replaces Ahri*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ahri-yamada\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ahri-yamada/thumb.webp?v=eb57a3ea",
+	"file": {
+		"version": 1,
+		"asset": "ahri-yamada-v1.fantome",
+		"size": 15708908,
+		"sha256": "05fa6cea5af32f1855ef9afa5ccaa3ddd4ce3ce0b82f693d6007bad72646404b"
+	},
+	"chromas": []
+}

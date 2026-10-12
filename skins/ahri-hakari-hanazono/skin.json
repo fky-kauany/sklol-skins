@@ -1,0 +1,26 @@
+{
+	"id": "ahri-hakari-hanazono",
+	"name": "Ahri Hakari Hanazono",
+	"champion": 103,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 HAKARI HANAZONO 」\n### *Replaces Ahri*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ahri-hakari-hanazono\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ahri-hakari-hanazono/thumb.webp?v=bbd2957e",
+	"file": {
+		"version": 1,
+		"asset": "ahri-hakari-hanazono-v1.fantome",
+		"size": 14635814,
+		"sha256": "0dfe2be044709acb5804e0d85bdc01eefdc8d53bf1ec1ac3a92afabff2db7235"
+	},
+	"chromas": []
+}

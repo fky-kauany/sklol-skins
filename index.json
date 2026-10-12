@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-12T23:50:49.693Z",
+	"generatedAt": "2026-10-12T23:56:02.464Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -47,6 +47,11 @@
 			"avatar": "creators/keduox.png?v=fefc17e7",
 			"links": {}
 		},
+		"kesa": {
+			"name": "kesa",
+			"avatar": "creators/kesa.webp?v=25b19952",
+			"links": {}
+		},
 		"konari": {
 			"name": "Konari",
 			"avatar": "creators/konari.webp?v=1028128d",
@@ -82,6 +87,14 @@
 			"bio": "https://www.twitch.tv/yliimh",
 			"links": {
 				"twitch": "https://www.twitch.tv/yliimh"
+			}
+		},
+		"youtzooooo": {
+			"name": "youtzooooo",
+			"avatar": "creators/youtzooooo.png?v=dac40698",
+			"bio": ":)",
+			"links": {
+				"discord": "https://discord.com/invite/AKCjefCcMK"
 			}
 		}
 	},
@@ -487,6 +500,265 @@
 				"asset": "agnes-tachyon-locke-v1.fantome",
 				"size": 12373942,
 				"sha256": "e4a3bd96221bf98aeb0b49cd0566cc410840ae464777b50b023c432754ce398a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ahri-carrot",
+			"name": "Carrot",
+			"champion": 103,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ahri-carrot/thumb.webp?v=01c7c5c1",
+			"file": {
+				"version": 1,
+				"asset": "ahri-carrot-v1.fantome",
+				"size": 20672490,
+				"sha256": "855883333b231bbf81e05a4a7764074a74813ef0b2cae3f0e03a48e17c4bbc13"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ahri-hakari-hanazono",
+			"name": "Ahri Hakari Hanazono",
+			"champion": 103,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ahri-hakari-hanazono/thumb.webp?v=bbd2957e",
+			"file": {
+				"version": 1,
+				"asset": "ahri-hakari-hanazono-v1.fantome",
+				"size": 14635814,
+				"sha256": "0dfe2be044709acb5804e0d85bdc01eefdc8d53bf1ec1ac3a92afabff2db7235"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ahri-miku-nakano",
+			"name": "Ahri Miku Nakano",
+			"champion": 103,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ahri-miku-nakano/thumb.webp?v=d1c1a7df",
+			"file": {
+				"version": 1,
+				"asset": "ahri-miku-nakano-v1.fantome",
+				"size": 44394392,
+				"sha256": "b4bb1d732d6863181253d344c4df7bc9bcc549ce27d15d93dd4f28e6a120882a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ahri-shikimori",
+			"name": "Ahri Shikimori",
+			"champion": 103,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ahri-shikimori/thumb.webp?v=124cf3f7",
+			"file": {
+				"version": 1,
+				"asset": "ahri-shikimori-v1.fantome",
+				"size": 100178048,
+				"sha256": "362390d3d129779f04daf0ac1b8af8bc1c10fb08746fe2ce3388f5e427772beb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ahri-yamada",
+			"name": "Ahri Yamada",
+			"champion": 103,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ahri-yamada/thumb.webp?v=eb57a3ea",
+			"file": {
+				"version": 1,
+				"asset": "ahri-yamada-v1.fantome",
+				"size": 15708908,
+				"sha256": "05fa6cea5af32f1855ef9afa5ccaa3ddd4ce3ce0b82f693d6007bad72646404b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ahri-yumeko",
+			"name": "Yumeko",
+			"champion": 103,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ahri-yumeko/thumb.webp?v=c7402685",
+			"file": {
+				"version": 1,
+				"asset": "ahri-yumeko-v1.fantome",
+				"size": 20802202,
+				"sha256": "725aaf311a8dd3a14f72a7d5e7918686dbfd8dfa4e51e024e337be20f928163e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aizen-sosuke-tybw-vladimir",
+			"name": "Aizen Sosuke (TYBW) - Vladimir",
+			"champion": 8,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aizen-sosuke-tybw-vladimir/thumb.webp?v=0719ae54",
+			"file": {
+				"version": 1,
+				"asset": "aizen-sosuke-tybw-vladimir-v1.fantome",
+				"size": 16324093,
+				"sha256": "a801d5597a6a70c4563a044b1bc3a6c1315d371cdbd315c1329f33b29ef23a25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aizen-viego",
+			"name": "Aizen Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aizen-viego/thumb.webp?v=2da62ad1",
+			"file": {
+				"version": 1,
+				"asset": "aizen-viego-v1.fantome",
+				"size": 52857926,
+				"sha256": "b7bb363d61c4793c02b522fbfca2da75fc2731c541645f2a138ac64753753ef8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akainu-xerath",
+			"name": "Akainu Xerath",
+			"champion": 101,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akainu-xerath/thumb.webp?v=d2ad25d7",
+			"file": {
+				"version": 1,
+				"asset": "akainu-xerath-v1.fantome",
+				"size": 14446007,
+				"sha256": "373053e3450742c4c07bbb953e14aa64065a59e5dbbb24137e4f12e4a8736db1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-cammie",
+			"name": "Akali Cammie",
+			"champion": 84,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akali-cammie/thumb.webp?v=9235fa1a",
+			"file": {
+				"version": 1,
+				"asset": "akali-cammie-v1.fantome",
+				"size": 37944236,
+				"sha256": "a3fb174694e6e6384addf49d9a638c168f666c6a6b7a290f2f1e9c6d71b5b872"
 			},
 			"chromas": []
 		},
