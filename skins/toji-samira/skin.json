@@ -1,0 +1,26 @@
+{
+	"id": "toji-samira",
+	"name": "Toji Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Made by LeBlanco\n\nEnjoy!\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/toji-samira\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/toji-samira/thumb.webp?v=c938df4b",
+	"file": {
+		"version": 1,
+		"asset": "toji-samira-v1.fantome",
+		"size": 19680348,
+		"sha256": "4fa655634e66097f793d87d8b58af4dc8be7cb7625ba1b85dc731a4c2f757c6e"
+	},
+	"chromas": []
+}

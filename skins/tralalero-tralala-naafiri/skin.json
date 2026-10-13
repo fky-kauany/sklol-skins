@@ -1,0 +1,24 @@
+{
+	"id": "tralalero-tralala-naafiri",
+	"name": "Tralalero Tralala Naafiri",
+	"champion": 950,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Made by Frog\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/tralalero-tralala-naafiri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tralalero-tralala-naafiri/thumb.webp?v=c5e466cb",
+	"file": {
+		"version": 1,
+		"asset": "tralalero-tralala-naafiri-v1.fantome",
+		"size": 8079128,
+		"sha256": "c033e8fb89862b1f53c1f3375d12da3fd37db464f92b7bbc49f5921e8436e0ce"
+	},
+	"chromas": []
+}

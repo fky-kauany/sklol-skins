@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:56:40.764Z",
+	"generatedAt": "2026-10-13T06:59:58.191Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -324,6 +324,11 @@
 				"discord": "https://discord.com/users/785697456473243649",
 				"kofi": "https://ko-fi.com/ikiry0u"
 			}
+		},
+		"itskazen": {
+			"name": "ItsKazen",
+			"avatar": "creators/itskazen.webp?v=bd38d87c",
+			"links": {}
 		},
 		"jaku3": {
 			"name": "jaku3",
@@ -19048,6 +19053,256 @@
 				"asset": "tohsakarin-katarina-v1.fantome",
 				"size": 2388856,
 				"sha256": "34d7f3279500596929ac4ac0756da5818653b8a419131f5bf77834bf7d5add73"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toji-fushiguro-samira",
+			"name": "Toji Fushiguro Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/toji-fushiguro-samira/thumb.webp?v=8cd1a7e2",
+			"file": {
+				"version": 1,
+				"asset": "toji-fushiguro-samira-v1.fantome",
+				"size": 27990762,
+				"sha256": "471b90fd13b20a7897f34ecceb5654a0bbf9ff07c61b276e33c4a34ce63ef5dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toji-samira",
+			"name": "Toji Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/toji-samira/thumb.webp?v=c938df4b",
+			"file": {
+				"version": 1,
+				"asset": "toji-samira-v1.fantome",
+				"size": 19680348,
+				"sha256": "4fa655634e66097f793d87d8b58af4dc8be7cb7625ba1b85dc731a4c2f757c6e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toki-yunara-blue-archive-wip",
+			"name": "Toki Yunara (Blue Archive) WIP",
+			"champion": 804,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/toki-yunara-blue-archive-wip/thumb.webp?v=caf5fb5f",
+			"file": {
+				"version": 1,
+				"asset": "toki-yunara-blue-archive-wip-v1.fantome",
+				"size": 9241262,
+				"sha256": "6cf7d4400af8f7824a81690dc37caf1912277dd3f58ef24a4b3224fcbf7c066b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tommy-vercetti-lucian",
+			"name": "Tommy Vercetti Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tommy-vercetti-lucian/thumb.webp?v=83ab6059",
+			"file": {
+				"version": 1,
+				"asset": "tommy-vercetti-lucian-v1.fantome",
+				"size": 5154592,
+				"sha256": "406dad421cdd7f8ead5ad08a98dba9f0b2b2d04dd73972106a1ba7011e8b9f5a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tommy-vercetti-vayne",
+			"name": "Tommy Vercetti Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tommy-vercetti-vayne/thumb.webp?v=d34ca645",
+			"file": {
+				"version": 1,
+				"asset": "tommy-vercetti-vayne-v1.fantome",
+				"size": 2256028,
+				"sha256": "4fa935523d9b1a6210ff9d7d2842e4df1dc751dbdb737f64a0a0faa1df43129a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toothless-smolder",
+			"name": "Toothless Smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/toothless-smolder/thumb.webp?v=e2648c25",
+			"file": {
+				"version": 1,
+				"asset": "toothless-smolder-v1.fantome",
+				"size": 14186106,
+				"sha256": "c3ed91e208f4eb9d19b7783aaf2e9507f819010231064457aec84afcff1cc2fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "topaz-kindred",
+			"name": "Topaz Kindred",
+			"champion": 203,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/topaz-kindred/thumb.webp?v=e35e0c12",
+			"file": {
+				"version": 1,
+				"asset": "topaz-kindred-v1.fantome",
+				"size": 4819133,
+				"sha256": "112dfa533591fbc5904737479ff180ed07528474d67f84784a68a66ac604eb61"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toph-yunara",
+			"name": "Toph Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/toph-yunara/thumb.webp?v=11a8bd53",
+			"file": {
+				"version": 1,
+				"asset": "toph-yunara-v1.fantome",
+				"size": 6386089,
+				"sha256": "003c334e9ab0e603881bb688e597cd79f3a757c4a37bebce8f835cd0f76765a9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "touka-kirishima-kai-sa",
+			"name": "Touka Kirishima - Kai'sa",
+			"champion": 145,
+			"base": 0,
+			"creator": "itskazen",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/touka-kirishima-kai-sa/thumb.webp?v=785ab67b",
+			"file": {
+				"version": 1,
+				"asset": "touka-kirishima-kai-sa-v1.fantome",
+				"size": 4293886,
+				"sha256": "9505f9cb3578ec757ac06b4171be2cbd12010a32ac9006c606c1da8da4e4e7a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tralalero-tralala-naafiri",
+			"name": "Tralalero Tralala Naafiri",
+			"champion": 950,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tralalero-tralala-naafiri/thumb.webp?v=c5e466cb",
+			"file": {
+				"version": 1,
+				"asset": "tralalero-tralala-naafiri-v1.fantome",
+				"size": 8079128,
+				"sha256": "c033e8fb89862b1f53c1f3375d12da3fd37db464f92b7bbc49f5921e8436e0ce"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,24 @@
+{
+	"id": "tommy-vercetti-vayne",
+	"name": "Tommy Vercetti Vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Vayne\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/tommy-vercetti-vayne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tommy-vercetti-vayne/thumb.webp?v=d34ca645",
+	"file": {
+		"version": 1,
+		"asset": "tommy-vercetti-vayne-v1.fantome",
+		"size": 2256028,
+		"sha256": "4fa935523d9b1a6210ff9d7d2842e4df1dc751dbdb737f64a0a0faa1df43129a"
+	},
+	"chromas": []
+}

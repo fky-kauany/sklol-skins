@@ -1,0 +1,26 @@
+{
+	"id": "toothless-smolder",
+	"name": "Toothless Smolder",
+	"champion": 901,
+	"base": 0,
+	"creator": "czcz",
+	"description": "TOOTHLESS FROM HOW TO TRAIN YOUR DRAGON AS SMOLDER\ncomissioned by Cursed Puppet : P\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/toothless-smolder\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/toothless-smolder/thumb.webp?v=e2648c25",
+	"file": {
+		"version": 1,
+		"asset": "toothless-smolder-v1.fantome",
+		"size": 14186106,
+		"sha256": "c3ed91e208f4eb9d19b7783aaf2e9507f819010231064457aec84afcff1cc2fd"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "touka-kirishima-kai-sa",
+	"name": "Touka Kirishima - Kai'sa",
+	"champion": 145,
+	"base": 0,
+	"creator": "itskazen",
+	"description": "### 📌 Mod Info\r\n\r\n**Type:** Custom Skin\r\n**Champion:** Kai’Sa\r\n**Custom Character:** Touka Kirishima — *Tokyo Ghoul*\r\n**Modified Skin(s):** Base Kai’Sa\r\n\r\n### ✨ Features\r\n\r\n* Custom Touka Kirishima model\r\n* Custom textures\r\n* Custom rig & animations\r\n* Custom passive visuals\r\n* Custom ultimate zone\r\n* Custom in-game presentation inspired by *Tokyo Ghoul*\r\n\r\n### 🧾 Credits\r\n\r\n**Original Character:** Touka Kirishima — *Tokyo Ghoul*\r\n**Original Champion:** Kai’Sa — Riot Games\r\n\r\n### 💬 Additional Info\r\n\r\nFound a bug, visual issue, or have a suggestion? Feel free to contact me on Discord.\r\n\r\n*This is a fan-made modification created for entertainment purposes. It is not affiliated with, endorsed, sponsored, or approved by Riot Games, League of Legends, Tokyo Ghoul, or their respective rights holders.*\n\n---\n\n**Created by** [ItsKazen](https://www.divineskins.gg/ItsKazen)\n\n**Original:** https://www.divineskins.gg/ItsKazen/touka-kirishima-kaisa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/touka-kirishima-kai-sa/thumb.webp?v=785ab67b",
+	"file": {
+		"version": 1,
+		"asset": "touka-kirishima-kai-sa-v1.fantome",
+		"size": 4293886,
+		"sha256": "9505f9cb3578ec757ac06b4171be2cbd12010a32ac9006c606c1da8da4e4e7a1"
+	},
+	"chromas": []
+}

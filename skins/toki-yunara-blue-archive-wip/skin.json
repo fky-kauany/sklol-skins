@@ -1,0 +1,26 @@
+{
+	"id": "toki-yunara-blue-archive-wip",
+	"name": "Toki Yunara (Blue Archive) WIP",
+	"champion": 804,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/toki-yunara-blue-archive-wip\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/toki-yunara-blue-archive-wip/thumb.webp?v=caf5fb5f",
+	"file": {
+		"version": 1,
+		"asset": "toki-yunara-blue-archive-wip-v1.fantome",
+		"size": 9241262,
+		"sha256": "6cf7d4400af8f7824a81690dc37caf1912277dd3f58ef24a4b3224fcbf7c066b"
+	},
+	"chromas": []
+}

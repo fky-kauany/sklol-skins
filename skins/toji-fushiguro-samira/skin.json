@@ -1,0 +1,26 @@
+{
+	"id": "toji-fushiguro-samira",
+	"name": "Toji Fushiguro Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "mava",
+	"description": "Toji Fushiguro as Samira\nUse en_us for voice\n\n---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/toji-fushiguro-samira\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/toji-fushiguro-samira/thumb.webp?v=8cd1a7e2",
+	"file": {
+		"version": 1,
+		"asset": "toji-fushiguro-samira-v1.fantome",
+		"size": 27990762,
+		"sha256": "471b90fd13b20a7897f34ecceb5654a0bbf9ff07c61b276e33c4a34ce63ef5dc"
+	},
+	"chromas": []
+}

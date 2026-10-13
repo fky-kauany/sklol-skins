@@ -1,0 +1,25 @@
+{
+	"id": "tommy-vercetti-lucian",
+	"name": "Tommy Vercetti Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Lucian\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/tommy-vercetti-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tommy-vercetti-lucian/thumb.webp?v=83ab6059",
+	"file": {
+		"version": 1,
+		"asset": "tommy-vercetti-lucian-v1.fantome",
+		"size": 5154592,
+		"sha256": "406dad421cdd7f8ead5ad08a98dba9f0b2b2d04dd73972106a1ba7011e8b9f5a"
+	},
+	"chromas": []
+}

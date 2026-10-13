@@ -1,0 +1,24 @@
+{
+	"id": "toph-yunara",
+	"name": "Toph Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Toph Yunara\n\n### Features\n\n- **Custom Earthbender Model:** A complete, from-the-ground-up model designed to look just like Toph Beifong.\n- **Rock-Solid Custom Abilities:** All of Yunara's abilities have been re-themed with powerful new earth, stone, and dust visual effects (VFX).\n- **Universal Compatibility:** This mod is designed to work seamlessly with the base Yunara model and all of her official skins.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/toph-yunara\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/toph-yunara/thumb.webp?v=11a8bd53",
+	"file": {
+		"version": 1,
+		"asset": "toph-yunara-v1.fantome",
+		"size": 6386089,
+		"sha256": "003c334e9ab0e603881bb688e597cd79f3a757c4a37bebce8f835cd0f76765a9"
+	},
+	"chromas": []
+}
