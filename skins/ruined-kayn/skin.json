@@ -1,0 +1,24 @@
+{
+	"id": "ruined-kayn",
+	"name": "Ruined Kayn",
+	"champion": 141,
+	"base": 0,
+	"creator": "shelzy",
+	"description": "### ? Mod Info\n\n- Champion: Kayn\n- Modified skin: Default\n- Author: Shelzy\n\n### ? Additional Info\n\nIf you find any bug or want to give some feedback contact me in discord\n\n- shelzymadara\n\n---\n\n**Created by** [Shelzy](https://www.divineskins.gg/Shelzy)\n\n**Original:** https://www.divineskins.gg/Shelzy/ruined-kayn\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ruined-kayn/thumb.webp?v=f09d45e5",
+	"file": {
+		"version": 1,
+		"asset": "ruined-kayn-v1.fantome",
+		"size": 3018644,
+		"sha256": "09fbf6424435467d8d722715096c9cd35e6338e56693d5686700f3e3d1706955"
+	},
+	"chromas": []
+}

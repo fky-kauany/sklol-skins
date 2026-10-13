@@ -1,0 +1,26 @@
+{
+	"id": "robin-seraphine",
+	"name": "Robin - Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku), [DorkyRain](https://www.divineskins.gg/DorkyRain)\n\n**Original:** https://www.divineskins.gg/s0jaku/robin-seraphine\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/robin-seraphine/thumb.webp?v=9ba259c2",
+	"file": {
+		"version": 1,
+		"asset": "robin-seraphine-v1.fantome",
+		"size": 44073832,
+		"sha256": "de436a79edc399ac5d000ef5b819a1e87f23dc65b8ba526973763d42d90ccd7e"
+	},
+	"chromas": []
+}

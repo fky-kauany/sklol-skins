@@ -1,0 +1,26 @@
+{
+	"id": "ruined-queen-senna",
+	"name": "Ruined Queen Senna",
+	"champion": 235,
+	"base": 0,
+	"creator": "disco",
+	"description": "# Works on all skins enjoy!!!\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/ruined-queen-senna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ruined-queen-senna/thumb.webp?v=e6a758fc",
+	"file": {
+		"version": 1,
+		"asset": "ruined-queen-senna-v1.fantome",
+		"size": 12845392,
+		"sha256": "c4dd4a6e320461a2d7d2734d47da96485fc1d25308977a847e4046b1094855e9"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:43:07.106Z",
+	"generatedAt": "2026-10-13T05:46:37.083Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -13386,6 +13386,259 @@
 				"asset": "riven-maki-zenin-v1.fantome",
 				"size": 6328961,
 				"sha256": "d92fdb03ae6ccb106bbae489624ac17be3447d9cd363dbd189abcf647a30757a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-mita",
+			"name": "Mita",
+			"champion": 92,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/riven-mita/thumb.webp?v=45ba9871",
+			"file": {
+				"version": 1,
+				"asset": "riven-mita-v1.fantome",
+				"size": 10289531,
+				"sha256": "47ecb128e216049ca2903462ab665aed6cbd1591d846364ce31014c68992e1ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-tohka",
+			"name": "Riven Tohka",
+			"champion": 92,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/riven-tohka/thumb.webp?v=2f8a3b6b",
+			"file": {
+				"version": 1,
+				"asset": "riven-tohka-v1.fantome",
+				"size": 187375293,
+				"sha256": "0d071f06ffb339278639c120ed2f830c1838657f0490795ebde6a29041eeae66"
+			},
+			"chromas": []
+		},
+		{
+			"id": "robin-seraphine",
+			"name": "Robin - Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/robin-seraphine/thumb.webp?v=9ba259c2",
+			"file": {
+				"version": 1,
+				"asset": "robin-seraphine-v1.fantome",
+				"size": 44073832,
+				"sha256": "de436a79edc399ac5d000ef5b819a1e87f23dc65b8ba526973763d42d90ccd7e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ronald-mcdonald-shaco",
+			"name": "Ronald McDonald Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "dazashu",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ronald-mcdonald-shaco/thumb.webp?v=cb7fb4ff",
+			"file": {
+				"version": 1,
+				"asset": "ronald-mcdonald-shaco-v1.fantome",
+				"size": 631255,
+				"sha256": "555cc765d41235966ac0bb96b9a96530740b3861da135f52989892e7b9bb6272"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rossi-talon",
+			"name": "Rossi Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rossi-talon/thumb.webp?v=4b846e7f",
+			"file": {
+				"version": 1,
+				"asset": "rossi-talon-v1.fantome",
+				"size": 12971972,
+				"sha256": "3fdac652789a2e0396e2838d8a27a895b8a06626b3cff7c13446494a9dcc74a0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ruanmei-hwei",
+			"name": "RuanMei Hwei",
+			"champion": 910,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ruanmei-hwei/thumb.webp?v=56656621",
+			"file": {
+				"version": 1,
+				"asset": "ruanmei-hwei-v1.fantome",
+				"size": 13359326,
+				"sha256": "70c04343b06168a05d3311fa40d09143f093694ac7558dc25fbff845084c52cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ruby-rose-kayn-from-rwby",
+			"name": "Ruby Rose Kayn from RWBY",
+			"champion": 141,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ruby-rose-kayn-from-rwby/thumb.webp?v=ecde205b",
+			"file": {
+				"version": 1,
+				"asset": "ruby-rose-kayn-from-rwby-v1.fantome",
+				"size": 23952785,
+				"sha256": "577a2fbdcfa27d64bf580df100e23c02458148c1d7babd32bd3d0bb9d12b861f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ruined-kayn",
+			"name": "Ruined Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "shelzy",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ruined-kayn/thumb.webp?v=f09d45e5",
+			"file": {
+				"version": 1,
+				"asset": "ruined-kayn-v1.fantome",
+				"size": 3018644,
+				"sha256": "09fbf6424435467d8d722715096c9cd35e6338e56693d5686700f3e3d1706955"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ruined-queen-senna",
+			"name": "Ruined Queen Senna",
+			"champion": 235,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ruined-queen-senna/thumb.webp?v=e6a758fc",
+			"file": {
+				"version": 1,
+				"asset": "ruined-queen-senna-v1.fantome",
+				"size": 12845392,
+				"sha256": "c4dd4a6e320461a2d7d2734d47da96485fc1d25308977a847e4046b1094855e9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ruined-samira",
+			"name": "Ruined Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ruined-samira/thumb.webp?v=d99bd595",
+			"file": {
+				"version": 1,
+				"asset": "ruined-samira-v1.fantome",
+				"size": 24900998,
+				"sha256": "e527493549e6da6be2eaea8acd0433e5da2c5afb23414a438a914c99e7d4943e"
 			},
 			"chromas": []
 		},

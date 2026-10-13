@@ -1,0 +1,25 @@
+{
+	"id": "riven-mita",
+	"name": "Mita",
+	"champion": 92,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Mita Riven\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Riven skin\r\n• by Keudox\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/mita-riven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/riven-mita/thumb.webp?v=45ba9871",
+	"file": {
+		"version": 1,
+		"asset": "riven-mita-v1.fantome",
+		"size": 10289531,
+		"sha256": "47ecb128e216049ca2903462ab665aed6cbd1591d846364ce31014c68992e1ed"
+	},
+	"chromas": []
+}

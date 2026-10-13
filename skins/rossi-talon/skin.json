@@ -1,0 +1,26 @@
+{
+	"id": "rossi-talon",
+	"name": "Rossi Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\n\n* Champion: Talon\n* Modified skin: Default\n* Author: Konari Lab Ch. 白夜こなり\n\n## Specifications\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* New voiceover\n\n## Credits\n\n* Special Thanks to 是黑夜鸭 for advanced tips \n* Special Thanks to Frog for swaping code/recall stuffs \n* Special Thanks to gyeinjik for VFX\n\n\n## Known issues\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\n---\n💬 **Join Moonlit Night!**\nClick the banner below to join. Report bugs directly, and hang out with other players!\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\n---\n\n---\n\n**Created by** [Konari](https://www.divineskins.gg/Konari)\n\n**Original:** https://www.divineskins.gg/Konari/rossi-talon\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rossi-talon/thumb.webp?v=4b846e7f",
+	"file": {
+		"version": 1,
+		"asset": "rossi-talon-v1.fantome",
+		"size": 12971972,
+		"sha256": "3fdac652789a2e0396e2838d8a27a895b8a06626b3cff7c13446494a9dcc74a0"
+	},
+	"chromas": []
+}

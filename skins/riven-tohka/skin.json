@@ -1,0 +1,26 @@
+{
+	"id": "riven-tohka",
+	"name": "Riven Tohka",
+	"champion": 92,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 TOHKA YATOGAMI 」\n### *Replaces Riven*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/riven-tohka\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/riven-tohka/thumb.webp?v=2f8a3b6b",
+	"file": {
+		"version": 1,
+		"asset": "riven-tohka-v1.fantome",
+		"size": 187375293,
+		"sha256": "0d071f06ffb339278639c120ed2f830c1838657f0490795ebde6a29041eeae66"
+	},
+	"chromas": []
+}

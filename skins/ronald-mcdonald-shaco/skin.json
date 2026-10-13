@@ -1,0 +1,23 @@
+{
+	"id": "ronald-mcdonald-shaco",
+	"name": "Ronald McDonald Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "dazashu",
+	"description": "Ronald McDonald is originally made by [BaeckerSkins](https://www.youtube.com/BaeckerSkins)(the goat)\n\n---\n\n**Created by** [dazashu](https://www.divineskins.gg/dazashu)\n\n**Original:** https://www.divineskins.gg/dazashu/ronald-mcdonald-shaco\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ronald-mcdonald-shaco/thumb.webp?v=cb7fb4ff",
+	"file": {
+		"version": 1,
+		"asset": "ronald-mcdonald-shaco-v1.fantome",
+		"size": 631255,
+		"sha256": "555cc765d41235966ac0bb96b9a96530740b3861da135f52989892e7b9bb6272"
+	},
+	"chromas": []
+}
