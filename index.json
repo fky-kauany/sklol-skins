@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:46:01.706Z",
+	"generatedAt": "2026-10-13T02:49:16.956Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -10878,6 +10878,264 @@
 				"asset": "frostblade-talon-enduring-sword-talon-v1.modpkg",
 				"size": 9280764,
 				"sha256": "d6a749cf9ca4a447dcc09b9383a7758c5606690603d34eb4fa8b36bc445cdbdf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "frozen-locke",
+			"name": "Frozen Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/frozen-locke/thumb.webp?v=543d662b",
+			"file": {
+				"version": 1,
+				"asset": "frozen-locke-v1.fantome",
+				"size": 10854934,
+				"sha256": "dd06d0aff3c3105457cd50962930de3bf0a87fea4bf3a0ca850ee183d243abb5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fuhua-zed",
+			"name": "FuHua Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fuhua-zed/thumb.webp?v=995e3e85",
+			"file": {
+				"version": 1,
+				"asset": "fuhua-zed-v1.fantome",
+				"size": 13781164,
+				"sha256": "b5bfc64192b97efc40029ad7bbd8ecab06dd9f098565103de5891b5dd0b4e26f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "furina-jhin",
+			"name": "Furina Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/furina-jhin/thumb.webp?v=70f28663",
+			"file": {
+				"version": 1,
+				"asset": "furina-jhin-v1.fantome",
+				"size": 17917320,
+				"sha256": "adff276f2342b4f5df3c8bf9e6813e39aabde5100dca8027dc728c04ca3ccf25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fuxuan-thresh",
+			"name": "FuXuan Thresh",
+			"champion": 412,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fuxuan-thresh/thumb.webp?v=b1549e0d",
+			"file": {
+				"version": 1,
+				"asset": "fuxuan-thresh-v1.fantome",
+				"size": 17638047,
+				"sha256": "6a169904d825102a9dafa960a51a011f1c3baba855d8f30014baa7cf6aa0e2f9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galbrena-samira",
+			"name": "Galbrena Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/galbrena-samira/thumb.webp?v=f0aa8449",
+			"file": {
+				"version": 1,
+				"asset": "galbrena-samira-v1.fantome",
+				"size": 27406221,
+				"sha256": "bc8c505afa8362f26c50c93b7ca9f2d58565cd5226403cca1b17099a08a4784f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galio-all-might",
+			"name": "All Might",
+			"champion": 3,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/galio-all-might/thumb.webp?v=ac967aaa",
+			"file": {
+				"version": 1,
+				"asset": "galio-all-might-v1.fantome",
+				"size": 8787926,
+				"sha256": "cc70d20a88bdc4f0671f429e2ae6d2f8aecec206b7d1ddd810f458c683b274c4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galio-armored-titan",
+			"name": "Galio Armored Titan",
+			"champion": 3,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/galio-armored-titan/thumb.webp?v=4fe6f2a2",
+			"file": {
+				"version": 1,
+				"asset": "galio-armored-titan-v1.fantome",
+				"size": 9245346,
+				"sha256": "e8f0c3c44663ed43f3faeda272e192b3a235a04e5300232cfea3ace8a2585a1a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galio-chromas",
+			"name": "Galio Chromas",
+			"champion": 3,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/galio-chromas/thumb.webp?v=2a1d9ff2",
+			"file": {
+				"version": 1,
+				"asset": "galio-chromas-v1.fantome",
+				"size": 15464450,
+				"sha256": "db7b86da78471a3d345c3836a5aa100de0a077d3898ab5bdaa70909434eaad5e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galio-superman",
+			"name": "Galio Superman",
+			"champion": 3,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/galio-superman/thumb.webp?v=2c69a0d1",
+			"file": {
+				"version": 1,
+				"asset": "galio-superman-v1.fantome",
+				"size": 31892274,
+				"sha256": "76a6085ecb914199603ffcfd479e2d26319eca61c2690e50702de8d0ce0dc398"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-blackbeard",
+			"name": "Gangplank Blackbeard",
+			"champion": 41,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gangplank-blackbeard/thumb.webp?v=df3cff6b",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-blackbeard-v1.fantome",
+				"size": 16619810,
+				"sha256": "2431870da4ff8bcf68c4e75bf9b2482b812a472fb0ff4550e413b7d6c186c572"
 			},
 			"chromas": []
 		},

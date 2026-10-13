@@ -1,0 +1,26 @@
+{
+	"id": "gangplank-blackbeard",
+	"name": "Gangplank Blackbeard",
+	"champion": 41,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 BLACKBEARD 」\r\n### *Replaces Gangplank*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n**Custom Barrel Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/gangplank-blackbeard\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gangplank-blackbeard/thumb.webp?v=df3cff6b",
+	"file": {
+		"version": 1,
+		"asset": "gangplank-blackbeard-v1.fantome",
+		"size": 16619810,
+		"sha256": "2431870da4ff8bcf68c4e75bf9b2482b812a472fb0ff4550e413b7d6c186c572"
+	},
+	"chromas": []
+}

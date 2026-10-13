@@ -1,0 +1,26 @@
+{
+	"id": "furina-jhin",
+	"name": "Furina Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Made by Keithly\nCommissioned by riemay <3\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/furina-jhin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/furina-jhin/thumb.webp?v=70f28663",
+	"file": {
+		"version": 1,
+		"asset": "furina-jhin-v1.fantome",
+		"size": 17917320,
+		"sha256": "adff276f2342b4f5df3c8bf9e6813e39aabde5100dca8027dc728c04ca3ccf25"
+	},
+	"chromas": []
+}

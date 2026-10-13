@@ -1,0 +1,26 @@
+{
+	"id": "galio-superman",
+	"name": "Galio Superman",
+	"champion": 3,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### Superman (from latest movie) As Galio\ncommissioned by striderIV\nWant a commission?? DM me on Discord - zzzzzzz2930 (CZ in every server)\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/galio-superman\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/galio-superman/thumb.webp?v=2c69a0d1",
+	"file": {
+		"version": 1,
+		"asset": "galio-superman-v1.fantome",
+		"size": 31892274,
+		"sha256": "76a6085ecb914199603ffcfd479e2d26319eca61c2690e50702de8d0ce0dc398"
+	},
+	"chromas": []
+}

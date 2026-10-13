@@ -1,0 +1,25 @@
+{
+	"id": "frozen-locke",
+	"name": "Frozen Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/frozen-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/frozen-locke/thumb.webp?v=543d662b",
+	"file": {
+		"version": 1,
+		"asset": "frozen-locke-v1.fantome",
+		"size": 10854934,
+		"sha256": "dd06d0aff3c3105457cd50962930de3bf0a87fea4bf3a0ca850ee183d243abb5"
+	},
+	"chromas": []
+}

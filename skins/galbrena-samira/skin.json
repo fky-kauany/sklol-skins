@@ -1,0 +1,26 @@
+{
+	"id": "galbrena-samira",
+	"name": "Galbrena Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "Samira as Galbrena from Wuthering Waves.\n\nSkin Features:\nCustom Model\nCustom VFX\nCustom Icon and Banner\nVoice Over\nCustom Killstreak Music\n\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins Discord Server.\n\nMy Discord: @nyxns0\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/galbrena-samira\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/galbrena-samira/thumb.webp?v=f0aa8449",
+	"file": {
+		"version": 1,
+		"asset": "galbrena-samira-v1.fantome",
+		"size": 27406221,
+		"sha256": "bc8c505afa8362f26c50c93b7ca9f2d58565cd5226403cca1b17099a08a4784f"
+	},
+	"chromas": []
+}

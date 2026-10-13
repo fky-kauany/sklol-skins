@@ -1,0 +1,25 @@
+{
+	"id": "fuxuan-thresh",
+	"name": "FuXuan Thresh",
+	"champion": 412,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : FuXuan Thresh\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 2.2.2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/fuxuan-thresh\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fuxuan-thresh/thumb.webp?v=b1549e0d",
+	"file": {
+		"version": 1,
+		"asset": "fuxuan-thresh-v1.fantome",
+		"size": 17638047,
+		"sha256": "6a169904d825102a9dafa960a51a011f1c3baba855d8f30014baa7cf6aa0e2f9"
+	},
+	"chromas": []
+}

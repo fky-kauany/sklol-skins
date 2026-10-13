@@ -1,0 +1,26 @@
+{
+	"id": "fuhua-zed",
+	"name": "FuHua Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : FuHua Zed\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version 1.1.2\r\n\r\nModify---\r\n\r\nNew VFX\r\n\r\nCtrl 1+Ctrl 2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/fuhua-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fuhua-zed/thumb.webp?v=995e3e85",
+	"file": {
+		"version": 1,
+		"asset": "fuhua-zed-v1.fantome",
+		"size": 13781164,
+		"sha256": "b5bfc64192b97efc40029ad7bbd8ecab06dd9f098565103de5891b5dd0b4e26f"
+	},
+	"chromas": []
+}
