@@ -1,0 +1,24 @@
+{
+	"id": "meka-thresh",
+	"name": "Meka Thresh",
+	"champion": 412,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Meka Thresh\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/meka-thresh\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/meka-thresh/thumb.webp?v=937ab3ba",
+	"file": {
+		"version": 1,
+		"asset": "meka-thresh-v1.fantome",
+		"size": 1788980,
+		"sha256": "a271d3264cd3e47e491cdd77d938808df05a3fcad3535e324c68e38a40e46e10"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:40:49.233Z",
+	"generatedAt": "2026-10-13T04:44:00.638Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8472,6 +8472,264 @@
 				"asset": "master-yi-igris-yi-v1.fantome",
 				"size": 14058722,
 				"sha256": "133b0acf7df2030b75185d77aa109ccd84c8d43dce9e7f2940b4d38f00989574"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-inosuke",
+			"name": "Master Yi Inosuke",
+			"champion": 11,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-yi-inosuke/thumb.webp?v=0d690036",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-inosuke-v1.fantome",
+				"size": 7051748,
+				"sha256": "73ebd68a99ddcd452f1641ef95bcaee2d907d73f95b2655074b117638ce561a9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-ryuma-yi",
+			"name": "Ryuma Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-yi-ryuma-yi/thumb.webp?v=ce419abf",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-ryuma-yi-v1.fantome",
+				"size": 7887622,
+				"sha256": "899e7fe4baf28ab3e6e8164247902644bc0d00fad97fc992159c4068719e5e5e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mayano-top-gun-zoe-from-uma-musume-pretty-derby",
+			"name": "Mayano Top Gun Zoe from Uma Musume Pretty Derby",
+			"champion": 142,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mayano-top-gun-zoe-from-uma-musume-pretty-derby/thumb.webp?v=d1c5b339",
+			"file": {
+				"version": 1,
+				"asset": "mayano-top-gun-zoe-from-uma-musume-pretty-derby-v1.fantome",
+				"size": 14353667,
+				"sha256": "8f29c34c1e296469d2b0029424aa5e3a2a718cc451e5eb536fd09920e228c3cc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mc-ride-seraphine",
+			"name": "MC RIDE SERAPHINE",
+			"champion": 147,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mc-ride-seraphine/thumb.webp?v=b44b75ce",
+			"file": {
+				"version": 1,
+				"asset": "mc-ride-seraphine-v1.fantome",
+				"size": 10972737,
+				"sha256": "6e1e1d02e98e3c7c01f7eb598f47d7105ebbd6f8d27be6f1b23a2edc9f1a1600"
+			},
+			"chromas": []
+		},
+		{
+			"id": "medieval-spawn-garen",
+			"name": "Medieval spawn garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/medieval-spawn-garen/thumb.webp?v=8f2265a1",
+			"file": {
+				"version": 1,
+				"asset": "medieval-spawn-garen-v1.fantome",
+				"size": 12345431,
+				"sha256": "62b5ead4d966cd48d194a7c0d0ebd2dd6c19dbf23ece13539ac302117b88e895"
+			},
+			"chromas": []
+		},
+		{
+			"id": "meka-thresh",
+			"name": "Meka Thresh",
+			"champion": 412,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/meka-thresh/thumb.webp?v=937ab3ba",
+			"file": {
+				"version": 1,
+				"asset": "meka-thresh-v1.fantome",
+				"size": 1788980,
+				"sha256": "a271d3264cd3e47e491cdd77d938808df05a3fcad3535e324c68e38a40e46e10"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-aviv",
+			"name": "Mel aviv",
+			"champion": 800,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mel-aviv/thumb.webp?v=b9a0f859",
+			"file": {
+				"version": 1,
+				"asset": "mel-aviv-v1.fantome",
+				"size": 9293580,
+				"sha256": "d0c4ee332a60b8998d9563e5e3f295e689eddad2786aaa94e9fc70b40ea67d02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-female-levi",
+			"name": "Mel Female Levi",
+			"champion": 800,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mel-female-levi/thumb.webp?v=536a8256",
+			"file": {
+				"version": 1,
+				"asset": "mel-female-levi-v1.fantome",
+				"size": 12176980,
+				"sha256": "46b2ee840811224020022065512e94b2fa8f2e61a6ce0ad59d35740aedd71c86"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-gojo",
+			"name": "Gojo",
+			"champion": 800,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mel-gojo/thumb.webp?v=82505064",
+			"file": {
+				"version": 1,
+				"asset": "mel-gojo-v1.fantome",
+				"size": 17176395,
+				"sha256": "24eaabdb55d4924796db9878152eb52cd46e4bd5920c616b4e37054b1136dc79"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-kitagawa",
+			"name": "Mel Kitagawa",
+			"champion": 800,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mel-kitagawa/thumb.webp?v=3eeb709c",
+			"file": {
+				"version": 1,
+				"asset": "mel-kitagawa-v1.fantome",
+				"size": 15172887,
+				"sha256": "c98be6da3abbd0d07a1cb66c18e47cfd603dfdfec6e15d588270a84ad0de709b"
 			},
 			"chromas": []
 		},

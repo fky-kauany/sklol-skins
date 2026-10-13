@@ -1,0 +1,26 @@
+{
+	"id": "master-yi-inosuke",
+	"name": "Master Yi Inosuke",
+	"champion": 11,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 INOSUKE HASHIBIRA 」\r\n### *Replaces Master Yi*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/master-yi-inosuke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/master-yi-inosuke/thumb.webp?v=0d690036",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-inosuke-v1.fantome",
+		"size": 7051748,
+		"sha256": "73ebd68a99ddcd452f1641ef95bcaee2d907d73f95b2655074b117638ce561a9"
+	},
+	"chromas": []
+}

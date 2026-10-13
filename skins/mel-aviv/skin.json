@@ -1,0 +1,26 @@
+{
+	"id": "mel-aviv",
+	"name": "Mel aviv",
+	"champion": 800,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "Thank yuo disco for model \n\nThe big yahu on mel\n\ncommision me @ceerel discord\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/big-yahu-mel\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mel-aviv/thumb.webp?v=b9a0f859",
+	"file": {
+		"version": 1,
+		"asset": "mel-aviv-v1.fantome",
+		"size": 9293580,
+		"sha256": "d0c4ee332a60b8998d9563e5e3f295e689eddad2786aaa94e9fc70b40ea67d02"
+	},
+	"chromas": []
+}

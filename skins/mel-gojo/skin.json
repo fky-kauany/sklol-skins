@@ -1,0 +1,26 @@
+{
+	"id": "mel-gojo",
+	"name": "Gojo",
+	"champion": 800,
+	"base": 0,
+	"creator": "frog",
+	"description": "Gojo Mel\r\n• Custom model\r\n• Custom Abilities\r\n• Custom Voiceover of Gojo\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gojo-mel\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mel-gojo/thumb.webp?v=82505064",
+	"file": {
+		"version": 1,
+		"asset": "mel-gojo-v1.fantome",
+		"size": 17176395,
+		"sha256": "24eaabdb55d4924796db9878152eb52cd46e4bd5920c616b4e37054b1136dc79"
+	},
+	"chromas": []
+}

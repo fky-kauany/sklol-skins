@@ -1,0 +1,26 @@
+{
+	"id": "mel-female-levi",
+	"name": "Mel Female Levi",
+	"champion": 800,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 FEMALE LEVI 」\n### *Replaces Mel*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/mel-female-levi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mel-female-levi/thumb.webp?v=536a8256",
+	"file": {
+		"version": 1,
+		"asset": "mel-female-levi-v1.fantome",
+		"size": 12176980,
+		"sha256": "46b2ee840811224020022065512e94b2fa8f2e61a6ce0ad59d35740aedd71c86"
+	},
+	"chromas": []
+}

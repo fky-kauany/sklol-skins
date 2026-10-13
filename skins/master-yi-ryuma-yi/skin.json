@@ -1,0 +1,26 @@
+{
+	"id": "master-yi-ryuma-yi",
+	"name": "Ryuma Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "### ? Mod Info\n\n**Type:** Custom skin\n\n**Modified Skin(s)**: All skins except Legendary-tier and above.\n\nmade by ikiryou\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/ryuma-yi-master-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/master-yi-ryuma-yi/thumb.webp?v=ce419abf",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-ryuma-yi-v1.fantome",
+		"size": 7887622,
+		"sha256": "899e7fe4baf28ab3e6e8164247902644bc0d00fad97fc992159c4068719e5e5e"
+	},
+	"chromas": []
+}

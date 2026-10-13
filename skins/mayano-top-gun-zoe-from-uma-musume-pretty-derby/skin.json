@@ -1,0 +1,26 @@
+{
+	"id": "mayano-top-gun-zoe-from-uma-musume-pretty-derby",
+	"name": "Mayano Top Gun Zoe from Uma Musume Pretty Derby",
+	"champion": 142,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# Mayano Top Gun Zoe Skin:\n\n***\n\n> 🏇🏻 Say hi to Mayano Top Gun who just arrived on the Summoner's Rift with her unmatched speed! 🏇🏻\n\n* Champion: Zoe\n* Skin: Default Skin \n* Character Quality: All\n* VoiceLines Language: en_US\n\n## Features:\n\n***\n\n* New Custom Model\n* New Custom Textures\n* New VFX\n* New Loading Screen\n* New Champion Icons\n* New SFX\n* New Summoner Spells SFX\n* New Recall (and more common SFX which will work for all champs | this may conflict with other mods that change the same things)\n* New Background Music (currently not working)\n* New Voicelines from the game!\n\n***If you find any bug please ping me in the discord server or dm me: davex45a.***\n\n## Credits:\n\n***\nLots of thanks to DjakDawid for commisioning and letting me upload the skin! <3\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/mayano-top-gun-zoe-from-uma-musume-pretty-derby\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mayano-top-gun-zoe-from-uma-musume-pretty-derby/thumb.webp?v=d1c5b339",
+	"file": {
+		"version": 1,
+		"asset": "mayano-top-gun-zoe-from-uma-musume-pretty-derby-v1.fantome",
+		"size": 14353667,
+		"sha256": "8f29c34c1e296469d2b0029424aa5e3a2a718cc451e5eb536fd09920e228c3cc"
+	},
+	"chromas": []
+}

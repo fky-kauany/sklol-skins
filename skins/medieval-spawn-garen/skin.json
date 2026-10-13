@@ -1,0 +1,26 @@
+{
+	"id": "medieval-spawn-garen",
+	"name": "Medieval spawn garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"I can offer what you want: Vengeance!\"\n\n***\n\n**Modified champion: Garen**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira, foose and charsles**\n\n**Discord: serrandoafimose**\n\n3d model from: Spawn: into the demons hand (was a pain in the ass)\nmade by capcom\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/medieval-spawn-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/medieval-spawn-garen/thumb.webp?v=8f2265a1",
+	"file": {
+		"version": 1,
+		"asset": "medieval-spawn-garen-v1.fantome",
+		"size": 12345431,
+		"sha256": "62b5ead4d966cd48d194a7c0d0ebd2dd6c19dbf23ece13539ac302117b88e895"
+	},
+	"chromas": []
+}
