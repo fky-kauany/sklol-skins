@@ -1,0 +1,26 @@
+{
+	"id": "pucci-white-snake-c-moon-viego",
+	"name": "Pucci/White Snake/C-moon Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "kesa",
+	"description": "# **DISCORD: hanmada**\r\n\r\n### **DM IF SOMETHING BREAKS**\r\n**(or if you wanna commision)**\r\n\r\n#\r\n\r\n\r\n**CTRL 1 = PUCCI\r\nCTRL 2 = WHITE SNAKE\r\nCTRL 4 = C-MOON**\r\n#\r\nThis custom skin transforms **Viego** into **Enricco Pucci** with his **Stands** from **Jojo's Bizzare Adventure**, fully reimagined with a complete visual and audio overhaul while maintaining perfect gameplay clarity.\r\n\r\n- ? Features\r\n\r\n- **Custom Models**\r\n\r\nHigh-quality Enrico Pucci,White Snake and C-moon models\r\n\r\n\r\n\r\n- **Custom VFX**\r\n\r\nFully replaced spell effects for all abilities\r\n\r\n\r\n- **Custom SFX**\r\n\r\nCustom Voice Lines\r\n\r\nEnrico Pucci and White Snake–inspired voice lines\r\n\r\n#\r\n\r\n- **Skin Compatibility-**\r\n\r\n**Since its a viego skin it sadly only works on base Viego...**\n\n---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/pucciwhite-snakec-moon-viego\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pucci-white-snake-c-moon-viego/thumb.webp?v=2c62bb53",
+	"file": {
+		"version": 1,
+		"asset": "pucci-white-snake-c-moon-viego-v1.fantome",
+		"size": 13034194,
+		"sha256": "a14cd2bac2258578cc1cd0985f3661525cc1028e4d0cc29ee25392d51b2e9d5a"
+	},
+	"chromas": []
+}

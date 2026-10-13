@@ -1,0 +1,26 @@
+{
+	"id": "quake-doomguy-graves",
+	"name": "quake doomguy graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"your mama slap harder them that >:)\"\n\n***\n\n**Modified champion: Graves**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model from the game: Quake III**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/quake-doomguy-graves\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/quake-doomguy-graves/thumb.webp?v=3ad72581",
+	"file": {
+		"version": 1,
+		"asset": "quake-doomguy-graves-v1.fantome",
+		"size": 5318312,
+		"sha256": "bccae9a4b9d15d6cecec9b269751d7891799604ac005ad0d1d6ab307b8db2973"
+	},
+	"chromas": []
+}

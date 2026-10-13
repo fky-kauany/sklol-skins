@@ -1,0 +1,24 @@
+{
+	"id": "quagmire-tryndamere",
+	"name": "Quagmire Tryndamere",
+	"champion": 23,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Tryndamere with Quagmire from Family Guy.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Tryndamere.\n\n#\n\n### ✨ Credits\n\n- Credits to [Kingshound](https://www.youtube.com/@Kingshound \"kingshound's yt channel\") for creating the mod, I am only maintaining it\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/quagmire-tryndamere\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/quagmire-tryndamere/thumb.webp?v=3a3546c5",
+	"file": {
+		"version": 1,
+		"asset": "quagmire-tryndamere-v1.fantome",
+		"size": 1207091,
+		"sha256": "dd9c2ddd58f6f1ebb252326fb077ffe08481080b9ffd2501074572701dc50e86"
+	},
+	"chromas": []
+}

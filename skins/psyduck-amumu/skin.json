@@ -1,0 +1,26 @@
+{
+	"id": "psyduck-amumu",
+	"name": "Psyduck Amumu",
+	"champion": 32,
+	"base": 0,
+	"creator": "daka",
+	"description": "Download at divineskins.gg\n\nFeatures:\n- Custom Animations\n- Custom VFX\n- Custom Model (Pokemon Unite)\n- Custom Icons\n\nCredits:\n- Nyth (the Pokemon goat) for his guidance\n- Wiko for making the thumbnail\n- Cereel for recording the video\n- Tanaaxd for being TAAA NA\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/psyduck-amumu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/psyduck-amumu/thumb.webp?v=88372c23",
+	"file": {
+		"version": 1,
+		"asset": "psyduck-amumu-v1.fantome",
+		"size": 4924100,
+		"sha256": "c2dc90c510a15c214fd654ce6b4fe926e7c49dfcd864f15a6327dc6cab840535"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "quakeguy-gangplank",
+	"name": "quakeguy gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "Quakeguy from the game \" Quake \"\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/quakeguy-gangplank\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/quakeguy-gangplank/thumb.webp?v=b3cb8a79",
+	"file": {
+		"version": 1,
+		"asset": "quakeguy-gangplank-v1.fantome",
+		"size": 6004887,
+		"sha256": "472f5289802272c54a833fe7f8b2d9c94d9733d88336b2fbe567090f9b79e63c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "pulsefire-caitlyn-red",
+	"name": "Pulsefire Caitlyn - Red",
+	"champion": 51,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Pulsefire Caitlyn\n\n╰┈➤ _The idea for this mod was to give a cool ass skin that doesn't (really) have chromas, a red/black chroma! Hope you enjoy, I really like pulsefire lol, considering some other colors for it/other champs...._\n\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/pulsefire-caitlyn-red\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pulsefire-caitlyn-red/thumb.webp?v=003bc5b4",
+	"file": {
+		"version": 1,
+		"asset": "pulsefire-caitlyn-red-v1.fantome",
+		"size": 11133376,
+		"sha256": "cc0f843097bc774422e854589d470bfae5c4dbd25041b8af33be5ac9825b742c"
+	},
+	"chromas": []
+}

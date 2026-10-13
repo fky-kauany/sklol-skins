@@ -1,0 +1,26 @@
+{
+	"id": "puppetmon-digimon-trundle",
+	"name": "Puppetmon Digimon Trundle",
+	"champion": 48,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover **Puppetmon Digimon, imagined and commissioned by Magnet Warrior.**\r\n\r\nThis custom skin reimagines Trundle as Puppetmon, the iconic wooden puppet Digimon from the Digimon anime series, while preserving the strength, brutality, and imposing presence of the original champion.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/puppetmon-digimon-trundle\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/puppetmon-digimon-trundle/thumb.webp?v=4291e7eb",
+	"file": {
+		"version": 1,
+		"asset": "puppetmon-digimon-trundle-v1.fantome",
+		"size": 11840122,
+		"sha256": "fd0723a18adeb713a201b739c9fa6446d1f9a3390d4019fea129f54b7bf8d949"
+	},
+	"chromas": []
+}

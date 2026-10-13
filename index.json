@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:29:57.292Z",
+	"generatedAt": "2026-10-13T05:33:11.330Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -12354,6 +12354,263 @@
 				"asset": "project-twitch-v1.fantome",
 				"size": 97581358,
 				"sha256": "c6cc350048097f575de42ec5e8c0de25296def6f5a71a54979d1f400d63bf672"
+			},
+			"chromas": []
+		},
+		{
+			"id": "psyduck-amumu",
+			"name": "Psyduck Amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/psyduck-amumu/thumb.webp?v=88372c23",
+			"file": {
+				"version": 1,
+				"asset": "psyduck-amumu-v1.fantome",
+				"size": 4924100,
+				"sha256": "c2dc90c510a15c214fd654ce6b4fe926e7c49dfcd864f15a6327dc6cab840535"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pucci-white-snake-c-moon-viego",
+			"name": "Pucci/White Snake/C-moon Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pucci-white-snake-c-moon-viego/thumb.webp?v=2c62bb53",
+			"file": {
+				"version": 1,
+				"asset": "pucci-white-snake-c-moon-viego-v1.fantome",
+				"size": 13034194,
+				"sha256": "a14cd2bac2258578cc1cd0985f3661525cc1028e4d0cc29ee25392d51b2e9d5a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pulsefire-caitlyn-red",
+			"name": "Pulsefire Caitlyn - Red",
+			"champion": 51,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pulsefire-caitlyn-red/thumb.webp?v=003bc5b4",
+			"file": {
+				"version": 1,
+				"asset": "pulsefire-caitlyn-red-v1.fantome",
+				"size": 11133376,
+				"sha256": "cc0f843097bc774422e854589d470bfae5c4dbd25041b8af33be5ac9825b742c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "puppetmon-digimon-trundle",
+			"name": "Puppetmon Digimon Trundle",
+			"champion": 48,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/puppetmon-digimon-trundle/thumb.webp?v=4291e7eb",
+			"file": {
+				"version": 1,
+				"asset": "puppetmon-digimon-trundle-v1.fantome",
+				"size": 11840122,
+				"sha256": "fd0723a18adeb713a201b739c9fa6446d1f9a3390d4019fea129f54b7bf8d949"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pyke-toji",
+			"name": "Toji",
+			"champion": 555,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pyke-toji/thumb.webp?v=78241d89",
+			"file": {
+				"version": 1,
+				"asset": "pyke-toji-v1.fantome",
+				"size": 13623132,
+				"sha256": "9bd942e1bbc8409840c3d06312488515c7dd2d86e1164753c55328e77ea2ed97"
+			},
+			"chromas": []
+		},
+		{
+			"id": "qiyana-demon-goddess",
+			"name": "Demon Goddess",
+			"champion": 246,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/qiyana-demon-goddess/thumb.webp?v=a68981e2",
+			"file": {
+				"version": 1,
+				"asset": "qiyana-demon-goddess-v1.fantome",
+				"size": 37362574,
+				"sha256": "147e91cb2b4925b8420bb6d61b3c8a469f55c7d0015912ce3a3cc35ad5b5c177"
+			},
+			"chromas": []
+		},
+		{
+			"id": "qiyana-zeta",
+			"name": "Qiyana Zeta",
+			"champion": 246,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/qiyana-zeta/thumb.webp?v=da32fce3",
+			"file": {
+				"version": 1,
+				"asset": "qiyana-zeta-v1.fantome",
+				"size": 15926917,
+				"sha256": "f25e07bce29d466ceb09c1b38c62b3908d68b536d471c6ee5e234394d43c0145"
+			},
+			"chromas": []
+		},
+		{
+			"id": "quagmire-tryndamere",
+			"name": "Quagmire Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/quagmire-tryndamere/thumb.webp?v=3a3546c5",
+			"file": {
+				"version": 1,
+				"asset": "quagmire-tryndamere-v1.fantome",
+				"size": 1207091,
+				"sha256": "dd9c2ddd58f6f1ebb252326fb077ffe08481080b9ffd2501074572701dc50e86"
+			},
+			"chromas": []
+		},
+		{
+			"id": "quake-doomguy-graves",
+			"name": "quake doomguy graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/quake-doomguy-graves/thumb.webp?v=3ad72581",
+			"file": {
+				"version": 1,
+				"asset": "quake-doomguy-graves-v1.fantome",
+				"size": 5318312,
+				"sha256": "bccae9a4b9d15d6cecec9b269751d7891799604ac005ad0d1d6ab307b8db2973"
+			},
+			"chromas": []
+		},
+		{
+			"id": "quakeguy-gangplank",
+			"name": "quakeguy gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/quakeguy-gangplank/thumb.webp?v=b3cb8a79",
+			"file": {
+				"version": 1,
+				"asset": "quakeguy-gangplank-v1.fantome",
+				"size": 6004887,
+				"sha256": "472f5289802272c54a833fe7f8b2d9c94d9733d88336b2fbe567090f9b79e63c"
 			},
 			"chromas": []
 		},
