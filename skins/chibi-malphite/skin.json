@@ -1,0 +1,26 @@
+{
+	"id": "chibi-malphite",
+	"name": "Chibi Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "disco",
+	"description": "Chibi Malphite from TFT\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/chibi-malphite\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-malphite/thumb.webp?v=95e7066f",
+	"file": {
+		"version": 1,
+		"asset": "chibi-malphite-v1.fantome",
+		"size": 14505347,
+		"sha256": "83ec2355652312ec6fd8b19d5da2a110526fc74bb596ae83ae9abd009d7d7ff0"
+	},
+	"chromas": []
+}

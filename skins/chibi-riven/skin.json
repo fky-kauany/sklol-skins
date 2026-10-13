@@ -1,0 +1,26 @@
+{
+	"id": "chibi-riven",
+	"name": "Chibi Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "disco",
+	"description": "The mod contains 3 versions:\n\n- Chibi Riven (Works on Default skin)\n- Chibi Dawnbringer Riven (Works on Dawnbringer skin)\n- Chibi Prestige Valiant Sword Riven (Works on Prestige Valiant Sword skin)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/chibi-riven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-riven/thumb.webp?v=b3eb03af",
+	"file": {
+		"version": 1,
+		"asset": "chibi-riven-v1.fantome",
+		"size": 27702891,
+		"sha256": "b027c73c873f1d9e07a7f0e8a587c8d241bea05f5036c8fd9f1f45f18cc933a7"
+	},
+	"chromas": []
+}

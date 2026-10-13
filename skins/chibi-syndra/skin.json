@@ -1,0 +1,26 @@
+{
+	"id": "chibi-syndra",
+	"name": "Chibi Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "disco",
+	"description": "The mod contains 2 versions:\n\n- Chibi Syndra (Works on Default skin)\n- Chibi Star Guardian Syndra (Works on Star Guardian skin)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/chibi-syndra\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-syndra/thumb.webp?v=1b3a9ab6",
+	"file": {
+		"version": 1,
+		"asset": "chibi-syndra-v1.fantome",
+		"size": 28694694,
+		"sha256": "aa1a6424061ad79ab7e5239d9d4525338c653abc5c7847b144cbfb72c8f608a4"
+	},
+	"chromas": []
+}

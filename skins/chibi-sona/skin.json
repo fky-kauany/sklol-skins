@@ -1,0 +1,26 @@
+{
+	"id": "chibi-sona",
+	"name": "Chibi Sona",
+	"champion": 37,
+	"base": 0,
+	"creator": "frog",
+	"description": "sgdddddddddddddddddddddddddddddddddddddddddddddddddddddd\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/chibi-sona\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-sona/thumb.webp?v=60c9fbfe",
+	"file": {
+		"version": 1,
+		"asset": "chibi-sona-v1.fantome",
+		"size": 30805875,
+		"sha256": "120ab8a34a7ce669bcc607c7957925f1c6accaa86fc37faef9c9bb95c9a73f80"
+	},
+	"chromas": []
+}

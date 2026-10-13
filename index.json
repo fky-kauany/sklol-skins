@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:24:23.440Z",
+	"generatedAt": "2026-10-13T01:27:47.568Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -150,6 +150,14 @@
 				"discord": "https://discord.com/users/440418268470312961",
 				"site": "https://github.com/DISCOCX",
 				"x": "https://x.com/DISCOXZ"
+			}
+		},
+		"emshu": {
+			"name": "emShu",
+			"bio": "Hi, I'm emShu.\nI am from Vietnam and currently live there.\nI have two years of experience as a modder.\nI create skins based on inspiration and explore a wide range of champions.",
+			"links": {
+				"discord": "https://discord.com/users/742525525297463378",
+				"tiktok": "https://www.tiktok.com/@sbtcshustar"
 			}
 		},
 		"epel": {
@@ -5658,6 +5666,266 @@
 				"asset": "chibi-lillia-v1.fantome",
 				"size": 25152226,
 				"sha256": "f4487ae8793a2bd808c98536bf6afcb3f9414711bd3d776ee03d782c4fec096e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-lulu",
+			"name": "Chibi Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-lulu/thumb.webp?v=734d63c1",
+			"file": {
+				"version": 1,
+				"asset": "chibi-lulu-v1.fantome",
+				"size": 17661347,
+				"sha256": "98e34ba695b1204e71d9d35c13be5c0c0b26fb8afed36631d8d8af3ddbb8f74f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-malphite",
+			"name": "Chibi Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-malphite/thumb.webp?v=95e7066f",
+			"file": {
+				"version": 1,
+				"asset": "chibi-malphite-v1.fantome",
+				"size": 14505347,
+				"sha256": "83ec2355652312ec6fd8b19d5da2a110526fc74bb596ae83ae9abd009d7d7ff0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-morgana",
+			"name": "Chibi Morgana",
+			"champion": 25,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-morgana/thumb.webp?v=bece5121",
+			"file": {
+				"version": 1,
+				"asset": "chibi-morgana-v1.fantome",
+				"size": 23179152,
+				"sha256": "6d61122dc28b5e85b882490afed29af4754aada7c62a1376d90309647b746c7b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-neeko",
+			"name": "Chibi Neeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-neeko/thumb.webp?v=58ae86fe",
+			"file": {
+				"version": 1,
+				"asset": "chibi-neeko-v1.fantome",
+				"size": 19370265,
+				"sha256": "cfa7a19acf3d40359112d5824addae07e9faf4591880457cc6a048734cd48442"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-orianna",
+			"name": "Chibi Orianna",
+			"champion": 61,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-orianna/thumb.webp?v=b6354a3d",
+			"file": {
+				"version": 1,
+				"asset": "chibi-orianna-v1.fantome",
+				"size": 16509850,
+				"sha256": "296bdfe67fc534320d761a016cb3dab03c7ec3a3205d1d65eff98c0b8a3482c7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-riven",
+			"name": "Chibi Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-riven/thumb.webp?v=b3eb03af",
+			"file": {
+				"version": 1,
+				"asset": "chibi-riven-v1.fantome",
+				"size": 27702891,
+				"sha256": "b027c73c873f1d9e07a7f0e8a587c8d241bea05f5036c8fd9f1f45f18cc933a7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-sett",
+			"name": "Chibi Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-sett/thumb.webp?v=a5c8e7a6",
+			"file": {
+				"version": 1,
+				"asset": "chibi-sett-v1.fantome",
+				"size": 29042065,
+				"sha256": "ced097c3da6a40ce880e861d8c2f845af244cd27a34412d92647f8cc1cdeb5fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-sona",
+			"name": "Chibi Sona",
+			"champion": 37,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-sona/thumb.webp?v=60c9fbfe",
+			"file": {
+				"version": 1,
+				"asset": "chibi-sona-v1.fantome",
+				"size": 30805875,
+				"sha256": "120ab8a34a7ce669bcc607c7957925f1c6accaa86fc37faef9c9bb95c9a73f80"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-syndra",
+			"name": "Chibi Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-syndra/thumb.webp?v=1b3a9ab6",
+			"file": {
+				"version": 1,
+				"asset": "chibi-syndra-v1.fantome",
+				"size": 28694694,
+				"sha256": "aa1a6424061ad79ab7e5239d9d4525338c653abc5c7847b144cbfb72c8f608a4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-t1-yone",
+			"name": "Chibi T1 Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "emshu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-t1-yone/thumb.webp?v=5992842f",
+			"file": {
+				"version": 1,
+				"asset": "chibi-t1-yone-v1.fantome",
+				"size": 17420360,
+				"sha256": "05a54fd3417a2ec73bab699e9690acded5df81157851086214df5bb357be9d5e"
 			},
 			"chromas": []
 		},

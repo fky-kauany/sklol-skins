@@ -1,0 +1,26 @@
+{
+	"id": "chibi-orianna",
+	"name": "Chibi Orianna",
+	"champion": 61,
+	"base": 0,
+	"creator": "frog",
+	"description": "Mod Type: Champion Mod\n\n### **? Modified Skin(s): Replaces all Orianna Skins**\n\n### **? Credits**\nTFT\n\n### **? Additional Info**\nHave questions or requests? DM me on Discord or join the Divine Skins server.\n\n### **❤️ Support**\nEnjoyed the mod? Show your support and keep the creations coming!\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/chibi-orianna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-orianna/thumb.webp?v=b6354a3d",
+	"file": {
+		"version": 1,
+		"asset": "chibi-orianna-v1.fantome",
+		"size": 16509850,
+		"sha256": "296bdfe67fc534320d761a016cb3dab03c7ec3a3205d1d65eff98c0b8a3482c7"
+	},
+	"chromas": []
+}

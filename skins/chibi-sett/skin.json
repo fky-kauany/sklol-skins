@@ -1,0 +1,26 @@
+{
+	"id": "chibi-sett",
+	"name": "Chibi Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "frog",
+	"description": "asdasdasdasdasdsadasdasdasdsadsadasdasdasdasdasdasdsadsa\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/chibi-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-sett/thumb.webp?v=a5c8e7a6",
+	"file": {
+		"version": 1,
+		"asset": "chibi-sett-v1.fantome",
+		"size": 29042065,
+		"sha256": "ced097c3da6a40ce880e861d8c2f845af244cd27a34412d92647f8cc1cdeb5fd"
+	},
+	"chromas": []
+}
