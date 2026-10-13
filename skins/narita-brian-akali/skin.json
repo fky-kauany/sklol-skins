@@ -1,0 +1,26 @@
+{
+	"id": "narita-brian-akali",
+	"name": "Narita Brian Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "!!!MODEL WILL GO FULLY INVIS IN W SHROUD!!!\r\n(WORKING ON FIX)\r\n\r\nAkali as Narita Brian from Umamusume: Pretty Derby.\r\n\r\nSkin Features:\r\nCustom Model\r\nCustom Icon and Banner\r\n\r\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins Discord Server.\r\n\r\nMy Discord: @nyxns0\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/narita-brian-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/narita-brian-akali/thumb.webp?v=2f0cf285",
+	"file": {
+		"version": 1,
+		"asset": "narita-brian-akali-v1.fantome",
+		"size": 13641416,
+		"sha256": "89733f582085cd7e620977e7f5ec62a8f25ba0b5a1b85003957d9216f0fdb45c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,27 @@
+{
+	"id": "nanally-sett",
+	"name": "Nanally Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Nanally Sett\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.3\r\n\r\nNew VFX\r\n\r\nNew voice pack\r\n\r\nNew Joke\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/nanally-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nanally-sett/thumb.webp?v=82560325",
+	"file": {
+		"version": 1,
+		"asset": "nanally-sett-v1.fantome",
+		"size": 21701811,
+		"sha256": "e181504dd29bca6d7cbe0528c2ddc69fa4e11c606085e497d97f8fd8e9152184"
+	},
+	"chromas": []
+}

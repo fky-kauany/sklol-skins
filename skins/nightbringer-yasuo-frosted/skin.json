@@ -1,0 +1,23 @@
+{
+	"id": "nightbringer-yasuo-frosted",
+	"name": "Nightbringer Yasuo - Frosted",
+	"champion": 157,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Nightbringer Yasuo\r\n╰┈➤ _The idea for this mod was to make Nightbringer Yasuo an 'icy' chroma_\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/nightbringer-yasuo-frosted\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nightbringer-yasuo-frosted/thumb.webp?v=a150beef",
+	"file": {
+		"version": 1,
+		"asset": "nightbringer-yasuo-frosted-v1.fantome",
+		"size": 4388048,
+		"sha256": "469a52f502b2b8933de781d9ef9c622691288b3386c08d6d8ad06b5f0d38537e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "nasus-sauron",
+	"name": "Sauron",
+	"champion": 75,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\n\n- Custom model and textures\n- Custom animations\n- Custom Voice-over for all languages\n- New VFX\n- New SFX\n- Custom loading screen and in-game icons\n- Three rings for the Elven kings, under the sky\n- Seven, for the Dwarf lords, in their halls of stone\n- Nine for mortal Men, doomed to die\n- One, to the Dark Lord, on his dark throne.\n\n\n*One Ring to rule them all, One Ring to find them,\nOne Ring to bring them all, and in the darkness bind them*\n\n\nThe gaze of the Lidless Eye, wreathed in flame, is fixed on the Summoner's Rift. Now, the Black Gate opens, and Sauron, now in possession of the One Ring, is sure to expand his Dominion of Mordor here...\n\nFinally, I believe I brought this mod up to my modern standards. Features a complete animation overhaul, tons of new vfx, satisfying sfx and a terrifying voice over. I invite you to see for yourself all the changes.\nIt works with EVERY SKIN, except for Infernal! If you pick infernal you will just see infernal nasus.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/sauron-2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nasus-sauron/thumb.webp?v=10163432",
+	"file": {
+		"version": 1,
+		"asset": "nasus-sauron-v1.fantome",
+		"size": 35297194,
+		"sha256": "bd9e72eb00fad00244eb1ae32e3ea23e4cc181acae288a015ff4b2cd3a939f85"
+	},
+	"chromas": []
+}

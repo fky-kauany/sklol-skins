@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:06:43.402Z",
+	"generatedAt": "2026-10-13T05:10:03.868Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -473,6 +473,14 @@
 		"ramo": {
 			"name": "ramo",
 			"links": {}
+		},
+		"rebels321": {
+			"name": "Rebels321",
+			"avatar": "creators/rebels321.png?v=ebd9cfa8",
+			"bio": "NEW TO MODDING\n\n• Never coded in my life\n• Never used ANY modding softwares ever\n• Learning is slow, doing my best zz\n\nGot a few ideas but no skill to make them yet :D\n\nWE WILL IMPROVE",
+			"links": {
+				"youtube": "https://www.youtube.com/@stalos3094"
+			}
 		},
 		"rorotea1": {
 			"name": "rorotea1",
@@ -10522,6 +10530,264 @@
 				"asset": "nahida-lulu-v1.fantome",
 				"size": 10856872,
 				"sha256": "315181dcefd60a4cf082ca59450f497bd68b90b8179f34d01968f8113093a7e6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nami-dagon",
+			"name": "Dagon",
+			"champion": 267,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nami-dagon/thumb.webp?v=e55c6719",
+			"file": {
+				"version": 1,
+				"asset": "nami-dagon-v1.fantome",
+				"size": 9717393,
+				"sha256": "a45ef6dea54bf0d8696986374b26c0fe04f01a8bf8014e3f6de9ff4dac139470"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nanally-sett",
+			"name": "Nanally Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nanally-sett/thumb.webp?v=82560325",
+			"file": {
+				"version": 1,
+				"asset": "nanally-sett-v1.fantome",
+				"size": 21701811,
+				"sha256": "e181504dd29bca6d7cbe0528c2ddc69fa4e11c606085e497d97f8fd8e9152184"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naoya-zenin-lee-sin",
+			"name": "Naoya Zenin Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/naoya-zenin-lee-sin/thumb.webp?v=20de2dd4",
+			"file": {
+				"version": 1,
+				"asset": "naoya-zenin-lee-sin-v1.fantome",
+				"size": 20896366,
+				"sha256": "d5f4493decaa89ebf6063a76e3f97b5528dfd2c96022a71a84ff955df9352895"
+			},
+			"chromas": []
+		},
+		{
+			"id": "narita-brian-akali",
+			"name": "Narita Brian Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/narita-brian-akali/thumb.webp?v=2f0cf285",
+			"file": {
+				"version": 1,
+				"asset": "narita-brian-akali-v1.fantome",
+				"size": 13641416,
+				"sha256": "89733f582085cd7e620977e7f5ec62a8f25ba0b5a1b85003957d9216f0fdb45c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naruto-zed",
+			"name": "Naruto Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/naruto-zed/thumb.webp?v=3b7e4d7f",
+			"file": {
+				"version": 1,
+				"asset": "naruto-zed-v1.fantome",
+				"size": 10162980,
+				"sha256": "0e5d3fb50d5f1712cb553a32a6981ab76121a87948f7cbde3cbcdfbe7404c2aa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nasus-sauron",
+			"name": "Sauron",
+			"champion": 75,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nasus-sauron/thumb.webp?v=10163432",
+			"file": {
+				"version": 1,
+				"asset": "nasus-sauron-v1.fantome",
+				"size": 35297194,
+				"sha256": "bd9e72eb00fad00244eb1ae32e3ea23e4cc181acae288a015ff4b2cd3a939f85"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nebula-katarina",
+			"name": "Nebula Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nebula-katarina/thumb.webp?v=1f6d4aa8",
+			"file": {
+				"version": 1,
+				"asset": "nebula-katarina-v1.fantome",
+				"size": 9109119,
+				"sha256": "f6a8a4816f4a9c0d626a232bc86ea0cdeba76f070578fa712b04af62605cc609"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nelliel-tu-oldenschwack-lillia",
+			"name": "Nelliel tu Oldenschwack - Lillia",
+			"champion": 876,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nelliel-tu-oldenschwack-lillia/thumb.webp?v=89b4331d",
+			"file": {
+				"version": 1,
+				"asset": "nelliel-tu-oldenschwack-lillia-v1.fantome",
+				"size": 20953455,
+				"sha256": "d0a85f9e749d3ab7f0a0a6f7a2efbb05815fa31512308237eda84030b1f4ce06"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nightbringer-yasuo-frosted",
+			"name": "Nightbringer Yasuo - Frosted",
+			"champion": 157,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nightbringer-yasuo-frosted/thumb.webp?v=a150beef",
+			"file": {
+				"version": 1,
+				"asset": "nightbringer-yasuo-frosted-v1.fantome",
+				"size": 4388048,
+				"sha256": "469a52f502b2b8933de781d9ef9c622691288b3386c08d6d8ad06b5f0d38537e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nightbringer-yasuo-white-hair-purple-effect-chro",
+			"name": "Nightbringer Yasuo (white hair/purple effect chroma)",
+			"champion": 157,
+			"base": 0,
+			"creator": "rebels321",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nightbringer-yasuo-white-hair-purple-effect-chro/thumb.webp?v=09b99c4b",
+			"file": {
+				"version": 1,
+				"asset": "nightbringer-yasuo-white-hair-purple-effect-chro-v1.fantome",
+				"size": 25222281,
+				"sha256": "c962603e7db53cb1d751b81d55554546fe2324ac2b7ec076b3d53ebb41e9f194"
 			},
 			"chromas": []
 		},

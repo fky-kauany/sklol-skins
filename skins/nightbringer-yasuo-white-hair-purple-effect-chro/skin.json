@@ -1,0 +1,26 @@
+{
+	"id": "nightbringer-yasuo-white-hair-purple-effect-chro",
+	"name": "Nightbringer Yasuo (white hair/purple effect chroma)",
+	"champion": 157,
+	"base": 0,
+	"creator": "rebels321",
+	"description": "Nightbringer Yasuo Chroma - White/Grey hair Base form, Grey/Purple during R passive\r\n\r\nPurple Hue on abilities\r\n\r\nThanks to static.2 for helping find a work around for a bug, if your FPS is uncapped over 210, the skin will bug out, so if you experience it, you may wanna turn down the FPS! :D\r\n\r\nI'm new to modding, this is my first attempt :D I will continue with this mod as a project and eventually add more Cosmetic modding and Animation changes with Voice lines! (at least that's the goal!)\r\n\r\nWhen im ready with an updated version of this mod with animation changes i will make it as a separate mod in case people would rather just use the chroma, thanks! :D\n\n---\n\n**Created by** [Rebels321](https://www.divineskins.gg/Rebels321)\n\n**Original:** https://www.divineskins.gg/Rebels321/nightbringer-yasuo-white-hairpurple-effect-chroma\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nightbringer-yasuo-white-hair-purple-effect-chro/thumb.webp?v=09b99c4b",
+	"file": {
+		"version": 1,
+		"asset": "nightbringer-yasuo-white-hair-purple-effect-chro-v1.fantome",
+		"size": 25222281,
+		"sha256": "c962603e7db53cb1d751b81d55554546fe2324ac2b7ec076b3d53ebb41e9f194"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "nelliel-tu-oldenschwack-lillia",
+	"name": "Nelliel tu Oldenschwack - Lillia",
+	"champion": 876,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/nelliel-tu-oldenschwack-lillia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nelliel-tu-oldenschwack-lillia/thumb.webp?v=89b4331d",
+	"file": {
+		"version": 1,
+		"asset": "nelliel-tu-oldenschwack-lillia-v1.fantome",
+		"size": 20953455,
+		"sha256": "d0a85f9e749d3ab7f0a0a6f7a2efbb05815fa31512308237eda84030b1f4ce06"
+	},
+	"chromas": []
+}

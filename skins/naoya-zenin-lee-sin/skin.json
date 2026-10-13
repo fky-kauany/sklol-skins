@@ -1,0 +1,26 @@
+{
+	"id": "naoya-zenin-lee-sin",
+	"name": "Naoya Zenin Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "disco",
+	"description": "Enjoy !!! \nWorks on all Lee Sin Skins\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/naoya-zenin-lee-sin\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/naoya-zenin-lee-sin/thumb.webp?v=20de2dd4",
+	"file": {
+		"version": 1,
+		"asset": "naoya-zenin-lee-sin-v1.fantome",
+		"size": 20896366,
+		"sha256": "d5f4493decaa89ebf6063a76e3f97b5528dfd2c96022a71a84ff955df9352895"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "nebula-katarina",
+	"name": "Nebula Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "frog",
+	"description": "### GO TO VERSIONS TO DOWNLOAD DIFFERENT CHROMAS\n\n### ? Mod Info\n\n**Type:**  etc.\n**Modified Skin(s):** All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n\n### ? Credits\n\n**Model(s):**\n**Special Thanks:**\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n\n### ? Support Me\n\nEnjoyed the mod? Help fuel future projects: [Donate](#)\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/nebula-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nebula-katarina/thumb.webp?v=1f6d4aa8",
+	"file": {
+		"version": 1,
+		"asset": "nebula-katarina-v1.fantome",
+		"size": 9109119,
+		"sha256": "f6a8a4816f4a9c0d626a232bc86ea0cdeba76f070578fa712b04af62605cc609"
+	},
+	"chromas": []
+}
