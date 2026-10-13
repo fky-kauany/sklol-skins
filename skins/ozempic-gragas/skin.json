@@ -1,0 +1,26 @@
+{
+	"id": "ozempic-gragas",
+	"name": "OZEMPIC GRAGAS",
+	"champion": 79,
+	"base": 0,
+	"creator": "hatstore",
+	"description": "### **DISCORD: @economic_crisis** \r\n### **DM IF SOMETHING BREAKS** (or if you want to commission) \r\n*** \r\n## MOD INFORMATION: \r\nChampion: Gragas\r\nModified skin: base \r\nAuthor: me \r\n## \r\nFEATURES: \r\n* GRAGAS HAS ANOREXIA\n\n---\n\n**Created by** [hatstore](https://www.divineskins.gg/hatstore)\n\n**Original:** https://www.divineskins.gg/hatstore/ozempic-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ozempic-gragas/thumb.webp?v=b29d4c8e",
+	"file": {
+		"version": 1,
+		"asset": "ozempic-gragas-v1.fantome",
+		"size": 5271271,
+		"sha256": "b0106d9d370f2b955eee7ba37145d047b5b2a53dac28e466e9378e78a4622847"
+	},
+	"chromas": []
+}

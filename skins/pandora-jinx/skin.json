@@ -1,0 +1,26 @@
+{
+	"id": "pandora-jinx",
+	"name": "Pandora Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "daka",
+	"description": "### DISCORD: sxrmss\n\n### DM IF SOMETHING BREAKS (or if you want to commission)\n# \n\n### Pandora as Jinx from Microvolts Recharged\n#\nFeatures:\n- Custom Animations\n- Custom VFX\n- Custom Model (Microvolts Recharged)\n- Custom Icons\n- Custom Splashart\n- Custom VO and sfx\n#\nCredits:\n- Bud for making the thumbnail\n- Cereel for recording the video\n- Tanaaxd for being TAAA NA\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/pandora-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pandora-jinx/thumb.webp?v=d305ff8b",
+	"file": {
+		"version": 1,
+		"asset": "pandora-jinx-v1.fantome",
+		"size": 18017946,
+		"sha256": "b266dc8b45283b986401cc8aa338e89f67fd43669bda6611d5656e065b4f26ec"
+	},
+	"chromas": []
+}

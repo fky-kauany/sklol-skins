@@ -1,0 +1,26 @@
+{
+	"id": "pantheon-starscourge-radahn",
+	"name": "Starscourge Radahn",
+	"champion": 80,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n- A small for voice-over, and Radahn's OST\r\n- New VFX\r\n- New SFX\r\n- Custom loading screen and in-game icons\r\n- Gravity Magic\r\n- Your trusty steed, Leonard (Yes, you can pet him)\r\n\r\n\r\n*\"Yield the path forward to us,*\r\n\r\n*To I, Kaizen*\r\n\r\n*And my Promised Custom Skin, Radahn\"*\r\n\r\n\r\nI hope you all liked the Elden Ring's DLC as much as I did. Because after beating it, I dedicated the next three weeks on making this mod. It features the new Radahn 3d model, which I fully custom animated, a lot new, gravity magic-themed VFX, sound effects taken straight from the game, and a few grunts here and there in terms of a voice-over. Aside from Radahn, you are also accompanied by Leonard, his brave (and starving) horse, with which you laugh, dance, pet him, and even jump with him into the stratosphere.\r\nWORKS ON EVERY SKIN, so no matter which Pantheon skin you pick in champ select, you will always get Radahn. Same goes for the enemy, no matter what skin enemy Pantheon plays with, you will always see Radahn.\r\nNew feature: now every time you start the match, Radahn's OST will play, choosing randomly between Starscourge and Promised Consort. I've also included a version that plays the OST every time you respawn as well, if you really want more music.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/starscourge-radahn\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pantheon-starscourge-radahn/thumb.webp?v=b3a7fe1e",
+	"file": {
+		"version": 1,
+		"asset": "pantheon-starscourge-radahn-v1.fantome",
+		"size": 71470940,
+		"sha256": "0ec1b78c3133a672d44ec781a86c649df3258980fdb29c72ddff0217dd40a900"
+	},
+	"chromas": []
+}

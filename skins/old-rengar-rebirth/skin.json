@@ -1,0 +1,26 @@
+{
+	"id": "old-rengar-rebirth",
+	"name": "Old Rengar Rebirth",
+	"champion": 107,
+	"base": 0,
+	"creator": "backstab",
+	"description": "#### Old Rengar Mod - Fully Restoring Season 6 Rengar\r\n\r\n* Animation reverts/bugfixes, SFX reverts/bugfixes, VFX reverts/bugfixes, structure improvements.\r\n* Rebirth mod is built on Renghub's V1.3 [\"Old Rengar Remastered\"](https://youtu.be/uycBm-iuUGA) mod by BACKSTAB. It combines Renghub's VFX with ZedVeZed's animations and my SFX, as well as fixing bugs and repolishing everything.\r\n* Both the quality and technical improvements. More future-proof and file count reduced from 417 to 182.\r\n\r\n**Open source, bug-free, stable, lightweight, debloated and as future-proof as it can be.**\r\n#\r\n\r\n## [CHANGELOG](https://www.reddit.com/r/Rengarmains/s/MACPpb4Sog)\r\n _List of all changes done to Renghub's mod_\r\n#\r\n\r\n## Coming to Live?\r\nThe “Rebirth” mod is special because Riot Games will attempt to apply its animations onto the Live Rengar.\r\n#\r\n\r\n# Credits\r\n\r\n - **Animations:** [ZedVeZed](https://www.reddit.com/u/ZedveZed/s/QkHzyq8OmH), [BACKSTAB](https://youtube.com/@backstab44?si=c0_3TbJ7E0hWylRW)\r\n - **Visuals:** [Renghub](https://youtube.com/@renghub?si=3_gHb5NiVaICRaB-), [BACKSTAB](https://youtube.com/@backstab44?si=c0_3TbJ7E0hWylRW)\r\n - **Sounds & Misc:** [BACKSTAB](https://youtube.com/@backstab44?si=c0_3TbJ7E0hWylRW)\r\n - **Honorable Mentions:** [Riot KDan](https://x.com/riotkdan?s=21), [Runeforge Community](https://discord.com/invite/runeforge), [Vespertine](https://www.reddit.com/u/Vespertine_F/s/wGGvQGGTmn)\r\n\r\n**Special thanks to [Renghub](https://youtube.com/@renghub?si=3_gHb5NiVaICRaB-) for discovering and sharing the method used to fix animations.**\r\n#\r\n# Socials\r\n - **Twitter:** [@BACKSTAB44](https://x.com/BACKSTAB44)\r\n - **Reddit:** [u/Ryo_Marufuji](https://www.reddit.com/user/Ryo_Marufuji/)\r\n\r\n_The mod is managed by me (BACKSTAB), if you find any bugs you can contact me._\r\n#\r\n\r\n# **Mod Archives**\r\n\r\nTo secure the longevity of the Rebirth mod, I’m publishing its archive and a repository containing files related to it. In case I'm unable to maintain it, others will be able to continue the work and keep the mod alive. \r\n\r\nHopefully this will be useful someday.\r\n - [Archive](https://drive.google.com/drive/folders/1fdFs-jmjTvH34S1yLzE9JP-wabCWr38X) _(mod & wwise iterations)_\r\n - [Extra](https://drive.google.com/drive/folders/17wvzPI16-7v2034s4K1XfgrLlE1PdZ7m) _(very useful stuff)_\r\n - [Github Repository](https://github.com/BACKSTAB44/Old-Rengar-Rebirth.git)\r\n - [Backup Link](https://web.archive.org/web/https://codeload.github.com/BACKSTAB44/Old-Rengar-Rebirth/zip/refs/heads/main) _(WebArchive, direct)_\r\n#\n\n---\n\n**Created by** [BACKSTAB](https://www.divineskins.gg/BACKSTAB)\n\n**Original:** https://www.divineskins.gg/BACKSTAB/old-rengar-rebirth\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/old-rengar-rebirth/thumb.webp?v=703ddf93",
+	"file": {
+		"version": 1,
+		"asset": "old-rengar-rebirth-v1.fantome",
+		"size": 13002320,
+		"sha256": "f80ea6e3ec9ac46472acb98771f702167afe66158895181bae5034fd2ff2ed8c"
+	},
+	"chromas": []
+}

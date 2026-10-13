@@ -1,0 +1,26 @@
+{
+	"id": "patrick-alistar",
+	"name": "Patrick Alistar",
+	"champion": 12,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/patrick-alistar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/patrick-alistar/thumb.webp?v=b9aac42c",
+	"file": {
+		"version": 1,
+		"asset": "patrick-alistar-v1.fantome",
+		"size": 5329987,
+		"sha256": "a0781dd793ac77be35e1bf151a3e4465bcbde40261613f52f41ed9264e59cebd"
+	},
+	"chromas": []
+}

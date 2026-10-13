@@ -1,0 +1,26 @@
+{
+	"id": "p-bot-blitzcrank",
+	"name": "P bot blitzcrank",
+	"champion": 53,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "## Mod Information\n\n###### Champion: Blitzcrank\n\n###### Modified skin: Default\n\n###### Authors: Mojkqueira\n\n###### Mod version: 1.0\n\n\n\n###### Description: *\"newgrounds hate me :c\"*&#xA;\n\n\n\n###### *3D model made by:*  [*MindChamber*](https://sketchfab.com/3d-models/p-bot-dtf-3a9234d74ef448c98529765ededdbcad) *(thanks for the permission :3)*\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/p-bot-blitzcrank\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/p-bot-blitzcrank/thumb.webp?v=5f2c61db",
+	"file": {
+		"version": 1,
+		"asset": "p-bot-blitzcrank-v1.fantome",
+		"size": 4982479,
+		"sha256": "474c554805de957983d54754a52124fec79ae35927c477b6640b68500c01a641"
+	},
+	"chromas": []
+}

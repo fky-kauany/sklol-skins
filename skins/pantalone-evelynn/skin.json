@@ -1,0 +1,26 @@
+{
+	"id": "pantalone-evelynn",
+	"name": "Pantalone Evelynn",
+	"champion": 28,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\n\n### DM IF SOMETHING BREAKS (or if you want to commission)\n# \n\n### Pantalone Evelynn from Genshin Impact \n#\nFEATURES:\n* VOICE OVER \n* VFX\n* CUSTOM MODEL\n* Animations\n* Sfx\n* Icons\n\n\n\"Once I'm back in Snezhnaya, I'll start with a well-earned cigarette.\"\n\nWhere is my thumbnail goat.... i miss him\n\n### Credits:\nSpecial thanks to Nekane04 for commissioning the skin\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/pantalone-evelynn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pantalone-evelynn/thumb.webp?v=c4854de0",
+	"file": {
+		"version": 1,
+		"asset": "pantalone-evelynn-v1.fantome",
+		"size": 45045077,
+		"sha256": "46f7a594af71e714b8f683cfc2f4e6b52ed9844d368bf96d5cedc2a80ea5bb79"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "oni-kai-sa",
+	"name": "Oni Kai'sa",
+	"champion": 145,
+	"base": 0,
+	"creator": "frog",
+	"description": "artwork by https://www.artstation.com/artwork/qebzVR\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/oni-kaisa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/oni-kai-sa/thumb.webp?v=727e899f",
+	"file": {
+		"version": 1,
+		"asset": "oni-kai-sa-v1.fantome",
+		"size": 32527523,
+		"sha256": "61a5229400df50b3a0111603a4e7b4cdcb96470a76174d198ac05d740be9cd18"
+	},
+	"chromas": []
+}

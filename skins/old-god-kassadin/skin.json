@@ -1,0 +1,25 @@
+{
+	"id": "old-god-kassadin",
+	"name": "Old God Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2105795488922419503 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Kassadin\n* Skin: All\n* Old God Kassadin Voting Skin\n\n# Features\n\n- Custom VFX/Recall\n- Model\n\n# ![](https://i.imgur.com/GQS3wRA.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/old-god-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/old-god-kassadin/thumb.webp?v=a0997c8b",
+	"file": {
+		"version": 1,
+		"asset": "old-god-kassadin-v1.fantome",
+		"size": 13926132,
+		"sha256": "cc3411c0899fbe0991f96ec43572087605317efcc48d80be612f10e0e0130f41"
+	},
+	"chromas": []
+}
