@@ -1,0 +1,26 @@
+{
+	"id": "akshan-siesta",
+	"name": "Akshan Siesta",
+	"champion": 166,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 SIESTA 」\n### *Replaces Akshan*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/akshan-siesta\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akshan-siesta/thumb.webp?v=49d36abe",
+	"file": {
+		"version": 1,
+		"asset": "akshan-siesta-v1.fantome",
+		"size": 15566883,
+		"sha256": "3185a0dfa16f340bf10c95cfc70702c95a964276695b5cebfc8d6668cecadc1f"
+	},
+	"chromas": []
+}

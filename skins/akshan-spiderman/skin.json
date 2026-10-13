@@ -1,0 +1,26 @@
+{
+	"id": "akshan-spiderman",
+	"name": "Spiderman",
+	"champion": 166,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/spiderman-akshan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akshan-spiderman/thumb.webp?v=05bfa3ed",
+	"file": {
+		"version": 1,
+		"asset": "akshan-spiderman-v1.fantome",
+		"size": 10266766,
+		"sha256": "4dee7039d3f7b4d84f405f8b4f6503c1acbb9787df92aedd00340803f7180135"
+	},
+	"chromas": []
+}

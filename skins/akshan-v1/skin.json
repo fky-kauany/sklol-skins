@@ -1,0 +1,26 @@
+{
+	"id": "akshan-v1",
+	"name": "Akshan V1",
+	"champion": 166,
+	"base": 0,
+	"creator": "lita",
+	"description": "---\n\n**Created by** [lita](https://www.divineskins.gg/lita)\n\n**Original:** https://www.divineskins.gg/lita/akshan-v1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akshan-v1/thumb.webp?v=40001b0e",
+	"file": {
+		"version": 1,
+		"asset": "akshan-v1-v1.fantome",
+		"size": 9712308,
+		"sha256": "071904667ba470ec0b5f0e3aaf8dd2d90b620e7ff1acbfca67e4ce1da1dfa508"
+	},
+	"chromas": []
+}

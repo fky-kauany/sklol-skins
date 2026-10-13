@@ -1,0 +1,23 @@
+{
+	"id": "akshan-on-a-wheelchair",
+	"name": "akshan on a wheelchair",
+	"champion": 166,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/akshan-on-a-wheelchair\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akshan-on-a-wheelchair/thumb.webp?v=1ecbec3d",
+	"file": {
+		"version": 1,
+		"asset": "akshan-on-a-wheelchair-v1.fantome",
+		"size": 883540,
+		"sha256": "5d43c20476824c426b809a713e85eaadbfabb3584d3adde7bd6022d1eb6b4707"
+	},
+	"chromas": []
+}

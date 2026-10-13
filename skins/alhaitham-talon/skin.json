@@ -1,0 +1,26 @@
+{
+	"id": "alhaitham-talon",
+	"name": "Alhaitham - Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/alhaitham-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/alhaitham-talon/thumb.webp?v=78d038cb",
+	"file": {
+		"version": 1,
+		"asset": "alhaitham-talon-v1.fantome",
+		"size": 8806011,
+		"sha256": "aec557abdae35856b7675065a81945fdcf5e0eca18739a7602a4ea9c09d23193"
+	},
+	"chromas": []
+}

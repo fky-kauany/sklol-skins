@@ -1,0 +1,24 @@
+{
+	"id": "alien-hominid-ziggs",
+	"name": "alien hominid ziggs",
+	"champion": 115,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "aliens from out of space :v\nchampion: Ziggs\nmodified skin: Default\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/alien-hominid-ziggs\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/alien-hominid-ziggs/thumb.webp?v=0474ae84",
+	"file": {
+		"version": 1,
+		"asset": "alien-hominid-ziggs-v1.fantome",
+		"size": 1532287,
+		"sha256": "ebaf63272e340d00f792cc5bf707904616a7484010b38c455c2d401bc53c73ea"
+	},
+	"chromas": []
+}

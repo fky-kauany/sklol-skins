@@ -1,0 +1,26 @@
+{
+	"id": "alex-mercer-talon",
+	"name": "Alex Mercer Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### ? Mod Info\n**Type:** Alex Mercer as Talon with custom animations and more.\n**Modified Skin(s):** All skins except Legendary-tier and above.\n\n### ? Credits\n**Special Thanks:** OrangeDeus as the benefactor of the skin.\n\n### ? Additional Info\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n\n### ? Support Me\nEnjoyed the mod? Help fuel future projects: [Donate](ko-fi.com/czkostumli)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/alex-mercer-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/alex-mercer-talon/thumb.webp?v=2e5ff273",
+	"file": {
+		"version": 1,
+		"asset": "alex-mercer-talon-v1.fantome",
+		"size": 14423708,
+		"sha256": "c58c0cce66835a93c70b958a77f8d4cc38bd7087f9dd06c7b1b878559d85df45"
+	},
+	"chromas": []
+}

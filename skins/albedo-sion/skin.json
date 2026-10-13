@@ -1,0 +1,26 @@
+{
+	"id": "albedo-sion",
+	"name": "Albedo Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "disco",
+	"description": "Commission and idea by kayleful (on discord) <3\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/albedo-sion\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/albedo-sion/thumb.webp?v=a2a41244",
+	"file": {
+		"version": 1,
+		"asset": "albedo-sion-v1.fantome",
+		"size": 40046677,
+		"sha256": "6aca25cb1b84fbb3792870ed3d86795454da480b751e6a427104cb6f1f17b9c1"
+	},
+	"chromas": []
+}

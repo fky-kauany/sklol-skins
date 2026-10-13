@@ -1,0 +1,26 @@
+{
+	"id": "albert-wesker-lucian",
+	"name": "Albert wesker Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "**WHAT CHANGED**\n\n**VISUAL EFFECTS** \n**MODEL**\n**HUD**\n**SOUND EFFECTS**\n\n**COMMISION ME IN DISCORD @ceerel**\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/albert-wesker-lucian\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/albert-wesker-lucian/thumb.webp?v=eb4e2c04",
+	"file": {
+		"version": 1,
+		"asset": "albert-wesker-lucian-v1.fantome",
+		"size": 9489610,
+		"sha256": "12206df8ba688e77746f8c382d87ac0f60901e5e5a4b978e8c8a7be3e42aa60f"
+	},
+	"chromas": []
+}

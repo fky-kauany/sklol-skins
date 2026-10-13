@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:00:55.536Z",
+	"generatedAt": "2026-10-13T00:06:32.912Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8,6 +8,16 @@
 			"bio": "arclyris/ascilia side account used to post commissioned mods. check out my main page here \n\nhttps://divineskins.gg/archlyris",
 			"links": {
 				"discord": "https://discord.gg/yaByNwaxsP"
+			}
+		},
+		"archlyris": {
+			"name": "archlyris",
+			"avatar": "creators/archlyris.webp?v=0c15e821",
+			"bio": "do all sort of stuff",
+			"links": {
+				"discord": "https://discord.gg/yaByNwaxsP",
+				"site": "https://paypal.me/aclysfaya",
+				"youtube": "https://www.youtube.com/@ascila"
 			}
 		},
 		"azerkan67": {
@@ -24,6 +34,14 @@
 			"bio": "Commision in divine skins Discord server\nOr in dms @ceerel",
 			"links": {
 				"youtube": "https://www.youtube.com/@adcx9gonext"
+			}
+		},
+		"czcz": {
+			"name": "czcz",
+			"avatar": "creators/czcz.webp?v=d8cb95e7",
+			"bio": "i miss her sm",
+			"links": {
+				"kofi": "https://ko-fi.com/czkostumli"
 			}
 		},
 		"disco": {
@@ -81,6 +99,11 @@
 				"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png"
 			}
 		},
+		"lita": {
+			"name": "lita",
+			"avatar": "creators/lita.webp?v=7618fc10",
+			"links": {}
+		},
 		"mava": {
 			"name": "MAVA",
 			"bio": "i like to create anime mods\nIf you appreciate my work or like the skins and would consider donating, would be awesome <3",
@@ -129,6 +152,15 @@
 				"kofi": "https://ko-fi.com/wiko2303",
 				"twitch": "https://www.twitch.tv/zy0xxx",
 				"youtube": "https://www.youtube.com/@wikofiko"
+			}
+		},
+		"yigitvercetti": {
+			"name": "yigitvercetti",
+			"avatar": "creators/yigitvercetti.webp?v=cf447e62",
+			"links": {
+				"instagram": "https://www.instagram.com/yigitvercetti/?hl=tr",
+				"site": "https://buymeacoffee.com/yigitvercetti",
+				"youtube": "https://www.youtube.com/@yigitvercetti"
 			}
 		},
 		"yliimh": {
@@ -1061,6 +1093,259 @@
 				"asset": "akshan-dente-v1.fantome",
 				"size": 17709723,
 				"sha256": "31fe1c44b82b4ba615514e0e3fcad21d2669ef74f74b5937123cdc6d527dc738"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-on-a-wheelchair",
+			"name": "akshan on a wheelchair",
+			"champion": 166,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akshan-on-a-wheelchair/thumb.webp?v=1ecbec3d",
+			"file": {
+				"version": 1,
+				"asset": "akshan-on-a-wheelchair-v1.fantome",
+				"size": 883540,
+				"sha256": "5d43c20476824c426b809a713e85eaadbfabb3584d3adde7bd6022d1eb6b4707"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-siesta",
+			"name": "Akshan Siesta",
+			"champion": 166,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akshan-siesta/thumb.webp?v=49d36abe",
+			"file": {
+				"version": 1,
+				"asset": "akshan-siesta-v1.fantome",
+				"size": 15566883,
+				"sha256": "3185a0dfa16f340bf10c95cfc70702c95a964276695b5cebfc8d6668cecadc1f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-spiderman",
+			"name": "Spiderman",
+			"champion": 166,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akshan-spiderman/thumb.webp?v=05bfa3ed",
+			"file": {
+				"version": 1,
+				"asset": "akshan-spiderman-v1.fantome",
+				"size": 10266766,
+				"sha256": "4dee7039d3f7b4d84f405f8b4f6503c1acbb9787df92aedd00340803f7180135"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-v1",
+			"name": "Akshan V1",
+			"champion": 166,
+			"base": 0,
+			"creator": "lita",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akshan-v1/thumb.webp?v=40001b0e",
+			"file": {
+				"version": 1,
+				"asset": "akshan-v1-v1.fantome",
+				"size": 9712308,
+				"sha256": "071904667ba470ec0b5f0e3aaf8dd2d90b620e7ff1acbfca67e4ce1da1dfa508"
+			},
+			"chromas": []
+		},
+		{
+			"id": "albedo-sion",
+			"name": "Albedo Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/albedo-sion/thumb.webp?v=a2a41244",
+			"file": {
+				"version": 1,
+				"asset": "albedo-sion-v1.fantome",
+				"size": 40046677,
+				"sha256": "6aca25cb1b84fbb3792870ed3d86795454da480b751e6a427104cb6f1f17b9c1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "albert-wesker-lucian",
+			"name": "Albert wesker Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/albert-wesker-lucian/thumb.webp?v=eb4e2c04",
+			"file": {
+				"version": 1,
+				"asset": "albert-wesker-lucian-v1.fantome",
+				"size": 9489610,
+				"sha256": "12206df8ba688e77746f8c382d87ac0f60901e5e5a4b978e8c8a7be3e42aa60f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alex-mercer-riven",
+			"name": "Alex Mercer Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alex-mercer-riven/thumb.webp?v=377b1d20",
+			"file": {
+				"version": 1,
+				"asset": "alex-mercer-riven-v1.fantome",
+				"size": 1329186,
+				"sha256": "ab6401e38426a80d2c9bd6110af732b8ea1376f952841e59b94e104f61a4c561"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alex-mercer-talon",
+			"name": "Alex Mercer Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alex-mercer-talon/thumb.webp?v=2e5ff273",
+			"file": {
+				"version": 1,
+				"asset": "alex-mercer-talon-v1.fantome",
+				"size": 14423708,
+				"sha256": "c58c0cce66835a93c70b958a77f8d4cc38bd7087f9dd06c7b1b878559d85df45"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alhaitham-talon",
+			"name": "Alhaitham - Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alhaitham-talon/thumb.webp?v=78d038cb",
+			"file": {
+				"version": 1,
+				"asset": "alhaitham-talon-v1.fantome",
+				"size": 8806011,
+				"sha256": "aec557abdae35856b7675065a81945fdcf5e0eca18739a7602a4ea9c09d23193"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alien-hominid-ziggs",
+			"name": "alien hominid ziggs",
+			"champion": 115,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alien-hominid-ziggs/thumb.webp?v=0474ae84",
+			"file": {
+				"version": 1,
+				"asset": "alien-hominid-ziggs-v1.fantome",
+				"size": 1532287,
+				"sha256": "ebaf63272e340d00f792cc5bf707904616a7484010b38c455c2d401bc53c73ea"
 			},
 			"chromas": []
 		},
