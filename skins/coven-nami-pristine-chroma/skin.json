@@ -1,0 +1,23 @@
+{
+	"id": "coven-nami-pristine-chroma",
+	"name": "Coven Nami Pristine Chroma",
+	"champion": 267,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2100718093827821941?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Nami\n* Skin: Coven\n* Coven Nami Concept of Exclusive Chroma for Recent Chroma pack\n\n\n# ![](https://i.imgur.com/EElA6ea.png)\n\n# Bugs\n\n***\n\nno bugs yet\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/coven-nami-pristine-chroma\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/coven-nami-pristine-chroma/thumb.webp?v=0eb3beb6",
+	"file": {
+		"version": 1,
+		"asset": "coven-nami-pristine-chroma-v1.fantome",
+		"size": 47996035,
+		"sha256": "abd4a810cc68ff1f894b9aa6f7c8718509061825eea28eb99ca0932b7fc9103c"
+	},
+	"chromas": []
+}

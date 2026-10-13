@@ -1,0 +1,25 @@
+{
+	"id": "coven-janna",
+	"name": "Coven Janna",
+	"champion": 40,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2090330668261572716?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Janna\n* Skin: All\n* Coven Janna Concept Art/Legends of Runeterra made into real skin in the game\n\n# Features\n\n- Loadingscreen & HUD\n- VFX\n- Model\n\n# ![](https://i.imgur.com/GTv7FxY.gif)\n\n# Bugs\n\n***\n\nno bugs yet\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/coven-janna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/coven-janna/thumb.webp?v=49183a3a",
+	"file": {
+		"version": 1,
+		"asset": "coven-janna-v1.fantome",
+		"size": 18027989,
+		"sha256": "5b072a09049df6986eb2cd6fe9228d73aad670811130e9b07de78a633f56cc33"
+	},
+	"chromas": []
+}

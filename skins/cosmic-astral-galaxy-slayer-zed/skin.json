@@ -1,0 +1,23 @@
+{
+	"id": "cosmic-astral-galaxy-slayer-zed",
+	"name": "Cosmic Astral | Galaxy Slayer Zed",
+	"champion": 238,
+	"base": 13,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Cris from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/cosmic-astral-galaxy-slayer-zed\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cosmic-astral-galaxy-slayer-zed/thumb.webp?v=562b8828",
+	"file": {
+		"version": 1,
+		"asset": "cosmic-astral-galaxy-slayer-zed-v1.fantome",
+		"size": 2696497,
+		"sha256": "3e676f2e69c65c1b86a0e2774c9c4dc22ad09353ff6e2cdaf5fdfb7454d4b044"
+	},
+	"chromas": []
+}

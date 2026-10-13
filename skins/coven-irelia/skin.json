@@ -1,0 +1,25 @@
+{
+	"id": "coven-irelia",
+	"name": "Coven Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2078349522372001817?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Irelia\r\n* Skin: Default/Spirit Blossom\r\n* Coven Irelia Concept Art made into real skin in the game\r\n\r\n# Features\r\n\r\n- Loadingscreen & HUD\r\n- VFX\r\n- Model + Blades\r\n\r\n# ![](https://i.imgur.com/so0T4KF.png)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/coven-irelia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/coven-irelia/thumb.webp?v=916b717b",
+	"file": {
+		"version": 1,
+		"asset": "coven-irelia-v1.fantome",
+		"size": 62777328,
+		"sha256": "510a68ab44c00c86da42a36ed8a38bb09275b1c30a088cb58f8050f7fe66d3b4"
+	},
+	"chromas": []
+}

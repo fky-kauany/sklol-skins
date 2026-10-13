@@ -1,0 +1,26 @@
+{
+	"id": "cosmic-reaver-yasuo",
+	"name": "Cosmic Reaver Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/1982734017511502173?s=20 \"Source Post\")&#x20;\n\n# Mod Information\n\n***\n* Mod For: Yasuo\n* Skin: Default\n* Meme Skin of Yasuo\n\n# Features\n\n- Loadingscreen\n- VFX\n- Model + Weapon\n\n# ![](https://i.imgur.com/Cf2qnNI.png)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/cosmic-reaver-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cosmic-reaver-yasuo/thumb.webp?v=058cc120",
+	"file": {
+		"version": 1,
+		"asset": "cosmic-reaver-yasuo-v1.fantome",
+		"size": 38828052,
+		"sha256": "a13ffc8ed3351a8bf19bc70ee5f6afd03be7b787cf033cdd2ddf4de4f6e27e93"
+	},
+	"chromas": []
+}

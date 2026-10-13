@@ -1,0 +1,25 @@
+{
+	"id": "coven-gwen",
+	"name": "Coven Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2040775013477884347?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Gwen\n* Skin: Default\n* Coven Gwen Concept Art made into real skin in the game\n\n# Features\n\n- Loadingscreen & HUD\n- VFX\n- Model + Weapon\n\n# ![](https://i.imgur.com/zFdpMyO.png)\n\n# Bugs\n\n***\n\nno bugs yet\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/coven-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/coven-gwen/thumb.webp?v=d0b69fa1",
+	"file": {
+		"version": 1,
+		"asset": "coven-gwen-v1.fantome",
+		"size": 13212014,
+		"sha256": "7b6e2cd3ad82ec70e77fcc5d03facfc309575e59f475b68ac5c1f653e6bd2f12"
+	},
+	"chromas": []
+}

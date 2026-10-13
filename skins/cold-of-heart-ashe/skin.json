@@ -1,0 +1,26 @@
+{
+	"id": "cold-of-heart-ashe",
+	"name": "Cold of Heart Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "dear-agony",
+	"description": "### Overview\r\n\r\nA custom mod replacing Ashe with the Dread Retribution Arcana from Dota 2.\r\n\r\nYou can also preview the [Master of Madness](https://www.divineskins.gg/Dear_Agony/master-of-madness-ashe) style\r\n\r\n---\r\n\r\n### Assets\r\n\r\nHero: Drow Ranger from Dota 2\r\n\r\nModel: Dread Retribution Arcana\r\n\r\nStyle: **Cold of Heart**\r\n\r\n---\r\n\r\n### Audio\r\n\r\nVoice Lines: Completely new voice-over featuring 123 voice lines\r\n\r\nSound Effects: DRX Ashe\r\n\r\n---\r\n\r\n### Animations\r\n\r\nThe original Ashe animations have been replaced with 21 unique animations\r\n\r\n---\r\n\r\n### References\r\n\r\n[Dread Retribution voice lines](https://dota2.fandom.com/wiki/Dread_Retribution_Bundle/Responses)\r\n\r\n---\r\n\r\n### Compatibility\r\n\r\nWorks with Base Skin\r\n\r\n---\r\n\r\n### Credits\r\n\r\nAll Dota 2 assets used in this mod are property of Valve Corporation\r\n\r\nThis mod was created for entertainment purposes only\r\n\r\n---\r\n\r\n### Feedback\r\n\r\nIf you encounter issues, have suggestions, or want to share feedback, feel free to contact me on Discord\r\n\r\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://www.divineskins.gg/Dear_Agony)\n\n**Original:** https://www.divineskins.gg/Dear_Agony/dread-retribution-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cold-of-heart-ashe/thumb.webp?v=544fd9e5",
+	"file": {
+		"version": 1,
+		"asset": "cold-of-heart-ashe-v1.fantome",
+		"size": 26497289,
+		"sha256": "5277b8991b9078c1ed92ec5e4403b936f1a49078f0b145ab7ae0168fcff19ee3"
+	},
+	"chromas": []
+}

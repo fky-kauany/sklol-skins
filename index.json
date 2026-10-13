@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:41:05.198Z",
+	"generatedAt": "2026-10-13T01:44:36.719Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -6713,6 +6713,255 @@
 				"asset": "clown-springtrap-shaco-v1.fantome",
 				"size": 15058901,
 				"sha256": "ffdfcfce1db8e9e31d6ab917d75bcee967091b0ca4aa27d57a4fde71f4e057c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cold-of-heart-ashe",
+			"name": "Cold of Heart Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "dear-agony",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cold-of-heart-ashe/thumb.webp?v=544fd9e5",
+			"file": {
+				"version": 1,
+				"asset": "cold-of-heart-ashe-v1.fantome",
+				"size": 26497289,
+				"sha256": "5277b8991b9078c1ed92ec5e4403b936f1a49078f0b145ab7ae0168fcff19ee3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cosmic-astral-galaxy-slayer-zed",
+			"name": "Cosmic Astral | Galaxy Slayer Zed",
+			"champion": 238,
+			"base": 13,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cosmic-astral-galaxy-slayer-zed/thumb.webp?v=562b8828",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-astral-galaxy-slayer-zed-v1.fantome",
+				"size": 2696497,
+				"sha256": "3e676f2e69c65c1b86a0e2774c9c4dc22ad09353ff6e2cdaf5fdfb7454d4b044"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cosmic-reaver-yasuo",
+			"name": "Cosmic Reaver Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cosmic-reaver-yasuo/thumb.webp?v=058cc120",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-reaver-yasuo-v1.fantome",
+				"size": 38828052,
+				"sha256": "a13ffc8ed3351a8bf19bc70ee5f6afd03be7b787cf033cdd2ddf4de4f6e27e93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cottontail-rengar-rebirth",
+			"name": "Cottontail Rengar [Rebirth]",
+			"champion": 107,
+			"base": 0,
+			"creator": "backstab",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cottontail-rengar-rebirth/thumb.webp?v=7a36ed44",
+			"file": {
+				"version": 1,
+				"asset": "cottontail-rengar-rebirth-v1.fantome",
+				"size": 5814152,
+				"sha256": "5e2e5459b31246ad8c1942dd9ff52375a9e4b9e2960f05a46133c727049605fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-gwen",
+			"name": "Coven Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/coven-gwen/thumb.webp?v=d0b69fa1",
+			"file": {
+				"version": 1,
+				"asset": "coven-gwen-v1.fantome",
+				"size": 13212014,
+				"sha256": "7b6e2cd3ad82ec70e77fcc5d03facfc309575e59f475b68ac5c1f653e6bd2f12"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-irelia",
+			"name": "Coven Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/coven-irelia/thumb.webp?v=916b717b",
+			"file": {
+				"version": 1,
+				"asset": "coven-irelia-v1.fantome",
+				"size": 62777328,
+				"sha256": "510a68ab44c00c86da42a36ed8a38bb09275b1c30a088cb58f8050f7fe66d3b4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-janna",
+			"name": "Coven Janna",
+			"champion": 40,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/coven-janna/thumb.webp?v=49183a3a",
+			"file": {
+				"version": 1,
+				"asset": "coven-janna-v1.fantome",
+				"size": 18027989,
+				"sha256": "5b072a09049df6986eb2cd6fe9228d73aad670811130e9b07de78a633f56cc33"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-karma",
+			"name": "Coven Karma",
+			"champion": 43,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/coven-karma/thumb.webp?v=af7b2e77",
+			"file": {
+				"version": 1,
+				"asset": "coven-karma-v1.fantome",
+				"size": 36304955,
+				"sha256": "45206e2f43600f1ec13b0018f76868b33513aee55abe3e069d03b1cbe58808dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-katarina",
+			"name": "Coven Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/coven-katarina/thumb.webp?v=04ddb649",
+			"file": {
+				"version": 1,
+				"asset": "coven-katarina-v1.fantome",
+				"size": 17990283,
+				"sha256": "d7cdb2130bb1171e1b6e8376b0ea13cf91f4ca7a33465e864268ce544c042f50"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-nami-pristine-chroma",
+			"name": "Coven Nami Pristine Chroma",
+			"champion": 267,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/coven-nami-pristine-chroma/thumb.webp?v=0eb3beb6",
+			"file": {
+				"version": 1,
+				"asset": "coven-nami-pristine-chroma-v1.fantome",
+				"size": 47996035,
+				"sha256": "abd4a810cc68ff1f894b9aa6f7c8718509061825eea28eb99ca0932b7fc9103c"
 			},
 			"chromas": []
 		},
