@@ -1,0 +1,25 @@
+{
+	"id": "sayu-veigar",
+	"name": "Sayu Veigar",
+	"champion": 45,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Sayu Veigar\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/sayu-veigar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sayu-veigar/thumb.webp?v=770820ea",
+	"file": {
+		"version": 1,
+		"asset": "sayu-veigar-v1.fantome",
+		"size": 4205326,
+		"sha256": "f97d93d4f73dd82dea1b74d884e19a0235ab2a21651d571be9486afe27670e65"
+	},
+	"chromas": []
+}

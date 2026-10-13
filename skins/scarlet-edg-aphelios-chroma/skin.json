@@ -1,0 +1,24 @@
+{
+	"id": "scarlet-edg-aphelios-chroma",
+	"name": "Scarlet EDG Aphelios Chroma",
+	"champion": 523,
+	"base": 0,
+	"creator": "shelzy",
+	"description": "### ? Mod Info\n\n- Champion: Aphelios\n- Modified skin: EDG Aphelios\n- Author: Shelzy\n\n### ? Please you NEED EDG Aphelios for the mod.\n\n### ? Additional Info\n\nIf you find any bug or want to give some feedback contact me in discord\n\n- shelzymadara\n\n---\n\n**Created by** [Shelzy](https://www.divineskins.gg/Shelzy)\n\n**Original:** https://www.divineskins.gg/Shelzy/scarlet-edg-aphelios-chroma\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/scarlet-edg-aphelios-chroma/thumb.webp?v=8738be81",
+	"file": {
+		"version": 1,
+		"asset": "scarlet-edg-aphelios-chroma-v1.fantome",
+		"size": 4896466,
+		"sha256": "f18ae207c254b267fa33815837ecff5c8c3c5e33ba34ad9b2bf5d3d56a557527"
+	},
+	"chromas": []
+}

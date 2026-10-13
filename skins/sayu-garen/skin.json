@@ -1,0 +1,26 @@
+{
+	"id": "sayu-garen",
+	"name": "Sayu Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Sayu Garen\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.1.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/sayu-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sayu-garen/thumb.webp?v=208aa552",
+	"file": {
+		"version": 1,
+		"asset": "sayu-garen-v1.fantome",
+		"size": 8029015,
+		"sha256": "728374fb1a187dfde7c198f4a03b8fa1a2adb571138cc24e99b77d0eadada208"
+	},
+	"chromas": []
+}

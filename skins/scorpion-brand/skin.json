@@ -1,0 +1,23 @@
+{
+	"id": "scorpion-brand",
+	"name": "scorpion brand",
+	"champion": 63,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"vengeance will be mine\"\n\n***\n\n**Modified champion: Brand**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game:** Mortal Kombat shaolin monks (best game) thanks this guy : [StrangerX01](https://www.deviantart.com/strangerx01/art/MKSM-Models-DL-In-Description-1048509820)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/scorpion-brand\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/scorpion-brand/thumb.webp?v=76437673",
+	"file": {
+		"version": 1,
+		"asset": "scorpion-brand-v1.fantome",
+		"size": 991121,
+		"sha256": "30c48c4b41f46190356288d785443c6b6473c36c6d8ac73d324dd0152393a780"
+	},
+	"chromas": []
+}

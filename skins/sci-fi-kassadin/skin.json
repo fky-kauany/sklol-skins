@@ -1,0 +1,27 @@
+{
+	"id": "sci-fi-kassadin",
+	"name": "Sci-Fi Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "epel",
+	"description": "Has a custom base animation, Custom sound effects and ability animations. Custom made model. Has different versions like a gray version and a black version, blackblue version, white version.\n\n---\n\n**Created by** [epel](https://www.divineskins.gg/epel)\n\n**Original:** https://www.divineskins.gg/epel/sci-fi-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sci-fi-kassadin/thumb.webp?v=4cdb2d3c",
+	"file": {
+		"version": 1,
+		"asset": "sci-fi-kassadin-v1.fantome",
+		"size": 8467434,
+		"sha256": "a894e101444a3e0a80b359771fbddfa51089834e6dccdc2b9e82b3bf77575f56"
+	},
+	"chromas": []
+}

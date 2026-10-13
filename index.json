@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:53:19.668Z",
+	"generatedAt": "2026-10-13T05:56:35.014Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14163,6 +14163,261 @@
 				"asset": "santa-gangplank-v1.fantome",
 				"size": 18185213,
 				"sha256": "d365cf94a7a04540cd89e4884f12148c6af38d38ff89bffdacd4583561e2b80f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sao-sinon-caitlyn",
+			"name": "SAO SINON CAITLYN",
+			"champion": 51,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sao-sinon-caitlyn/thumb.webp?v=463a44e4",
+			"file": {
+				"version": 1,
+				"asset": "sao-sinon-caitlyn-v1.fantome",
+				"size": 9423241,
+				"sha256": "cf0dfd8e6395a1d76308e9e175b9ab3fa2c3202552e182c657e1326dcb44ba67"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sasuke-varus",
+			"name": "Sasuke Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sasuke-varus/thumb.webp?v=d9c5ffaa",
+			"file": {
+				"version": 1,
+				"asset": "sasuke-varus-v1.fantome",
+				"size": 11323304,
+				"sha256": "6bc090f5ea592407086912372f14cff98a733a9064530c21b604406fb5ef23a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sasuke-viego",
+			"name": "Sasuke Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sasuke-viego/thumb.webp?v=6a2ffa14",
+			"file": {
+				"version": 1,
+				"asset": "sasuke-viego-v1.fantome",
+				"size": 17763542,
+				"sha256": "1269a128194bd95eb1796b79737e361df4e701627f41dffe95801604c99d638e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sasuke-yasuo",
+			"name": "Sasuke Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sasuke-yasuo/thumb.webp?v=2c30073e",
+			"file": {
+				"version": 1,
+				"asset": "sasuke-yasuo-v1.fantome",
+				"size": 57239853,
+				"sha256": "e198dec7dc479ca0dfbfaaa1a3a47d5dd1f3ed06ccded90d172db887d76ddf1b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sayu-garen",
+			"name": "Sayu Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sayu-garen/thumb.webp?v=208aa552",
+			"file": {
+				"version": 1,
+				"asset": "sayu-garen-v1.fantome",
+				"size": 8029015,
+				"sha256": "728374fb1a187dfde7c198f4a03b8fa1a2adb571138cc24e99b77d0eadada208"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sayu-veigar",
+			"name": "Sayu Veigar",
+			"champion": 45,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sayu-veigar/thumb.webp?v=770820ea",
+			"file": {
+				"version": 1,
+				"asset": "sayu-veigar-v1.fantome",
+				"size": 4205326,
+				"sha256": "f97d93d4f73dd82dea1b74d884e19a0235ab2a21651d571be9486afe27670e65"
+			},
+			"chromas": []
+		},
+		{
+			"id": "scarlet-edg-aphelios-chroma",
+			"name": "Scarlet EDG Aphelios Chroma",
+			"champion": 523,
+			"base": 0,
+			"creator": "shelzy",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/scarlet-edg-aphelios-chroma/thumb.webp?v=8738be81",
+			"file": {
+				"version": 1,
+				"asset": "scarlet-edg-aphelios-chroma-v1.fantome",
+				"size": 4896466,
+				"sha256": "f18ae207c254b267fa33815837ecff5c8c3c5e33ba34ad9b2bf5d3d56a557527"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sci-fi-kassadin",
+			"name": "Sci-Fi Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "epel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sci-fi-kassadin/thumb.webp?v=4cdb2d3c",
+			"file": {
+				"version": 1,
+				"asset": "sci-fi-kassadin-v1.fantome",
+				"size": 8467434,
+				"sha256": "a894e101444a3e0a80b359771fbddfa51089834e6dccdc2b9e82b3bf77575f56"
+			},
+			"chromas": []
+		},
+		{
+			"id": "scooby-doo-zed",
+			"name": "Scooby-Doo Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/scooby-doo-zed/thumb.webp?v=786b67c6",
+			"file": {
+				"version": 1,
+				"asset": "scooby-doo-zed-v1.fantome",
+				"size": 17844470,
+				"sha256": "56ae228a590cfa31ecf95b1be35e4ea73a16aaa38adf36b394d06727f2143e10"
+			},
+			"chromas": []
+		},
+		{
+			"id": "scorpion-brand",
+			"name": "scorpion brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/scorpion-brand/thumb.webp?v=76437673",
+			"file": {
+				"version": 1,
+				"asset": "scorpion-brand-v1.fantome",
+				"size": 991121,
+				"sha256": "30c48c4b41f46190356288d785443c6b6473c36c6d8ac73d324dd0152393a780"
 			},
 			"chromas": []
 		},

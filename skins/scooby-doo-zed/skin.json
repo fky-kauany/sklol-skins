@@ -1,0 +1,26 @@
+{
+	"id": "scooby-doo-zed",
+	"name": "Scooby-Doo Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### SCOOBY DOO AS ZED\nHALLOWEEN EDITION\nThis modification for League of Legends is not affiliated with Riot Games, Warner Bros., or Epic Games. It is a free, fan-made creation.\ni miss her sm\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/scooby-doo-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/scooby-doo-zed/thumb.webp?v=786b67c6",
+	"file": {
+		"version": 1,
+		"asset": "scooby-doo-zed-v1.fantome",
+		"size": 17844470,
+		"sha256": "56ae228a590cfa31ecf95b1be35e4ea73a16aaa38adf36b394d06727f2143e10"
+	},
+	"chromas": []
+}

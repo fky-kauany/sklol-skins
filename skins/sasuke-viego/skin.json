@@ -1,0 +1,26 @@
+{
+	"id": "sasuke-viego",
+	"name": "Sasuke Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "frog",
+	"description": "The king has returned, and he's bringing the darkness with him. This custom **Sasuke** skin for **Viego** perfectly blends the Uchiha's vengeful legacy with the Ruined King's tragic power. With a redesigned blade and a chilling new look, you'll feel the weight of the Sharingan as you possess your enemies and corrupt the land with your rage. This is the ultimate skin for those who walk a path of vengeance.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sasuke-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sasuke-viego/thumb.webp?v=6a2ffa14",
+	"file": {
+		"version": 1,
+		"asset": "sasuke-viego-v1.fantome",
+		"size": 17763542,
+		"sha256": "1269a128194bd95eb1796b79737e361df4e701627f41dffe95801604c99d638e"
+	},
+	"chromas": []
+}

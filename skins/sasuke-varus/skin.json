@@ -1,0 +1,26 @@
+{
+	"id": "sasuke-varus",
+	"name": "Sasuke Varus",
+	"champion": 110,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sasuke-varus\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sasuke-varus/thumb.webp?v=d9c5ffaa",
+	"file": {
+		"version": 1,
+		"asset": "sasuke-varus-v1.fantome",
+		"size": 11323304,
+		"sha256": "6bc090f5ea592407086912372f14cff98a733a9064530c21b604406fb5ef23a1"
+	},
+	"chromas": []
+}
