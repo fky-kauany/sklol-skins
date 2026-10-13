@@ -1,0 +1,26 @@
+{
+	"id": "riven-maki-zenin",
+	"name": "Maki Zenin",
+	"champion": 92,
+	"base": 0,
+	"creator": "oyashxro",
+	"description": "Zenin Maki Riven • Custom model • Custom Abilities • Works on every Riven skin • Custom Voiceover of Riven\n\n---\n\n**Created by** [oyashxro](https://www.divineskins.gg/oyashxro)\n\n**Original:** https://www.divineskins.gg/oyashxro/maki-zenin-riven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/riven-maki-zenin/thumb.webp?v=a8e4082c",
+	"file": {
+		"version": 1,
+		"asset": "riven-maki-zenin-v1.fantome",
+		"size": 6328961,
+		"sha256": "d92fdb03ae6ccb106bbae489624ac17be3447d9cd363dbd189abcf647a30757a"
+	},
+	"chromas": []
+}

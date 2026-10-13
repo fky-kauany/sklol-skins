@@ -1,0 +1,26 @@
+{
+	"id": "riven-cloud-remaster",
+	"name": "Riven cloud (Remaster)",
+	"champion": 92,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "COMMISION ME ON DISCORD @Ceerel\n ## RIVEN CLOUD REMASTER\n- CLOUD Nindostyle Model\n- UPDATED BETTER VFX\n- CUSTOM HOMEGAURD ANIM\n- BETTER AND MORE VO\n- BETTER TEXTURE AND SHADERS \n\n\nCOMMISION FOR @gubblegumm\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/riven-cloud-remaster\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/riven-cloud-remaster/thumb.webp?v=f87e7eb7",
+	"file": {
+		"version": 1,
+		"asset": "riven-cloud-remaster-v1.fantome",
+		"size": 21845278,
+		"sha256": "75cf27720bbdf2b26af00537fbabd3d379b50c3e647966bc8438aa37792cc79e"
+	},
+	"chromas": []
+}

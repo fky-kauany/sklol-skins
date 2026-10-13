@@ -1,0 +1,26 @@
+{
+	"id": "riven-2b",
+	"name": "2B",
+	"champion": 92,
+	"base": 0,
+	"creator": "frog",
+	"description": "2.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/2b-riven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/riven-2b/thumb.webp?v=c1831a76",
+	"file": {
+		"version": 1,
+		"asset": "riven-2b-v1.fantome",
+		"size": 11267137,
+		"sha256": "29e9e0e9d08134ba203387f8281843a238b0b5c3b9766558f0d28f3c98f790e0"
+	},
+	"chromas": []
+}

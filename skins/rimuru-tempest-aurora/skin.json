@@ -1,0 +1,26 @@
+{
+	"id": "rimuru-tempest-aurora",
+	"name": "Rimuru Tempest - Aurora",
+	"champion": 893,
+	"base": 0,
+	"creator": "magnaplayer",
+	"description": "**What if the founder of Tempest took Aurora's place on the Rift?**\n\nThis mod replaces Aurora with Rimuru Tempest from That Time I Got Reincarnated as a Slime. The mod features a custom character model along with animation adjustments made to better suit Rimuru's appearance and proportions.\n\nSeveral animations have been edited and adapted by hand to work with the model. While some animations may look slightly different from the original champion, every effort was made to create a fun and fitting experience.\n\nWhether you're a longtime Tensura fan or simply want a fresh way to play Aurora, Rimuru brings a unique look to the champion while preserving the original gameplay.\n\nCredits\nmodel source:\nhttps://www.deviantart.com/hadzirm/art/WIP-Rimuru-and-Milim-hopefully-905934826\n\n**Mod creation, animation edits, and League of Legends port: MagnaPlayer**\n\n**let me know if something breaks**\n\n---\n\n**Created by** [MagnaPlayer](https://www.divineskins.gg/MagnaPlayer)\n\n**Original:** https://www.divineskins.gg/MagnaPlayer/rimuru-tempest-aurora\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rimuru-tempest-aurora/thumb.webp?v=f3b63879",
+	"file": {
+		"version": 1,
+		"asset": "rimuru-tempest-aurora-v1.fantome",
+		"size": 9613750,
+		"sha256": "a834c340ab420eb90af06fabe97bf8fc4fa55c8daeaa707712c94e2dc53e3485"
+	},
+	"chromas": []
+}

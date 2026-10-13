@@ -1,0 +1,26 @@
+{
+	"id": "rimuru-tempest-viego",
+	"name": "Rimuru Tempest Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Arena of Valor)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/rimuru-tempest-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rimuru-tempest-viego/thumb.webp?v=cee5eedd",
+	"file": {
+		"version": 1,
+		"asset": "rimuru-tempest-viego-v1.fantome",
+		"size": 56149054,
+		"sha256": "25137dadbec23b64e7b4866535f01dc099ec010a8caecf725f6a0b5cd909dfee"
+	},
+	"chromas": []
+}

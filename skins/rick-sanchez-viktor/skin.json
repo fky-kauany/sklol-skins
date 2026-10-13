@@ -1,0 +1,26 @@
+{
+	"id": "rick-sanchez-viktor",
+	"name": "Rick Sanchez Viktor",
+	"champion": 112,
+	"base": 0,
+	"creator": "czcz",
+	"description": "# RICK SANCHEZ AS VIKTOR\nWant a commission?? DM me on Discord - CZ224 (CZ in every server)\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/rick-sanchez-viktor\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rick-sanchez-viktor/thumb.webp?v=16cd101d",
+	"file": {
+		"version": 1,
+		"asset": "rick-sanchez-viktor-v1.fantome",
+		"size": 45681360,
+		"sha256": "8bc88c63eb2e929d095da68ab293b1b864c86999425815e6d49bb4d78d71e378"
+	},
+	"chromas": []
+}

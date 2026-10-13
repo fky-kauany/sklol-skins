@@ -244,6 +244,12 @@
 			"kofi": "https://ko-fi.com/epellol"
 		}
 	},
+	"et-reggie": {
+		"name": "ET_Reggie",
+		"links": {
+			"site": "https://infmirror.booth.pm/"
+		}
+	},
 	"etdoan": {
 		"name": "Etdoan",
 		"avatar": "creators/etdoan.png?v=df0e2d05",

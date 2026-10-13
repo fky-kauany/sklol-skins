@@ -1,0 +1,26 @@
+{
+	"id": "reze-neeko",
+	"name": "Reze Neeko",
+	"champion": 518,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "### 📌 Mod Info\n**Type:** Custom Skin\n**Modified Skin(s):** All skins\n\n**Features:**\n- Custom model\n- Custom VFX\n- Custom SFX\n- Custom Animations\n\n\n\n**Commissioned by:** garden6114\n\n\n\n*Fan-made, not affiliated with Riot Games, Nintendo or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/reze-neeko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/reze-neeko/thumb.webp?v=b0d23f6b",
+	"file": {
+		"version": 1,
+		"asset": "reze-neeko-v1.fantome",
+		"size": 13092344,
+		"sha256": "019811f8aecd29607f92bd2a9f7a61d23e4ead87095bc54125d2b4c6ed51529a"
+	},
+	"chromas": []
+}

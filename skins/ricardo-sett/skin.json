@@ -1,0 +1,26 @@
+{
+	"id": "ricardo-sett",
+	"name": "Ricardo Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "et-reggie",
+	"description": "Special thanks and credits to 合わせ鏡工房 for making the Tattoo textures and allowing me to use them.\n\nThis is their Booth if you want to check them out: https://infmirror.booth.pm\n\nThis replaces base sett and the cape can be a bit rough so you can toggle with ctrl + 5\n\nThe middle never forgets\n\n**Terms of Use**\nyou are free to modify and create derivative works of this mod with the exception of the tattoo textures included on the body, book, and ability indicator assets are NOT covered by this license. You must contact \"合わせ鏡工房\" at \"https://infmirror.booth.pm\" for explicit written permission before using, modifying, or redistributing them.\n\n**Restrictions**\nYou may NOT:\n  a. redistribute this mod, in whole or in part, without prior written permission (except as part of a derivative work that complies with the above)\n\n  b. claim this mod or its assets as your own work.\n\n  c. use this mod or its assets for political purposes, including but not limited to political campaigns, advocacy, or partisan messaging.\n\n  d. use this mod or its assets to train, fine-tune, or develop any AI or machine learning model.\n\n  e. take any action that violates Project Moon's fan creation guidelines.\n\n---\n\n**Created by** [ET_Reggie](https://www.divineskins.gg/ET_Reggie)\n\n**Original:** https://www.divineskins.gg/ET_Reggie/ricardo-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ricardo-sett/thumb.webp?v=b95fc520",
+	"file": {
+		"version": 1,
+		"asset": "ricardo-sett-v1.fantome",
+		"size": 24757960,
+		"sha256": "54eb7b57aac94dcb5e41ecab127e54ce91a6a0b6dab780b40abbc2f47318052f"
+	},
+	"chromas": []
+}

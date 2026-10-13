@@ -1,0 +1,26 @@
+{
+	"id": "revenant-nocturne",
+	"name": "Revenant Nocturne",
+	"champion": 56,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# REVENANT NOCTURNE\nA better Cursed Revenant skin bringing the model closer to its gothic visual style.\n\n## Features:\n- New ability VFX\n- Full Recolor\n- New HD model and artwork\n- HUD and icons to match\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/revenant-nocturne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/revenant-nocturne/thumb.webp?v=a99e3019",
+	"file": {
+		"version": 1,
+		"asset": "revenant-nocturne-v1.fantome",
+		"size": 7051982,
+		"sha256": "7d528ab2587e73030871420fc59c675e29347c32f2f5fab28a32653687aa326d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "rita-mel",
+	"name": "Rita Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Rita Mel\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/rita-mel\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rita-mel/thumb.webp?v=42fb8be1",
+	"file": {
+		"version": 1,
+		"asset": "rita-mel-v1.fantome",
+		"size": 3304676,
+		"sha256": "46e25e7b69cb76c12979bb75c40050ae44d675ce685367aca25ea631a52fcebf"
+	},
+	"chromas": []
+}

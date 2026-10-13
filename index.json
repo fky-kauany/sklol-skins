@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:39:49.833Z",
+	"generatedAt": "2026-10-13T05:43:07.106Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -245,6 +245,12 @@
 			"name": "epel",
 			"links": {
 				"kofi": "https://ko-fi.com/epellol"
+			}
+		},
+		"et-reggie": {
+			"name": "ET_Reggie",
+			"links": {
+				"site": "https://infmirror.booth.pm/"
 			}
 		},
 		"etdoan": {
@@ -13122,6 +13128,264 @@
 				"asset": "rengoku-talon-v1.fantome",
 				"size": 12487098,
 				"sha256": "fc8320af16f8c0b5d54ac331f547853e887e92abd18f2ce554f3626dc5ce80bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "revenant-nocturne",
+			"name": "Revenant Nocturne",
+			"champion": 56,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/revenant-nocturne/thumb.webp?v=a99e3019",
+			"file": {
+				"version": 1,
+				"asset": "revenant-nocturne-v1.fantome",
+				"size": 7051982,
+				"sha256": "7d528ab2587e73030871420fc59c675e29347c32f2f5fab28a32653687aa326d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "reze-neeko",
+			"name": "Reze Neeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/reze-neeko/thumb.webp?v=b0d23f6b",
+			"file": {
+				"version": 1,
+				"asset": "reze-neeko-v1.fantome",
+				"size": 13092344,
+				"sha256": "019811f8aecd29607f92bd2a9f7a61d23e4ead87095bc54125d2b4c6ed51529a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ricardo-sett",
+			"name": "Ricardo Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "et-reggie",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ricardo-sett/thumb.webp?v=b95fc520",
+			"file": {
+				"version": 1,
+				"asset": "ricardo-sett-v1.fantome",
+				"size": 24757960,
+				"sha256": "54eb7b57aac94dcb5e41ecab127e54ce91a6a0b6dab780b40abbc2f47318052f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rick-sanchez-viktor",
+			"name": "Rick Sanchez Viktor",
+			"champion": 112,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rick-sanchez-viktor/thumb.webp?v=16cd101d",
+			"file": {
+				"version": 1,
+				"asset": "rick-sanchez-viktor-v1.fantome",
+				"size": 45681360,
+				"sha256": "8bc88c63eb2e929d095da68ab293b1b864c86999425815e6d49bb4d78d71e378"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rimuru-tempest-aurora",
+			"name": "Rimuru Tempest - Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "magnaplayer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rimuru-tempest-aurora/thumb.webp?v=f3b63879",
+			"file": {
+				"version": 1,
+				"asset": "rimuru-tempest-aurora-v1.fantome",
+				"size": 9613750,
+				"sha256": "a834c340ab420eb90af06fabe97bf8fc4fa55c8daeaa707712c94e2dc53e3485"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rimuru-tempest-viego",
+			"name": "Rimuru Tempest Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rimuru-tempest-viego/thumb.webp?v=cee5eedd",
+			"file": {
+				"version": 1,
+				"asset": "rimuru-tempest-viego-v1.fantome",
+				"size": 56149054,
+				"sha256": "25137dadbec23b64e7b4866535f01dc099ec010a8caecf725f6a0b5cd909dfee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rita-mel",
+			"name": "Rita Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rita-mel/thumb.webp?v=42fb8be1",
+			"file": {
+				"version": 1,
+				"asset": "rita-mel-v1.fantome",
+				"size": 3304676,
+				"sha256": "46e25e7b69cb76c12979bb75c40050ae44d675ce685367aca25ea631a52fcebf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-2b",
+			"name": "2B",
+			"champion": 92,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/riven-2b/thumb.webp?v=c1831a76",
+			"file": {
+				"version": 1,
+				"asset": "riven-2b-v1.fantome",
+				"size": 11267137,
+				"sha256": "29e9e0e9d08134ba203387f8281843a238b0b5c3b9766558f0d28f3c98f790e0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-cloud-remaster",
+			"name": "Riven cloud (Remaster)",
+			"champion": 92,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/riven-cloud-remaster/thumb.webp?v=f87e7eb7",
+			"file": {
+				"version": 1,
+				"asset": "riven-cloud-remaster-v1.fantome",
+				"size": 21845278,
+				"sha256": "75cf27720bbdf2b26af00537fbabd3d379b50c3e647966bc8438aa37792cc79e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-maki-zenin",
+			"name": "Maki Zenin",
+			"champion": 92,
+			"base": 0,
+			"creator": "oyashxro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/riven-maki-zenin/thumb.webp?v=a8e4082c",
+			"file": {
+				"version": 1,
+				"asset": "riven-maki-zenin-v1.fantome",
+				"size": 6328961,
+				"sha256": "d92fdb03ae6ccb106bbae489624ac17be3447d9cd363dbd189abcf647a30757a"
 			},
 			"chromas": []
 		},
