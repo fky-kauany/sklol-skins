@@ -1,0 +1,25 @@
+{
+	"id": "darius-hidan",
+	"name": "Hidan",
+	"champion": 122,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/hidan-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darius-hidan/thumb.webp?v=34c1dc5d",
+	"file": {
+		"version": 1,
+		"asset": "darius-hidan-v1.fantome",
+		"size": 9148436,
+		"sha256": "10e3a2453e3dc408e315674403eef17684d50416132b88139e4a9f51a504ea6a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "darius-iron",
+	"name": "Iron",
+	"champion": 122,
+	"base": 0,
+	"creator": "frog",
+	"description": "Iron Darius • Custom model • Custom Abilities • Voicelines • Works on every Darius skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/iron-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darius-iron/thumb.webp?v=0e5b6dfd",
+	"file": {
+		"version": 1,
+		"asset": "darius-iron-v1.fantome",
+		"size": 34435684,
+		"sha256": "ad19dff9877a578426e97ab52dc2594167b031e2e56439d34f32a137388dfadc"
+	},
+	"chromas": []
+}

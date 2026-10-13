@@ -1,0 +1,24 @@
+{
+	"id": "darius-garen",
+	"name": "Darius Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Garen\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/darius-garen\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darius-garen/thumb.webp?v=ecec0eb7",
+	"file": {
+		"version": 1,
+		"asset": "darius-garen-v1.fantome",
+		"size": 1997353,
+		"sha256": "a92037a999b2a0b6e257bd0248f7ce8489ae8893180793aae6a021de9ff5d090"
+	},
+	"chromas": []
+}

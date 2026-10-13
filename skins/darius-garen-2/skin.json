@@ -1,0 +1,26 @@
+{
+	"id": "darius-garen-2",
+	"name": "Darius: Garen",
+	"champion": 122,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "Garen infiltrating noxus\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/darius-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darius-garen-2/thumb.webp?v=e9d66f5e",
+	"file": {
+		"version": 1,
+		"asset": "darius-garen-2-v1.fantome",
+		"size": 10208239,
+		"sha256": "5450def4e1a7cc7382df1529a540c372b4ed92fe5c569e42a6160018c8703f76"
+	},
+	"chromas": []
+}

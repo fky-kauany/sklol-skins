@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:48:44.579Z",
+	"generatedAt": "2026-10-13T01:51:52.497Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -7230,6 +7230,256 @@
 				"asset": "curren-chan-karma-from-uma-musume-v1.fantome",
 				"size": 28600608,
 				"sha256": "5f186e0e59dcda3ce56e54b2eb91c7dabacb19e4b1d98a3dadb143d99cdf0a89"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cyan-heaven-galaxy-slayer-zed",
+			"name": "Cyan Heaven | Galaxy Slayer Zed",
+			"champion": 238,
+			"base": 13,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cyan-heaven-galaxy-slayer-zed/thumb.webp?v=fd0a85cf",
+			"file": {
+				"version": 1,
+				"asset": "cyan-heaven-galaxy-slayer-zed-v1.fantome",
+				"size": 3881177,
+				"sha256": "aed3a3dd7a6f37b0908ba3801400afa632e768eb89a5d927e0cd4cbf1f428cc1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dagger-of-the-dragon-rengar-rebirth",
+			"name": "Dagger of the Dragon Rengar [Rebirth]",
+			"champion": 107,
+			"base": 0,
+			"creator": "backstab",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dagger-of-the-dragon-rengar-rebirth/thumb.webp?v=33ddc19f",
+			"file": {
+				"version": 1,
+				"asset": "dagger-of-the-dragon-rengar-rebirth-v1.fantome",
+				"size": 6490390,
+				"sha256": "7382a5d0fbd1e004e495018558407f78e6ca08e7af1073b59ac0e6b811a0c4a4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-garen",
+			"name": "Darius Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darius-garen/thumb.webp?v=ecec0eb7",
+			"file": {
+				"version": 1,
+				"asset": "darius-garen-v1.fantome",
+				"size": 1997353,
+				"sha256": "a92037a999b2a0b6e257bd0248f7ce8489ae8893180793aae6a021de9ff5d090"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-garen-2",
+			"name": "Darius: Garen",
+			"champion": 122,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darius-garen-2/thumb.webp?v=e9d66f5e",
+			"file": {
+				"version": 1,
+				"asset": "darius-garen-2-v1.fantome",
+				"size": 10208239,
+				"sha256": "5450def4e1a7cc7382df1529a540c372b4ed92fe5c569e42a6160018c8703f76"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-guts",
+			"name": "Guts",
+			"champion": 122,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darius-guts/thumb.webp?v=16627e02",
+			"file": {
+				"version": 1,
+				"asset": "darius-guts-v1.fantome",
+				"size": 14171348,
+				"sha256": "6606b44be691a9a2e4418149e23a9cb6eef1a56af0254b0969cb465fbe73f170"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-hidan",
+			"name": "Hidan",
+			"champion": 122,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darius-hidan/thumb.webp?v=34c1dc5d",
+			"file": {
+				"version": 1,
+				"asset": "darius-hidan-v1.fantome",
+				"size": 9148436,
+				"sha256": "10e3a2453e3dc408e315674403eef17684d50416132b88139e4a9f51a504ea6a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-iron",
+			"name": "Iron",
+			"champion": 122,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darius-iron/thumb.webp?v=0e5b6dfd",
+			"file": {
+				"version": 1,
+				"asset": "darius-iron-v1.fantome",
+				"size": 34435684,
+				"sha256": "ad19dff9877a578426e97ab52dc2594167b031e2e56439d34f32a137388dfadc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-crimson-cosmic-reaver-kassadin",
+			"name": "Dark Crimson | Cosmic Reaver Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dark-crimson-cosmic-reaver-kassadin/thumb.webp?v=55043086",
+			"file": {
+				"version": 1,
+				"asset": "dark-crimson-cosmic-reaver-kassadin-v1.fantome",
+				"size": 1442420,
+				"sha256": "35002fda81df75f72e65aaeb8eec6886c1dece5b309b96009f44b7922765fadc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-shadow-jarvan-iv",
+			"name": "Dark Shadow Jarvan IV.",
+			"champion": 59,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dark-shadow-jarvan-iv/thumb.webp?v=a85375f8",
+			"file": {
+				"version": 1,
+				"asset": "dark-shadow-jarvan-iv-v1.fantome",
+				"size": 9485176,
+				"sha256": "bf83296216bcb90027f185f22c12578027d3be61bb11656079876a229a4a8808"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-shadow-viego",
+			"name": "Dark Shadow Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dark-shadow-viego/thumb.webp?v=a6a4a299",
+			"file": {
+				"version": 1,
+				"asset": "dark-shadow-viego-v1.fantome",
+				"size": 12496255,
+				"sha256": "f71778db62b17ad3291638e205eab92227f9eeafe8c1c7231a7f5895bba8469a"
 			},
 			"chromas": []
 		},

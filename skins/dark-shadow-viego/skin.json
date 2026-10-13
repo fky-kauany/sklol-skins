@@ -1,0 +1,26 @@
+{
+	"id": "dark-shadow-viego",
+	"name": "Dark Shadow Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover the dark version of EDG Viego, **imagined and commissioned by Azzy**.\r\n\r\nThis custom skin reimagines EDG Viego with a darker, more demonic style while keeping the elegance and power of the original design.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/dark-shadow-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dark-shadow-viego/thumb.webp?v=a6a4a299",
+	"file": {
+		"version": 1,
+		"asset": "dark-shadow-viego-v1.fantome",
+		"size": 12496255,
+		"sha256": "f71778db62b17ad3291638e205eab92227f9eeafe8c1c7231a7f5895bba8469a"
+	},
+	"chromas": []
+}

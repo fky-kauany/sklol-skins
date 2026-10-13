@@ -1,0 +1,23 @@
+{
+	"id": "dark-crimson-cosmic-reaver-kassadin",
+	"name": "Dark Crimson | Cosmic Reaver Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Northoff from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/dark-crimson-cosmic-reaver-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dark-crimson-cosmic-reaver-kassadin/thumb.webp?v=55043086",
+	"file": {
+		"version": 1,
+		"asset": "dark-crimson-cosmic-reaver-kassadin-v1.fantome",
+		"size": 1442420,
+		"sha256": "35002fda81df75f72e65aaeb8eec6886c1dece5b309b96009f44b7922765fadc"
+	},
+	"chromas": []
+}

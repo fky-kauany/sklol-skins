@@ -1,0 +1,23 @@
+{
+	"id": "cyan-heaven-galaxy-slayer-zed",
+	"name": "Cyan Heaven | Galaxy Slayer Zed",
+	"champion": 238,
+	"base": 13,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Traumwah from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/cyan-heaven-galaxy-slayer-zed\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cyan-heaven-galaxy-slayer-zed/thumb.webp?v=fd0a85cf",
+	"file": {
+		"version": 1,
+		"asset": "cyan-heaven-galaxy-slayer-zed-v1.fantome",
+		"size": 3881177,
+		"sha256": "aed3a3dd7a6f37b0908ba3801400afa632e768eb89a5d927e0cd4cbf1f428cc1"
+	},
+	"chromas": []
+}

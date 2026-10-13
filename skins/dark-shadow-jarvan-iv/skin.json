@@ -1,0 +1,26 @@
+{
+	"id": "dark-shadow-jarvan-iv",
+	"name": "Dark Shadow Jarvan IV.",
+	"champion": 59,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover the dark version of Worlds 2021 Jarvan VI, **imagined and commissioned by Azzy**.\r\n\r\nThis custom skin reimagines Worlds 2021 Jarvan VI with a darker, more demonic style while keeping the elegance and power of the original design.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/dark-shadow-jarvan-vi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dark-shadow-jarvan-iv/thumb.webp?v=a85375f8",
+	"file": {
+		"version": 1,
+		"asset": "dark-shadow-jarvan-iv-v1.fantome",
+		"size": 9485176,
+		"sha256": "bf83296216bcb90027f185f22c12578027d3be61bb11656079876a229a4a8808"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "darius-guts",
+	"name": "Guts",
+	"champion": 122,
+	"base": 0,
+	"creator": "frog",
+	"description": "Guts Darius • Custom model • Custom Abilities  • Works on every Darius skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/guts-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darius-guts/thumb.webp?v=16627e02",
+	"file": {
+		"version": 1,
+		"asset": "darius-guts-v1.fantome",
+		"size": 14171348,
+		"sha256": "6606b44be691a9a2e4418149e23a9cb6eef1a56af0254b0969cb465fbe73f170"
+	},
+	"chromas": []
+}
