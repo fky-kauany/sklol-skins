@@ -1,0 +1,26 @@
+{
+	"id": "beatrice-rezero-lulu",
+	"name": "BEATRICE REZERO LULU",
+	"champion": 117,
+	"base": 0,
+	"creator": "hatstore",
+	"description": "### **DISCORD: @economic_crisis** \r\n\r\n### **DM IF SOMETHING BREAKS**\r\n(or if you want to commission)\r\n***\r\n\r\n## MOD INFORMATION:\r\n\r\n***\r\n\r\nChampion: Lulu\r\n\r\nModified skin: Default\r\n\r\nAuthor: 700\r\n\r\n## FEATURES:\r\n\r\n***\r\n\r\n* SOME GIRL FROM REZERO\r\n* VFX\r\n* VOICEOVER\r\n* ANIMATIONS\r\n* LOADING SCREEN HUD ALL THAT\n\n---\n\n**Created by** [hatstore](https://www.divineskins.gg/hatstore)\n\n**Original:** https://www.divineskins.gg/hatstore/beatrice-rezero-lulu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/beatrice-rezero-lulu/thumb.webp?v=8f54b245",
+	"file": {
+		"version": 1,
+		"asset": "beatrice-rezero-lulu-v1.fantome",
+		"size": 23547915,
+		"sha256": "c7e34f0ab6b3e74788d8ae055c4f967c99c099135dc291cf40374f3e23c40888"
+	},
+	"chromas": []
+}

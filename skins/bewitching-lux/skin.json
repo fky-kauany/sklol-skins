@@ -1,0 +1,26 @@
+{
+	"id": "bewitching-lux",
+	"name": "Bewitching Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "frog",
+	"description": "Changelog: Changed Passive Target Effect to GREEN PURPLE\n\nModel from old Leblanc Bewitching Skin\nhttps://modelviewer.lol/model-viewer?id=7045&alias=2010_leblanc\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/bewitching-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bewitching-lux/thumb.webp?v=4f9fac37",
+	"file": {
+		"version": 1,
+		"asset": "bewitching-lux-v1.fantome",
+		"size": 28807735,
+		"sha256": "1efc3756fb1b71449e883b5a02b5c428aee0fc26f13639ef752f0059328f94ec"
+	},
+	"chromas": []
+}

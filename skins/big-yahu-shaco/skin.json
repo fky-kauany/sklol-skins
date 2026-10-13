@@ -1,0 +1,26 @@
+{
+	"id": "big-yahu-shaco",
+	"name": "Big Yahu Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "disco",
+	"description": "big yahu and trump box\ntel aviv impressed\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/big-yahu-shaco\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/big-yahu-shaco/thumb.webp?v=b4f89b89",
+	"file": {
+		"version": 1,
+		"asset": "big-yahu-shaco-v1.fantome",
+		"size": 6657078,
+		"sha256": "714e0b506c731af2279d4782168a0502702df51744416977e60024481134bc29"
+	},
+	"chromas": []
+}

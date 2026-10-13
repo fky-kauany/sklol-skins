@@ -1,0 +1,25 @@
+{
+	"id": "beidou-samira",
+	"name": "Beidou Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Beidou Samira\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version 1.1.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/beidou-samira\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/beidou-samira/thumb.webp?v=ea035449",
+	"file": {
+		"version": 1,
+		"asset": "beidou-samira-v1.fantome",
+		"size": 17660545,
+		"sha256": "bd00616a4138272ed91849d8ac6611d7721bd6e0ab6e485a3eba7ecbb75dbc0b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "bel-veth-black-and-white-belveth",
+	"name": "Black and White Belveth",
+	"champion": 200,
+	"base": 0,
+	"creator": "disco",
+	"description": "# Works on all Belveth skins enjoy!\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/black-and-white-belveth\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bel-veth-black-and-white-belveth/thumb.webp?v=acc28f8e",
+	"file": {
+		"version": 1,
+		"asset": "bel-veth-black-and-white-belveth-v1.fantome",
+		"size": 8530965,
+		"sha256": "fd2fdcfe5af0d51f171ef345809764911ed8c7b2d8e613da20b2596c0658a60d"
+	},
+	"chromas": []
+}

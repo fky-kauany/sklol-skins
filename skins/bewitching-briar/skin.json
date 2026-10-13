@@ -1,0 +1,25 @@
+{
+	"id": "bewitching-briar",
+	"name": "Bewitching Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "dazashu",
+	"description": "Bewitching briar, use syndra and neeko asset + default briar for model\n\nthen mix of bewitching skinline vfx, like cassio or fiora, bust mostly default briar recolored\n\n---\n\n**Created by** [dazashu](https://www.divineskins.gg/dazashu)\n\n**Original:** https://www.divineskins.gg/dazashu/bewitching-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bewitching-briar/thumb.webp?v=272e1373",
+	"file": {
+		"version": 1,
+		"asset": "bewitching-briar-v1.fantome",
+		"size": 8928791,
+		"sha256": "bcc69378f82b21f28fc1910567e627b2ca9b14f9eb01cfb65521b8e20b457576"
+	},
+	"chromas": []
+}

@@ -92,6 +92,14 @@
 			"youtube": "https://www.youtube.com/@davexFN"
 		}
 	},
+	"dazashu": {
+		"name": "dazashu",
+		"avatar": "creators/dazashu.webp?v=0a9e7a8c",
+		"bio": "gugugaga",
+		"links": {
+			"youtube": "https://www.youtube.com/@dazashu"
+		}
+	},
 	"deliriumoverdose": {
 		"name": "deliriumoverdose",
 		"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
@@ -121,6 +129,15 @@
 		"bio": "Augusta Simp",
 		"links": {
 			"youtube": "https://youtu.be/gqgZpk_jJKQ"
+		}
+	},
+	"hatstore": {
+		"name": "hatstore",
+		"avatar": "creators/hatstore.webp?v=1390bc9f",
+		"bio": "COMMISSIONS: @hatstore on discord.\n       \nYou can also support me here: https://ko-fi.com/701900181914174",
+		"links": {
+			"kofi": "https://ko-fi.com/701900181914174",
+			"youtube": "https://www.youtube.com/@hatssstore"
 		}
 	},
 	"ikiryou": {
@@ -208,6 +225,15 @@
 		"avatar": "creators/rorotea1.png?v=56a27670",
 		"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
 		"links": {}
+	},
+	"sauronkaiser": {
+		"name": "Sauronkaiser",
+		"avatar": "creators/sauronkaiser.webp?v=ad096d82",
+		"bio": "I gave Yorick a Hat and the rest came afterwards.",
+		"links": {
+			"x": "https://x.com/Sauronkaiser",
+			"youtube": "https://www.youtube.com/@Sauronkaiser"
+		}
 	},
 	"sirdexal": {
 		"name": "SirDexal",

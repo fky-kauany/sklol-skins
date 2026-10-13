@@ -1,0 +1,26 @@
+{
+	"id": "ben-10-lee-sin",
+	"name": "Ben 10 (Lee Sin)",
+	"champion": 64,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "**Base champion: Lee Sin**\r\n\r\n**Modified skin:** All skins of the champion (Tested on default)\r\n\r\n**Author:** Sauronkaiser\r\n\r\n**Commissioned by**: PandaManOP of The Ink Tank\r\n\r\n**Description:** Ben Tennyson from the Ben 10 Franquice, infected by a Darkin\r\n\r\n**Features:**\r\n\r\n-New model and textures.\r\n\r\n-New full set of animations.\r\n\r\n-Transformations for abilities; 9 including human form.\r\n\r\n-New sounds.\r\n\r\n-New particles.\r\n\r\n-New Splashart loading screen.\r\n\r\n-New Ability icons and HUD.\r\n\r\n-Custom commissioned voiceover.\r\n\r\n-Humungosaur obviously included.\r\n\r\n**Lore:**\r\n\r\n*Ben and Kevin, after trying to stop Eon, get caught in a cross time transport where Eon was trying to move an entire building. They all end up teleporting to Runeterra, but in separate locations.*\r\n\r\n*Ben arrives without the omnitrix in Demacia.*\r\n\r\n*Sightings describe a powerful artifact being uncovered in the jungles of Ixtal.*\r\n\r\n*It's the omnitrix, but something is different about it.*\r\n\r\n*It was flung into runeterra thousands of years ago. What was previously a device used to transform into different aliens, now harbors the soul of a Darkin and after reuniting with Ben, it influences both him and his alien forms.*\r\n\r\n*Ben has gone through something similar to this with Z’Skayr, so he’s capable of resisting Haanrel’s influence.*\r\n\r\n*Kevin ends up in Piltover. He ended up being taken under the wing of Heimerdinger who would subsequently introduce him to Jayce as they were both fascinated with his absorption abilities and Kevin fell in love with the engineering of Hextech, especially Jayce’s Hammer.*\r\n\r\n*Kevin received news of the Noxians pursuing an individual with the ability to transform into various powerful dark beasts. He was confused by the “Dark” description, but figured it had to be Ben.*\r\n\r\n*Swain and Darius lead their relentless forces to hunt down Ben and seize the Omnitrix by any means necessary. Unbeknownst to them, LeBlanc harbors her own cryptic ambitions for the Darkin spirit bound within the device, and the shadowy Black Rose is prepared to go to any lengths to claim it.*\r\n\r\n*Ben and Kevin have converted the transported building on Mount Targon into their base of operations, believing that the tech inside would be the key to getting them back home, but their time is running out, as the Noxians and The Black Rose prepare to infiltrate Mount Targon starting a major conflict with the Mountains inhabitants, with Ben and Kevin right in the middle of it all.*\r\n\r\n**Sources:**\r\n\r\n-All animations made by me.\r\n\r\n-Code for changing forms programmed by me.\r\n\r\n-Models extracted from different official Ben 10 games, then Darkin-modified manually.\r\n\r\n-Hoverboard commissioned, made by Soroosh (twitter linked).\r\n\r\n-voiceover commissioned, made by Paxton Lee (twitter linked).\r\n\r\n-Special thanks to Grey Matter Fanboy (Youtube channel linked)\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/ben-10-lee-sin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ben-10-lee-sin/thumb.webp?v=01af0a5f",
+	"file": {
+		"version": 1,
+		"asset": "ben-10-lee-sin-v1.fantome",
+		"size": 11432792,
+		"sha256": "21753ebfd6b277cda53e1686c107186eb736c6e9559b321e593b536895243e4e"
+	},
+	"chromas": []
+}

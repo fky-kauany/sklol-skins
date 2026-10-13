@@ -1,0 +1,26 @@
+{
+	"id": "beekeeper-tristana",
+	"name": "Beekeeper Tristana",
+	"champion": 18,
+	"base": 0,
+	"creator": "frog",
+	"description": "Custom Skini for tristana  xdddddddddddddddddddddd\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/beekeeper-tristana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/beekeeper-tristana/thumb.webp?v=b5f214af",
+	"file": {
+		"version": 1,
+		"asset": "beekeeper-tristana-v1.fantome",
+		"size": 7162936,
+		"sha256": "f5da122797b405fbc75b33f776f1a3b9410af45eb012c2c5612b328150f8fffa"
+	},
+	"chromas": []
+}

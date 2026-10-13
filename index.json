@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:54:03.074Z",
+	"generatedAt": "2026-10-13T00:58:06.427Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -95,6 +95,14 @@
 				"youtube": "https://www.youtube.com/@davexFN"
 			}
 		},
+		"dazashu": {
+			"name": "dazashu",
+			"avatar": "creators/dazashu.webp?v=0a9e7a8c",
+			"bio": "gugugaga",
+			"links": {
+				"youtube": "https://www.youtube.com/@dazashu"
+			}
+		},
 		"deliriumoverdose": {
 			"name": "deliriumoverdose",
 			"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
@@ -124,6 +132,15 @@
 			"bio": "Augusta Simp",
 			"links": {
 				"youtube": "https://youtu.be/gqgZpk_jJKQ"
+			}
+		},
+		"hatstore": {
+			"name": "hatstore",
+			"avatar": "creators/hatstore.webp?v=1390bc9f",
+			"bio": "COMMISSIONS: @hatstore on discord.\n       \nYou can also support me here: https://ko-fi.com/701900181914174",
+			"links": {
+				"kofi": "https://ko-fi.com/701900181914174",
+				"youtube": "https://www.youtube.com/@hatssstore"
 			}
 		},
 		"ikiryou": {
@@ -211,6 +228,15 @@
 			"avatar": "creators/rorotea1.png?v=56a27670",
 			"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
 			"links": {}
+		},
+		"sauronkaiser": {
+			"name": "Sauronkaiser",
+			"avatar": "creators/sauronkaiser.webp?v=ad096d82",
+			"bio": "I gave Yorick a Hat and the rest came afterwards.",
+			"links": {
+				"x": "https://x.com/Sauronkaiser",
+				"youtube": "https://www.youtube.com/@Sauronkaiser"
+			}
 		},
 		"sirdexal": {
 			"name": "SirDexal",
@@ -3484,6 +3510,262 @@
 				"asset": "battle-bat-xayah-pink-v1.fantome",
 				"size": 22981828,
 				"sha256": "9c1e5d3410fe24d8244e7f61144880ecb022ed661bca990e4771ee752c76448f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "beatrice-rezero-lulu",
+			"name": "BEATRICE REZERO LULU",
+			"champion": 117,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/beatrice-rezero-lulu/thumb.webp?v=8f54b245",
+			"file": {
+				"version": 1,
+				"asset": "beatrice-rezero-lulu-v1.fantome",
+				"size": 23547915,
+				"sha256": "c7e34f0ab6b3e74788d8ae055c4f967c99c099135dc291cf40374f3e23c40888"
+			},
+			"chromas": []
+		},
+		{
+			"id": "beekeeper-tristana",
+			"name": "Beekeeper Tristana",
+			"champion": 18,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/beekeeper-tristana/thumb.webp?v=b5f214af",
+			"file": {
+				"version": 1,
+				"asset": "beekeeper-tristana-v1.fantome",
+				"size": 7162936,
+				"sha256": "f5da122797b405fbc75b33f776f1a3b9410af45eb012c2c5612b328150f8fffa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "beidou-samira",
+			"name": "Beidou Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/beidou-samira/thumb.webp?v=ea035449",
+			"file": {
+				"version": 1,
+				"asset": "beidou-samira-v1.fantome",
+				"size": 17660545,
+				"sha256": "bd00616a4138272ed91849d8ac6611d7721bd6e0ab6e485a3eba7ecbb75dbc0b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bel-veth-black-and-white-belveth",
+			"name": "Black and White Belveth",
+			"champion": 200,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bel-veth-black-and-white-belveth/thumb.webp?v=acc28f8e",
+			"file": {
+				"version": 1,
+				"asset": "bel-veth-black-and-white-belveth-v1.fantome",
+				"size": 8530965,
+				"sha256": "fd2fdcfe5af0d51f171ef345809764911ed8c7b2d8e613da20b2596c0658a60d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ben-10-lee-sin",
+			"name": "Ben 10 (Lee Sin)",
+			"champion": 64,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ben-10-lee-sin/thumb.webp?v=01af0a5f",
+			"file": {
+				"version": 1,
+				"asset": "ben-10-lee-sin-v1.fantome",
+				"size": 11432792,
+				"sha256": "21753ebfd6b277cda53e1686c107186eb736c6e9559b321e593b536895243e4e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bewitching-ahri",
+			"name": "Bewitching Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bewitching-ahri/thumb.webp?v=c8b45f86",
+			"file": {
+				"version": 1,
+				"asset": "bewitching-ahri-v1.fantome",
+				"size": 30117692,
+				"sha256": "2ca725cc755bce11db55b3341ec92f3b2d85ed857ffbd219ee12bad5f8ebae29"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bewitching-briar",
+			"name": "Bewitching Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "dazashu",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bewitching-briar/thumb.webp?v=272e1373",
+			"file": {
+				"version": 1,
+				"asset": "bewitching-briar-v1.fantome",
+				"size": 8928791,
+				"sha256": "bcc69378f82b21f28fc1910567e627b2ca9b14f9eb01cfb65521b8e20b457576"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bewitching-lux",
+			"name": "Bewitching Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bewitching-lux/thumb.webp?v=4f9fac37",
+			"file": {
+				"version": 1,
+				"asset": "bewitching-lux-v1.fantome",
+				"size": 28807735,
+				"sha256": "1efc3756fb1b71449e883b5a02b5c428aee0fc26f13639ef752f0059328f94ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "big-smoke-nasus",
+			"name": "Big Smoke Nasus",
+			"champion": 75,
+			"base": 5,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/big-smoke-nasus/thumb.webp?v=7eefb15c",
+			"file": {
+				"version": 1,
+				"asset": "big-smoke-nasus-v1.fantome",
+				"size": 13993257,
+				"sha256": "aad64d94f03d3db8f5e2b757f5bacfc2a5f8d0908b42b1119b9ecab1a90f90de"
+			},
+			"chromas": []
+		},
+		{
+			"id": "big-yahu-shaco",
+			"name": "Big Yahu Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/big-yahu-shaco/thumb.webp?v=b4f89b89",
+			"file": {
+				"version": 1,
+				"asset": "big-yahu-shaco-v1.fantome",
+				"size": 6657078,
+				"sha256": "714e0b506c731af2279d4782168a0502702df51744416977e60024481134bc29"
 			},
 			"chromas": []
 		},
