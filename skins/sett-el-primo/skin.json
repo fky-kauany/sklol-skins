@@ -1,0 +1,25 @@
+{
+	"id": "sett-el-primo",
+	"name": "El Primo",
+	"champion": 875,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": ".\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/el-primo-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-el-primo/thumb.webp?v=981a5730",
+	"file": {
+		"version": 1,
+		"asset": "sett-el-primo-v1.fantome",
+		"size": 7811422,
+		"sha256": "a115be89a430f21fd2198af4416635d0375dffa865b2276bf2561a9f29e95f9e"
+	},
+	"chromas": []
+}

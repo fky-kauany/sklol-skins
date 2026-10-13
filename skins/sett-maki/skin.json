@@ -1,0 +1,26 @@
+{
+	"id": "sett-maki",
+	"name": "Maki",
+	"champion": 875,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/maki-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-maki/thumb.webp?v=80e2f861",
+	"file": {
+		"version": 1,
+		"asset": "sett-maki-v1.fantome",
+		"size": 24985161,
+		"sha256": "6e50fb054be5ca99580412089614f7755d26da470e19e6ff23d59c55d4916516"
+	},
+	"chromas": []
+}

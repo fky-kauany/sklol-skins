@@ -1,0 +1,26 @@
+{
+	"id": "sett-gato",
+	"name": "SETT GATO",
+	"champion": 875,
+	"base": 0,
+	"creator": "czcz",
+	"description": "MEOW and shi\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/sett-gato\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-gato/thumb.webp?v=4c4274e2",
+	"file": {
+		"version": 1,
+		"asset": "sett-gato-v1.fantome",
+		"size": 32476134,
+		"sha256": "8b023f987ab896e52ed8c793e7dd57453cf2bf53b435396d6888ae36219a0e93"
+	},
+	"chromas": []
+}

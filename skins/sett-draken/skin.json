@@ -1,0 +1,26 @@
+{
+	"id": "sett-draken",
+	"name": "Sett Draken",
+	"champion": 875,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KEN RYUGUJI 」\n### *Replaces Sett*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/sett-draken\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-draken/thumb.webp?v=3ba45f8c",
+	"file": {
+		"version": 1,
+		"asset": "sett-draken-v1.fantome",
+		"size": 49464709,
+		"sha256": "77d8029523fc9ac1ef364905f77094abd8dcca2760464718a13f82110f85058e"
+	},
+	"chromas": []
+}

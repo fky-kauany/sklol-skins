@@ -1,0 +1,24 @@
+{
+	"id": "sett-as-saitama",
+	"name": "Sett as Saitama",
+	"champion": 875,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/sett-as-saitama\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-as-saitama/thumb.webp?v=b3aed571",
+	"file": {
+		"version": 1,
+		"asset": "sett-as-saitama-v1.fantome",
+		"size": 1488908,
+		"sha256": "d6e271a4f08d2a89db3c2b1d2c1057aefbd0e34103d0edd9835a04a5c46a303e"
+	},
+	"chromas": []
+}

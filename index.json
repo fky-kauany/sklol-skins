@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:00:01.330Z",
+	"generatedAt": "2026-10-13T06:03:24.564Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14671,6 +14671,261 @@
 				"asset": "seraphine-uta-v1.fantome",
 				"size": 31849776,
 				"sha256": "1d853e20440cb0c27e556bbce2a4066f8b4d79e21b4d5d0ff76ef9ddf4e1528d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-armor-king",
+			"name": "Armor King",
+			"champion": 875,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-armor-king/thumb.webp?v=a76cadf1",
+			"file": {
+				"version": 1,
+				"asset": "sett-armor-king-v1.fantome",
+				"size": 18915000,
+				"sha256": "91ea2e1365ac437bc5de2489e1ff90abf975e4ec2c8207380c4ddb1649636628"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-as-saitama",
+			"name": "Sett as Saitama",
+			"champion": 875,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-as-saitama/thumb.webp?v=b3aed571",
+			"file": {
+				"version": 1,
+				"asset": "sett-as-saitama-v1.fantome",
+				"size": 1488908,
+				"sha256": "d6e271a4f08d2a89db3c2b1d2c1057aefbd0e34103d0edd9835a04a5c46a303e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-attack-titan",
+			"name": "Sett Attack Titan",
+			"champion": 875,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-attack-titan/thumb.webp?v=82864eae",
+			"file": {
+				"version": 1,
+				"asset": "sett-attack-titan-v1.fantome",
+				"size": 30838930,
+				"sha256": "1528dab4bfcdd7bd39693312e9c8a28e88d6522077a1a1ef77a112a76a0546ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-draken",
+			"name": "Sett Draken",
+			"champion": 875,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-draken/thumb.webp?v=3ba45f8c",
+			"file": {
+				"version": 1,
+				"asset": "sett-draken-v1.fantome",
+				"size": 49464709,
+				"sha256": "77d8029523fc9ac1ef364905f77094abd8dcca2760464718a13f82110f85058e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-el-primo",
+			"name": "El Primo",
+			"champion": 875,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-el-primo/thumb.webp?v=981a5730",
+			"file": {
+				"version": 1,
+				"asset": "sett-el-primo-v1.fantome",
+				"size": 7811422,
+				"sha256": "a115be89a430f21fd2198af4416635d0375dffa865b2276bf2561a9f29e95f9e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-female-titan",
+			"name": "Sett Female Titan",
+			"champion": 875,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-female-titan/thumb.webp?v=30226df5",
+			"file": {
+				"version": 1,
+				"asset": "sett-female-titan-v1.fantome",
+				"size": 10654009,
+				"sha256": "1b26ff25c16f3bd04091c8c925d215cab7959b8c0055c8d4ccaedea2831ad61f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-garou",
+			"name": "Garou",
+			"champion": 875,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-garou/thumb.webp?v=21f3b28a",
+			"file": {
+				"version": 1,
+				"asset": "sett-garou-v1.fantome",
+				"size": 29155142,
+				"sha256": "cb342db80314d884d6722ab94a0b2e602c92ff1568a413f113d9a76da387c2ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-gato",
+			"name": "SETT GATO",
+			"champion": 875,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-gato/thumb.webp?v=4c4274e2",
+			"file": {
+				"version": 1,
+				"asset": "sett-gato-v1.fantome",
+				"size": 32476134,
+				"sha256": "8b023f987ab896e52ed8c793e7dd57453cf2bf53b435396d6888ae36219a0e93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-maki",
+			"name": "Maki",
+			"champion": 875,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-maki/thumb.webp?v=80e2f861",
+			"file": {
+				"version": 1,
+				"asset": "sett-maki-v1.fantome",
+				"size": 24985161,
+				"sha256": "6e50fb054be5ca99580412089614f7755d26da470e19e6ff23d59c55d4916516"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-toji",
+			"name": "Toji",
+			"champion": 875,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sett-toji/thumb.webp?v=04d5994a",
+			"file": {
+				"version": 1,
+				"asset": "sett-toji-v1.fantome",
+				"size": 10141704,
+				"sha256": "7e36cb3f92bad24422b7edd928cca89dc7b6044165cdd87af4b4af026e9eee95"
 			},
 			"chromas": []
 		},

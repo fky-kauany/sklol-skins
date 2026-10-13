@@ -1,0 +1,25 @@
+{
+	"id": "sett-armor-king",
+	"name": "Armor King",
+	"champion": 875,
+	"base": 0,
+	"creator": "frog",
+	"description": "Armor King Sett • Custom model • Custom Abilities  • Works on every Sett skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/armor-king-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-armor-king/thumb.webp?v=a76cadf1",
+	"file": {
+		"version": 1,
+		"asset": "sett-armor-king-v1.fantome",
+		"size": 18915000,
+		"sha256": "91ea2e1365ac437bc5de2489e1ff90abf975e4ec2c8207380c4ddb1649636628"
+	},
+	"chromas": []
+}

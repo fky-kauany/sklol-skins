@@ -1,0 +1,26 @@
+{
+	"id": "sett-garou",
+	"name": "Garou",
+	"champion": 875,
+	"base": 0,
+	"creator": "frog",
+	"description": "Garou Sett\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Sett skin\r\n• Custom Voiceover of Garou\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/garou-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-garou/thumb.webp?v=21f3b28a",
+	"file": {
+		"version": 1,
+		"asset": "sett-garou-v1.fantome",
+		"size": 29155142,
+		"sha256": "cb342db80314d884d6722ab94a0b2e602c92ff1568a413f113d9a76da387c2ba"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "sett-toji",
+	"name": "Toji",
+	"champion": 875,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/toji-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sett-toji/thumb.webp?v=04d5994a",
+	"file": {
+		"version": 1,
+		"asset": "sett-toji-v1.fantome",
+		"size": 10141704,
+		"sha256": "7e36cb3f92bad24422b7edd928cca89dc7b6044165cdd87af4b4af026e9eee95"
+	},
+	"chromas": []
+}
