@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:39:20.606Z",
+	"generatedAt": "2026-10-13T02:42:40.925Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -10351,6 +10351,263 @@
 				"asset": "fiora-rukia-v1.fantome",
 				"size": 21786061,
 				"sha256": "c39598964853c697be475d9f263e389bda0308ecf36410a6dbbf0ccb25eccc14"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiora-sagiri",
+			"name": "Fiora Sagiri",
+			"champion": 114,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fiora-sagiri/thumb.webp?v=4dbcf8d7",
+			"file": {
+				"version": 1,
+				"asset": "fiora-sagiri-v1.fantome",
+				"size": 7733463,
+				"sha256": "c2487d60b4cdb7b41ddbfe28da5317a572db6cf65cf42d04bf2a86739467760f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiora-xingqiu",
+			"name": "Fiora Xingqiu",
+			"champion": 114,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fiora-xingqiu/thumb.webp?v=fa2cfac2",
+			"file": {
+				"version": 1,
+				"asset": "fiora-xingqiu-v1.fantome",
+				"size": 6700363,
+				"sha256": "05a5b1a1c8cd7248531b6d98d77cc62e6793f600165a3a11eb0a7769ee03748c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fire-man-brand",
+			"name": "fire man brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fire-man-brand/thumb.webp?v=6ce0a865",
+			"file": {
+				"version": 1,
+				"asset": "fire-man-brand-v1.fantome",
+				"size": 408222,
+				"sha256": "25e1680135bc6165e1bb314146af80b747aeb76aa1d80269c92cd611852d4422"
+			},
+			"chromas": []
+		},
+		{
+			"id": "firecracker-jinx-purple",
+			"name": "Firecracker Jinx - Purple",
+			"champion": 222,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/firecracker-jinx-purple/thumb.webp?v=617f057a",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-jinx-purple-v1.fantome",
+				"size": 3570987,
+				"sha256": "498b3a302af8d4250be0d5c660579be52f234600aad28a9f968efbc4745b8585"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fischl-ashe",
+			"name": "Fischl Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fischl-ashe/thumb.webp?v=295da5b9",
+			"file": {
+				"version": 1,
+				"asset": "fischl-ashe-v1.fantome",
+				"size": 8265606,
+				"sha256": "2686e5838702b855edc17551a7470a1fa3ab246e046945700a70f0fd3e367881"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fizz-beatrice",
+			"name": "Fizz Beatrice",
+			"champion": 105,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fizz-beatrice/thumb.webp?v=b9b97b93",
+			"file": {
+				"version": 1,
+				"asset": "fizz-beatrice-v1.fantome",
+				"size": 9472159,
+				"sha256": "06daca3106b2cba075c391cff267d8fbfb545c46d4d52d07b817247d5c2cf748"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fizz-bizz",
+			"name": "Bizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fizz-bizz/thumb.webp?v=0032b6d1",
+			"file": {
+				"version": 1,
+				"asset": "fizz-bizz-v1.fantome",
+				"size": 10461545,
+				"sha256": "34a08ba8142f68ff38bfa6cf348c174b4b71ca1da2006d2d91992124a8a2478e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "flameslinger-varus",
+			"name": "Flameslinger Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/flameslinger-varus/thumb.webp?v=b65d29ce",
+			"file": {
+				"version": 1,
+				"asset": "flameslinger-varus-v1.fantome",
+				"size": 9539543,
+				"sha256": "8a9155afc5e93a26912ebf3afc60d7c56ed85df61a3d777a46aff19be27663b0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fleurdelys-kayle",
+			"name": "Fleurdelys Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "12371234asd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fleurdelys-kayle/thumb.webp?v=d446335e",
+			"file": {
+				"version": 1,
+				"asset": "fleurdelys-kayle-v1.fantome",
+				"size": 32932294,
+				"sha256": "4ffc503dc7116aef7c4c77f27ffed51ad21d6f4632c6c4b0afb4e4110c717082"
+			},
+			"chromas": []
+		},
+		{
+			"id": "flins-zaahen",
+			"name": "Flins Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/flins-zaahen/thumb.webp?v=d724ce29",
+			"file": {
+				"version": 1,
+				"asset": "flins-zaahen-v1.fantome",
+				"size": 14091944,
+				"sha256": "2f1d98696513f0175ce4720774821f1031c53eef5506e393c4708309a052938b"
 			},
 			"chromas": []
 		},

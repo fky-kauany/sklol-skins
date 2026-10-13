@@ -1,0 +1,26 @@
+{
+	"id": "fischl-ashe",
+	"name": "Fischl Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Fischl Ashe\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.3\r\n\r\nNew VFX\r\n\r\nNew joke\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/fischl-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fischl-ashe/thumb.webp?v=295da5b9",
+	"file": {
+		"version": 1,
+		"asset": "fischl-ashe-v1.fantome",
+		"size": 8265606,
+		"sha256": "2686e5838702b855edc17551a7470a1fa3ab246e046945700a70f0fd3e367881"
+	},
+	"chromas": []
+}

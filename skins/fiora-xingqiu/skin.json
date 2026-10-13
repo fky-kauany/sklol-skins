@@ -1,0 +1,26 @@
+{
+	"id": "fiora-xingqiu",
+	"name": "Fiora Xingqiu",
+	"champion": 114,
+	"base": 0,
+	"creator": "seweski",
+	"description": "**This skin changes:**\r\nModel\r\nVisual effects\r\nVoicelines\r\n\r\none more step to assembling Raiden National\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/fiora-xingqiu\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fiora-xingqiu/thumb.webp?v=fa2cfac2",
+	"file": {
+		"version": 1,
+		"asset": "fiora-xingqiu-v1.fantome",
+		"size": 6700363,
+		"sha256": "05a5b1a1c8cd7248531b6d98d77cc62e6793f600165a3a11eb0a7769ee03748c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "firecracker-jinx-purple",
+	"name": "Firecracker Jinx - Purple",
+	"champion": 222,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Firecracker Jinx\n\n╰┈➤ _The idea for this mod was to give her a chroma that honestly, I would want lmao, i just made this for me, but feel free to use it!_\n\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/firecracker-jinx-purple\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/firecracker-jinx-purple/thumb.webp?v=617f057a",
+	"file": {
+		"version": 1,
+		"asset": "firecracker-jinx-purple-v1.fantome",
+		"size": 3570987,
+		"sha256": "498b3a302af8d4250be0d5c660579be52f234600aad28a9f968efbc4745b8585"
+	},
+	"chromas": []
+}

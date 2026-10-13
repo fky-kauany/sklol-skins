@@ -1,0 +1,26 @@
+{
+	"id": "fizz-bizz",
+	"name": "Bizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "disco",
+	"description": "---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/bizz\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fizz-bizz/thumb.webp?v=0032b6d1",
+	"file": {
+		"version": 1,
+		"asset": "fizz-bizz-v1.fantome",
+		"size": 10461545,
+		"sha256": "34a08ba8142f68ff38bfa6cf348c174b4b71ca1da2006d2d91992124a8a2478e"
+	},
+	"chromas": []
+}

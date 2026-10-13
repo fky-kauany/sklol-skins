@@ -1,0 +1,26 @@
+{
+	"id": "flins-zaahen",
+	"name": "Flins Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "frog",
+	"description": "www.youtube.com/watch?v=VYGUQbNbfSI&feature=youtu.be\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/flins-zaahen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/flins-zaahen/thumb.webp?v=d724ce29",
+	"file": {
+		"version": 1,
+		"asset": "flins-zaahen-v1.fantome",
+		"size": 14091944,
+		"sha256": "2f1d98696513f0175ce4720774821f1031c53eef5506e393c4708309a052938b"
+	},
+	"chromas": []
+}

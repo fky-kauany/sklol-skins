@@ -1,0 +1,26 @@
+{
+	"id": "fleurdelys-kayle",
+	"name": "Fleurdelys Kayle",
+	"champion": 10,
+	"base": 0,
+	"creator": "12371234asd",
+	"description": "---\n\n**Created by** [12371234asd](https://www.divineskins.gg/12371234asd)\n\n**Original:** https://www.divineskins.gg/12371234asd/fleurdelys-kayle\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fleurdelys-kayle/thumb.webp?v=d446335e",
+	"file": {
+		"version": 1,
+		"asset": "fleurdelys-kayle-v1.fantome",
+		"size": 32932294,
+		"sha256": "4ffc503dc7116aef7c4c77f27ffed51ad21d6f4632c6c4b0afb4e4110c717082"
+	},
+	"chromas": []
+}
