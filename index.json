@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:17:45.568Z",
+	"generatedAt": "2026-10-13T01:21:05.643Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -265,6 +265,15 @@
 			"bio": "Free over 100+ Custom Skins for free and always updating.\n\nhttps://discord.gg/RxQWbrTyhs",
 			"links": {
 				"discord": "https://discord.gg/RxQWbrTyhs"
+			}
+		},
+		"nyht": {
+			"name": "nyht",
+			"avatar": "creators/nyht.png?v=2e5c04f8",
+			"bio": "## 🍿 Nyht\n\nHi! I'm **Nyht**, but you might also know me as **the Popcorn Guy** in the server.\n\nI mainly create **Pokémon custom skins**, so expect more **high-quality Pokémon skins** to be released here at **Divine Skins**. I enjoy bringing creative ideas and unique designs to the game, and I’m always working on improving each new release.\n\nStay tuned for more skins in the future!",
+			"links": {
+				"x": "https://x.com/NyhtSeven",
+				"youtube": "https://www.youtube.com/@NyhtClipz"
 			}
 		},
 		"nyxns0": {
@@ -5138,6 +5147,260 @@
 				"asset": "caitlyn-sophie-rain-v1.fantome",
 				"size": 25379510,
 				"sha256": "1ca82c3f2e884d595165457a9866d5ce4e45d5c5ffa786b10d4d25981e88f86d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caleb-lucian",
+			"name": "caleb lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/caleb-lucian/thumb.webp?v=de8d521e",
+			"file": {
+				"version": 1,
+				"asset": "caleb-lucian-v1.fantome",
+				"size": 1032713,
+				"sha256": "54392d2ba9c3ea91a3400e67be0f4bb3896a16ad657ec76e7af1d7792aa25d02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "calligraphia-rengar",
+			"name": "Calligraphia Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/calligraphia-rengar/thumb.webp?v=f5fca7e0",
+			"file": {
+				"version": 1,
+				"asset": "calligraphia-rengar-v1.fantome",
+				"size": 12634932,
+				"sha256": "9a26ad819188c48332c77bf33ee97c7635ec91a5cee2eb3965609adcb3ccf4d1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "calligraphia-tryndamere",
+			"name": "Calligraphia Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "dazashu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/calligraphia-tryndamere/thumb.webp?v=cf9cbcb7",
+			"file": {
+				"version": 1,
+				"asset": "calligraphia-tryndamere-v1.fantome",
+				"size": 13023907,
+				"sha256": "53929caeb6c7ddef91dcfe3ba08c1c87c8343c1ed5d6432238f849f8ca6b91e2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "camellya-zyra",
+			"name": "Camellya Zyra",
+			"champion": 143,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/camellya-zyra/thumb.webp?v=20ac2c26",
+			"file": {
+				"version": 1,
+				"asset": "camellya-zyra-v1.fantome",
+				"size": 11196425,
+				"sha256": "cc2540cf7e29064c773ed6f03a3659d0ea5228521a15771571bdf4da98e381a0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "camille-homelander",
+			"name": "Homelander",
+			"champion": 164,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/camille-homelander/thumb.webp?v=e1f8b647",
+			"file": {
+				"version": 1,
+				"asset": "camille-homelander-v1.fantome",
+				"size": 41664823,
+				"sha256": "93fbdedceef335725c64ef2c00c2aa5933fe2fc103c3c1a28aaebcf83a654427"
+			},
+			"chromas": []
+		},
+		{
+			"id": "camille-meltryllis",
+			"name": "Camille Meltryllis",
+			"champion": 164,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/camille-meltryllis/thumb.webp?v=f3e37094",
+			"file": {
+				"version": 1,
+				"asset": "camille-meltryllis-v1.fantome",
+				"size": 63494449,
+				"sha256": "772a4aedb9c96944f6f5094a5d028419f62d5d7f40ad90b314fe1796692c6ddf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "camille-tenka-izumo",
+			"name": "Camille Tenka Izumo",
+			"champion": 164,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/camille-tenka-izumo/thumb.webp?v=e803d5a3",
+			"file": {
+				"version": 1,
+				"asset": "camille-tenka-izumo-v1.fantome",
+				"size": 34464635,
+				"sha256": "578d57a4a348ebf8550e5c26a88f0b0ca3caf00eeb822e50a020f067400693ff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "carl-johnson-gangplank",
+			"name": "Carl Johnson Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/carl-johnson-gangplank/thumb.webp?v=46531201",
+			"file": {
+				"version": 1,
+				"asset": "carl-johnson-gangplank-v1.fantome",
+				"size": 5391109,
+				"sha256": "75eca2a633a0ae2f573286ab25b296fae17a726873841ab785872d1bc593bafe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ceruledge-yone",
+			"name": "Ceruledge Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ceruledge-yone/thumb.webp?v=ddd4f758",
+			"file": {
+				"version": 1,
+				"asset": "ceruledge-yone-v1.fantome",
+				"size": 7517815,
+				"sha256": "8c9336ce5eca4814a0202e09f153f3395798d71cbd14c4306f3b6ef7469bb9fb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cha-hae-in-talon",
+			"name": "Cha Hae In Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cha-hae-in-talon/thumb.webp?v=7fb8a353",
+			"file": {
+				"version": 1,
+				"asset": "cha-hae-in-talon-v1.fantome",
+				"size": 26221056,
+				"sha256": "d8d1375ac6379877c6f8d52eba6f9bd0104e8a8b95234df7b6bd632fcbec8d1a"
 			},
 			"chromas": []
 		},

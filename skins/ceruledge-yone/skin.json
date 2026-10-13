@@ -1,0 +1,26 @@
+{
+	"id": "ceruledge-yone",
+	"name": "Ceruledge Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "nyht",
+	"description": "# ⚔️ Yone → Ceruledge Mod\n\n### Champion\n**Yone**\n\n### Skin Replace\n**Base Skin**\n\n---\n\n# ✨ Unique Feature\n\n🕺 **Traversal Emote System**\n\nPerform the **Dance Emote while moving**, allowing for a **smooth traversal animation** instead of standing still.\n\n---\n\n# 💥 Custom VFX\n\n- Ability Effects  \n\n---\n\n# 🎬 Custom Animations\n\n- Idle  \n- Attack  \n- Ability Animations  \n- Recall  \n- Emotes  \n- Death  \n- Respawn  \n\n---\n\n# 🔊 Custom SFX\n\n- Emotes  \n- Respawn  \n\n---\n\n# 🧩 Custom Models & Textures\n\n- **Ceruledge model** — Pokémon Scarlet and Violet  \n\n---\n\n# 🎮 Feature Highlights\n\n- 🕺 **Moving Emote (Traversal Dance)**  \n- 🔥 Clean integration with Yone’s animation set  \n- 🎨 High-quality Pokémon model conversion  \n\n---\n\n# 🎵 Music\n\n🎧 **Emote Music**  \nJayArrangingProductions –  \n**Get Griddy (MIDI Version)**\n\n---\n\n# 🙏 Credits\n\n**Mod Creator**  \n⭐ Nyht Seven  \n\n**Music**  \n- JayArrangingProductions — Get Griddy MIDI\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/ceruledge-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ceruledge-yone/thumb.webp?v=ddd4f758",
+	"file": {
+		"version": 1,
+		"asset": "ceruledge-yone-v1.fantome",
+		"size": 7517815,
+		"sha256": "8c9336ce5eca4814a0202e09f153f3395798d71cbd14c4306f3b6ef7469bb9fb"
+	},
+	"chromas": []
+}

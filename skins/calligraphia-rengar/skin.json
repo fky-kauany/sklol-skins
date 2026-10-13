@@ -1,0 +1,25 @@
+{
+	"id": "calligraphia-rengar",
+	"name": "Calligraphia Rengar",
+	"champion": 107,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover **Calligraphia Rengar** from League of Legends, **imagined and commissioned by Jay**.\r\n\r\nThis custom skin reimagines **Rengar** through the elegant, ink-brushed aesthetic of the **Calligraphia** skin universe, combining flowing black ink with refined white and teal accents while preserving his savage hunter identity, iconic silhouette, and relentless predator fantasy.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/calligraphia-rengar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/calligraphia-rengar/thumb.webp?v=f5fca7e0",
+	"file": {
+		"version": 1,
+		"asset": "calligraphia-rengar-v1.fantome",
+		"size": 12634932,
+		"sha256": "9a26ad819188c48332c77bf33ee97c7635ec91a5cee2eb3965609adcb3ccf4d1"
+	},
+	"chromas": []
+}

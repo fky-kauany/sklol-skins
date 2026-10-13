@@ -1,0 +1,26 @@
+{
+	"id": "camellya-zyra",
+	"name": "Camellya Zyra",
+	"champion": 143,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Camellya Zyra\n\n### Features\n\n- **Custom 3D Model** – Zyra redesigned with Camellya’s idol-inspired style.\n- **Custom Abilities** – New VFX that blend blossoms with musical flair.\n- **Custom Voiceover** – Full Camellya voice pack for immersive gameplay.\n- **Universal Compatibility** – Works seamlessly on **all Zyra skins** with Celestial Launcher.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/camellya-zyra\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/camellya-zyra/thumb.webp?v=20ac2c26",
+	"file": {
+		"version": 1,
+		"asset": "camellya-zyra-v1.fantome",
+		"size": 11196425,
+		"sha256": "cc2540cf7e29064c773ed6f03a3659d0ea5228521a15771571bdf4da98e381a0"
+	},
+	"chromas": []
+}

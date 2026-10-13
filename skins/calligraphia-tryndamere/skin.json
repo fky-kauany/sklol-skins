@@ -1,0 +1,26 @@
+{
+	"id": "calligraphia-tryndamere",
+	"name": "Calligraphia Tryndamere",
+	"champion": 23,
+	"base": 0,
+	"creator": "dazashu",
+	"description": "My first Wild Rift Port\n\nI know the VFX is not the same as the one in Wild Rift but I don't know how to replicate them.\nThe same goes for the SFX.\n\nThanks to ShrimpBack for providing me his SFX.\n\n---\n\n**Created by** [dazashu](https://www.divineskins.gg/dazashu)\n\n**Original:** https://www.divineskins.gg/dazashu/calligraphia-tryndamere\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/calligraphia-tryndamere/thumb.webp?v=cf9cbcb7",
+	"file": {
+		"version": 1,
+		"asset": "calligraphia-tryndamere-v1.fantome",
+		"size": 13023907,
+		"sha256": "53929caeb6c7ddef91dcfe3ba08c1c87c8343c1ed5d6432238f849f8ca6b91e2"
+	},
+	"chromas": []
+}

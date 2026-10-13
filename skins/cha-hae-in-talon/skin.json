@@ -1,0 +1,26 @@
+{
+	"id": "cha-hae-in-talon",
+	"name": "Cha Hae In Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "frog",
+	"description": "This was a commission for @khemara.sam <- Instagram\n\nIt includes a form swap and vfx swap on CTRL 5 (to be tested)\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/cha-hae-in-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cha-hae-in-talon/thumb.webp?v=7fb8a353",
+	"file": {
+		"version": 1,
+		"asset": "cha-hae-in-talon-v1.fantome",
+		"size": 26221056,
+		"sha256": "d8d1375ac6379877c6f8d52eba6f9bd0104e8a8b95234df7b6bd632fcbec8d1a"
+	},
+	"chromas": []
+}

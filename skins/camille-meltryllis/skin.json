@@ -1,0 +1,26 @@
+{
+	"id": "camille-meltryllis",
+	"name": "Camille Meltryllis",
+	"champion": 164,
+	"base": 0,
+	"creator": "ceerel",
+	"description": ">**COMMISION FOR @TAMAMO**, COMMISION ME ON DISCORD @ceerel\n\n\nWhat does this mod include?\n\n\n**ANIMATION CHANGES THAT ADDS PHYSICS TO THE HAIR**\n**FULLY CUSTOM VFX**\n**VOICE OVER**\n**SOUND EFFECTS**\n**ICONS**\n**TOGGLE SKIRT**\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/camille-meltryllis\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/camille-meltryllis/thumb.webp?v=f3e37094",
+	"file": {
+		"version": 1,
+		"asset": "camille-meltryllis-v1.fantome",
+		"size": 63494449,
+		"sha256": "772a4aedb9c96944f6f5094a5d028419f62d5d7f40ad90b314fe1796692c6ddf"
+	},
+	"chromas": []
+}

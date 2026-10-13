@@ -1,0 +1,26 @@
+{
+	"id": "camille-homelander",
+	"name": "Homelander",
+	"champion": 164,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\n\n- Custom model and textures\n- Custom animations\n- Custom Voice-over\n- New VFX\n- New SFX\n- Custom, animated loading screen and in-game icons\n- Milk from... don't worry about it\n- A-Train and a lot of Yummers\n﻿\n\nNow this is America's greatest supe- custom skin. I hope. Features a fully custom animated Homelander, complete with facial expressions (as best as I could make them), laser eyes and his trusted teammate, A-Train. Laser your opponents, fly around them, trap them in the Seven Tower*, drink your milk, and say yummers over and over.\n\nAs a bonus, the loading screen is shiny and animated, and you can use it with any of Camille's skins or chromas, it will always appear as Homelander.\n\nAlso, I made a special chroma, featuring TURKLANDER.\n\nYou think it should have been done on a different champion? Well, as the man himself would put it... \"I'm the Homelander, I can do whatever the f*ck I want\".\n\nI've made two versions. Homelander and Turklander, inspired by a meme. Only use ONE at a time!\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/homelander\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/camille-homelander/thumb.webp?v=e1f8b647",
+	"file": {
+		"version": 1,
+		"asset": "camille-homelander-v1.fantome",
+		"size": 41664823,
+		"sha256": "93fbdedceef335725c64ef2c00c2aa5933fe2fc103c3c1a28aaebcf83a654427"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "caleb-lucian",
+	"name": "caleb lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"always listen\"\n\n***\n\n**Modified champion: Lucian**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n\n\n**Discord: serrandoafimose**\n\n\n\nthe 3D model from: [MDWayne](https://gamebanana.com/mods/166914)\n\n\n\nthe gun from other game :v\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/caleb-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/caleb-lucian/thumb.webp?v=de8d521e",
+	"file": {
+		"version": 1,
+		"asset": "caleb-lucian-v1.fantome",
+		"size": 1032713,
+		"sha256": "54392d2ba9c3ea91a3400e67be0f4bb3896a16ad657ec76e7af1d7792aa25d02"
+	},
+	"chromas": []
+}
