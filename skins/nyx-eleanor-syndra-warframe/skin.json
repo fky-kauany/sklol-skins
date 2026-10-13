@@ -1,0 +1,27 @@
+{
+	"id": "nyx-eleanor-syndra-warframe",
+	"name": "Nyx Eleanor Syndra Warframe",
+	"champion": 134,
+	"base": 0,
+	"creator": "vitusmmrc",
+	"description": "# Nyx Eleanor Syndra Warframe\nFeatures\n- 🎲 Model\n- 🚶‍♂️ Animations\n- ✨ VFX\n- 🎤 Voice lines\n\nSkin Replacement: Base\nComissioned by **@kaimandhd**\nInterested in a commission? Contact me on Discord: **@vitusmmrc**\n\n---\n\n**Created by** [vitusmmrc](https://www.divineskins.gg/vitusmmrc)\n\n**Original:** https://www.divineskins.gg/vitusmmrc/nyx-eleanor-syndra-warframe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nyx-eleanor-syndra-warframe/thumb.webp?v=7245e910",
+	"file": {
+		"version": 1,
+		"asset": "nyx-eleanor-syndra-warframe-v1.fantome",
+		"size": 14023421,
+		"sha256": "251a666f3a766e637498a721cbcf0aed03cc4c89ad822147c72461fcc952a43c"
+	},
+	"chromas": []
+}

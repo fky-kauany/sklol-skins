@@ -1,0 +1,26 @@
+{
+	"id": "ocean-ruler-jarvan-iv",
+	"name": "Ocean Ruler - Jarvan IV",
+	"champion": 59,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# 🔱OCEAN RULER - JARVAN IV🌊\r\n\r\nA Poseidon/Neptune themed recolor for Jarvan IV\r\n\r\n\r\n## Features:\r\n- League Classic version\r\n- New model details\r\n- New artwork\r\n- Recolored VFX\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/ocean-ruler-jarvan-iv\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ocean-ruler-jarvan-iv/thumb.webp?v=6efdddf3",
+	"file": {
+		"version": 1,
+		"asset": "ocean-ruler-jarvan-iv-v1.fantome",
+		"size": 10270446,
+		"sha256": "ff662977ca967201d5aba2a1f9568263c9e5340b0d6ca880f63102ad2fcf89fe"
+	},
+	"chromas": []
+}

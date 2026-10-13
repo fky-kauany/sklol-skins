@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:13:13.773Z",
+	"generatedAt": "2026-10-13T05:16:32.567Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -602,6 +602,11 @@
 				"x": "https://x.com/VinceWhoLaughs",
 				"youtube": "https://www.youtube.com/@vincedesigns33"
 			}
+		},
+		"vitusmmrc": {
+			"name": "vitusmmrc",
+			"avatar": "creators/vitusmmrc.png?v=e306cf5f",
+			"links": {}
 		},
 		"wiko": {
 			"name": "Wiko",
@@ -11044,6 +11049,263 @@
 				"asset": "nui-gwen-v1.fantome",
 				"size": 6630150,
 				"sha256": "0c0b72839f261bd1e746736da13288e94e8bb716627d53329a0e9efff8615659"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nunu-willump-baby-mario-fat-yoshi",
+			"name": "Baby Mario & Fat Yoshi",
+			"champion": 20,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nunu-willump-baby-mario-fat-yoshi/thumb.webp?v=28364080",
+			"file": {
+				"version": 1,
+				"asset": "nunu-willump-baby-mario-fat-yoshi-v1.fantome",
+				"size": 9725557,
+				"sha256": "83c4465debbc4c65f5e7100c1d59847ec96a1a54eddd78e0fe8f962a4c8d8880"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nyx-eleanor-syndra-warframe",
+			"name": "Nyx Eleanor Syndra Warframe",
+			"champion": 134,
+			"base": 0,
+			"creator": "vitusmmrc",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nyx-eleanor-syndra-warframe/thumb.webp?v=7245e910",
+			"file": {
+				"version": 1,
+				"asset": "nyx-eleanor-syndra-warframe-v1.fantome",
+				"size": 14023421,
+				"sha256": "251a666f3a766e637498a721cbcf0aed03cc4c89ad822147c72461fcc952a43c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "obito-viego",
+			"name": "Obito Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/obito-viego/thumb.webp?v=bc5a6fd0",
+			"file": {
+				"version": 1,
+				"asset": "obito-viego-v1.fantome",
+				"size": 20618167,
+				"sha256": "44f740b080ae32d3d9c89556f75545826d3c668d4a93b1e8157391ae752ba761"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ocean-ruler-jarvan-iv",
+			"name": "Ocean Ruler - Jarvan IV",
+			"champion": 59,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ocean-ruler-jarvan-iv/thumb.webp?v=6efdddf3",
+			"file": {
+				"version": 1,
+				"asset": "ocean-ruler-jarvan-iv-v1.fantome",
+				"size": 10270446,
+				"sha256": "ff662977ca967201d5aba2a1f9568263c9e5340b0d6ca880f63102ad2fcf89fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "odette-fiora",
+			"name": "Odette Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/odette-fiora/thumb.webp?v=0e449559",
+			"file": {
+				"version": 1,
+				"asset": "odette-fiora-v1.fantome",
+				"size": 3763759,
+				"sha256": "fe2df11d513bc8fa5ed1361282a07970650298c33ada412b40cde83f6b9f7661"
+			},
+			"chromas": []
+		},
+		{
+			"id": "officer-vayne",
+			"name": "Officer Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/officer-vayne/thumb.webp?v=63de9b78",
+			"file": {
+				"version": 1,
+				"asset": "officer-vayne-v1.fantome",
+				"size": 7811730,
+				"sha256": "bd513fef9db01c22c5ab31f0cb34563e0e17016ffd611266a9bdee4969f93b9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "okarun-pyke",
+			"name": "Okarun Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/okarun-pyke/thumb.webp?v=40be8d49",
+			"file": {
+				"version": 1,
+				"asset": "okarun-pyke-v1.fantome",
+				"size": 18702488,
+				"sha256": "aadd877f77f95962f61ffe854bd2a541ef384c79e3b4191dc06d0e9647a9a84b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "olaf-angel-pentakill",
+			"name": "Angel Pentakill",
+			"champion": 2,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/olaf-angel-pentakill/thumb.webp?v=18d607ce",
+			"file": {
+				"version": 1,
+				"asset": "olaf-angel-pentakill-v1.fantome",
+				"size": 7618483,
+				"sha256": "d1307d04e3cdc06bb2bc6f9e5d6991e426936f34bcfe259b9696c3dacd435a53"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-aatrox-zaahen",
+			"name": "Old Aatrox - Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/old-aatrox-zaahen/thumb.webp?v=3c5c34c0",
+			"file": {
+				"version": 1,
+				"asset": "old-aatrox-zaahen-v1.fantome",
+				"size": 39486586,
+				"sha256": "a560245b5d0000b362acb3b7c7c09fb7ed859293bcc60a52eedd85b8afddb6cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-ezreal-new-anims-vfx",
+			"name": "Old Ezreal (new anims/vfx)",
+			"champion": 81,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/old-ezreal-new-anims-vfx/thumb.webp?v=082063ee",
+			"file": {
+				"version": 1,
+				"asset": "old-ezreal-new-anims-vfx-v1.fantome",
+				"size": 12029300,
+				"sha256": "ee892d0803af3e3c28a65cba7793ca453f9fd3ef983b3c1ac376a7cf7ab01600"
 			},
 			"chromas": []
 		},

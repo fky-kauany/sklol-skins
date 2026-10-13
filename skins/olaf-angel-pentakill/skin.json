@@ -1,0 +1,24 @@
+{
+	"id": "olaf-angel-pentakill",
+	"name": "Angel Pentakill",
+	"champion": 2,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "By Oyashiro\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/angel-pentakill\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/olaf-angel-pentakill/thumb.webp?v=18d607ce",
+	"file": {
+		"version": 1,
+		"asset": "olaf-angel-pentakill-v1.fantome",
+		"size": 7618483,
+		"sha256": "d1307d04e3cdc06bb2bc6f9e5d6991e426936f34bcfe259b9696c3dacd435a53"
+	},
+	"chromas": []
+}

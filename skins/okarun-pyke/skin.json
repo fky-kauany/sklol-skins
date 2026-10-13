@@ -1,0 +1,26 @@
+{
+	"id": "okarun-pyke",
+	"name": "Okarun Pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Okarun Pyke\n\n### Features\n\n- **Custom model** channeling Okarun’s spirit-charged aesthetic\n- **Custom abilities** with neon energy VFX and high-impact animations\n- **Works on every Pyke skin** — keep your favorite while overlaying the Okarun theme\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/okarun-pyke\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/okarun-pyke/thumb.webp?v=40be8d49",
+	"file": {
+		"version": 1,
+		"asset": "okarun-pyke-v1.fantome",
+		"size": 18702488,
+		"sha256": "aadd877f77f95962f61ffe854bd2a541ef384c79e3b4191dc06d0e9647a9a84b"
+	},
+	"chromas": []
+}

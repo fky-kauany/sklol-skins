@@ -1,0 +1,26 @@
+{
+	"id": "nunu-willump-baby-mario-fat-yoshi",
+	"name": "Baby Mario & Fat Yoshi",
+	"champion": 20,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "Bringing back one of my old mods, thanks to the ease of use of Divine's modding tools!\n\nThis is an up-to-date version of Baby Mario & Fat Yoshi, replacing Nunu & Willump \n\n### **Disclaimer!**\nThis is, by all means, still a very old mod of mine. It's jank and it's pretty ugly. So don't expect anything special! But people asked me for it so here it is.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/baby-mario-fat-yoshi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nunu-willump-baby-mario-fat-yoshi/thumb.webp?v=28364080",
+	"file": {
+		"version": 1,
+		"asset": "nunu-willump-baby-mario-fat-yoshi-v1.fantome",
+		"size": 9725557,
+		"sha256": "83c4465debbc4c65f5e7100c1d59847ec96a1a54eddd78e0fe8f962a4c8d8880"
+	},
+	"chromas": []
+}

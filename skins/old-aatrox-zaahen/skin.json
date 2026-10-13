@@ -1,0 +1,26 @@
+{
+	"id": "old-aatrox-zaahen",
+	"name": "Old Aatrox - Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/1988107004016292321?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Zaahen\n* Skin: Default\n* Description: Model Swap from Zaahen to OLD AATROX\n\n# Features\n\n* Recolored Abilities to reddish\n* Weapon Changed to his sword\n* VFX AND SFX\n* UI And Spells\n\n# ![](https://i.imgur.com/G2Vf0zw.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/old-aatrox-zaahen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/old-aatrox-zaahen/thumb.webp?v=3c5c34c0",
+	"file": {
+		"version": 1,
+		"asset": "old-aatrox-zaahen-v1.fantome",
+		"size": 39486586,
+		"sha256": "a560245b5d0000b362acb3b7c7c09fb7ed859293bcc60a52eedd85b8afddb6cf"
+	},
+	"chromas": []
+}
