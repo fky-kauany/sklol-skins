@@ -23,6 +23,16 @@
 			"youtube": "https://www.youtube.com/@adcx9gonext"
 		}
 	},
+	"disco": {
+		"name": "DISCO",
+		"avatar": "creators/disco.webp?v=133102a3",
+		"bio": "Contact me via discord",
+		"links": {
+			"discord": "https://discord.com/users/440418268470312961",
+			"site": "https://github.com/DISCOCX",
+			"x": "https://x.com/DISCOXZ"
+		}
+	},
 	"frog": {
 		"name": "Frog",
 		"bio": "XD",
@@ -37,6 +47,16 @@
 		"links": {
 			"discord": "https://discord.com/users/785697456473243649",
 			"kofi": "https://ko-fi.com/ikiry0u"
+		}
+	},
+	"kaizen": {
+		"name": "Kaizen",
+		"avatar": "creators/kaizen.webp?v=4ee08b64",
+		"bio": "A League modder and 3D animation student. I pour my heart and soul into my mods, and with my skills in animation, I deliver the highest quality stuff for you to enjoy!",
+		"links": {
+			"kofi": "https://ko-fi.com/mordekaizen/commissions",
+			"x": "https://x.com/MordeKaizen",
+			"youtube": "https://www.youtube.com/@MordeKaizen"
 		}
 	},
 	"keduox": {
@@ -58,6 +78,14 @@
 			"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png"
 		}
 	},
+	"mava": {
+		"name": "MAVA",
+		"bio": "i like to create anime mods\nIf you appreciate my work or like the skins and would consider donating, would be awesome <3",
+		"links": {
+			"kofi": "https://ko-fi.com/mava_06",
+			"youtube": "https://youtu.be/YKvNNoDdvu4"
+		}
+	},
 	"mojkqueira": {
 		"name": "mojkqueira",
 		"avatar": "creators/mojkqueira.webp?v=bc62ceb8",
@@ -77,6 +105,27 @@
 		"links": {
 			"discord": "https://discord.gg/vXHXVgv7qy",
 			"x": "https://x.com/Nyxns0"
+		}
+	},
+	"stritzzz": {
+		"name": "Stritzzz",
+		"avatar": "creators/stritzzz.webp?v=f71e3842",
+		"links": {
+			"discord": "https://discord.gg/mwDmC5JMnf",
+			"kofi": "https://ko-fi.com/stritzzz",
+			"site": "https://linktr.ee/gyeinjik",
+			"youtube": "https://www.youtube.com/@StritzzzLoL"
+		}
+	},
+	"wiko": {
+		"name": "Wiko",
+		"avatar": "creators/wiko.webp?v=7b96207d",
+		"bio": "## boom whatup solowiko only here back with some custom skin action\n\nso this is my very cool and sigma profile where you can find my mods, as well as the mods that I maintain for other people\n\nI make all kinds of mods, from \"real\" custom skins to silly meme ones\n\nif you'd like me to make a mod for you, you can commission me on the [runeforge discord](https://discord.gg/runeforge) or the [divine skins discord](https://discord.gg/divineskins)\n\nimagine if ninja had a low taper fade",
+		"links": {
+			"discord": "https://discord.com/users/395209649969823744",
+			"kofi": "https://ko-fi.com/wiko2303",
+			"twitch": "https://www.twitch.tv/zy0xxx",
+			"youtube": "https://www.youtube.com/@wikofiko"
 		}
 	},
 	"yliimh": {

@@ -1,0 +1,26 @@
+{
+	"id": "akali-toji",
+	"name": "Akali Toji",
+	"champion": 84,
+	"base": 0,
+	"creator": "mava",
+	"description": "- Akali: Toji Custom Skin my second skin put some effort on it hope you like it &lt;3 \r\n- Preview:https://youtu.be/YKvNNoDdvu4 \r\n- New 3D Model &amp; Textures: Features a redesigned mesh and detailed textures for her Kama and Kunai weapons. Custom Dark \r\n- Purple VFX: All particles, including her Twilight Shroud and Perfect Execution, utilize a deep purple energy theme. \r\n- New SFX &amp; VO: Fully replaced sound effects for a sharper impact, paired with a processed voiceover for a darker tone. added a version without ult song\n\n---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/akali-toji\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akali-toji/thumb.webp?v=e289ee17",
+	"file": {
+		"version": 1,
+		"asset": "akali-toji-v1.fantome",
+		"size": 17214880,
+		"sha256": "10eb26a5b9c339d9913c840015dd0bb8a3674b37287871dcf9a131b623b68062"
+	},
+	"chromas": []
+}

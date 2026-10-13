@@ -1,0 +1,25 @@
+{
+	"id": "akita-neru-seraphine",
+	"name": "Akita Neru Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Akita Neru Seraphine\n\n### Features\n\n- **Iconic Character Design:** Seraphine's model is completely transformed to match Akita Neru, featuring her signature blonde side-ponytail and a stylish yellow-and-black outfit.\n- **Themed Stage & VFX:** Her abilities get a golden-yellow visual effects makeover, and her floating stage is redesigned to fit the new aesthetic.\n- **A Tsundere Attitude:** This skin swaps Seraphine's bubbly pop-star persona for Neru's famously aloof and perpetually unimpressed personality—a perfect choice for when you're tired of all the positivity.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/akita-neru-seraphine\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akita-neru-seraphine/thumb.webp?v=385936a1",
+	"file": {
+		"version": 1,
+		"asset": "akita-neru-seraphine-v1.fantome",
+		"size": 33325250,
+		"sha256": "c44cdca6ec6f5ab3bd545e3dc881b0674496fbb3236aee35711ec31a058aa8c8"
+	},
+	"chromas": []
+}

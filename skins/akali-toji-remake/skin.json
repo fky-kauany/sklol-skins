@@ -1,0 +1,26 @@
+{
+	"id": "akali-toji-remake",
+	"name": "Akali Toji Remake",
+	"champion": 84,
+	"base": 0,
+	"creator": "mava",
+	"description": "Ctrl + 5 to toggle the worm\r\n\r\nReworked all VFX to look smoother, less oversaturated, and overall cleaner\r\n\r\nAdded a custom recall\r\n\r\nMaterial improvements\r\n\r\nOverall polish and optimizations\n\n---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/akali-toji-remake\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akali-toji-remake/thumb.webp?v=0793cc86",
+	"file": {
+		"version": 1,
+		"asset": "akali-toji-remake-v1.fantome",
+		"size": 46033262,
+		"sha256": "5bd2658940212d50ecfeb5ef0d8ddce869fc64611ce69ebafa7c7679773f46c0"
+	},
+	"chromas": []
+}

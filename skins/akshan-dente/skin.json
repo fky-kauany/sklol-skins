@@ -1,0 +1,26 @@
+{
+	"id": "akshan-dente",
+	"name": "Akshan Dente",
+	"champion": 166,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 DANTE 」\n### *Replaces Akshan*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n**Custom Animations**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/akshan-dente\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akshan-dente/thumb.webp?v=af870202",
+	"file": {
+		"version": 1,
+		"asset": "akshan-dente-v1.fantome",
+		"size": 17709723,
+		"sha256": "31fe1c44b82b4ba615514e0e3fcad21d2669ef74f74b5937123cdc6d527dc738"
+	},
+	"chromas": []
+}

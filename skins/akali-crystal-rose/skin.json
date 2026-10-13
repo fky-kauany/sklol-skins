@@ -1,0 +1,26 @@
+{
+	"id": "akali-crystal-rose",
+	"name": "Crystal Rose",
+	"champion": 84,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/crystal-rose-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akali-crystal-rose/thumb.webp?v=661a6828",
+	"file": {
+		"version": 1,
+		"asset": "akali-crystal-rose-v1.fantome",
+		"size": 28206018,
+		"sha256": "890a6f048ce07b918d71012f371753e309cdb0328123406d051390a4e1239c32"
+	},
+	"chromas": []
+}

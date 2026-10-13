@@ -1,0 +1,26 @@
+{
+	"id": "akshan-batman",
+	"name": "Batman",
+	"champion": 166,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "Bringing back one of my old mods, thanks to the ease of use of Divine's modding tools!\n\nThis is an up-to-date version of Batman Akshan, swapping Akshan's model and voice for that of Batman. \n\n### **Disclaimer!**\nThis is, by all means, still a very old mod of mine. It's jank and it's pretty ugly (but I did update the textures). So don't expect anything special! But people asked me for it so here it is.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/batman\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akshan-batman/thumb.webp?v=043d40bb",
+	"file": {
+		"version": 1,
+		"asset": "akshan-batman-v1.fantome",
+		"size": 13466625,
+		"sha256": "53254ee0783babef6fbdae086c0887258e9372aab6579a44334b554a64d8acbf"
+	},
+	"chromas": []
+}

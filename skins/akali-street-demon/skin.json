@@ -1,0 +1,24 @@
+{
+	"id": "akali-street-demon",
+	"name": "Street Demon",
+	"champion": 84,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/street-demon-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akali-street-demon/thumb.webp?v=4f12d2d6",
+	"file": {
+		"version": 1,
+		"asset": "akali-street-demon-v1.fantome",
+		"size": 8241948,
+		"sha256": "dea5ad52fd82fb15d8985b0730a93df5adc65de4d27159169f885377f64609c3"
+	},
+	"chromas": []
+}

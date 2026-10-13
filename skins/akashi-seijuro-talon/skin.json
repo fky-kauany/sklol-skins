@@ -1,0 +1,25 @@
+{
+	"id": "akashi-seijuro-talon",
+	"name": "Akashi Seijuro Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "stritzzz",
+	"description": "**akashi seijuro kuroko no basket**\r\n**if you like my work you can subscribe:** https://www.youtube.com/@StritzzzLoL\n\n---\n\n**Created by** [Stritzzz](https://www.divineskins.gg/Stritzzz)\n\n**Original:** https://www.divineskins.gg/Stritzzz/akashi-seijuro-talon\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akashi-seijuro-talon/thumb.webp?v=26fd6dea",
+	"file": {
+		"version": 1,
+		"asset": "akashi-seijuro-talon-v1.fantome",
+		"size": 8407419,
+		"sha256": "a7894e9bfc212bd399641ac8044ca88586040cdd8722597717800acb24a93e39"
+	},
+	"chromas": []
+}

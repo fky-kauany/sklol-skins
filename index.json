@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-12T23:56:02.464Z",
+	"generatedAt": "2026-10-13T00:00:55.536Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -26,6 +26,16 @@
 				"youtube": "https://www.youtube.com/@adcx9gonext"
 			}
 		},
+		"disco": {
+			"name": "DISCO",
+			"avatar": "creators/disco.webp?v=133102a3",
+			"bio": "Contact me via discord",
+			"links": {
+				"discord": "https://discord.com/users/440418268470312961",
+				"site": "https://github.com/DISCOCX",
+				"x": "https://x.com/DISCOXZ"
+			}
+		},
 		"frog": {
 			"name": "Frog",
 			"bio": "XD",
@@ -40,6 +50,16 @@
 			"links": {
 				"discord": "https://discord.com/users/785697456473243649",
 				"kofi": "https://ko-fi.com/ikiry0u"
+			}
+		},
+		"kaizen": {
+			"name": "Kaizen",
+			"avatar": "creators/kaizen.webp?v=4ee08b64",
+			"bio": "A League modder and 3D animation student. I pour my heart and soul into my mods, and with my skills in animation, I deliver the highest quality stuff for you to enjoy!",
+			"links": {
+				"kofi": "https://ko-fi.com/mordekaizen/commissions",
+				"x": "https://x.com/MordeKaizen",
+				"youtube": "https://www.youtube.com/@MordeKaizen"
 			}
 		},
 		"keduox": {
@@ -61,6 +81,14 @@
 				"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png"
 			}
 		},
+		"mava": {
+			"name": "MAVA",
+			"bio": "i like to create anime mods\nIf you appreciate my work or like the skins and would consider donating, would be awesome <3",
+			"links": {
+				"kofi": "https://ko-fi.com/mava_06",
+				"youtube": "https://youtu.be/YKvNNoDdvu4"
+			}
+		},
 		"mojkqueira": {
 			"name": "mojkqueira",
 			"avatar": "creators/mojkqueira.webp?v=bc62ceb8",
@@ -80,6 +108,27 @@
 			"links": {
 				"discord": "https://discord.gg/vXHXVgv7qy",
 				"x": "https://x.com/Nyxns0"
+			}
+		},
+		"stritzzz": {
+			"name": "Stritzzz",
+			"avatar": "creators/stritzzz.webp?v=f71e3842",
+			"links": {
+				"discord": "https://discord.gg/mwDmC5JMnf",
+				"kofi": "https://ko-fi.com/stritzzz",
+				"site": "https://linktr.ee/gyeinjik",
+				"youtube": "https://www.youtube.com/@StritzzzLoL"
+			}
+		},
+		"wiko": {
+			"name": "Wiko",
+			"avatar": "creators/wiko.webp?v=7b96207d",
+			"bio": "## boom whatup solowiko only here back with some custom skin action\n\nso this is my very cool and sigma profile where you can find my mods, as well as the mods that I maintain for other people\n\nI make all kinds of mods, from \"real\" custom skins to silly meme ones\n\nif you'd like me to make a mod for you, you can commission me on the [runeforge discord](https://discord.gg/runeforge) or the [divine skins discord](https://discord.gg/divineskins)\n\nimagine if ninja had a low taper fade",
+			"links": {
+				"discord": "https://discord.com/users/395209649969823744",
+				"kofi": "https://ko-fi.com/wiko2303",
+				"twitch": "https://www.twitch.tv/zy0xxx",
+				"youtube": "https://www.youtube.com/@wikofiko"
 			}
 		},
 		"yliimh": {
@@ -759,6 +808,259 @@
 				"asset": "akali-cammie-v1.fantome",
 				"size": 37944236,
 				"sha256": "a3fb174694e6e6384addf49d9a638c168f666c6a6b7a290f2f1e9c6d71b5b872"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-crystal-rose",
+			"name": "Crystal Rose",
+			"champion": 84,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akali-crystal-rose/thumb.webp?v=661a6828",
+			"file": {
+				"version": 1,
+				"asset": "akali-crystal-rose-v1.fantome",
+				"size": 28206018,
+				"sha256": "890a6f048ce07b918d71012f371753e309cdb0328123406d051390a4e1239c32"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-street-demon",
+			"name": "Street Demon",
+			"champion": 84,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akali-street-demon/thumb.webp?v=4f12d2d6",
+			"file": {
+				"version": 1,
+				"asset": "akali-street-demon-v1.fantome",
+				"size": 8241948,
+				"sha256": "dea5ad52fd82fb15d8985b0730a93df5adc65de4d27159169f885377f64609c3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-toji",
+			"name": "Akali Toji",
+			"champion": 84,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akali-toji/thumb.webp?v=e289ee17",
+			"file": {
+				"version": 1,
+				"asset": "akali-toji-v1.fantome",
+				"size": 17214880,
+				"sha256": "10eb26a5b9c339d9913c840015dd0bb8a3674b37287871dcf9a131b623b68062"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-toji-remake",
+			"name": "Akali Toji Remake",
+			"champion": 84,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akali-toji-remake/thumb.webp?v=0793cc86",
+			"file": {
+				"version": 1,
+				"asset": "akali-toji-remake-v1.fantome",
+				"size": 46033262,
+				"sha256": "5bd2658940212d50ecfeb5ef0d8ddce869fc64611ce69ebafa7c7679773f46c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-touka",
+			"name": "Akali Touka",
+			"champion": 84,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akali-touka/thumb.webp?v=96a16f6a",
+			"file": {
+				"version": 1,
+				"asset": "akali-touka-v1.fantome",
+				"size": 43743668,
+				"sha256": "753b95b80d823c5167b6a4409cbc5f93a70984b2b29e51ed8a9e086ab0879400"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akashi-seijuro-talon",
+			"name": "Akashi Seijuro Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "stritzzz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akashi-seijuro-talon/thumb.webp?v=26fd6dea",
+			"file": {
+				"version": 1,
+				"asset": "akashi-seijuro-talon-v1.fantome",
+				"size": 8407419,
+				"sha256": "a7894e9bfc212bd399641ac8044ca88586040cdd8722597717800acb24a93e39"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akita-neru-seraphine",
+			"name": "Akita Neru Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akita-neru-seraphine/thumb.webp?v=385936a1",
+			"file": {
+				"version": 1,
+				"asset": "akita-neru-seraphine-v1.fantome",
+				"size": 33325250,
+				"sha256": "c44cdca6ec6f5ab3bd545e3dc881b0674496fbb3236aee35711ec31a058aa8c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-baldshan",
+			"name": "Baldshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akshan-baldshan/thumb.webp?v=7109ca55",
+			"file": {
+				"version": 1,
+				"asset": "akshan-baldshan-v1.fantome",
+				"size": 825775,
+				"sha256": "d7f02e7052a9e4fddfe9c7bf50ced5fc3978d3af6a3dbf4a0960bc076a4e9deb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-batman",
+			"name": "Batman",
+			"champion": 166,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akshan-batman/thumb.webp?v=043d40bb",
+			"file": {
+				"version": 1,
+				"asset": "akshan-batman-v1.fantome",
+				"size": 13466625,
+				"sha256": "53254ee0783babef6fbdae086c0887258e9372aab6579a44334b554a64d8acbf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-dente",
+			"name": "Akshan Dente",
+			"champion": 166,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/akshan-dente/thumb.webp?v=af870202",
+			"file": {
+				"version": 1,
+				"asset": "akshan-dente-v1.fantome",
+				"size": 17709723,
+				"sha256": "31fe1c44b82b4ba615514e0e3fcad21d2669ef74f74b5937123cdc6d527dc738"
 			},
 			"chromas": []
 		},

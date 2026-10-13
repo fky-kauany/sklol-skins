@@ -1,0 +1,23 @@
+{
+	"id": "akshan-baldshan",
+	"name": "Baldshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "wiko",
+	"description": "> kekius maximus unban my main acc pls\n\n### ✨ Overview\n\nThis mod makes Akshan bald, referencing a meme with Drututt getting banned on his Twitter account\n\n#\n\n### ✨ Additional information\n\nThe mod replaces the Base Akshan skin.\n\n#\n\n### ✨ Features\n\n* New model\n* Modified loadingscreen\n* Modified in-game icons\n\n#\n\n### ✨ Credits\n\nSpecial thanks to [Goat](https://runeforge.dev/users/Goat \"Goat's runeforge profile\") and [Bud](https://divineskins.gg/budlibu500 \"Bud's divini profile\") for helping me with making this mod.\n\nShoutout to [Zy0xxx](https://www.twitch.tv/zy0xxx \"twitchtv zy0xxx\")\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/baldshan\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/akshan-baldshan/thumb.webp?v=7109ca55",
+	"file": {
+		"version": 1,
+		"asset": "akshan-baldshan-v1.fantome",
+		"size": 825775,
+		"sha256": "d7f02e7052a9e4fddfe9c7bf50ced5fc3978d3af6a3dbf4a0960bc076a4e9deb"
+	},
+	"chromas": []
+}
