@@ -1,0 +1,26 @@
+{
+	"id": "kai-sa-boba-fett",
+	"name": "Boba Fett",
+	"champion": 145,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n- Custom Voice-over for all languages\r\n- New VFX\r\n- New SFX\r\n- Custom loading screen and in-game icons\r\n- Your Iconic starship, Slave 1\r\n- Frosted Han Solo\r\n- More shutdown gold (jk)\r\n\r\n\r\n*\"Boba Fett, at your service\"*\r\n\r\n\r\nThe galaxy's most fearsome bounty hunter is here, and he's ready to collect your shutdown gold.\r\n\r\nKai'Sa has been entirely replaced by Boba Fett. Q is now Whistling Birds, W is now the jetpack missile, E is now jetpack flight, R is now jetpack dash.\r\n\r\nRecall and Respawn both feature Slave 1, Boba's iconic ship, joke features Han Solo, although he is a bit stiff, probably due to being in carbonite.\r\n\r\nTo achieve this, all animations have been remade, as well as a lot of VFX and SFX. There is also a full voice-over as well (yes, with unique voice lines per every kill)\r\n\r\nThe skin overrides all skins except for the Hall of Legends one, so no matter which skin you or the enemy picks, you will always see Boba Fett (with the previously mentioned exception)\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/boba-fett\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kai-sa-boba-fett/thumb.webp?v=d4c91547",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-boba-fett-v1.fantome",
+		"size": 45207707,
+		"sha256": "b6f03bd68e686d43411cfea4a6ffbba85f452c699a96fc33c6ec98b6129f7463"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "kai-sa-kaisa-alya",
+	"name": "Kaisa Alya",
+	"champion": 145,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ALYA MIKHAILOVNA KUJO 」\r\n### *Replaces Kai'Sa*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/kaisa-alya\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kai-sa-kaisa-alya/thumb.webp?v=bcfe019e",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-kaisa-alya-v1.fantome",
+		"size": 18943913,
+		"sha256": "122acb34d9e8f5e61f4308badf322a88c982a16d47e3e88e66debd31a10e417a"
+	},
+	"chromas": []
+}

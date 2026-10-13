@@ -1,0 +1,26 @@
+{
+	"id": "kai-sa-kaisa-reyna-valorant",
+	"name": "Kaisa: Reyna (Valorant)",
+	"champion": 145,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "Custom reyna model \nworks on default kaisa\ncustom loading screen\nenjoy\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/kaisa-reyna-valorant\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kai-sa-kaisa-reyna-valorant/thumb.webp?v=de7d16bb",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-kaisa-reyna-valorant-v1.fantome",
+		"size": 6171332,
+		"sha256": "bc6c009cd5e601c9d4642345d8e701616693f4b873366c5e479d5bce9f0dd564"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:51:20.427Z",
+	"generatedAt": "2026-10-13T03:54:36.252Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -4607,6 +4607,264 @@
 				"asset": "kafka-hsr-talon-v1.fantome",
 				"size": 12756389,
 				"sha256": "cabe94a4ed72871ea24c4456c282005f0b67c45b6f41af91ddb9aa0761557ae8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-boba-fett",
+			"name": "Boba Fett",
+			"champion": 145,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-boba-fett/thumb.webp?v=d4c91547",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-boba-fett-v1.fantome",
+				"size": 45207707,
+				"sha256": "b6f03bd68e686d43411cfea4a6ffbba85f452c699a96fc33c6ec98b6129f7463"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-firefly-kaisa",
+			"name": "Firefly Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-firefly-kaisa/thumb.webp?v=4055cd4b",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-firefly-kaisa-v1.fantome",
+				"size": 29582706,
+				"sha256": "2975164fba9d7b7c56e72cdecd9e417610c30c7b76b5b9fa28d1cd125ecefc3c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-kaisa-alya",
+			"name": "Kaisa Alya",
+			"champion": 145,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-kaisa-alya/thumb.webp?v=bcfe019e",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-kaisa-alya-v1.fantome",
+				"size": 18943913,
+				"sha256": "122acb34d9e8f5e61f4308badf322a88c982a16d47e3e88e66debd31a10e417a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-kaisa-reyna-valorant",
+			"name": "Kaisa: Reyna (Valorant)",
+			"champion": 145,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-kaisa-reyna-valorant/thumb.webp?v=de7d16bb",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-kaisa-reyna-valorant-v1.fantome",
+				"size": 6171332,
+				"sha256": "bc6c009cd5e601c9d4642345d8e701616693f4b873366c5e479d5bce9f0dd564"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-kaisa-yuki",
+			"name": "Kaisa Yuki",
+			"champion": 145,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-kaisa-yuki/thumb.webp?v=850207cd",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-kaisa-yuki-v1.fantome",
+				"size": 17119761,
+				"sha256": "9efd32296a67015fed38e289450ff4241277178aa7880b85131a9a199e0d626a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-lucy-kaisa",
+			"name": "Lucy Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-lucy-kaisa/thumb.webp?v=3a5eac0c",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-lucy-kaisa-v1.fantome",
+				"size": 6973867,
+				"sha256": "97c5b148cd1b7d9d375247f1b1b7b7b21562554e0b21b678b9267c7bd1c69aee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-mai-sakurajima",
+			"name": "Mai Sakurajima",
+			"champion": 145,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-mai-sakurajima/thumb.webp?v=58aecc60",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-mai-sakurajima-v1.fantome",
+				"size": 25249573,
+				"sha256": "f534027035ecf0b652497795cd13099635ac5504fc11471d7bc28ed6cbf6a11a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-rin-tohsaka-kaisa",
+			"name": "Rin Tohsaka Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-rin-tohsaka-kaisa/thumb.webp?v=0ebd7c78",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-rin-tohsaka-kaisa-v1.modpkg",
+				"size": 5169749,
+				"sha256": "43f696033384def3e9c7ffbc0495b9e99f61be26f81ca5421a29fd1564065ff8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-yuri-jahad-kaisa",
+			"name": "Yuri Jahad Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-yuri-jahad-kaisa/thumb.webp?v=2ed4e31c",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-yuri-jahad-kaisa-v1.fantome",
+				"size": 15060516,
+				"sha256": "879d8f90ed51476e423df8a4e986b84e3deb482b1c25b28adbbd708c510f3175"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-zero-two-kaisa",
+			"name": "Zero Two Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-zero-two-kaisa/thumb.webp?v=f53b312a",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-zero-two-kaisa-v1.fantome",
+				"size": 8481506,
+				"sha256": "c88e5442cc920996b31ab6381e647b8f4e1c73c69d0f1c50bb69784cfe8b1ecd"
 			},
 			"chromas": []
 		},

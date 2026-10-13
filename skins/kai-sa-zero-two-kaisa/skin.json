@@ -1,0 +1,26 @@
+{
+	"id": "kai-sa-zero-two-kaisa",
+	"name": "Zero Two Kaisa",
+	"champion": 145,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Zero Two Kaisa\n\n### Features\n\n- **Full Custom Model:** Transforms Kai'Sa's base model into Zero Two, complete with her iconic pink hair, horns, and pilot suit.\n- **Custom Abilities & VFX:** All of Kai'Sa's abilities have been given brand-new visual effects, colored in a red, white, and pink palette inspired by Zero Two and her Franxx.\n- **Universal Compatibility:** This mod is designed to work as an override for all official Kai'Sa skins, so you can use it no matter which one you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/zero-two-kaisa\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kai-sa-zero-two-kaisa/thumb.webp?v=f53b312a",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-zero-two-kaisa-v1.fantome",
+		"size": 8481506,
+		"sha256": "c88e5442cc920996b31ab6381e647b8f4e1c73c69d0f1c50bb69784cfe8b1ecd"
+	},
+	"chromas": []
+}

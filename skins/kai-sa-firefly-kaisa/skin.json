@@ -1,0 +1,27 @@
+{
+	"id": "kai-sa-firefly-kaisa",
+	"name": "Firefly Kaisa",
+	"champion": 145,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Firefly Kaisa\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.4.3\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/firefly-kaisa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kai-sa-firefly-kaisa/thumb.webp?v=4055cd4b",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-firefly-kaisa-v1.fantome",
+		"size": 29582706,
+		"sha256": "2975164fba9d7b7c56e72cdecd9e417610c30c7b76b5b9fa28d1cd125ecefc3c"
+	},
+	"chromas": []
+}

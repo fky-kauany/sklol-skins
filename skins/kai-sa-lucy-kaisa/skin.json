@@ -1,0 +1,26 @@
+{
+	"id": "kai-sa-lucy-kaisa",
+	"name": "Lucy Kaisa",
+	"champion": 145,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Lucy as Kaisa from Cyberpunk\nmade by vitusmmrc\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/lucy-kaisa\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kai-sa-lucy-kaisa/thumb.webp?v=3a5eac0c",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-lucy-kaisa-v1.fantome",
+		"size": 6973867,
+		"sha256": "97c5b148cd1b7d9d375247f1b1b7b7b21562554e0b21b678b9267c7bd1c69aee"
+	},
+	"chromas": []
+}
