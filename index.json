@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:55:11.553Z",
+	"generatedAt": "2026-10-13T01:58:40.719Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -231,6 +231,16 @@
 				"kofi": "https://ko-fi.com/ikiry0u"
 			}
 		},
+		"jaku3": {
+			"name": "jaku3",
+			"avatar": "creators/jaku3.webp?v=150d8e45",
+			"bio": "About my mods\n\nThe majority of my mods are model swaps with particle recolor and sometimes voiceovers. Recently I went beyond that and started playing with .bin files so now some of my mods can change outfits in-game. I follow a niche workflow for my skins, in which I sculpt the 3D model from scratch, bake the lights, do the retopology (from 1-5 Million tris to less than 65k, basically optimize it for league's game engine), create the textures and then, only then, start bringing all that into le",
+			"links": {
+				"instagram": "https://www.instagram.com/jakuu_3/",
+				"kofi": "https://ko-fi.com/jaku3",
+				"youtube": "https://www.youtube.com/@Jaku%C6%B7"
+			}
+		},
 		"kaizen": {
 			"name": "Kaizen",
 			"avatar": "creators/kaizen.webp?v=4ee08b64",
@@ -271,6 +281,11 @@
 		"lita": {
 			"name": "lita",
 			"avatar": "creators/lita.webp?v=7618fc10",
+			"links": {}
+		},
+		"magnaplayer": {
+			"name": "MagnaPlayer",
+			"avatar": "creators/magnaplayer.png?v=f78784d6",
 			"links": {}
 		},
 		"mava": {
@@ -7734,6 +7749,261 @@
 				"asset": "darth-vader-diana-v1.fantome",
 				"size": 2231574,
 				"sha256": "3fa946dcdccce1afe435950807576fe341155f62a10bf438ef8038ac8a5103e8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darth-vader-gangplank",
+			"name": "Darth Vader Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darth-vader-gangplank/thumb.webp?v=f13d2dcd",
+			"file": {
+				"version": 1,
+				"asset": "darth-vader-gangplank-v1.fantome",
+				"size": 7534726,
+				"sha256": "33c73ff63a9cae5197ce8bd95ea36c80164e01cd600721b0a48e33d0c85da9f3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darth-vader-yasuo",
+			"name": "Darth Vader Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darth-vader-yasuo/thumb.webp?v=de82ce69",
+			"file": {
+				"version": 1,
+				"asset": "darth-vader-yasuo-v1.fantome",
+				"size": 32402239,
+				"sha256": "a2598e6c19bcea9c16aa9161e680a3ed06f812a62744e37cad5ac93a900388df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "david-martinez-sett",
+			"name": "David Martinez - Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "magnaplayer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/david-martinez-sett/thumb.webp?v=7cb04af4",
+			"file": {
+				"version": 1,
+				"asset": "david-martinez-sett-v1.fantome",
+				"size": 9398135,
+				"sha256": "7e9c279f28a65a0851910848f34c7aee86f24377aff27d9951fbc67305d9b619"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dawnbringer-irelia",
+			"name": "Dawnbringer Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "xellelux",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dawnbringer-irelia/thumb.webp?v=c3d9638e",
+			"file": {
+				"version": 1,
+				"asset": "dawnbringer-irelia-v1.fantome",
+				"size": 27440407,
+				"sha256": "8829714e348acd7bb1a76f974a79cff52f9b0c47fdfd80566756e27227701a7e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "daxter-fizz",
+			"name": "Daxter Fizz",
+			"champion": 105,
+			"base": 8,
+			"creator": "jaku3",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/daxter-fizz/thumb.webp?v=4ffb969b",
+			"file": {
+				"version": 1,
+				"asset": "daxter-fizz-v1.fantome",
+				"size": 2556778,
+				"sha256": "52d7ac97c2298b68ae00ed1e545bfcf3c9dd2f6687668b0aed68d0378429d7eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dbz-broly-alistar",
+			"name": "DBZ Broly Alistar",
+			"champion": 12,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dbz-broly-alistar/thumb.webp?v=a42e501b",
+			"file": {
+				"version": 1,
+				"asset": "dbz-broly-alistar-v1.fantome",
+				"size": 11779511,
+				"sha256": "07571139a9f186b85a63659092d77c5ef27a44ebd07215f7b4a7c9d0a53c712c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "deadpool-samira",
+			"name": "deadpool samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/deadpool-samira/thumb.webp?v=30fe3f95",
+			"file": {
+				"version": 1,
+				"asset": "deadpool-samira-v1.fantome",
+				"size": 7541732,
+				"sha256": "a280fd8fbb5afd564bfa9295e77d714856a3cf6f6630842469eb756aaee48fc1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "death-hunter-akali",
+			"name": "Death Hunter Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "emshu",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/death-hunter-akali/thumb.webp?v=b2bd9fb2",
+			"file": {
+				"version": 1,
+				"asset": "death-hunter-akali-v1.fantome",
+				"size": 3743820,
+				"sha256": "645c846cd34cf3b5dab1b78b1c332823cdec9c63fae8f448fde043254a8f1369"
+			},
+			"chromas": []
+		},
+		{
+			"id": "death-phantom-pyke",
+			"name": "Death Phantom Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/death-phantom-pyke/thumb.webp?v=2f7976e5",
+			"file": {
+				"version": 1,
+				"asset": "death-phantom-pyke-v1.fantome",
+				"size": 17432442,
+				"sha256": "72388f6c762bc5be21f0d6b830c36bfb4dea85f32112410f5f65df8916c4e81c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "death-raven-karthus",
+			"name": "Death Raven Karthus",
+			"champion": 30,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/death-raven-karthus/thumb.webp?v=8c420734",
+			"file": {
+				"version": 1,
+				"asset": "death-raven-karthus-v1.fantome",
+				"size": 18033669,
+				"sha256": "85bc789e6254964e031c592bedd68a6791df887da906317ab1872635a4b418c7"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "death-raven-karthus",
+	"name": "Death Raven Karthus",
+	"champion": 30,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/death-raven-karthus\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/death-raven-karthus/thumb.webp?v=8c420734",
+	"file": {
+		"version": 1,
+		"asset": "death-raven-karthus-v1.fantome",
+		"size": 18033669,
+		"sha256": "85bc789e6254964e031c592bedd68a6791df887da906317ab1872635a4b418c7"
+	},
+	"chromas": []
+}

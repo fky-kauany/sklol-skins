@@ -1,0 +1,26 @@
+{
+	"id": "dbz-broly-alistar",
+	"name": "DBZ Broly Alistar",
+	"champion": 12,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "###  Mod Info\n**Modified Skin(s):** All skins\n\ndbz broly alistar custom skin made for @dkdp\n\n#### mod features:\n- model\n- differrent animations\n- custom vfx\n- vo\n- kakarot\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/dbz-broly-alistar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dbz-broly-alistar/thumb.webp?v=a42e501b",
+	"file": {
+		"version": 1,
+		"asset": "dbz-broly-alistar-v1.fantome",
+		"size": 11779511,
+		"sha256": "07571139a9f186b85a63659092d77c5ef27a44ebd07215f7b4a7c9d0a53c712c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "death-hunter-akali",
+	"name": "Death Hunter Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "emshu",
+	"description": "---\n\n**Created by** [emShu](https://www.divineskins.gg/emShu)\n\n**Original:** https://www.divineskins.gg/emShu/death-hunter-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/death-hunter-akali/thumb.webp?v=b2bd9fb2",
+	"file": {
+		"version": 1,
+		"asset": "death-hunter-akali-v1.fantome",
+		"size": 3743820,
+		"sha256": "645c846cd34cf3b5dab1b78b1c332823cdec9c63fae8f448fde043254a8f1369"
+	},
+	"chromas": []
+}

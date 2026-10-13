@@ -1,0 +1,26 @@
+{
+	"id": "death-phantom-pyke",
+	"name": "Death Phantom Pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/death-phantom-pyke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/death-phantom-pyke/thumb.webp?v=2f7976e5",
+	"file": {
+		"version": 1,
+		"asset": "death-phantom-pyke-v1.fantome",
+		"size": 17432442,
+		"sha256": "72388f6c762bc5be21f0d6b830c36bfb4dea85f32112410f5f65df8916c4e81c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "david-martinez-sett",
+	"name": "David Martinez - Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "magnaplayer",
+	"description": "# David Martinez as Sett\n\nFrom the streets of Night City to the arenas of the Rift.\n\nThis mod replaces **Sett** with **David Martinez** from *Cyberpunk: Edgerunners*, bringing the legendary edgerunner into League of Legends. Featuring a custom model and animation adjustments, the mod transforms Sett's brutal brawling style into a fitting showcase of David's raw strength and fearless attitude.\n\nAnimations have been adapted to better suit the character while maintaining Sett's original gameplay and mechanics. Whether you're dominating the laning phase, charging into the enemy team, or landing a massive Haymaker, David feels right at home throwing punches and taking hits.\n\nExperience the rise of a true cyberpunk legend as you fight your way to the top of the Rift. No chrome required—just guts, determination, and enough power to take on anyone standing in your way.\n\n---\n\n**Created by** [MagnaPlayer](https://www.divineskins.gg/MagnaPlayer)\n\n**Original:** https://www.divineskins.gg/MagnaPlayer/david-martinez-sett\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/david-martinez-sett/thumb.webp?v=7cb04af4",
+	"file": {
+		"version": 1,
+		"asset": "david-martinez-sett-v1.fantome",
+		"size": 9398135,
+		"sha256": "7e9c279f28a65a0851910848f34c7aee86f24377aff27d9951fbc67305d9b619"
+	},
+	"chromas": []
+}

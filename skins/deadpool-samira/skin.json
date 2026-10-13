@@ -1,0 +1,26 @@
+{
+	"id": "deadpool-samira",
+	"name": "deadpool samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"*see, THIS is why i always have trouble to having friend, I WANNA KILL THEM\"*\n\n***\n\n**Modified champion: samira**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game: X men legends 2**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/deadpool-samira\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/deadpool-samira/thumb.webp?v=30fe3f95",
+	"file": {
+		"version": 1,
+		"asset": "deadpool-samira-v1.fantome",
+		"size": 7541732,
+		"sha256": "a280fd8fbb5afd564bfa9295e77d714856a3cf6f6630842469eb756aaee48fc1"
+	},
+	"chromas": []
+}

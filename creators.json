@@ -228,6 +228,16 @@
 			"kofi": "https://ko-fi.com/ikiry0u"
 		}
 	},
+	"jaku3": {
+		"name": "jaku3",
+		"avatar": "creators/jaku3.webp?v=150d8e45",
+		"bio": "About my mods\n\nThe majority of my mods are model swaps with particle recolor and sometimes voiceovers. Recently I went beyond that and started playing with .bin files so now some of my mods can change outfits in-game. I follow a niche workflow for my skins, in which I sculpt the 3D model from scratch, bake the lights, do the retopology (from 1-5 Million tris to less than 65k, basically optimize it for league's game engine), create the textures and then, only then, start bringing all that into le",
+		"links": {
+			"instagram": "https://www.instagram.com/jakuu_3/",
+			"kofi": "https://ko-fi.com/jaku3",
+			"youtube": "https://www.youtube.com/@Jaku%C6%B7"
+		}
+	},
 	"kaizen": {
 		"name": "Kaizen",
 		"avatar": "creators/kaizen.webp?v=4ee08b64",
@@ -268,6 +278,11 @@
 	"lita": {
 		"name": "lita",
 		"avatar": "creators/lita.webp?v=7618fc10",
+		"links": {}
+	},
+	"magnaplayer": {
+		"name": "MagnaPlayer",
+		"avatar": "creators/magnaplayer.png?v=f78784d6",
 		"links": {}
 	},
 	"mava": {

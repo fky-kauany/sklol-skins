@@ -1,0 +1,25 @@
+{
+	"id": "darth-vader-gangplank",
+	"name": "Darth Vader Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Gangplank\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/darth-vader-gangplank\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darth-vader-gangplank/thumb.webp?v=f13d2dcd",
+	"file": {
+		"version": 1,
+		"asset": "darth-vader-gangplank-v1.fantome",
+		"size": 7534726,
+		"sha256": "33c73ff63a9cae5197ce8bd95ea36c80164e01cd600721b0a48e33d0c85da9f3"
+	},
+	"chromas": []
+}

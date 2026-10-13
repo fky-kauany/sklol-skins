@@ -1,0 +1,24 @@
+{
+	"id": "daxter-fizz",
+	"name": "Daxter Fizz",
+	"champion": 105,
+	"base": 8,
+	"creator": "jaku3",
+	"description": "# Information\r\nAuthor: Jaku3\r\nSkin: Base\r\nVersion: 1.1.0\r\n\r\n# 1.1.2\r\n- Fixed broken particles (yet again, sigh)\r\n# 1.1.1\r\n- Fixed broken particle colors and repathed skin.\r\n# 1.1.0\r\n- New 3D model\r\n- Recolored particles\r\n- New loadscreen and avatar icons\r\n\r\n# Coming soon\r\n- New shark 3D model\r\n- New weapon 3D model\r\n- New voiceover\n\n---\n\n**Created by** [jaku3](https://www.divineskins.gg/jaku3)\n\n**Original:** https://www.divineskins.gg/jaku3/daxter-fizz\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/daxter-fizz/thumb.webp?v=4ffb969b",
+	"file": {
+		"version": 1,
+		"asset": "daxter-fizz-v1.fantome",
+		"size": 2556778,
+		"sha256": "52d7ac97c2298b68ae00ed1e545bfcf3c9dd2f6687668b0aed68d0378429d7eb"
+	},
+	"chromas": []
+}
