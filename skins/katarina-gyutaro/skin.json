@@ -1,0 +1,25 @@
+{
+	"id": "katarina-gyutaro",
+	"name": "Gyutaro",
+	"champion": 55,
+	"base": 0,
+	"creator": "frog",
+	"description": ",\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gyutaro-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-gyutaro/thumb.webp?v=426041f5",
+	"file": {
+		"version": 1,
+		"asset": "katarina-gyutaro-v1.fantome",
+		"size": 8516324,
+		"sha256": "4b21e0573959aae70b175d63e0a60ebf004463caf2e5c5e49bd577bd94b024f8"
+	},
+	"chromas": []
+}

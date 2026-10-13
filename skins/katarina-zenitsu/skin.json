@@ -1,0 +1,26 @@
+{
+	"id": "katarina-zenitsu",
+	"name": "Katarina Zenitsu",
+	"champion": 55,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ZENITSU AGATSUMA 」\n### *Replaces Katarina*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/katarina-zenitsu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-zenitsu/thumb.webp?v=64d76785",
+	"file": {
+		"version": 1,
+		"asset": "katarina-zenitsu-v1.fantome",
+		"size": 30272093,
+		"sha256": "03cc64aba07007ed999df3a88ac18974b576c8192387430d87a186ba09728dd6"
+	},
+	"chromas": []
+}

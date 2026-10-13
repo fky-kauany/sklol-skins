@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:01:06.983Z",
+	"generatedAt": "2026-10-13T04:04:28.194Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -5385,6 +5385,265 @@
 				"asset": "katarina-chizuru-v1.fantome",
 				"size": 6771555,
 				"sha256": "0fbded88ccceb7b583dbab16d32380e2c23cc006c068280dca6e378a33da885d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-gyutaro",
+			"name": "Gyutaro",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-gyutaro/thumb.webp?v=426041f5",
+			"file": {
+				"version": 1,
+				"asset": "katarina-gyutaro-v1.fantome",
+				"size": 8516324,
+				"sha256": "4b21e0573959aae70b175d63e0a60ebf004463caf2e5c5e49bd577bd94b024f8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-jinwoo-battle-queen-kata",
+			"name": "Jinwoo Battle Queen kata",
+			"champion": 55,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-jinwoo-battle-queen-kata/thumb.webp?v=4f42ec44",
+			"file": {
+				"version": 1,
+				"asset": "katarina-jinwoo-battle-queen-kata-v1.fantome",
+				"size": 57600749,
+				"sha256": "f75847120988928c13f71545c866e90dcc67e2ee558c81f4c8955fd38406f6e0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-killua",
+			"name": "Killua",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-killua/thumb.webp?v=131ead6d",
+			"file": {
+				"version": 1,
+				"asset": "katarina-killua-v1.fantome",
+				"size": 34345194,
+				"sha256": "3d381c7056cd3113f2170d9f3c489a029e0b73aa54c71ec6a5eb74e712d4237a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-mahito",
+			"name": "Katarina Mahito",
+			"champion": 55,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-mahito/thumb.webp?v=ef1d577e",
+			"file": {
+				"version": 1,
+				"asset": "katarina-mahito-v1.fantome",
+				"size": 10901118,
+				"sha256": "3da5b89742cc518b7c16aa9e5066044e3cae1d15ce08d0fef1ec54e191f8c069"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-naruto",
+			"name": "Naruto",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-naruto/thumb.webp?v=39a700fc",
+			"file": {
+				"version": 1,
+				"asset": "katarina-naruto-v1.fantome",
+				"size": 11088541,
+				"sha256": "3b5fa455482f8d71267ca2276ba69050f2531df543c9d388c9b35b699170f9a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-succubus-nino-nakano",
+			"name": "Katarina Succubus Nino Nakano",
+			"champion": 55,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-succubus-nino-nakano/thumb.webp?v=fb524ac2",
+			"file": {
+				"version": 1,
+				"asset": "katarina-succubus-nino-nakano-v1.fantome",
+				"size": 19656727,
+				"sha256": "d4772c34d5fa70e058ef0f2ae547f901d2aac5ba15771bfcd749fe7aa5b6eaa3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-waguri",
+			"name": "Katarina Waguri",
+			"champion": 55,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-waguri/thumb.webp?v=c6744586",
+			"file": {
+				"version": 1,
+				"asset": "katarina-waguri-v1.fantome",
+				"size": 32405531,
+				"sha256": "3d56ed16b5dce6f8a217fc8e1a2a96904c852770cfdb272c36d20014caca6fb4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-xiangling",
+			"name": "Katarina Xiangling",
+			"champion": 55,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-xiangling/thumb.webp?v=7e98c6a6",
+			"file": {
+				"version": 1,
+				"asset": "katarina-xiangling-v1.fantome",
+				"size": 9887374,
+				"sha256": "03d9b7c0d8c5614cb40593fd911f4d9150a7db1127a405ccd31d6b4d03e5227b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-yor",
+			"name": "Katarina Yor",
+			"champion": 55,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-yor/thumb.webp?v=3f98d587",
+			"file": {
+				"version": 1,
+				"asset": "katarina-yor-v1.fantome",
+				"size": 6820738,
+				"sha256": "37e81109b312d787ec59f6de2a38bce622c6ec9d901db64ba90cf914b623b003"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-zenitsu",
+			"name": "Katarina Zenitsu",
+			"champion": 55,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-zenitsu/thumb.webp?v=64d76785",
+			"file": {
+				"version": 1,
+				"asset": "katarina-zenitsu-v1.fantome",
+				"size": 30272093,
+				"sha256": "03cc64aba07007ed999df3a88ac18974b576c8192387430d87a186ba09728dd6"
 			},
 			"chromas": []
 		},

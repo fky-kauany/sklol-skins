@@ -1,0 +1,26 @@
+{
+	"id": "katarina-yor",
+	"name": "Katarina Yor",
+	"champion": 55,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 YOR FORGER 」\n### *Replaces Katarina*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/katarina-yor\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-yor/thumb.webp?v=3f98d587",
+	"file": {
+		"version": 1,
+		"asset": "katarina-yor-v1.fantome",
+		"size": 6820738,
+		"sha256": "37e81109b312d787ec59f6de2a38bce622c6ec9d901db64ba90cf914b623b003"
+	},
+	"chromas": []
+}

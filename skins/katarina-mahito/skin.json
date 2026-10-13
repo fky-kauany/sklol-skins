@@ -1,0 +1,26 @@
+{
+	"id": "katarina-mahito",
+	"name": "Katarina Mahito",
+	"champion": 55,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MAHITO 」\r\n### *Replaces Katarina*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/katarina-mahito\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-mahito/thumb.webp?v=ef1d577e",
+	"file": {
+		"version": 1,
+		"asset": "katarina-mahito-v1.fantome",
+		"size": 10901118,
+		"sha256": "3da5b89742cc518b7c16aa9e5066044e3cae1d15ce08d0fef1ec54e191f8c069"
+	},
+	"chromas": []
+}

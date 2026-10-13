@@ -1,0 +1,26 @@
+{
+	"id": "katarina-succubus-nino-nakano",
+	"name": "Katarina Succubus Nino Nakano",
+	"champion": 55,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 🎃「 NINO NAKANO — SUCCUBUS VERSION 」🎃\n### *Halloween Edition — Replaces Katarina*\n\n---\n\n## 🎃 FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Loading Screen**\n\n**Custom In-Game Icons**\n\n---\n\n## 🎃 SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## 🎃 CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/katarina-succubus-nino-nakano\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-succubus-nino-nakano/thumb.webp?v=fb524ac2",
+	"file": {
+		"version": 1,
+		"asset": "katarina-succubus-nino-nakano-v1.fantome",
+		"size": 19656727,
+		"sha256": "d4772c34d5fa70e058ef0f2ae547f901d2aac5ba15771bfcd749fe7aa5b6eaa3"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "katarina-naruto",
+	"name": "Naruto",
+	"champion": 55,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/naruto-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-naruto/thumb.webp?v=39a700fc",
+	"file": {
+		"version": 1,
+		"asset": "katarina-naruto-v1.fantome",
+		"size": 11088541,
+		"sha256": "3b5fa455482f8d71267ca2276ba69050f2531df543c9d388c9b35b699170f9a5"
+	},
+	"chromas": []
+}

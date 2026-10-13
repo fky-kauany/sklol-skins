@@ -1,0 +1,26 @@
+{
+	"id": "katarina-jinwoo-battle-queen-kata",
+	"name": "Jinwoo Battle Queen kata",
+	"champion": 55,
+	"base": 0,
+	"creator": "mava",
+	"description": "YOU NEED BATTLE QUEEN KATARINA FOR THIS SKIN TO WORK\r\n\r\nAuthor:Mava\r\nBattle Queen Katarina Custom Skin: Sung Jin-woo (Solo Leveling)\r\n\r\n\"Arise.\"\r\n\r\nEmbrace the power of the Shadow Monarch with this custom Sung Jin-woo skin, built over Battle Queen Katarina!\r\n\r\nTrue to the Monarch's arsenal, this skin features a full 6-Dagger Weapon Swap System straight from the anime. Watch Jin-woo cycle through his most iconic blades, each fully equipped with unique, custom-tailored VFX matching their legendary abilities:\r\n\r\n🗡️ Knight Killer – Heavy-hitting, steel-shredding aura.\r\n\r\n🪓 Baruka's Dagger – Lightning-fast, wind-slicing energy.\r\n\r\n🧪 Kasaka's Venom Fang – Acidic, toxic purple trails that corrode the battlefield.\r\n\r\n⚡ Demon King's Daggers – Crackling blue lightning and thunderous strikes.\r\n\r\n🌋 Antares' Fangs – Blazing, draconic red embers representing the Monarch of Destruction.\r\n\r\n🌌 Kamish's Wrath – Ultimate shadow-flame effects born from the strongest dragon.\r\n\r\nAs shown in the showcase, every single dagger completely alters your particle effects, abilities, and combat flow. Dominate the Rift, command your shadows, and level up your gameplay!\n\n---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/jinwoo-battle-queen-kata\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-jinwoo-battle-queen-kata/thumb.webp?v=4f42ec44",
+	"file": {
+		"version": 1,
+		"asset": "katarina-jinwoo-battle-queen-kata-v1.fantome",
+		"size": 57600749,
+		"sha256": "f75847120988928c13f71545c866e90dcc67e2ee558c81f4c8955fd38406f6e0"
+	},
+	"chromas": []
+}

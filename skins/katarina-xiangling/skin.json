@@ -1,0 +1,26 @@
+{
+	"id": "katarina-xiangling",
+	"name": "Katarina Xiangling",
+	"champion": 55,
+	"base": 0,
+	"creator": "seweski",
+	"description": "I can't take it anymore. I'm sick of Xiangling. I try to play Ryze. My Xiangling deals more damage. I try to play Talon. My Xiangling deals more damage. I try to play Zed. My Xiangling deals more damage. I want to play Locke. He gets statchecked by Xiangling. I want to play Aurora, Akshan - they both lose to Xiangling. She grabs me by the throat. I cs for her. I get gold for her. I give her Lich bane. She isn't satisfied. I build Cosmic Drive. \"I don't need this much haste\" She tells me. \"Give me more ap.\" She grabs my jungler and forces him to throw himself off enemies. \"You just need to funnel me more. I can deal more damage with Void Staff.\" I can't afford Void Staff, I don't have enough gold. She grabs my credit card. It declines. \"Guess this is the end.\" She grabs Gouba. She says \"Gouba, get them.\" There is no hint of sadness in his eyes. Nothing but pure, no icd pyro damage. What a cruel world.\n**This skin changes:**\nVisual effects\nVoicelines\nModel\nYour Genshin team\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/katarina-xiangling\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-xiangling/thumb.webp?v=7e98c6a6",
+	"file": {
+		"version": 1,
+		"asset": "katarina-xiangling-v1.fantome",
+		"size": 9887374,
+		"sha256": "03d9b7c0d8c5614cb40593fd911f4d9150a7db1127a405ccd31d6b4d03e5227b"
+	},
+	"chromas": []
+}

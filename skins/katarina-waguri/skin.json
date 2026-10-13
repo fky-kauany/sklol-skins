@@ -1,0 +1,26 @@
+{
+	"id": "katarina-waguri",
+	"name": "Katarina Waguri",
+	"champion": 55,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KAORUKO WAGURI 」\n### *Replaces Katarina*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/katarina-waguri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-waguri/thumb.webp?v=c6744586",
+	"file": {
+		"version": 1,
+		"asset": "katarina-waguri-v1.fantome",
+		"size": 32405531,
+		"sha256": "3d56ed16b5dce6f8a217fc8e1a2a96904c852770cfdb272c36d20014caca6fb4"
+	},
+	"chromas": []
+}
