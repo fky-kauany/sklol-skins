@@ -1,0 +1,26 @@
+{
+	"id": "clove-zeri",
+	"name": "Clove Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "wiko",
+	"description": "> *I've got all the time in the world.*\r\n\r\n#\r\n\r\n### ✨ Overview\r\n\r\nThis mod turns Zeri into Clove from Valorant.\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces Base Zeri.\r\n\r\n#\r\n\r\n### ✨ Features\r\n\r\n* New model and textures\r\n* Recolored visual effects\r\n* New loading screen\r\n* New in-game icons\r\n\r\n#\r\n\r\nThis mod was made as a commission. If you'd like to commission me, you can check my portfolio at the [Runeforge Discord](https://discord.gg/runeforge \"runeforge epic discord\") or the [Divine Skins Discord](https://discord.gg/divineskins \"divini discordini\")! You can also support me through [my Ko-fi page](https://ko-fi.com/wiko2303).\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/clove-zeri\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/clove-zeri/thumb.webp?v=0c796eae",
+	"file": {
+		"version": 1,
+		"asset": "clove-zeri-v1.fantome",
+		"size": 12886217,
+		"sha256": "921ad493f6a0895dfc0135675eb53a29f24484ef9bf15c7eec8d136075e79db2"
+	},
+	"chromas": []
+}

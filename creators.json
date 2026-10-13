@@ -163,10 +163,26 @@
 			"kofi": "https://ko-fi.com/epellol"
 		}
 	},
+	"etdoan": {
+		"name": "Etdoan",
+		"avatar": "creators/etdoan.png?v=df0e2d05",
+		"links": {
+			"youtube": "https://www.youtube.com/channel/UCOVI8vYWRz6J7i5QC55H0Fg"
+		}
+	},
 	"etherroot": {
 		"name": "etherroot_",
 		"avatar": "creators/etherroot.webp?v=01f937dc",
 		"links": {}
+	},
+	"fitz-gh": {
+		"name": "fitz_gh",
+		"avatar": "creators/fitz-gh.png?v=518a071e",
+		"links": {
+			"kofi": "https://ko-fi.com/fitzca",
+			"tiktok": "https://www.tiktok.com/@darckr",
+			"youtube": "https://www.youtube.com/@HectorCalister"
+		}
 	},
 	"frog": {
 		"name": "Frog",

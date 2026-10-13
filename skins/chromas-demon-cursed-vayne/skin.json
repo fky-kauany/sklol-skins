@@ -1,0 +1,26 @@
+{
+	"id": "chromas-demon-cursed-vayne",
+	"name": "Chromas Demon Cursed Vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "### 📌 Mod Info\r\n𝗖𝗵𝗿𝗼𝗺𝗮 𝗳𝗼𝗿 𝗗𝗲𝗺𝗼𝗻 𝗖𝘂𝗿𝘀𝗲𝗱 𝗩𝗮𝘆𝗻𝗲 (𝗰𝘂𝘇 𝘁𝗵𝗲 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗼𝗻𝗲𝘀 𝗮𝗿𝗲 𝗮𝗵𝗵🥀🥀 (𝗯𝗶𝗹𝗹𝗶𝗼𝗻𝘀 𝗱𝗼𝗹𝗹𝗮𝗿 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗯𝘁𝘄🤡))\r\n\r\n**Modified Skin(s):** ❗❗**✧˖° 𝔻𝕖𝕞𝕠𝕟 ℂ𝕦𝕣𝕤𝕖𝕕 𝕍𝕒𝕪𝕟𝕖 °˖✧** ❗❗\r\n\r\n![Skin Layers](https://i.imgur.com/e3NalF0.png)\r\n \r\n\r\n                      𓏲🌿⋆⸜🍵˚✮˚𖦹🍀୭⋆｡°✩·˚₊‧★彡₊⊹𝜗ৎ♡⋆˚꩜｡⋆.୨୧⋆˚꩜𐙚‧₊°🔆✧˚🐣˖☀️⭑✨✩\r\n            𖤐 CHECK THE LAYER BUTTON (IN THE LAUNCHER) TO SEE THE DIFFERENT CHROMA COLOR 𖤐\n\n---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/chromas-demon-cursed-vayne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chromas-demon-cursed-vayne/thumb.webp?v=6ab3902e",
+	"file": {
+		"version": 1,
+		"asset": "chromas-demon-cursed-vayne-v1.fantome",
+		"size": 13323014,
+		"sha256": "11007ee16fa44d399270eb53eac36d45dc7d9ac55f076762dbffc6faab1f4277"
+	},
+	"chromas": []
+}

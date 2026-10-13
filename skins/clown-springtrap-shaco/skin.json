@@ -1,0 +1,26 @@
+{
+	"id": "clown-springtrap-shaco",
+	"name": "Clown Springtrap Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "mava",
+	"description": "🎃 Clown Springtrap Shaco\nStraight from the twisted carnival of FNaF AR: Special Delivery, Clown Springtrap invades Summoner's Rift for Halloween. This custom mod completely overhauls Default Shaco into a rotting animatronic nightmare with exposed springlocks and bloodied carnival weapons. 🔪\n\nFeatures\nFull custom 3D Clown Springtrap model with rusted endoskeleton details.\n\nCustom bloody pizzeria knife.\n\nJack in the Box (W): Replaced with an animated Plushtrap.\n\nshadow purple VFX rework.\n\nDistorted SFX and thematic analog audio.\n\n**Replaces: Default Shaco (Skin 0)**\n\n\nAuthor: MAVA\n\nCredits: Scott Cawthon / Illumix (Five Nights at Freddy's)\nDisclaimer: This is a fan-made modification. League of Legends and Shaco belong to Riot Games; Five Nights at Freddy's belongs to Scott Cawthon.\n\n---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/clown-springtrap-shaco\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/clown-springtrap-shaco/thumb.webp?v=a58cce48",
+	"file": {
+		"version": 1,
+		"asset": "clown-springtrap-shaco-v1.fantome",
+		"size": 15058901,
+		"sha256": "ffdfcfce1db8e9e31d6ab917d75bcee967091b0ca4aa27d57a4fde71f4e057c0"
+	},
+	"chromas": []
+}

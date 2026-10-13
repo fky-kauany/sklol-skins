@@ -1,0 +1,26 @@
+{
+	"id": "chucky-fizz",
+	"name": "Chucky Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/chucky-fizz\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chucky-fizz/thumb.webp?v=72ffc919",
+	"file": {
+		"version": 1,
+		"asset": "chucky-fizz-v1.fantome",
+		"size": 16560304,
+		"sha256": "fd481ca4f6d6d1c925a68b9546d3d94517b0ec387b5e2dd7943eda52e3cbc7ad"
+	},
+	"chromas": []
+}

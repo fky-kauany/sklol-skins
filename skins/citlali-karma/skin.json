@@ -1,0 +1,26 @@
+{
+	"id": "citlali-karma",
+	"name": "Citlali Karma",
+	"champion": 43,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Citlali Karma\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 2.0.0\n\n---\n\n2.0.0：\n\nNew VFX\n\nNew Joke\n\nCtrl+5 to change skins\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/citlali-karma\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/citlali-karma/thumb.webp?v=9e7af8e3",
+	"file": {
+		"version": 1,
+		"asset": "citlali-karma-v1.fantome",
+		"size": 10556396,
+		"sha256": "28f18ea41009ad4cbf7bd77d7dfcc4bd6209a98d762d0245eb1b734af0368a96"
+	},
+	"chromas": []
+}

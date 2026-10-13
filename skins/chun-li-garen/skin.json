@@ -1,0 +1,26 @@
+{
+	"id": "chun-li-garen",
+	"name": "Chun Li Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "emshu",
+	"description": "📌 Mod Info\r\nChampion: Garen\r\nCustom : Chun Li Garen\r\nModder : emShu\n\n---\n\n**Created by** [emShu](https://www.divineskins.gg/emShu)\n\n**Original:** https://www.divineskins.gg/emShu/chun-li-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chun-li-garen/thumb.webp?v=6e68e7cf",
+	"file": {
+		"version": 1,
+		"asset": "chun-li-garen-v1.fantome",
+		"size": 10123757,
+		"sha256": "615d48da26e6f6c6a44b2246380db3571e4ab2c64cc43491d27d10ea13206ab4"
+	},
+	"chromas": []
+}

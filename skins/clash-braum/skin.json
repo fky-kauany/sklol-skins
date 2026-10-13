@@ -1,0 +1,25 @@
+{
+	"id": "clash-braum",
+	"name": "Clash Braum",
+	"champion": 201,
+	"base": 0,
+	"creator": "etdoan",
+	"description": "## ⚡ Clash Braum — Hold the Line\n\n**\"F__ off you muppets!\" -Clash.** Clash from Rainbow 6 Siege joins the Rift and with her brings a custom model, electrified abilities, and her unmistakably British attitude. Protect your team and gather intel with her signature CCE shield while authentic Clash voice lines and electrical sound effects bring the crossover to life.\n\n### ✨ Features\n\n- **Custom Clash model and textures** with tactical gear and her signature CCE shield.\n- **Electrical VFX** that reinvent Braum’s abilities\n- **Straight from the Source Clash SFX and English voice lines.**\n- **Custom ability icons, portraits, and loading-screen artwork.**\n\n### 📌 Mod Info\n\n**Type:** Custom Skin / Audio / VFX / Icons / Splash\n**Champion:** Braum  \n**Format:** `.fantome`\n\n### 🧾 Credits\n\n**Skin Creator:** Ethan Doan (me!)\n**Original Clash character and source assets:** Ubisoft / Rainbow Six Siege  \n**Original Braum character:** Riot Games / League of Legends\n\n### 💬 Additional Info\n\n**Check out my youtube channel!** https://www.youtube.com/channel/UCOVI8vYWRz6J7i5QC55H0Fg\n\n*Fan-made, not affiliated with Riot Games, Ubisoft, or any other company.*\n\n---\n\n**Created by** [Etdoan](https://www.divineskins.gg/Etdoan)\n\n**Original:** https://www.divineskins.gg/Etdoan/clash-braum\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/clash-braum/thumb.webp?v=d8d7624b",
+	"file": {
+		"version": 1,
+		"asset": "clash-braum-v1.fantome",
+		"size": 7225445,
+		"sha256": "03d5c9911c28a88dbf958fa2b78513d030a43a00f7d09759b03f7e799f9a075c"
+	},
+	"chromas": []
+}

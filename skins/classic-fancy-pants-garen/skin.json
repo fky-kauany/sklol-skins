@@ -1,0 +1,26 @@
+{
+	"id": "classic-fancy-pants-garen",
+	"name": "Classic fancy pants garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"extracted from a cancelled game called (Indie game battle)\"\n\n\"they didnt taked my stuff :D\"\n\n***\n\n**Modified champion: Sett**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3D made by: Indie game battle\nand Brad Borne is the creator\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/classic-fancy-pants-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/classic-fancy-pants-garen/thumb.webp?v=d41d5d67",
+	"file": {
+		"version": 1,
+		"asset": "classic-fancy-pants-garen-v1.fantome",
+		"size": 6792044,
+		"sha256": "6efebb07e1d82ca1d3ea9e2636ad1e26930ee679f396b836737c48311fad0fad"
+	},
+	"chromas": []
+}

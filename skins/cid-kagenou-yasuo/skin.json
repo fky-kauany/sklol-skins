@@ -1,0 +1,26 @@
+{
+	"id": "cid-kagenou-yasuo",
+	"name": "Cid Kagenou - Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/cid-kagenou-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cid-kagenou-yasuo/thumb.webp?v=d3166cac",
+	"file": {
+		"version": 1,
+		"asset": "cid-kagenou-yasuo-v1.fantome",
+		"size": 82080382,
+		"sha256": "80ef0b3e24de305c4c6d45e8fc74928cf371958ef49077bc232fbe62dbfcb49e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "cloud-strife-riven",
+	"name": "Cloud Strife - Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "fitz-gh",
+	"description": "# Cloud Strife\r\n*Advent Children - For Riven*\r\n\r\n### 📌 Mod Info\r\n*CHANGED VISUAL EFFECTS\r\nCUSTOM MODEL\r\nVOICEOVER\r\nCUSTOM ICONS / SPLASHART*\r\n\r\n**Modified Skin(s):** Base skin \r\n\r\n\r\n### 🧾 Credits\r\n**Special Thanks:** Frog / Ceerel / Daka / sirDexal / tanaaxd\r\n\r\n### 💬 Additional Info\r\nQuestions or requests? DM me on Discord or join the Divine Skins server.\r\n@Fitz_gh\r\n\r\n### 💖 Support Me\r\nEnjoyed the mod? Help fuel future projects: [Donate](https://ko-fi.com/fitzca)\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [fitz_gh](https://www.divineskins.gg/fitz_gh)\n\n**Original:** https://www.divineskins.gg/fitz_gh/cloud-strife-riven\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cloud-strife-riven/thumb.webp?v=6d984fe2",
+	"file": {
+		"version": 1,
+		"asset": "cloud-strife-riven-v1.fantome",
+		"size": 25750449,
+		"sha256": "f41f5f4671897ccf2a692c9f2c78743f0708d02650b5ac6f3badc04ce66d90cd"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:37:01.367Z",
+	"generatedAt": "2026-10-13T01:41:05.198Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -166,10 +166,26 @@
 				"kofi": "https://ko-fi.com/epellol"
 			}
 		},
+		"etdoan": {
+			"name": "Etdoan",
+			"avatar": "creators/etdoan.png?v=df0e2d05",
+			"links": {
+				"youtube": "https://www.youtube.com/channel/UCOVI8vYWRz6J7i5QC55H0Fg"
+			}
+		},
 		"etherroot": {
 			"name": "etherroot_",
 			"avatar": "creators/etherroot.webp?v=01f937dc",
 			"links": {}
+		},
+		"fitz-gh": {
+			"name": "fitz_gh",
+			"avatar": "creators/fitz-gh.png?v=518a071e",
+			"links": {
+				"kofi": "https://ko-fi.com/fitzca",
+				"tiktok": "https://www.tiktok.com/@darckr",
+				"youtube": "https://www.youtube.com/@HectorCalister"
+			}
 		},
 		"frog": {
 			"name": "Frog",
@@ -6438,6 +6454,265 @@
 				"asset": "chromas-annie-pandemonium-v1.fantome",
 				"size": 13426827,
 				"sha256": "c4057be9bfba1ad788281c132973343da9d9f6d2f7d4b409e88f8f0bf46c516e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chromas-demon-cursed-vayne",
+			"name": "Chromas Demon Cursed Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chromas-demon-cursed-vayne/thumb.webp?v=6ab3902e",
+			"file": {
+				"version": 1,
+				"asset": "chromas-demon-cursed-vayne-v1.fantome",
+				"size": 13323014,
+				"sha256": "11007ee16fa44d399270eb53eac36d45dc7d9ac55f076762dbffc6faab1f4277"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chucky-fizz",
+			"name": "Chucky Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chucky-fizz/thumb.webp?v=72ffc919",
+			"file": {
+				"version": 1,
+				"asset": "chucky-fizz-v1.fantome",
+				"size": 16560304,
+				"sha256": "fd481ca4f6d6d1c925a68b9546d3d94517b0ec387b5e2dd7943eda52e3cbc7ad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chun-li-garen",
+			"name": "Chun Li Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "emshu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chun-li-garen/thumb.webp?v=6e68e7cf",
+			"file": {
+				"version": 1,
+				"asset": "chun-li-garen-v1.fantome",
+				"size": 10123757,
+				"sha256": "615d48da26e6f6c6a44b2246380db3571e4ab2c64cc43491d27d10ea13206ab4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cid-kagenou-yasuo",
+			"name": "Cid Kagenou - Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cid-kagenou-yasuo/thumb.webp?v=d3166cac",
+			"file": {
+				"version": 1,
+				"asset": "cid-kagenou-yasuo-v1.fantome",
+				"size": 82080382,
+				"sha256": "80ef0b3e24de305c4c6d45e8fc74928cf371958ef49077bc232fbe62dbfcb49e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "citlali-karma",
+			"name": "Citlali Karma",
+			"champion": 43,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/citlali-karma/thumb.webp?v=9e7af8e3",
+			"file": {
+				"version": 1,
+				"asset": "citlali-karma-v1.fantome",
+				"size": 10556396,
+				"sha256": "28f18ea41009ad4cbf7bd77d7dfcc4bd6209a98d762d0245eb1b734af0368a96"
+			},
+			"chromas": []
+		},
+		{
+			"id": "clash-braum",
+			"name": "Clash Braum",
+			"champion": 201,
+			"base": 0,
+			"creator": "etdoan",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/clash-braum/thumb.webp?v=d8d7624b",
+			"file": {
+				"version": 1,
+				"asset": "clash-braum-v1.fantome",
+				"size": 7225445,
+				"sha256": "03d5c9911c28a88dbf958fa2b78513d030a43a00f7d09759b03f7e799f9a075c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "classic-fancy-pants-garen",
+			"name": "Classic fancy pants garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/classic-fancy-pants-garen/thumb.webp?v=d41d5d67",
+			"file": {
+				"version": 1,
+				"asset": "classic-fancy-pants-garen-v1.fantome",
+				"size": 6792044,
+				"sha256": "6efebb07e1d82ca1d3ea9e2636ad1e26930ee679f396b836737c48311fad0fad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cloud-strife-riven",
+			"name": "Cloud Strife - Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "fitz-gh",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cloud-strife-riven/thumb.webp?v=6d984fe2",
+			"file": {
+				"version": 1,
+				"asset": "cloud-strife-riven-v1.fantome",
+				"size": 25750449,
+				"sha256": "f41f5f4671897ccf2a692c9f2c78743f0708d02650b5ac6f3badc04ce66d90cd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "clove-zeri",
+			"name": "Clove Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/clove-zeri/thumb.webp?v=0c796eae",
+			"file": {
+				"version": 1,
+				"asset": "clove-zeri-v1.fantome",
+				"size": 12886217,
+				"sha256": "921ad493f6a0895dfc0135675eb53a29f24484ef9bf15c7eec8d136075e79db2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "clown-springtrap-shaco",
+			"name": "Clown Springtrap Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/clown-springtrap-shaco/thumb.webp?v=a58cce48",
+			"file": {
+				"version": 1,
+				"asset": "clown-springtrap-shaco-v1.fantome",
+				"size": 15058901,
+				"sha256": "ffdfcfce1db8e9e31d6ab917d75bcee967091b0ca4aa27d57a4fde71f4e057c0"
 			},
 			"chromas": []
 		},
