@@ -1,0 +1,26 @@
+{
+	"id": "zaahen-final-form-sukuna",
+	"name": "Zaahen Final Form Sukuna",
+	"champion": 904,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 RYOMEN SUKUNA — FINAL FORM 」\n### *Replaces Zaahen*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/zaahen-final-form-sukuna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zaahen-final-form-sukuna/thumb.webp?v=0152394c",
+	"file": {
+		"version": 1,
+		"asset": "zaahen-final-form-sukuna-v1.fantome",
+		"size": 27980639,
+		"sha256": "38ede6c423dd4143054229836c25c3d99a8a0c0035c8795c31a73fa1f202df38"
+	},
+	"chromas": []
+}

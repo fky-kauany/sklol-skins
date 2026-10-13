@@ -1,0 +1,26 @@
+{
+	"id": "zaahen-war-hammer-titan",
+	"name": "Zaahen War Hammer Titan",
+	"champion": 904,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 WAR HAMMER TITAN 」\n### *Replaces Zaahen*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/zaahen-war-hammer-titan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zaahen-war-hammer-titan/thumb.webp?v=b89f41a4",
+	"file": {
+		"version": 1,
+		"asset": "zaahen-war-hammer-titan-v1.fantome",
+		"size": 12601376,
+		"sha256": "8cd0c5aeaca8a0b018fda8bf3ee37c1e8a42ffd87fbb96f4e0e714b8ac94ad07"
+	},
+	"chromas": []
+}

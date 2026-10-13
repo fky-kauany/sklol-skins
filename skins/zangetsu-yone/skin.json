@@ -1,0 +1,26 @@
+{
+	"id": "zangetsu-yone",
+	"name": "Zangetsu Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "**COMMISION FOR no.sanity.f**\n\nCOMMISION ME ON DISCORD @ceerel\n\n>WHAT CHANGED??\n\n\n>**MODEL**, **VFX** **AND VO**\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/zangetsu-yone\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zangetsu-yone/thumb.webp?v=bec34d55",
+	"file": {
+		"version": 1,
+		"asset": "zangetsu-yone-v1.fantome",
+		"size": 21439312,
+		"sha256": "464250f64c03af7e192c35fbc95dd72e68571e84ac034abcb8016d3600566619"
+	},
+	"chromas": []
+}

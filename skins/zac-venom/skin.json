@@ -1,0 +1,25 @@
+{
+	"id": "zac-venom",
+	"name": "Venom",
+	"champion": 154,
+	"base": 0,
+	"creator": "frog",
+	"description": "Venom Zac\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Zac skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/venom-zac\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zac-venom/thumb.webp?v=2c5fa5d3",
+	"file": {
+		"version": 1,
+		"asset": "zac-venom-v1.fantome",
+		"size": 3385225,
+		"sha256": "a3b450047a1303f8277af5628ddc9ce7cc649695327f80e4b65cd0b4b339fdb1"
+	},
+	"chromas": []
+}

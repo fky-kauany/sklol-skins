@@ -1,0 +1,26 @@
+{
+	"id": "zacian-hecarim",
+	"name": "Zacian Hecarim",
+	"champion": 120,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Pokemon Unite)\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/zacian-hecarim\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zacian-hecarim/thumb.webp?v=4371c712",
+	"file": {
+		"version": 1,
+		"asset": "zacian-hecarim-v1.fantome",
+		"size": 17033403,
+		"sha256": "9dbc5432080c633191797ba12ed12b6b3a6800e302ce898543e5f800e394d72d"
+	},
+	"chromas": []
+}

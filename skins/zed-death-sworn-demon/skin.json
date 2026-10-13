@@ -1,0 +1,25 @@
+{
+	"id": "zed-death-sworn-demon",
+	"name": "Zed Death Sworn Demon",
+	"champion": 238,
+	"base": 0,
+	"creator": "vincealucard",
+	"description": "A Death Sworn Zed recolor featuring a recall effect and the more gothic style characteristic of my skins.\n\n---\n\n**Created by** [VinceAlucard](https://www.divineskins.gg/VinceAlucard)\n\n**Original:** https://www.divineskins.gg/VinceAlucard/zed-death-sworn-demon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zed-death-sworn-demon/thumb.webp?v=9011c17a",
+	"file": {
+		"version": 1,
+		"asset": "zed-death-sworn-demon-v1.fantome",
+		"size": 6842813,
+		"sha256": "3ec8fcf05a1b73717cc73df10ff3d01a11c4eed315927552641ace1c3e883de5"
+	},
+	"chromas": []
+}

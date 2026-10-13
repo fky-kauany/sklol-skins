@@ -1,0 +1,26 @@
+{
+	"id": "zanni-riven-wuthering-wave",
+	"name": "Zanni Riven (Wuthering Wave)",
+	"champion": 92,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Author is lazy to add hud and loading screen icon so wait idk a day a week or smt\n\nall animation for the mod isnt finished yet, prolly never idk im lazy, if you unpack them youll probably see alot of random unused assets.\n\n---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/zanni-riven-wuthering-wave\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zanni-riven-wuthering-wave/thumb.webp?v=4e450545",
+	"file": {
+		"version": 1,
+		"asset": "zanni-riven-wuthering-wave-v1.fantome",
+		"size": 38481764,
+		"sha256": "b290322a859e127b65c5bd7ac31f30b98f096579286c9ecb0da83a11d9779871"
+	},
+	"chromas": []
+}

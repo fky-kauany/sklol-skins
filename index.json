@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:49:51.483Z",
+	"generatedAt": "2026-10-13T07:53:08.705Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -23148,6 +23148,264 @@
 				"asset": "yveltal-smolder-v1.fantome",
 				"size": 8177361,
 				"sha256": "b2c77e8bd8584f8b8a832cd58bacf6ffdfcdb9d006102fffe192db8dfa22e5b4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zaahen-chromas",
+			"name": "Zaahen Chromas",
+			"champion": 904,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zaahen-chromas/thumb.webp?v=d6d04723",
+			"file": {
+				"version": 1,
+				"asset": "zaahen-chromas-v1.fantome",
+				"size": 11299180,
+				"sha256": "acf4d9a85740c7dd29f586a18d66cd0af5924a6b32c12c02448bf97d45d967bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zaahen-escanor",
+			"name": "Zaahen Escanor",
+			"champion": 904,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zaahen-escanor/thumb.webp?v=b20b42af",
+			"file": {
+				"version": 1,
+				"asset": "zaahen-escanor-v1.fantome",
+				"size": 16092315,
+				"sha256": "9832711f8547fc1d612092a10170fc9261b1c7dc5c67c02c6f2a6565feeffbda"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zaahen-final-form-sukuna",
+			"name": "Zaahen Final Form Sukuna",
+			"champion": 904,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zaahen-final-form-sukuna/thumb.webp?v=0152394c",
+			"file": {
+				"version": 1,
+				"asset": "zaahen-final-form-sukuna-v1.fantome",
+				"size": 27980639,
+				"sha256": "38ede6c423dd4143054229836c25c3d99a8a0c0035c8795c31a73fa1f202df38"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zaahen-shadow",
+			"name": "Zaahen Shadow",
+			"champion": 904,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zaahen-shadow/thumb.webp?v=33bc2ada",
+			"file": {
+				"version": 1,
+				"asset": "zaahen-shadow-v1.fantome",
+				"size": 15125794,
+				"sha256": "c57a3851e1fc22cf397d36db0b6783d8d3ac96385f19bf0e0b6fe151990a148e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zaahen-war-hammer-titan",
+			"name": "Zaahen War Hammer Titan",
+			"champion": 904,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zaahen-war-hammer-titan/thumb.webp?v=b89f41a4",
+			"file": {
+				"version": 1,
+				"asset": "zaahen-war-hammer-titan-v1.fantome",
+				"size": 12601376,
+				"sha256": "8cd0c5aeaca8a0b018fda8bf3ee37c1e8a42ffd87fbb96f4e0e714b8ac94ad07"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zac-venom",
+			"name": "Venom",
+			"champion": 154,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zac-venom/thumb.webp?v=2c5fa5d3",
+			"file": {
+				"version": 1,
+				"asset": "zac-venom-v1.fantome",
+				"size": 3385225,
+				"sha256": "a3b450047a1303f8277af5628ddc9ce7cc649695327f80e4b65cd0b4b339fdb1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zacian-hecarim",
+			"name": "Zacian Hecarim",
+			"champion": 120,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zacian-hecarim/thumb.webp?v=4371c712",
+			"file": {
+				"version": 1,
+				"asset": "zacian-hecarim-v1.fantome",
+				"size": 17033403,
+				"sha256": "9dbc5432080c633191797ba12ed12b6b3a6800e302ce898543e5f800e394d72d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zangetsu-yone",
+			"name": "Zangetsu Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zangetsu-yone/thumb.webp?v=bec34d55",
+			"file": {
+				"version": 1,
+				"asset": "zangetsu-yone-v1.fantome",
+				"size": 21439312,
+				"sha256": "464250f64c03af7e192c35fbc95dd72e68571e84ac034abcb8016d3600566619"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zanni-riven-wuthering-wave",
+			"name": "Zanni Riven (Wuthering Wave)",
+			"champion": 92,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zanni-riven-wuthering-wave/thumb.webp?v=4e450545",
+			"file": {
+				"version": 1,
+				"asset": "zanni-riven-wuthering-wave-v1.fantome",
+				"size": 38481764,
+				"sha256": "b290322a859e127b65c5bd7ac31f30b98f096579286c9ecb0da83a11d9779871"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-death-sworn-demon",
+			"name": "Zed Death Sworn Demon",
+			"champion": 238,
+			"base": 0,
+			"creator": "vincealucard",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zed-death-sworn-demon/thumb.webp?v=9011c17a",
+			"file": {
+				"version": 1,
+				"asset": "zed-death-sworn-demon-v1.fantome",
+				"size": 6842813,
+				"sha256": "3ec8fcf05a1b73717cc73df10ff3d01a11c4eed315927552641ace1c3e883de5"
 			},
 			"chromas": []
 		},

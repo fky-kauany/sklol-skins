@@ -1,0 +1,26 @@
+{
+	"id": "zaahen-chromas",
+	"name": "Zaahen Chromas",
+	"champion": 904,
+	"base": 0,
+	"creator": "frog",
+	"description": "Ultra Edgy\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/zaahen-chromas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zaahen-chromas/thumb.webp?v=d6d04723",
+	"file": {
+		"version": 1,
+		"asset": "zaahen-chromas-v1.fantome",
+		"size": 11299180,
+		"sha256": "acf4d9a85740c7dd29f586a18d66cd0af5924a6b32c12c02448bf97d45d967bf"
+	},
+	"chromas": []
+}
