@@ -1,0 +1,24 @@
+{
+	"id": "viego-armoured-revenant-reign",
+	"name": "Armoured Revenant Reign",
+	"champion": 234,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "No more bare-chested Viego! If you actually shelled out for the Revenant Reign exalted skin, and you feel that the sword changing is not enough, then this is for you - each form has its own, themed armour now. \nIt also included a version with changed ability icons, to be themed after the skin.\n\nDo keep it in mind this will not let you play with Revenant Reign if you don't have it.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/armoured-revenant-reign\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viego-armoured-revenant-reign/thumb.webp?v=db09dc90",
+	"file": {
+		"version": 1,
+		"asset": "viego-armoured-revenant-reign-v1.fantome",
+		"size": 27326973,
+		"sha256": "66045efe672531a2155b17bab62aeec2632fdc0cb1a1b8a31698c5a43ec089ab"
+	},
+	"chromas": []
+}

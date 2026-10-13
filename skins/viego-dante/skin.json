@@ -1,0 +1,26 @@
+{
+	"id": "viego-dante",
+	"name": "Viego: Dante",
+	"champion": 234,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "Even the jungler may cry\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/viego-dantes\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viego-dante/thumb.webp?v=484d2e97",
+	"file": {
+		"version": 1,
+		"asset": "viego-dante-v1.fantome",
+		"size": 11986089,
+		"sha256": "e5ff96c8403c6a9c438299e71143c38d234fb6489e0798396c8aab1430f2d425"
+	},
+	"chromas": []
+}

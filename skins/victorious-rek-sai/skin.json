@@ -1,0 +1,24 @@
+{
+	"id": "victorious-rek-sai",
+	"name": "Victorious Rek'Sai",
+	"champion": 421,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "### ? Mod Info\n**Type:** Skini\n**Modified Skin(s):** All\n\n### ? Credits\n**Model(s):** ikiryou and Disco\n**Special Thanks:** https://www.reddit.com/r/reksaimains/comments/a7lp3v/victorious_reksai_concept/\n\n\n\n### ? Support Me\n\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/victorious-reksai\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/victorious-rek-sai/thumb.webp?v=58ea5f77",
+	"file": {
+		"version": 1,
+		"asset": "victorious-rek-sai-v1.fantome",
+		"size": 9262962,
+		"sha256": "a1236104d85e33f6de874a6fcc6cdff594f374822c7a782b4c39ce709b046b06"
+	},
+	"chromas": []
+}

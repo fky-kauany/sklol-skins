@@ -1,0 +1,26 @@
+{
+	"id": "viego-anos-voldigoad",
+	"name": "Viego Anos Voldigoad",
+	"champion": 234,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ANOS VOLDIGOAD 」\n### *Replaces Viego*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/viego-anos-voldigoad\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viego-anos-voldigoad/thumb.webp?v=669b524c",
+	"file": {
+		"version": 1,
+		"asset": "viego-anos-voldigoad-v1.fantome",
+		"size": 14740720,
+		"sha256": "7e5e4d517a632bb4c2c8bf993c8f99072b17d9577d634c86498cb1aa730ab64b"
+	},
+	"chromas": []
+}
