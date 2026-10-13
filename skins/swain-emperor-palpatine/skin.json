@@ -1,0 +1,26 @@
+{
+	"id": "swain-emperor-palpatine",
+	"name": "Emperor Palpatine",
+	"champion": 50,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n\r\n- Support for all quality settings\r\n- Custom Voice-over for all languages\r\n- New VFX\r\n- Custom loading screen and in-game icons\r\n- Your Eternal, Galactic Empire\r\n- The inting is going according to plan\r\n- Unlimited Power!\r\n\r\n\r\nNow, you will experience the full power of the Dark Side... delivered on the Summoner's Rift by non other than Emperor Palpatine himself! \r\nNew model, some modified animations, including a recall befitting of a Sith Lord, new, themed VFX, including force lightning, imperial probe droids, and an avatar of Darth Bane on ulti. It also included new sounds, and Palpatine's voice. Enjoy!\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/emperor-palpatine\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/swain-emperor-palpatine/thumb.webp?v=e4634476",
+	"file": {
+		"version": 1,
+		"asset": "swain-emperor-palpatine-v1.fantome",
+		"size": 35719210,
+		"sha256": "b3d9f8dbc47ee313f6504341f6f6ac4c6d92c3297434cfeff38f8c47b160766b"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:30:22.280Z",
+	"generatedAt": "2026-10-13T06:33:46.291Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -17007,6 +17007,264 @@
 				"asset": "sungjinwoo-zed-v1.fantome",
 				"size": 16624052,
 				"sha256": "2f8309bdb40401c223a9d523d04494ec84bbff1cebc79e7533b2971ac60a82e0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "suoming-yasuo-wuthering-waves",
+			"name": "Suoming Yasuo (Wuthering Waves)",
+			"champion": 157,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/suoming-yasuo-wuthering-waves/thumb.webp?v=fdf59abe",
+			"file": {
+				"version": 1,
+				"asset": "suoming-yasuo-wuthering-waves-v1.fantome",
+				"size": 27008820,
+				"sha256": "2369ab5073fa8ab6f8aa3f25bc255dec20c09c198ed33d7b547c8076aae15201"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sushang-aatrox",
+			"name": "Sushang Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sushang-aatrox/thumb.webp?v=d9362c9d",
+			"file": {
+				"version": 1,
+				"asset": "sushang-aatrox-v1.fantome",
+				"size": 41300906,
+				"sha256": "5d902484026d24beeff3231090537bba3a56c46db6f459a4cacf0863228aef6c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "suzumi-lulu-blue-archive",
+			"name": "Suzumi Lulu (Blue Archive)",
+			"champion": 117,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/suzumi-lulu-blue-archive/thumb.webp?v=22e882a7",
+			"file": {
+				"version": 1,
+				"asset": "suzumi-lulu-blue-archive-v1.fantome",
+				"size": 9372807,
+				"sha256": "73b299434c643dccafede091da41b908036ef96e56e95451e351bdd340ce9748"
+			},
+			"chromas": []
+		},
+		{
+			"id": "swain-aizen",
+			"name": "Aizen",
+			"champion": 50,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/swain-aizen/thumb.webp?v=1555cb94",
+			"file": {
+				"version": 1,
+				"asset": "swain-aizen-v1.fantome",
+				"size": 15239253,
+				"sha256": "760f04e52f375de71c2f2fc933c2428f1b50173c8a726193be07b5fce5ee6976"
+			},
+			"chromas": []
+		},
+		{
+			"id": "swain-emperor-palpatine",
+			"name": "Emperor Palpatine",
+			"champion": 50,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/swain-emperor-palpatine/thumb.webp?v=e4634476",
+			"file": {
+				"version": 1,
+				"asset": "swain-emperor-palpatine-v1.fantome",
+				"size": 35719210,
+				"sha256": "b3d9f8dbc47ee313f6504341f6f6ac4c6d92c3297434cfeff38f8c47b160766b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "swain-itachi",
+			"name": "Itachi",
+			"champion": 50,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/swain-itachi/thumb.webp?v=683827f4",
+			"file": {
+				"version": 1,
+				"asset": "swain-itachi-v1.fantome",
+				"size": 29677173,
+				"sha256": "ac228187eb14f19258e27a3f49f9550fcc139c1fd0e961ebd70876fbd8ee27dd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "swain-karasu",
+			"name": "KARASU",
+			"champion": 50,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/swain-karasu/thumb.webp?v=4a26f57b",
+			"file": {
+				"version": 1,
+				"asset": "swain-karasu-v1.fantome",
+				"size": 71273973,
+				"sha256": "ccc27a485e8d8603a45c9c0ade8ed1c0008306ef4c94662baa82aae31ef62a92"
+			},
+			"chromas": []
+		},
+		{
+			"id": "swain-ryuk",
+			"name": "Ryuk",
+			"champion": 50,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/swain-ryuk/thumb.webp?v=0da4c414",
+			"file": {
+				"version": 1,
+				"asset": "swain-ryuk-v1.fantome",
+				"size": 19829093,
+				"sha256": "024694792aed1e79558098f055547526c14fec500f606267f3841c3ffc4824ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-aizawa-christmas-edition",
+			"name": "Sylas Aizawa (Christmas Edition)",
+			"champion": 517,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylas-aizawa-christmas-edition/thumb.webp?v=d242fa2f",
+			"file": {
+				"version": 1,
+				"asset": "sylas-aizawa-christmas-edition-v1.fantome",
+				"size": 10060752,
+				"sha256": "6d41ba1dadb917628ca1efa765053d473b3e36b3fe19a57553525913e2607b98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-as-scorpion",
+			"name": "Sylas as scorpion",
+			"champion": 517,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylas-as-scorpion/thumb.webp?v=840e337b",
+			"file": {
+				"version": 1,
+				"asset": "sylas-as-scorpion-v1.fantome",
+				"size": 1458850,
+				"sha256": "252042c3c5d9080296ff5e837edfc99dd07b7785080da52a8634c995c0068a93"
 			},
 			"chromas": []
 		},

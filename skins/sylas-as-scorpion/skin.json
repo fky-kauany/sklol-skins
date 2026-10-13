@@ -1,0 +1,25 @@
+{
+	"id": "sylas-as-scorpion",
+	"name": "Sylas as scorpion",
+	"champion": 517,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/sylas-as-scorpion\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sylas-as-scorpion/thumb.webp?v=840e337b",
+	"file": {
+		"version": 1,
+		"asset": "sylas-as-scorpion-v1.fantome",
+		"size": 1458850,
+		"sha256": "252042c3c5d9080296ff5e837edfc99dd07b7785080da52a8634c995c0068a93"
+	},
+	"chromas": []
+}

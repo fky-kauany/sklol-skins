@@ -1,0 +1,25 @@
+{
+	"id": "swain-ryuk",
+	"name": "Ryuk",
+	"champion": 50,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/ryuk-swain\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/swain-ryuk/thumb.webp?v=0da4c414",
+	"file": {
+		"version": 1,
+		"asset": "swain-ryuk-v1.fantome",
+		"size": 19829093,
+		"sha256": "024694792aed1e79558098f055547526c14fec500f606267f3841c3ffc4824ee"
+	},
+	"chromas": []
+}

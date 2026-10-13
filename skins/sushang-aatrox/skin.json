@@ -1,0 +1,26 @@
+{
+	"id": "sushang-aatrox",
+	"name": "Sushang Aatrox",
+	"champion": 266,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Sushang Aatrox\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.2.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/sushang-aatrox\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sushang-aatrox/thumb.webp?v=d9362c9d",
+	"file": {
+		"version": 1,
+		"asset": "sushang-aatrox-v1.fantome",
+		"size": 41300906,
+		"sha256": "5d902484026d24beeff3231090537bba3a56c46db6f459a4cacf0863228aef6c"
+	},
+	"chromas": []
+}

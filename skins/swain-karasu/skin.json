@@ -1,0 +1,26 @@
+{
+	"id": "swain-karasu",
+	"name": "KARASU",
+	"champion": 50,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/karasu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/swain-karasu/thumb.webp?v=4a26f57b",
+	"file": {
+		"version": 1,
+		"asset": "swain-karasu-v1.fantome",
+		"size": 71273973,
+		"sha256": "ccc27a485e8d8603a45c9c0ade8ed1c0008306ef4c94662baa82aae31ef62a92"
+	},
+	"chromas": []
+}

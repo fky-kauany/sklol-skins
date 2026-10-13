@@ -1,0 +1,26 @@
+{
+	"id": "swain-aizen",
+	"name": "Aizen",
+	"champion": 50,
+	"base": 0,
+	"creator": "frog",
+	"description": "Aizen Swain • Custom model • Custom Abilities • Works on every Swain skin • Voiceover\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/aizen-swain\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/swain-aizen/thumb.webp?v=1555cb94",
+	"file": {
+		"version": 1,
+		"asset": "swain-aizen-v1.fantome",
+		"size": 15239253,
+		"sha256": "760f04e52f375de71c2f2fc933c2428f1b50173c8a726193be07b5fce5ee6976"
+	},
+	"chromas": []
+}

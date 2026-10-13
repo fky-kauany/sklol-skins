@@ -1,0 +1,26 @@
+{
+	"id": "sylas-aizawa-christmas-edition",
+	"name": "Sylas Aizawa (Christmas Edition)",
+	"champion": 517,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 AIZAWA CHRISTMAS EDITION 」\r\n### *Replaces Sylas*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/sylas-aizawa-christmas-edition\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sylas-aizawa-christmas-edition/thumb.webp?v=d242fa2f",
+	"file": {
+		"version": 1,
+		"asset": "sylas-aizawa-christmas-edition-v1.fantome",
+		"size": 10060752,
+		"sha256": "6d41ba1dadb917628ca1efa765053d473b3e36b3fe19a57553525913e2607b98"
+	},
+	"chromas": []
+}

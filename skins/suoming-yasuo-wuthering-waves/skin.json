@@ -1,0 +1,26 @@
+{
+	"id": "suoming-yasuo-wuthering-waves",
+	"name": "Suoming Yasuo (Wuthering Waves)",
+	"champion": 157,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "still wip, she's not out ingame yet so no voice or animation asset to work on. all are reused from chitose skin that i made before which you can also check\n\ni assume that nobody wants to listen to a guy's voice while playing an anime girl character so idk bear with it til its updated\n\n---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/suoming-yasuo-wuthering-waves\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/suoming-yasuo-wuthering-waves/thumb.webp?v=fdf59abe",
+	"file": {
+		"version": 1,
+		"asset": "suoming-yasuo-wuthering-waves-v1.fantome",
+		"size": 27008820,
+		"sha256": "2369ab5073fa8ab6f8aa3f25bc255dec20c09c198ed33d7b547c8076aae15201"
+	},
+	"chromas": []
+}
