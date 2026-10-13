@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-steevessa",
+	"name": "Steevessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/steevessa-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-steevessa/thumb.webp?v=654c3b4d",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-steevessa-v1.fantome",
+		"size": 9347774,
+		"sha256": "18b605a9aa856eb3341aa6b8bd35e61dd8f15da889e9fc63fb2ba89cb86ec4f9"
+	},
+	"chromas": []
+}

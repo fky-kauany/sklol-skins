@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-tengen",
+	"name": "Tengen",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": "Tengen Ambessa\r\n• Custom model\r\n• Custom Abilities\r\n• Custom Voiceover of Tengen\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/tengen-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-tengen/thumb.webp?v=85c47dbc",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-tengen-v1.fantome",
+		"size": 12012112,
+		"sha256": "5201beca5002225efb0f7dff0d53c0ed3ca894226e9e8b4d40ae962dd6deefea"
+	},
+	"chromas": []
+}

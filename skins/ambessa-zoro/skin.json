@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-zoro",
+	"name": "Zoro",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/zoro-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-zoro/thumb.webp?v=7b783bf0",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-zoro-v1.fantome",
+		"size": 12478891,
+		"sha256": "b35a20652fddcc1aae881917599dadd64696a7fadee71fd471ff0e3a3a43c54f"
+	},
+	"chromas": []
+}

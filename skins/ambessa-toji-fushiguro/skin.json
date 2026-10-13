@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-toji-fushiguro",
+	"name": "Toji Fushiguro",
+	"champion": 799,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Toji Fushiguro Ambessa\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Ambessa skin\r\n• Custom Voiceover of Toji Fushiguro (only for en_US league version)\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/toji-fushiguro-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-toji-fushiguro/thumb.webp?v=a7561317",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-toji-fushiguro-v1.fantome",
+		"size": 10055862,
+		"sha256": "20569389306475d6b8a0dacc6251d2400e57ca46126d319a4a160bc1a6cc1b1f"
+	},
+	"chromas": []
+}

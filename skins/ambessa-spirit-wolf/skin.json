@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-spirit-wolf",
+	"name": "Spirit Wolf",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/spirit-wolf-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-spirit-wolf/thumb.webp?v=c8da12ac",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-spirit-wolf-v1.fantome",
+		"size": 21424081,
+		"sha256": "f74ee5a7a66e68db48857aee44ffb29bb862849824d35195a4a118ba6906d796"
+	},
+	"chromas": []
+}

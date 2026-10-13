@@ -1,0 +1,25 @@
+{
+	"id": "amethyst-dragon-smolder",
+	"name": "Amethyst Dragon Smolder",
+	"champion": 901,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Amethyst Dragon Smolder\n\n### Features\n\n- **Custom 3D model** with amethyst crystal scales and violet glow\n- **Custom abilities** with purple fire and crystalline effects\n- **Custom dragon sounds** for roars, flames, and abilities\n- **Works across every Smolder skin** for maximum flexibility\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/amethyst-dragon-smolder\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/amethyst-dragon-smolder/thumb.webp?v=16255155",
+	"file": {
+		"version": 1,
+		"asset": "amethyst-dragon-smolder-v1.fantome",
+		"size": 6924644,
+		"sha256": "780353d1730d908391dd389809f9eb7c8f6b36f14fd1b3389501ad8188ae56f6"
+	},
+	"chromas": []
+}

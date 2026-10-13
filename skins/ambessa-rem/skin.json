@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-rem",
+	"name": "Rem",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": "Rem Ambessa\r\n• Custom model\r\n• Custom Abilities\r\n• Custom Voiceover of Rem\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/rem-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-rem/thumb.webp?v=2ebea0ea",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-rem-v1.fantome",
+		"size": 9684287,
+		"sha256": "4ad61dd0e8b1212142d09bffd7d9e1e02eff07d2502c612f584b04982d78c4c7"
+	},
+	"chromas": []
+}

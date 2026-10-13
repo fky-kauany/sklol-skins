@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:24:10.722Z",
+	"generatedAt": "2026-10-13T00:27:23.589Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -9,6 +9,11 @@
 			"links": {
 				"discord": "https://discord.gg/yaByNwaxsP"
 			}
+		},
+		"aphex": {
+			"name": "Aphex",
+			"avatar": "creators/aphex.webp?v=f8ff7ffa",
+			"links": {}
 		},
 		"archlyris": {
 			"name": "archlyris",
@@ -137,6 +142,12 @@
 				"discord": "https://discord.gg/vXHXVgv7qy",
 				"x": "https://x.com/Nyxns0"
 			}
+		},
+		"rorotea1": {
+			"name": "rorotea1",
+			"avatar": "creators/rorotea1.png?v=56a27670",
+			"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
+			"links": {}
 		},
 		"stritzzz": {
 			"name": "Stritzzz",
@@ -1612,6 +1623,261 @@
 				"asset": "ambessa-minecraft-v1.fantome",
 				"size": 9896364,
 				"sha256": "0ec2b0222cbd3e1b2ae74ecb129e11f98044a3c96b19a3348ebd27f8ef59242e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-rem",
+			"name": "Rem",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-rem/thumb.webp?v=2ebea0ea",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-rem-v1.fantome",
+				"size": 9684287,
+				"sha256": "4ad61dd0e8b1212142d09bffd7d9e1e02eff07d2502c612f584b04982d78c4c7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-spirit-wolf",
+			"name": "Spirit Wolf",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-spirit-wolf/thumb.webp?v=c8da12ac",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-spirit-wolf-v1.fantome",
+				"size": 21424081,
+				"sha256": "f74ee5a7a66e68db48857aee44ffb29bb862849824d35195a4a118ba6906d796"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-steevessa",
+			"name": "Steevessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-steevessa/thumb.webp?v=654c3b4d",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-steevessa-v1.fantome",
+				"size": 9347774,
+				"sha256": "18b605a9aa856eb3341aa6b8bd35e61dd8f15da889e9fc63fb2ba89cb86ec4f9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-tengen",
+			"name": "Tengen",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-tengen/thumb.webp?v=85c47dbc",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-tengen-v1.fantome",
+				"size": 12012112,
+				"sha256": "5201beca5002225efb0f7dff0d53c0ed3ca894226e9e8b4d40ae962dd6deefea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-toji-fushiguro",
+			"name": "Toji Fushiguro",
+			"champion": 799,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-toji-fushiguro/thumb.webp?v=a7561317",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-toji-fushiguro-v1.fantome",
+				"size": 10055862,
+				"sha256": "20569389306475d6b8a0dacc6251d2400e57ca46126d319a4a160bc1a6cc1b1f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-zoro",
+			"name": "Zoro",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-zoro/thumb.webp?v=7b783bf0",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-zoro-v1.fantome",
+				"size": 12478891,
+				"sha256": "b35a20652fddcc1aae881917599dadd64696a7fadee71fd471ff0e3a3a43c54f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "amethyst-dragon-smolder",
+			"name": "Amethyst Dragon Smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/amethyst-dragon-smolder/thumb.webp?v=16255155",
+			"file": {
+				"version": 1,
+				"asset": "amethyst-dragon-smolder-v1.fantome",
+				"size": 6924644,
+				"sha256": "780353d1730d908391dd389809f9eb7c8f6b36f14fd1b3389501ad8188ae56f6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "amiya-aurora",
+			"name": "Amiya Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/amiya-aurora/thumb.webp?v=21eda60b",
+			"file": {
+				"version": 1,
+				"asset": "amiya-aurora-v1.fantome",
+				"size": 4105459,
+				"sha256": "3e3ce2dddca075250003416fb917c02416af4ca22759984ce598df5f70db7b10"
+			},
+			"chromas": []
+		},
+		{
+			"id": "amongus-pyke",
+			"name": "Amongus Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/amongus-pyke/thumb.webp?v=60a95ae3",
+			"file": {
+				"version": 1,
+				"asset": "amongus-pyke-v1.fantome",
+				"size": 6118779,
+				"sha256": "14c0a93f0e525f0e2691502985390227e6113b866f39980cc32ccc69bfe94762"
+			},
+			"chromas": []
+		},
+		{
+			"id": "anakin-yasuo",
+			"name": "Anakin yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "aphex",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/anakin-yasuo/thumb.webp?v=ecc6a1fd",
+			"file": {
+				"version": 1,
+				"asset": "anakin-yasuo-v1.fantome",
+				"size": 57739089,
+				"sha256": "a0d4f9f1536e52c895b82cc2fcbf4362f3116a6ee4b7554d03f8edd45cc8d25c"
 			},
 			"chromas": []
 		},

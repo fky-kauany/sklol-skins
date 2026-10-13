@@ -1,0 +1,26 @@
+{
+	"id": "anakin-yasuo",
+	"name": "Anakin yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "aphex",
+	"description": "**THIS MOD WAS A COMMISION FOR @no.sanity.f.**\r\n\r\nCommision me on discord@4phex.\r\n\r\n\r\n\r\n\r\nThis mod includes\r\nCustom vfx, Model, Sound, Voiceover\n\n---\n\n**Created by** [Aphex](https://www.divineskins.gg/Aphex), [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/Aphex/anakin-yasuo\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/anakin-yasuo/thumb.webp?v=ecc6a1fd",
+	"file": {
+		"version": 1,
+		"asset": "anakin-yasuo-v1.fantome",
+		"size": 57739089,
+		"sha256": "a0d4f9f1536e52c895b82cc2fcbf4362f3116a6ee4b7554d03f8edd45cc8d25c"
+	},
+	"chromas": []
+}
