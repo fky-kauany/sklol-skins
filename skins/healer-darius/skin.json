@@ -1,0 +1,26 @@
+{
+	"id": "healer-darius",
+	"name": "Healer darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"...............\"\n\n***\n\n**Modified champion: Darius**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\nthe 3d model is from: Incision\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/healer-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/healer-darius/thumb.webp?v=b7665080",
+	"file": {
+		"version": 1,
+		"asset": "healer-darius-v1.fantome",
+		"size": 7412652,
+		"sha256": "4b9b1cc1a96adc2eb8224401dd71762b757c97902124145aecc35c4ee0b46b46"
+	},
+	"chromas": []
+}

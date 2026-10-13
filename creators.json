@@ -54,6 +54,17 @@
 			"youtube": "https://www.youtube.com/@ascila"
 		}
 	},
+	"arkera": {
+		"name": "Arkera",
+		"avatar": "creators/arkera.png?v=2b7e58e7",
+		"bio": "I am a passionate League of Legends player and a hardcore Quinn OTP with millions of mastery points on the champion !\n\nI focus on creating high-quality custom skins, with a strong emphasis on refined VFX, textures, and custom UI. Every project I work on is polished with extreme attention to detail to make sure it feels amazing in-game :)\n\nAll my mods are free for the community to enjoy ! If you like my work and want to show support or just say thanks, feel free to follow me across my social plat",
+		"links": {
+			"discord": "https://discord.gg/Eyu9u2T3TC",
+			"tiktok": "https://www.tiktok.com/@arkera.tiktok",
+			"twitch": "https://www.twitch.tv/arkeraa",
+			"youtube": "https://www.youtube.com/@Arkera_youtube"
+		}
+	},
 	"aurecueil": {
 		"name": "aurecueil",
 		"avatar": "creators/aurecueil.webp?v=b8768957",
@@ -267,6 +278,11 @@
 			"youtube": "https://www.youtube.com/@Jaku%C6%B7"
 		}
 	},
+	"justv": {
+		"name": "JustV",
+		"avatar": "creators/justv.webp?v=af534d36",
+		"links": {}
+	},
 	"kaizen": {
 		"name": "Kaizen",
 		"avatar": "creators/kaizen.webp?v=4ee08b64",
@@ -381,6 +397,15 @@
 		"links": {
 			"discord": "https://discord.gg/vXHXVgv7qy",
 			"x": "https://x.com/Nyxns0"
+		}
+	},
+	"odr": {
+		"name": "ODR",
+		"avatar": "creators/odr.webp?v=1f669470",
+		"bio": "I'm Oddi\n\nI'm an illustrator.\nI love create Azir skins who is one of my favorite characters. Any support, feedback, or help to give my work visibility would be incredible. ?",
+		"links": {
+			"tiktok": "https://www.tiktok.com/@odr_ink",
+			"youtube": "https://www.youtube.com/@%C3%98%C3%90R_ink"
 		}
 	},
 	"oyashxro": {

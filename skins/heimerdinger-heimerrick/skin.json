@@ -1,0 +1,26 @@
+{
+	"id": "heimerdinger-heimerrick",
+	"name": "Heimerrick",
+	"champion": 74,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Heimerdinger\n\nSkin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Heimerdinger and Yorick fused together. Gone wrong.\n\nFeatures:\n\n-New model and textures.\n\n-New animations.\n\n-New sounds.\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-Happy April fools 2026!\n\nAlso try Yorickaiser and Aatroxkaiser!\n\nCredits and references:\n\n-The music for the dance emote is Technologic, by Daft Punk\n\n-The joke emote references Rick and Morty\n\n-The \"why cant I have a hat\" sound effect comes from a NickyBoy clip\n\n-The laugh emote references the streamer Caresapo\n\n-The death animation is a reference to Dungeon Soup.\n\n-The Lemon 3D model used: https://sketchfab.com/3d-models/lemon-set-1cf00250ba58488392d71a0972b2a73d\n\n-All animations made by me\n\n-Repathed using Cslolgo.\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/heimerrick\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/heimerdinger-heimerrick/thumb.webp?v=10a69922",
+	"file": {
+		"version": 1,
+		"asset": "heimerdinger-heimerrick-v1.fantome",
+		"size": 9254820,
+		"sha256": "432512273af744683d40b792597a987c96c4e19d6f34c699e6bfb0b1f553d91e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "hecarim-abyss-cosmic",
+	"name": "Abyss Cosmic",
+	"champion": 120,
+	"base": 0,
+	"creator": "justv",
+	"description": "# Abyss Cosmic Hecarim\n\nA purple variant of **Cosmic Charger Hecarim** with some red details.\n\n## Features\n\n**Dark Purple & Crimson** tones replace the original cosmic palette.\n\n**Abyssal Details** with dark armor, crimson energy, and mysterious cosmic accents.\n\n**Corrupted Cosmic** style, keeping the original celestial theme while giving it a darker and more sinister appearance.\n\n---\n\n**Created by** [JustV](https://www.divineskins.gg/JustV)\n\n**Original:** https://www.divineskins.gg/JustV/abyss-cosmic\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hecarim-abyss-cosmic/thumb.webp?v=f999dfea",
+	"file": {
+		"version": 1,
+		"asset": "hecarim-abyss-cosmic-v1.fantome",
+		"size": 13897345,
+		"sha256": "a5c7880d5477e2df7ce9ba62796aa150619f81eea8cec78e48a2a83465bc8600"
+	},
+	"chromas": []
+}

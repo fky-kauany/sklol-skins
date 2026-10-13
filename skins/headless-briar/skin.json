@@ -1,0 +1,25 @@
+{
+	"id": "headless-briar",
+	"name": "Headless Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "arkera",
+	"description": "**Headless Briar! **\n\nThis custom skin replaces Briar's base model with a sleek, headless version !\n\nI also removed the belts around her waist for a more stylish look and added dark purple magical tether effects, along with custom loading art.\n\nI poured all my passion for skin creation into this masterpiece; I hope you enjoy it!\n\n---\n\n**Created by** [Arkera](https://www.divineskins.gg/Arkera)\n\n**Original:** https://www.divineskins.gg/Arkera/headless-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/headless-briar/thumb.webp?v=995ce4ab",
+	"file": {
+		"version": 1,
+		"asset": "headless-briar-v1.fantome",
+		"size": 6971658,
+		"sha256": "f5565d11c27b3bb5f4b717bf1c443ca125bfebf318f03dc02a32e583661415ae"
+	},
+	"chromas": []
+}

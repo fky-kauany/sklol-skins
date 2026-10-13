@@ -1,0 +1,26 @@
+{
+	"id": "heartlasher-nilah",
+	"name": "Heartlasher Nilah",
+	"champion": 895,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nLove, unceasing and forever.\r\nThis mod is a Heartlasher skin for Nilah.\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces the Base Nilah skin.\r\n\r\n#\r\n\r\n### ✨ Features\r\n\r\n* New model\r\n* New textures\r\n* New visual effects\r\n\r\n#\r\n\r\nThis mod was made as a commission. If you'd like to commission me, you can check my portfolio at the [Runeforge Discord](https://discord.gg/runeforge \"runeforge epic discord\") or the [Divine Skins Discord](https://discord.gg/divineskins \"divini discordini\"). You can also support me through [my Ko-fi page](https://ko-fi.com/wiko2303 \"my kofi page lol\")!\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/heartlasher-nilah\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/heartlasher-nilah/thumb.webp?v=d5288e8e",
+	"file": {
+		"version": 1,
+		"asset": "heartlasher-nilah-v1.fantome",
+		"size": 24367511,
+		"sha256": "bf63474853bba988bdc47a22b76dd41cbde19e836046e22b2bafe3d1242d674a"
+	},
+	"chromas": []
+}

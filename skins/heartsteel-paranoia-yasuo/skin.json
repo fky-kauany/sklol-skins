@@ -1,0 +1,26 @@
+{
+	"id": "heartsteel-paranoia-yasuo",
+	"name": "HEARTSTEEL (paranoia) Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "I wanted to get something out to celebrate da boys coming back with another theme so because I had this draft for a HEARTSTEEL skin for Yasuo for like 3 years I wanted to take the chance and finish this one. I think the idea was fun to make, and fairly simple to do also since a lot of the HEARTSTEEL characters fit Yasuo's needs VFX-wise perfectly (like a spin attack from Kayn for EQ, Yone's literally \"here's Yasuo Q1/Q3/knockup/etc served in a silver platter\" xd, etc)\n\nBecause of that I think if the skins from the next batch do go for a somewhat different vibe I'd really like to make another one of these (that's why this one is called \"HEARTSTEEL (paranoia)\" lol, I don't wanna have people searching for one and getting mixed with the other xd). So if you wanna see my take on \"HEARTSTEEL (live my life) Yasuo\" consider following or sticking arround on ma youtube!! (and if you wanna you can cough cough commission me to do one of these for a champion you want cough cough xd)\n\nThat's all from me, credits be short but here they are:\n\n## - CREDITS -\n\n## ShrimpBack (that's me!!)\nVFX: Combined effects from all the HEARTSTEEL CAST and edited some effects from Yasuo's catalogue to recreate the HEARTSTEEL skin feel\nSFX: Yea that thing I said up there on VFX but with sounds too xd\n\n## FingaMiro\n\nDid and rigged Yasuo's model to fit the HEARTSTEEL vibe!! Pretty happy with how this one turned out in the end\n\n\nENJOYYYYYY and see you on the next skin\n\n---\n\n**Created by** [ShrimpBack](https://www.divineskins.gg/ShrimpBack)\n\n**Original:** https://www.divineskins.gg/ShrimpBack/heartsteel-paranoia-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/heartsteel-paranoia-yasuo/thumb.webp?v=ab9db3ed",
+	"file": {
+		"version": 1,
+		"asset": "heartsteel-paranoia-yasuo-v1.fantome",
+		"size": 11377649,
+		"sha256": "6c211163f66ff1b765e8d0119355f073278fc90114577f78d6e4ffb394d0db9f"
+	},
+	"chromas": []
+}

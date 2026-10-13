@@ -1,0 +1,26 @@
+{
+	"id": "heimerdinger-plankton",
+	"name": "Heimerdinger Plankton",
+	"champion": 74,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/heimerdinger-plankton\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/heimerdinger-plankton/thumb.webp?v=3444cea9",
+	"file": {
+		"version": 1,
+		"asset": "heimerdinger-plankton-v1.fantome",
+		"size": 11791696,
+		"sha256": "056b51b81dbcda818b99694ccc72bfaef0cef3eb9410851b17cf700dde007c72"
+	},
+	"chromas": []
+}

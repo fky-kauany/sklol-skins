@@ -1,0 +1,25 @@
+{
+	"id": "hecarim-blood-vessel-elderwood",
+	"name": "Blood Vessel Elderwood",
+	"champion": 120,
+	"base": 0,
+	"creator": "justv",
+	"description": "# Blood Vessel Elderwood Hecarim\n\nA dark variant of **Elderwood Hecarim skin** with a gothic and emo-inspired aesthetic.\n\n## Features\n\n**Dark Red & Black** tones replace the original green palette.\n\n**Gothic Details** with chains, dark ornaments, and subtle red accents.\n\n**Corrupted Elderwood** style, keeping the original forest theme while giving it a darker appearance.\n\n---\n\n**Created by** [JustV](https://www.divineskins.gg/JustV)\n\n**Original:** https://www.divineskins.gg/JustV/blood-vessel-elderwood\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hecarim-blood-vessel-elderwood/thumb.webp?v=63630ab6",
+	"file": {
+		"version": 1,
+		"asset": "hecarim-blood-vessel-elderwood-v1.fantome",
+		"size": 12036141,
+		"sha256": "b7b5a7f7d9ffc8cdea32e536ec0e8dead7dd8819e1e40d76690ba1cd1eba80c8"
+	},
+	"chromas": []
+}

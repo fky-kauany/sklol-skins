@@ -1,0 +1,26 @@
+{
+	"id": "heavenscale-azir",
+	"name": "Heavenscale Azir",
+	"champion": 268,
+	"base": 0,
+	"creator": "odr",
+	"description": "\"Heavenscale Azir\"\r\n\r\nI always wondered what my favorite champion would look like in my favorite game theme, well... I love it\r\n\r\nIf you like the mod, you can support me in creating more by following me, liking this post, or leaving a comment. ?\r\n\r\nWhat other skin would you like me to make? :>\n\n---\n\n**Created by** [ODR](https://www.divineskins.gg/ODR)\n\n**Original:** https://www.divineskins.gg/ODR/heavenscale-azir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/heavenscale-azir/thumb.webp?v=31139702",
+	"file": {
+		"version": 1,
+		"asset": "heavenscale-azir-v1.fantome",
+		"size": 19001780,
+		"sha256": "2898487a39107ab28ffa742664f6279a005176e25ffebd184749c7c7dfe869e3"
+	},
+	"chromas": []
+}
