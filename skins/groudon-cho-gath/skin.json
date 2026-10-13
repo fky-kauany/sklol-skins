@@ -1,0 +1,26 @@
+{
+	"id": "groudon-cho-gath",
+	"name": "Groudon Cho'Gath",
+	"champion": 31,
+	"base": 0,
+	"creator": "nyht",
+	"description": "# 🌋 Cho'Gath → Groudon Primal Evolution Mod\n\n### Champion\n**Cho'Gath**\n\n### Skin Replace\n**Base Skin**\n\n---\n\n# ✨ Unique Feature\n\n🔥 **Primal Evolution System**\n\nGroudon evolves into its **Primal Form** based on Feast stacks.\n\n| Form | Requirement |\n|------|------------|\n| **Primal Groudon** | 7 Feast Stacks |\n\n⭐ **Special Mechanic**\n\nAt the start of each game, there is a **1% chance to spawn as a shiny variant.**\n\n---\n\n# 💥 Custom VFX\n\n- Ability **Q**  \n- Ability **E**  \n- Recall  \n- **Feast Stack Effects (7 Stacks)**  \n- 🌋 **Desolate Land Map Event**\n\n---\n\n# 🎬 Custom Animations\n\n- Idle  \n- Attack  \n- Ability Animations  \n- Recall  \n- Emotes  \n- Death  \n- Respawn  \n\n---\n\n# 🔊 Custom SFX\n\n- Recall  \n- Abilities **Q, E, and R**  \n- Emotes  \n- Respawn  \n\n---\n\n# 🧩 Custom Models & Textures\n\nModels sourced from Pokémon games.\n\n- **Groudon** — Pokémon Omega Ruby & Alpha Sapphire  \n- **Primal Groudon** — Pokémon Omega Ruby & Alpha Sapphire  \n\n---\n\n# 🎮 Feature Highlights\n\n- 🌋 Dynamic **Primal Evolution at 7 Feast Stacks**  \n- 🔥 Custom environmental effect: **Desolate Land Event**  \n- 🎨 High-quality Pokémon models integrated into gameplay  \n- ⭐ Rare **Shiny Variant System (1%)**\n\n---\n\n# 🎵 Music\n\n🎧 **Event Music**  \nGalax –  \n[Pokémon Ruby & Sapphire - Hoenn Weather Trio Battle Theme (Epic Orchestral Remix)](https://www.youtube.com/watch?v=)\n\n> *(Replace link if you have the exact URL)*\n\n---\n\n# 🙏 Credits\n\n**Mod Creator**  \n⭐ Nyht Seven  \n\n**Music**  \n- Galax — Hoenn Weather Trio Battle Theme (Epic Orchestral Remix)\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/groudon-chogath\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/groudon-cho-gath/thumb.webp?v=92d37f8b",
+	"file": {
+		"version": 1,
+		"asset": "groudon-cho-gath-v1.fantome",
+		"size": 9267609,
+		"sha256": "eba8ae7247b5d533539ace3a56b22b491abda7371a549f4f11e8c06df63d0396"
+	},
+	"chromas": []
+}

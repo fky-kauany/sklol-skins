@@ -1,0 +1,26 @@
+{
+	"id": "gwen-chibi-mita",
+	"name": "Chibi Mita",
+	"champion": 887,
+	"base": 0,
+	"creator": "frog",
+	"description": "Mita Gwen\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Gwen skin\r\n• Custom Voiceover of Mita\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/chibi-mita-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gwen-chibi-mita/thumb.webp?v=97c80665",
+	"file": {
+		"version": 1,
+		"asset": "gwen-chibi-mita-v1.fantome",
+		"size": 13593084,
+		"sha256": "76d04650fdcba4defe846c0eb602a94b5b48464476dd4541b9fb14b6e0f6de2e"
+	},
+	"chromas": []
+}

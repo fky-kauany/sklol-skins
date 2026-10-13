@@ -1,0 +1,26 @@
+{
+	"id": "guts-tryndamere",
+	"name": "Guts Tryndamere",
+	"champion": 23,
+	"base": 0,
+	"creator": "frog",
+	"description": "Animations by Kaizen (Trynda ASU)\r\n\r\nhttps://divineskins.gg/Kaizen/tryndameres-asu\r\nhttps://www.nexusmods.com/leagueoflegends/mods/37\r\n\r\nRecall stolen from guts garen\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/guts-tryndamere\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/guts-tryndamere/thumb.webp?v=bb62fa31",
+	"file": {
+		"version": 1,
+		"asset": "guts-tryndamere-v1.fantome",
+		"size": 31543373,
+		"sha256": "48791549e1c5ddc21c92c2fc4907ceee31b476b68d01bf70c213b412e7c8fee0"
+	},
+	"chromas": []
+}

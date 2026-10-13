@@ -1,0 +1,26 @@
+{
+	"id": "grunt-sett",
+	"name": "grunt sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"they didnt taked my stuff :D (again .-.)\"\n\n***\n\n**Modified champion: Sett**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3D made by: [**Tottu-1280**](https://www.newgrounds.com/art/view/tottu-1280/just-a-nomal-day-in-nevada-vol2-model-pack-release)\n\n[Krinkels](https://twitter.com/MRKrinkels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) the creator of this madness\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/grunt-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/grunt-sett/thumb.webp?v=0866be87",
+	"file": {
+		"version": 1,
+		"asset": "grunt-sett-v1.fantome",
+		"size": 11685984,
+		"sha256": "6505166d9b20b38fe58eb35d2b043ecbd9bed6f7249135b910af197236fe1f0d"
+	},
+	"chromas": []
+}

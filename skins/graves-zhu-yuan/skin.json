@@ -1,0 +1,26 @@
+{
+	"id": "graves-zhu-yuan",
+	"name": "Graves Zhu Yuan",
+	"champion": 104,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ZHU YUAN 」\n### *Replaces Graves*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/graves-zhu-yuan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/graves-zhu-yuan/thumb.webp?v=dd18a329",
+	"file": {
+		"version": 1,
+		"asset": "graves-zhu-yuan-v1.fantome",
+		"size": 35403521,
+		"sha256": "317bc4f321dc25b110946a046e51e3578b02f90f4ede79e7e616db53803c99a1"
+	},
+	"chromas": []
+}

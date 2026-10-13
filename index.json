@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:05:26.201Z",
+	"generatedAt": "2026-10-13T03:08:41.928Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -424,6 +424,11 @@
 				"x": "https://x.com/Sauronkaiser",
 				"youtube": "https://www.youtube.com/@Sauronkaiser"
 			}
+		},
+		"sayanox": {
+			"name": "Sayanox",
+			"avatar": "creators/sayanox.png?v=965583c5",
+			"links": {}
 		},
 		"seweski": {
 			"name": "Seweski",
@@ -983,6 +988,263 @@
 				"asset": "graves-cable-v1.fantome",
 				"size": 12471053,
 				"sha256": "9cc0c281f840a87e280f8e67472e7906f09bd04ae7f8ca29040462d1dcde9ec8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "graves-zhu-yuan",
+			"name": "Graves Zhu Yuan",
+			"champion": 104,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/graves-zhu-yuan/thumb.webp?v=dd18a329",
+			"file": {
+				"version": 1,
+				"asset": "graves-zhu-yuan-v1.fantome",
+				"size": 35403521,
+				"sha256": "317bc4f321dc25b110946a046e51e3578b02f90f4ede79e7e616db53803c99a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "groudon-cho-gath",
+			"name": "Groudon Cho'Gath",
+			"champion": 31,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/groudon-cho-gath/thumb.webp?v=92d37f8b",
+			"file": {
+				"version": 1,
+				"asset": "groudon-cho-gath-v1.fantome",
+				"size": 9267609,
+				"sha256": "eba8ae7247b5d533539ace3a56b22b491abda7371a549f4f11e8c06df63d0396"
+			},
+			"chromas": []
+		},
+		{
+			"id": "grunt-sett",
+			"name": "grunt sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/grunt-sett/thumb.webp?v=0866be87",
+			"file": {
+				"version": 1,
+				"asset": "grunt-sett-v1.fantome",
+				"size": 11685984,
+				"sha256": "6505166d9b20b38fe58eb35d2b043ecbd9bed6f7249135b910af197236fe1f0d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gugugaga-sejuani-ft-doro",
+			"name": "Gugugaga Sejuani (ft. Doro)",
+			"champion": 113,
+			"base": 0,
+			"creator": "sayanox",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gugugaga-sejuani-ft-doro/thumb.webp?v=9074722d",
+			"file": {
+				"version": 1,
+				"asset": "gugugaga-sejuani-ft-doro-v1.fantome",
+				"size": 24257317,
+				"sha256": "b64aede8b15aabc6187f1abe19f90f8cd68b62fc96b691afadc7b5e6b7a269ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "guoba-malphite",
+			"name": "Guoba Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/guoba-malphite/thumb.webp?v=5241445c",
+			"file": {
+				"version": 1,
+				"asset": "guoba-malphite-v1.fantome",
+				"size": 1169777,
+				"sha256": "f5015aed30a4bad31eb5a811fb09e53910943a8943fc8481066e0e6d7c1d8018"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gus-fring-azir",
+			"name": "Gus Fring Azir",
+			"champion": 268,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gus-fring-azir/thumb.webp?v=856c9d3b",
+			"file": {
+				"version": 1,
+				"asset": "gus-fring-azir-v1.fantome",
+				"size": 20429574,
+				"sha256": "b209d78f9445edd45b5031f14264619d8094d402ba84b2dfd6c0920e89a26961"
+			},
+			"chromas": []
+		},
+		{
+			"id": "guts-tryndamere",
+			"name": "Guts Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/guts-tryndamere/thumb.webp?v=bb62fa31",
+			"file": {
+				"version": 1,
+				"asset": "guts-tryndamere-v1.fantome",
+				"size": 31543373,
+				"sha256": "48791549e1c5ddc21c92c2fc4907ceee31b476b68d01bf70c213b412e7c8fee0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-as-ena-dream-bbq",
+			"name": "GWEN AS ENA DREAM BBQ",
+			"champion": 887,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-as-ena-dream-bbq/thumb.webp?v=3aaec3cb",
+			"file": {
+				"version": 1,
+				"asset": "gwen-as-ena-dream-bbq-v1.fantome",
+				"size": 5363079,
+				"sha256": "606bdead0da641225fd0979a381299ebd2f2897dbc0b31889dc011cea094b3ef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-chibi-mita",
+			"name": "Chibi Mita",
+			"champion": 887,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-chibi-mita/thumb.webp?v=97c80665",
+			"file": {
+				"version": 1,
+				"asset": "gwen-chibi-mita-v1.fantome",
+				"size": 13593084,
+				"sha256": "76d04650fdcba4defe846c0eb602a94b5b48464476dd4541b9fb14b6e0f6de2e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-chroma",
+			"name": "Gwen Chroma",
+			"champion": 887,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-chroma/thumb.webp?v=25bd7b2a",
+			"file": {
+				"version": 1,
+				"asset": "gwen-chroma-v1.fantome",
+				"size": 16322465,
+				"sha256": "e249bbd88597c2598dd3d598a8d5cf65a5b371cdfd9c08714d3cf585dca50775"
 			},
 			"chromas": []
 		},

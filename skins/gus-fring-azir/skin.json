@@ -1,0 +1,26 @@
+{
+	"id": "gus-fring-azir",
+	"name": "Gus Fring Azir",
+	"champion": 268,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Azir with Gus Fring from Breaking Bad.\nIt also replaces Azir's soldiers with Mike and Saul.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Azir.\n\n#\n\n### ✨ Credits\n\n- Credits to [Basedkov (aka Bishop)](https://www.youtube.com/channel/UCg4KwDV2k2R2h4ULtIM3CtQ \"basedkov's yt channel\") for creating the mod, I am only maintaining it\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/gus-fring-azir\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gus-fring-azir/thumb.webp?v=856c9d3b",
+	"file": {
+		"version": 1,
+		"asset": "gus-fring-azir-v1.fantome",
+		"size": 20429574,
+		"sha256": "b209d78f9445edd45b5031f14264619d8094d402ba84b2dfd6c0920e89a26961"
+	},
+	"chromas": []
+}

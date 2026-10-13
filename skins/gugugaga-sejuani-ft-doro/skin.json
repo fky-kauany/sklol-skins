@@ -1,0 +1,26 @@
+{
+	"id": "gugugaga-sejuani-ft-doro",
+	"name": "Gugugaga Sejuani (ft. Doro)",
+	"champion": 113,
+	"base": 0,
+	"creator": "sayanox",
+	"description": "### Mod information\r\n\r\n* Champion: Sejuani\r\n* Modified skin: All Skins\r\n* Author: Sayanox\r\n* Skin Version: 1.0.0\r\n* Updated for Patch 26.16\r\n\r\n* Gugugaga (ft. Doro) as Sejuani.\r\n\r\n* Gugugaga rides Doro and swings a corn dog cat\r\n* 60-line gugugaga voice-over GUGUGAGA!\r\n* Custom ability icons, both portraits and the loading screen\r\n* Custom vfx across the passive, W, E and R\r\n\r\nThanks to @LegacyForgeSkins for the amazing skin showcase\n\n---\n\n**Created by** [Sayanox](https://www.divineskins.gg/Sayanox)\n\n**Original:** https://www.divineskins.gg/Sayanox/gugugaga-sejuani-ft-doro\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gugugaga-sejuani-ft-doro/thumb.webp?v=9074722d",
+	"file": {
+		"version": 1,
+		"asset": "gugugaga-sejuani-ft-doro-v1.fantome",
+		"size": 24257317,
+		"sha256": "b64aede8b15aabc6187f1abe19f90f8cd68b62fc96b691afadc7b5e6b7a269ba"
+	},
+	"chromas": []
+}
