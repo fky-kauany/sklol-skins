@@ -1,0 +1,26 @@
+{
+	"id": "kaneki-ken-ezreal",
+	"name": "Kaneki Ken Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/kaneki-ken-ezreal\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kaneki-ken-ezreal/thumb.webp?v=791f8825",
+	"file": {
+		"version": 1,
+		"asset": "kaneki-ken-ezreal-v1.fantome",
+		"size": 22545007,
+		"sha256": "39e143bcfde14a10264639e407d051a863116a17b3b6124334b87be62bf4fdce"
+	},
+	"chromas": []
+}

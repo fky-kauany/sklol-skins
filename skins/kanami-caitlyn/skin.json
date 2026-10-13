@@ -1,0 +1,25 @@
+{
+	"id": "kanami-caitlyn",
+	"name": "Kanami Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Kanami Caitlyn\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.3\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/kanami-caitlyn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kanami-caitlyn/thumb.webp?v=97e4df9a",
+	"file": {
+		"version": 1,
+		"asset": "kanami-caitlyn-v1.fantome",
+		"size": 5762194,
+		"sha256": "c1fb724b1d37bf5136505136089ec071ec30dcf0f3fffb35ca5b5a7c635938bf"
+	},
+	"chromas": []
+}

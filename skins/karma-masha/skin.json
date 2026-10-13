@@ -1,0 +1,26 @@
+{
+	"id": "karma-masha",
+	"name": "Karma Masha",
+	"champion": 43,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MARIA MIKHAILOVNA KUJO 」\r\n### *Replaces Karma*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/karma-masha\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/karma-masha/thumb.webp?v=f60b8c37",
+	"file": {
+		"version": 1,
+		"asset": "karma-masha-v1.fantome",
+		"size": 7987897,
+		"sha256": "d304326c80892d79f7ba4122ca65ac980abd9014e6c126399406c452d5c626b0"
+	},
+	"chromas": []
+}

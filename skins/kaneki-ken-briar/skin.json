@@ -1,0 +1,27 @@
+{
+	"id": "kaneki-ken-briar",
+	"name": "Kaneki Ken Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "gockar",
+	"description": "Kaneki Ken as Briar\n\nCustom model\nCustom voices\nCustom vfx\nCustom sfx\nCustom boobs too\n\n---\n\n**Created by** [Gockar](https://www.divineskins.gg/Gockar)\n\n**Original:** https://www.divineskins.gg/Gockar/kaneki-ken-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kaneki-ken-briar/thumb.webp?v=ccfdf6d7",
+	"file": {
+		"version": 1,
+		"asset": "kaneki-ken-briar-v1.fantome",
+		"size": 23109718,
+		"sha256": "b989b9c1e8edd2781ff47ab07671c3ae68fbcbca0ead6845d2a877bed9d12b8d"
+	},
+	"chromas": []
+}

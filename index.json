@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:54:36.252Z",
+	"generatedAt": "2026-10-13T03:57:50.811Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -256,6 +256,12 @@
 		"gazor": {
 			"name": "Gazor",
 			"avatar": "creators/gazor.webp?v=e4d83a29",
+			"links": {}
+		},
+		"gockar": {
+			"name": "Gockar",
+			"avatar": "creators/gockar.webp?v=5bed98c0",
+			"bio": "girl",
 			"links": {}
 		},
 		"hatstore": {
@@ -4865,6 +4871,265 @@
 				"asset": "kai-sa-zero-two-kaisa-v1.fantome",
 				"size": 8481506,
 				"sha256": "c88e5442cc920996b31ab6381e647b8f4e1c73c69d0f1c50bb69784cfe8b1ecd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kaido-shyvana",
+			"name": "Kaido Shyvana",
+			"champion": 102,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kaido-shyvana/thumb.webp?v=8f1d28a0",
+			"file": {
+				"version": 1,
+				"asset": "kaido-shyvana-v1.fantome",
+				"size": 22592158,
+				"sha256": "ce01ea2c20c80d3c35cb9af25177d8f8b5db2c798e9d852551291d524941e6e1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kalista-minecraft",
+			"name": "Minecraft",
+			"champion": 429,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kalista-minecraft/thumb.webp?v=85d15a52",
+			"file": {
+				"version": 1,
+				"asset": "kalista-minecraft-v1.fantome",
+				"size": 3946504,
+				"sha256": "56f8675ba9535510608fe9405b8352bf02855707a9a27e58dee1ac9ba6bb4e48"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kamisato-ayaka-yasuo",
+			"name": "Kamisato Ayaka Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kamisato-ayaka-yasuo/thumb.webp?v=8dc19829",
+			"file": {
+				"version": 1,
+				"asset": "kamisato-ayaka-yasuo-v1.fantome",
+				"size": 10114764,
+				"sha256": "e60b4c63fb829a885b65cd29502e97b0b98afffcdb454549971d8c0864c2aa3a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kanami-caitlyn",
+			"name": "Kanami Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kanami-caitlyn/thumb.webp?v=97e4df9a",
+			"file": {
+				"version": 1,
+				"asset": "kanami-caitlyn-v1.fantome",
+				"size": 5762194,
+				"sha256": "c1fb724b1d37bf5136505136089ec071ec30dcf0f3fffb35ca5b5a7c635938bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kaneki-ken-briar",
+			"name": "Kaneki Ken Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "gockar",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kaneki-ken-briar/thumb.webp?v=ccfdf6d7",
+			"file": {
+				"version": 1,
+				"asset": "kaneki-ken-briar-v1.fantome",
+				"size": 23109718,
+				"sha256": "b989b9c1e8edd2781ff47ab07671c3ae68fbcbca0ead6845d2a877bed9d12b8d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kaneki-ken-ezreal",
+			"name": "Kaneki Ken Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kaneki-ken-ezreal/thumb.webp?v=791f8825",
+			"file": {
+				"version": 1,
+				"asset": "kaneki-ken-ezreal-v1.fantome",
+				"size": 22545007,
+				"sha256": "39e143bcfde14a10264639e407d051a863116a17b3b6124334b87be62bf4fdce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karma-masha",
+			"name": "Karma Masha",
+			"champion": 43,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/karma-masha/thumb.webp?v=f60b8c37",
+			"file": {
+				"version": 1,
+				"asset": "karma-masha-v1.fantome",
+				"size": 7987897,
+				"sha256": "d304326c80892d79f7ba4122ca65ac980abd9014e6c126399406c452d5c626b0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karma-ram",
+			"name": "Ram",
+			"champion": 43,
+			"base": 0,
+			"creator": "sirdexal",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/karma-ram/thumb.webp?v=ff1ef7ed",
+			"file": {
+				"version": 1,
+				"asset": "karma-ram-v1.fantome",
+				"size": 12607392,
+				"sha256": "7b52d933cdce3862b7bec31b8187f2bac6789e3d66827f221e9ad7080ab446f5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karma-ruka",
+			"name": "Karma Ruka",
+			"champion": 43,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/karma-ruka/thumb.webp?v=f022bf59",
+			"file": {
+				"version": 1,
+				"asset": "karma-ruka-v1.fantome",
+				"size": 8456285,
+				"sha256": "a7c351ef29e6c4007f33f8fea47063e6dbe69a2a305c00f38509741e2fb3b990"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karthus-ainz-ooal-gown",
+			"name": "Karthus Ainz Ooal Gown",
+			"champion": 30,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/karthus-ainz-ooal-gown/thumb.webp?v=c712c002",
+			"file": {
+				"version": 1,
+				"asset": "karthus-ainz-ooal-gown-v1.fantome",
+				"size": 17694429,
+				"sha256": "34d7d6d1215c7cbfea4e3cab411730accad2bc86f439c2713ec5db9500e01830"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,25 @@
+{
+	"id": "kalista-minecraft",
+	"name": "Minecraft",
+	"champion": 429,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/minecraft-kalista\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kalista-minecraft/thumb.webp?v=85d15a52",
+	"file": {
+		"version": 1,
+		"asset": "kalista-minecraft-v1.fantome",
+		"size": 3946504,
+		"sha256": "56f8675ba9535510608fe9405b8352bf02855707a9a27e58dee1ac9ba6bb4e48"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "kaido-shyvana",
+	"name": "Kaido Shyvana",
+	"champion": 102,
+	"base": 0,
+	"creator": "frog",
+	"description": "## 🐉 Kaido Shyvana\r\n\r\nThe Strongest Creature in the World takes to the skies. This mod transforms Shyvana into the fearsome Kaido, fusing draconic fury with the power of the Beast Pirates’ Governor-General.\r\n\r\n> *\"People don't die in this world from a lack of food or money... They die because they are weak!\"*\r\n\r\n---\r\n\r\n## ⚓ Skin Information\r\n\r\n* **Modified Champion:** Shyvana\r\n* **Modified Skin:** All Shyvana Skins\r\n* **Character:** Kaido (*One Piece*)\r\n* **Author:** ikiryou\r\n\r\n---\r\n\r\n## 📜 Features\r\n\r\n\r\n**⚔️ Hassaikai Rampage**\r\nBasic attacks and abilities channel the devastating power of Kaido’s kanabo, delivering crushing, thunderous blows.\r\n\r\n**🔥 Azure Dragon Awakening**\r\nShyvana’s dragon form becomes Kaido’s legendary Azure Dragon, complete with fiery breath, lightning-infused energy, and storm-like visual effects.\r\n\r\n**🌩️ Uo Uo no Mi Effects**\r\nAbilities are reimagined with draconic auras inspired by Kaido’s Devil Fruit powers, enhancing immersion and impact.\r\n\r\n**🎨 Universal Compatibility**\r\nFully compatible with all Shyvana skins.\r\n\r\n---\r\n\r\n## ⚖️ Disclaimer & Credits\r\n\r\n* **Copyright:** Kaido and *One Piece* belong to Eiichiro Oda, Shueisha, and Toei Animation.\r\n* **Mod Ownership:** All modifications belong to Frog.\r\n* **Affiliation:** This fan-made mod is not affiliated with or endorsed by Riot Games or any copyright holders.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/kaido-shyvanna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kaido-shyvana/thumb.webp?v=8f1d28a0",
+	"file": {
+		"version": 1,
+		"asset": "kaido-shyvana-v1.fantome",
+		"size": 22592158,
+		"sha256": "ce01ea2c20c80d3c35cb9af25177d8f8b5db2c798e9d852551291d524941e6e1"
+	},
+	"chromas": []
+}

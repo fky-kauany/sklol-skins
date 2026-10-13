@@ -1,0 +1,26 @@
+{
+	"id": "karma-ruka",
+	"name": "Karma Ruka",
+	"champion": 43,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 RUKA SARASHINA 」\n### *Replaces Karma*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/karma-ruka\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/karma-ruka/thumb.webp?v=f022bf59",
+	"file": {
+		"version": 1,
+		"asset": "karma-ruka-v1.fantome",
+		"size": 8456285,
+		"sha256": "a7c351ef29e6c4007f33f8fea47063e6dbe69a2a305c00f38509741e2fb3b990"
+	},
+	"chromas": []
+}

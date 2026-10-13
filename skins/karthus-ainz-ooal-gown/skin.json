@@ -1,0 +1,26 @@
+{
+	"id": "karthus-ainz-ooal-gown",
+	"name": "Karthus Ainz Ooal Gown",
+	"champion": 30,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 AINZ OOAL GOWN 」\n### *Replaces Karthus*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/karthus-ainz-ooal-gown\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/karthus-ainz-ooal-gown/thumb.webp?v=c712c002",
+	"file": {
+		"version": 1,
+		"asset": "karthus-ainz-ooal-gown-v1.fantome",
+		"size": 17694429,
+		"sha256": "34d7d6d1215c7cbfea4e3cab411730accad2bc86f439c2713ec5db9500e01830"
+	},
+	"chromas": []
+}

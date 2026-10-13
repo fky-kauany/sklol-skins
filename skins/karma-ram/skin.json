@@ -1,0 +1,26 @@
+{
+	"id": "karma-ram",
+	"name": "Ram",
+	"champion": 43,
+	"base": 0,
+	"creator": "sirdexal",
+	"description": "Ram Karma • Custom Model • Custom Abilities • Works on every Karma Skin • Voiceover\n\n---\n\n**Created by** [SirDexal](https://www.divineskins.gg/SirDexal)\n\n**Original:** https://www.divineskins.gg/SirDexal/ram-karma\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/karma-ram/thumb.webp?v=ff1ef7ed",
+	"file": {
+		"version": 1,
+		"asset": "karma-ram-v1.fantome",
+		"size": 12607392,
+		"sha256": "7b52d933cdce3862b7bec31b8187f2bac6789e3d66827f221e9ad7080ab446f5"
+	},
+	"chromas": []
+}
