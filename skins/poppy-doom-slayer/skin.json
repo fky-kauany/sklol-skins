@@ -1,0 +1,26 @@
+{
+	"id": "poppy-doom-slayer",
+	"name": "Doom Slayer",
+	"champion": 78,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n- A few customary Doomguy grunts\r\n- New VFX\r\n- New SFX\r\n- Custom loading screen and in-game icons\r\n- Slayer's Arsenal - Sentinel Hammer, Flail, Shield Saw, Super Shotgun, and of course, the BFG\r\n- Sick riffs on your Argent guitar\r\n\r\n\r\n*\"They are int, trolling, on a lose streak.*\r\n*But you, you will be worse.*\r\nRIP and TEAR, until it is done!\"﻿\r\n\r\n﻿\r\n\r\n﻿The Doom Slayer has been awakened again, to deal with a most vile, outright demonic plague of all - League players. This mod completely overhauls Poppy, changing her into the Doom Slayer. Your primary arsenal consists of your flail and shield saw (which you can throw at the enemies). You also have access to your Sentinel Hammer on Q, the BFG on R, and the super shotgun on criting (good for those Sundered Sky procs!). E is shield bash, and W is um, Slayer's very intimidating aura. You can shred on your guitar to play The Only Thing They Fear Is You on ctrl+3, leave a thumbs up emote on ctrl+4, enter berserk rage on ctrl+2, and callback to Doom's origins with ctrl+1. Recall uses the Maykr tether to bind the Slayer, but if you interrupt your recall, you can see the Slayer breaking the tether. Oh, and enjoy the homeguard animation, had to think of a replacement since I couldn't get my hands on his dragon's 3D model.\r\n\r\n﻿The mod overwrites all of Poppy skins, so no matter what you or the enemy chooses, you will always get the Slayer.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/doom-slayer\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/poppy-doom-slayer/thumb.webp?v=17c218d5",
+	"file": {
+		"version": 1,
+		"asset": "poppy-doom-slayer-v1.fantome",
+		"size": 55027640,
+		"sha256": "e4d2399fe51b34f13eea8c125ac1defa3f5b7b5fc7f0e4df48f0a33ae7c0037c"
+	},
+	"chromas": []
+}

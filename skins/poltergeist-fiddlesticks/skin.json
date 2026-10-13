@@ -1,0 +1,26 @@
+{
+	"id": "poltergeist-fiddlesticks",
+	"name": "Poltergeist Fiddlesticks",
+	"champion": 9,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# Poltergeist Fiddlesticks\r\nA simple recolor of spectral fiddlesticks. Ditching the blues for a more ghostly appearance.\r\n\r\n### Featuring:\r\n- A recolored model with matching particles\r\n- Spookier effigys\r\n- loading screen and hud icons to match\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/poltergeist-fiddlesticks\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/poltergeist-fiddlesticks/thumb.webp?v=482134c5",
+	"file": {
+		"version": 1,
+		"asset": "poltergeist-fiddlesticks-v1.fantome",
+		"size": 7710943,
+		"sha256": "aed0bc58de160218eb80ecd5192ce80619b57e3904157607369f33962710d893"
+	},
+	"chromas": []
+}

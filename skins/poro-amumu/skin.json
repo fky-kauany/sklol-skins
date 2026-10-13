@@ -1,0 +1,26 @@
+{
+	"id": "poro-amumu",
+	"name": "Poro Amumu",
+	"champion": 32,
+	"base": 0,
+	"creator": "disco",
+	"description": "Poro from TFT as ammumu with custom animations VFX and emojis\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/poro-amumu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/poro-amumu/thumb.webp?v=1922906e",
+	"file": {
+		"version": 1,
+		"asset": "poro-amumu-v1.fantome",
+		"size": 11020682,
+		"sha256": "ccda009b6e737f99e8491e3775b6a2c08ab0a047249817cd6c57809cc642cc92"
+	},
+	"chromas": []
+}

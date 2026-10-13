@@ -1,0 +1,26 @@
+{
+	"id": "pizza-delivery-qiyana",
+	"name": "Pizza Delivery Qiyana",
+	"champion": 246,
+	"base": 0,
+	"creator": "frog",
+	"description": "?️ Mod Type: Champion Skin\r\n? Modified Skin(s): Works only on the base skin\r\n\r\n? Additional Info\r\n\r\nHave questions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n❤️ Support\r\n\r\nEnjoyed the mod? Show your support and keep the creations coming!\r\n\r\nFan-made, not affiliated with Riot Games or any other company.\r\nThumbnail is AI-generated.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/pizza-delivery-qiyana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pizza-delivery-qiyana/thumb.webp?v=70c9b917",
+	"file": {
+		"version": 1,
+		"asset": "pizza-delivery-qiyana-v1.fantome",
+		"size": 15386422,
+		"sha256": "16fbaa57e8d0dc9a21b10b4a42b2a541ec329a773f541f76b354059321b1d630"
+	},
+	"chromas": []
+}

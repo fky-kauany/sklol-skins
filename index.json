@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:23:16.900Z",
+	"generatedAt": "2026-10-13T05:26:35.326Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -200,6 +200,10 @@
 				"site": "https://github.com/DISCOCX",
 				"x": "https://x.com/DISCOXZ"
 			}
+		},
+		"dredd": {
+			"name": "Dredd",
+			"links": {}
 		},
 		"drinfinito": {
 			"name": "DrInfinito",
@@ -11829,6 +11833,265 @@
 				"asset": "pink-thunder-shockblade-zed-v1.fantome",
 				"size": 2782122,
 				"sha256": "984c27488dc5e60a1ff4ea8b9e10e1ed821f3a51cfe49eb017d29e926bef84ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pizza-delivery-qiyana",
+			"name": "Pizza Delivery Qiyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pizza-delivery-qiyana/thumb.webp?v=70c9b917",
+			"file": {
+				"version": 1,
+				"asset": "pizza-delivery-qiyana-v1.fantome",
+				"size": 15386422,
+				"sha256": "16fbaa57e8d0dc9a21b10b4a42b2a541ec329a773f541f76b354059321b1d630"
+			},
+			"chromas": []
+		},
+		{
+			"id": "plankton-teemo",
+			"name": "Plankton Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/plankton-teemo/thumb.webp?v=2549da58",
+			"file": {
+				"version": 1,
+				"asset": "plankton-teemo-v1.fantome",
+				"size": 13940355,
+				"sha256": "b2058e7b2605aa63a54e23f7a0cc1cc672ea1f55fcfef31f263a57a9e8cec3b3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pokemon-bea-lee-sin",
+			"name": "POKEMON BEA LEE SIN",
+			"champion": 64,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pokemon-bea-lee-sin/thumb.webp?v=b8c394ba",
+			"file": {
+				"version": 1,
+				"asset": "pokemon-bea-lee-sin-v1.fantome",
+				"size": 22912461,
+				"sha256": "670b90e21c3b5abd3a1bd190353eccca57d5c0ca96404ac87a0b4d37a9e2188f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "poltergeist-fiddlesticks",
+			"name": "Poltergeist Fiddlesticks",
+			"champion": 9,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/poltergeist-fiddlesticks/thumb.webp?v=482134c5",
+			"file": {
+				"version": 1,
+				"asset": "poltergeist-fiddlesticks-v1.fantome",
+				"size": 7710943,
+				"sha256": "aed0bc58de160218eb80ecd5192ce80619b57e3904157607369f33962710d893"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pom-warwick",
+			"name": "Pom Warwick",
+			"champion": 19,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pom-warwick/thumb.webp?v=8ddeb935",
+			"file": {
+				"version": 1,
+				"asset": "pom-warwick-v1.fantome",
+				"size": 9126934,
+				"sha256": "cb26faefb7ceddbda1bf79680332a6dd644187fcceba084f0dabbc10677a37e6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pomni-shaco",
+			"name": "Pomni Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pomni-shaco/thumb.webp?v=17d355eb",
+			"file": {
+				"version": 1,
+				"asset": "pomni-shaco-v1.fantome",
+				"size": 14380673,
+				"sha256": "43c1f8fc0ef52ee14dccf48e75a4adc497658a7f23440a856499e0ae6eb03b7f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-irelia",
+			"name": "Pool Party Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "dredd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pool-party-irelia/thumb.webp?v=91683078",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-irelia-v1.fantome",
+				"size": 12920174,
+				"sha256": "30ada7d4ce363be3545496a485f035ab5bc3abed4e342a02f9cbfc7c60012bf4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "poppy-doom-slayer",
+			"name": "Doom Slayer",
+			"champion": 78,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/poppy-doom-slayer/thumb.webp?v=17c218d5",
+			"file": {
+				"version": 1,
+				"asset": "poppy-doom-slayer-v1.fantome",
+				"size": 55027640,
+				"sha256": "e4d2399fe51b34f13eea8c125ac1defa3f5b7b5fc7f0e4df48f0a33ae7c0037c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "poppy-shield-hero",
+			"name": "Shield Hero",
+			"champion": 78,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/poppy-shield-hero/thumb.webp?v=fc697d34",
+			"file": {
+				"version": 1,
+				"asset": "poppy-shield-hero-v1.fantome",
+				"size": 21376865,
+				"sha256": "301581cba28be18963543addd39700ac6b4567865810e3c60559057d8a4b2a42"
+			},
+			"chromas": []
+		},
+		{
+			"id": "poro-amumu",
+			"name": "Poro Amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/poro-amumu/thumb.webp?v=1922906e",
+			"file": {
+				"version": 1,
+				"asset": "poro-amumu-v1.fantome",
+				"size": 11020682,
+				"sha256": "ccda009b6e737f99e8491e3775b6a2c08ab0a047249817cd6c57809cc642cc92"
 			},
 			"chromas": []
 		},

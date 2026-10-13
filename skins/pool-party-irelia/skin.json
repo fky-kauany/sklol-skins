@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-irelia",
+	"name": "Pool Party Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "dredd",
+	"description": "Reference art by lejia Chan on twitter @chenshuojia124\n\nI tried to stay true to the reference as much as i could and i managed to reduce the clipping to a bare minimum so it's finally ready.\n\noverall i love this skin and i might make another one for Irelia in the future.\n\n---\n\n**Created by** [Dredd](https://www.divineskins.gg/Dredd)\n\n**Original:** https://www.divineskins.gg/Dredd/pool-party-irelia\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pool-party-irelia/thumb.webp?v=91683078",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-irelia-v1.fantome",
+		"size": 12920174,
+		"sha256": "30ada7d4ce363be3545496a485f035ab5bc3abed4e342a02f9cbfc7c60012bf4"
+	},
+	"chromas": []
+}

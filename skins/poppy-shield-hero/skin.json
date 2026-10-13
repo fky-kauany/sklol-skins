@@ -1,0 +1,26 @@
+{
+	"id": "poppy-shield-hero",
+	"name": "Shield Hero",
+	"champion": 78,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": ".ebay\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/shield-hero-poppy\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/poppy-shield-hero/thumb.webp?v=fc697d34",
+	"file": {
+		"version": 1,
+		"asset": "poppy-shield-hero-v1.fantome",
+		"size": 21376865,
+		"sha256": "301581cba28be18963543addd39700ac6b4567865810e3c60559057d8a4b2a42"
+	},
+	"chromas": []
+}

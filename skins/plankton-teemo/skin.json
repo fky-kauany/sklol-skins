@@ -1,0 +1,26 @@
+{
+	"id": "plankton-teemo",
+	"name": "Plankton Teemo",
+	"champion": 17,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### Plankton Teemo\r\nWant a commission?? DM me on Discord - zzzzzzz2930 (CZ in every server)\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/plankton-teemo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/plankton-teemo/thumb.webp?v=2549da58",
+	"file": {
+		"version": 1,
+		"asset": "plankton-teemo-v1.fantome",
+		"size": 13940355,
+		"sha256": "b2058e7b2605aa63a54e23f7a0cc1cc672ea1f55fcfef31f263a57a9e8cec3b3"
+	},
+	"chromas": []
+}
