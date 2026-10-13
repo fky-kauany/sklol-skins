@@ -1,0 +1,26 @@
+{
+	"id": "spark-of-the-exorcist-zeri-as-locke",
+	"name": "Spark of the Exorcist (Zeri as Locke)",
+	"champion": 805,
+	"base": 0,
+	"creator": "tensyaa",
+	"description": "## **SKIN INFORMATION**\nChampion: Locke\nModified skin: Base\nVersion: 1.0.0\n\nZeri as Locke Mod.\n\nAnimations are a mix of Locke and Zeri, voicelines are Zeri's and different VFX for the skin. Works on base Locke only.\n\n\nYes I used AI, no I don't care I think its very cool how much you can make with the help of AI. \n\nEnjoy using this Zeri enjoyers\n\n---\n\n**Created by** [tensyaa](https://www.divineskins.gg/tensyaa)\n\n**Original:** https://www.divineskins.gg/tensyaa/spark-of-the-exorcist-zeri-as-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spark-of-the-exorcist-zeri-as-locke/thumb.webp?v=1bad6308",
+	"file": {
+		"version": 1,
+		"asset": "spark-of-the-exorcist-zeri-as-locke-v1.fantome",
+		"size": 15462613,
+		"sha256": "94807df8559ad2fff4e98a2ea857ed1d79a52c23ac054cd803237d45f4deddc9"
+	},
+	"chromas": []
+}

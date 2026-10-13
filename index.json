@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:16:58.302Z",
+	"generatedAt": "2026-10-13T06:20:30.867Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -399,6 +399,13 @@
 				"youtube": "https://www.youtube.com/channel/UCJzeZnVbbLLjK0U2T9ws-GQ"
 			}
 		},
+		"lioko": {
+			"name": "lioko",
+			"avatar": "creators/lioko.png?v=c041143c",
+			"links": {
+				"site": "https://sketchfab.com/3d-models/spider-gwen-8ced3414d0c947abac000f8d3de1aa0f"
+			}
+		},
 		"lita": {
 			"name": "lita",
 			"avatar": "creators/lita.webp?v=7618fc10",
@@ -598,6 +605,12 @@
 			"name": "Tanaa",
 			"avatar": "creators/tanaa.webp?v=a5946f9b",
 			"bio": "COMMISSIONS: @tanaaxd on discord",
+			"links": {}
+		},
+		"tensyaa": {
+			"name": "tensyaa",
+			"avatar": "creators/tensyaa.webp?v=2aec291e",
+			"bio": "I don't know much about this, it's fun though. Hope you my skins!",
 			"links": {}
 		},
 		"thicario": {
@@ -15964,6 +15977,263 @@
 				"asset": "soraka-kei-v1.fantome",
 				"size": 52033464,
 				"sha256": "1195dff88a754c4a72c3d601f58ef3496c6011ad6c457ea482b8cb11235acc99"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soul-fighter-aphelios",
+			"name": "Soul fighter aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/soul-fighter-aphelios/thumb.webp?v=dbe8fc6d",
+			"file": {
+				"version": 1,
+				"asset": "soul-fighter-aphelios-v1.fantome",
+				"size": 51683960,
+				"sha256": "2460a0161f39363e8dc880d9f5256841e4e087ac5125b17add29dcb4dfd70d05"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soul-fighter-kalista",
+			"name": "Soul Fighter Kalista",
+			"champion": 429,
+			"base": 0,
+			"creator": "dredd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/soul-fighter-kalista/thumb.webp?v=998d9c9f",
+			"file": {
+				"version": 1,
+				"asset": "soul-fighter-kalista-v1.fantome",
+				"size": 10246749,
+				"sha256": "ddf7c2be001da71a081507f79b1f5a12297804ba6e4787740878390e8f64bbba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spark-of-the-exorcist-zeri-as-locke",
+			"name": "Spark of the Exorcist (Zeri as Locke)",
+			"champion": 805,
+			"base": 0,
+			"creator": "tensyaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spark-of-the-exorcist-zeri-as-locke/thumb.webp?v=1bad6308",
+			"file": {
+				"version": 1,
+				"asset": "spark-of-the-exorcist-zeri-as-locke-v1.fantome",
+				"size": 15462613,
+				"sha256": "94807df8559ad2fff4e98a2ea857ed1d79a52c23ac054cd803237d45f4deddc9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sparkle-jinx",
+			"name": "Sparkle Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sparkle-jinx/thumb.webp?v=3f5fdf0b",
+			"file": {
+				"version": 1,
+				"asset": "sparkle-jinx-v1.fantome",
+				"size": 26781493,
+				"sha256": "fb18366848223de1d8ce8004246508aeabf0ddff386cde66c010c0aba68cdfa5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sparkle-neeko",
+			"name": "Sparkle Neeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sparkle-neeko/thumb.webp?v=82a16bdd",
+			"file": {
+				"version": 1,
+				"asset": "sparkle-neeko-v1.fantome",
+				"size": 16239563,
+				"sha256": "8a47bed094122f37aaaa141c6c3b01fabc484dcfb9e7568fec4fb399c27eb49f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spawn-sylas",
+			"name": "spawn sylas",
+			"champion": 517,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spawn-sylas/thumb.webp?v=5963c4d3",
+			"file": {
+				"version": 1,
+				"asset": "spawn-sylas-v1.fantome",
+				"size": 13441390,
+				"sha256": "a88920d04c43ad7f74c7317a63be720a578961e5d03ae7577e06e4f2430215ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "speed-o-sound-talon",
+			"name": "Speed O Sound Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/speed-o-sound-talon/thumb.webp?v=f0539e67",
+			"file": {
+				"version": 1,
+				"asset": "speed-o-sound-talon-v1.fantome",
+				"size": 3139210,
+				"sha256": "a02ba665a4e25893a1401e934c836796136824309a55c5f9baa7b0689cead346"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spider-gwen-elise",
+			"name": "Spider Gwen Elise",
+			"champion": 60,
+			"base": 0,
+			"creator": "lioko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spider-gwen-elise/thumb.webp?v=3b9df07a",
+			"file": {
+				"version": 1,
+				"asset": "spider-gwen-elise-v1.fantome",
+				"size": 15483042,
+				"sha256": "260cb78673e33455719d99aa767228ce45dae5feb09b7e88b3f3c2217b6f2c30"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-kassadin",
+			"name": "Spirit Blossom Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-kassadin/thumb.webp?v=7d5a8aee",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-kassadin-v1.fantome",
+				"size": 88902470,
+				"sha256": "3d4514d6855e87fda0a631d5df3cba197ecd979f18d39d385b5191fa279c4011"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-katarina",
+			"name": "Spirit Blossom Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-katarina/thumb.webp?v=85d92696",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-katarina-v1.fantome",
+				"size": 14415729,
+				"sha256": "0051aa284bd2a2f27b4711da3a8fc17b1e52773daae868f3d0dd90d44f149640"
 			},
 			"chromas": []
 		},

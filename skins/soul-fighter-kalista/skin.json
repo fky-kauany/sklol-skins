@@ -1,0 +1,26 @@
+{
+	"id": "soul-fighter-kalista",
+	"name": "Soul Fighter Kalista",
+	"champion": 429,
+	"base": 0,
+	"creator": "dredd",
+	"description": "**Wild Rift model**\n\n---\n\n**Created by** [Dredd](https://www.divineskins.gg/Dredd)\n\n**Original:** https://www.divineskins.gg/Dredd/soul-fighter-kalista\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/soul-fighter-kalista/thumb.webp?v=998d9c9f",
+	"file": {
+		"version": 1,
+		"asset": "soul-fighter-kalista-v1.fantome",
+		"size": 10246749,
+		"sha256": "ddf7c2be001da71a081507f79b1f5a12297804ba6e4787740878390e8f64bbba"
+	},
+	"chromas": []
+}

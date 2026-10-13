@@ -1,0 +1,26 @@
+{
+	"id": "speed-o-sound-talon",
+	"name": "Speed O Sound Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "frog",
+	"description": "The blade of the Unseen Blade is now the speed of sound. This custom skin transforms **Talon** into the lightning-fast ninja, **Speed-o'-Sound Sonic**. Get ready to dash through enemies at incredible speed, leaving a trail of sonic booms and chaos. With his signature scarf and a blade that moves faster than the eye can see, this skin is perfect for players who want to dominate the battlefield with unmatched agility and precision.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/speed-o-sound-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/speed-o-sound-talon/thumb.webp?v=f0539e67",
+	"file": {
+		"version": 1,
+		"asset": "speed-o-sound-talon-v1.fantome",
+		"size": 3139210,
+		"sha256": "a02ba665a4e25893a1401e934c836796136824309a55c5f9baa7b0689cead346"
+	},
+	"chromas": []
+}

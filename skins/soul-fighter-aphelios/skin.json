@@ -1,0 +1,26 @@
+{
+	"id": "soul-fighter-aphelios",
+	"name": "Soul fighter aphelios",
+	"champion": 523,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "MMM Yummy soul fighter aphelios\n\n(pay the rest of the commision pixelzfps.)\n\n\n**COMMISION ME ON DISCORD @CEEREL**\n\n\n\nincludes soul fighter vfx,model,SFX\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/soul-fighter-aphelios\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/soul-fighter-aphelios/thumb.webp?v=dbe8fc6d",
+	"file": {
+		"version": 1,
+		"asset": "soul-fighter-aphelios-v1.fantome",
+		"size": 51683960,
+		"sha256": "2460a0161f39363e8dc880d9f5256841e4e087ac5125b17add29dcb4dfd70d05"
+	},
+	"chromas": []
+}

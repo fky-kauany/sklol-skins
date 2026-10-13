@@ -396,6 +396,13 @@
 			"youtube": "https://www.youtube.com/channel/UCJzeZnVbbLLjK0U2T9ws-GQ"
 		}
 	},
+	"lioko": {
+		"name": "lioko",
+		"avatar": "creators/lioko.png?v=c041143c",
+		"links": {
+			"site": "https://sketchfab.com/3d-models/spider-gwen-8ced3414d0c947abac000f8d3de1aa0f"
+		}
+	},
 	"lita": {
 		"name": "lita",
 		"avatar": "creators/lita.webp?v=7618fc10",
@@ -595,6 +602,12 @@
 		"name": "Tanaa",
 		"avatar": "creators/tanaa.webp?v=a5946f9b",
 		"bio": "COMMISSIONS: @tanaaxd on discord",
+		"links": {}
+	},
+	"tensyaa": {
+		"name": "tensyaa",
+		"avatar": "creators/tensyaa.webp?v=2aec291e",
+		"bio": "I don't know much about this, it's fun though. Hope you my skins!",
 		"links": {}
 	},
 	"thicario": {

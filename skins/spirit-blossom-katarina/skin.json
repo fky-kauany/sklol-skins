@@ -1,0 +1,25 @@
+{
+	"id": "spirit-blossom-katarina",
+	"name": "Spirit Blossom Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2101251460763676903?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Katarina\n* Skin: All\n* Spirit Blossom Katarina rework of my old project\n\n# Features\n\n- Loadingscreen\n- VFX\n- Model\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/spirit-blossom-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spirit-blossom-katarina/thumb.webp?v=85d92696",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-katarina-v1.fantome",
+		"size": 14415729,
+		"sha256": "0051aa284bd2a2f27b4711da3a8fc17b1e52773daae868f3d0dd90d44f149640"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "spawn-sylas",
+	"name": "spawn sylas",
+	"champion": 517,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "###### *\"wanda...\"*\n\n***\n\n**Modified champion: Sylas**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira, foose and charsles**\n\n**Discord: serrandoafimose**\n\n**extracted from the game:** Spawn: into the demons hand (was a pain in the ass) made by capcom\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/spawn-sylas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spawn-sylas/thumb.webp?v=5963c4d3",
+	"file": {
+		"version": 1,
+		"asset": "spawn-sylas-v1.fantome",
+		"size": 13441390,
+		"sha256": "a88920d04c43ad7f74c7317a63be720a578961e5d03ae7577e06e4f2430215ed"
+	},
+	"chromas": []
+}

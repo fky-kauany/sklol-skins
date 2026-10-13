@@ -1,0 +1,25 @@
+{
+	"id": "spirit-blossom-kassadin",
+	"name": "Spirit Blossom Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2065060939158757701?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Kassadin\n* Skin: Default/Shockblade\n* Spirit Blossom Kassadin made after being a winner in sin voting\n\n# Features\n\n- Loadingscreen\n- VFX\n- Model\n\n# ![](https://i.imgur.com/k0QocBb.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/spirit-blossom-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spirit-blossom-kassadin/thumb.webp?v=7d5a8aee",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-kassadin-v1.fantome",
+		"size": 88902470,
+		"sha256": "3d4514d6855e87fda0a631d5df3cba197ecd979f18d39d385b5191fa279c4011"
+	},
+	"chromas": []
+}

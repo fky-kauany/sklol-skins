@@ -1,0 +1,27 @@
+{
+	"id": "spider-gwen-elise",
+	"name": "Spider Gwen Elise",
+	"champion": 60,
+	"base": 0,
+	"creator": "lioko",
+	"description": "# Spider-Gwen Elise\n\nTurn Elise into Spider-Gwen while keeping her original gameplay and ability logic.\n\n### 📌 Mod Info\n\n**Type:** Custom Skin  \n**Modified Skin:** Base Elise\n\n### ✨ What's Changed\n\n- Human form remodelled to Spider-Gwen with a custom texture\n- Spider form recoloured to match\n- Ability and basic-attack VFX recoloured pink/blue → white, in both human and spider form\n- Custom loading-screen artwork and in-game HUD portraits\n- Custom Spider-Gwen voice-over (Marvel Heroes), loudness-matched to the\n  originals: move, attack, taunt, joke and death replaced; laugh and all combat\n  grunts silenced\n\n### 🧾 Credits\n\n**Model:** Spider-Gwen — https://sketchfab.com/3d-models/spider-gwen-8ced3414d0c947abac000f8d3de1aa0f\n**Voice-over:** Spider-Gwen, *Marvel Heroes*  \nThe original assets were modified and adapted for this custom skin.\n\n### 💬 Additional Info\n\nQuestions, feedback or bug reports are welcome through Divine Skins or Discord: flawless999\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [lioko](https://www.divineskins.gg/lioko)\n\n**Original:** https://www.divineskins.gg/lioko/spider-gwen-elise\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spider-gwen-elise/thumb.webp?v=3b9df07a",
+	"file": {
+		"version": 1,
+		"asset": "spider-gwen-elise-v1.fantome",
+		"size": 15483042,
+		"sha256": "260cb78673e33455719d99aa767228ce45dae5feb09b7e88b3f3c2217b6f2c30"
+	},
+	"chromas": []
+}
