@@ -1,0 +1,26 @@
+{
+	"id": "ayaka-gwen",
+	"name": "Ayaka Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Ayaka Gwen\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version 1.1.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/ayaka-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ayaka-gwen/thumb.webp?v=a06a365b",
+	"file": {
+		"version": 1,
+		"asset": "ayaka-gwen-v1.fantome",
+		"size": 6622929,
+		"sha256": "5065de4881b158124eb27c110525067451353125e44fca9cdd133452612f6a23"
+	},
+	"chromas": []
+}

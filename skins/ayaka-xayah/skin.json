@@ -1,0 +1,24 @@
+{
+	"id": "ayaka-xayah",
+	"name": "Ayaka Xayah",
+	"champion": 498,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Ayaka Xayah\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/ayaka-xayah\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ayaka-xayah/thumb.webp?v=59ccfbf3",
+	"file": {
+		"version": 1,
+		"asset": "ayaka-xayah-v1.fantome",
+		"size": 6064635,
+		"sha256": "e22468634bc723ec28ae7e95a27b451e8a83d3a00c8d094fdb73f386e7c7fb6e"
+	},
+	"chromas": []
+}

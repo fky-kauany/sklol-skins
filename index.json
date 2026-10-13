@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:47:39.143Z",
+	"generatedAt": "2026-10-13T00:50:49.408Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -76,6 +76,12 @@
 				"tiktok": "https://www.tiktok.com/@davexskins",
 				"youtube": "https://www.youtube.com/@davexFN"
 			}
+		},
+		"deliriumoverdose": {
+			"name": "deliriumoverdose",
+			"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
+			"bio": "I do not exist.",
+			"links": {}
 		},
 		"disco": {
 			"name": "DISCO",
@@ -2951,6 +2957,260 @@
 				"asset": "aurora-marin-kitagawa-v1.fantome",
 				"size": 12811022,
 				"sha256": "3ff6fceed8afe105495080adc30c655950e45836634bc90359dfd48586876ff2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aurora-reaper",
+			"name": "Reaper",
+			"champion": 893,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aurora-reaper/thumb.webp?v=103b8dce",
+			"file": {
+				"version": 1,
+				"asset": "aurora-reaper-v1.fantome",
+				"size": 12272110,
+				"sha256": "f6fe5bd7753c1dd8afbd92b47a9293c7a581b8680621eaaea632546b36e7074a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aurora-utaha",
+			"name": "Aurora Utaha",
+			"champion": 893,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aurora-utaha/thumb.webp?v=dbb135ba",
+			"file": {
+				"version": 1,
+				"asset": "aurora-utaha-v1.fantome",
+				"size": 12508293,
+				"sha256": "d7e6b6b2d3447fcce56413e1d6bf683260a6d7e6e54aa95085fd2263e11804f5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "axel-blaze-milio",
+			"name": "Axel Blaze Milio",
+			"champion": 902,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/axel-blaze-milio/thumb.webp?v=90ad20d4",
+			"file": {
+				"version": 1,
+				"asset": "axel-blaze-milio-v1.fantome",
+				"size": 5678072,
+				"sha256": "9d98568f3f0ea27daf14976349ef2bef62ebcc0e741f7447df761a36d5a87ed8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ayaka-gwen",
+			"name": "Ayaka Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ayaka-gwen/thumb.webp?v=a06a365b",
+			"file": {
+				"version": 1,
+				"asset": "ayaka-gwen-v1.fantome",
+				"size": 6622929,
+				"sha256": "5065de4881b158124eb27c110525067451353125e44fca9cdd133452612f6a23"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ayaka-xayah",
+			"name": "Ayaka Xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ayaka-xayah/thumb.webp?v=59ccfbf3",
+			"file": {
+				"version": 1,
+				"asset": "ayaka-xayah-v1.fantome",
+				"size": 6064635,
+				"sha256": "e22468634bc723ec28ae7e95a27b451e8a83d3a00c8d094fdb73f386e7c7fb6e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ayato-rakan",
+			"name": "Ayato Rakan",
+			"champion": 497,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ayato-rakan/thumb.webp?v=bfca0f30",
+			"file": {
+				"version": 1,
+				"asset": "ayato-rakan-v1.fantome",
+				"size": 5640464,
+				"sha256": "a4869dc6b738a1f31959065c035f78c8245cebb934da62e1148b177ad6809668"
+			},
+			"chromas": []
+		},
+		{
+			"id": "azir-sungjinwoo",
+			"name": "Sungjinwoo",
+			"champion": 268,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/azir-sungjinwoo/thumb.webp?v=129ac0c5",
+			"file": {
+				"version": 1,
+				"asset": "azir-sungjinwoo-v1.fantome",
+				"size": 30070818,
+				"sha256": "8b0f92ad62485df0d0c01182684b5bc564c6a11121332bad821c4fc742213262"
+			},
+			"chromas": []
+		},
+		{
+			"id": "b-sha-jinx",
+			"name": "B-Sha Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/b-sha-jinx/thumb.webp?v=fc919e9d",
+			"file": {
+				"version": 1,
+				"asset": "b-sha-jinx-v1.fantome",
+				"size": 6686864,
+				"sha256": "92fd3581482082e7c702a6d85265c02abb82382b4451571bae466037eea12ba5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bachira-zeri",
+			"name": "Bachira Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bachira-zeri/thumb.webp?v=86e977af",
+			"file": {
+				"version": 1,
+				"asset": "bachira-zeri-v1.fantome",
+				"size": 15866400,
+				"sha256": "c3275e81e1aaeb1c1c517587ae6badd71973738eaaa1549d2622784d65f0087c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bad-mr-frosty-malphite",
+			"name": "bad mr frosty malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bad-mr-frosty-malphite/thumb.webp?v=f9e70154",
+			"file": {
+				"version": 1,
+				"asset": "bad-mr-frosty-malphite-v1.fantome",
+				"size": 10053923,
+				"sha256": "1dd792c5d380b1c2ff21ab44e7dc2f037ae0a3528fdbcfa765b803433f5a13d8"
 			},
 			"chromas": []
 		},

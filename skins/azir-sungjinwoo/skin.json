@@ -1,0 +1,26 @@
+{
+	"id": "azir-sungjinwoo",
+	"name": "Sungjinwoo",
+	"champion": 268,
+	"base": 0,
+	"creator": "frog",
+	"description": "Sungjinwoo Azir\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Azir skin\r\n• Custom Voiceover of Sungjinwoo\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sungjinwoo-azir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/azir-sungjinwoo/thumb.webp?v=129ac0c5",
+	"file": {
+		"version": 1,
+		"asset": "azir-sungjinwoo-v1.fantome",
+		"size": 30070818,
+		"sha256": "8b0f92ad62485df0d0c01182684b5bc564c6a11121332bad821c4fc742213262"
+	},
+	"chromas": []
+}

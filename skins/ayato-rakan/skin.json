@@ -1,0 +1,24 @@
+{
+	"id": "ayato-rakan",
+	"name": "Ayato Rakan",
+	"champion": 497,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Ayato Rakan\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/ayato-rakan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ayato-rakan/thumb.webp?v=bfca0f30",
+	"file": {
+		"version": 1,
+		"asset": "ayato-rakan-v1.fantome",
+		"size": 5640464,
+		"sha256": "a4869dc6b738a1f31959065c035f78c8245cebb934da62e1148b177ad6809668"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "aurora-reaper",
+	"name": "Reaper",
+	"champion": 893,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/reaper-aurora\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aurora-reaper/thumb.webp?v=103b8dce",
+	"file": {
+		"version": 1,
+		"asset": "aurora-reaper-v1.fantome",
+		"size": 12272110,
+		"sha256": "f6fe5bd7753c1dd8afbd92b47a9293c7a581b8680621eaaea632546b36e7074a"
+	},
+	"chromas": []
+}

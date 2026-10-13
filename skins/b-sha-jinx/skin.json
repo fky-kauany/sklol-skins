@@ -1,0 +1,25 @@
+{
+	"id": "b-sha-jinx",
+	"name": "B-Sha Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "B-Sha Jinx\nIm not the original creator i found this mod i a lost archive and udated it idk who created ts\n\n---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/b-sha-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/b-sha-jinx/thumb.webp?v=fc919e9d",
+	"file": {
+		"version": 1,
+		"asset": "b-sha-jinx-v1.fantome",
+		"size": 6686864,
+		"sha256": "92fd3581482082e7c702a6d85265c02abb82382b4451571bae466037eea12ba5"
+	},
+	"chromas": []
+}

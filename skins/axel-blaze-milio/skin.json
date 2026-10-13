@@ -1,0 +1,25 @@
+{
+	"id": "axel-blaze-milio",
+	"name": "Axel Blaze Milio",
+	"champion": 902,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Axel Blaze Milio\n\n### Features\n\n- **Custom 3D model** of Axel Blaze, complete with soccer uniform and fiery aura\n- **Custom abilities** replacing Milio’s flame visuals with soccer fire effects\n- **Works across every Milio skin**, keeping full compatibility\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/axel-blaze-milio\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/axel-blaze-milio/thumb.webp?v=90ad20d4",
+	"file": {
+		"version": 1,
+		"asset": "axel-blaze-milio-v1.fantome",
+		"size": 5678072,
+		"sha256": "9d98568f3f0ea27daf14976349ef2bef62ebcc0e741f7447df761a36d5a87ed8"
+	},
+	"chromas": []
+}
