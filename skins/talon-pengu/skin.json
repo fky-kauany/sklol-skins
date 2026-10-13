@@ -1,0 +1,26 @@
+{
+	"id": "talon-pengu",
+	"name": "Pengu",
+	"champion": 91,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/pengu-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-pengu/thumb.webp?v=8f3d08ee",
+	"file": {
+		"version": 1,
+		"asset": "talon-pengu-v1.fantome",
+		"size": 7811424,
+		"sha256": "d0cecbf5a86afeed1dc73929f759de684a5e706151d70a4ee0ed3549722065bf"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:40:23.434Z",
+	"generatedAt": "2026-10-13T06:43:35.789Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -17777,6 +17777,261 @@
 				"asset": "talon-adidas-v1.fantome",
 				"size": 4073754,
 				"sha256": "0e0515ffb3bbc3bca6d1655edb0ad6264bac92d8694ddc960437de9c3d8a63a3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-atsushi-murasakibara",
+			"name": "Talon Atsushi Murasakibara",
+			"champion": 91,
+			"base": 0,
+			"creator": "stritzzz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-atsushi-murasakibara/thumb.webp?v=ca11bd6b",
+			"file": {
+				"version": 1,
+				"asset": "talon-atsushi-murasakibara-v1.fantome",
+				"size": 7922508,
+				"sha256": "51395aee89a00b28a73add56bfc935e3ad6a2f39a683d7e86600d7cf30095da5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-chromas",
+			"name": "Talon Chromas",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-chromas/thumb.webp?v=593f3c72",
+			"file": {
+				"version": 1,
+				"asset": "talon-chromas-v1.fantome",
+				"size": 6446297,
+				"sha256": "c9e0dce13ff18f340c319af384e3e18488e2ce6641b1f5080b2e2bc8ddcd2b8e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-daiki-aomine",
+			"name": "Talon - Daiki Aomine",
+			"champion": 91,
+			"base": 0,
+			"creator": "stritzzz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-daiki-aomine/thumb.webp?v=b56bb8d0",
+			"file": {
+				"version": 1,
+				"asset": "talon-daiki-aomine-v1.fantome",
+				"size": 8173011,
+				"sha256": "8eb58b3298b6d053b02d555e0e750866eb8415683e20697ec67c5d5a25e9ef75"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-genji",
+			"name": "Genji",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-genji/thumb.webp?v=fd9aaa9c",
+			"file": {
+				"version": 1,
+				"asset": "talon-genji-v1.fantome",
+				"size": 21886475,
+				"sha256": "bf6626aeca3151b530b68b82b2ab30af2feff28e3dedf46c6e349ced1015da2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-ghostface",
+			"name": "Ghostface",
+			"champion": 91,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-ghostface/thumb.webp?v=04082f21",
+			"file": {
+				"version": 1,
+				"asset": "talon-ghostface-v1.fantome",
+				"size": 15460398,
+				"sha256": "8fc5e17575337be15c0675ddbe3ec2f4ee7ebc66e95cec4708bc1cb8886c3e05"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-igris-red",
+			"name": "Igris Red",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-igris-red/thumb.webp?v=75104135",
+			"file": {
+				"version": 1,
+				"asset": "talon-igris-red-v1.fantome",
+				"size": 20180166,
+				"sha256": "b3f19ed303abd25c3a1abe4b8e948c1d427bb9dd99f7b034d93b24c052f84745"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-mahoraga",
+			"name": "Talon Mahoraga",
+			"champion": 91,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-mahoraga/thumb.webp?v=2fd574f0",
+			"file": {
+				"version": 1,
+				"asset": "talon-mahoraga-v1.fantome",
+				"size": 3477630,
+				"sha256": "1d2c75dd755af5492bc66e6cd80d25e3dcd98281030732faf479294936911fed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-mikasa",
+			"name": "Talon Mikasa",
+			"champion": 91,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-mikasa/thumb.webp?v=71f65ea5",
+			"file": {
+				"version": 1,
+				"asset": "talon-mikasa-v1.fantome",
+				"size": 6450192,
+				"sha256": "221eefa9c1b2a415780f0cd493a626c17081ebdf9ca0270c6262e5191a698c57"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-pengu",
+			"name": "Pengu",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-pengu/thumb.webp?v=8f3d08ee",
+			"file": {
+				"version": 1,
+				"asset": "talon-pengu-v1.fantome",
+				"size": 7811424,
+				"sha256": "d0cecbf5a86afeed1dc73929f759de684a5e706151d70a4ee0ed3549722065bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-ryota-kise",
+			"name": "Talon - Ryota Kise",
+			"champion": 91,
+			"base": 0,
+			"creator": "stritzzz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-ryota-kise/thumb.webp?v=f9a801ea",
+			"file": {
+				"version": 1,
+				"asset": "talon-ryota-kise-v1.fantome",
+				"size": 8140762,
+				"sha256": "b851c19271965247eb5326b3680ff45e9ccf7ae6bc3855e0979cfeb6136dd677"
 			},
 			"chromas": []
 		},

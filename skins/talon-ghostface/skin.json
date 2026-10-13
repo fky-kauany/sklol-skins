@@ -1,0 +1,24 @@
+{
+	"id": "talon-ghostface",
+	"name": "Ghostface",
+	"champion": 91,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Ghostface Talon • Custom Model • Custom Abilities • Works on every Talon skin\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/ghostface-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-ghostface/thumb.webp?v=04082f21",
+	"file": {
+		"version": 1,
+		"asset": "talon-ghostface-v1.fantome",
+		"size": 15460398,
+		"sha256": "8fc5e17575337be15c0675ddbe3ec2f4ee7ebc66e95cec4708bc1cb8886c3e05"
+	},
+	"chromas": []
+}

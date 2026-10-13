@@ -1,0 +1,26 @@
+{
+	"id": "talon-genji",
+	"name": "Genji",
+	"champion": 91,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/genji-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-genji/thumb.webp?v=fd9aaa9c",
+	"file": {
+		"version": 1,
+		"asset": "talon-genji-v1.fantome",
+		"size": 21886475,
+		"sha256": "bf6626aeca3151b530b68b82b2ab30af2feff28e3dedf46c6e349ced1015da2c"
+	},
+	"chromas": []
+}

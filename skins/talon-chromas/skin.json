@@ -1,0 +1,26 @@
+{
+	"id": "talon-chromas",
+	"name": "Talon Chromas",
+	"champion": 91,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:**  etc.\n**Modified Skin(s):** All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n\n### ? Credits\n\n**Model(s):**\n**Special Thanks:**\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n\n### ? Support Me\n\nEnjoyed the mod? Help fuel future projects: [Donate](#)\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/talon-chromas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-chromas/thumb.webp?v=593f3c72",
+	"file": {
+		"version": 1,
+		"asset": "talon-chromas-v1.fantome",
+		"size": 6446297,
+		"sha256": "c9e0dce13ff18f340c319af384e3e18488e2ce6641b1f5080b2e2bc8ddcd2b8e"
+	},
+	"chromas": []
+}

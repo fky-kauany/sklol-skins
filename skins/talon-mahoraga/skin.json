@@ -1,0 +1,26 @@
+{
+	"id": "talon-mahoraga",
+	"name": "Talon Mahoraga",
+	"champion": 91,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MAHORAGA 」\r\n### *Replaces Talon*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/talon-mahoraga\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-mahoraga/thumb.webp?v=2fd574f0",
+	"file": {
+		"version": 1,
+		"asset": "talon-mahoraga-v1.fantome",
+		"size": 3477630,
+		"sha256": "1d2c75dd755af5492bc66e6cd80d25e3dcd98281030732faf479294936911fed"
+	},
+	"chromas": []
+}

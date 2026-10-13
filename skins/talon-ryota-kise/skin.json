@@ -1,0 +1,25 @@
+{
+	"id": "talon-ryota-kise",
+	"name": "Talon - Ryota Kise",
+	"champion": 91,
+	"base": 0,
+	"creator": "stritzzz",
+	"description": "**You can vote on Discord for the next series of skins (8days left)** [discord](https://discord.gg/mwDmC5JMnf)\n### 🧾 Credits\n\n**Special Thanks:** [gyeinjik](https://linktr.ee/gyeinjik)\n\n\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: [Donate](https://ko-fi.com/stritzzz) [YT](https://ko-fi.com/stritzzz)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Stritzzz](https://www.divineskins.gg/Stritzzz)\n\n**Original:** https://www.divineskins.gg/Stritzzz/talon-ryota-kise\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-ryota-kise/thumb.webp?v=f9a801ea",
+	"file": {
+		"version": 1,
+		"asset": "talon-ryota-kise-v1.fantome",
+		"size": 8140762,
+		"sha256": "b851c19271965247eb5326b3680ff45e9ccf7ae6bc3855e0979cfeb6136dd677"
+	},
+	"chromas": []
+}

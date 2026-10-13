@@ -1,0 +1,25 @@
+{
+	"id": "talon-atsushi-murasakibara",
+	"name": "Talon Atsushi Murasakibara",
+	"champion": 91,
+	"base": 0,
+	"creator": "stritzzz",
+	"description": "### 🧾 Credits\n\n**Special Thanks:** [gyeinjik](https://linktr.ee/gyeinjik)\n\n\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: [Donate](https://ko-fi.com/stritzzz) [YT](https://ko-fi.com/stritzzz)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Stritzzz](https://www.divineskins.gg/Stritzzz)\n\n**Original:** https://www.divineskins.gg/Stritzzz/talon-atsushi-murasakibara\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-atsushi-murasakibara/thumb.webp?v=ca11bd6b",
+	"file": {
+		"version": 1,
+		"asset": "talon-atsushi-murasakibara-v1.fantome",
+		"size": 7922508,
+		"sha256": "51395aee89a00b28a73add56bfc935e3ad6a2f39a683d7e86600d7cf30095da5"
+	},
+	"chromas": []
+}
