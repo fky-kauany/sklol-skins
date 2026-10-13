@@ -1,0 +1,26 @@
+{
+	"id": "yone-ulquiorra",
+	"name": "Ulquiorra",
+	"champion": 777,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Ulquiorra Cifer Yone\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Yone skin\r\n• Custom Voiceover of Ulquiorra Cifer (only for en_US league version)\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/ulquiorra-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yone-ulquiorra/thumb.webp?v=94270c6e",
+	"file": {
+		"version": 1,
+		"asset": "yone-ulquiorra-v1.fantome",
+		"size": 28038181,
+		"sha256": "70aac95b44d5f8ab146741c19c0c0371f791879880f8cd5a7fee9205f5f5fe5d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "yoruichi-zeri",
+	"name": "Yoruichi Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Commission for 000000010009\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/yoruichi-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yoruichi-zeri/thumb.webp?v=f7fe3179",
+	"file": {
+		"version": 1,
+		"asset": "yoruichi-zeri-v1.fantome",
+		"size": 12912951,
+		"sha256": "b36d9062a0f1efc6d7f95634fc3eef59251246e25614d4a876b8f124495360a8"
+	},
+	"chromas": []
+}

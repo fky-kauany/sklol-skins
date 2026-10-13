@@ -1,0 +1,26 @@
+{
+	"id": "yorick-geto",
+	"name": "Geto",
+	"champion": 83,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/geto-yorick\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yorick-geto/thumb.webp?v=7c4b7d28",
+	"file": {
+		"version": 1,
+		"asset": "yorick-geto-v1.fantome",
+		"size": 11866101,
+		"sha256": "0ba93a9ef98fa671aebf11197226f4214665d73a903a821af2cf666ca13689e3"
+	},
+	"chromas": []
+}

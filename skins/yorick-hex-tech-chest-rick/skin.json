@@ -1,0 +1,26 @@
+{
+	"id": "yorick-hex-tech-chest-rick",
+	"name": "Hex Tech Chest Rick",
+	"champion": 83,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/hex-tech-chest-rick\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yorick-hex-tech-chest-rick/thumb.webp?v=feb4ca1d",
+	"file": {
+		"version": 1,
+		"asset": "yorick-hex-tech-chest-rick-v1.fantome",
+		"size": 18416287,
+		"sha256": "cfbd7eac7343bb756093a0563bdf9532aaa5e8d59634236047f466ec6b49879f"
+	},
+	"chromas": []
+}

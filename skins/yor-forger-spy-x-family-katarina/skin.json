@@ -1,0 +1,26 @@
+{
+	"id": "yor-forger-spy-x-family-katarina",
+	"name": "Yor Forger SPY x FAMILY Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "antton",
+	"description": "This custom skin brings Yor Forger from SPY x FAMILY into League of Legends.\r\n\r\nTake control of Yor on the Rift and experience Katarina through a full visual rework inspired by the Thorn Princess.\r\n\r\nThis skin delivers an elegant assassin-themed version of Katarina with a complete visual identity.\r\n\r\n**Features**\r\n\r\n- Reworked 3D model\r\n- Custom loading screen\r\n- Modified ability icons\r\n- Reworked ability VFX\r\n- Official Japanese SPY x FAMILY voicelines\r\n- Full animation reworks\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/yor-forger-spy-x-family-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yor-forger-spy-x-family-katarina/thumb.webp?v=17083c92",
+	"file": {
+		"version": 1,
+		"asset": "yor-forger-spy-x-family-katarina-v1.fantome",
+		"size": 9107671,
+		"sha256": "209691f0aa4c177c711b1bdd86eb613578110dafbb05e683f27dfbb14e31624d"
+	},
+	"chromas": []
+}

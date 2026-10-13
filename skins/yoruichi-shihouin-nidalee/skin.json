@@ -1,0 +1,26 @@
+{
+	"id": "yoruichi-shihouin-nidalee",
+	"name": "Yoruichi Shihouin - Nidalee",
+	"champion": 76,
+	"base": 0,
+	"creator": "kesa",
+	"description": "# **DISCORD: hanmada**\r\n\r\n### **DM IF SOMETHING BREAKS**\r\n**(or if you wanna commision)**\r\n\r\n#\r\n\r\n\r\nThis custom skin transforms **Nidalee** into **Yoruichi Shihouin** from **Bleach**\r\n\r\n**? Features**\r\n\r\n- **Custom Model**\r\n\r\n**High-quality Yoruichi Shihouin model**\r\n**High-quality Yoruichi Shihouin cat form model**\r\n**High-quality Thunder Spear model**\r\n\r\n- **Custom SFX**\r\n**Custom Voice Lines**\r\n\r\n**Yoruichi Shihouin–inspired voice lines**\r\n#\r\n- **Full Skin Compatibility**\r\n\r\n  **Works on ALL Nidalee skins**\n\n---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/yoruichi-shihouin-nidalee\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yoruichi-shihouin-nidalee/thumb.webp?v=705d2edb",
+	"file": {
+		"version": 1,
+		"asset": "yoruichi-shihouin-nidalee-v1.fantome",
+		"size": 12291440,
+		"sha256": "0748cc8e0f90b6ce6473e73272a7df1c9e2d949dbb89eb08eb972452c45a4d6e"
+	},
+	"chromas": []
+}

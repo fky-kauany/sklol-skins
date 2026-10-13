@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:43:19.305Z",
+	"generatedAt": "2026-10-13T07:46:34.325Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -22630,6 +22630,263 @@
 				"asset": "yone-roronoa-zoro-v1.fantome",
 				"size": 41041426,
 				"sha256": "5ca699e1e6e2dd8c1a6ea774a57a34ec522f328ea9b73fc44973085eb119038b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-sungjinwoo",
+			"name": "Sungjinwoo",
+			"champion": 777,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-sungjinwoo/thumb.webp?v=cadffa4f",
+			"file": {
+				"version": 1,
+				"asset": "yone-sungjinwoo-v1.fantome",
+				"size": 29092878,
+				"sha256": "e310006fdbbdf895b80061c500719cbb7b7efc8071ac2077bfd9466bd4f9d3fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-ulquiorra",
+			"name": "Ulquiorra",
+			"champion": 777,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-ulquiorra/thumb.webp?v=94270c6e",
+			"file": {
+				"version": 1,
+				"asset": "yone-ulquiorra-v1.fantome",
+				"size": 28038181,
+				"sha256": "70aac95b44d5f8ab146741c19c0c0371f791879880f8cd5a7fee9205f5f5fe5d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yor-forger-spy-x-family-katarina",
+			"name": "Yor Forger SPY x FAMILY Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yor-forger-spy-x-family-katarina/thumb.webp?v=17083c92",
+			"file": {
+				"version": 1,
+				"asset": "yor-forger-spy-x-family-katarina-v1.fantome",
+				"size": 9107671,
+				"sha256": "209691f0aa4c177c711b1bdd86eb613578110dafbb05e683f27dfbb14e31624d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yorick-geto",
+			"name": "Geto",
+			"champion": 83,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yorick-geto/thumb.webp?v=7c4b7d28",
+			"file": {
+				"version": 1,
+				"asset": "yorick-geto-v1.fantome",
+				"size": 11866101,
+				"sha256": "0ba93a9ef98fa671aebf11197226f4214665d73a903a821af2cf666ca13689e3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yorick-hex-tech-chest-rick",
+			"name": "Hex Tech Chest Rick",
+			"champion": 83,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yorick-hex-tech-chest-rick/thumb.webp?v=feb4ca1d",
+			"file": {
+				"version": 1,
+				"asset": "yorick-hex-tech-chest-rick-v1.fantome",
+				"size": 18416287,
+				"sha256": "cfbd7eac7343bb756093a0563bdf9532aaa5e8d59634236047f466ec6b49879f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yorick-labubu-ghouls",
+			"name": "Yorick Labubu ghouls",
+			"champion": 83,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yorick-labubu-ghouls/thumb.webp?v=2496ec06",
+			"file": {
+				"version": 1,
+				"asset": "yorick-labubu-ghouls-v1.fantome",
+				"size": 3190636,
+				"sha256": "f970d2031ed12d85ec61d7cf469241c7aa84aefa50a4e06396af2f5916e73792"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yoriichi-yasuo",
+			"name": "Yoriichi Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yoriichi-yasuo/thumb.webp?v=e9e9875c",
+			"file": {
+				"version": 1,
+				"asset": "yoriichi-yasuo-v1.fantome",
+				"size": 20236572,
+				"sha256": "36bcd496c7a33ab8fda29ae675d7fbfec691505008d8d80aa15208fde823f1a9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yoruichi-shihouin-nidalee",
+			"name": "Yoruichi Shihouin - Nidalee",
+			"champion": 76,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yoruichi-shihouin-nidalee/thumb.webp?v=705d2edb",
+			"file": {
+				"version": 1,
+				"asset": "yoruichi-shihouin-nidalee-v1.fantome",
+				"size": 12291440,
+				"sha256": "0748cc8e0f90b6ce6473e73272a7df1c9e2d949dbb89eb08eb972452c45a4d6e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yoruichi-yunara",
+			"name": "Yoruichi Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yoruichi-yunara/thumb.webp?v=001ba592",
+			"file": {
+				"version": 1,
+				"asset": "yoruichi-yunara-v1.fantome",
+				"size": 16585538,
+				"sha256": "4882f70300acd5bf35554dfcee926ab6e46b25b38f202b409f79a55b0df430dd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yoruichi-zeri",
+			"name": "Yoruichi Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yoruichi-zeri/thumb.webp?v=f7fe3179",
+			"file": {
+				"version": 1,
+				"asset": "yoruichi-zeri-v1.fantome",
+				"size": 12912951,
+				"sha256": "b36d9062a0f1efc6d7f95634fc3eef59251246e25614d4a876b8f124495360a8"
 			},
 			"chromas": []
 		},

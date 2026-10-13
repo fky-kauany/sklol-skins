@@ -1,0 +1,23 @@
+{
+	"id": "yorick-labubu-ghouls",
+	"name": "Yorick Labubu ghouls",
+	"champion": 83,
+	"base": 0,
+	"creator": "seweski",
+	"description": "Changes Yoricks ghouls to labubus\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/yorick-labubu-ghouls\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yorick-labubu-ghouls/thumb.webp?v=2496ec06",
+	"file": {
+		"version": 1,
+		"asset": "yorick-labubu-ghouls-v1.fantome",
+		"size": 3190636,
+		"sha256": "f970d2031ed12d85ec61d7cf469241c7aa84aefa50a4e06396af2f5916e73792"
+	},
+	"chromas": []
+}

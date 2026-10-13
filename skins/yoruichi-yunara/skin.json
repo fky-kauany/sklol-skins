@@ -1,0 +1,26 @@
+{
+	"id": "yoruichi-yunara",
+	"name": "Yoruichi Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/yoruichi-yunara\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yoruichi-yunara/thumb.webp?v=001ba592",
+	"file": {
+		"version": 1,
+		"asset": "yoruichi-yunara-v1.fantome",
+		"size": 16585538,
+		"sha256": "4882f70300acd5bf35554dfcee926ab6e46b25b38f202b409f79a55b0df430dd"
+	},
+	"chromas": []
+}
