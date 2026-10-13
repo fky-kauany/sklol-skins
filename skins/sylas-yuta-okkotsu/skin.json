@@ -1,0 +1,26 @@
+{
+	"id": "sylas-yuta-okkotsu",
+	"name": "Yuta Okkotsu",
+	"champion": 517,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Yuta Okkotsu Sylas\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Sylas skin\r\n• Custom Voiceover of Yuta Okkotsu (only for en_US league version)\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/yuta-okkotsu-sylas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sylas-yuta-okkotsu/thumb.webp?v=837e5d28",
+	"file": {
+		"version": 1,
+		"asset": "sylas-yuta-okkotsu-v1.fantome",
+		"size": 9890163,
+		"sha256": "6ff63fd5165f2ae9ed3f53c3579eb3e0b64db54671bd735b732aec6ab06102a2"
+	},
+	"chromas": []
+}

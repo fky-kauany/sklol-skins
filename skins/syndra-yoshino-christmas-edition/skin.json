@@ -1,0 +1,26 @@
+{
+	"id": "syndra-yoshino-christmas-edition",
+	"name": "Syndra Yoshino (Christmas Edition)",
+	"champion": 134,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 YOSHINO CHRISTMAS EDITION 」\r\n### *Replaces Syndra*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/syndra-yoshino-christmas-edition\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/syndra-yoshino-christmas-edition/thumb.webp?v=fee4d99b",
+	"file": {
+		"version": 1,
+		"asset": "syndra-yoshino-christmas-edition-v1.fantome",
+		"size": 10316304,
+		"sha256": "ab9cd4ac8e6f55a5b382e5aaee638e05ec09b48c5f8ee6e944bd8a1980062be0"
+	},
+	"chromas": []
+}

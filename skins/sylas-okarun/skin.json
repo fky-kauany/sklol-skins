@@ -1,0 +1,25 @@
+{
+	"id": "sylas-okarun",
+	"name": "Okarun",
+	"champion": 517,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Okarun Sylas • Custom model • Custom Abilities • Custom Voiceover of Okarun • Works on every Sylas skin\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/okarun-sylas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sylas-okarun/thumb.webp?v=76bbf0ca",
+	"file": {
+		"version": 1,
+		"asset": "sylas-okarun-v1.fantome",
+		"size": 14447940,
+		"sha256": "d47621d585066155b04e7bf8f3e773e6da642d5f2ab07b57964294cea314f378"
+	},
+	"chromas": []
+}

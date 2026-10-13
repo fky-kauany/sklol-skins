@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:33:46.291Z",
+	"generatedAt": "2026-10-13T06:37:00.598Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -17265,6 +17265,264 @@
 				"asset": "sylas-as-scorpion-v1.fantome",
 				"size": 1458850,
 				"sha256": "252042c3c5d9080296ff5e837edfc99dd07b7785080da52a8634c995c0068a93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-okarun",
+			"name": "Okarun",
+			"champion": 517,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylas-okarun/thumb.webp?v=76bbf0ca",
+			"file": {
+				"version": 1,
+				"asset": "sylas-okarun-v1.fantome",
+				"size": 14447940,
+				"sha256": "d47621d585066155b04e7bf8f3e773e6da642d5f2ab07b57964294cea314f378"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-rem",
+			"name": "Rem",
+			"champion": 517,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylas-rem/thumb.webp?v=9bc9922a",
+			"file": {
+				"version": 1,
+				"asset": "sylas-rem-v1.fantome",
+				"size": 29565796,
+				"sha256": "fccb645165f6527e2ee7a256318a08c517136d94c38526b44099d4856ee6d36e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-sung-jinwoo",
+			"name": "Sung Jinwoo",
+			"champion": 517,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylas-sung-jinwoo/thumb.webp?v=90fe3e66",
+			"file": {
+				"version": 1,
+				"asset": "sylas-sung-jinwoo-v1.fantome",
+				"size": 15241610,
+				"sha256": "a91278fba13c77b1aa200a30af892e9cf162c539e65bb464a6ae0af3055b7dbb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-toji",
+			"name": "Sylas Toji",
+			"champion": 517,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylas-toji/thumb.webp?v=9bb39082",
+			"file": {
+				"version": 1,
+				"asset": "sylas-toji-v1.fantome",
+				"size": 13233542,
+				"sha256": "e88f300e27ae22fc9802304c102362a9597af4c6340cc31de2a5863fd2d8e0af"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-yuta-okkotsu",
+			"name": "Yuta Okkotsu",
+			"champion": 517,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylas-yuta-okkotsu/thumb.webp?v=837e5d28",
+			"file": {
+				"version": 1,
+				"asset": "sylas-yuta-okkotsu-v1.fantome",
+				"size": 9890163,
+				"sha256": "6ff63fd5165f2ae9ed3f53c3579eb3e0b64db54671bd735b732aec6ab06102a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylvanas-windrunner-ashe",
+			"name": "Sylvanas Windrunner Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sylvanas-windrunner-ashe/thumb.webp?v=c3973c6c",
+			"file": {
+				"version": 1,
+				"asset": "sylvanas-windrunner-ashe-v1.fantome",
+				"size": 6581261,
+				"sha256": "d0c305a7b722f225fb56641a2e1be1a71061f697c781cea0ab4a84131a095522"
+			},
+			"chromas": []
+		},
+		{
+			"id": "syndra-fubuki",
+			"name": "Syndra Fubuki",
+			"champion": 134,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/syndra-fubuki/thumb.webp?v=7bd07436",
+			"file": {
+				"version": 1,
+				"asset": "syndra-fubuki-v1.fantome",
+				"size": 11969416,
+				"sha256": "14a5a5ef5784dc3ddcc5a17ceb5ed65187ad8ba74af14e8144f4bc30826bd520"
+			},
+			"chromas": []
+		},
+		{
+			"id": "syndra-kurumi",
+			"name": "Syndra Kurumi",
+			"champion": 134,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/syndra-kurumi/thumb.webp?v=88c71e34",
+			"file": {
+				"version": 1,
+				"asset": "syndra-kurumi-v1.fantome",
+				"size": 13356550,
+				"sha256": "387fc165bfe6960a77454b73e3d8e7da0546ad81377795634818fb465682ccfc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "syndra-ochaco",
+			"name": "Syndra Ochaco",
+			"champion": 134,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/syndra-ochaco/thumb.webp?v=0c637ed4",
+			"file": {
+				"version": 1,
+				"asset": "syndra-ochaco-v1.fantome",
+				"size": 13478462,
+				"sha256": "78a25878cf09c7b85cd381c8b51e3fecd61211ebb8aef4fbab13725b66a717fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "syndra-yoshino-christmas-edition",
+			"name": "Syndra Yoshino (Christmas Edition)",
+			"champion": 134,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/syndra-yoshino-christmas-edition/thumb.webp?v=fee4d99b",
+			"file": {
+				"version": 1,
+				"asset": "syndra-yoshino-christmas-edition-v1.fantome",
+				"size": 10316304,
+				"sha256": "ab9cd4ac8e6f55a5b382e5aaee638e05ec09b48c5f8ee6e944bd8a1980062be0"
 			},
 			"chromas": []
 		},

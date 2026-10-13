@@ -1,0 +1,26 @@
+{
+	"id": "syndra-ochaco",
+	"name": "Syndra Ochaco",
+	"champion": 134,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 OCHACO URARAKA 」\n### *Replaces Syndra*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/syndra-ochaco\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/syndra-ochaco/thumb.webp?v=0c637ed4",
+	"file": {
+		"version": 1,
+		"asset": "syndra-ochaco-v1.fantome",
+		"size": 13478462,
+		"sha256": "78a25878cf09c7b85cd381c8b51e3fecd61211ebb8aef4fbab13725b66a717fe"
+	},
+	"chromas": []
+}

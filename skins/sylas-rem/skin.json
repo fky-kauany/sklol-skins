@@ -1,0 +1,26 @@
+{
+	"id": "sylas-rem",
+	"name": "Rem",
+	"champion": 517,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/rem-sylas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sylas-rem/thumb.webp?v=9bc9922a",
+	"file": {
+		"version": 1,
+		"asset": "sylas-rem-v1.fantome",
+		"size": 29565796,
+		"sha256": "fccb645165f6527e2ee7a256318a08c517136d94c38526b44099d4856ee6d36e"
+	},
+	"chromas": []
+}

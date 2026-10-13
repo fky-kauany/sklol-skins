@@ -1,0 +1,26 @@
+{
+	"id": "sylvanas-windrunner-ashe",
+	"name": "Sylvanas Windrunner Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "antton",
+	"description": "Sylvanas Windrunner – Ashe Custom Skin\r\n\r\nThis custom skin brings Sylvanas Windrunner from World of Warcraft into League of Legends, transforming Ashe into the iconic Banshee Queen.\r\n\r\nTake control of Sylvanas on the Rift and experience Ashe through a full visual rework based on the World of Warcraft character.\r\n\r\nThis skin delivers a dark fantasy version of Ashe with a complete Sylvanas-themed identity and atmosphere.\r\n\r\nFeatures\r\nReworked 3D model\r\nCustom loading screen\r\nModified ability icons\r\nFully reworked VFX\r\n\r\nThe skin will continue to evolve through future updates, so stay tuned.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/sylvanas-windrunner-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sylvanas-windrunner-ashe/thumb.webp?v=c3973c6c",
+	"file": {
+		"version": 1,
+		"asset": "sylvanas-windrunner-ashe-v1.fantome",
+		"size": 6581261,
+		"sha256": "d0c305a7b722f225fb56641a2e1be1a71061f697c781cea0ab4a84131a095522"
+	},
+	"chromas": []
+}
