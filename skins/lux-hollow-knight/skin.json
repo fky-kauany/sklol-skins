@@ -1,0 +1,26 @@
+{
+	"id": "lux-hollow-knight",
+	"name": "Hollow Knight",
+	"champion": 99,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/hollow-knight-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lux-hollow-knight/thumb.webp?v=720839dc",
+	"file": {
+		"version": 1,
+		"asset": "lux-hollow-knight-v1.fantome",
+		"size": 18597087,
+		"sha256": "f306d2824088b93154900a00ac8a3ceff6f3873c1e7d88ddeda8d1fc347a064f"
+	},
+	"chromas": []
+}

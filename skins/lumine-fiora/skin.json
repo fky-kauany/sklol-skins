@@ -1,0 +1,26 @@
+{
+	"id": "lumine-fiora",
+	"name": "Lumine Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Lumine Fiora\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/lumine-fiora\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lumine-fiora/thumb.webp?v=ec8f65d8",
+	"file": {
+		"version": 1,
+		"asset": "lumine-fiora-v1.fantome",
+		"size": 11151950,
+		"sha256": "05b7a7f44dccf3a05866558d33fec959262fc17a0aa964ee0cd9f2b56bc4381a"
+	},
+	"chromas": []
+}

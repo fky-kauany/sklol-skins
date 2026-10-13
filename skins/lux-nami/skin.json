@@ -1,0 +1,26 @@
+{
+	"id": "lux-nami",
+	"name": "Lux Nami",
+	"champion": 99,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 NAMI 」\r\n### *Replaces Lux*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/lux-nami\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lux-nami/thumb.webp?v=fb6dba10",
+	"file": {
+		"version": 1,
+		"asset": "lux-nami-v1.fantome",
+		"size": 10497856,
+		"sha256": "c9a4d10f59f2bfb8bb0b1ca95f03bbe7d6f9a8d9908d119d3324e1ca4ae71753"
+	},
+	"chromas": []
+}

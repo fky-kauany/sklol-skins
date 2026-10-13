@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:27:48.233Z",
+	"generatedAt": "2026-10-13T04:31:03.591Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -7445,6 +7445,266 @@
 				"asset": "lucy-cyberpunk-edgerunners-evelynn-v1.fantome",
 				"size": 13107547,
 				"sha256": "e6886d9ac61c47b1cf7f417b053541fe2230c35a1b4e573bfa24e255c9d542d0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucy-jinx-fixed",
+			"name": "Lucy - Jinx (Fixed)",
+			"champion": 222,
+			"base": 0,
+			"creator": "magnaplayer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lucy-jinx-fixed/thumb.webp?v=0bac0506",
+			"file": {
+				"version": 1,
+				"asset": "lucy-jinx-fixed-v1.fantome",
+				"size": 8729817,
+				"sha256": "6a4907f69a16a7a5533b19bd11bce871c6d130e26a0003b3244e6ef48aa10b8f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "luigi-dealer-twisted-fate",
+			"name": "Luigi Dealer Twisted Fate",
+			"champion": 4,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/luigi-dealer-twisted-fate/thumb.webp?v=6647357e",
+			"file": {
+				"version": 1,
+				"asset": "luigi-dealer-twisted-fate-v1.fantome",
+				"size": 10898129,
+				"sha256": "df837ae6388486e686044f47f61f11a1943dda4aa902c9b948a97a7b3554f560"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lumberjack-draven",
+			"name": "Lumberjack Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lumberjack-draven/thumb.webp?v=576577d4",
+			"file": {
+				"version": 1,
+				"asset": "lumberjack-draven-v1.fantome",
+				"size": 4352068,
+				"sha256": "7e4257d2f659fae05e6a9993889c29d924c7d445aba3cb933a0e0cad6acf0f42"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lumine-fiora",
+			"name": "Lumine Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lumine-fiora/thumb.webp?v=ec8f65d8",
+			"file": {
+				"version": 1,
+				"asset": "lumine-fiora-v1.fantome",
+				"size": 11151950,
+				"sha256": "05b7a7f44dccf3a05866558d33fec959262fc17a0aa964ee0cd9f2b56bc4381a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lupa-xin-zhao",
+			"name": "Lupa Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "12371234asd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lupa-xin-zhao/thumb.webp?v=4447bdca",
+			"file": {
+				"version": 1,
+				"asset": "lupa-xin-zhao-v1.fantome",
+				"size": 40836223,
+				"sha256": "b8cce9ea617f1b4edcffd3a2521ae315cf9eb4ddcfcfd441b4ce33d76b1bc775"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lux-frieren",
+			"name": "Frieren",
+			"champion": 99,
+			"base": 0,
+			"creator": "oyashxro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lux-frieren/thumb.webp?v=84627f86",
+			"file": {
+				"version": 1,
+				"asset": "lux-frieren-v1.fantome",
+				"size": 11584129,
+				"sha256": "6261bd5162bdf9eea420bd48ecaaf567defed23972e5488d38259b163a12a335"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lux-hollow-knight",
+			"name": "Hollow Knight",
+			"champion": 99,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lux-hollow-knight/thumb.webp?v=720839dc",
+			"file": {
+				"version": 1,
+				"asset": "lux-hollow-knight-v1.fantome",
+				"size": 18597087,
+				"sha256": "f306d2824088b93154900a00ac8a3ceff6f3873c1e7d88ddeda8d1fc347a064f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lux-megumin",
+			"name": "Megumin",
+			"champion": 99,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lux-megumin/thumb.webp?v=a691d2e5",
+			"file": {
+				"version": 1,
+				"asset": "lux-megumin-v1.fantome",
+				"size": 39616933,
+				"sha256": "629c138dcf474dd320c9b1981c851b61c036068cf4e042139e6636f166ff4e29"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lux-minami-fuyuki",
+			"name": "Lux Minami Fuyuki",
+			"champion": 99,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lux-minami-fuyuki/thumb.webp?v=b5fdb490",
+			"file": {
+				"version": 1,
+				"asset": "lux-minami-fuyuki-v1.fantome",
+				"size": 8752984,
+				"sha256": "50695c224a354482750f035a6f72979b73ad659d45fb7c744206bba17a036d63"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lux-nami",
+			"name": "Lux Nami",
+			"champion": 99,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lux-nami/thumb.webp?v=fb6dba10",
+			"file": {
+				"version": 1,
+				"asset": "lux-nami-v1.fantome",
+				"size": 10497856,
+				"sha256": "c9a4d10f59f2bfb8bb0b1ca95f03bbe7d6f9a8d9908d119d3324e1ca4ae71753"
 			},
 			"chromas": []
 		},

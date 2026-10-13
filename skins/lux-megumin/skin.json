@@ -1,0 +1,26 @@
+{
+	"id": "lux-megumin",
+	"name": "Megumin",
+	"champion": 99,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/megumin-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lux-megumin/thumb.webp?v=a691d2e5",
+	"file": {
+		"version": 1,
+		"asset": "lux-megumin-v1.fantome",
+		"size": 39616933,
+		"sha256": "629c138dcf474dd320c9b1981c851b61c036068cf4e042139e6636f166ff4e29"
+	},
+	"chromas": []
+}

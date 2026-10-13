@@ -1,0 +1,26 @@
+{
+	"id": "lux-minami-fuyuki",
+	"name": "Lux Minami Fuyuki",
+	"champion": 99,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MINAMI FUYUKI 」\n### *Replaces Lux*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/lux-minami-fuyuki\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lux-minami-fuyuki/thumb.webp?v=b5fdb490",
+	"file": {
+		"version": 1,
+		"asset": "lux-minami-fuyuki-v1.fantome",
+		"size": 8752984,
+		"sha256": "50695c224a354482750f035a6f72979b73ad659d45fb7c744206bba17a036d63"
+	},
+	"chromas": []
+}

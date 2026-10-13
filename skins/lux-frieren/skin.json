@@ -1,0 +1,26 @@
+{
+	"id": "lux-frieren",
+	"name": "Frieren",
+	"champion": 99,
+	"base": 0,
+	"creator": "oyashxro",
+	"description": "Frieren Lux • Custom model • Custom Abilities • Works on every Lux skin • Custom Voiceover of Frieren\n\n---\n\n**Created by** [oyashxro](https://www.divineskins.gg/oyashxro)\n\n**Original:** https://www.divineskins.gg/oyashxro/frieren-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lux-frieren/thumb.webp?v=84627f86",
+	"file": {
+		"version": 1,
+		"asset": "lux-frieren-v1.fantome",
+		"size": 11584129,
+		"sha256": "6261bd5162bdf9eea420bd48ecaaf567defed23972e5488d38259b163a12a335"
+	},
+	"chromas": []
+}

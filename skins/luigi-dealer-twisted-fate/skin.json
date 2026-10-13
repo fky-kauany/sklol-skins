@@ -1,0 +1,26 @@
+{
+	"id": "luigi-dealer-twisted-fate",
+	"name": "Luigi Dealer Twisted Fate",
+	"champion": 4,
+	"base": 0,
+	"creator": "czcz",
+	"description": "Luigi Dealer from Luigi´s Casino, commissioned by Alex98000 (Cipra number 1)\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/luigi-dealer-twisted-fate\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/luigi-dealer-twisted-fate/thumb.webp?v=6647357e",
+	"file": {
+		"version": 1,
+		"asset": "luigi-dealer-twisted-fate-v1.fantome",
+		"size": 10898129,
+		"sha256": "df837ae6388486e686044f47f61f11a1943dda4aa902c9b948a97a7b3554f560"
+	},
+	"chromas": []
+}

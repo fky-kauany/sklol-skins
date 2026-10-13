@@ -1,0 +1,26 @@
+{
+	"id": "lupa-xin-zhao",
+	"name": "Lupa Xin Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "12371234asd",
+	"description": "---\n\n**Created by** [12371234asd](https://www.divineskins.gg/12371234asd)\n\n**Original:** https://www.divineskins.gg/12371234asd/lupa-xin-zhao\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lupa-xin-zhao/thumb.webp?v=4447bdca",
+	"file": {
+		"version": 1,
+		"asset": "lupa-xin-zhao-v1.fantome",
+		"size": 40836223,
+		"sha256": "b8cce9ea617f1b4edcffd3a2521ae315cf9eb4ddcfcfd441b4ce33d76b1bc775"
+	},
+	"chromas": []
+}

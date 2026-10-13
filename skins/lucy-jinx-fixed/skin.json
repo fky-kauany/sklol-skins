@@ -1,0 +1,26 @@
+{
+	"id": "lucy-jinx-fixed",
+	"name": "Lucy - Jinx (Fixed)",
+	"champion": 222,
+	"base": 0,
+	"creator": "magnaplayer",
+	"description": "# Lucy as Jinx\r\n\r\nBring the world of *Cyberpunk: Edgerunners* to the Rift with this Lucy replacement for Jinx.\r\n\r\nThis mod transforms Jinx into Lucy, featuring a custom model and animation adjustments designed to better match her appearance and style. Every effort has been made to make Lucy feel natural in-game while preserving Jinx's original gameplay and abilities.\r\n\r\nSeveral animations have been adapted by hand to fit the model. While a few may look slightly different from the base champion, they help create a more immersive and unique experience.\r\n\r\nWhether you're a fan of *Cyberpunk: Edgerunners* or simply looking for a fresh champion replacement, this mod lets you bring one of Night City's most iconic characters into League of Legends and wreak havoc across the Rift in style.\n\n---\n\n**Created by** [MagnaPlayer](https://www.divineskins.gg/MagnaPlayer)\n\n**Original:** https://www.divineskins.gg/MagnaPlayer/lucy-jinx\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lucy-jinx-fixed/thumb.webp?v=0bac0506",
+	"file": {
+		"version": 1,
+		"asset": "lucy-jinx-fixed-v1.fantome",
+		"size": 8729817,
+		"sha256": "6a4907f69a16a7a5533b19bd11bce871c6d130e26a0003b3244e6ef48aa10b8f"
+	},
+	"chromas": []
+}
