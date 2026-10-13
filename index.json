@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:33:11.330Z",
+	"generatedAt": "2026-10-13T05:36:30.302Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -12611,6 +12611,258 @@
 				"asset": "quakeguy-gangplank-v1.fantome",
 				"size": 6004887,
 				"sha256": "472f5289802272c54a833fe7f8b2d9c94d9733d88336b2fbe567090f9b79e63c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "radiant-moonstone-high-noon-yone",
+			"name": "Radiant Moonstone | High Noon Yone",
+			"champion": 777,
+			"base": 55,
+			"creator": "northoff",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/radiant-moonstone-high-noon-yone/thumb.webp?v=c05bfc6d",
+			"file": {
+				"version": 1,
+				"asset": "radiant-moonstone-high-noon-yone-v1.modpkg",
+				"size": 9977720,
+				"sha256": "10b496612382265fc8cbc741727d3920b74cc1e2faf6170f8e1834e85dffcf38"
+			},
+			"chromas": []
+		},
+		{
+			"id": "raiden-shogun-talon",
+			"name": "Raiden Shogun Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/raiden-shogun-talon/thumb.webp?v=47a57bb0",
+			"file": {
+				"version": 1,
+				"asset": "raiden-shogun-talon-v1.fantome",
+				"size": 18788659,
+				"sha256": "d904a216bec4b09099e12765760eb4d6d500ec85bf30b4732985c9d1d76dab75"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rainbow-akali",
+			"name": "Rainbow Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "thoxainn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rainbow-akali/thumb.webp?v=5a2ff89b",
+			"file": {
+				"version": 1,
+				"asset": "rainbow-akali-v1.fantome",
+				"size": 9412714,
+				"sha256": "62c98be18ebf9ac36552f29aaa94abd5cf041e5c58538171d33ea3b368aab651"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rainbow-zac",
+			"name": "Rainbow Zac",
+			"champion": 154,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rainbow-zac/thumb.webp?v=c15d9bcf",
+			"file": {
+				"version": 1,
+				"asset": "rainbow-zac-v1.fantome",
+				"size": 8816846,
+				"sha256": "537001b42257836b9622f7033e3557ee35dffecea862dd9d60b41c87701e1267"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rappa-akali",
+			"name": "Rappa Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rappa-akali/thumb.webp?v=d55e6783",
+			"file": {
+				"version": 1,
+				"asset": "rappa-akali-v1.fantome",
+				"size": 50985513,
+				"sha256": "125c5bc166d9dfc2b62f014f09c9214ae437a40ff87f08459319bc30c856e1a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rayquaza-aurelion-sol",
+			"name": "Rayquaza Aurelion Sol",
+			"champion": 136,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rayquaza-aurelion-sol/thumb.webp?v=731a7a5f",
+			"file": {
+				"version": 1,
+				"asset": "rayquaza-aurelion-sol-v1.fantome",
+				"size": 15477127,
+				"sha256": "82f85fc047960db9b5ec63f9bf7d49612483df479d58d3c081a4b43555f56ac5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "real-rat-twitch",
+			"name": "Real Rat Twitch",
+			"champion": 29,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/real-rat-twitch/thumb.webp?v=5b0cc0c6",
+			"file": {
+				"version": 1,
+				"asset": "real-rat-twitch-v1.fantome",
+				"size": 13764240,
+				"sha256": "32ac641d412087bf85b15134add99e3dc8f70561afa04d2a8ae36f110620ab7f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rebecca-jinx",
+			"name": "Rebecca Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rebecca-jinx/thumb.webp?v=607dc62b",
+			"file": {
+				"version": 1,
+				"asset": "rebecca-jinx-v1.fantome",
+				"size": 13351129,
+				"sha256": "c4b797da48d540e3ad35b3a6f4f9169c34229dae2d367258c6914a4f2c5d3de7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "recep-ivedik-gragas",
+			"name": "Recep İvedik Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/recep-ivedik-gragas/thumb.webp?v=d86b00f6",
+			"file": {
+				"version": 1,
+				"asset": "recep-ivedik-gragas-v1.fantome",
+				"size": 28653195,
+				"sha256": "3f444fd0113a12cdcdee2f44a8f29dcb461fcde8ada5e3871372bbfbdd1cf1c9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "red-amumu",
+			"name": "Red Amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/red-amumu/thumb.webp?v=2cec92e4",
+			"file": {
+				"version": 1,
+				"asset": "red-amumu-v1.fantome",
+				"size": 1493938,
+				"sha256": "c0670d6780aec657438a0f202753d7a15e562dda1f10b49f7326fb1ed566bdca"
 			},
 			"chromas": []
 		},

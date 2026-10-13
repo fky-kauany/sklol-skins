@@ -1,0 +1,26 @@
+{
+	"id": "radiant-moonstone-high-noon-yone",
+	"name": "Radiant Moonstone | High Noon Yone",
+	"champion": 777,
+	"base": 55,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Tezzed from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/radiant-moonstone-high-noon-yone\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/radiant-moonstone-high-noon-yone/thumb.webp?v=c05bfc6d",
+	"file": {
+		"version": 1,
+		"asset": "radiant-moonstone-high-noon-yone-v1.modpkg",
+		"size": 9977720,
+		"sha256": "10b496612382265fc8cbc741727d3920b74cc1e2faf6170f8e1834e85dffcf38"
+	},
+	"chromas": []
+}

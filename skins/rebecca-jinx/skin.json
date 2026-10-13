@@ -1,0 +1,26 @@
+{
+	"id": "rebecca-jinx",
+	"name": "Rebecca Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/rebecca-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rebecca-jinx/thumb.webp?v=607dc62b",
+	"file": {
+		"version": 1,
+		"asset": "rebecca-jinx-v1.fantome",
+		"size": 13351129,
+		"sha256": "c4b797da48d540e3ad35b3a6f4f9169c34229dae2d367258c6914a4f2c5d3de7"
+	},
+	"chromas": []
+}

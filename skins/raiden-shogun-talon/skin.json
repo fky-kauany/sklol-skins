@@ -1,0 +1,26 @@
+{
+	"id": "raiden-shogun-talon",
+	"name": "Raiden Shogun Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "### 📌 Mod Info\r\n**Type:** Custom Skin\r\n**Modified Skin(s):** All skins\r\n\r\n\r\n**Features:**\r\n- Custom model\r\n- Custom VFX\r\n- Custom Animations\r\n\r\n\r\n\r\n**Commissioned by:** Ewzio\r\n\r\n\r\n\r\n*Fan-made, not affiliated with Riot Games, Nintendo or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/raiden-shogun-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/raiden-shogun-talon/thumb.webp?v=47a57bb0",
+	"file": {
+		"version": 1,
+		"asset": "raiden-shogun-talon-v1.fantome",
+		"size": 18788659,
+		"sha256": "d904a216bec4b09099e12765760eb4d6d500ec85bf30b4732985c9d1d76dab75"
+	},
+	"chromas": []
+}

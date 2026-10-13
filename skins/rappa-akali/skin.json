@@ -1,0 +1,26 @@
+{
+	"id": "rappa-akali",
+	"name": "Rappa Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Rappa Aakli\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 2.2.2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/rappa-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rappa-akali/thumb.webp?v=d55e6783",
+	"file": {
+		"version": 1,
+		"asset": "rappa-akali-v1.fantome",
+		"size": 50985513,
+		"sha256": "125c5bc166d9dfc2b62f014f09c9214ae437a40ff87f08459319bc30c856e1a8"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "real-rat-twitch",
+	"name": "Real Rat Twitch",
+	"champion": 29,
+	"base": 0,
+	"creator": "czcz",
+	"description": "---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/real-rat-twitch\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/real-rat-twitch/thumb.webp?v=5b0cc0c6",
+	"file": {
+		"version": 1,
+		"asset": "real-rat-twitch-v1.fantome",
+		"size": 13764240,
+		"sha256": "32ac641d412087bf85b15134add99e3dc8f70561afa04d2a8ae36f110620ab7f"
+	},
+	"chromas": []
+}

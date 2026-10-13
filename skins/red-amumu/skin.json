@@ -1,0 +1,23 @@
+{
+	"id": "red-amumu",
+	"name": "Red Amumu",
+	"champion": 32,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Angry Birds Red Amumu\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.1.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/red-amumu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/red-amumu/thumb.webp?v=2cec92e4",
+	"file": {
+		"version": 1,
+		"asset": "red-amumu-v1.fantome",
+		"size": 1493938,
+		"sha256": "c0670d6780aec657438a0f202753d7a15e562dda1f10b49f7326fb1ed566bdca"
+	},
+	"chromas": []
+}

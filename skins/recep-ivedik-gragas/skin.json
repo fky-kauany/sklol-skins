@@ -1,0 +1,22 @@
+{
+	"id": "recep-ivedik-gragas",
+	"name": "Recep İvedik Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Gragas\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/recep-ivedik-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/recep-ivedik-gragas/thumb.webp?v=d86b00f6",
+	"file": {
+		"version": 1,
+		"asset": "recep-ivedik-gragas-v1.fantome",
+		"size": 28653195,
+		"sha256": "3f444fd0113a12cdcdee2f44a8f29dcb461fcde8ada5e3871372bbfbdd1cf1c9"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "rayquaza-aurelion-sol",
+	"name": "Rayquaza Aurelion Sol",
+	"champion": 136,
+	"base": 0,
+	"creator": "nyht",
+	"description": "# 🐉 Aurelion Sol → Rayquaza Mega Evolution Mod\n\n### Champion\n**Aurelion Sol**\n\n### Skin Replace\n**Base Skin**\n\n---\n\n# ✨ Unique Feature\n\n🌌 **Mega Evolution System**\n\nRayquaza undergoes **Mega Evolution** when using an **Empowered Ultimate**, transforming into **Mega Rayquaza**.\n\n🎵 **Dynamic Spawn Music**\n\n- Custom music plays at the **start of each game**  \n- Mega Evolution music can be **toggled using the TAB key**  \n- Other players can toggle the music as well  \n\n⭐ **Special Mechanic**\n\nAt the start of each game, there is a **1% chance to spawn as a shiny variant.**\n\n---\n\n# 💥 Custom VFX\n\n- Ability **Q** *(Ring Timer)*  \n- **Skies Descend Passive Effects**  \n- 🌪️ **Delta Stream Map Event**  \n\n---\n\n# 🎬 Custom Animations\n\n- Idle  \n- Run  \n- Attack  \n- Ability Animations  \n- Recall  \n- Emotes  \n- Death  \n- Respawn  \n\n---\n\n# 🔊 Custom SFX\n\n- Recall  \n- Ability **R**  \n- Emotes  \n- Respawn  \n\n---\n\n# 🧩 Custom Models & Textures\n\nModels sourced from Pokémon games.\n\n- **Rayquaza** — Pokémon Omega Ruby & Alpha Sapphire  \n- **Mega Rayquaza** — Pokémon Omega Ruby & Alpha Sapphire  \n\n---\n\n# 🎮 Feature Highlights\n\n- 🐉 **Mega Evolution tied to Empowered Ultimate**  \n- 🌪️ Unique **Delta Stream environmental event**  \n- 🎵 Fully integrated **dynamic music system (toggleable)**  \n- 🎨 High-quality legendary Pokémon model integration  \n- ⭐ Rare **Shiny Variant System (1%)**\n\n---\n\n# 🎵 Music\n\n🎧 **Event Music**  \nGalax –  \n*Pokémon Ruby & Sapphire - Hoenn Weather Trio Battle Theme (Epic Orchestral Remix)*\n\n> *(Add your YouTube link here if available)*\n\n---\n\n# 🙏 Credits\n\n**Mod Creator**  \n⭐ Nyht Seven  \n\n**Special Thanks**\n- GuiSui.py — for Mega Evolution feature support  \n- Dave & TuCaRaMeMek — for Pokémon HUD idea  \n\n**Music**  \n- Galax — Hoenn Weather Trio Battle Theme (Epic Orchestral Remix)\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/rayquaza-aurelion-sol\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rayquaza-aurelion-sol/thumb.webp?v=731a7a5f",
+	"file": {
+		"version": 1,
+		"asset": "rayquaza-aurelion-sol-v1.fantome",
+		"size": 15477127,
+		"sha256": "82f85fc047960db9b5ec63f9bf7d49612483df479d58d3c081a4b43555f56ac5"
+	},
+	"chromas": []
+}

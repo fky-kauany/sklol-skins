@@ -1,0 +1,25 @@
+{
+	"id": "rainbow-zac",
+	"name": "Rainbow Zac",
+	"champion": 154,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/rainbow-zac\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rainbow-zac/thumb.webp?v=c15d9bcf",
+	"file": {
+		"version": 1,
+		"asset": "rainbow-zac-v1.fantome",
+		"size": 8816846,
+		"sha256": "537001b42257836b9622f7033e3557ee35dffecea862dd9d60b41c87701e1267"
+	},
+	"chromas": []
+}
