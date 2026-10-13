@@ -1,0 +1,26 @@
+{
+	"id": "kog-maw-rin-itoshi",
+	"name": "Rin Itoshi",
+	"champion": 96,
+	"base": 0,
+	"creator": "frog",
+	"description": "Rin Itoshi Kogmaw \r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Kogmaw skin\r\n• Custom Voiceover of Rin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/rin-itoshi-kog-maw\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kog-maw-rin-itoshi/thumb.webp?v=12f353b7",
+	"file": {
+		"version": 1,
+		"asset": "kog-maw-rin-itoshi-v1.fantome",
+		"size": 34279749,
+		"sha256": "68d3bf4d2c563d60e1b78f3427693f4196c17201d71d7f2d82b400026020b59c"
+	},
+	"chromas": []
+}

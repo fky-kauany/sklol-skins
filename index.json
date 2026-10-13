@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:11:00.924Z",
+	"generatedAt": "2026-10-13T04:14:25.124Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -6154,6 +6154,259 @@
 				"asset": "kizaru-kassadin-v1.fantome",
 				"size": 5295730,
 				"sha256": "1999089f601c023deb1edc90397074327e5eb16ae0cd908df38958e84fc86bdf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kled-buggy-clown",
+			"name": "BUGGY-Clown",
+			"champion": 240,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kled-buggy-clown/thumb.webp?v=76ea9d5d",
+			"file": {
+				"version": 1,
+				"asset": "kled-buggy-clown-v1.fantome",
+				"size": 44079991,
+				"sha256": "784b6a04b0c04db143ac793c7fd751f170a9cac86d4d4cb58457e3be509be5e3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kled-kladio",
+			"name": "KLADIO",
+			"champion": 240,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kled-kladio/thumb.webp?v=a1968846",
+			"file": {
+				"version": 1,
+				"asset": "kled-kladio-v1.fantome",
+				"size": 69296284,
+				"sha256": "d2843ad08df33b49d2b8468fa51cffb294f3289a947a5fe222cede7ab445a5e9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "klee-milio",
+			"name": "Klee Milio",
+			"champion": 902,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/klee-milio/thumb.webp?v=14459716",
+			"file": {
+				"version": 1,
+				"asset": "klee-milio-v1.fantome",
+				"size": 2145865,
+				"sha256": "3ec0c0d65ba29a20b67f6219ad5ad088e29bc9c81762a0545ac1f3e495ba69cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "klee-ziggs",
+			"name": "Klee Ziggs",
+			"champion": 115,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/klee-ziggs/thumb.webp?v=8e5e9ec3",
+			"file": {
+				"version": 1,
+				"asset": "klee-ziggs-v1.fantome",
+				"size": 23613795,
+				"sha256": "353e8fd9fa2a6273d4ed6cb680996abd2e834c1b92319d23a07f598c9070cb25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kog-maw-demon",
+			"name": "Demon",
+			"champion": 96,
+			"base": 0,
+			"creator": "oyashxro",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kog-maw-demon/thumb.webp?v=601360d2",
+			"file": {
+				"version": 1,
+				"asset": "kog-maw-demon-v1.fantome",
+				"size": 10001426,
+				"sha256": "cb36155b02f5a18da725a452a90b9918b74ef6fe029573fc37d4f4ac965a93b2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kog-maw-rin-itoshi",
+			"name": "Rin Itoshi",
+			"champion": 96,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kog-maw-rin-itoshi/thumb.webp?v=12f353b7",
+			"file": {
+				"version": 1,
+				"asset": "kog-maw-rin-itoshi-v1.fantome",
+				"size": 34279749,
+				"sha256": "68d3bf4d2c563d60e1b78f3427693f4196c17201d71d7f2d82b400026020b59c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kog-maw-zinedine-zidane-kogmaw",
+			"name": "Zinedine Zidane KogMaw",
+			"champion": 96,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kog-maw-zinedine-zidane-kogmaw/thumb.webp?v=9863eb4b",
+			"file": {
+				"version": 1,
+				"asset": "kog-maw-zinedine-zidane-kogmaw-v1.fantome",
+				"size": 18548984,
+				"sha256": "b08db098eb9d3e3ac6c7eef513d3ab48e1ce2574e626955a994b48f3d3511896"
+			},
+			"chromas": []
+		},
+		{
+			"id": "koishi-komeiji-talon",
+			"name": "Koishi Komeiji Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "defaulti",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/koishi-komeiji-talon/thumb.webp?v=12a77b1c",
+			"file": {
+				"version": 1,
+				"asset": "koishi-komeiji-talon-v1.fantome",
+				"size": 18597066,
+				"sha256": "d125937e89c94384a33080a624c341cbaec2a8a405240cee32d67d0405b0a276"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kokushibo-yone",
+			"name": "Kokushibo Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kokushibo-yone/thumb.webp?v=693730c0",
+			"file": {
+				"version": 1,
+				"asset": "kokushibo-yone-v1.fantome",
+				"size": 7848218,
+				"sha256": "8528d6671c2df891763e29092af975e476993cd524d7a5adb3d790f69051e8a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kratos-k-sante",
+			"name": "Kratos K Sante",
+			"champion": 897,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kratos-k-sante/thumb.webp?v=5c433793",
+			"file": {
+				"version": 1,
+				"asset": "kratos-k-sante-v1.fantome",
+				"size": 5500358,
+				"sha256": "bb2a5a92e8186581e080990ca014a61126effca888e1e4edc0f8e54cdb2900b0"
 			},
 			"chromas": []
 		},

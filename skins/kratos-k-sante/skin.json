@@ -1,0 +1,24 @@
+{
+	"id": "kratos-k-sante",
+	"name": "Kratos K Sante",
+	"champion": 897,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: K Sante\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/kratos-k-sante\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kratos-k-sante/thumb.webp?v=5c433793",
+	"file": {
+		"version": 1,
+		"asset": "kratos-k-sante-v1.fantome",
+		"size": 5500358,
+		"sha256": "bb2a5a92e8186581e080990ca014a61126effca888e1e4edc0f8e54cdb2900b0"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "kled-buggy-clown",
+	"name": "BUGGY-Clown",
+	"champion": 240,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "• Replaced for all SKIN/Chromas\r\n\r\n• Custom Model\r\n• Custom Abilities\r\n• Custom Animations\r\n• Custom FX\n\n---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/buggy-clown\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kled-buggy-clown/thumb.webp?v=76ea9d5d",
+	"file": {
+		"version": 1,
+		"asset": "kled-buggy-clown-v1.fantome",
+		"size": 44079991,
+		"sha256": "784b6a04b0c04db143ac793c7fd751f170a9cac86d4d4cb58457e3be509be5e3"
+	},
+	"chromas": []
+}

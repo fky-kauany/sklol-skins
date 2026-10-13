@@ -1,0 +1,26 @@
+{
+	"id": "koishi-komeiji-talon",
+	"name": "Koishi Komeiji Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "defaulti",
+	"description": "***Talon as Koishi Komeiji from Touhou Project***\r\n\r\nWorks with all Skins!\r\n\r\nFeatures:\r\n\r\n**Custom VFX**\r\n\r\n**Custom Model**\r\n\r\n**Custom Voicelines**\r\n\r\nWeight may not be most optimal!!!\n\n---\n\n**Created by** [Defaulti](https://www.divineskins.gg/Defaulti)\n\n**Original:** https://www.divineskins.gg/Defaulti/koishi-komeiji-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/koishi-komeiji-talon/thumb.webp?v=12a77b1c",
+	"file": {
+		"version": 1,
+		"asset": "koishi-komeiji-talon-v1.fantome",
+		"size": 18597066,
+		"sha256": "d125937e89c94384a33080a624c341cbaec2a8a405240cee32d67d0405b0a276"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "kokushibo-yone",
+	"name": "Kokushibo Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Kokushibo Yone\n\n### Features\n\n- **Custom model**: Yone reimagined as Kokushibo with glowing eyes and demonic details\n- **Custom abilities**: Moonlit slashes, cursed energy trails, and supernatural animations\n- **Works on every Yone skin** — base, Spirit Blossom, Dawnbringer, and more\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/kokushibo-yone\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kokushibo-yone/thumb.webp?v=693730c0",
+	"file": {
+		"version": 1,
+		"asset": "kokushibo-yone-v1.fantome",
+		"size": 7848218,
+		"sha256": "8528d6671c2df891763e29092af975e476993cd524d7a5adb3d790f69051e8a5"
+	},
+	"chromas": []
+}

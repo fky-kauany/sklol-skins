@@ -1,0 +1,26 @@
+{
+	"id": "kled-kladio",
+	"name": "KLADIO",
+	"champion": 240,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "• Replaced for all SKIN/Chromas\n\n• Custom Model\n• Custom Sounds\n• Custom Abilities\n• Custom Animations\n• Custom FX\n\n---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/kladio\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kled-kladio/thumb.webp?v=a1968846",
+	"file": {
+		"version": 1,
+		"asset": "kled-kladio-v1.fantome",
+		"size": 69296284,
+		"sha256": "d2843ad08df33b49d2b8468fa51cffb294f3289a947a5fe222cede7ab445a5e9"
+	},
+	"chromas": []
+}

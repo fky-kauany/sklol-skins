@@ -1,0 +1,27 @@
+{
+	"id": "klee-ziggs",
+	"name": "Klee Ziggs",
+	"champion": 115,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Klee Ziggs\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/klee-ziggs\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/klee-ziggs/thumb.webp?v=8e5e9ec3",
+	"file": {
+		"version": 1,
+		"asset": "klee-ziggs-v1.fantome",
+		"size": 23613795,
+		"sha256": "353e8fd9fa2a6273d4ed6cb680996abd2e834c1b92319d23a07f598c9070cb25"
+	},
+	"chromas": []
+}

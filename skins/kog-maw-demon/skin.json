@@ -1,0 +1,25 @@
+{
+	"id": "kog-maw-demon",
+	"name": "Demon",
+	"champion": 96,
+	"base": 0,
+	"creator": "oyashxro",
+	"description": "Demon Kog'maw • Custom Abilities • Works on every Kog'maw skin\n\n---\n\n**Created by** [oyashxro](https://www.divineskins.gg/oyashxro)\n\n**Original:** https://www.divineskins.gg/oyashxro/demon-kog-maw\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kog-maw-demon/thumb.webp?v=601360d2",
+	"file": {
+		"version": 1,
+		"asset": "kog-maw-demon-v1.fantome",
+		"size": 10001426,
+		"sha256": "cb36155b02f5a18da725a452a90b9918b74ef6fe029573fc37d4f4ac965a93b2"
+	},
+	"chromas": []
+}

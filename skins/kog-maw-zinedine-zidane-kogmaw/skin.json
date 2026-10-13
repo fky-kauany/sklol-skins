@@ -1,0 +1,25 @@
+{
+	"id": "kog-maw-zinedine-zidane-kogmaw",
+	"name": "Zinedine Zidane KogMaw",
+	"champion": 96,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Zinedine Zidane Kog'Maw\n\n### Features\n\n- **Custom Model:** Kog'Maw is now Zinedine Zidane, proudly wearing his football kit.\n- **Custom Abilities:** Hilarious custom VFX, most notably a \"headbutt\" themed Living Artillery (R).\n- **Universal Compatibility:** This mod works as a custom skin for every existing Kog'Maw skin.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/zinedine-zidane-kogmaw\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kog-maw-zinedine-zidane-kogmaw/thumb.webp?v=9863eb4b",
+	"file": {
+		"version": 1,
+		"asset": "kog-maw-zinedine-zidane-kogmaw-v1.fantome",
+		"size": 18548984,
+		"sha256": "b08db098eb9d3e3ac6c7eef513d3ab48e1ce2574e626955a994b48f3d3511896"
+	},
+	"chromas": []
+}

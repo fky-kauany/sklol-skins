@@ -1,0 +1,24 @@
+{
+	"id": "klee-milio",
+	"name": "Klee Milio",
+	"champion": 902,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Klee Milio\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/klee-milio\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/klee-milio/thumb.webp?v=14459716",
+	"file": {
+		"version": 1,
+		"asset": "klee-milio-v1.fantome",
+		"size": 2145865,
+		"sha256": "3ec0c0d65ba29a20b67f6219ad5ad088e29bc9c81762a0545ac1f3e495ba69cf"
+	},
+	"chromas": []
+}
