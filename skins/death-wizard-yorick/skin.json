@@ -1,0 +1,26 @@
+{
+	"id": "death-wizard-yorick",
+	"name": "Death Wizard Yorick",
+	"champion": 83,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Wizard101)\n- Custom Icons\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nShrimpBack - Video Spotlight\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/death-wizard-yorick\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/death-wizard-yorick/thumb.webp?v=9b9006f0",
+	"file": {
+		"version": 1,
+		"asset": "death-wizard-yorick-v1.fantome",
+		"size": 19556814,
+		"sha256": "57b48ace01eb02c083f00ddd2bb0b4f65f30d7eabf1aa4aff0c739c985f7b7e9"
+	},
+	"chromas": []
+}

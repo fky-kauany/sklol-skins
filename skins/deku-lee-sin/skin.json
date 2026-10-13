@@ -1,0 +1,26 @@
+{
+	"id": "deku-lee-sin",
+	"name": "Deku - Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "magnaplayer",
+	"description": "# Deku as Lee Sin\n\nUnleash the power of One For All on the Rift.\n\nThis mod replaces Lee Sin with **Izuku \"Deku\" Midoriya** from *My Hero Academia*, bringing the future Symbol of Peace into League of Legends. Featuring a custom model and animation adjustments, the mod reimagines Lee Sin's martial arts combat through Deku's powerful fighting style.\n\nAnimations have been carefully adapted to fit the character, creating a more natural and immersive experience while preserving Lee Sin's original gameplay, abilities, and feel. Whether you're landing skill shots, dashing through team fights, or delivering a game-changing ultimate, every move feels worthy of a One For All user.\n\nIf you've ever wanted to smash your enemies with the determination of a true hero, this mod lets you take Deku onto the Rift and prove why heroes never give up.\n\n---\n\n**Created by** [MagnaPlayer](https://www.divineskins.gg/MagnaPlayer)\n\n**Original:** https://www.divineskins.gg/MagnaPlayer/deku-lee-sin\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/deku-lee-sin/thumb.webp?v=f28d6b66",
+	"file": {
+		"version": 1,
+		"asset": "deku-lee-sin-v1.fantome",
+		"size": 7985647,
+		"sha256": "3c4159cd31f688485acacce8620ab06fd30329c3dc927997fa0f09d52842fa50"
+	},
+	"chromas": []
+}

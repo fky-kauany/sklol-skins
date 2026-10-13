@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:58:40.719Z",
+	"generatedAt": "2026-10-13T02:02:08.371Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8004,6 +8004,264 @@
 				"asset": "death-raven-karthus-v1.fantome",
 				"size": 18033669,
 				"sha256": "85bc789e6254964e031c592bedd68a6791df887da906317ab1872635a4b418c7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "death-raven-kassadin",
+			"name": "Death Raven Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/death-raven-kassadin/thumb.webp?v=a37c77c2",
+			"file": {
+				"version": 1,
+				"asset": "death-raven-kassadin-v1.fantome",
+				"size": 7824340,
+				"sha256": "13a0d57269fa7eedb901971612cd6348af0f39e070750d3c07b24629d579c9cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "death-raven-soraka-pink",
+			"name": "Death Raven Soraka Pink",
+			"champion": 16,
+			"base": 0,
+			"creator": "dazashu",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/death-raven-soraka-pink/thumb.webp?v=545872f8",
+			"file": {
+				"version": 1,
+				"asset": "death-raven-soraka-pink-v1.fantome",
+				"size": 32103391,
+				"sha256": "3ef83bfe348a4120dfc23d34e98f8cfc361c073bd740cb4ec3d669ea7d5bd262"
+			},
+			"chromas": []
+		},
+		{
+			"id": "death-wizard-yorick",
+			"name": "Death Wizard Yorick",
+			"champion": 83,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/death-wizard-yorick/thumb.webp?v=9b9006f0",
+			"file": {
+				"version": 1,
+				"asset": "death-wizard-yorick-v1.fantome",
+				"size": 19556814,
+				"sha256": "57b48ace01eb02c083f00ddd2bb0b4f65f30d7eabf1aa4aff0c739c985f7b7e9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "deep-one-yone",
+			"name": "Deep One - Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/deep-one-yone/thumb.webp?v=8e466345",
+			"file": {
+				"version": 1,
+				"asset": "deep-one-yone-v1.fantome",
+				"size": 19085651,
+				"sha256": "42e483485479abedf8bb5c70f77a240a4e3d344b1a022073a394a0c13b10159b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "deep-terror-rek-sai",
+			"name": "Deep Terror - Rek'Sai",
+			"champion": 421,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/deep-terror-rek-sai/thumb.webp?v=f0b75c43",
+			"file": {
+				"version": 1,
+				"asset": "deep-terror-rek-sai-v1.fantome",
+				"size": 8274395,
+				"sha256": "021700a309e4177f0e80e6715c94e41c1be72ec90c3dbbb82f4fb285266a6c54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "deeper-one-kassadin",
+			"name": "Deeper One Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/deeper-one-kassadin/thumb.webp?v=7a9162da",
+			"file": {
+				"version": 1,
+				"asset": "deeper-one-kassadin-v1.fantome",
+				"size": 3394197,
+				"sha256": "95d92fae7c2d45d6bf19824f0d9b3aa7bb559d4ece8e6a25c5cc1399a129b9b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "deku-lee-sin",
+			"name": "Deku - Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "magnaplayer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/deku-lee-sin/thumb.webp?v=f28d6b66",
+			"file": {
+				"version": 1,
+				"asset": "deku-lee-sin-v1.fantome",
+				"size": 7985647,
+				"sha256": "3c4159cd31f688485acacce8620ab06fd30329c3dc927997fa0f09d52842fa50"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-akali",
+			"name": "Demon Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-akali/thumb.webp?v=6b1cd922",
+			"file": {
+				"version": 1,
+				"asset": "demon-akali-v1.fantome",
+				"size": 17064642,
+				"sha256": "ecbc5c648adea1dbcc21c55fd83bf77a2767801b7cb0130679d5847f4e7f2ab1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-briar",
+			"name": "Demon Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-briar/thumb.webp?v=54da195c",
+			"file": {
+				"version": 1,
+				"asset": "demon-briar-v1.fantome",
+				"size": 15432812,
+				"sha256": "7a0adb5e2613da0f6d1b920f037896bec36f89ec7756f47ed5efe4a2f82e5974"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-draven",
+			"name": "Demon Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-draven/thumb.webp?v=ee5caddc",
+			"file": {
+				"version": 1,
+				"asset": "demon-draven-v1.fantome",
+				"size": 5569115,
+				"sha256": "4789224d4ea47f389dc75a10fd2b48711573ba58a2339575640a32870fcd6e53"
 			},
 			"chromas": []
 		},

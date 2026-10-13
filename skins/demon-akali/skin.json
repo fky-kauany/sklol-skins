@@ -1,0 +1,25 @@
+{
+	"id": "demon-akali",
+	"name": "Demon Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Demon Akali\n\n### Features\n\n- **Custom Model:** A brand-new demonic model for Akali, featuring horns, new armor, and a darker color scheme.\n- **Custom Abilities:** All of Akali's abilities and auto-attacks have new, demonic-themed visual effects (VFX) infused with dark energy and crimson glows.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/demon-akali\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-akali/thumb.webp?v=6b1cd922",
+	"file": {
+		"version": 1,
+		"asset": "demon-akali-v1.fantome",
+		"size": 17064642,
+		"sha256": "ecbc5c648adea1dbcc21c55fd83bf77a2767801b7cb0130679d5847f4e7f2ab1"
+	},
+	"chromas": []
+}

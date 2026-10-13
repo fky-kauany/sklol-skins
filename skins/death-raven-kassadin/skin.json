@@ -1,0 +1,26 @@
+{
+	"id": "death-raven-kassadin",
+	"name": "Death Raven Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/death-raven-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/death-raven-kassadin/thumb.webp?v=a37c77c2",
+	"file": {
+		"version": 1,
+		"asset": "death-raven-kassadin-v1.fantome",
+		"size": 7824340,
+		"sha256": "13a0d57269fa7eedb901971612cd6348af0f39e070750d3c07b24629d579c9cf"
+	},
+	"chromas": []
+}

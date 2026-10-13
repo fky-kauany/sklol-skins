@@ -1,0 +1,26 @@
+{
+	"id": "deep-terror-rek-sai",
+	"name": "Deep Terror - Rek'Sai",
+	"champion": 421,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# Deep Terror: Rek'Sai\nA greenwater/sea themed primordian Rek'Sai\n\n## Featuring:\n- New multicolor VFX\n- A new (albeit very derivitive) mesh\n- HUD icons and loadscreen to match\n\n#### Authors note:\nAs of V.1.0 the repath process has broken the new tunnel model/effect. Some of the VFX remain but I will work on a solution for V1.1\nThanks for your understanding and I hope you enjoy the skin regardless.\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/deep-terror-reksai\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/deep-terror-rek-sai/thumb.webp?v=f0b75c43",
+	"file": {
+		"version": 1,
+		"asset": "deep-terror-rek-sai-v1.fantome",
+		"size": 8274395,
+		"sha256": "021700a309e4177f0e80e6715c94e41c1be72ec90c3dbbb82f4fb285266a6c54"
+	},
+	"chromas": []
+}

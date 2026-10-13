@@ -1,0 +1,26 @@
+{
+	"id": "demon-draven",
+	"name": "Demon Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/demon-draven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-draven/thumb.webp?v=ee5caddc",
+	"file": {
+		"version": 1,
+		"asset": "demon-draven-v1.fantome",
+		"size": 5569115,
+		"sha256": "4789224d4ea47f389dc75a10fd2b48711573ba58a2339575640a32870fcd6e53"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "deeper-one-kassadin",
+	"name": "Deeper One Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# Deeper One - Kassadin\r\n\r\nVersion 2.0!\r\n\r\nA more inspired \"Deep One\" skin for Kassadin.\r\n\r\nWorks on the base skin.\r\n\r\n### Featuring:\r\n- New model artwork\r\n- Particle effects on all abilities\r\n- Updated loading screen and HUD icon to match\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/deeper-one-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/deeper-one-kassadin/thumb.webp?v=7a9162da",
+	"file": {
+		"version": 1,
+		"asset": "deeper-one-kassadin-v1.fantome",
+		"size": 3394197,
+		"sha256": "95d92fae7c2d45d6bf19824f0d9b3aa7bb559d4ece8e6a25c5cc1399a129b9b7"
+	},
+	"chromas": []
+}

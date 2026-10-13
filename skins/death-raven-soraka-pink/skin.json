@@ -1,0 +1,25 @@
+{
+	"id": "death-raven-soraka-pink",
+	"name": "Death Raven Soraka Pink",
+	"champion": 16,
+	"base": 0,
+	"creator": "dazashu",
+	"description": "This is a Pink chroma of the \"Ghostly Raven Soraka\" made by Lexa https://divineskins.gg/lexa2209/ghostly-raven-soraka\n\n---\n\n**Created by** [dazashu](https://www.divineskins.gg/dazashu)\n\n**Original:** https://www.divineskins.gg/dazashu/death-raven-soraka-pink\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/death-raven-soraka-pink/thumb.webp?v=545872f8",
+	"file": {
+		"version": 1,
+		"asset": "death-raven-soraka-pink-v1.fantome",
+		"size": 32103391,
+		"sha256": "3ef83bfe348a4120dfc23d34e98f8cfc361c073bd740cb4ec3d669ea7d5bd262"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "deep-one-yone",
+	"name": "Deep One - Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# ⚓ DEEP ONE - YONE 🦑 \r\nA Cthulhu themed Yone recolor featuring:\r\n\r\n- Deep sea themed VFX\r\n- High quality custom model art with lovecraftian artefacts, tentacles and colors\r\n- New ability art for soul unbind\r\n- HUD icons and loadingscreen art\r\n\r\n\"Who knows the end? What has risen may sink, and what has sunk may rise.\"\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/deep-one-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/deep-one-yone/thumb.webp?v=8e466345",
+	"file": {
+		"version": 1,
+		"asset": "deep-one-yone-v1.fantome",
+		"size": 19085651,
+		"sha256": "42e483485479abedf8bb5c70f77a240a4e3d344b1a022073a394a0c13b10159b"
+	},
+	"chromas": []
+}
