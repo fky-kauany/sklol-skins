@@ -209,6 +209,14 @@
 			"youtube": "https://www.youtube.com/@nbdyeikori"
 		}
 	},
+	"el7oot": {
+		"name": "EL7OOT",
+		"avatar": "creators/el7oot.webp?v=c33a5b49",
+		"links": {
+			"discord": "https://discord.gg/5d8T8c962W",
+			"youtube": "https://www.youtube.com/@MOD_FORGE"
+		}
+	},
 	"emshu": {
 		"name": "emShu",
 		"bio": "Hi, I'm emShu.\nI am from Vietnam and currently live there.\nI have two years of experience as a modder.\nI create skins based on inspiration and explore a wide range of champions.",
@@ -399,6 +407,11 @@
 	"mxdjid": {
 		"name": "mxdjid",
 		"avatar": "creators/mxdjid.webp?v=b8c43cbd",
+		"links": {}
+	},
+	"neoritch": {
+		"name": "neoritch",
+		"avatar": "creators/neoritch.jpg?v=b937361e",
 		"links": {}
 	},
 	"northoff": {

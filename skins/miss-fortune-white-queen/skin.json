@@ -1,0 +1,26 @@
+{
+	"id": "miss-fortune-white-queen",
+	"name": "Miss Fortune White Queen",
+	"champion": 21,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 WHITE QUEEN 」\n### *Replaces Miss Fortune*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/miss-fortune-white-queen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/miss-fortune-white-queen/thumb.webp?v=730df4cf",
+	"file": {
+		"version": 1,
+		"asset": "miss-fortune-white-queen-v1.fantome",
+		"size": 5520432,
+		"sha256": "2f581d4c540ccc6f54d76ff09b659cc2c0728ab31c950132d4393e2824c766f7"
+	},
+	"chromas": []
+}

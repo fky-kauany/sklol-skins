@@ -1,0 +1,25 @@
+{
+	"id": "mitsuri-nilah",
+	"name": "Mitsuri Nilah",
+	"champion": 895,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "CTRL 1 / CTRL 2 - Jacket ON/OFF\n\n---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/mitsuri-nilah\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mitsuri-nilah/thumb.webp?v=b0664bb4",
+	"file": {
+		"version": 1,
+		"asset": "mitsuri-nilah-v1.fantome",
+		"size": 24517833,
+		"sha256": "3978480cf37bf55dd9b7aed063f5a1f462ab4975e380d2b6dfd26c96bba26d57"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "monster-ryze",
+	"name": "Monster Ryze",
+	"champion": 13,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/monster-ryze\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/monster-ryze/thumb.webp?v=5c33d2c2",
+	"file": {
+		"version": 1,
+		"asset": "monster-ryze-v1.fantome",
+		"size": 6301942,
+		"sha256": "f6eb8f3edffa92b1c3463654979add02a26eae07e68fc2af1340d02a48925b88"
+	},
+	"chromas": []
+}

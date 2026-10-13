@@ -1,0 +1,26 @@
+{
+	"id": "moon-knight-akshan",
+	"name": "Moon Knight Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "el7oot",
+	"description": "### Champion: Akshan\n### Skin: Base Skin\n\n\nFeatures\nNew model and textures\n\nSupports all champion texture quality settings\n\nModified loading screen\n\nModified in-game icon\n\nChanged some particles\n\n\n\n\nCredits:\nBig thanks to Nyht and Moga for helping me with the particle colors.\n\n\n\n\n- All the assets are from Marvel Rivals\n### If the mod is broken or if anyone has any suggestions, feel free to DM me at: mahmoud_ali\n\n---\n\n**Created by** [EL7OOT](https://www.divineskins.gg/EL7OOT)\n\n**Original:** https://www.divineskins.gg/EL7OOT/moon-knight-akshan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/moon-knight-akshan/thumb.webp?v=cb7eb156",
+	"file": {
+		"version": 1,
+		"asset": "moon-knight-akshan-v1.fantome",
+		"size": 18362952,
+		"sha256": "5e1b974c0bc7e4441b22ad3a144ce108a8586d239f60117bc71a8f974556de11"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "mita-akali",
+	"name": "Mita Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Mita Akali\n\n### Features\n\n- **Custom 3D Model** – Akali redesigned with Mita’s *Miside*-inspired look.\n- **Custom Abilities** – Anime-styled ability effects for high-impact flair.\n- **Universal Compatibility** – Works across **all Akali skins** via Celestial Launcher.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/mita-akali\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mita-akali/thumb.webp?v=61dbeedf",
+	"file": {
+		"version": 1,
+		"asset": "mita-akali-v1.fantome",
+		"size": 7574994,
+		"sha256": "64c96f5f7ad364567f9c9455556a092f4d1ec0ca6cbf752da8faaac1369447f4"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "mita-poppy",
+	"name": "Mita Poppy",
+	"champion": 78,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:**  etc.\n**Modified Skin(s):** All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n### ? Credits\n\n**Model(s):**\n**Special Thanks:**\n### ? Additional Info\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n### ? Support Me\n\nEnjoyed the mod? Help fuel future projects: [Donate](#)*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/mita-poppy\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mita-poppy/thumb.webp?v=588a93a6",
+	"file": {
+		"version": 1,
+		"asset": "mita-poppy-v1.fantome",
+		"size": 24378769,
+		"sha256": "be877894ecb1054cfa7cc5ddd7c2705fd9e37b64cc290698f128714be32dddf8"
+	},
+	"chromas": []
+}

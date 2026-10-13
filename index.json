@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:56:47.123Z",
+	"generatedAt": "2026-10-13T05:00:01.054Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -212,6 +212,14 @@
 				"youtube": "https://www.youtube.com/@nbdyeikori"
 			}
 		},
+		"el7oot": {
+			"name": "EL7OOT",
+			"avatar": "creators/el7oot.webp?v=c33a5b49",
+			"links": {
+				"discord": "https://discord.gg/5d8T8c962W",
+				"youtube": "https://www.youtube.com/@MOD_FORGE"
+			}
+		},
 		"emshu": {
 			"name": "emShu",
 			"bio": "Hi, I'm emShu.\nI am from Vietnam and currently live there.\nI have two years of experience as a modder.\nI create skins based on inspiration and explore a wide range of champions.",
@@ -402,6 +410,11 @@
 		"mxdjid": {
 			"name": "mxdjid",
 			"avatar": "creators/mxdjid.webp?v=b8c43cbd",
+			"links": {}
+		},
+		"neoritch": {
+			"name": "neoritch",
+			"avatar": "creators/neoritch.jpg?v=b937361e",
 			"links": {}
 		},
 		"northoff": {
@@ -9742,6 +9755,260 @@
 				"asset": "miss-fortune-nami-christmas-edition-v1.fantome",
 				"size": 22816397,
 				"sha256": "e866bbf8fcfaf162ed5cc3956d4f4020af950f21d5b826cf3a0bb79bc01d799d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miss-fortune-white-queen",
+			"name": "Miss Fortune White Queen",
+			"champion": 21,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/miss-fortune-white-queen/thumb.webp?v=730df4cf",
+			"file": {
+				"version": 1,
+				"asset": "miss-fortune-white-queen-v1.fantome",
+				"size": 5520432,
+				"sha256": "2f581d4c540ccc6f54d76ff09b659cc2c0728ab31c950132d4393e2824c766f7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mita-akali",
+			"name": "Mita Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mita-akali/thumb.webp?v=61dbeedf",
+			"file": {
+				"version": 1,
+				"asset": "mita-akali-v1.fantome",
+				"size": 7574994,
+				"sha256": "64c96f5f7ad364567f9c9455556a092f4d1ec0ca6cbf752da8faaac1369447f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mita-briar",
+			"name": "Mita Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mita-briar/thumb.webp?v=696b76a1",
+			"file": {
+				"version": 1,
+				"asset": "mita-briar-v1.fantome",
+				"size": 10019392,
+				"sha256": "2db616b60380cf16fd073c8d8ef649e284390882312db4b558d9fcdba3ca8099"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mita-katarina",
+			"name": "Mita Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mita-katarina/thumb.webp?v=3e4be9d4",
+			"file": {
+				"version": 1,
+				"asset": "mita-katarina-v1.fantome",
+				"size": 9959576,
+				"sha256": "8d8f04a1ddf0663b7ac080e46c331b964ca4ed4a3ab828fac5ce8d6e16f39a1f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mita-poppy",
+			"name": "Mita Poppy",
+			"champion": 78,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mita-poppy/thumb.webp?v=588a93a6",
+			"file": {
+				"version": 1,
+				"asset": "mita-poppy-v1.fantome",
+				"size": 24378769,
+				"sha256": "be877894ecb1054cfa7cc5ddd7c2705fd9e37b64cc290698f128714be32dddf8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mitsuri-nilah",
+			"name": "Mitsuri Nilah",
+			"champion": 895,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mitsuri-nilah/thumb.webp?v=b0664bb4",
+			"file": {
+				"version": 1,
+				"asset": "mitsuri-nilah-v1.fantome",
+				"size": 24517833,
+				"sha256": "3978480cf37bf55dd9b7aed063f5a1f462ab4975e380d2b6dfd26c96bba26d57"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mona-nami-from-genshin-impact",
+			"name": "Mona Nami from Genshin Impact",
+			"champion": 267,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mona-nami-from-genshin-impact/thumb.webp?v=9b43371a",
+			"file": {
+				"version": 1,
+				"asset": "mona-nami-from-genshin-impact-v1.fantome",
+				"size": 25191053,
+				"sha256": "53b505e9c1f5de5bedb2c6a82732516c87da106970d5dd7bd3cd594702a3ee50"
+			},
+			"chromas": []
+		},
+		{
+			"id": "monster-ryze",
+			"name": "Monster Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/monster-ryze/thumb.webp?v=5c33d2c2",
+			"file": {
+				"version": 1,
+				"asset": "monster-ryze-v1.fantome",
+				"size": 6301942,
+				"sha256": "f6eb8f3edffa92b1c3463654979add02a26eae07e68fc2af1340d02a48925b88"
+			},
+			"chromas": []
+		},
+		{
+			"id": "moon-knight-akshan",
+			"name": "Moon Knight Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "el7oot",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/moon-knight-akshan/thumb.webp?v=cb7eb156",
+			"file": {
+				"version": 1,
+				"asset": "moon-knight-akshan-v1.fantome",
+				"size": 18362952,
+				"sha256": "5e1b974c0bc7e4441b22ad3a144ce108a8586d239f60117bc71a8f974556de11"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-atakhan",
+			"name": "Atakhan",
+			"champion": 82,
+			"base": 0,
+			"creator": "neoritch",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-atakhan/thumb.webp?v=a3680e9b",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-atakhan-v1.fantome",
+				"size": 966008,
+				"sha256": "f6b751752d6bef6b2598a5c7b7fc71e7e1677e81de4e9e2fbebc90796c85b3bd"
 			},
 			"chromas": []
 		},
