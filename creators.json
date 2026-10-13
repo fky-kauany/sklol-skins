@@ -67,6 +67,12 @@
 			"youtube": "https://www.youtube.com/@adcx9gonext"
 		}
 	},
+	"celestia-mod-recovery": {
+		"name": "celestia-mod-recovery",
+		"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
+		"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+		"links": {}
+	},
 	"czcz": {
 		"name": "czcz",
 		"avatar": "creators/czcz.webp?v=d8cb95e7",
@@ -100,6 +106,14 @@
 			"youtube": "https://www.youtube.com/@dazashu"
 		}
 	},
+	"deepd0wn": {
+		"name": "deepd0wn",
+		"avatar": "creators/deepd0wn.webp?v=a7ef8f8b",
+		"bio": "# Welcome\n\nMy work is inspired by H.P. Lovecraft, Catholic iconography, western and eastern culture.",
+		"links": {
+			"site": "https://guns.lol/deepdowncs"
+		}
+	},
 	"deliriumoverdose": {
 		"name": "deliriumoverdose",
 		"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
@@ -115,6 +129,11 @@
 			"site": "https://github.com/DISCOCX",
 			"x": "https://x.com/DISCOXZ"
 		}
+	},
+	"etherroot": {
+		"name": "etherroot_",
+		"avatar": "creators/etherroot.webp?v=01f937dc",
+		"links": {}
 	},
 	"frog": {
 		"name": "Frog",
@@ -251,6 +270,13 @@
 			"kofi": "https://ko-fi.com/stritzzz",
 			"site": "https://linktr.ee/gyeinjik",
 			"youtube": "https://www.youtube.com/@StritzzzLoL"
+		}
+	},
+	"valfren": {
+		"name": "valfren",
+		"bio": "draven draven draven draven draven draven draven draven draven draven draven",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 		}
 	},
 	"wiko": {

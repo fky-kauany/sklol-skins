@@ -1,0 +1,23 @@
+{
+	"id": "blasphemous-god-staff-jax-chroma",
+	"name": "Blasphemous God Staff Jax (Chroma)",
+	"champion": 24,
+	"base": 0,
+	"creator": "etherroot",
+	"description": "This mod is a custom chroma created specifically for the God Staff Jax skin. The entire look has been thoroughly reworked, replacing the original golden, celestial theme with a dark, blasphemous aesthetic featuring deep purple hues, matte black armor, and ashen skin, alongside matching purple visual effects (VFX).\n\n    Note: To use this mod, you must own and select the **God Staff Jax** skin in-game.\n\n---\n\n**Created by** [etherroot_](https://www.divineskins.gg/etherroot_)\n\n**Original:** https://www.divineskins.gg/etherroot_/blasphemous-god-staff-jax-chroma\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blasphemous-god-staff-jax-chroma/thumb.webp?v=40c22ea1",
+	"file": {
+		"version": 1,
+		"asset": "blasphemous-god-staff-jax-chroma-v1.fantome",
+		"size": 8395876,
+		"sha256": "89378c30d83eb61aea9da28eb5bbff3acc0973a8d06ec22c46c5cc267a7ab71f"
+	},
+	"chromas": []
+}

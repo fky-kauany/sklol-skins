@@ -1,0 +1,25 @@
+{
+	"id": "black-death-sylas",
+	"name": "Black Death Sylas",
+	"champion": 517,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "### ? Mod Info\r\n**Type:** Black Death Sylas\r\n**Modified Skin(s):** All skins except Legendary-tier and above.\r\n\r\n\r\n### ? Additional Info\r\nQuestions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/black-death-sylas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/black-death-sylas/thumb.webp?v=9b9695db",
+	"file": {
+		"version": 1,
+		"asset": "black-death-sylas-v1.fantome",
+		"size": 9058492,
+		"sha256": "8440cb4e6be36bc982e8d2e7811d17558fa766672b61ed05285c3249bc06dad3"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "black-death-singed",
+	"name": "Black Death Singed",
+	"champion": 27,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# Black Death Singed\nA better Black Scourge Singed skin featuring:\n\n- New VFX for all abilities\n- Upscaled re-colored model\n- Recolored map icon, loading screen art and ability icons\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/black-death-singed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/black-death-singed/thumb.webp?v=9e826e3a",
+	"file": {
+		"version": 1,
+		"asset": "black-death-singed-v1.fantome",
+		"size": 4852535,
+		"sha256": "fbdb9361a0e9e5142a6df731a2449ac7c693005550c74f1d5a514da020497b7b"
+	},
+	"chromas": []
+}

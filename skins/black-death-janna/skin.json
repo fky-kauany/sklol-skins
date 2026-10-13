@@ -1,0 +1,25 @@
+{
+	"id": "black-death-janna",
+	"name": "Black Death Janna",
+	"champion": 40,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "### ? Mod Info\r\n**Type:** Janna Custom Skin\r\n**Modified Skin(s):** All skins except Legendary-tier and above.\r\n\r\n### ? Additional Info\r\nQuestions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/black-death-janna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/black-death-janna/thumb.webp?v=b27a49f0",
+	"file": {
+		"version": 1,
+		"asset": "black-death-janna-v1.fantome",
+		"size": 9444791,
+		"sha256": "a89e2578ea62a42d73c56edf05708ce7e6603b3512d608c952355dc36209a17a"
+	},
+	"chromas": []
+}

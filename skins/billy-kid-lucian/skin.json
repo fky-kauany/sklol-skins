@@ -1,0 +1,25 @@
+{
+	"id": "billy-kid-lucian",
+	"name": "Billy Kid Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Billy Kid Lucian\n\n### Features\n\n- **Custom Model** – Lucian reimagined as Billy Kid from *Zenless Zone Zero*.\n- **Custom Abilities** – Ability rework with ZZZ-inspired VFX.\n- **Universal Compatibility** – Works on all Lucian skins via Celestial Launcher.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/billy-kid-lucian\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/billy-kid-lucian/thumb.webp?v=ee5b3ce1",
+	"file": {
+		"version": 1,
+		"asset": "billy-kid-lucian-v1.fantome",
+		"size": 13374954,
+		"sha256": "1027e38d7b1e49c5c4ed6da2c50d08ac05573a0b6fc21e02cdc2b49bcb554eec"
+	},
+	"chromas": []
+}

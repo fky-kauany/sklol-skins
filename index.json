@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:58:06.427Z",
+	"generatedAt": "2026-10-13T01:01:18.456Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -70,6 +70,12 @@
 				"youtube": "https://www.youtube.com/@adcx9gonext"
 			}
 		},
+		"celestia-mod-recovery": {
+			"name": "celestia-mod-recovery",
+			"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
+			"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+			"links": {}
+		},
 		"czcz": {
 			"name": "czcz",
 			"avatar": "creators/czcz.webp?v=d8cb95e7",
@@ -103,6 +109,14 @@
 				"youtube": "https://www.youtube.com/@dazashu"
 			}
 		},
+		"deepd0wn": {
+			"name": "deepd0wn",
+			"avatar": "creators/deepd0wn.webp?v=a7ef8f8b",
+			"bio": "# Welcome\n\nMy work is inspired by H.P. Lovecraft, Catholic iconography, western and eastern culture.",
+			"links": {
+				"site": "https://guns.lol/deepdowncs"
+			}
+		},
 		"deliriumoverdose": {
 			"name": "deliriumoverdose",
 			"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
@@ -118,6 +132,11 @@
 				"site": "https://github.com/DISCOCX",
 				"x": "https://x.com/DISCOXZ"
 			}
+		},
+		"etherroot": {
+			"name": "etherroot_",
+			"avatar": "creators/etherroot.webp?v=01f937dc",
+			"links": {}
 		},
 		"frog": {
 			"name": "Frog",
@@ -254,6 +273,13 @@
 				"kofi": "https://ko-fi.com/stritzzz",
 				"site": "https://linktr.ee/gyeinjik",
 				"youtube": "https://www.youtube.com/@StritzzzLoL"
+			}
+		},
+		"valfren": {
+			"name": "valfren",
+			"bio": "draven draven draven draven draven draven draven draven draven draven draven",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 			}
 		},
 		"wiko": {
@@ -3766,6 +3792,258 @@
 				"asset": "big-yahu-shaco-v1.fantome",
 				"size": 6657078,
 				"sha256": "714e0b506c731af2279d4782168a0502702df51744416977e60024481134bc29"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bilgewater-viego",
+			"name": "Bilgewater Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bilgewater-viego/thumb.webp?v=a559d4b3",
+			"file": {
+				"version": 1,
+				"asset": "bilgewater-viego-v1.fantome",
+				"size": 12144857,
+				"sha256": "29d14cb2fa1be4c2ab7a20c2bd2639a8f553d6d70dbaa487181401fee8302b75"
+			},
+			"chromas": []
+		},
+		{
+			"id": "billy-kid-lucian",
+			"name": "Billy Kid Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/billy-kid-lucian/thumb.webp?v=ee5b3ce1",
+			"file": {
+				"version": 1,
+				"asset": "billy-kid-lucian-v1.fantome",
+				"size": 13374954,
+				"sha256": "1027e38d7b1e49c5c4ed6da2c50d08ac05573a0b6fc21e02cdc2b49bcb554eec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-death-janna",
+			"name": "Black Death Janna",
+			"champion": 40,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/black-death-janna/thumb.webp?v=b27a49f0",
+			"file": {
+				"version": 1,
+				"asset": "black-death-janna-v1.fantome",
+				"size": 9444791,
+				"sha256": "a89e2578ea62a42d73c56edf05708ce7e6603b3512d608c952355dc36209a17a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-death-singed",
+			"name": "Black Death Singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/black-death-singed/thumb.webp?v=9e826e3a",
+			"file": {
+				"version": 1,
+				"asset": "black-death-singed-v1.fantome",
+				"size": 4852535,
+				"sha256": "fbdb9361a0e9e5142a6df731a2449ac7c693005550c74f1d5a514da020497b7b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-death-sylas",
+			"name": "Black Death Sylas",
+			"champion": 517,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/black-death-sylas/thumb.webp?v=9b9695db",
+			"file": {
+				"version": 1,
+				"asset": "black-death-sylas-v1.fantome",
+				"size": 9058492,
+				"sha256": "8440cb4e6be36bc982e8d2e7811d17558fa766672b61ed05285c3249bc06dad3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-death-twitch",
+			"name": "Black Death Twitch",
+			"champion": 29,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/black-death-twitch/thumb.webp?v=7695a5c4",
+			"file": {
+				"version": 1,
+				"asset": "black-death-twitch-v1.fantome",
+				"size": 5795890,
+				"sha256": "f5d5f9b26d9ea8d1646a12a8543be6fcda9cc19d2ba1eea354e6a8bec64f9bb5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-pink-gwen",
+			"name": "Black Pink Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/black-pink-gwen/thumb.webp?v=3f190a47",
+			"file": {
+				"version": 1,
+				"asset": "black-pink-gwen-v1.fantome",
+				"size": 13831336,
+				"sha256": "aec73b9790fad00d101c3aa97b1cca1ac302b2adaec5dbcf4e36797cf9dad6dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-white-spirit-blossom-ahri",
+			"name": "Black White Spirit Blossom Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/black-white-spirit-blossom-ahri/thumb.webp?v=3ae1fec9",
+			"file": {
+				"version": 1,
+				"asset": "black-white-spirit-blossom-ahri-v1.fantome",
+				"size": 11802220,
+				"sha256": "70996e5e20f276e199ffad5831415884cd049eabb27af5867d21b83c3faa2bb7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blasphemous-god-staff-jax-chroma",
+			"name": "Blasphemous God Staff Jax (Chroma)",
+			"champion": 24,
+			"base": 0,
+			"creator": "etherroot",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blasphemous-god-staff-jax-chroma/thumb.webp?v=40c22ea1",
+			"file": {
+				"version": 1,
+				"asset": "blasphemous-god-staff-jax-chroma-v1.fantome",
+				"size": 8395876,
+				"sha256": "89378c30d83eb61aea9da28eb5bbff3acc0973a8d06ec22c46c5cc267a7ab71f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blaziken-lee-sin",
+			"name": "Blaziken Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blaziken-lee-sin/thumb.webp?v=72508f27",
+			"file": {
+				"version": 1,
+				"asset": "blaziken-lee-sin-v1.fantome",
+				"size": 10054695,
+				"sha256": "e28f6f788d18639d573843f3d1c12ff9e593065022212e9540b54b2c3845f175"
 			},
 			"chromas": []
 		},

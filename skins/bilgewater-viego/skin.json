@@ -1,0 +1,26 @@
+{
+	"id": "bilgewater-viego",
+	"name": "Bilgewater Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "valfren",
+	"description": "### 📌 Mod Info\n**Type:** Model, Textures, SFX, VFX\n**Modified Skin(s):** All skins except Legendary-tier and above.\n\n**Youtube Showcase:** https://www.youtube.com/watch?v=o9blUNkEdDQ\n\nOne of my oldest and most popular mods, finally fixed and re-released. ENJOY\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/bilgewater-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bilgewater-viego/thumb.webp?v=a559d4b3",
+	"file": {
+		"version": 1,
+		"asset": "bilgewater-viego-v1.fantome",
+		"size": 12144857,
+		"sha256": "29d14cb2fa1be4c2ab7a20c2bd2639a8f553d6d70dbaa487181401fee8302b75"
+	},
+	"chromas": []
+}

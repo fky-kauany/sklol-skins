@@ -1,0 +1,25 @@
+{
+	"id": "black-death-twitch",
+	"name": "Black Death Twitch",
+	"champion": 29,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "### ? Mod Info\r\n**Type:** Black Death Twitch\r\n**Modified Skin(s):** All skins except Legendary-tier and above.\r\n\r\n\r\n### ? Additional Info\r\nQuestions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/black-death-twitch\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/black-death-twitch/thumb.webp?v=7695a5c4",
+	"file": {
+		"version": 1,
+		"asset": "black-death-twitch-v1.fantome",
+		"size": 5795890,
+		"sha256": "f5d5f9b26d9ea8d1646a12a8543be6fcda9cc19d2ba1eea354e6a8bec64f9bb5"
+	},
+	"chromas": []
+}

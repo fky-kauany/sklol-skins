@@ -1,0 +1,26 @@
+{
+	"id": "blaziken-lee-sin",
+	"name": "Blaziken Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# 🔥 BLAZIKEN 🔥\n### Featuring:\n- New model\n- VFX overhaul\n- Custom art suite\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/blaziken-lee-sin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blaziken-lee-sin/thumb.webp?v=72508f27",
+	"file": {
+		"version": 1,
+		"asset": "blaziken-lee-sin-v1.fantome",
+		"size": 10054695,
+		"sha256": "e28f6f788d18639d573843f3d1c12ff9e593065022212e9540b54b2c3845f175"
+	},
+	"chromas": []
+}

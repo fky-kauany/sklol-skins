@@ -1,0 +1,25 @@
+{
+	"id": "black-white-spirit-blossom-ahri",
+	"name": "Black White Spirit Blossom Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "disco",
+	"description": "# WORKS **ONLY** ON SPIRIT BLOSSOM AHRI!\nCommissioned by shinz_ahri <3\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/b-amp-w-spirit-blossom-ahri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/black-white-spirit-blossom-ahri/thumb.webp?v=3ae1fec9",
+	"file": {
+		"version": 1,
+		"asset": "black-white-spirit-blossom-ahri-v1.fantome",
+		"size": 11802220,
+		"sha256": "70996e5e20f276e199ffad5831415884cd049eabb27af5867d21b83c3faa2bb7"
+	},
+	"chromas": []
+}
