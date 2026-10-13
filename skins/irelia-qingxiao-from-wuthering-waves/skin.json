@@ -1,0 +1,25 @@
+{
+	"id": "irelia-qingxiao-from-wuthering-waves",
+	"name": "Irelia QingXiao from Wuthering Waves",
+	"champion": 39,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# QingXiao Irelia from Wuthering Waves :\n---\n\n> *\"The Rift will never be the same. QingXiao has arrived!\"*\n\n## ⚙️ Skin Information\n\n* **Modified Skin:** All\n* **Author:** Davex\n\n---\n\n## 💫 Features:\n\n- ✨ New Custom Model\n- 🎨 New Custom Textures\n- 💥 New Custom VFX\n- 👤 New Champion Icons\n- 🖼️ New Loading Screen\n\n---\n\n## 💬 Contact & Support\n\nAny suggestions, ideas, questions, or bug reports? Send them over!\n* **Discord:** davex45a **[Come join my server!](https://discord.gg/XDF5Xma456)**\n* **YouTube Preview:** [Watch here!](https://www.youtube.com/watch?v=iKwX6BBraRM)\n**If you are interested in commissioning a skin, feel free to send me a DM on Discord! :D**\n\n💖 *If you like my work and want to keep my creativity flowing, consider supporting me!*\n\n[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davex45)\n\n*Originally created by Davex.*\n\n---\n\n## 🙏🏻 Credits:\n\nAssets from Kuro Games\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/irelia-qingxiao-from-wuthering-waves\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/irelia-qingxiao-from-wuthering-waves/thumb.webp?v=1f13cc48",
+	"file": {
+		"version": 1,
+		"asset": "irelia-qingxiao-from-wuthering-waves-v1.fantome",
+		"size": 19205890,
+		"sha256": "42521ffe6f379b361fb0cf0d2a6bc398a1901e96ac9239f919ef588bbe0f8896"
+	},
+	"chromas": []
+}

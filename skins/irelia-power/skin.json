@@ -1,0 +1,26 @@
+{
+	"id": "irelia-power",
+	"name": "Power",
+	"champion": 39,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/power-irelia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/irelia-power/thumb.webp?v=85477327",
+	"file": {
+		"version": 1,
+		"asset": "irelia-power-v1.fantome",
+		"size": 27755192,
+		"sha256": "303f03d59baf99abc3fbb7cf66f0283c880d90859244cc05323f2ce303306001"
+	},
+	"chromas": []
+}

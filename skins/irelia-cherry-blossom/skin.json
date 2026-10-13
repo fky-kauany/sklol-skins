@@ -1,0 +1,25 @@
+{
+	"id": "irelia-cherry-blossom",
+	"name": "Cherry Blossom",
+	"champion": 39,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/cherry-blossom-irelia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/irelia-cherry-blossom/thumb.webp?v=4007546d",
+	"file": {
+		"version": 1,
+		"asset": "irelia-cherry-blossom-v1.fantome",
+		"size": 15084523,
+		"sha256": "cd54f7951fcb3ace1ce663d690cc994884cfb4400736aedea2e9e8bf10fedec4"
+	},
+	"chromas": []
+}

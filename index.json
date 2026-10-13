@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:34:42.636Z",
+	"generatedAt": "2026-10-13T03:37:59.399Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -3322,6 +3322,263 @@
 				"asset": "inkshadow-aphelios-v1.fantome",
 				"size": 26909058,
 				"sha256": "a976c30d9ddb6b1f4672e3e7faa1b38ed8af1b6c1ae74cf84e22e6862ef67b07"
+			},
+			"chromas": []
+		},
+		{
+			"id": "inkshadow-yunara",
+			"name": "Inkshadow Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/inkshadow-yunara/thumb.webp?v=8e8e711c",
+			"file": {
+				"version": 1,
+				"asset": "inkshadow-yunara-v1.fantome",
+				"size": 20411229,
+				"sha256": "b7d73ce196057637832b87ec8eb2834b1277018644a9379ef4b14e67fa6e2aad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "inverse-crown-lucia-talon",
+			"name": "Inverse Crown Lucia Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/inverse-crown-lucia-talon/thumb.webp?v=e80a7b8b",
+			"file": {
+				"version": 1,
+				"asset": "inverse-crown-lucia-talon-v1.fantome",
+				"size": 19816846,
+				"sha256": "734e9d8b3bf7a98cb108068aeb2b26b60c068bd50ae4389cac4059a6543363ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-cherry-blossom",
+			"name": "Cherry Blossom",
+			"champion": 39,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/irelia-cherry-blossom/thumb.webp?v=4007546d",
+			"file": {
+				"version": 1,
+				"asset": "irelia-cherry-blossom-v1.fantome",
+				"size": 15084523,
+				"sha256": "cd54f7951fcb3ace1ce663d690cc994884cfb4400736aedea2e9e8bf10fedec4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-power",
+			"name": "Power",
+			"champion": 39,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/irelia-power/thumb.webp?v=85477327",
+			"file": {
+				"version": 1,
+				"asset": "irelia-power-v1.fantome",
+				"size": 27755192,
+				"sha256": "303f03d59baf99abc3fbb7cf66f0283c880d90859244cc05323f2ce303306001"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-qingxiao-from-wuthering-waves",
+			"name": "Irelia QingXiao from Wuthering Waves",
+			"champion": 39,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/irelia-qingxiao-from-wuthering-waves/thumb.webp?v=1f13cc48",
+			"file": {
+				"version": 1,
+				"asset": "irelia-qingxiao-from-wuthering-waves-v1.fantome",
+				"size": 19205890,
+				"sha256": "42521ffe6f379b361fb0cf0d2a6bc398a1901e96ac9239f919ef588bbe0f8896"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-senbonzakura",
+			"name": "Senbonzakura",
+			"champion": 39,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/irelia-senbonzakura/thumb.webp?v=d3347c3d",
+			"file": {
+				"version": 1,
+				"asset": "irelia-senbonzakura-v1.fantome",
+				"size": 15550557,
+				"sha256": "bd3247937e21ffd14bca0ead73e0fffa36a93dbf3c69deaf7853d46e8c82fe62"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-shadow",
+			"name": "Irelia Shadow",
+			"champion": 39,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/irelia-shadow/thumb.webp?v=6b47247c",
+			"file": {
+				"version": 1,
+				"asset": "irelia-shadow-v1.fantome",
+				"size": 16941405,
+				"sha256": "96e1e0499ee62423cda188707c3bae15307fc8ee94290ea675b192fa7daa34c5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-sukuna",
+			"name": "Irelia Sukuna",
+			"champion": 39,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/irelia-sukuna/thumb.webp?v=8a6df119",
+			"file": {
+				"version": 1,
+				"asset": "irelia-sukuna-v1.fantome",
+				"size": 19641398,
+				"sha256": "c4100db1ab43095a57feddf9f6ad876ee2f43bdc3cc0a59424608935e4c8a736"
+			},
+			"chromas": []
+		},
+		{
+			"id": "iron-man-jayce",
+			"name": "iron man jayce",
+			"champion": 126,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/iron-man-jayce/thumb.webp?v=a1847a8d",
+			"file": {
+				"version": 1,
+				"asset": "iron-man-jayce-v1.fantome",
+				"size": 4922665,
+				"sha256": "e5750fefc210ea03fe13d3b0594f8314f3d0a88b8514d828047c01ea2cf5ac2a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ironman-jayce",
+			"name": "IronMan Jayce",
+			"champion": 126,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ironman-jayce/thumb.webp?v=b5cf9e2c",
+			"file": {
+				"version": 1,
+				"asset": "ironman-jayce-v1.fantome",
+				"size": 5425534,
+				"sha256": "11ee5ea06ed99c50c386d1f2f9a364ea3a4a375f3c46cbbf5cd92e0561658017"
 			},
 			"chromas": []
 		},

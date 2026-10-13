@@ -1,0 +1,26 @@
+{
+	"id": "ironman-jayce",
+	"name": "IronMan Jayce",
+	"champion": 126,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Iron Man Jayce\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.1.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/ironman-jayce\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ironman-jayce/thumb.webp?v=b5cf9e2c",
+	"file": {
+		"version": 1,
+		"asset": "ironman-jayce-v1.fantome",
+		"size": 5425534,
+		"sha256": "11ee5ea06ed99c50c386d1f2f9a364ea3a4a375f3c46cbbf5cd92e0561658017"
+	},
+	"chromas": []
+}

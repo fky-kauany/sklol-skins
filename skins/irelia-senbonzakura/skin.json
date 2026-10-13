@@ -1,0 +1,25 @@
+{
+	"id": "irelia-senbonzakura",
+	"name": "Senbonzakura",
+	"champion": 39,
+	"base": 0,
+	"creator": "frog",
+	"description": "Senbonzakura Irelia\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Irelia skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/senbonzakura-irelia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/irelia-senbonzakura/thumb.webp?v=d3347c3d",
+	"file": {
+		"version": 1,
+		"asset": "irelia-senbonzakura-v1.fantome",
+		"size": 15550557,
+		"sha256": "bd3247937e21ffd14bca0ead73e0fffa36a93dbf3c69deaf7853d46e8c82fe62"
+	},
+	"chromas": []
+}

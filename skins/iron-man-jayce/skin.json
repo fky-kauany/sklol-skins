@@ -1,0 +1,26 @@
+{
+	"id": "iron-man-jayce",
+	"name": "iron man jayce",
+	"champion": 126,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Let's stay focused on the mission\"\n\n***\n\n**Modified champion: Jayce**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model from: Marvel ultimate alliance**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/iron-man-jayce\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/iron-man-jayce/thumb.webp?v=a1847a8d",
+	"file": {
+		"version": 1,
+		"asset": "iron-man-jayce-v1.fantome",
+		"size": 4922665,
+		"sha256": "e5750fefc210ea03fe13d3b0594f8314f3d0a88b8514d828047c01ea2cf5ac2a"
+	},
+	"chromas": []
+}

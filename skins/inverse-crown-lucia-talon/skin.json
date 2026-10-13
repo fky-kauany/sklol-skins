@@ -1,0 +1,26 @@
+{
+	"id": "inverse-crown-lucia-talon",
+	"name": "Inverse Crown Lucia Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "###  Mod Info\n**Modified Skin(s):** All skin\n\n\ninverse crown lucia talon skin commissioned by nexi\n#### mod features:\n- model\n- differrent animations\n- custom vfx\n- vo\n- motivation\n\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/inverse-crown-lucia-talon\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/inverse-crown-lucia-talon/thumb.webp?v=e80a7b8b",
+	"file": {
+		"version": 1,
+		"asset": "inverse-crown-lucia-talon-v1.fantome",
+		"size": 19816846,
+		"sha256": "734e9d8b3bf7a98cb108068aeb2b26b60c068bd50ae4389cac4059a6543363ed"
+	},
+	"chromas": []
+}
