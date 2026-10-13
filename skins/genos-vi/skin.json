@@ -1,0 +1,26 @@
+{
+	"id": "genos-vi",
+	"name": "Genos Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "frog",
+	"description": "BLABLABLA GENOS BLABLA BLBLABALBALBALAB ssssssssssssssssssssssssssssssssssssssss\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/genos-vi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/genos-vi/thumb.webp?v=a7ab2b08",
+	"file": {
+		"version": 1,
+		"asset": "genos-vi-v1.fantome",
+		"size": 14846310,
+		"sha256": "ba9edd0c3bde5bf1986cd9b284bc5917abe650db7103162ed205fb7347f072e3"
+	},
+	"chromas": []
+}

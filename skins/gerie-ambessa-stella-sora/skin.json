@@ -1,0 +1,26 @@
+{
+	"id": "gerie-ambessa-stella-sora",
+	"name": "Gerie Ambessa (Stella Sora)",
+	"champion": 799,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Author is too cool to write uncool things\n\n---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/gerie-ambessa-stella-sora\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gerie-ambessa-stella-sora/thumb.webp?v=e93cbd69",
+	"file": {
+		"version": 1,
+		"asset": "gerie-ambessa-stella-sora-v1.fantome",
+		"size": 26207517,
+		"sha256": "dd4b94340e13c2b9344be0e9cff89b9889c4b052d387b5940fbc383642a4716b"
+	},
+	"chromas": []
+}

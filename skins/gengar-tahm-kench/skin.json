@@ -1,0 +1,26 @@
+{
+	"id": "gengar-tahm-kench",
+	"name": "Gengar Tahm Kench",
+	"champion": 223,
+	"base": 0,
+	"creator": "nyht",
+	"description": "## 👻 CHAMPION\n**Tahm Kench — Gengar**\n\n**Skin Replacement:** Base Skin\n\n---\n\n## 🎨 Custom VFX\n\n- Abilities  \n- Recall  \n\n---\n\n## 🎬 Custom Animations\n\n- Idle  \n- Attack  \n- Abilities  \n- Recall  \n- Emotes  \n- Death & Respawn  \n\n---\n\n## 🔊 Custom SFX\n\n- Recall  \n- Ability Q & W  \n- Emotes  \n- Respawn  \n\n---\n\n## 🧩 Custom Models & Textures\n\n- **Gengar model** taken from *Pokémon X & Y*  \n\n---\n\n## 👤 Credits\n\n**Modded by:** Nyht Seven\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/gengar-tahm-kench\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gengar-tahm-kench/thumb.webp?v=754a9b1f",
+	"file": {
+		"version": 1,
+		"asset": "gengar-tahm-kench-v1.fantome",
+		"size": 7275756,
+		"sha256": "3069339f1c61b1ba754477f061fd273c7cfdec992700b9caff7242cbea45df13"
+	},
+	"chromas": []
+}

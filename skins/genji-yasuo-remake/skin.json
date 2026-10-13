@@ -1,0 +1,26 @@
+{
+	"id": "genji-yasuo-remake",
+	"name": "Genji yasuo(REMAKE)",
+	"champion": 157,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "COMMISION ME ON DISCORD FOR MORE@ceerel\n\n\nFeatures:\n• Better voice overs\n• Dragon-themed ultimate\n• New VFX that match Genji better\n• Cleaner and brighter model\n• Improved sword design\n• Better icons\n• Smoother animations\n\nEnjoy, and if the mod breaks or has any issues, let me know\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/genji-yasuoremake\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/genji-yasuo-remake/thumb.webp?v=4815181e",
+	"file": {
+		"version": 1,
+		"asset": "genji-yasuo-remake-v1.fantome",
+		"size": 19879965,
+		"sha256": "8e31b2d0f78f618bba2f60fbe2fec3069f5ccf56417f342a8bc7fee26c7149a6"
+	},
+	"chromas": []
+}

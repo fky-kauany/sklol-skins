@@ -1,0 +1,26 @@
+{
+	"id": "genji-yone",
+	"name": "Genji Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "frog",
+	"description": "### **? Mod Info**\n\n**Type:**etc.\n**Modified Skin(s):**All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n\n### **? Credits**\n\n**Model(s):**\n**Special Thanks:**\n\n### **? Additional Info**\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[**Discord**](https://divineskins.gg/explore-mods/535#)•[**X / Twitter**](https://divineskins.gg/explore-mods/535#)\n\n### **? Support Me**\n\nEnjoyed the mod? Help fuel future projects:[**Donate**](https://divineskins.gg/explore-mods/535#)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/genji-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/genji-yone/thumb.webp?v=e41b3f50",
+	"file": {
+		"version": 1,
+		"asset": "genji-yone-v1.fantome",
+		"size": 24746247,
+		"sha256": "6c3f66e3861c9f17ddcecd754b6bceb4848f299fea53be73b7622d77a6e4265a"
+	},
+	"chromas": []
+}

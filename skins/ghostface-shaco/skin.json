@@ -1,0 +1,26 @@
+{
+	"id": "ghostface-shaco",
+	"name": "Ghostface Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/ghostface-shaco\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ghostface-shaco/thumb.webp?v=686d7810",
+	"file": {
+		"version": 1,
+		"asset": "ghostface-shaco-v1.fantome",
+		"size": 5870230,
+		"sha256": "ec6f3a925229cce3152db5061be4436cde16e7929f34c959fbc0597b1cffb08f"
+	},
+	"chromas": []
+}

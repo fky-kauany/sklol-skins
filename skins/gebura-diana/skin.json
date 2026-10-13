@@ -1,0 +1,26 @@
+{
+	"id": "gebura-diana",
+	"name": "Gebura Diana",
+	"champion": 131,
+	"base": 0,
+	"creator": "frog",
+	"description": "![CnP 13082026 145649](https://imagetourl.im/api/storage/file?key=uploads%2Fd870f12c-e749-4f64-a57d-a72bdabd4a6b-CnP_13082026_145649.png)\n\nSkin made for ligre\n\nModel from https://steamcommunity.com/sharedfiles/filedetails/?id=3587891297\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gebura-diana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gebura-diana/thumb.webp?v=d0ee45d6",
+	"file": {
+		"version": 1,
+		"asset": "gebura-diana-v1.fantome",
+		"size": 41045059,
+		"sha256": "ac9032be61f183d84a370e03f607ccef3060031323128b4a831bc31fdfc4b7ed"
+	},
+	"chromas": []
+}

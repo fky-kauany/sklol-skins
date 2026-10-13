@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:52:26.853Z",
+	"generatedAt": "2026-10-13T02:55:45.099Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -11398,6 +11398,264 @@
 				"asset": "gawr-gura-neeko-v1.fantome",
 				"size": 24012445,
 				"sha256": "cc964da3d350f4eb3c3991a3590e20bc2c5c7dc8d34eabbe8dee5bec7451a454"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gebura-diana",
+			"name": "Gebura Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gebura-diana/thumb.webp?v=d0ee45d6",
+			"file": {
+				"version": 1,
+				"asset": "gebura-diana-v1.fantome",
+				"size": 41045059,
+				"sha256": "ac9032be61f183d84a370e03f607ccef3060031323128b4a831bc31fdfc4b7ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gengar-tahm-kench",
+			"name": "Gengar Tahm Kench",
+			"champion": 223,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gengar-tahm-kench/thumb.webp?v=754a9b1f",
+			"file": {
+				"version": 1,
+				"asset": "gengar-tahm-kench-v1.fantome",
+				"size": 7275756,
+				"sha256": "3069339f1c61b1ba754477f061fd273c7cfdec992700b9caff7242cbea45df13"
+			},
+			"chromas": []
+		},
+		{
+			"id": "genji-yasuo-remake",
+			"name": "Genji yasuo(REMAKE)",
+			"champion": 157,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/genji-yasuo-remake/thumb.webp?v=4815181e",
+			"file": {
+				"version": 1,
+				"asset": "genji-yasuo-remake-v1.fantome",
+				"size": 19879965,
+				"sha256": "8e31b2d0f78f618bba2f60fbe2fec3069f5ccf56417f342a8bc7fee26c7149a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "genji-yone",
+			"name": "Genji Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/genji-yone/thumb.webp?v=e41b3f50",
+			"file": {
+				"version": 1,
+				"asset": "genji-yone-v1.fantome",
+				"size": 24746247,
+				"sha256": "6c3f66e3861c9f17ddcecd754b6bceb4848f299fea53be73b7622d77a6e4265a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "genos-vi",
+			"name": "Genos Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/genos-vi/thumb.webp?v=a7ab2b08",
+			"file": {
+				"version": 1,
+				"asset": "genos-vi-v1.fantome",
+				"size": 14846310,
+				"sha256": "ba9edd0c3bde5bf1986cd9b284bc5917abe650db7103162ed205fb7347f072e3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gerie-ambessa-stella-sora",
+			"name": "Gerie Ambessa (Stella Sora)",
+			"champion": 799,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gerie-ambessa-stella-sora/thumb.webp?v=e93cbd69",
+			"file": {
+				"version": 1,
+				"asset": "gerie-ambessa-stella-sora-v1.fantome",
+				"size": 26207517,
+				"sha256": "dd4b94340e13c2b9344be0e9cff89b9889c4b052d387b5940fbc383642a4716b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ghost-akshan",
+			"name": "Ghost Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ghost-akshan/thumb.webp?v=6cc3e49c",
+			"file": {
+				"version": 1,
+				"asset": "ghost-akshan-v1.fantome",
+				"size": 16461512,
+				"sha256": "dc27f6870e1dd606233f3c33b33c3eeb6243860679546b4eae86cf4df1abf4a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ghostface-master-yi",
+			"name": "Ghostface Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ghostface-master-yi/thumb.webp?v=9303aefa",
+			"file": {
+				"version": 1,
+				"asset": "ghostface-master-yi-v1.fantome",
+				"size": 14827036,
+				"sha256": "ec917ed659026e167e2903b9d122116ec0ada196bd0f182542aef9e92dee45e4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ghostface-pyke",
+			"name": "Ghostface Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ghostface-pyke/thumb.webp?v=afd2403f",
+			"file": {
+				"version": 1,
+				"asset": "ghostface-pyke-v1.fantome",
+				"size": 21654342,
+				"sha256": "39d1f198c949b2375a009176dba3117b01b4fb27f76e36a56edc248093241b5f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ghostface-shaco",
+			"name": "Ghostface Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ghostface-shaco/thumb.webp?v=686d7810",
+			"file": {
+				"version": 1,
+				"asset": "ghostface-shaco-v1.fantome",
+				"size": 5870230,
+				"sha256": "ec6f3a925229cce3152db5061be4436cde16e7929f34c959fbc0597b1cffb08f"
 			},
 			"chromas": []
 		},
