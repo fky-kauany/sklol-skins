@@ -1,0 +1,26 @@
+{
+	"id": "ink-fizz",
+	"name": "Ink Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### 📌 Mod Info\n**Type:** Custom Skin for Fizz\n**Modified Skin(s):** All skins except Legendary-tier and above.\n\n### 🧾 Credits\n**Special Thanks:** Kibu for requesting and funding the skin.\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: [Donate](https://ko-fi.com/czkostumli)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/ink-fizz\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ink-fizz/thumb.webp?v=1c77d995",
+	"file": {
+		"version": 1,
+		"asset": "ink-fizz-v1.fantome",
+		"size": 18747904,
+		"sha256": "e5509195734bd193efe073f677258328362c623cf43663213c10f7b9a4b2ed3b"
+	},
+	"chromas": []
+}

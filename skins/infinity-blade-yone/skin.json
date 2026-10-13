@@ -1,0 +1,25 @@
+{
+	"id": "infinity-blade-yone",
+	"name": "Infinity Blade Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Yone\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/infinity-blade-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/infinity-blade-yone/thumb.webp?v=f6b53ed4",
+	"file": {
+		"version": 1,
+		"asset": "infinity-blade-yone-v1.fantome",
+		"size": 2758202,
+		"sha256": "f3773eeb50696d248c604afd76690022cbccddb6e0956fdbd5623e8a150be1db"
+	},
+	"chromas": []
+}

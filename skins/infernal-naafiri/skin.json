@@ -1,0 +1,26 @@
+{
+	"id": "infernal-naafiri",
+	"name": "Infernal Naafiri",
+	"champion": 950,
+	"base": 0,
+	"creator": "mava",
+	"description": "Skin modified: Default Naafiri\n\nKinda Infernal Riot Style skin \n\nWill add new recall, when the tools works :p\n\n---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/infernal-naafiri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/infernal-naafiri/thumb.webp?v=6244d558",
+	"file": {
+		"version": 1,
+		"asset": "infernal-naafiri-v1.fantome",
+		"size": 10873283,
+		"sha256": "2b967b2abc1e247f3a8773aecdc20918e40707522fde36199056aa27e53016b5"
+	},
+	"chromas": []
+}

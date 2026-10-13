@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:31:21.443Z",
+	"generatedAt": "2026-10-13T03:34:42.636Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -3069,6 +3069,259 @@
 				"asset": "incredible-gassy-singed-v1.fantome",
 				"size": 2495005,
 				"sha256": "0ed66ebf377fb0cc91ae14ac83e562a3f405ce545ef6117fa16802fc99856ada"
+			},
+			"chromas": []
+		},
+		{
+			"id": "indiana-jones-akshan",
+			"name": "Indiana Jones Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/indiana-jones-akshan/thumb.webp?v=3683c063",
+			"file": {
+				"version": 1,
+				"asset": "indiana-jones-akshan-v1.fantome",
+				"size": 5722206,
+				"sha256": "322bb764b23ca631ae1173426c1ab95afbf27e2dee729c9bcc99344e8bf092e8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "infernal-kassadin",
+			"name": "Infernal Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/infernal-kassadin/thumb.webp?v=7df4b9bf",
+			"file": {
+				"version": 1,
+				"asset": "infernal-kassadin-v1.fantome",
+				"size": 17375440,
+				"sha256": "3f7612ad58ba0f6f173f7ae810dc8c44aecf072ee51d847500f876b1951007bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "infernal-naafiri",
+			"name": "Infernal Naafiri",
+			"champion": 950,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/infernal-naafiri/thumb.webp?v=6244d558",
+			"file": {
+				"version": 1,
+				"asset": "infernal-naafiri-v1.fantome",
+				"size": 10873283,
+				"sha256": "2b967b2abc1e247f3a8773aecdc20918e40707522fde36199056aa27e53016b5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "infernape-wukong",
+			"name": "Infernape Wukong",
+			"champion": 62,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/infernape-wukong/thumb.webp?v=44a44bfd",
+			"file": {
+				"version": 1,
+				"asset": "infernape-wukong-v1.fantome",
+				"size": 4595765,
+				"sha256": "7e8711be3895c359c687200da6f0055b8fec53aae48b5bbecae46deaada16b77"
+			},
+			"chromas": []
+		},
+		{
+			"id": "infinity-blade-yone",
+			"name": "Infinity Blade Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/infinity-blade-yone/thumb.webp?v=f6b53ed4",
+			"file": {
+				"version": 1,
+				"asset": "infinity-blade-yone-v1.fantome",
+				"size": 2758202,
+				"sha256": "f3773eeb50696d248c604afd76690022cbccddb6e0956fdbd5623e8a150be1db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "inigo-montoya-fiora",
+			"name": "Inigo Montoya Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/inigo-montoya-fiora/thumb.webp?v=c09820e5",
+			"file": {
+				"version": 1,
+				"asset": "inigo-montoya-fiora-v1.fantome",
+				"size": 8704266,
+				"sha256": "9e050c82ad88419580c8eee140530f03005619e62c3c7db148e7ce45d1221ceb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ink-demon-aphelios",
+			"name": "Ink Demon Aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ink-demon-aphelios/thumb.webp?v=b416ddba",
+			"file": {
+				"version": 1,
+				"asset": "ink-demon-aphelios-v1.fantome",
+				"size": 11117097,
+				"sha256": "15c0ed19eceb27c46e84b54bdfd053915477d2d5dd0ee46ad2c88af70e54e78a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ink-fizz",
+			"name": "Ink Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ink-fizz/thumb.webp?v=1c77d995",
+			"file": {
+				"version": 1,
+				"asset": "ink-fizz-v1.fantome",
+				"size": 18747904,
+				"sha256": "e5509195734bd193efe073f677258328362c623cf43663213c10f7b9a4b2ed3b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "inkbound-briar",
+			"name": "Inkbound Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/inkbound-briar/thumb.webp?v=274832d4",
+			"file": {
+				"version": 1,
+				"asset": "inkbound-briar-v1.fantome",
+				"size": 14012986,
+				"sha256": "fe99499755145084c1cea566f891303fd789c299bdf5150f0ec966379f6c89c3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "inkshadow-aphelios",
+			"name": "Inkshadow Aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/inkshadow-aphelios/thumb.webp?v=6c019c51",
+			"file": {
+				"version": 1,
+				"asset": "inkshadow-aphelios-v1.fantome",
+				"size": 26909058,
+				"sha256": "a976c30d9ddb6b1f4672e3e7faa1b38ed8af1b6c1ae74cf84e22e6862ef67b07"
 			},
 			"chromas": []
 		},

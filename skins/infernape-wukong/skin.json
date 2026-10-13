@@ -1,0 +1,26 @@
+{
+	"id": "infernape-wukong",
+	"name": "Infernape Wukong",
+	"champion": 62,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/infernape-wukong\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/infernape-wukong/thumb.webp?v=44a44bfd",
+	"file": {
+		"version": 1,
+		"asset": "infernape-wukong-v1.fantome",
+		"size": 4595765,
+		"sha256": "7e8711be3895c359c687200da6f0055b8fec53aae48b5bbecae46deaada16b77"
+	},
+	"chromas": []
+}

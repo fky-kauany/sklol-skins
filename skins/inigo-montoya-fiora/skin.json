@@ -1,0 +1,26 @@
+{
+	"id": "inigo-montoya-fiora",
+	"name": "Inigo Montoya Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "inigo montoya fiora skin made for @oneeye2kl\n\n### mod features:\n- \"Hello, my name is Inigo Montoya. You killed my father. Prepare to die.\"\n- \"Hello, my name is Inigo Montoya. You killed my father. Prepare to die.\"\n- \"Hello, my name is Inigo Montoya. You killed my father. Prepare to die.\"\n- \"Hello, my name is Inigo Montoya. You killed my father. Prepare to die.\"\n\n\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/inigo-montoya-fiora\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/inigo-montoya-fiora/thumb.webp?v=c09820e5",
+	"file": {
+		"version": 1,
+		"asset": "inigo-montoya-fiora-v1.fantome",
+		"size": 8704266,
+		"sha256": "9e050c82ad88419580c8eee140530f03005619e62c3c7db148e7ce45d1221ceb"
+	},
+	"chromas": []
+}

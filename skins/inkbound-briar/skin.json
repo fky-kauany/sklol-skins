@@ -1,0 +1,25 @@
+{
+	"id": "inkbound-briar",
+	"name": "Inkbound Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "disco",
+	"description": "**If you like the skin theme, give ideas for another champions to try it out on them in the comments**\n\n*The splashart and ability icons are made by AI*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/inkbound-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/inkbound-briar/thumb.webp?v=274832d4",
+	"file": {
+		"version": 1,
+		"asset": "inkbound-briar-v1.fantome",
+		"size": 14012986,
+		"sha256": "fe99499755145084c1cea566f891303fd789c299bdf5150f0ec966379f6c89c3"
+	},
+	"chromas": []
+}
