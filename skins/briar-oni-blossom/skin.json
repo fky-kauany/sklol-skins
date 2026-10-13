@@ -1,0 +1,26 @@
+{
+	"id": "briar-oni-blossom",
+	"name": "Oni Blossom",
+	"champion": 233,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/oni-blossom-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-oni-blossom/thumb.webp?v=9a33a2ca",
+	"file": {
+		"version": 1,
+		"asset": "briar-oni-blossom-v1.fantome",
+		"size": 20321647,
+		"sha256": "b073c56f68cb03c548082fb80b2d8c937320c7cf39421198d1fe7a99e428334c"
+	},
+	"chromas": []
+}

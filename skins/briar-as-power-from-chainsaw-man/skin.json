@@ -1,0 +1,24 @@
+{
+	"id": "briar-as-power-from-chainsaw-man",
+	"name": "Briar as POWER from chainsaw man",
+	"champion": 233,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/briar-as-power-from-chainsaw-man\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-as-power-from-chainsaw-man/thumb.webp?v=ebb7732f",
+	"file": {
+		"version": 1,
+		"asset": "briar-as-power-from-chainsaw-man-v1.fantome",
+		"size": 3512937,
+		"sha256": "e3d92867d1307e74e600b9044a7f7e23d8bba9d4ee3dbe072cf9c2c7b8f897aa"
+	},
+	"chromas": []
+}

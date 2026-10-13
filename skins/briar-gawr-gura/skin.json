@@ -1,0 +1,26 @@
+{
+	"id": "briar-gawr-gura",
+	"name": "Gawr Gura",
+	"champion": 233,
+	"base": 0,
+	"creator": "frog",
+	"description": "Gawr Gura Briar • Custom model • Custom Abilities  • Works on every Briar skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gawr-gura-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-gawr-gura/thumb.webp?v=e8d9db2e",
+	"file": {
+		"version": 1,
+		"asset": "briar-gawr-gura-v1.fantome",
+		"size": 18090671,
+		"sha256": "6749c2255ed781a6e9a69c38fa80b15e0c73632b1f59fbe06ab34dd21fb8fb2c"
+	},
+	"chromas": []
+}

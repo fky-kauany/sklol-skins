@@ -1,0 +1,26 @@
+{
+	"id": "briar-beeriar",
+	"name": "Beeriar",
+	"champion": 233,
+	"base": 0,
+	"creator": "frog",
+	"description": "Model taken from new Beeko Skin.\r\n\r\nIdea from: https://www.reddit.com/r/BriarMains/comments/1o0ndrc/this_should_have_been_briar\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/beeriar-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-beeriar/thumb.webp?v=56ab5643",
+	"file": {
+		"version": 1,
+		"asset": "briar-beeriar-v1.fantome",
+		"size": 30875263,
+		"sha256": "c028313f5952ecc0793d2ed69125040610afea9ee7e93ac61f314664ce2a9a27"
+	},
+	"chromas": []
+}

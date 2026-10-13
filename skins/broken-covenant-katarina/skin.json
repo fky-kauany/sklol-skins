@@ -1,0 +1,25 @@
+{
+	"id": "broken-covenant-katarina",
+	"name": "Broken Covenant Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2083365999974244816?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Katarina\r\n* Skin: Default/Chosen of the Wolf Katarina\r\n* Description: Broken Covenant Katarina Request from Voting\r\n\r\n# Features\r\n\r\n* Recolored Abilities to Grayish/Blueish\r\n* Custom Model\r\n* Custom VFX\r\n\r\n# ![](https://i.imgur.com/FAR3dg6.png)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/broken-covenant-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/broken-covenant-katarina/thumb.webp?v=5611a76d",
+	"file": {
+		"version": 1,
+		"asset": "broken-covenant-katarina-v1.fantome",
+		"size": 46608875,
+		"sha256": "4f719b0b5f426b6379787ce0724116b9a86eba5809610f15ea83478941dcc3d3"
+	},
+	"chromas": []
+}

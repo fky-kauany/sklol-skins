@@ -1,0 +1,26 @@
+{
+	"id": "briar-android-21",
+	"name": "Android 21",
+	"champion": 233,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Android 21 Briar\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Briar skin\r\n• Custom Voiceover of Android 21 (only for en_US league version)\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/android-21-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-android-21/thumb.webp?v=89e4b998",
+	"file": {
+		"version": 1,
+		"asset": "briar-android-21-v1.fantome",
+		"size": 15001924,
+		"sha256": "e77bc42756e7011040cde5e08d9d3e5fd08aba7fc4f5bd69bd6bc36605607426"
+	},
+	"chromas": []
+}

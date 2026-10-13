@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:10:49.234Z",
+	"generatedAt": "2026-10-13T01:14:12.642Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -264,6 +264,16 @@
 			"links": {
 				"discord": "https://discord.gg/vXHXVgv7qy",
 				"x": "https://x.com/Nyxns0"
+			}
+		},
+		"pimek": {
+			"name": "pimek",
+			"bio": "# Making RIOTlike edgy and meme mods\n\n* All skins here all my best one\n\nthe other mods can be found on discord",
+			"links": {
+				"discord": "https://discord.gg/hexrtbrxenchromas",
+				"kofi": "https://ko-fi.com/p1mek",
+				"site": "https://i.imgur.com/FAR3dg6.png",
+				"x": "https://x.com/p1mek"
 			}
 		},
 		"rorotea1": {
@@ -4593,6 +4603,263 @@
 				"asset": "briar-airi-akizuki-v1.fantome",
 				"size": 29176493,
 				"sha256": "b01370ee9b183c229bc313a5b2d8a2e17ba77047e2bad9dd3e9ee7426a8a8216"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-android-21",
+			"name": "Android 21",
+			"champion": 233,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-android-21/thumb.webp?v=89e4b998",
+			"file": {
+				"version": 1,
+				"asset": "briar-android-21-v1.fantome",
+				"size": 15001924,
+				"sha256": "e77bc42756e7011040cde5e08d9d3e5fd08aba7fc4f5bd69bd6bc36605607426"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-as-power-from-chainsaw-man",
+			"name": "Briar as POWER from chainsaw man",
+			"champion": 233,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-as-power-from-chainsaw-man/thumb.webp?v=ebb7732f",
+			"file": {
+				"version": 1,
+				"asset": "briar-as-power-from-chainsaw-man-v1.fantome",
+				"size": 3512937,
+				"sha256": "e3d92867d1307e74e600b9044a7f7e23d8bba9d4ee3dbe072cf9c2c7b8f897aa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-beeriar",
+			"name": "Beeriar",
+			"champion": 233,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-beeriar/thumb.webp?v=56ab5643",
+			"file": {
+				"version": 1,
+				"asset": "briar-beeriar-v1.fantome",
+				"size": 30875263,
+				"sha256": "c028313f5952ecc0793d2ed69125040610afea9ee7e93ac61f314664ce2a9a27"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-gawr-gura",
+			"name": "Gawr Gura",
+			"champion": 233,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-gawr-gura/thumb.webp?v=e8d9db2e",
+			"file": {
+				"version": 1,
+				"asset": "briar-gawr-gura-v1.fantome",
+				"size": 18090671,
+				"sha256": "6749c2255ed781a6e9a69c38fa80b15e0c73632b1f59fbe06ab34dd21fb8fb2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-nazuna",
+			"name": "Nazuna",
+			"champion": 233,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-nazuna/thumb.webp?v=ea1047ed",
+			"file": {
+				"version": 1,
+				"asset": "briar-nazuna-v1.fantome",
+				"size": 12166185,
+				"sha256": "e47d0c628701099f47cb7922671a3a28bae59f6c41c0f27e9f7e39c85f41428f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-oni-blossom",
+			"name": "Oni Blossom",
+			"champion": 233,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-oni-blossom/thumb.webp?v=9a33a2ca",
+			"file": {
+				"version": 1,
+				"asset": "briar-oni-blossom-v1.fantome",
+				"size": 20321647,
+				"sha256": "b073c56f68cb03c548082fb80b2d8c937320c7cf39421198d1fe7a99e428334c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-ram",
+			"name": "Ram",
+			"champion": 233,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-ram/thumb.webp?v=4e2c9ec9",
+			"file": {
+				"version": 1,
+				"asset": "briar-ram-v1.fantome",
+				"size": 18426963,
+				"sha256": "15e28a7ae4fc0f70938d3b9cff38afcf7799a5e219247e0ae4bbe676860a9a54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-spirit-blossom",
+			"name": "Spirit Blossom",
+			"champion": 233,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-spirit-blossom/thumb.webp?v=bea3d763",
+			"file": {
+				"version": 1,
+				"asset": "briar-spirit-blossom-v1.fantome",
+				"size": 7965127,
+				"sha256": "3b02f554adfa731e000f788064360b86ad497fc31f27ae0c5f878af2f76d8dd3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bridget-ezreal",
+			"name": "Bridget Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bridget-ezreal/thumb.webp?v=df2d3e0b",
+			"file": {
+				"version": 1,
+				"asset": "bridget-ezreal-v1.fantome",
+				"size": 35630016,
+				"sha256": "72916037b33784140d4c05d203ddf470b3d21d39bd8aab8fa0dc37654edcedb2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "broken-covenant-katarina",
+			"name": "Broken Covenant Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/broken-covenant-katarina/thumb.webp?v=5611a76d",
+			"file": {
+				"version": 1,
+				"asset": "broken-covenant-katarina-v1.fantome",
+				"size": 46608875,
+				"sha256": "4f719b0b5f426b6379787ce0724116b9a86eba5809610f15ea83478941dcc3d3"
 			},
 			"chromas": []
 		},

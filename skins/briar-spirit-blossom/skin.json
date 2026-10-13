@@ -1,0 +1,26 @@
+{
+	"id": "briar-spirit-blossom",
+	"name": "Spirit Blossom",
+	"champion": 233,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/spirit-blossom-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-spirit-blossom/thumb.webp?v=bea3d763",
+	"file": {
+		"version": 1,
+		"asset": "briar-spirit-blossom-v1.fantome",
+		"size": 7965127,
+		"sha256": "3b02f554adfa731e000f788064360b86ad497fc31f27ae0c5f878af2f76d8dd3"
+	},
+	"chromas": []
+}

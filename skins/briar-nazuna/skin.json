@@ -1,0 +1,26 @@
+{
+	"id": "briar-nazuna",
+	"name": "Nazuna",
+	"champion": 233,
+	"base": 0,
+	"creator": "frog",
+	"description": "Nazuna Briar\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Briar skin\r\n• Custom Voiceover of Nazuna\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/nazuna-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-nazuna/thumb.webp?v=ea1047ed",
+	"file": {
+		"version": 1,
+		"asset": "briar-nazuna-v1.fantome",
+		"size": 12166185,
+		"sha256": "e47d0c628701099f47cb7922671a3a28bae59f6c41c0f27e9f7e39c85f41428f"
+	},
+	"chromas": []
+}

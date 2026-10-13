@@ -1,0 +1,26 @@
+{
+	"id": "briar-ram",
+	"name": "Ram",
+	"champion": 233,
+	"base": 0,
+	"creator": "frog",
+	"description": "Ram Briar\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Briar skin\r\n• Custom Voiceover of Ram\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/ram-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-ram/thumb.webp?v=4e2c9ec9",
+	"file": {
+		"version": 1,
+		"asset": "briar-ram-v1.fantome",
+		"size": 18426963,
+		"sha256": "15e28a7ae4fc0f70938d3b9cff38afcf7799a5e219247e0ae4bbe676860a9a54"
+	},
+	"chromas": []
+}
