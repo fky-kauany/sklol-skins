@@ -1,0 +1,26 @@
+{
+	"id": "noxus-hunter-anivia-red",
+	"name": "Noxus Hunter Anivia - Red",
+	"champion": 34,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Noxus Hunter Anivia\n\n╰┈➤ _The idea for this mod was to give one of Anivia's old skins a chroma that almost reimagines the vibe to Noxian themes._\n\n#### **I've taken an interest in going to older skins without chromas/that were chromas of base skins recently and giving them a chroma, if you have any suggestions please drop by my discord!!**\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/noxus-hunter-anivia-red\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/noxus-hunter-anivia-red/thumb.webp?v=7788c33a",
+	"file": {
+		"version": 1,
+		"asset": "noxus-hunter-anivia-red-v1.fantome",
+		"size": 6880872,
+		"sha256": "a781e7f3f96a89d065c8cb841165da94fd6f9922c1d5bd2ef226e5b1a04af213"
+	},
+	"chromas": []
+}

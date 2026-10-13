@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:10:03.868Z",
+	"generatedAt": "2026-10-13T05:13:13.773Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -10788,6 +10788,262 @@
 				"asset": "nightbringer-yasuo-white-hair-purple-effect-chro-v1.fantome",
 				"size": 25222281,
 				"sha256": "c962603e7db53cb1d751b81d55554546fe2324ac2b7ec076b3d53ebb41e9f194"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nilah-midnight",
+			"name": "Nilah Midnight",
+			"champion": 895,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nilah-midnight/thumb.webp?v=3733a20f",
+			"file": {
+				"version": 1,
+				"asset": "nilah-midnight-v1.fantome",
+				"size": 27248326,
+				"sha256": "cd11168b415542c4639da484495d39882f9e0abcd749413e84c81f952bdcd267"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ningguang-syndra",
+			"name": "Ningguang Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ningguang-syndra/thumb.webp?v=6ea8be2e",
+			"file": {
+				"version": 1,
+				"asset": "ningguang-syndra-v1.fantome",
+				"size": 1517210,
+				"sha256": "d72f80de61985e94718b92b1bdbea5b400ee4de6cdad55fa7c421c04df76534f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ninja-monkey-kennen",
+			"name": "Ninja Monkey Kennen",
+			"champion": 85,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ninja-monkey-kennen/thumb.webp?v=c4716645",
+			"file": {
+				"version": 1,
+				"asset": "ninja-monkey-kennen-v1.fantome",
+				"size": 6517135,
+				"sha256": "2d49a0ecf01e08ee695f4d5e2413b464df4b6218649eda5f20a50ca2d4249a15"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nobara-locke",
+			"name": "nobara locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nobara-locke/thumb.webp?v=d5406463",
+			"file": {
+				"version": 1,
+				"asset": "nobara-locke-v1.fantome",
+				"size": 34726904,
+				"sha256": "66b6e096ac4ee6e3501b2269f3b15307262af295c974aa8d20a6aef275c4127d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nobara-yunara",
+			"name": "Nobara Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nobara-yunara/thumb.webp?v=a4f52153",
+			"file": {
+				"version": 1,
+				"asset": "nobara-yunara-v1.fantome",
+				"size": 8961211,
+				"sha256": "d1c7c88994640cd80cfadf31aba3b39c731aa33bfb8f1ab11f1acc74534893f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nocturne-dark-angel",
+			"name": "Dark Angel",
+			"champion": 56,
+			"base": 0,
+			"creator": "thoxainn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nocturne-dark-angel/thumb.webp?v=449091e5",
+			"file": {
+				"version": 1,
+				"asset": "nocturne-dark-angel-v1.fantome",
+				"size": 5028558,
+				"sha256": "b660c0faa78b9ce4c5cd7fd4f12292905083baea49b98278669955ef00398a99"
+			},
+			"chromas": []
+		},
+		{
+			"id": "noelle-leona",
+			"name": "Noelle Leona",
+			"champion": 89,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/noelle-leona/thumb.webp?v=49b59626",
+			"file": {
+				"version": 1,
+				"asset": "noelle-leona-v1.fantome",
+				"size": 6226316,
+				"sha256": "62f67ed72792e0d2ff441714fcc8b9dcd5f9a0fa7fca3e4823adc89694e99b0d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nothing-ever-happens-draven",
+			"name": "nothing ever happens draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nothing-ever-happens-draven/thumb.webp?v=b01f94be",
+			"file": {
+				"version": 1,
+				"asset": "nothing-ever-happens-draven-v1.fantome",
+				"size": 3095478,
+				"sha256": "f826e337ad960f2a9defe36321bb01caca33cbac500367125f0a39a1341d61bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "noxus-hunter-anivia-red",
+			"name": "Noxus Hunter Anivia - Red",
+			"champion": 34,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/noxus-hunter-anivia-red/thumb.webp?v=7788c33a",
+			"file": {
+				"version": 1,
+				"asset": "noxus-hunter-anivia-red-v1.fantome",
+				"size": 6880872,
+				"sha256": "a781e7f3f96a89d065c8cb841165da94fd6f9922c1d5bd2ef226e5b1a04af213"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nui-gwen",
+			"name": "Nui Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nui-gwen/thumb.webp?v=e256b5c3",
+			"file": {
+				"version": 1,
+				"asset": "nui-gwen-v1.fantome",
+				"size": 6630150,
+				"sha256": "0c0b72839f261bd1e746736da13288e94e8bb716627d53329a0e9efff8615659"
 			},
 			"chromas": []
 		},

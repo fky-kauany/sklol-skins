@@ -1,0 +1,26 @@
+{
+	"id": "nobara-yunara",
+	"name": "Nobara Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "frog",
+	"description": "Repaired on 19/11/2025\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/nobara-yunara\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nobara-yunara/thumb.webp?v=a4f52153",
+	"file": {
+		"version": 1,
+		"asset": "nobara-yunara-v1.fantome",
+		"size": 8961211,
+		"sha256": "d1c7c88994640cd80cfadf31aba3b39c731aa33bfb8f1ab11f1acc74534893f4"
+	},
+	"chromas": []
+}

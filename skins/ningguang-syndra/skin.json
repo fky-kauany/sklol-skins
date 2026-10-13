@@ -1,0 +1,24 @@
+{
+	"id": "ningguang-syndra",
+	"name": "Ningguang Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Ningguang Syndra\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/ningguang-syndra\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ningguang-syndra/thumb.webp?v=6ea8be2e",
+	"file": {
+		"version": 1,
+		"asset": "ningguang-syndra-v1.fantome",
+		"size": 1517210,
+		"sha256": "d72f80de61985e94718b92b1bdbea5b400ee4de6cdad55fa7c421c04df76534f"
+	},
+	"chromas": []
+}

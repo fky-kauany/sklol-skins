@@ -1,0 +1,26 @@
+{
+	"id": "nobara-locke",
+	"name": "nobara locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\n\n### DM IF SOMETHING BREAKS (or if you want to commission)\n# \n\n### LOCKE NOBARA FROM JUJUTSU KAISEN \n#\nFEATURES:\n* VOICE OVER COMING SOON\n* NEW VFX\n* CUSTOM MODEL\n\nNAILED THIS ONE\n\n*\"Rest in peace, my granny, she got hit by a bazooka\nKaboom, kablaow, kaboom\nRest in peace, my granny, she got hit by a bazooka\nYeah, I think about her every time I hit the hookah\nKaboom, kablaow, kaboom\nI was in my room tryna teach my little sister\nThen I heard a boom and it sounded like a missile\nWho that is? What that was?\nOh, that granny, oh, she done\"*\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/nobara-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nobara-locke/thumb.webp?v=d5406463",
+	"file": {
+		"version": 1,
+		"asset": "nobara-locke-v1.fantome",
+		"size": 34726904,
+		"sha256": "66b6e096ac4ee6e3501b2269f3b15307262af295c974aa8d20a6aef275c4127d"
+	},
+	"chromas": []
+}

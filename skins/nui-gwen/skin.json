@@ -1,0 +1,26 @@
+{
+	"id": "nui-gwen",
+	"name": "Nui Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "frog",
+	"description": "The Scissors are coming. This custom skin brings the adorable, yet terrifying, **Nui Harime** to the battlefield as **Gwen**. With her scissor blades in hand, she'll tear through your enemies with a smile, proving that true malice can be wrapped in a cutesy package. Don't be fooled by her cheerful disposition; she's here to slice everything—and everyone—to pieces.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/nui-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nui-gwen/thumb.webp?v=e256b5c3",
+	"file": {
+		"version": 1,
+		"asset": "nui-gwen-v1.fantome",
+		"size": 6630150,
+		"sha256": "0c0b72839f261bd1e746736da13288e94e8bb716627d53329a0e9efff8615659"
+	},
+	"chromas": []
+}
