@@ -1,0 +1,25 @@
+{
+	"id": "dark-star-zed",
+	"name": "Dark Star Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2073968980964884645?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Zed\r\n* Skin: Default/Galaxy Slayer\r\n* Dark Star Zed made scrapped from all Dark Star Skins\r\n\r\n# Features\r\n\r\n- Loadingscreen\r\n- VFX\r\n- Model\r\n\r\n![](https://i.imgur.com/ZM0acxo.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/dark-star-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dark-star-zed/thumb.webp?v=adbb1115",
+	"file": {
+		"version": 1,
+		"asset": "dark-star-zed-v1.fantome",
+		"size": 17952328,
+		"sha256": "c64eb0b25bbf4eca85b3bc2b6ad0fc6c3cb5dbb0f39fb0b2a517046c12696f98"
+	},
+	"chromas": []
+}

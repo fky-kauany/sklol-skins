@@ -1,0 +1,26 @@
+{
+	"id": "darkrai-lillia",
+	"name": "Darkrai (Lillia)",
+	"champion": 876,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Lillia\n\nSkin:  Default\n\nAuthor: Sauronkaiser\n\nDescription: Darkrai from the Pokemon franchise\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-Silent voiceover.\n\n-Spiritomb included.\n\n-Nightmares included.\n\n-Happy Halloween 2024!\n\nlegacy Changelog:\n\n-02/11/2024: First official release\n\n-07/02/2025: Fixed for new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n-15/04/2025: Fixed for new patch again\n\n-02/05/2025: Fixed sounds for new patch\n\nSources and references:\n\n-All animations made by me\n\n-Rig and model extracted from Pokemon, then adapted.\n\n-Sound effects; some made by me, others adapted from Pokemon assets, others made by ksound kaiju (contacting the original author was not possible).\n\n-Voice in taunt emote from Dumbs.\n\n-The songs in Dance emote are, in order:\n\n---Pokemon intro (original)\n\n---Battle vs Dialga, Pokemon Mistery Dungeon explorers of time\n\n---Advanced battle theme from Pokemon Ruby/Shaphire (original versions)\n\n---Battle VS Red, metal version by unknown annonymous artist.\n\n---Lavender town music\n\n-The easter egg when summoning the Herald is a meme related to the spanish youtuber/streamer Knekro.\n\n-The screen effect in the joke emote was first engineered by other memebers of the community, between them NyhtSeven.\n\n-Splashart and ability icons built from Pokemon cards art.\n\nLegacy Changelog:\n\n-02/11/2024: First official release\n\n-07/02/2025: Fixed for new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n-15/04/2025: Fixed for new patch again\n\n-02/05/2025: Fixed sounds for new patch\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/darkrai-lillia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darkrai-lillia/thumb.webp?v=078ac789",
+	"file": {
+		"version": 1,
+		"asset": "darkrai-lillia-v1.fantome",
+		"size": 29428365,
+		"sha256": "01a89327c158aeb49d7a8a711bae07eb9ba9c0c58f4ddb34bd3fbd65f6fa50d3"
+	},
+	"chromas": []
+}

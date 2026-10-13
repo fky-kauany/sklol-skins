@@ -1,0 +1,25 @@
+{
+	"id": "dark-star-kassadin",
+	"name": "Dark Star Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2060955931085623430?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Kassadin\n* Skin: Default/Cosmic Reaver\n* Dark Star Kassadin made scrapped from all Dark Star Skins\n\n# Features\n\n- Loadingscreen\n- VFX\n- Model\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/dark-star-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dark-star-kassadin/thumb.webp?v=02c0c592",
+	"file": {
+		"version": 1,
+		"asset": "dark-star-kassadin-v1.fantome",
+		"size": 49633622,
+		"sha256": "8a0be7793016227234ffb821355d80ba124f5825c988e198892d61de708c2c4c"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:51:52.497Z",
+	"generatedAt": "2026-10-13T01:55:11.553Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -7480,6 +7480,260 @@
 				"asset": "dark-shadow-viego-v1.fantome",
 				"size": 12496255,
 				"sha256": "f71778db62b17ad3291638e205eab92227f9eeafe8c1c7231a7f5895bba8469a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-star-kassadin",
+			"name": "Dark Star Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dark-star-kassadin/thumb.webp?v=02c0c592",
+			"file": {
+				"version": 1,
+				"asset": "dark-star-kassadin-v1.fantome",
+				"size": 49633622,
+				"sha256": "8a0be7793016227234ffb821355d80ba124f5825c988e198892d61de708c2c4c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-star-quinn",
+			"name": "Dark Star Quinn",
+			"champion": 133,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dark-star-quinn/thumb.webp?v=2c072b85",
+			"file": {
+				"version": 1,
+				"asset": "dark-star-quinn-v1.fantome",
+				"size": 17742589,
+				"sha256": "b4721913773089461878dba8f0c03bd36ecf44f9e49eaa52c58e22f18b04d0d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-star-shen",
+			"name": "Dark Star Shen",
+			"champion": 98,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dark-star-shen/thumb.webp?v=4ec7b877",
+			"file": {
+				"version": 1,
+				"asset": "dark-star-shen-v1.fantome",
+				"size": 33782053,
+				"sha256": "3095891077df51ff0badd272d056043547f00e9409af8d32d603e6e5ddc41567"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-star-zed",
+			"name": "Dark Star Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dark-star-zed/thumb.webp?v=adbb1115",
+			"file": {
+				"version": 1,
+				"asset": "dark-star-zed-v1.fantome",
+				"size": 17952328,
+				"sha256": "c64eb0b25bbf4eca85b3bc2b6ad0fc6c3cb5dbb0f39fb0b2a517046c12696f98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darkrai-lillia",
+			"name": "Darkrai (Lillia)",
+			"champion": 876,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darkrai-lillia/thumb.webp?v=078ac789",
+			"file": {
+				"version": 1,
+				"asset": "darkrai-lillia-v1.fantome",
+				"size": 29428365,
+				"sha256": "01a89327c158aeb49d7a8a711bae07eb9ba9c0c58f4ddb34bd3fbd65f6fa50d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darkrai-nocturne",
+			"name": "Darkrai Nocturne",
+			"champion": 56,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darkrai-nocturne/thumb.webp?v=58d05746",
+			"file": {
+				"version": 1,
+				"asset": "darkrai-nocturne-v1.fantome",
+				"size": 5632176,
+				"sha256": "5949dd28efff7d3fcc851c59bb9cbf323ccccc2c3090f5cb5de90a7a89e5fd75"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dart-goblin-teemo-clash-royal",
+			"name": "dart goblin teemo (clash royal)",
+			"champion": 17,
+			"base": 4,
+			"creator": "mxdjid",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dart-goblin-teemo-clash-royal/thumb.webp?v=1a759eaf",
+			"file": {
+				"version": 1,
+				"asset": "dart-goblin-teemo-clash-royal-v1.fantome",
+				"size": 42611177,
+				"sha256": "bba6a794c7732664fd5fc20622adf46e5bb2368e1657079a5116694c10d0cfba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dart-monkey-teemo",
+			"name": "Dart Monkey Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dart-monkey-teemo/thumb.webp?v=e280d380",
+			"file": {
+				"version": 1,
+				"asset": "dart-monkey-teemo-v1.fantome",
+				"size": 11034761,
+				"sha256": "a668118f418cabba1f6625b7c43f9265d782eab2ce026e2b3aec37e20d95f6b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darth-maul-wukong",
+			"name": "Darth Maul Wukong",
+			"champion": 62,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darth-maul-wukong/thumb.webp?v=1deca192",
+			"file": {
+				"version": 1,
+				"asset": "darth-maul-wukong-v1.fantome",
+				"size": 12324854,
+				"sha256": "242d7d3891707f501571a8281345feab49b2b4272d1dbe38895ff9fbb24df256"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darth-vader-diana",
+			"name": "Darth Vader Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/darth-vader-diana/thumb.webp?v=b8bdf285",
+			"file": {
+				"version": 1,
+				"asset": "darth-vader-diana-v1.fantome",
+				"size": 2231574,
+				"sha256": "3fa946dcdccce1afe435950807576fe341155f62a10bf438ef8038ac8a5103e8"
 			},
 			"chromas": []
 		},

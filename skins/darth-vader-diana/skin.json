@@ -1,0 +1,24 @@
+{
+	"id": "darth-vader-diana",
+	"name": "Darth Vader Diana",
+	"champion": 131,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Diana\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/darth-vader-diana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darth-vader-diana/thumb.webp?v=b8bdf285",
+	"file": {
+		"version": 1,
+		"asset": "darth-vader-diana-v1.fantome",
+		"size": 2231574,
+		"sha256": "3fa946dcdccce1afe435950807576fe341155f62a10bf438ef8038ac8a5103e8"
+	},
+	"chromas": []
+}

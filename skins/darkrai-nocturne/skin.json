@@ -1,0 +1,26 @@
+{
+	"id": "darkrai-nocturne",
+	"name": "Darkrai Nocturne",
+	"champion": 56,
+	"base": 0,
+	"creator": "daka",
+	"description": "Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Pokemon Unite)\n- Custom Icons\n\nCredits:\n- Nyth (the Pokemon goat) for his guidance\n- Wiko for making the thumbnail\n- Cereel for recording the video\n- Tanaaxd for being TAAA NA\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/darkrai-nocturne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/darkrai-nocturne/thumb.webp?v=58d05746",
+	"file": {
+		"version": 1,
+		"asset": "darkrai-nocturne-v1.fantome",
+		"size": 5632176,
+		"sha256": "5949dd28efff7d3fcc851c59bb9cbf323ccccc2c3090f5cb5de90a7a89e5fd75"
+	},
+	"chromas": []
+}

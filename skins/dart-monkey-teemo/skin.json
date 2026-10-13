@@ -1,0 +1,26 @@
+{
+	"id": "dart-monkey-teemo",
+	"name": "Dart Monkey Teemo",
+	"champion": 17,
+	"base": 0,
+	"creator": "disco",
+	"description": "---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/dart-monkey-teemo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dart-monkey-teemo/thumb.webp?v=e280d380",
+	"file": {
+		"version": 1,
+		"asset": "dart-monkey-teemo-v1.fantome",
+		"size": 11034761,
+		"sha256": "a668118f418cabba1f6625b7c43f9265d782eab2ce026e2b3aec37e20d95f6b7"
+	},
+	"chromas": []
+}

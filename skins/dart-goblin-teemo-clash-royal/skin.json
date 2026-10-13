@@ -1,0 +1,24 @@
+{
+	"id": "dart-goblin-teemo-clash-royal",
+	"name": "dart goblin teemo (clash royal)",
+	"champion": 17,
+	"base": 4,
+	"creator": "mxdjid",
+	"description": "HIHIHIHAAAAAA\nreworked model\nclash royal laugh on Crtl+4\nautoattack sound effect replaced by the dart goblin\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/dart-goblin-teemo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dart-goblin-teemo-clash-royal/thumb.webp?v=1a759eaf",
+	"file": {
+		"version": 1,
+		"asset": "dart-goblin-teemo-clash-royal-v1.fantome",
+		"size": 42611177,
+		"sha256": "bba6a794c7732664fd5fc20622adf46e5bb2368e1657079a5116694c10d0cfba"
+	},
+	"chromas": []
+}
