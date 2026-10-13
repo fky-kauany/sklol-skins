@@ -1,0 +1,26 @@
+{
+	"id": "yasuo-sungjinwoo",
+	"name": "Sungjinwoo",
+	"champion": 157,
+	"base": 0,
+	"creator": "frog",
+	"description": "Sungjinwoo Yasuo\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Yasuo skin\r\n• Custom Voiceover of Sungjinwoo\r\n• Igris and Iron on spells\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sungjinwoo-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-sungjinwoo/thumb.webp?v=03abe573",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-sungjinwoo-v1.fantome",
+		"size": 25692024,
+		"sha256": "fad4870389e74ec174d2fe5a1e3cf09cd11a2d1ec618dd1d4c3477b49522e3fc"
+	},
+	"chromas": []
+}

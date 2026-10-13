@@ -1,0 +1,26 @@
+{
+	"id": "yixuan-over-yunara",
+	"name": "Yixuan over Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "keithly",
+	"description": "**Yixuan over Yunara**\n-\nThis mod was commissioned by @riemay\nSkin features:\n\n- Accurate model from the ZZZ game\n- Custom visual effects to match yixuan ink abilities (removed yunara orbs to match it better)\n- Full voice over of Yi Xuan\n- Custom icon and Banner\n\nIf you're interested in commissioning gacha skins like this you can contact me through discord direct message or the divine skins server\n\nMy discord: redkeith\n\n---\n\n**Created by** [Keithly](https://www.divineskins.gg/Keithly)\n\n**Original:** https://www.divineskins.gg/Keithly/yixuan-over-yunara\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yixuan-over-yunara/thumb.webp?v=87d17178",
+	"file": {
+		"version": 1,
+		"asset": "yixuan-over-yunara-v1.fantome",
+		"size": 24529727,
+		"sha256": "ed763bb31621721329703d49c5e6515eb6683b12eeed6f00e1127d9314dc4f78"
+	},
+	"chromas": []
+}

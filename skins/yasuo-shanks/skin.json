@@ -1,0 +1,24 @@
+{
+	"id": "yasuo-shanks",
+	"name": "Shanks",
+	"champion": 157,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Shanks Yasuo • Custom Model • Custom Abilities • Works on every Yasuo skin\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/shanks-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-shanks/thumb.webp?v=6e8e9d1c",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-shanks-v1.fantome",
+		"size": 7488808,
+		"sha256": "0c9db68b5a3e8a4b728f6b6658ed310f31950f3fe2c1cd34494f2ca25800d55d"
+	},
+	"chromas": []
+}

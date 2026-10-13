@@ -1,0 +1,25 @@
+{
+	"id": "yasuo-toji",
+	"name": "Toji",
+	"champion": 157,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Toji Fushiguro Yasuo • Custom model • Custom Abilities • Custom Voiceover of Toji • Works on every Yasuo skin\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/toji-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-toji/thumb.webp?v=fd2c3d66",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-toji-v1.fantome",
+		"size": 14661724,
+		"sha256": "98b4d4ebd29ca781103c9bc14e74f76ef43ebf9df463a932f622fc1358b9347f"
+	},
+	"chromas": []
+}

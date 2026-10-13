@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:36:31.979Z",
+	"generatedAt": "2026-10-13T07:39:58.473Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -22118,6 +22118,262 @@
 				"asset": "yasuo-luffy-gear-5-v1.fantome",
 				"size": 10239238,
 				"sha256": "132ad2f7d490639b6bdff7204f3002a5d87c4f1a7c4002bbfa161b78ee9c179e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-muichiro-tokito",
+			"name": "Yasuo Muichiro Tokito",
+			"champion": 157,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-muichiro-tokito/thumb.webp?v=3dbcf8f7",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-muichiro-tokito-v1.fantome",
+				"size": 28541679,
+				"sha256": "8c1ac40002b0fc9561cdc0a2839d0530f171d3ba289e29f95e833fad225999e7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-shanks",
+			"name": "Shanks",
+			"champion": 157,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-shanks/thumb.webp?v=6e8e9d1c",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-shanks-v1.fantome",
+				"size": 7488808,
+				"sha256": "0c9db68b5a3e8a4b728f6b6658ed310f31950f3fe2c1cd34494f2ca25800d55d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-sukuna",
+			"name": "Sukuna",
+			"champion": 157,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-sukuna/thumb.webp?v=c49641c7",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-sukuna-v1.fantome",
+				"size": 21408325,
+				"sha256": "9dfd88240bee8f2552e306e19fa62dff6f306853d552955ca26893cf0d2d120c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-sungjinwoo",
+			"name": "Sungjinwoo",
+			"champion": 157,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-sungjinwoo/thumb.webp?v=03abe573",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-sungjinwoo-v1.fantome",
+				"size": 25692024,
+				"sha256": "fad4870389e74ec174d2fe5a1e3cf09cd11a2d1ec618dd1d4c3477b49522e3fc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-toji",
+			"name": "Toji",
+			"champion": 157,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-toji/thumb.webp?v=fd2c3d66",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-toji-v1.fantome",
+				"size": 14661724,
+				"sha256": "98b4d4ebd29ca781103c9bc14e74f76ef43ebf9df463a932f622fc1358b9347f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-yuta",
+			"name": "Yasuo Yuta",
+			"champion": 157,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-yuta/thumb.webp?v=48361e12",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-yuta-v1.fantome",
+				"size": 10182872,
+				"sha256": "f844177532616b383394ef1d2b97b7233b3c1372656d5b99b7a048f12281df08"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-zenitsu",
+			"name": "Zenitsu",
+			"champion": 157,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-zenitsu/thumb.webp?v=ef4117f7",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-zenitsu-v1.fantome",
+				"size": 17180719,
+				"sha256": "a0afe1fd9a373f534c3813026c0cb602d57f5c5f7e82c1723db14e2061d7e4ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ye-shunguang-irelia",
+			"name": "Ye Shunguang Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "keithly",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ye-shunguang-irelia/thumb.webp?v=a0858acb",
+			"file": {
+				"version": 1,
+				"asset": "ye-shunguang-irelia-v1.fantome",
+				"size": 38972381,
+				"sha256": "5ccab1abddbc491b6bf63e41c65f7338ba288bad80feef039cd94aa3976f43b0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ye-shunguang-irelia-from-zenless-zone-zero",
+			"name": "Ye Shunguang Irelia from Zenless Zone Zero",
+			"champion": 39,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ye-shunguang-irelia-from-zenless-zone-zero/thumb.webp?v=21e641e6",
+			"file": {
+				"version": 1,
+				"asset": "ye-shunguang-irelia-from-zenless-zone-zero-v1.fantome",
+				"size": 74911689,
+				"sha256": "a5cf72a2109f8ca82ea71e95fbd7a7666b06b445342b73bab7f47faf0ded3b43"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yixuan-over-yunara",
+			"name": "Yixuan over Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "keithly",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yixuan-over-yunara/thumb.webp?v=87d17178",
+			"file": {
+				"version": 1,
+				"asset": "yixuan-over-yunara-v1.fantome",
+				"size": 24529727,
+				"sha256": "ed763bb31621721329703d49c5e6515eb6683b12eeed6f00e1127d9314dc4f78"
 			},
 			"chromas": []
 		},

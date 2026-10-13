@@ -1,0 +1,25 @@
+{
+	"id": "yasuo-sukuna",
+	"name": "Sukuna",
+	"champion": 157,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Ryomen Sukuna Yasuo • Custom Model • Custom Abilities • Works on every Yasuo skin\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/sukuna-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-sukuna/thumb.webp?v=c49641c7",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-sukuna-v1.fantome",
+		"size": 21408325,
+		"sha256": "9dfd88240bee8f2552e306e19fa62dff6f306853d552955ca26893cf0d2d120c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "yasuo-muichiro-tokito",
+	"name": "Yasuo Muichiro Tokito",
+	"champion": 157,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MUICHIRO TOKITO 」\n### *Replaces Yasuo*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/yasuo-muichiro-tokito\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-muichiro-tokito/thumb.webp?v=3dbcf8f7",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-muichiro-tokito-v1.fantome",
+		"size": 28541679,
+		"sha256": "8c1ac40002b0fc9561cdc0a2839d0530f171d3ba289e29f95e833fad225999e7"
+	},
+	"chromas": []
+}

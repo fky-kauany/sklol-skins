@@ -1,0 +1,26 @@
+{
+	"id": "yasuo-zenitsu",
+	"name": "Zenitsu",
+	"champion": 157,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/zenitsu-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-zenitsu/thumb.webp?v=ef4117f7",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-zenitsu-v1.fantome",
+		"size": 17180719,
+		"sha256": "a0afe1fd9a373f534c3813026c0cb602d57f5c5f7e82c1723db14e2061d7e4ba"
+	},
+	"chromas": []
+}
