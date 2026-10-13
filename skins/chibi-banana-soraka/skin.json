@@ -1,0 +1,25 @@
+{
+	"id": "chibi-banana-soraka",
+	"name": "Chibi Banana Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2062915117906264112 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Soraka\n* Skin: Default\n* Chibi Banana Soraka Port from TFT\n\n# Features\n\n- Loadingscreen & HUD\n- VFX\n- Model + Animations\n\n# ![](https://i.imgur.com/lyRQuQz.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/chibi-banana-soraka\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-banana-soraka/thumb.webp?v=b9eb7cdb",
+	"file": {
+		"version": 1,
+		"asset": "chibi-banana-soraka-v1.fantome",
+		"size": 5228989,
+		"sha256": "5bd05098ed57de16857ce3420ee6f3f33aa64e9a988edaebeef7d761fcc5cec3"
+	},
+	"chromas": []
+}

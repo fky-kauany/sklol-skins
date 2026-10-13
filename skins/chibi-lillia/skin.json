@@ -1,0 +1,26 @@
+{
+	"id": "chibi-lillia",
+	"name": "Chibi Lillia",
+	"champion": 876,
+	"base": 0,
+	"creator": "disco",
+	"description": "The mod contains 2 versions:\n\n- Chibi Lillia (Works on Default skin)\n- Chibi Spirit Blossom Lillia (Works on Spirit Blossom)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/chibi-lillia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-lillia/thumb.webp?v=e2b08f00",
+	"file": {
+		"version": 1,
+		"asset": "chibi-lillia-v1.fantome",
+		"size": 25152226,
+		"sha256": "f4487ae8793a2bd808c98536bf6afcb3f9414711bd3d776ee03d782c4fec096e"
+	},
+	"chromas": []
+}

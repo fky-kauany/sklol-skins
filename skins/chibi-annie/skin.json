@@ -1,0 +1,26 @@
+{
+	"id": "chibi-annie",
+	"name": "Chibi Annie",
+	"champion": 1,
+	"base": 0,
+	"creator": "disco",
+	"description": "The mod contains 3 versions:\n\n- Chibi Annie (Works on Default skin)\n- Chibi Annie Panda (Works on Pandaskin)\n- Chibi Annie Cafe Cuties (Works on Cafe Cuties skin)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/chibi-annie\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-annie/thumb.webp?v=40e5d16a",
+	"file": {
+		"version": 1,
+		"asset": "chibi-annie-v1.fantome",
+		"size": 44874332,
+		"sha256": "ada9a9598323cba9025ec9298cf58b9ee0e5763f565d68e9394adc9b57bc4acd"
+	},
+	"chromas": []
+}

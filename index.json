@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:21:05.643Z",
+	"generatedAt": "2026-10-13T01:24:23.440Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -5401,6 +5401,263 @@
 				"asset": "cha-hae-in-talon-v1.fantome",
 				"size": 26221056,
 				"sha256": "d8d1375ac6379877c6f8d52eba6f9bd0104e8a8b95234df7b6bd632fcbec8d1a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "challenger-nidalee-prestige",
+			"name": "Challenger Nidalee - Prestige",
+			"champion": 76,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/challenger-nidalee-prestige/thumb.webp?v=32d95c68",
+			"file": {
+				"version": 1,
+				"asset": "challenger-nidalee-prestige-v1.fantome",
+				"size": 14300159,
+				"sha256": "65bb82be3f03cb61944e824649c42cfa1c9d2923c1528f166c54d4a185d54406"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cheems-yasuo",
+			"name": "Cheems Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cheems-yasuo/thumb.webp?v=2a2761c9",
+			"file": {
+				"version": 1,
+				"asset": "cheems-yasuo-v1.fantome",
+				"size": 9003618,
+				"sha256": "026cddfe9e1d155e0340b51dae4837fb09fa1dd2fbf0417a79782eba22a20741"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-aatrox",
+			"name": "Chibi Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-aatrox/thumb.webp?v=7ef9d63c",
+			"file": {
+				"version": 1,
+				"asset": "chibi-aatrox-v1.fantome",
+				"size": 36525284,
+				"sha256": "dae30f135d44d6d061f53193e4bd1e1e2397863dbb197cafe7ca2a8ebac46185"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-akali",
+			"name": "Chibi Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-akali/thumb.webp?v=af88c351",
+			"file": {
+				"version": 1,
+				"asset": "chibi-akali-v1.fantome",
+				"size": 22236100,
+				"sha256": "cb785cb57e71b7e26e22bbe56c417e11a1637012a325b37c84c484e98c9f15ca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-annie",
+			"name": "Chibi Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-annie/thumb.webp?v=40e5d16a",
+			"file": {
+				"version": 1,
+				"asset": "chibi-annie-v1.fantome",
+				"size": 44874332,
+				"sha256": "ada9a9598323cba9025ec9298cf58b9ee0e5763f565d68e9394adc9b57bc4acd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-banana-soraka",
+			"name": "Chibi Banana Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-banana-soraka/thumb.webp?v=b9eb7cdb",
+			"file": {
+				"version": 1,
+				"asset": "chibi-banana-soraka-v1.fantome",
+				"size": 5228989,
+				"sha256": "5bd05098ed57de16857ce3420ee6f3f33aa64e9a988edaebeef7d761fcc5cec3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-cafe-cuties-vex-port",
+			"name": "Chibi Cafe Cuties Vex Port",
+			"champion": 711,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-cafe-cuties-vex-port/thumb.webp?v=553de0e3",
+			"file": {
+				"version": 1,
+				"asset": "chibi-cafe-cuties-vex-port-v1.fantome",
+				"size": 9333930,
+				"sha256": "8ace2e65c27aa86a2f3d83db2cf1e8b266b9704d4f7cc19d60fc796bcf28cf40"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-dark-cosmic-lux",
+			"name": "Chibi Dark Cosmic Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-dark-cosmic-lux/thumb.webp?v=108d66ef",
+			"file": {
+				"version": 1,
+				"asset": "chibi-dark-cosmic-lux-v1.fantome",
+				"size": 5513637,
+				"sha256": "42c416d6ed4f497ad2db82e3e243f34e537aaf30742caf685f6d09d9b35228e7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-ekko",
+			"name": "Chibi Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-ekko/thumb.webp?v=5eb90120",
+			"file": {
+				"version": 1,
+				"asset": "chibi-ekko-v1.fantome",
+				"size": 19244970,
+				"sha256": "7c20dad38be78b74b1dfab52b65225ab7a86f82bead134da814208695f736ece"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-lillia",
+			"name": "Chibi Lillia",
+			"champion": 876,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-lillia/thumb.webp?v=e2b08f00",
+			"file": {
+				"version": 1,
+				"asset": "chibi-lillia-v1.fantome",
+				"size": 25152226,
+				"sha256": "f4487ae8793a2bd808c98536bf6afcb3f9414711bd3d776ee03d782c4fec096e"
 			},
 			"chromas": []
 		},

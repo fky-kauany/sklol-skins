@@ -1,0 +1,25 @@
+{
+	"id": "chibi-cafe-cuties-vex-port",
+	"name": "Chibi Cafe Cuties Vex Port",
+	"champion": 711,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2060048883212824585 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Vex\n* Skin: Default\n* Chibi Cafe Cuties Vex TFT Port\n\n# Features\n\n- Loadingscreen & HUD\n- VFX\n- Model + Entity[Ghost]\n\n# ![](https://i.imgur.com/N7gHGW3.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/chibi-cafe-cuties-vex-port\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-cafe-cuties-vex-port/thumb.webp?v=553de0e3",
+	"file": {
+		"version": 1,
+		"asset": "chibi-cafe-cuties-vex-port-v1.fantome",
+		"size": 9333930,
+		"sha256": "8ace2e65c27aa86a2f3d83db2cf1e8b266b9704d4f7cc19d60fc796bcf28cf40"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "chibi-dark-cosmic-lux",
+	"name": "Chibi Dark Cosmic Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2068929776035803475 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Lux\r\n* Skin: Default/Dark Cosmic\r\n* Chibi Dark Cosmic Lux TFT Port\r\n\r\n# Features\r\n\r\n- Loadingscreen & HUD\r\n- VFX\r\n- Custom Animations\r\n\r\n# ![](https://i.imgur.com/STM4feC.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/chibi-dark-cosmic-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-dark-cosmic-lux/thumb.webp?v=108d66ef",
+	"file": {
+		"version": 1,
+		"asset": "chibi-dark-cosmic-lux-v1.fantome",
+		"size": 5513637,
+		"sha256": "42c416d6ed4f497ad2db82e3e243f34e537aaf30742caf685f6d09d9b35228e7"
+	},
+	"chromas": []
+}
