@@ -1,0 +1,27 @@
+{
+	"id": "chitose-yasuo-stella-sora",
+	"name": "Chitose Yasuo (Stella Sora)",
+	"champion": 157,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/chitose-yasuo-stella-sora\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chitose-yasuo-stella-sora/thumb.webp?v=21da1542",
+	"file": {
+		"version": 1,
+		"asset": "chitose-yasuo-stella-sora-v1.fantome",
+		"size": 18168017,
+		"sha256": "66c1c53182b05b7e9991c1aecc25f6cb3ec3f3fb33851ee8deeac00542daf09e"
+	},
+	"chromas": []
+}

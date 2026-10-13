@@ -1,0 +1,26 @@
+{
+	"id": "chibi-teemo",
+	"name": "Chibi Teemo",
+	"champion": 17,
+	"base": 0,
+	"creator": "disco",
+	"description": "The mod contains 3 versions:\r\n- Chibi Teemo (Works on Default skin)\r\n- Chibi Beemo (Works on beemo skin)\r\n- Chibi Devil (Works on Little Devil skin)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/chibi-teemo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-teemo/thumb.webp?v=783fab02",
+	"file": {
+		"version": 1,
+		"asset": "chibi-teemo-v1.fantome",
+		"size": 33668582,
+		"sha256": "70e794893e3d9fd9c8c696d5d70b5394693b994e1c75b83e1841185a95b3cc85"
+	},
+	"chromas": []
+}

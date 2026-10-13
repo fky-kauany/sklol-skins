@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:27:47.568Z",
+	"generatedAt": "2026-10-13T01:31:03.612Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -5926,6 +5926,262 @@
 				"asset": "chibi-t1-yone-v1.fantome",
 				"size": 17420360,
 				"sha256": "05a54fd3417a2ec73bab699e9690acded5df81157851086214df5bb357be9d5e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-teemo",
+			"name": "Chibi Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-teemo/thumb.webp?v=783fab02",
+			"file": {
+				"version": 1,
+				"asset": "chibi-teemo-v1.fantome",
+				"size": 33668582,
+				"sha256": "70e794893e3d9fd9c8c696d5d70b5394693b994e1c75b83e1841185a95b3cc85"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-yuumi",
+			"name": "Chibi Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-yuumi/thumb.webp?v=0a81e12b",
+			"file": {
+				"version": 1,
+				"asset": "chibi-yuumi-v1.fantome",
+				"size": 47877608,
+				"sha256": "7a706a0d3f081f2c57ba9a7be241447b9e015340c0fad5276a0755240de40cb7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-zed",
+			"name": "Chibi Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibi-zed/thumb.webp?v=00f546cd",
+			"file": {
+				"version": 1,
+				"asset": "chibi-zed-v1.fantome",
+				"size": 12475781,
+				"sha256": "63ac9c5f3a37f808398af46ac2e14d0c58b19d0307ac1c758f48d82df15b5374"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibihutao-poppy",
+			"name": "ChibiHutao Poppy",
+			"champion": 78,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibihutao-poppy/thumb.webp?v=6117e55b",
+			"file": {
+				"version": 1,
+				"asset": "chibihutao-poppy-v1.fantome",
+				"size": 7055753,
+				"sha256": "6ecefe41d6c65326233b76295a7c16c154da3d9cc88db2be444996d3e97be8e2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibikeqing-tristana",
+			"name": "ChibiKeqing Tristana",
+			"champion": 18,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibikeqing-tristana/thumb.webp?v=a3e9c2a3",
+			"file": {
+				"version": 1,
+				"asset": "chibikeqing-tristana-v1.fantome",
+				"size": 2097863,
+				"sha256": "f0ee887e21808ed0f0a4b0f1aaa42c2e969b8918cd4282c3364667de99726f3b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibiklee-nautilus",
+			"name": "ChibiKlee Nautilus",
+			"champion": 111,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chibiklee-nautilus/thumb.webp?v=8cd29876",
+			"file": {
+				"version": 1,
+				"asset": "chibiklee-nautilus-v1.fantome",
+				"size": 4114857,
+				"sha256": "ae95f9430d0f187bfdb8e1378f97bafaa496f4791090421fe4811cbbbc29ffa3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chicken-jokey-kled",
+			"name": "Chicken Jokey (Kled)",
+			"champion": 240,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chicken-jokey-kled/thumb.webp?v=6b9ce25e",
+			"file": {
+				"version": 1,
+				"asset": "chicken-jokey-kled-v1.fantome",
+				"size": 9127341,
+				"sha256": "0e9732978052aac940d7b491bf61887a0e174f2b39d6fbb4da1b223831afb030"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chill-pantheon",
+			"name": "Chill Pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chill-pantheon/thumb.webp?v=8d7eac85",
+			"file": {
+				"version": 1,
+				"asset": "chill-pantheon-v1.fantome",
+				"size": 9375973,
+				"sha256": "f1a1c5bfca822701f8920ec6bef1b27b02144da7619f78675b82b0fef24e3a80"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chitose-yasuo-stella-sora",
+			"name": "Chitose Yasuo (Stella Sora)",
+			"champion": 157,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chitose-yasuo-stella-sora/thumb.webp?v=21da1542",
+			"file": {
+				"version": 1,
+				"asset": "chitose-yasuo-stella-sora-v1.fantome",
+				"size": 18168017,
+				"sha256": "66c1c53182b05b7e9991c1aecc25f6cb3ec3f3fb33851ee8deeac00542daf09e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cho-gath-eto-chogath",
+			"name": "Eto ChoGath",
+			"champion": 31,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cho-gath-eto-chogath/thumb.webp?v=dbf10182",
+			"file": {
+				"version": 1,
+				"asset": "cho-gath-eto-chogath-v1.fantome",
+				"size": 5464427,
+				"sha256": "be996d35e34ccf2e1ef568d2e78268fe39887c1408c33d1b9df23f733fbaa680"
 			},
 			"chromas": []
 		},

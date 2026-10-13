@@ -1,0 +1,25 @@
+{
+	"id": "chibiklee-nautilus",
+	"name": "ChibiKlee Nautilus",
+	"champion": 111,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : ChibiKlee Nautilus\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/chibiklee-nautilus\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibiklee-nautilus/thumb.webp?v=8cd29876",
+	"file": {
+		"version": 1,
+		"asset": "chibiklee-nautilus-v1.fantome",
+		"size": 4114857,
+		"sha256": "ae95f9430d0f187bfdb8e1378f97bafaa496f4791090421fe4811cbbbc29ffa3"
+	},
+	"chromas": []
+}

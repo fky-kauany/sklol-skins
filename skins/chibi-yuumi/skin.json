@@ -1,0 +1,26 @@
+{
+	"id": "chibi-yuumi",
+	"name": "Chibi Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "disco",
+	"description": "The mod contains 3 versions:\n\n- Chibi Yuumi (Works on Default skin)\n- Chibi Bewitching Yuumi (Works on Bewitching)\n- Chibi Yubee (Works on Yubee)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/chibi-yuumi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-yuumi/thumb.webp?v=0a81e12b",
+	"file": {
+		"version": 1,
+		"asset": "chibi-yuumi-v1.fantome",
+		"size": 47877608,
+		"sha256": "7a706a0d3f081f2c57ba9a7be241447b9e015340c0fad5276a0755240de40cb7"
+	},
+	"chromas": []
+}

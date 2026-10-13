@@ -1,0 +1,26 @@
+{
+	"id": "chibi-zed",
+	"name": "Chibi Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Barbara Soraka\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\nNew VFX\n\nNew Joke\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/chibi-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibi-zed/thumb.webp?v=00f546cd",
+	"file": {
+		"version": 1,
+		"asset": "chibi-zed-v1.fantome",
+		"size": 12475781,
+		"sha256": "63ac9c5f3a37f808398af46ac2e14d0c58b19d0307ac1c758f48d82df15b5374"
+	},
+	"chromas": []
+}

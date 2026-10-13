@@ -1,0 +1,25 @@
+{
+	"id": "chibihutao-poppy",
+	"name": "ChibiHutao Poppy",
+	"champion": 78,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : ChibiHutao Poppy\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/chibihutao-poppy\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chibihutao-poppy/thumb.webp?v=6117e55b",
+	"file": {
+		"version": 1,
+		"asset": "chibihutao-poppy-v1.fantome",
+		"size": 7055753,
+		"sha256": "6ecefe41d6c65326233b76295a7c16c154da3d9cc88db2be444996d3e97be8e2"
+	},
+	"chromas": []
+}

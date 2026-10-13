@@ -1,0 +1,25 @@
+{
+	"id": "chicken-jokey-kled",
+	"name": "Chicken Jokey (Kled)",
+	"champion": 240,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Kled\n\nModified Skin: Default\n\nAuthor: Sauronkaiser\n\nDescription: The Chicken Jockey from Minecraft\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-A 0.25% chance of spawn.\n\nSources:\n\n-Special thanks to bud for helping with the render.\n\n-Models, sounds and textures from Minecraft.\n\n-Animations and effects made by me.\n\n-Special thanks to Dip Dingens for bringing the idea (and the community for insisting in make that one)\n\n-Song of the dance command: Revenge by CaptainSparklez\n\nlegacy Changelog:\n\n-25/04/2023: First official release\n\n-02/11/2023: FTexture and optimization tweaks.\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-08/08/2024: Added silent voiceover included with main mod, updated splashart\n\n-07/04/2025: Fixed for new patch and added a reference to the Minecraft movie.\n\n-02/05/2025: Fixed sound for new patch\n\n-11/06/2025: removed chicken jockey meme joke on re-mount\n\n-all versions from 1.4 to 1.5 fixes for new patches.\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/chicken-jokey-kled\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chicken-jokey-kled/thumb.webp?v=6b9ce25e",
+	"file": {
+		"version": 1,
+		"asset": "chicken-jokey-kled-v1.fantome",
+		"size": 9127341,
+		"sha256": "0e9732978052aac940d7b491bf61887a0e174f2b39d6fbb4da1b223831afb030"
+	},
+	"chromas": []
+}

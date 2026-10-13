@@ -1,0 +1,26 @@
+{
+	"id": "cho-gath-eto-chogath",
+	"name": "Eto ChoGath",
+	"champion": 31,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\r\n- Custom Animations\r\n- Custom VFX\r\n- Custom Model (Tokyo Ghoul · Break the Chains)\r\n- Custom Icons\r\n- Custom Sfx/VO\r\n\r\n### Bugs / Suggestions / Commissions\r\n\r\nYou can contact me on Discord:\r\n- `sxrmss` / DAKA \r\n\r\n*Download at divineskins.gg*\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/eto-chogath\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cho-gath-eto-chogath/thumb.webp?v=dbf10182",
+	"file": {
+		"version": 1,
+		"asset": "cho-gath-eto-chogath-v1.fantome",
+		"size": 5464427,
+		"sha256": "be996d35e34ccf2e1ef568d2e78268fe39887c1408c33d1b9df23f733fbaa680"
+	},
+	"chromas": []
+}
