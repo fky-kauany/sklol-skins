@@ -1,0 +1,25 @@
+{
+	"id": "angel-yorick",
+	"name": "Angel Yorick",
+	"champion": 83,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Angel Yorick\n\n### Features\n\n- **Custom 3D model** with radiant wings and golden armor\n- **Custom abilities** infused with celestial light and seraphic energy\n- **Works across every Yorick skin**, keeping full compatibility\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/angel-yorick\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-yorick/thumb.webp?v=618fb0b7",
+	"file": {
+		"version": 1,
+		"asset": "angel-yorick-v1.fantome",
+		"size": 8094881,
+		"sha256": "188e60d0b749d9c2fbd70930ebf27d9814de45b75295f9db1b426f7765620990"
+	},
+	"chromas": []
+}

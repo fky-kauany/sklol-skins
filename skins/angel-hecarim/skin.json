@@ -1,0 +1,26 @@
+{
+	"id": "angel-hecarim",
+	"name": "Angel Hecarim",
+	"champion": 120,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/angel-hecarim\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-hecarim/thumb.webp?v=2dc42e3a",
+	"file": {
+		"version": 1,
+		"asset": "angel-hecarim-v1.fantome",
+		"size": 19481189,
+		"sha256": "230953de8dfc59beada07ba64ed280211d2aedb1c91e27a73b0705826e5ffa18"
+	},
+	"chromas": []
+}

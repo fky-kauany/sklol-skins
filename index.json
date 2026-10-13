@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:27:23.589Z",
+	"generatedAt": "2026-10-13T00:32:05.559Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -107,6 +107,14 @@
 			"links": {
 				"discord": "https://discord.gg/EEjd7DHj5r",
 				"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png"
+			}
+		},
+		"lexa2209": {
+			"name": "lexa2209",
+			"bio": "PRRRRRRR PAPA SKIBIDI PAPA",
+			"links": {
+				"x": "https://x.com/Lexa247021",
+				"youtube": "https://www.youtube.com/channel/UCJzeZnVbbLLjK0U2T9ws-GQ"
 			}
 		},
 		"lita": {
@@ -1878,6 +1886,263 @@
 				"asset": "anakin-yasuo-v1.fantome",
 				"size": 57739089,
 				"sha256": "a0d4f9f1536e52c895b82cc2fcbf4362f3116a6ee4b7554d03f8edd45cc8d25c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "anby-yasuo",
+			"name": "Anby Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/anby-yasuo/thumb.webp?v=575449c1",
+			"file": {
+				"version": 1,
+				"asset": "anby-yasuo-v1.fantome",
+				"size": 4697676,
+				"sha256": "8aab2ff90bfa954ccfa7b1645b7e267da3c5daa6d79e64f582c77b3567e39ab2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-aatrox",
+			"name": "Angel Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-aatrox/thumb.webp?v=3ae73da7",
+			"file": {
+				"version": 1,
+				"asset": "angel-aatrox-v1.fantome",
+				"size": 15599798,
+				"sha256": "b36b41695bc07a7f8b229f4dc4f4e53bdf70ba24e72bbf9288751c5c2b1c1901"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-hecarim",
+			"name": "Angel Hecarim",
+			"champion": 120,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-hecarim/thumb.webp?v=2dc42e3a",
+			"file": {
+				"version": 1,
+				"asset": "angel-hecarim-v1.fantome",
+				"size": 19481189,
+				"sha256": "230953de8dfc59beada07ba64ed280211d2aedb1c91e27a73b0705826e5ffa18"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-katarina",
+			"name": "Angel Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-katarina/thumb.webp?v=63ab2569",
+			"file": {
+				"version": 1,
+				"asset": "angel-katarina-v1.fantome",
+				"size": 7120598,
+				"sha256": "96f7ad27e0ce6ea1293cf5dea4b80b63907c07e3fde42d9eb7e7ad1be30b2733"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-kindred",
+			"name": "Angel Kindred",
+			"champion": 203,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-kindred/thumb.webp?v=33c8015f",
+			"file": {
+				"version": 1,
+				"asset": "angel-kindred-v1.fantome",
+				"size": 16935182,
+				"sha256": "6d256df3cbd70fd35c75bb6ca82763b2c0792973666eaf5835ea795aaa1ee754"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-lulu",
+			"name": "Angel Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-lulu/thumb.webp?v=bceb0064",
+			"file": {
+				"version": 1,
+				"asset": "angel-lulu-v1.fantome",
+				"size": 11451507,
+				"sha256": "f3a504f718857038fbc8821470b8f289c5b7c37ca151f4091282ee87ebdfd1e4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-master-yi",
+			"name": "Angel Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-master-yi/thumb.webp?v=caa3c813",
+			"file": {
+				"version": 1,
+				"asset": "angel-master-yi-v1.fantome",
+				"size": 15612206,
+				"sha256": "84108eceda31d878b60a25f20164d8553cafefb6cad97fac1a732b4d5f4b34ca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-rell",
+			"name": "Angel Rell",
+			"champion": 526,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-rell/thumb.webp?v=5ca81054",
+			"file": {
+				"version": 1,
+				"asset": "angel-rell-v1.fantome",
+				"size": 17244364,
+				"sha256": "7c0be98186d155d729ba3035a4d3984c7f51bf487e124e76b9afcded1c8a54c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-viego",
+			"name": "Angel Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-viego/thumb.webp?v=f4a36c01",
+			"file": {
+				"version": 1,
+				"asset": "angel-viego-v1.fantome",
+				"size": 18690746,
+				"sha256": "76fa71eed8dc9345723897ae546b53f73c8b670b76bf258aea5468c7497972ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-yorick",
+			"name": "Angel Yorick",
+			"champion": 83,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-yorick/thumb.webp?v=618fb0b7",
+			"file": {
+				"version": 1,
+				"asset": "angel-yorick-v1.fantome",
+				"size": 8094881,
+				"sha256": "188e60d0b749d9c2fbd70930ebf27d9814de45b75295f9db1b426f7765620990"
 			},
 			"chromas": []
 		},

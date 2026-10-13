@@ -1,0 +1,26 @@
+{
+	"id": "angel-aatrox",
+	"name": "Angel Aatrox",
+	"champion": 266,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/angel-aatrox\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-aatrox/thumb.webp?v=3ae73da7",
+	"file": {
+		"version": 1,
+		"asset": "angel-aatrox-v1.fantome",
+		"size": 15599798,
+		"sha256": "b36b41695bc07a7f8b229f4dc4f4e53bdf70ba24e72bbf9288751c5c2b1c1901"
+	},
+	"chromas": []
+}

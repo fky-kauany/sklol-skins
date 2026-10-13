@@ -1,0 +1,26 @@
+{
+	"id": "angel-katarina",
+	"name": "Angel Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/angel-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-katarina/thumb.webp?v=63ab2569",
+	"file": {
+		"version": 1,
+		"asset": "angel-katarina-v1.fantome",
+		"size": 7120598,
+		"sha256": "96f7ad27e0ce6ea1293cf5dea4b80b63907c07e3fde42d9eb7e7ad1be30b2733"
+	},
+	"chromas": []
+}

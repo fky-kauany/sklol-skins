@@ -1,0 +1,26 @@
+{
+	"id": "angel-rell",
+	"name": "Angel Rell",
+	"champion": 526,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/angel-rell\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-rell/thumb.webp?v=5ca81054",
+	"file": {
+		"version": 1,
+		"asset": "angel-rell-v1.fantome",
+		"size": 17244364,
+		"sha256": "7c0be98186d155d729ba3035a4d3984c7f51bf487e124e76b9afcded1c8a54c8"
+	},
+	"chromas": []
+}

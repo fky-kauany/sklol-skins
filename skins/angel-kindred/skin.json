@@ -1,0 +1,26 @@
+{
+	"id": "angel-kindred",
+	"name": "Angel Kindred",
+	"champion": 203,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/angel-kindred\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-kindred/thumb.webp?v=33c8015f",
+	"file": {
+		"version": 1,
+		"asset": "angel-kindred-v1.fantome",
+		"size": 16935182,
+		"sha256": "6d256df3cbd70fd35c75bb6ca82763b2c0792973666eaf5835ea795aaa1ee754"
+	},
+	"chromas": []
+}

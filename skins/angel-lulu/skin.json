@@ -1,0 +1,26 @@
+{
+	"id": "angel-lulu",
+	"name": "Angel Lulu",
+	"champion": 117,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/angel-lulu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-lulu/thumb.webp?v=bceb0064",
+	"file": {
+		"version": 1,
+		"asset": "angel-lulu-v1.fantome",
+		"size": 11451507,
+		"sha256": "f3a504f718857038fbc8821470b8f289c5b7c37ca151f4091282ee87ebdfd1e4"
+	},
+	"chromas": []
+}

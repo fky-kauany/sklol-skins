@@ -1,0 +1,26 @@
+{
+	"id": "angel-master-yi",
+	"name": "Angel Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/angel-master-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-master-yi/thumb.webp?v=caa3c813",
+	"file": {
+		"version": 1,
+		"asset": "angel-master-yi-v1.fantome",
+		"size": 15612206,
+		"sha256": "84108eceda31d878b60a25f20164d8553cafefb6cad97fac1a732b4d5f4b34ca"
+	},
+	"chromas": []
+}
