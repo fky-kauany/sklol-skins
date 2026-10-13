@@ -1,0 +1,26 @@
+{
+	"id": "briar-airi-akizuki",
+	"name": "Briar Airi Akizuki",
+	"champion": 233,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 AIRI AKIZUKI 」\n### *Replaces Briar*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/briar-airi-akizuki\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/briar-airi-akizuki/thumb.webp?v=85d3b0af",
+	"file": {
+		"version": 1,
+		"asset": "briar-airi-akizuki-v1.fantome",
+		"size": 29176493,
+		"sha256": "b01370ee9b183c229bc313a5b2d8a2e17ba77047e2bad9dd3e9ee7426a8a8216"
+	},
+	"chromas": []
+}

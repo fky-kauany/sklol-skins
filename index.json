@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:05:58.463Z",
+	"generatedAt": "2026-10-13T01:10:49.234Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -17,6 +17,11 @@
 			"links": {
 				"discord": "https://discord.gg/6MTrrVbwgm"
 			}
+		},
+		"agavuurha": {
+			"name": "AGAVUURHA",
+			"avatar": "creators/agavuurha.jpg?v=974746b3",
+			"links": {}
 		},
 		"antton": {
 			"name": "Antton",
@@ -121,6 +126,11 @@
 			"name": "deliriumoverdose",
 			"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
 			"bio": "I do not exist.",
+			"links": {}
+		},
+		"demonxi": {
+			"name": "DemonXi",
+			"bio": "Name is Linus. I am skin creator. Mostly Make blue skins cause that is what i like. I am dogshit at league. Hardstuck gold-plat for years",
 			"links": {}
 		},
 		"disco": {
@@ -298,6 +308,12 @@
 			"name": "Tanaa",
 			"avatar": "creators/tanaa.webp?v=a5946f9b",
 			"bio": "COMMISSIONS: @tanaaxd on discord",
+			"links": {}
+		},
+		"thoxainn": {
+			"name": "Thoxain",
+			"avatar": "creators/thoxainn.webp?v=fc91a6b5",
+			"bio": "I do my best.thats all",
 			"links": {}
 		},
 		"valfren": {
@@ -4320,6 +4336,263 @@
 				"asset": "bloodmoon-kassadin-v1.fantome",
 				"size": 22429113,
 				"sha256": "fc65c3791e224490b58323580fc1f64edcd5bbed327ca0c3ea01b45d92e0e159"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blue-divine-god-darius",
+			"name": "blue divine god darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "agavuurha",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blue-divine-god-darius/thumb.webp?v=18c586a0",
+			"file": {
+				"version": 1,
+				"asset": "blue-divine-god-darius-v1.fantome",
+				"size": 20822419,
+				"sha256": "1ea0400e356a0e7ea75fee34d4f2666c5423c8f70e86af757d2e38b818884d5a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blue-project-yasuo",
+			"name": "Blue Project Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "demonxi",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blue-project-yasuo/thumb.webp?v=711b7c8f",
+			"file": {
+				"version": 1,
+				"asset": "blue-project-yasuo-v1.fantome",
+				"size": 19263579,
+				"sha256": "2a6e7b58d3154aa0352c87dc36d79685b166d29cf3efd15c23d1b4aaf3224d86"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blue-sky-shockblade-zed",
+			"name": "Blue Sky | Shockblade Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blue-sky-shockblade-zed/thumb.webp?v=24a10a40",
+			"file": {
+				"version": 1,
+				"asset": "blue-sky-shockblade-zed-v1.fantome",
+				"size": 2814317,
+				"sha256": "f3f7aed73d5c017eba3db9c8beb578e6d298d36940810637dee19c13a9dafef6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "brainrot-garen",
+			"name": "Brainrot Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/brainrot-garen/thumb.webp?v=969ebf67",
+			"file": {
+				"version": 1,
+				"asset": "brainrot-garen-v1.fantome",
+				"size": 83342159,
+				"sha256": "caf35c57e32ff59e641f165754933efd182177ce6742e001cf01e3eada2720fc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "brand-black-fire",
+			"name": "Black Fire",
+			"champion": 63,
+			"base": 0,
+			"creator": "thoxainn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/brand-black-fire/thumb.webp?v=07e005e2",
+			"file": {
+				"version": 1,
+				"asset": "brand-black-fire-v1.fantome",
+				"size": 5298663,
+				"sha256": "b231bde08abaa032570c304e052887f86c5663c4d1ce91e201c21065e5c15749"
+			},
+			"chromas": []
+		},
+		{
+			"id": "brand-dabi",
+			"name": "Brand Dabi",
+			"champion": 63,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/brand-dabi/thumb.webp?v=88755674",
+			"file": {
+				"version": 1,
+				"asset": "brand-dabi-v1.fantome",
+				"size": 10262629,
+				"sha256": "fa7b73db42bc43ff04b759cae984a36c1fe868dbe50c80c38d4aa63e0d6e27a7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "brand-jogo",
+			"name": "Brand Jogo",
+			"champion": 63,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/brand-jogo/thumb.webp?v=710affa2",
+			"file": {
+				"version": 1,
+				"asset": "brand-jogo-v1.fantome",
+				"size": 9993051,
+				"sha256": "8fe9bda6bc0f03147d816752160b4f7f6298d5ebafa0328734f52144a21f5691"
+			},
+			"chromas": []
+		},
+		{
+			"id": "braum-all-might",
+			"name": "Braum All Might",
+			"champion": 201,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/braum-all-might/thumb.webp?v=9f439bb9",
+			"file": {
+				"version": 1,
+				"asset": "braum-all-might-v1.fantome",
+				"size": 12815456,
+				"sha256": "633f0cd5130574cf04f51fea6589fc50d4e16b61126dcd0593216140b2dcb331"
+			},
+			"chromas": []
+		},
+		{
+			"id": "braum-captain-america",
+			"name": "Braum Captain America",
+			"champion": 201,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/braum-captain-america/thumb.webp?v=472399e4",
+			"file": {
+				"version": 1,
+				"asset": "braum-captain-america-v1.fantome",
+				"size": 18202797,
+				"sha256": "3ef5475f9c7c70838db96c52993ab1a710b659528d16b0f8fe5791f1f182c9a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-airi-akizuki",
+			"name": "Briar Airi Akizuki",
+			"champion": 233,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/briar-airi-akizuki/thumb.webp?v=85d3b0af",
+			"file": {
+				"version": 1,
+				"asset": "briar-airi-akizuki-v1.fantome",
+				"size": 29176493,
+				"sha256": "b01370ee9b183c229bc313a5b2d8a2e17ba77047e2bad9dd3e9ee7426a8a8216"
 			},
 			"chromas": []
 		},

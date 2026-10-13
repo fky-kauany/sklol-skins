@@ -1,0 +1,26 @@
+{
+	"id": "brand-dabi",
+	"name": "Brand Dabi",
+	"champion": 63,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 DABI 」\r\n### *Replaces Brand*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/brand-dabi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/brand-dabi/thumb.webp?v=88755674",
+	"file": {
+		"version": 1,
+		"asset": "brand-dabi-v1.fantome",
+		"size": 10262629,
+		"sha256": "fa7b73db42bc43ff04b759cae984a36c1fe868dbe50c80c38d4aa63e0d6e27a7"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "blue-sky-shockblade-zed",
+	"name": "Blue Sky | Shockblade Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by x9zedd from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/blue-sky-shockblade-zed\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blue-sky-shockblade-zed/thumb.webp?v=24a10a40",
+	"file": {
+		"version": 1,
+		"asset": "blue-sky-shockblade-zed-v1.fantome",
+		"size": 2814317,
+		"sha256": "f3f7aed73d5c017eba3db9c8beb578e6d298d36940810637dee19c13a9dafef6"
+	},
+	"chromas": []
+}

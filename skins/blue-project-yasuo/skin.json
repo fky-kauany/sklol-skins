@@ -1,0 +1,26 @@
+{
+	"id": "blue-project-yasuo",
+	"name": "Blue Project Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "demonxi",
+	"description": "Blue Chroma of project Yasuo. Hope you enjoy it as much as i do :d\n\n---\n\n**Created by** [DemonXi](https://www.divineskins.gg/DemonXi)\n\n**Original:** https://www.divineskins.gg/DemonXi/blue-project-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blue-project-yasuo/thumb.webp?v=711b7c8f",
+	"file": {
+		"version": 1,
+		"asset": "blue-project-yasuo-v1.fantome",
+		"size": 19263579,
+		"sha256": "2a6e7b58d3154aa0352c87dc36d79685b166d29cf3efd15c23d1b4aaf3224d86"
+	},
+	"chromas": []
+}

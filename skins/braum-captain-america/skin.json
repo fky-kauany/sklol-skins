@@ -1,0 +1,26 @@
+{
+	"id": "braum-captain-america",
+	"name": "Braum Captain America",
+	"champion": 201,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 CAPTAIN AMERICA 」\n### *Replaces Braum*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/braum-captain-america\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/braum-captain-america/thumb.webp?v=472399e4",
+	"file": {
+		"version": 1,
+		"asset": "braum-captain-america-v1.fantome",
+		"size": 18202797,
+		"sha256": "3ef5475f9c7c70838db96c52993ab1a710b659528d16b0f8fe5791f1f182c9a8"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "blue-divine-god-darius",
+	"name": "blue divine god darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "agavuurha",
+	"description": "---\n\n**Created by** [AGAVUURHA](https://www.divineskins.gg/AGAVUURHA)\n\n**Original:** https://www.divineskins.gg/AGAVUURHA/blue-divine-god-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blue-divine-god-darius/thumb.webp?v=18c586a0",
+	"file": {
+		"version": 1,
+		"asset": "blue-divine-god-darius-v1.fantome",
+		"size": 20822419,
+		"sha256": "1ea0400e356a0e7ea75fee34d4f2666c5423c8f70e86af757d2e38b818884d5a"
+	},
+	"chromas": []
+}
