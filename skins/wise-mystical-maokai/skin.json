@@ -1,0 +1,26 @@
+{
+	"id": "wise-mystical-maokai",
+	"name": "Wise Mystical Maokai",
+	"champion": 57,
+	"base": 0,
+	"creator": "drinfinito",
+	"description": "*\"To be rich, you need to have lots of money\"* - Wise Mystical Tree\n\nTurns Maokai into a very wise tree.\n\n**Use it for the Base Maokai Skin!**\n\nThis mod contains:\n- New Model!\n- New SFX!\n- New HUD Icons!\n\nCredits:\nTree model from https://models.spriters-resource.com/nintendo_switch/splatoon3/asset/337076/\n\n---\n\n**Created by** [DrInfinito](https://www.divineskins.gg/DrInfinito)\n\n**Original:** https://www.divineskins.gg/DrInfinito/wise-mystical-maokai\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/wise-mystical-maokai/thumb.webp?v=3e718ca4",
+	"file": {
+		"version": 1,
+		"asset": "wise-mystical-maokai-v1.fantome",
+		"size": 39380399,
+		"sha256": "de94d8aae0c78f75a48d17c8f260987e856ca7a8aa1a5798a3b3ec5a8993362e"
+	},
+	"chromas": []
+}

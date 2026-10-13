@@ -1,0 +1,26 @@
+{
+	"id": "whitebeard-zaahen",
+	"name": "WhiteBeard - Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/whitebeard-zaahen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/whitebeard-zaahen/thumb.webp?v=d2cb776a",
+	"file": {
+		"version": 1,
+		"asset": "whitebeard-zaahen-v1.fantome",
+		"size": 11606378,
+		"sha256": "3ecdd8c1bd14851d7c89c5e45d9c69704814a0510147a4f44c5998ebab0f7da1"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "winter-s-blade-kassadin",
+	"name": "Winter's Blade - Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# ❄️Winter's Blade - Kassadin ❄️\nA reimagine of festival Kassadin more fitting for the model.\n\n## Features:\n- HD Model with high detail\n- New icy particle effects and on-hit visuals\n- HUD Icons and splash art to match\n- Works on base skin\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/winters-blade-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/winter-s-blade-kassadin/thumb.webp?v=27d84ddd",
+	"file": {
+		"version": 1,
+		"asset": "winter-s-blade-kassadin-v1.fantome",
+		"size": 3468071,
+		"sha256": "a772dd949c974647aef28dd209b5495ef42fa178ae7025d4298b378b0c993b71"
+	},
+	"chromas": []
+}

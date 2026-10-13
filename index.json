@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:26:25.201Z",
+	"generatedAt": "2026-10-13T07:29:50.848Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -21352,6 +21352,261 @@
 				"asset": "volibear-tank-v1.fantome",
 				"size": 14609574,
 				"sha256": "2a15c6b35bd297b9f02a5fa49874860fdf6c494ae9487643f059087918426752"
+			},
+			"chromas": []
+		},
+		{
+			"id": "walter-white-singed",
+			"name": "Walter White Singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/walter-white-singed/thumb.webp?v=7cd53736",
+			"file": {
+				"version": 1,
+				"asset": "walter-white-singed-v1.fantome",
+				"size": 4823478,
+				"sha256": "cdfea75e9a9f318901dad05e81e02db38ff53daf68d8d40035e6fcee59e39842"
+			},
+			"chromas": []
+		},
+		{
+			"id": "whatsapp-malphite",
+			"name": "Whatsapp Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "tor-lol",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/whatsapp-malphite/thumb.webp?v=b1c93f12",
+			"file": {
+				"version": 1,
+				"asset": "whatsapp-malphite-v1.fantome",
+				"size": 6124271,
+				"sha256": "416badeef7d1a0f343809e26dec488f40295b29c80b09cad2d35a434fc4e278d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wheelchair-irelia",
+			"name": "wheelchair irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/wheelchair-irelia/thumb.webp?v=a5894e8b",
+			"file": {
+				"version": 1,
+				"asset": "wheelchair-irelia-v1.fantome",
+				"size": 601009,
+				"sha256": "136de284ca6890e48225d08d958b3376c7e20b1589f50a3421a509a53c12ce36"
+			},
+			"chromas": []
+		},
+		{
+			"id": "white-yone",
+			"name": "White Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/white-yone/thumb.webp?v=8bdcc121",
+			"file": {
+				"version": 1,
+				"asset": "white-yone-v1.fantome",
+				"size": 24940106,
+				"sha256": "28d0d3829ca382ddc17905f410f3d30447668cedd7283a520fc8041567000343"
+			},
+			"chromas": []
+		},
+		{
+			"id": "whitebeard-zaahen",
+			"name": "WhiteBeard - Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/whitebeard-zaahen/thumb.webp?v=d2cb776a",
+			"file": {
+				"version": 1,
+				"asset": "whitebeard-zaahen-v1.fantome",
+				"size": 11606378,
+				"sha256": "3ecdd8c1bd14851d7c89c5e45d9c69704814a0510147a4f44c5998ebab0f7da1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "winter-s-blade-kassadin",
+			"name": "Winter's Blade - Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/winter-s-blade-kassadin/thumb.webp?v=27d84ddd",
+			"file": {
+				"version": 1,
+				"asset": "winter-s-blade-kassadin-v1.fantome",
+				"size": 3468071,
+				"sha256": "a772dd949c974647aef28dd209b5495ef42fa178ae7025d4298b378b0c993b71"
+			},
+			"chromas": []
+		},
+		{
+			"id": "winterblessed-akali",
+			"name": "Winterblessed Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "xellelux",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/winterblessed-akali/thumb.webp?v=14e3ed4d",
+			"file": {
+				"version": 1,
+				"asset": "winterblessed-akali-v1.fantome",
+				"size": 27819675,
+				"sha256": "713412b2ae341907e8c76916c94ab66ea41849108cb074f97171bde03f9cacc6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "winterblessed-zaahen",
+			"name": "Winterblessed Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/winterblessed-zaahen/thumb.webp?v=37877ab7",
+			"file": {
+				"version": 1,
+				"asset": "winterblessed-zaahen-v1.fantome",
+				"size": 36004295,
+				"sha256": "7b5f0c8157dae9b7f37ea397b29e69f2e2cc395395ccd9aebf8615aac11faef0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wise-mystical-maokai",
+			"name": "Wise Mystical Maokai",
+			"champion": 57,
+			"base": 0,
+			"creator": "drinfinito",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/wise-mystical-maokai/thumb.webp?v=3e718ca4",
+			"file": {
+				"version": 1,
+				"asset": "wise-mystical-maokai-v1.fantome",
+				"size": 39380399,
+				"sha256": "de94d8aae0c78f75a48d17c8f260987e856ca7a8aa1a5798a3b3ec5a8993362e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wukong-dora",
+			"name": "Dora",
+			"champion": 62,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/wukong-dora/thumb.webp?v=26388684",
+			"file": {
+				"version": 1,
+				"asset": "wukong-dora-v1.fantome",
+				"size": 15461294,
+				"sha256": "1e1772f3b4fd58359c898c26c99259aeeb2a01058ae2ddcbf012ef363855eef2"
 			},
 			"chromas": []
 		},

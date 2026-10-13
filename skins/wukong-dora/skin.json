@@ -1,0 +1,25 @@
+{
+	"id": "wukong-dora",
+	"name": "Dora",
+	"champion": 62,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/dora-wukong\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/wukong-dora/thumb.webp?v=26388684",
+	"file": {
+		"version": 1,
+		"asset": "wukong-dora-v1.fantome",
+		"size": 15461294,
+		"sha256": "1e1772f3b4fd58359c898c26c99259aeeb2a01058ae2ddcbf012ef363855eef2"
+	},
+	"chromas": []
+}

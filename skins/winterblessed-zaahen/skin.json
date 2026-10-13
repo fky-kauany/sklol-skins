@@ -1,0 +1,26 @@
+{
+	"id": "winterblessed-zaahen",
+	"name": "Winterblessed Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "frog",
+	"description": "Changelog: \r\n\r\nReduced recall brightness\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/winterblessed-zaahen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/winterblessed-zaahen/thumb.webp?v=37877ab7",
+	"file": {
+		"version": 1,
+		"asset": "winterblessed-zaahen-v1.fantome",
+		"size": 36004295,
+		"sha256": "7b5f0c8157dae9b7f37ea397b29e69f2e2cc395395ccd9aebf8615aac11faef0"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "walter-white-singed",
+	"name": "Walter White Singed",
+	"champion": 27,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/walter-white-singed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/walter-white-singed/thumb.webp?v=7cd53736",
+	"file": {
+		"version": 1,
+		"asset": "walter-white-singed-v1.fantome",
+		"size": 4823478,
+		"sha256": "cdfea75e9a9f318901dad05e81e02db38ff53daf68d8d40035e6fcee59e39842"
+	},
+	"chromas": []
+}

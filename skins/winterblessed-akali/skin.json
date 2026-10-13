@@ -1,0 +1,26 @@
+{
+	"id": "winterblessed-akali",
+	"name": "Winterblessed Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "xellelux",
+	"description": "## Info:\n\n- Modified skin: Basic\n- Author: soul\n\n### Features:\n\n- Changed model\n- New textures\n- Changed VFX and SFX\n- Loading screen, in-game icon\n\n---\n\n**Created by** [Xellelux](https://www.divineskins.gg/Xellelux)\n\n**Original:** https://www.divineskins.gg/Xellelux/winterblessed-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/winterblessed-akali/thumb.webp?v=14e3ed4d",
+	"file": {
+		"version": 1,
+		"asset": "winterblessed-akali-v1.fantome",
+		"size": 27819675,
+		"sha256": "713412b2ae341907e8c76916c94ab66ea41849108cb074f97171bde03f9cacc6"
+	},
+	"chromas": []
+}

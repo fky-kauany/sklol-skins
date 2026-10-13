@@ -1,0 +1,26 @@
+{
+	"id": "whatsapp-malphite",
+	"name": "Whatsapp Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "tor-lol",
+	"description": "# WhatsApp Malphite\n\nA custom **WhatsApp-themed Malphite skin** for League of Legends. Transforms Malphite with a green WhatsApp-inspired model, custom textures, icons, visual effects, and notification sounds while keeping his original gameplay intact.\n\n*Rock Solid as always.*\n\n## Support\n\nIf you enjoy the skin, consider following me on TikTok: [@tor.lol](https://www.tiktok.com/@tor.lol)\n\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/whatsapp-malphite\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/whatsapp-malphite/thumb.webp?v=b1c93f12",
+	"file": {
+		"version": 1,
+		"asset": "whatsapp-malphite-v1.fantome",
+		"size": 6124271,
+		"sha256": "416badeef7d1a0f343809e26dec488f40295b29c80b09cad2d35a434fc4e278d"
+	},
+	"chromas": []
+}
