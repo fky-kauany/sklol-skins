@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:10:06.590Z",
+	"generatedAt": "2026-10-13T06:13:33.035Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -499,6 +499,10 @@
 		"prinzz": {
 			"name": "Prinzz",
 			"avatar": "creators/prinzz.webp?v=7e2378fa",
+			"links": {}
+		},
+		"rahabani": {
+			"name": "rahabani",
 			"links": {}
 		},
 		"ramo": {
@@ -15442,6 +15446,264 @@
 				"asset": "singed-star-guardian-v1.fantome",
 				"size": 6448900,
 				"sha256": "7374bd8ae73f9a4e3534fc4548d78077b74ce528e6d41641cd54eb4ecdf09f3f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "singed-viper",
+			"name": "Viper",
+			"champion": 27,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/singed-viper/thumb.webp?v=f2a01d50",
+			"file": {
+				"version": 1,
+				"asset": "singed-viper-v1.fantome",
+				"size": 7646408,
+				"sha256": "5f20eef668d1195748ea00eabcc8e6844bb1edf7b43679cffc303ba3ea82e4b2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sion-colossal-titan",
+			"name": "Sion Colossal Titan",
+			"champion": 14,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sion-colossal-titan/thumb.webp?v=a99c29b5",
+			"file": {
+				"version": 1,
+				"asset": "sion-colossal-titan-v1.fantome",
+				"size": 33735962,
+				"sha256": "d3c9be17ced07d48a34ecff69b3fe34ebf83b8f46d5e022534428c1e9ded8d4e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sion-fallout-armor",
+			"name": "Sion Fallout Armor",
+			"champion": 14,
+			"base": 0,
+			"creator": "rahabani",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sion-fallout-armor/thumb.webp?v=7bcbe162",
+			"file": {
+				"version": 1,
+				"asset": "sion-fallout-armor-v1.fantome",
+				"size": 16719330,
+				"sha256": "fde349b2a3299c6194f3b148d58b7bd868456a6ba64b87769c021a020f5be41f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sion-kaido",
+			"name": "Sion Kaido",
+			"champion": 14,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sion-kaido/thumb.webp?v=5c9bf72c",
+			"file": {
+				"version": 1,
+				"asset": "sion-kaido-v1.fantome",
+				"size": 33022318,
+				"sha256": "040bd24dbfb6ad2a43d87ff901dd59cdcecade0055fcd4ae4193a7f4d5e6254f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sivir-hatsune-miku",
+			"name": "Hatsune Miku",
+			"champion": 15,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sivir-hatsune-miku/thumb.webp?v=6c7659c6",
+			"file": {
+				"version": 1,
+				"asset": "sivir-hatsune-miku-v1.fantome",
+				"size": 13837256,
+				"sha256": "69169b980b7c3121be293b0b20c8f07649507b2f5c87ff20e799c313e7e992d7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "skarner-mcqueen",
+			"name": "McQueen",
+			"champion": 72,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/skarner-mcqueen/thumb.webp?v=ae25fa73",
+			"file": {
+				"version": 1,
+				"asset": "skarner-mcqueen-v1.fantome",
+				"size": 10567172,
+				"sha256": "9dbc9d71949cf7a7171cb3649e6a58670288515e53942318ad1afa26f12de0ef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smart-falcon-seraphine-from-uma-musume-pretty-de",
+			"name": "Smart Falcon Seraphine from Uma Musume Pretty Derby",
+			"champion": 147,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/smart-falcon-seraphine-from-uma-musume-pretty-de/thumb.webp?v=bd6f31e4",
+			"file": {
+				"version": 1,
+				"asset": "smart-falcon-seraphine-from-uma-musume-pretty-de-v1.fantome",
+				"size": 56739536,
+				"sha256": "505305812db5f5a9499b0608380e5cdc2955e01f1ef6cda6fa11191145a3d544"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smoker-jarvan-iv",
+			"name": "Smoker Jarvan IV",
+			"champion": 59,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/smoker-jarvan-iv/thumb.webp?v=2d1b2494",
+			"file": {
+				"version": 1,
+				"asset": "smoker-jarvan-iv-v1.fantome",
+				"size": 8485831,
+				"sha256": "3d5b38be3d77b7addde938a5fc58eed1bb5f150872842aff320d2be816e468f5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smolder-itachi",
+			"name": "Itachi",
+			"champion": 901,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/smolder-itachi/thumb.webp?v=436fc94e",
+			"file": {
+				"version": 1,
+				"asset": "smolder-itachi-v1.fantome",
+				"size": 10531935,
+				"sha256": "0f4b95032ce45a1670faa34515e9684269a768c296d9ab6acb82e94dd37ec411"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smolder-kaisel",
+			"name": "Kaisel",
+			"champion": 901,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/smolder-kaisel/thumb.webp?v=fa794527",
+			"file": {
+				"version": 1,
+				"asset": "smolder-kaisel-v1.fantome",
+				"size": 13353375,
+				"sha256": "ef76a94e23b69f2b84d0f29e1cd40ae617b94905be7b61bdd247017510d56e52"
 			},
 			"chromas": []
 		},

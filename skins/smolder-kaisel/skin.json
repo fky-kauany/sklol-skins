@@ -1,0 +1,24 @@
+{
+	"id": "smolder-kaisel",
+	"name": "Kaisel",
+	"champion": 901,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/kaisel-smolder\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/smolder-kaisel/thumb.webp?v=fa794527",
+	"file": {
+		"version": 1,
+		"asset": "smolder-kaisel-v1.fantome",
+		"size": 13353375,
+		"sha256": "ef76a94e23b69f2b84d0f29e1cd40ae617b94905be7b61bdd247017510d56e52"
+	},
+	"chromas": []
+}

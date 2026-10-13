@@ -1,0 +1,26 @@
+{
+	"id": "sion-kaido",
+	"name": "Sion Kaido",
+	"champion": 14,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KAIDO 」\r\n### *Replaces Sion*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/sion-kaido\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sion-kaido/thumb.webp?v=5c9bf72c",
+	"file": {
+		"version": 1,
+		"asset": "sion-kaido-v1.fantome",
+		"size": 33022318,
+		"sha256": "040bd24dbfb6ad2a43d87ff901dd59cdcecade0055fcd4ae4193a7f4d5e6254f"
+	},
+	"chromas": []
+}

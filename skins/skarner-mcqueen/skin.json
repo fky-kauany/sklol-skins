@@ -1,0 +1,26 @@
+{
+	"id": "skarner-mcqueen",
+	"name": "McQueen",
+	"champion": 72,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/mcqueen-skarner\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/skarner-mcqueen/thumb.webp?v=ae25fa73",
+	"file": {
+		"version": 1,
+		"asset": "skarner-mcqueen-v1.fantome",
+		"size": 10567172,
+		"sha256": "9dbc9d71949cf7a7171cb3649e6a58670288515e53942318ad1afa26f12de0ef"
+	},
+	"chromas": []
+}

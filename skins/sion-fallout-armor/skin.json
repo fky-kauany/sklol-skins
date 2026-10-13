@@ -1,0 +1,26 @@
+{
+	"id": "sion-fallout-armor",
+	"name": "Sion Fallout Armor",
+	"champion": 14,
+	"base": 0,
+	"creator": "rahabani",
+	"description": "---\n\n**Created by** [rahabani](https://www.divineskins.gg/rahabani)\n\n**Original:** https://www.divineskins.gg/rahabani/sion-fallout-armor\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sion-fallout-armor/thumb.webp?v=7bcbe162",
+	"file": {
+		"version": 1,
+		"asset": "sion-fallout-armor-v1.fantome",
+		"size": 16719330,
+		"sha256": "fde349b2a3299c6194f3b148d58b7bd868456a6ba64b87769c021a020f5be41f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "singed-viper",
+	"name": "Viper",
+	"champion": 27,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/viper-singed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/singed-viper/thumb.webp?v=f2a01d50",
+	"file": {
+		"version": 1,
+		"asset": "singed-viper-v1.fantome",
+		"size": 7646408,
+		"sha256": "5f20eef668d1195748ea00eabcc8e6844bb1edf7b43679cffc303ba3ea82e4b2"
+	},
+	"chromas": []
+}
