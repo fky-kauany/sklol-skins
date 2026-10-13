@@ -1,0 +1,26 @@
+{
+	"id": "shrek-sion",
+	"name": "Shrek Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "tor-lol",
+	"description": "# Shrek Sion\n\nA custom **Shrek-themed Sion model replacement** for League of Legends. Replaces Sion with Shrek while keeping his original animations and gameplay intact.\n\n*Donkey not included.*\n\n## Support\n\nIf you enjoy the skin, consider following me on TikTok: [@tor.lol](https://www.tiktok.com/@tor.lol)\n\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/shrek-sion\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shrek-sion/thumb.webp?v=37c17642",
+	"file": {
+		"version": 1,
+		"asset": "shrek-sion-v1.fantome",
+		"size": 7398879,
+		"sha256": "90c1a48812e17066fcbd4e428faefe3883e720fc9f2a2fbd3c7369958eb0077a"
+	},
+	"chromas": []
+}

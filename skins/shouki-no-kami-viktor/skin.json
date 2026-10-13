@@ -1,0 +1,26 @@
+{
+	"id": "shouki-no-kami-viktor",
+	"name": "Shouki no Kami Viktor",
+	"champion": 112,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "shouki no kami viktor skin commissioned by savagenoser\n\n#### mod features:\n- model\n- differrent animations\n- custom vfx\n- vo\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/shouki-no-kami-viktor\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shouki-no-kami-viktor/thumb.webp?v=bd6fedb8",
+	"file": {
+		"version": 1,
+		"asset": "shouki-no-kami-viktor-v1.fantome",
+		"size": 68906058,
+		"sha256": "9398f0fb7103b559ee69fef37f2d4dc0c0af95021c9ec285338b6bee7c434dd6"
+	},
+	"chromas": []
+}

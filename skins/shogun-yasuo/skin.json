@@ -1,0 +1,26 @@
+{
+	"id": "shogun-yasuo",
+	"name": "Shogun Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "frog",
+	"description": "## Comprehensive Mod Copyright and Asset Disclaimer\n\nThis modification (mod) is a fan-made project and is **not affiliated with or endorsed by Epic Games, Inc. or Riot Games, Inc.**\n\n### Third-Party Asset Ownership\n\nThis mod utilizes assets (such as models, textures, or sounds) derived from **Fortnite** and/or games published by **Riot Games, Inc.**\n\n- **Epic Games, Inc.:** All intellectual property, copyrights, and trademarks for the Fortnite assets used here are the exclusive property of **Epic Games, Inc.**\n- **Riot Games, Inc.:** All intellectual property, copyrights, and trademarks for the Riot Games assets used here are the exclusive property of **Riot Games, Inc.**\n\n**No other person or entity is permitted to claim ownership or copyright over these specific third-party assets.**\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/shogun-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shogun-yasuo/thumb.webp?v=2af6f5fb",
+	"file": {
+		"version": 1,
+		"asset": "shogun-yasuo-v1.fantome",
+		"size": 39927144,
+		"sha256": "8b396e978af67860da3bb5d1d9fa3438305e9ba18175a38a5ac71c6d61a0fcce"
+	},
+	"chromas": []
+}

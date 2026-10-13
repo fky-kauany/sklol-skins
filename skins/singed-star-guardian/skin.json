@@ -1,0 +1,25 @@
+{
+	"id": "singed-star-guardian",
+	"name": "Star Guardian",
+	"champion": 27,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/star-guardian-singed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/singed-star-guardian/thumb.webp?v=66e7cf35",
+	"file": {
+		"version": 1,
+		"asset": "singed-star-guardian-v1.fantome",
+		"size": 6448900,
+		"sha256": "7374bd8ae73f9a4e3534fc4548d78077b74ce528e6d41641cd54eb4ecdf09f3f"
+	},
+	"chromas": []
+}

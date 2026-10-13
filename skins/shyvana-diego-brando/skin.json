@@ -1,0 +1,26 @@
+{
+	"id": "shyvana-diego-brando",
+	"name": "Shyvana Diego Brando",
+	"champion": 102,
+	"base": 0,
+	"creator": "lita",
+	"description": "---\n\n**Created by** [lita](https://www.divineskins.gg/lita)\n\n**Original:** https://www.divineskins.gg/lita/shyvana-diego-brando\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shyvana-diego-brando/thumb.webp?v=d431c84f",
+	"file": {
+		"version": 1,
+		"asset": "shyvana-diego-brando-v1.fantome",
+		"size": 27835326,
+		"sha256": "8eb96a4d4ecae0a5e40edaf60905473a9db7e0847f707dc39e5a9ed4ee0d2f40"
+	},
+	"chromas": []
+}

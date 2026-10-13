@@ -1,0 +1,24 @@
+{
+	"id": "singed-gragas",
+	"name": "Singed Gragas",
+	"champion": 79,
+	"base": 4,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Gragas\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/singed-gragas\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/singed-gragas/thumb.webp?v=98d9a6c6",
+	"file": {
+		"version": 1,
+		"asset": "singed-gragas-v1.fantome",
+		"size": 735973,
+		"sha256": "b483aa40bfee89844b6c49969b420c88f0f1dfafecf185e30315f5781db22066"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "sift-head-lucian",
+	"name": "sift head lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "**Modified champion: Lucian**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**came from here the 3d models:** [index](https://steamcommunity.com/sharedfiles/filedetails/?id=2312833631&searchtext=sift+head)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/sift-head-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sift-head-lucian/thumb.webp?v=73ccba96",
+	"file": {
+		"version": 1,
+		"asset": "sift-head-lucian-v1.fantome",
+		"size": 5473006,
+		"sha256": "4c86ba4f32986abbda4a5d25fd56384b0dcdb52f32fb5706816c90d5320963b8"
+	},
+	"chromas": []
+}
