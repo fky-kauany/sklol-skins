@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:50:01.267Z",
+	"generatedAt": "2026-10-13T05:53:19.668Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -13905,6 +13905,264 @@
 				"asset": "sadako-briar-v1.fantome",
 				"size": 10452478,
 				"sha256": "40784a83de2bcef866f28319754f595903b57077b615b6eda8162fddbac9a16f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sage-anivia",
+			"name": "Sage Anivia",
+			"champion": 34,
+			"base": 0,
+			"creator": "emshu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sage-anivia/thumb.webp?v=41e7b0a1",
+			"file": {
+				"version": 1,
+				"asset": "sage-anivia-v1.fantome",
+				"size": 12166442,
+				"sha256": "138e4d5a4885b1d875c3bb217dedf23f9f47f3a1c8671c1cf5e90469b2e9a8d9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sajin-komamura-garen",
+			"name": "Sajin Komamura Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sajin-komamura-garen/thumb.webp?v=7d1c4647",
+			"file": {
+				"version": 1,
+				"asset": "sajin-komamura-garen-v1.fantome",
+				"size": 32220213,
+				"sha256": "5915ce272b2f2d150bf4d2432f31482c7272a11c223de79980ef3ea1c3afa018"
+			},
+			"chromas": []
+		},
+		{
+			"id": "samira-2b",
+			"name": "2B",
+			"champion": 360,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/samira-2b/thumb.webp?v=8122055d",
+			"file": {
+				"version": 1,
+				"asset": "samira-2b-v1.fantome",
+				"size": 25568524,
+				"sha256": "1bda80a9dd80a68da032876efc49127ad39bf7e7fc7c142cfd074a405b04576f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "samira-genya",
+			"name": "Samira Genya",
+			"champion": 360,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/samira-genya/thumb.webp?v=6f2e6bec",
+			"file": {
+				"version": 1,
+				"asset": "samira-genya-v1.fantome",
+				"size": 21401598,
+				"sha256": "4f02a90decdb7d43168d2cd9978479faccafaca84221c67f693647eeb7e05364"
+			},
+			"chromas": []
+		},
+		{
+			"id": "samira-nagumo",
+			"name": "Nagumo",
+			"champion": 360,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/samira-nagumo/thumb.webp?v=1864f064",
+			"file": {
+				"version": 1,
+				"asset": "samira-nagumo-v1.fantome",
+				"size": 13719568,
+				"sha256": "c79569b727bfa787be708578ac9b7021dc4e587eec22464146bd70ea4d73a0e5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "samira-siesta",
+			"name": "Samira Siesta",
+			"champion": 360,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/samira-siesta/thumb.webp?v=8f148218",
+			"file": {
+				"version": 1,
+				"asset": "samira-siesta-v1.fantome",
+				"size": 15485915,
+				"sha256": "331f5c6c4c5cfad6dcdcb6d9a0ec438aa479308de906f72c1a8d762a733789ad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "samira-suigetsu-hozuki",
+			"name": "Suigetsu Hozuki",
+			"champion": 360,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/samira-suigetsu-hozuki/thumb.webp?v=0fff9db5",
+			"file": {
+				"version": 1,
+				"asset": "samira-suigetsu-hozuki-v1.fantome",
+				"size": 29598289,
+				"sha256": "08d062b1a03bfb441dc9cc27ed8171906911c2fcd9eb487f2759bc8c4f52e96f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sandrone-locke",
+			"name": "Sandrone Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sandrone-locke/thumb.webp?v=d02cfb1b",
+			"file": {
+				"version": 1,
+				"asset": "sandrone-locke-v1.fantome",
+				"size": 4921273,
+				"sha256": "ee93a5ea33fb2b8d683ccbc10516d6b98361a3475f60a0c13a32a5e559fa6bb3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanji-camille",
+			"name": "Sanji Camille",
+			"champion": 164,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sanji-camille/thumb.webp?v=eafc883e",
+			"file": {
+				"version": 1,
+				"asset": "sanji-camille-v1.fantome",
+				"size": 16578726,
+				"sha256": "0af6664982579a3c416ae04bc373f0036eef820ce69839513c2c19be8121f244"
+			},
+			"chromas": []
+		},
+		{
+			"id": "santa-gangplank",
+			"name": "Santa Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/santa-gangplank/thumb.webp?v=538caea4",
+			"file": {
+				"version": 1,
+				"asset": "santa-gangplank-v1.fantome",
+				"size": 18185213,
+				"sha256": "d365cf94a7a04540cd89e4884f12148c6af38d38ff89bffdacd4583561e2b80f"
 			},
 			"chromas": []
 		},

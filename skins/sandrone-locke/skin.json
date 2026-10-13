@@ -1,0 +1,24 @@
+{
+	"id": "sandrone-locke",
+	"name": "Sandrone Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Sandrone Locke\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/sandrone-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sandrone-locke/thumb.webp?v=d02cfb1b",
+	"file": {
+		"version": 1,
+		"asset": "sandrone-locke-v1.fantome",
+		"size": 4921273,
+		"sha256": "ee93a5ea33fb2b8d683ccbc10516d6b98361a3475f60a0c13a32a5e559fa6bb3"
+	},
+	"chromas": []
+}

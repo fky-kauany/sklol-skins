@@ -1,0 +1,26 @@
+{
+	"id": "sanji-camille",
+	"name": "Sanji Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "frog",
+	"description": "The Black Leg has a new home. This custom **Sanji as Camille** skin transforms the Piltover brawler into the gentleman cook of the Straw Hat Pirates. With her deadly leg attacks and impeccable style, Camille now moves with the swift elegance of Sanji, kicking her way through enemies and proving that a gentleman's moves are the deadliest of all.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sanji-camille\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sanji-camille/thumb.webp?v=eafc883e",
+	"file": {
+		"version": 1,
+		"asset": "sanji-camille-v1.fantome",
+		"size": 16578726,
+		"sha256": "0af6664982579a3c416ae04bc373f0036eef820ce69839513c2c19be8121f244"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "samira-nagumo",
+	"name": "Nagumo",
+	"champion": 360,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Nagumo Samira\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Samira skin\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/nagumo-samira\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/samira-nagumo/thumb.webp?v=1864f064",
+	"file": {
+		"version": 1,
+		"asset": "samira-nagumo-v1.fantome",
+		"size": 13719568,
+		"sha256": "c79569b727bfa787be708578ac9b7021dc4e587eec22464146bd70ea4d73a0e5"
+	},
+	"chromas": []
+}

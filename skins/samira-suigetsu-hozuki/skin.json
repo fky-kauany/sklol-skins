@@ -1,0 +1,26 @@
+{
+	"id": "samira-suigetsu-hozuki",
+	"name": "Suigetsu Hozuki",
+	"champion": 360,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Suigetsu Hozuki Samira\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Samira skin\r\n• Custom Voiceover of Suigetsu Hozuki (only for en_US league version)\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/suigetsu-hozuki-samira\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/samira-suigetsu-hozuki/thumb.webp?v=0fff9db5",
+	"file": {
+		"version": 1,
+		"asset": "samira-suigetsu-hozuki-v1.fantome",
+		"size": 29598289,
+		"sha256": "08d062b1a03bfb441dc9cc27ed8171906911c2fcd9eb487f2759bc8c4f52e96f"
+	},
+	"chromas": []
+}

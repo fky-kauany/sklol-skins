@@ -1,0 +1,26 @@
+{
+	"id": "samira-siesta",
+	"name": "Samira Siesta",
+	"champion": 360,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 SIESTA 」\r\n### *Replaces Samira*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/samira-siesta\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/samira-siesta/thumb.webp?v=8f148218",
+	"file": {
+		"version": 1,
+		"asset": "samira-siesta-v1.fantome",
+		"size": 15485915,
+		"sha256": "331f5c6c4c5cfad6dcdcb6d9a0ec438aa479308de906f72c1a8d762a733789ad"
+	},
+	"chromas": []
+}

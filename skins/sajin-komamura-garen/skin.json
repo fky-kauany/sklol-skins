@@ -1,0 +1,26 @@
+{
+	"id": "sajin-komamura-garen",
+	"name": "Sajin Komamura Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "frog",
+	"description": "The path of justice is forged in iron and spirit. This custom **Sajin Komamura Garen** skin transforms the Might of Demacia into the captain of Squad 7. With every swing of his blade, you'll feel the weight of his honor and the immense power of his Bankai.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sajin-komamura-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sajin-komamura-garen/thumb.webp?v=7d1c4647",
+	"file": {
+		"version": 1,
+		"asset": "sajin-komamura-garen-v1.fantome",
+		"size": 32220213,
+		"sha256": "5915ce272b2f2d150bf4d2432f31482c7272a11c223de79980ef3ea1c3afa018"
+	},
+	"chromas": []
+}

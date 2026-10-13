@@ -1,0 +1,26 @@
+{
+	"id": "santa-gangplank",
+	"name": "Santa Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/santa-gangplank\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/santa-gangplank/thumb.webp?v=538caea4",
+	"file": {
+		"version": 1,
+		"asset": "santa-gangplank-v1.fantome",
+		"size": 18185213,
+		"sha256": "d365cf94a7a04540cd89e4884f12148c6af38d38ff89bffdacd4583561e2b80f"
+	},
+	"chromas": []
+}

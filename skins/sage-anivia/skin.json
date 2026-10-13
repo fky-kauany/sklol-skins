@@ -1,0 +1,26 @@
+{
+	"id": "sage-anivia",
+	"name": "Sage Anivia",
+	"champion": 34,
+	"base": 0,
+	"creator": "emshu",
+	"description": "📌 Mod Info\nChampion: Anivia\nCustom : Sage Anivia\nModder : emShu\n\n---\n\n**Created by** [emShu](https://www.divineskins.gg/emShu)\n\n**Original:** https://www.divineskins.gg/emShu/sage-anivia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sage-anivia/thumb.webp?v=41e7b0a1",
+	"file": {
+		"version": 1,
+		"asset": "sage-anivia-v1.fantome",
+		"size": 12166442,
+		"sha256": "138e4d5a4885b1d875c3bb217dedf23f9f47f3a1c8671c1cf5e90469b2e9a8d9"
+	},
+	"chromas": []
+}
