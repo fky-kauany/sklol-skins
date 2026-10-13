@@ -1,0 +1,26 @@
+{
+	"id": "alucard-jhin",
+	"name": "Alucard Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "frog",
+	"description": "## 🦇 Alucard: The Bird of Hermes\n\nThe No Life King has descended upon Summoner's Rift to turn the battlefield into a crimson masterpiece. This mod replaces Jhin with **Alucard**, the ultimate weapon of the Hellsing Organization, transforming the Virtuoso into the immortal vampire. Every shot is a death sentence, and every fourth hit is a symphony of carnage.\n\n> *\"The bird of Hermes is my name, eating my wings to make me tame.\"*\n\n---\n\n### 🛡️ Skin Information\n\n* **Modified Champion:** Jhin\n* **Modified Skin:** All Jhin Skins\n* **Character:** Alucard (*Hellsing* / *Hellsing Ultimate*)\n* **Author:** Frog\n\n---\n\n### 📜 Features\n\n* **Cromwell Restriction Release Particles:** All abilities are recolored to a menacing Blood Red and Midnight Black. Expect dark, visceral visual effects that mirror the horror of Level 0.\n* **Ocular Manifestation:** Jhin’s traps and mark indicators are replaced with the Ominous Eyes of Alucard’s shadow form. When an enemy is rooted, they are stared down by the abyss.\n* **Passive Aura:** A constant, subtle aura of shadowy bats swirls around Alucard, intensifying as he gains movement speed from his fourth shot.\n\n---\n\n### ⚖️ Disclaimer & Credits\n\n* **Copyright:** The character Alucard and the *Hellsing* franchise are the property of Kouta Hirano and Studio Gonzo / Satelight / Madhouse.\n* **Mod Ownership:** The copyright for these specific modifications belongs to Frog.\n* **Affiliation:** This fan-made modification is not affiliated with or endorsed by Riot Games or any of the aforementioned copyright holders.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/alucard-jhin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/alucard-jhin/thumb.webp?v=96fc85af",
+	"file": {
+		"version": 1,
+		"asset": "alucard-jhin-v1.fantome",
+		"size": 18920532,
+		"sha256": "152a24a10c1fc65cbe1abba9f0cab4579d98c33090ab7853f39d82774735926d"
+	},
+	"chromas": []
+}

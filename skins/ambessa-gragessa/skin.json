@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-gragessa",
+	"name": "Gragessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gragessa-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-gragessa/thumb.webp?v=27348c2f",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-gragessa-v1.fantome",
+		"size": 19651389,
+		"sha256": "46c85781332490700ca919cda22ed75733faaa3183e97de66af5f34a0d77c4ad"
+	},
+	"chromas": []
+}

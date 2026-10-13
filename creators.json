@@ -41,6 +41,11 @@
 			"kofi": "https://ko-fi.com/czkostumli"
 		}
 	},
+	"daka": {
+		"name": "daka",
+		"avatar": "creators/daka.webp?v=90c8597e",
+		"links": {}
+	},
 	"disco": {
 		"name": "DISCO",
 		"avatar": "creators/disco.webp?v=133102a3",

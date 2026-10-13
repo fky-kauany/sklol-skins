@@ -1,0 +1,26 @@
+{
+	"id": "alucard-vladimir",
+	"name": "Alucard Vladimir",
+	"champion": 8,
+	"base": 0,
+	"creator": "frog",
+	"description": "Alucard Vladimir • Custom model • Custom Abilities  • Works on every vlad skin • voicelines\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/alucard-vladimir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/alucard-vladimir/thumb.webp?v=60762543",
+	"file": {
+		"version": 1,
+		"asset": "alucard-vladimir-v1.fantome",
+		"size": 18291423,
+		"sha256": "7f2981b1fddf59768c3cbeefafdfb5f7e322bf45127354d7c6697067a5d72271"
+	},
+	"chromas": []
+}

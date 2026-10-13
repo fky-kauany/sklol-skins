@@ -1,0 +1,26 @@
+{
+	"id": "allie-zaahen-stella-sora",
+	"name": "Allie Zaahen (Stella Sora)",
+	"champion": 904,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/allie-zaahen-stella-sora\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/allie-zaahen-stella-sora/thumb.webp?v=c6a087c2",
+	"file": {
+		"version": 1,
+		"asset": "allie-zaahen-stella-sora-v1.modpkg",
+		"size": 21275638,
+		"sha256": "08f30e857a1febe48a527fd7d1d0cb73b2fb9c6de29db4c4a04723582de273bd"
+	},
+	"chromas": []
+}

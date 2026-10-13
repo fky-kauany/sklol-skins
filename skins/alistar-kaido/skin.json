@@ -1,0 +1,26 @@
+{
+	"id": "alistar-kaido",
+	"name": "Kaido",
+	"champion": 12,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Kaido Alistar\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Alistar skin\r\n• Custom Voiceover of Kaido (only for en_US league version)\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/kaido-alistar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/alistar-kaido/thumb.webp?v=b6635f5c",
+	"file": {
+		"version": 1,
+		"asset": "alistar-kaido-v1.fantome",
+		"size": 12354105,
+		"sha256": "9d9fab9642f2d24128762240b50142e41f7f2366bbc231ce3cea1eb342b37bdd"
+	},
+	"chromas": []
+}

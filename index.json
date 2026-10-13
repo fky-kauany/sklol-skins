@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:06:32.912Z",
+	"generatedAt": "2026-10-13T00:24:10.722Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -43,6 +43,11 @@
 			"links": {
 				"kofi": "https://ko-fi.com/czkostumli"
 			}
+		},
+		"daka": {
+			"name": "daka",
+			"avatar": "creators/daka.webp?v=90c8597e",
+			"links": {}
 		},
 		"disco": {
 			"name": "DISCO",
@@ -1346,6 +1351,267 @@
 				"asset": "alien-hominid-ziggs-v1.fantome",
 				"size": 1532287,
 				"sha256": "ebaf63272e340d00f792cc5bf707904616a7484010b38c455c2d401bc53c73ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alistar-armored-titan",
+			"name": "Armored Titan",
+			"champion": 12,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alistar-armored-titan/thumb.webp?v=92cd5e7b",
+			"file": {
+				"version": 1,
+				"asset": "alistar-armored-titan-v1.fantome",
+				"size": 10650591,
+				"sha256": "4b1df1c854ba477d6fb2cec70a80a915a87356c0d7beb156f211cdbbe9cecaa4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alistar-kaido",
+			"name": "Kaido",
+			"champion": 12,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alistar-kaido/thumb.webp?v=b6635f5c",
+			"file": {
+				"version": 1,
+				"asset": "alistar-kaido-v1.fantome",
+				"size": 12354105,
+				"sha256": "9d9fab9642f2d24128762240b50142e41f7f2366bbc231ce3cea1eb342b37bdd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "all-might-sett",
+			"name": "All Might - Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/all-might-sett/thumb.webp?v=fdd23de0",
+			"file": {
+				"version": 1,
+				"asset": "all-might-sett-v1.fantome",
+				"size": 15641218,
+				"sha256": "7dd72a72eb5ea57fac4aca190768a5ab88369230c5c41b14e1733d7e3ff27903"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alli-rengar",
+			"name": "Alli Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alli-rengar/thumb.webp?v=5fcf8ca2",
+			"file": {
+				"version": 1,
+				"asset": "alli-rengar-v1.fantome",
+				"size": 17800947,
+				"sha256": "6ea4748386100550041b15d07b72fbe2906be12472929aea906dd4182abc1122"
+			},
+			"chromas": []
+		},
+		{
+			"id": "allie-zaahen-stella-sora",
+			"name": "Allie Zaahen (Stella Sora)",
+			"champion": 904,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/allie-zaahen-stella-sora/thumb.webp?v=c6a087c2",
+			"file": {
+				"version": 1,
+				"asset": "allie-zaahen-stella-sora-v1.modpkg",
+				"size": 21275638,
+				"sha256": "08f30e857a1febe48a527fd7d1d0cb73b2fb9c6de29db4c4a04723582de273bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alucard-jhin",
+			"name": "Alucard Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alucard-jhin/thumb.webp?v=96fc85af",
+			"file": {
+				"version": 1,
+				"asset": "alucard-jhin-v1.fantome",
+				"size": 18920532,
+				"sha256": "152a24a10c1fc65cbe1abba9f0cab4579d98c33090ab7853f39d82774735926d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "alucard-vladimir",
+			"name": "Alucard Vladimir",
+			"champion": 8,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/alucard-vladimir/thumb.webp?v=60762543",
+			"file": {
+				"version": 1,
+				"asset": "alucard-vladimir-v1.fantome",
+				"size": 18291423,
+				"sha256": "7f2981b1fddf59768c3cbeefafdfb5f7e322bf45127354d7c6697067a5d72271"
+			},
+			"chromas": []
+		},
+		{
+			"id": "amber-kayle",
+			"name": "Amber Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/amber-kayle/thumb.webp?v=db2bcdc6",
+			"file": {
+				"version": 1,
+				"asset": "amber-kayle-v1.fantome",
+				"size": 18938068,
+				"sha256": "26f4305eec07131f4cdf00d0ed8c146d0e6ac8b53809ff383b6082e4998cd6dd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-gragessa",
+			"name": "Gragessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-gragessa/thumb.webp?v=27348c2f",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-gragessa-v1.fantome",
+				"size": 19651389,
+				"sha256": "46c85781332490700ca919cda22ed75733faaa3183e97de66af5f34a0d77c4ad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ambessa-minecraft",
+			"name": "Minecraft",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ambessa-minecraft/thumb.webp?v=c40dc04d",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-minecraft-v1.fantome",
+				"size": 9896364,
+				"sha256": "0ec2b0222cbd3e1b2ae74ecb129e11f98044a3c96b19a3348ebd27f8ef59242e"
 			},
 			"chromas": []
 		},

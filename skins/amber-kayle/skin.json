@@ -1,0 +1,27 @@
+{
+	"id": "amber-kayle",
+	"name": "Amber Kayle",
+	"champion": 10,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "how lazy can this person be, 0 description written\n\n---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/amber-kayle\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/amber-kayle/thumb.webp?v=db2bcdc6",
+	"file": {
+		"version": 1,
+		"asset": "amber-kayle-v1.fantome",
+		"size": 18938068,
+		"sha256": "26f4305eec07131f4cdf00d0ed8c146d0e6ac8b53809ff383b6082e4998cd6dd"
+	},
+	"chromas": []
+}

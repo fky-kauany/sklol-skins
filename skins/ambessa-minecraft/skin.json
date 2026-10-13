@@ -1,0 +1,26 @@
+{
+	"id": "ambessa-minecraft",
+	"name": "Minecraft",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/minecraft-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ambessa-minecraft/thumb.webp?v=c40dc04d",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-minecraft-v1.fantome",
+		"size": 9896364,
+		"sha256": "0ec2b0222cbd3e1b2ae74ecb129e11f98044a3c96b19a3348ebd27f8ef59242e"
+	},
+	"chromas": []
+}
