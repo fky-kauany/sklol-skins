@@ -1,0 +1,26 @@
+{
+	"id": "hanya-veigar",
+	"name": "Hanya - Veigar",
+	"champion": 45,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "### 📌 Mod Info\r\n**Voice Over** : English\r\n**Model:** Hanya from Honkai: Star Rail.\r\n\r\n### 💬 Additional Info\r\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\r\n\r\n### 💖 Support Me\r\nEnjoyed the mod? Help fuel future projects: \r\n\r\nhttps://ko-fi.com/s0jaku\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/hanya-veigar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hanya-veigar/thumb.webp?v=c08cfe49",
+	"file": {
+		"version": 1,
+		"asset": "hanya-veigar-v1.fantome",
+		"size": 28018245,
+		"sha256": "060e9869970bb5f5b0fd91bcdeb81d674d3df04853bd3a8db3406a38c519a549"
+	},
+	"chromas": []
+}

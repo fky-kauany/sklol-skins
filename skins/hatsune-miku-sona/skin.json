@@ -1,0 +1,25 @@
+{
+	"id": "hatsune-miku-sona",
+	"name": "Hatsune Miku Sona",
+	"champion": 37,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Hatsune Miku Sona\n\n### Features\n\n- **Custom 3D Model** – Full Hatsune Miku redesign with iconic turquoise style.\n- **Custom Abilities** – Sona’s spells reimagined with idol-inspired effects.\n- **Universal Compatibility** – Works seamlessly across **all Sona skins** via Celestial Launcher.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/hatsune-miku-sona\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hatsune-miku-sona/thumb.webp?v=c34777dc",
+	"file": {
+		"version": 1,
+		"asset": "hatsune-miku-sona-v1.fantome",
+		"size": 9274366,
+		"sha256": "c15405758cd3be8e24060895470505223d6dcf314a1923372cd16e6cff5ea06a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "hatsune-miku-rakan",
+	"name": "Hatsune Miku Rakan",
+	"champion": 497,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Hatsune Miku Rakan\n\n### Features\n\n- **Full Custom Model:** This mod replaces Rakan's default model with a high-fidelity design inspired by Hatsune Miku, complete with her iconic outfit and hairstyle.\n- **Custom Abilities & VFX:** All of Rakan's abilities have been redesigned with custom visual effects, featuring Miku's signature teal color palette, musical notes, and futuristic light-show elements.\n- **Universal Compatibility:** The skin is designed to work seamlessly on the base Rakan model and all of his official skins, giving you maximum flexibility.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/hatsune-miku-rakan\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hatsune-miku-rakan/thumb.webp?v=642618be",
+	"file": {
+		"version": 1,
+		"asset": "hatsune-miku-rakan-v1.fantome",
+		"size": 16698248,
+		"sha256": "7faf61ca27cc3ed56e2699f6a5fad015beea3bfd8c441e78f2369475082f8dac"
+	},
+	"chromas": []
+}

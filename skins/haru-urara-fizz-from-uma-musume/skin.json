@@ -1,0 +1,26 @@
+{
+	"id": "haru-urara-fizz-from-uma-musume",
+	"name": "Haru Urara Fizz from Uma Musume",
+	"champion": 105,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# Haru Urara Fizz Skin:\r\n\r\n***\r\n\r\n> 🏇🏻 Say hi to Haru Urara and Oguri Cap, who just arrived on the Summoner's Rift with their unmatched speed! 🏇🏻\r\n\r\n* Champion: Fizz\r\n* Skin: All\r\n* Character Quality: All\r\n* VoiceLines Language: en_US\r\n\r\n## Features:\r\n\r\n***\r\n\r\n* New Custom Model\r\n* New Custom Textures\r\n* New VFX\r\n* New R Model (the shark)\r\n* New Loading Screen\r\n* New Champion Icons\r\n* New SFX\r\n* New Summoner Spells SFX\r\n* New Recall (and more common SFX which will work for all champs | this may conflict with other mods that change the same things)\r\n* New Background Music (currently not working)\r\n* New Voicelines from the game!\r\n\r\n***If you find any bug please ping me in the discord server or dm me: davex45a.***\r\n\r\n## Credits:\r\n\r\n***\r\nThanks to DjakDawid for commisioning and letting me upload the skin! <3\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/haru-urara-fizz-from-uma-musume\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/haru-urara-fizz-from-uma-musume/thumb.webp?v=a8ef14f2",
+	"file": {
+		"version": 1,
+		"asset": "haru-urara-fizz-from-uma-musume-v1.fantome",
+		"size": 19290824,
+		"sha256": "7e581ee19ed1eeaa4ad3f7f6a338f47005b3bdba08a30f0c4c6bc58852b15091"
+	},
+	"chromas": []
+}

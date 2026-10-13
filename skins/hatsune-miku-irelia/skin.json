@@ -1,0 +1,25 @@
+{
+	"id": "hatsune-miku-irelia",
+	"name": "Hatsune Miku Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Hatsune Miku Irelia\n\n### Features\n\n- **Custom 3D Model** – Full Hatsune Miku design with signature turquoise aesthetic.\n- **Custom Abilities** – Reworked VFX with rhythm-inspired energy.\n- **Universal Compatibility** – Works seamlessly on **all Irelia skins** via Celestial Launcher.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/hatsune-miku-irelia\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hatsune-miku-irelia/thumb.webp?v=991fb9dc",
+	"file": {
+		"version": 1,
+		"asset": "hatsune-miku-irelia-v1.fantome",
+		"size": 11401362,
+		"sha256": "d473cf0708cd12c4f3c971e9ef059a2f80cb40f7a0cfa0343bd96f692f1bcdf9"
+	},
+	"chromas": []
+}

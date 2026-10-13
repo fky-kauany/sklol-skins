@@ -1,0 +1,23 @@
+{
+	"id": "headhunter-vayne",
+	"name": "Headhunter Vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "### 📌 Mod Info\n**Type:**  Custom Skin \n**Modified Skin(s):** Base skin\n\n---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/headhunter-vayne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/headhunter-vayne/thumb.webp?v=37af1d27",
+	"file": {
+		"version": 1,
+		"asset": "headhunter-vayne-v1.fantome",
+		"size": 450844,
+		"sha256": "1744c19f4e063aaa77e7fb7a86321b0eaf435a450f4e7da55460b5d0a1b135ae"
+	},
+	"chromas": []
+}

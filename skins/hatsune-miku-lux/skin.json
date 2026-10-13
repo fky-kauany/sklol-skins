@@ -1,0 +1,26 @@
+{
+	"id": "hatsune-miku-lux",
+	"name": "Hatsune Miku Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Hatsune Miku Lux\n\n### Features\n\n- **Iconic Miku Model:** A complete, high-quality model replacement that transforms Lux into Hatsune Miku, featuring her signature turquoise twintails and futuristic pop-star attire.\n- **Vocaloid-Themed VFX:** All of Lux's light abilities are reimagined with a digital, musical flair, glowing with Miku's signature turquoise and teal color scheme.\n- **Themed Staff:** Lux's wand has been cleverly redesigned into Miku's famous leek, a fun and iconic nod to the Vocaloid fan community.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/hatsune-miku-lux\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hatsune-miku-lux/thumb.webp?v=28403810",
+	"file": {
+		"version": 1,
+		"asset": "hatsune-miku-lux-v1.fantome",
+		"size": 15455447,
+		"sha256": "28dcd5a5dac9be43cca6650abe8dde4d39078199609d7b4741163a472d42af9c"
+	},
+	"chromas": []
+}

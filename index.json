@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:11:52.821Z",
+	"generatedAt": "2026-10-13T03:15:04.295Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1508,6 +1508,258 @@
 				"asset": "hank-lucian-v1.fantome",
 				"size": 1218765,
 				"sha256": "d7413d7b48a84150d2675d66384eb0d0b3f712b8898120a04cb2b9d9ad0a0ff7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hanya-veigar",
+			"name": "Hanya - Veigar",
+			"champion": 45,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hanya-veigar/thumb.webp?v=c08cfe49",
+			"file": {
+				"version": 1,
+				"asset": "hanya-veigar-v1.fantome",
+				"size": 28018245,
+				"sha256": "060e9869970bb5f5b0fd91bcdeb81d674d3df04853bd3a8db3406a38c519a549"
+			},
+			"chromas": []
+		},
+		{
+			"id": "harpy-amumu",
+			"name": "Harpy Amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/harpy-amumu/thumb.webp?v=e71d30c8",
+			"file": {
+				"version": 1,
+				"asset": "harpy-amumu-v1.fantome",
+				"size": 851287,
+				"sha256": "06c5642d69ff133cc662248e238016314626a6d63ec3b45603245bb8dd4cbd2b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "haru-urara-fizz-from-uma-musume",
+			"name": "Haru Urara Fizz from Uma Musume",
+			"champion": 105,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/haru-urara-fizz-from-uma-musume/thumb.webp?v=a8ef14f2",
+			"file": {
+				"version": 1,
+				"asset": "haru-urara-fizz-from-uma-musume-v1.fantome",
+				"size": 19290824,
+				"sha256": "7e581ee19ed1eeaa4ad3f7f6a338f47005b3bdba08a30f0c4c6bc58852b15091"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hatsune-miku-irelia",
+			"name": "Hatsune Miku Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hatsune-miku-irelia/thumb.webp?v=991fb9dc",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-irelia-v1.fantome",
+				"size": 11401362,
+				"sha256": "d473cf0708cd12c4f3c971e9ef059a2f80cb40f7a0cfa0343bd96f692f1bcdf9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hatsune-miku-jinx",
+			"name": "Hatsune Miku Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hatsune-miku-jinx/thumb.webp?v=cdf55da1",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-jinx-v1.fantome",
+				"size": 19932818,
+				"sha256": "4f072353d3e33dd1aa8adacaeb523fe7a3c698a816fa6e98678de646d1121201"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hatsune-miku-leblanc",
+			"name": "Hatsune Miku LeBlanc",
+			"champion": 7,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hatsune-miku-leblanc/thumb.webp?v=09299ed4",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-leblanc-v1.fantome",
+				"size": 7751110,
+				"sha256": "61dcaba3592bd6a813365a95da25ae218188d89e9f906a459bdf94f922ffcbb1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hatsune-miku-lux",
+			"name": "Hatsune Miku Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hatsune-miku-lux/thumb.webp?v=28403810",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-lux-v1.fantome",
+				"size": 15455447,
+				"sha256": "28dcd5a5dac9be43cca6650abe8dde4d39078199609d7b4741163a472d42af9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hatsune-miku-rakan",
+			"name": "Hatsune Miku Rakan",
+			"champion": 497,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hatsune-miku-rakan/thumb.webp?v=642618be",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-rakan-v1.fantome",
+				"size": 16698248,
+				"sha256": "7faf61ca27cc3ed56e2699f6a5fad015beea3bfd8c441e78f2369475082f8dac"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hatsune-miku-sona",
+			"name": "Hatsune Miku Sona",
+			"champion": 37,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hatsune-miku-sona/thumb.webp?v=c34777dc",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-sona-v1.fantome",
+				"size": 9274366,
+				"sha256": "c15405758cd3be8e24060895470505223d6dcf314a1923372cd16e6cff5ea06a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "headhunter-vayne",
+			"name": "Headhunter Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/headhunter-vayne/thumb.webp?v=37af1d27",
+			"file": {
+				"version": 1,
+				"asset": "headhunter-vayne-v1.fantome",
+				"size": 450844,
+				"sha256": "1744c19f4e063aaa77e7fb7a86321b0eaf435a450f4e7da55460b5d0a1b135ae"
 			},
 			"chromas": []
 		},
