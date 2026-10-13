@@ -1,0 +1,26 @@
+{
+	"id": "cain-twisted-fate",
+	"name": "Cain Twisted Fate",
+	"champion": 4,
+	"base": 0,
+	"creator": "seweski",
+	"description": "My favorite regular and tainted character\r\nupdated with new cards\r\n\r\n**Works on all skins**\r\n\r\n**This mod changes:**\r\nvisual effects\r\nmodel\r\n\r\ncredit:\r\nTBoI Cain model by Nice Cream\r\nhttps://nice-cream.itch.io/the-binding-of-isaac-low-poly-models\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/cain-twisted-fate\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cain-twisted-fate/thumb.webp?v=13116851",
+	"file": {
+		"version": 1,
+		"asset": "cain-twisted-fate-v1.fantome",
+		"size": 5687359,
+		"sha256": "5d5c97164c624fc6d2a122725f97548fe24ff600cb517e0a6c8024d748b0bc7d"
+	},
+	"chromas": []
+}

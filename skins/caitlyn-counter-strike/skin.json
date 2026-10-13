@@ -1,0 +1,26 @@
+{
+	"id": "caitlyn-counter-strike",
+	"name": "caitlyn Counter Strike",
+	"champion": 51,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/caitlyn-couter-strike\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/caitlyn-counter-strike/thumb.webp?v=ec2d5ba5",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-counter-strike-v1.fantome",
+		"size": 9200708,
+		"sha256": "0302c1e353c0fa4f9b7d60521b060ccf0c8f6503e271274442e1b1371ca1df34"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "cafe-cuties-lux",
+	"name": "Cafe Cuties Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "xellelux",
+	"description": "# Info:\n\nModified skin: Basic\nVersion: 1.0\n## Features:\n\nChanged model\nNew textures\nChanged VFX and SFX\nLoading screen, in-game icon\n\n---\n\n**Created by** [Xellelux](https://www.divineskins.gg/Xellelux)\n\n**Original:** https://www.divineskins.gg/Xellelux/cafe-cuties-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cafe-cuties-lux/thumb.webp?v=7b32bd49",
+	"file": {
+		"version": 1,
+		"asset": "cafe-cuties-lux-v1.fantome",
+		"size": 27293829,
+		"sha256": "783076c9a32200dd4e21e16306bc1e3b7aecc5258d2d54846eb3d6bfc56281ff"
+	},
+	"chromas": []
+}

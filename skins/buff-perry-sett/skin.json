@@ -1,0 +1,26 @@
+{
+	"id": "buff-perry-sett",
+	"name": "Buff Perry Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "disco",
+	"description": "# Works on all skins enjoy!!!\r\n3D model from Fortnite\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/buff-perry-sett\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/buff-perry-sett/thumb.webp?v=d6c50bf5",
+	"file": {
+		"version": 1,
+		"asset": "buff-perry-sett-v1.fantome",
+		"size": 8982321,
+		"sha256": "07b647749276ae0179b3c68f6c4641fd3c9ef3d6f7ed3b9e2be8fb4387d56235"
+	},
+	"chromas": []
+}

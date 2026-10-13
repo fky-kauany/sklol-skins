@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:14:12.642Z",
+	"generatedAt": "2026-10-13T01:17:45.568Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -112,6 +112,15 @@
 			"bio": "gugugaga",
 			"links": {
 				"youtube": "https://www.youtube.com/@dazashu"
+			}
+		},
+		"dear-agony": {
+			"name": "Dear_Agony",
+			"avatar": "creators/dear-agony.webp?v=b4c3a9ea",
+			"bio": "Just making and sharing stuff I enjoy",
+			"links": {
+				"discord": "https://discord.gg/S6m5Cykwgs",
+				"kofi": "https://ko-fi.com/dear_agony"
 			}
 		},
 		"deepd0wn": {
@@ -289,6 +298,15 @@
 			"links": {
 				"x": "https://x.com/Sauronkaiser",
 				"youtube": "https://www.youtube.com/@Sauronkaiser"
+			}
+		},
+		"seweski": {
+			"name": "Seweski",
+			"avatar": "creators/seweski.webp?v=37ebb65b",
+			"bio": "i got that tainted lost in me\npolish guy who makes custom skins\nIf you got an idea for a skin shoot me a dm",
+			"links": {
+				"discord": "https://discord.com/users/940322199456346214",
+				"site": "https://nice-cream.itch.io/the-binding-of-isaac-low-poly-models"
 			}
 		},
 		"shelzy": {
@@ -4860,6 +4878,266 @@
 				"asset": "broken-covenant-katarina-v1.fantome",
 				"size": 46608875,
 				"sha256": "4f719b0b5f426b6379787ce0724116b9a86eba5809610f15ea83478941dcc3d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "buff-perry-sett",
+			"name": "Buff Perry Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/buff-perry-sett/thumb.webp?v=d6c50bf5",
+			"file": {
+				"version": 1,
+				"asset": "buff-perry-sett-v1.fantome",
+				"size": 8982321,
+				"sha256": "07b647749276ae0179b3c68f6c4641fd3c9ef3d6f7ed3b9e2be8fb4387d56235"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bumblebee-nidalee",
+			"name": "BumbleBee Nidalee",
+			"champion": 76,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bumblebee-nidalee/thumb.webp?v=b6b1cbb3",
+			"file": {
+				"version": 1,
+				"asset": "bumblebee-nidalee-v1.fantome",
+				"size": 15209713,
+				"sha256": "005a33c2f6944803975c83b47c61a589c2fea9bc9592a0a4c5b9c9341ac29944"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caesar-darius",
+			"name": "Caesar Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/caesar-darius/thumb.webp?v=67f69aae",
+			"file": {
+				"version": 1,
+				"asset": "caesar-darius-v1.fantome",
+				"size": 6600324,
+				"sha256": "60feac58ebf078428d0551ff09b14e57be8d82d0955d4a912081780775ae618b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cafe-cuties-lux",
+			"name": "Cafe Cuties Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "xellelux",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cafe-cuties-lux/thumb.webp?v=7b32bd49",
+			"file": {
+				"version": 1,
+				"asset": "cafe-cuties-lux-v1.fantome",
+				"size": 27293829,
+				"sha256": "783076c9a32200dd4e21e16306bc1e3b7aecc5258d2d54846eb3d6bfc56281ff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cain-twisted-fate",
+			"name": "Cain Twisted Fate",
+			"champion": 4,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cain-twisted-fate/thumb.webp?v=13116851",
+			"file": {
+				"version": 1,
+				"asset": "cain-twisted-fate-v1.fantome",
+				"size": 5687359,
+				"sha256": "5d5c97164c624fc6d2a122725f97548fe24ff600cb517e0a6c8024d748b0bc7d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-caitlynn-sento",
+			"name": "Caitlynn Sento",
+			"champion": 51,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-caitlynn-sento/thumb.webp?v=0e70a752",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-caitlynn-sento-v1.fantome",
+				"size": 19770313,
+				"sha256": "b959592a20a9b52b38fdc5dcc7eb7956e55164dcde8c589fbcf559c82a5226a7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-counter-strike",
+			"name": "caitlyn Counter Strike",
+			"champion": 51,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-counter-strike/thumb.webp?v=ec2d5ba5",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-counter-strike-v1.fantome",
+				"size": 9200708,
+				"sha256": "0302c1e353c0fa4f9b7d60521b060ccf0c8f6503e271274442e1b1371ca1df34"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-kaguya",
+			"name": "Caitlyn Kaguya",
+			"champion": 51,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-kaguya/thumb.webp?v=e4d83df1",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-kaguya-v1.fantome",
+				"size": 21201344,
+				"sha256": "a105d7b6416fb0b719a541791cf28b12e86b04b8619b6cf5b7ec0f1979d451b1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-next",
+			"name": "Caitlyn NEXT",
+			"champion": 51,
+			"base": 0,
+			"creator": "dear-agony",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-next/thumb.webp?v=823b97a8",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-next-v1.fantome",
+				"size": 8932052,
+				"sha256": "0d721916d64ae57eb86b19f0890c3bb230a34f146e2c30418e03b893af1e1367"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-sophie-rain",
+			"name": "Caitlyn Sophie Rain",
+			"champion": 51,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-sophie-rain/thumb.webp?v=e6fbba5b",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-sophie-rain-v1.fantome",
+				"size": 25379510,
+				"sha256": "1ca82c3f2e884d595165457a9866d5ce4e45d5c5ffa786b10d4d25981e88f86d"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "caitlyn-caitlynn-sento",
+	"name": "Caitlynn Sento",
+	"champion": 51,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ISUZU SENTO 」\n### *Replaces Caitlyn*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/caitlynn-sento\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/caitlyn-caitlynn-sento/thumb.webp?v=0e70a752",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-caitlynn-sento-v1.fantome",
+		"size": 19770313,
+		"sha256": "b959592a20a9b52b38fdc5dcc7eb7956e55164dcde8c589fbcf559c82a5226a7"
+	},
+	"chromas": []
+}

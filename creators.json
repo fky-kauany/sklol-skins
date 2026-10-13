@@ -111,6 +111,15 @@
 			"youtube": "https://www.youtube.com/@dazashu"
 		}
 	},
+	"dear-agony": {
+		"name": "Dear_Agony",
+		"avatar": "creators/dear-agony.webp?v=b4c3a9ea",
+		"bio": "Just making and sharing stuff I enjoy",
+		"links": {
+			"discord": "https://discord.gg/S6m5Cykwgs",
+			"kofi": "https://ko-fi.com/dear_agony"
+		}
+	},
 	"deepd0wn": {
 		"name": "deepd0wn",
 		"avatar": "creators/deepd0wn.webp?v=a7ef8f8b",
@@ -286,6 +295,15 @@
 		"links": {
 			"x": "https://x.com/Sauronkaiser",
 			"youtube": "https://www.youtube.com/@Sauronkaiser"
+		}
+	},
+	"seweski": {
+		"name": "Seweski",
+		"avatar": "creators/seweski.webp?v=37ebb65b",
+		"bio": "i got that tainted lost in me\npolish guy who makes custom skins\nIf you got an idea for a skin shoot me a dm",
+		"links": {
+			"discord": "https://discord.com/users/940322199456346214",
+			"site": "https://nice-cream.itch.io/the-binding-of-isaac-low-poly-models"
 		}
 	},
 	"shelzy": {

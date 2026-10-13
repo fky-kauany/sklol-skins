@@ -1,0 +1,26 @@
+{
+	"id": "caitlyn-kaguya",
+	"name": "Caitlyn Kaguya",
+	"champion": 51,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KAGUYA SHINOMIYA 」\r\n### *Replaces Caitlyn*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/caitlyn-kaguya\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/caitlyn-kaguya/thumb.webp?v=e4d83df1",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-kaguya-v1.fantome",
+		"size": 21201344,
+		"sha256": "a105d7b6416fb0b719a541791cf28b12e86b04b8619b6cf5b7ec0f1979d451b1"
+	},
+	"chromas": []
+}

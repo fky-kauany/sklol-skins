@@ -1,0 +1,26 @@
+{
+	"id": "caitlyn-next",
+	"name": "Caitlyn NEXT",
+	"champion": 51,
+	"base": 0,
+	"creator": "dear-agony",
+	"description": "### Overview\n\nA custom Caitlyn visual update mod inspired by the upcoming game update (NEXT)\n\nWhile Caitlyn has received a rework, her current in-game model differs noticeably from her established facial features. The Wild Rift model retains more of Caitlyn’s recognizable facial characteristics while giving her a modernized appearance\n\n---\n\n### Assets\n\n**Model:** Base Skin from Wild Rift\n**Weapon:** Base Skin weapon from League of Legends\n\n---\n\n### Compatibility\n\nWorks with the Base Skin\n\n---\n\n### Credits\n\nSpecial thanks to the people who ripped the Wild Rift model\n\n---\n\n### Feedback\n\nIf you encounter any issues, have suggestions, or want to share feedback, feel free to contact me on Discord\n\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://www.divineskins.gg/Dear_Agony)\n\n**Original:** https://www.divineskins.gg/Dear_Agony/caitlyn-next\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/caitlyn-next/thumb.webp?v=823b97a8",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-next-v1.fantome",
+		"size": 8932052,
+		"sha256": "0d721916d64ae57eb86b19f0890c3bb230a34f146e2c30418e03b893af1e1367"
+	},
+	"chromas": []
+}

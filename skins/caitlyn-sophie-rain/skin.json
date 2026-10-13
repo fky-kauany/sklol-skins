@@ -1,0 +1,26 @@
+{
+	"id": "caitlyn-sophie-rain",
+	"name": "Caitlyn Sophie Rain",
+	"champion": 51,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 Sophie Rain 」\n### *Replaces Caitlyn*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n**Custom Loading Screen**\n**Custom In-Game Icons**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/caitlyn-sophie-rain\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/caitlyn-sophie-rain/thumb.webp?v=e6fbba5b",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-sophie-rain-v1.fantome",
+		"size": 25379510,
+		"sha256": "1ca82c3f2e884d595165457a9866d5ce4e45d5c5ffa786b10d4d25981e88f86d"
+	},
+	"chromas": []
+}
