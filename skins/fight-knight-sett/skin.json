@@ -1,0 +1,24 @@
+{
+	"id": "fight-knight-sett",
+	"name": "fight knight sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "................................\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/fight-knight-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fight-knight-sett/thumb.webp?v=4f5668b6",
+	"file": {
+		"version": 1,
+		"asset": "fight-knight-sett-v1.fantome",
+		"size": 1006159,
+		"sha256": "ed7c58cb4c1e5c4d93867be2cd63eb9b3fb25315c59c2ebc3156d23395c6a5c3"
+	},
+	"chromas": []
+}

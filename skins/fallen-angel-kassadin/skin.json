@@ -1,0 +1,25 @@
+{
+	"id": "fallen-angel-kassadin",
+	"name": "Fallen Angel Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Fallen Angel Kassadin\n\n### Features\n\n- **Corrupted Celestial Model:** A complete model and texture overhaul for Kassadin, featuring a striking and intricate black, white, and gold design.\n- **Divine & Damned VFX:** All of Kassadin's abilities, including his Null Sphere and Riftwalk, have been updated with new visual effects that mix holy gold light with shadowy black energy.\n- **Toggleable Wings (Ctrl+1):** This is the best part! Unfurl a magnificent pair of fallen angel wings using Kassadin's joke emote (Ctrl+1) to make a statement or just look awesome.\n- **Universal Compatibility:** This mod is designed to work over any official Kassadin skin you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/fallen-angel-kassadin\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fallen-angel-kassadin/thumb.webp?v=574db5f0",
+	"file": {
+		"version": 1,
+		"asset": "fallen-angel-kassadin-v1.fantome",
+		"size": 9979332,
+		"sha256": "9d20b5bf5a47f0c9c8c4b9b8d222ea120e96dce36c6dd4760199fadc1a4152df"
+	},
+	"chromas": []
+}

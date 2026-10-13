@@ -1,0 +1,24 @@
+{
+	"id": "fancy-pants-pyke",
+	"name": "fancy pants pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "it Fancy Pants :0\n\n***\n\n**Modified champion: Pyke**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**from the game: Fancy pants adventure series - brad borner**\n\n**3d model made by:** [groundpork](https://steamcommunity.com/sharedfiles/filedetails/?id=2816110056)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/fancy-pants-pyke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fancy-pants-pyke/thumb.webp?v=a258d8d2",
+	"file": {
+		"version": 1,
+		"asset": "fancy-pants-pyke-v1.fantome",
+		"size": 608849,
+		"sha256": "3a7b02a9f45678850292acfbc10625b811744809843a99a1305b1497397a9c9e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "fallen-angel-xin-zhao",
+	"name": "Fallen Angel Xin Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "disco",
+	"description": "---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/fallen-angel-xin-zhao\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fallen-angel-xin-zhao/thumb.webp?v=41323ab6",
+	"file": {
+		"version": 1,
+		"asset": "fallen-angel-xin-zhao-v1.fantome",
+		"size": 14868754,
+		"sha256": "b5552bff464f2e930852dab4a0bdd06911a7468ab58de3850292a0e259eb87d6"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "fiora-rose",
+	"name": "Fiora Rose",
+	"champion": 114,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ROSE ORIANA 」\r\n### *Replaces Fiora*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/fiora-rose\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fiora-rose/thumb.webp?v=c8c19e6f",
+	"file": {
+		"version": 1,
+		"asset": "fiora-rose-v1.fantome",
+		"size": 7696921,
+		"sha256": "de3ee009e50bdd2de7bdc3373f5a1e9e90d717dc45497d02d8c32b9bdfe9bf46"
+	},
+	"chromas": []
+}

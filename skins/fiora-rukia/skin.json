@@ -1,0 +1,26 @@
+{
+	"id": "fiora-rukia",
+	"name": "Rukia",
+	"champion": 114,
+	"base": 0,
+	"creator": "frog",
+	"description": "Rukia Fiora\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Fiora skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/rukia-fiora\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fiora-rukia/thumb.webp?v=1c89c369",
+	"file": {
+		"version": 1,
+		"asset": "fiora-rukia-v1.fantome",
+		"size": 21786061,
+		"sha256": "c39598964853c697be475d9f263e389bda0308ecf36410a6dbbf0ccb25eccc14"
+	},
+	"chromas": []
+}

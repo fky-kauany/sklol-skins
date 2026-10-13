@@ -1,0 +1,25 @@
+{
+	"id": "fiend-queller-yone",
+	"name": "Fiend Queller Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "frog",
+	"description": "### **? Mod Info**\n\n**Type:**etc.\n**Modified Skin(s):**All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n\n### **? Credits**\n\n**Model(s):**\n**Special Thanks:**\n\n### **? Additional Info**\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[**Discord**](https://divineskins.gg/explore-mods/535#)•[**X / Twitter**](https://divineskins.gg/explore-mods/535#)\n\n### **? Support Me**\n\nEnjoyed the mod? Help fuel future projects:[**Donate**](https://divineskins.gg/explore-mods/535#)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/fiend-queller-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fiend-queller-yone/thumb.webp?v=bebf18f3",
+	"file": {
+		"version": 1,
+		"asset": "fiend-queller-yone-v1.fantome",
+		"size": 26458394,
+		"sha256": "11d5c5fb18dab7e75f178751effb47acdb367d38e8b25864074b798cb1ba3c94"
+	},
+	"chromas": []
+}

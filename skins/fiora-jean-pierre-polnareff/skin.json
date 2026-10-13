@@ -1,0 +1,26 @@
+{
+	"id": "fiora-jean-pierre-polnareff",
+	"name": "Jean-Pierre Polnareff",
+	"champion": 114,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n\r\n- Support for all quality settings\r\n- Dynamic, anime shader\r\n- Custom Voice-over for all languages\r\n- New VFX\r\n\r\n- Custom loading screen and in-game icons\r\n- A lot of love for Iggy (Iggy included)\r\n- Custom loading screen and in-game icons\r\n\r\n\r\n*\"Now behold the superb swordsmanship of my stand, Silver Chariot!\"*\r\n\r\n\r\nFiora has been entirely replaced by Polnareff. It features a full animation overhaul, where he actually uses his stand to fight. Also features two animations that Fiora didn't have originally - homeguard and recall. Also features a full voice-over, new icons, and a VFX change.\r\nWorks for EVERY SKIN. No matter which skin you or the enemy picks in champ select, you will always see Polnareff.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/jean-pierre-polnareff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fiora-jean-pierre-polnareff/thumb.webp?v=83f615f3",
+	"file": {
+		"version": 1,
+		"asset": "fiora-jean-pierre-polnareff-v1.fantome",
+		"size": 23365762,
+		"sha256": "3201fcd0a23f9aee619ee63034792acb0812994bcab03b69fb16b4d8b3fc628f"
+	},
+	"chromas": []
+}

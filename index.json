@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:36:07.709Z",
+	"generatedAt": "2026-10-13T02:39:20.606Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -10097,6 +10097,260 @@
 				"asset": "ezreal-regulus-v1.fantome",
 				"size": 21797176,
 				"sha256": "2e44f362a22c560e538dbdcc56346ac41b1cda52d6d9c8c824b85b00cf27c497"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fallen-angel-kassadin",
+			"name": "Fallen Angel Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fallen-angel-kassadin/thumb.webp?v=574db5f0",
+			"file": {
+				"version": 1,
+				"asset": "fallen-angel-kassadin-v1.fantome",
+				"size": 9979332,
+				"sha256": "9d20b5bf5a47f0c9c8c4b9b8d222ea120e96dce36c6dd4760199fadc1a4152df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fallen-angel-xin-zhao",
+			"name": "Fallen Angel Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fallen-angel-xin-zhao/thumb.webp?v=41323ab6",
+			"file": {
+				"version": 1,
+				"asset": "fallen-angel-xin-zhao-v1.fantome",
+				"size": 14868754,
+				"sha256": "b5552bff464f2e930852dab4a0bdd06911a7468ab58de3850292a0e259eb87d6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fancy-pants-pyke",
+			"name": "fancy pants pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fancy-pants-pyke/thumb.webp?v=a258d8d2",
+			"file": {
+				"version": 1,
+				"asset": "fancy-pants-pyke-v1.fantome",
+				"size": 608849,
+				"sha256": "3a7b02a9f45678850292acfbc10625b811744809843a99a1305b1497397a9c9e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feixiao-samira",
+			"name": "Feixiao Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/feixiao-samira/thumb.webp?v=0f64a6df",
+			"file": {
+				"version": 1,
+				"asset": "feixiao-samira-v1.fantome",
+				"size": 18916592,
+				"sha256": "b32bb006f6b485bbb473b757f07da3ba07a1262b424017c660c557ed9d578fb9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiend-queller-yone",
+			"name": "Fiend Queller Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fiend-queller-yone/thumb.webp?v=bebf18f3",
+			"file": {
+				"version": 1,
+				"asset": "fiend-queller-yone-v1.fantome",
+				"size": 26458394,
+				"sha256": "11d5c5fb18dab7e75f178751effb47acdb367d38e8b25864074b798cb1ba3c94"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fight-knight-sett",
+			"name": "fight knight sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fight-knight-sett/thumb.webp?v=4f5668b6",
+			"file": {
+				"version": 1,
+				"asset": "fight-knight-sett-v1.fantome",
+				"size": 1006159,
+				"sha256": "ed7c58cb4c1e5c4d93867be2cd63eb9b3fb25315c59c2ebc3156d23395c6a5c3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiora-jean-pierre-polnareff",
+			"name": "Jean-Pierre Polnareff",
+			"champion": 114,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fiora-jean-pierre-polnareff/thumb.webp?v=83f615f3",
+			"file": {
+				"version": 1,
+				"asset": "fiora-jean-pierre-polnareff-v1.fantome",
+				"size": 23365762,
+				"sha256": "3201fcd0a23f9aee619ee63034792acb0812994bcab03b69fb16b4d8b3fc628f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiora-kyouka",
+			"name": "Fiora Kyouka",
+			"champion": 114,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fiora-kyouka/thumb.webp?v=502999dc",
+			"file": {
+				"version": 1,
+				"asset": "fiora-kyouka-v1.fantome",
+				"size": 8827583,
+				"sha256": "8401083ec5d07c1e820e3ab94339e7800799fe8870834a8cfe57d0ec076735c6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiora-rose",
+			"name": "Fiora Rose",
+			"champion": 114,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fiora-rose/thumb.webp?v=c8c19e6f",
+			"file": {
+				"version": 1,
+				"asset": "fiora-rose-v1.fantome",
+				"size": 7696921,
+				"sha256": "de3ee009e50bdd2de7bdc3373f5a1e9e90d717dc45497d02d8c32b9bdfe9bf46"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiora-rukia",
+			"name": "Rukia",
+			"champion": 114,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fiora-rukia/thumb.webp?v=1c89c369",
+			"file": {
+				"version": 1,
+				"asset": "fiora-rukia-v1.fantome",
+				"size": 21786061,
+				"sha256": "c39598964853c697be475d9f263e389bda0308ecf36410a6dbbf0ccb25eccc14"
 			},
 			"chromas": []
 		},
