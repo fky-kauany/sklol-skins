@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:03:23.335Z",
+	"generatedAt": "2026-10-13T05:06:43.402Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -10265,6 +10265,263 @@
 				"asset": "mt-foxtrot-caitlyn-v1.fantome",
 				"size": 1173339,
 				"sha256": "9efd70ac0035539e8c328b35487ddf56b21375f25b939a0eed2e03321d21b93b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mt-foxtrot-jhin",
+			"name": "MT Foxtrot jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mt-foxtrot-jhin/thumb.webp?v=52f5dd6b",
+			"file": {
+				"version": 1,
+				"asset": "mt-foxtrot-jhin-v1.fantome",
+				"size": 912098,
+				"sha256": "8b97700e294f4546e90ba06a3656ddc5af8efcf5abad7c86781df1db3e52e591"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mugetsu-yasuo",
+			"name": "Mugetsu Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mugetsu-yasuo/thumb.webp?v=04321cba",
+			"file": {
+				"version": 1,
+				"asset": "mugetsu-yasuo-v1.fantome",
+				"size": 21221847,
+				"sha256": "686d557a45540ce3f71c9f9bc1882610fd8e0666543997d14706debfecd877df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "muichiro-tokito-yone",
+			"name": "Muichiro Tokito Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/muichiro-tokito-yone/thumb.webp?v=a4c7decd",
+			"file": {
+				"version": 1,
+				"asset": "muichiro-tokito-yone-v1.fantome",
+				"size": 16353050,
+				"sha256": "b77bfea249daa30bdfcf221fcd5137cdbcf701dbb5343ef27733b131e1ef97da"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mythmaker-twisted-fate",
+			"name": "Mythmaker Twisted Fate",
+			"champion": 4,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mythmaker-twisted-fate/thumb.webp?v=da49ebde",
+			"file": {
+				"version": 1,
+				"asset": "mythmaker-twisted-fate-v1.fantome",
+				"size": 7775630,
+				"sha256": "fec46e9a36e5a8bc6db91b013de72b8df92062f6741648c888c05ed90a6d06e4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mythwood-irelia",
+			"name": "Mythwood Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mythwood-irelia/thumb.webp?v=402e31b2",
+			"file": {
+				"version": 1,
+				"asset": "mythwood-irelia-v1.fantome",
+				"size": 20276862,
+				"sha256": "bc05762e7a8c9a9d57e297da8659be3e2aa060b029c389f8e6b3354169189bb5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "n-zed",
+			"name": "N Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/n-zed/thumb.webp?v=2b4ecab8",
+			"file": {
+				"version": 1,
+				"asset": "n-zed-v1.fantome",
+				"size": 7528454,
+				"sha256": "7a52977f9ab45916e8324e57a6e666e64c40924437876656189f0514f07eaeeb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naafiri-pochita",
+			"name": "Pochita",
+			"champion": 950,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/naafiri-pochita/thumb.webp?v=5144ee15",
+			"file": {
+				"version": 1,
+				"asset": "naafiri-pochita-v1.fantome",
+				"size": 22917915,
+				"sha256": "d6f2037213991cf8bb2d0a3b9028cdaa844265b91a6286ab6318e4f1e6992e3a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nagi-seishiro-ezreal",
+			"name": "Nagi Seishiro Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nagi-seishiro-ezreal/thumb.webp?v=41dd1a89",
+			"file": {
+				"version": 1,
+				"asset": "nagi-seishiro-ezreal-v1.fantome",
+				"size": 18043133,
+				"sha256": "b94dc49262e4045da1985aee33eab7617f5ac825318845c41bac341272ec9748"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nagi-seishiro-jhin",
+			"name": "Nagi Seishiro Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nagi-seishiro-jhin/thumb.webp?v=8d7c4fb4",
+			"file": {
+				"version": 1,
+				"asset": "nagi-seishiro-jhin-v1.fantome",
+				"size": 28239145,
+				"sha256": "e195f6b9b3976b9bbfd604016c0d8ce1e5361c5b2d9d0f8c264ac8f66ff6729b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nahida-lulu",
+			"name": "Nahida Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/nahida-lulu/thumb.webp?v=cfa9c10a",
+			"file": {
+				"version": 1,
+				"asset": "nahida-lulu-v1.fantome",
+				"size": 10856872,
+				"sha256": "315181dcefd60a4cf082ca59450f497bd68b90b8179f34d01968f8113093a7e6"
 			},
 			"chromas": []
 		},

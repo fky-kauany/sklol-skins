@@ -1,0 +1,26 @@
+{
+	"id": "muichiro-tokito-yone",
+	"name": "Muichiro Tokito Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Muichiro Tokito\n\n### Features\n\n- **Custom 3D model** faithful to Muichiro’s Mist Hashira design\n- **Custom abilities** with mist-infused trails and ethereal slashes\n- **Custom voiceover** reflecting Muichiro’s calm, thoughtful tone\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/muichiro-tokito-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/muichiro-tokito-yone/thumb.webp?v=a4c7decd",
+	"file": {
+		"version": 1,
+		"asset": "muichiro-tokito-yone-v1.fantome",
+		"size": 16353050,
+		"sha256": "b77bfea249daa30bdfcf221fcd5137cdbcf701dbb5343ef27733b131e1ef97da"
+	},
+	"chromas": []
+}

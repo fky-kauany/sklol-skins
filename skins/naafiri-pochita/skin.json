@@ -1,0 +1,26 @@
+{
+	"id": "naafiri-pochita",
+	"name": "Pochita",
+	"champion": 950,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/pochita-naafiri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/naafiri-pochita/thumb.webp?v=5144ee15",
+	"file": {
+		"version": 1,
+		"asset": "naafiri-pochita-v1.fantome",
+		"size": 22917915,
+		"sha256": "d6f2037213991cf8bb2d0a3b9028cdaa844265b91a6286ab6318e4f1e6992e3a"
+	},
+	"chromas": []
+}

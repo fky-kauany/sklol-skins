@@ -1,0 +1,26 @@
+{
+	"id": "nagi-seishiro-ezreal",
+	"name": "Nagi Seishiro Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Nagi Seishiro Ezreal\n\n### Features\n\n- **Custom 3D model** – Ezreal reimagined in Nagi Seishiro’s look and style.\n- **Custom Abilities** – Unique ability effects that fit the anime theme.\n- **Custom Voiceover** – Full Nagi Seishiro voice pack for max immersion.\n- **Custom SFX** – Sharp sound design to match Blue Lock’s high-energy vibe.\n- **Universal compatibility** – Works across **all Ezreal skins** via Celestial Launcher.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/nagi-seishiro-ezreal\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/nagi-seishiro-ezreal/thumb.webp?v=41dd1a89",
+	"file": {
+		"version": 1,
+		"asset": "nagi-seishiro-ezreal-v1.fantome",
+		"size": 18043133,
+		"sha256": "b94dc49262e4045da1985aee33eab7617f5ac825318845c41bac341272ec9748"
+	},
+	"chromas": []
+}

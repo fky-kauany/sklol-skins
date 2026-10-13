@@ -1,0 +1,23 @@
+{
+	"id": "mt-foxtrot-jhin",
+	"name": "MT Foxtrot jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "It's perfect. You get lost in the point that remains where the onion used to be...\n\nInformation\n\n***\n\n**Modified champion: Jhin**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game: Cruelty Squad**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/mt-foxtrot-jhin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mt-foxtrot-jhin/thumb.webp?v=52f5dd6b",
+	"file": {
+		"version": 1,
+		"asset": "mt-foxtrot-jhin-v1.fantome",
+		"size": 912098,
+		"sha256": "8b97700e294f4546e90ba06a3656ddc5af8efcf5abad7c86781df1db3e52e591"
+	},
+	"chromas": []
+}

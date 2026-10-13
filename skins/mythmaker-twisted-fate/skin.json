@@ -1,0 +1,25 @@
+{
+	"id": "mythmaker-twisted-fate",
+	"name": "Mythmaker Twisted Fate",
+	"champion": 4,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "Mythmaker Twisted Fate\r\n\r\nUse layer button to switch chroma (base is the one in the ytb video)\n\n---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/mythmaker-twisted-fate\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mythmaker-twisted-fate/thumb.webp?v=da49ebde",
+	"file": {
+		"version": 1,
+		"asset": "mythmaker-twisted-fate-v1.fantome",
+		"size": 7775630,
+		"sha256": "fec46e9a36e5a8bc6db91b013de72b8df92062f6741648c888c05ed90a6d06e4"
+	},
+	"chromas": []
+}

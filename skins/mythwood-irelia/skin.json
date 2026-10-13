@@ -1,0 +1,26 @@
+{
+	"id": "mythwood-irelia",
+	"name": "Mythwood Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### Overview\r\n\r\nKinda Mythmaker, kinda Elderwood. Mythwood. Mythwood Irelia.\r\n\r\n#\r\n\r\n### Additional information\r\n\r\nThe mod replaces the Mythmaker Irelia skin.\r\n\r\n### Credits\r\n\r\nThanks to Froggles for helping me stitch the model together.\r\n\r\n#\r\n\r\nThis mod was made as a commission. If you'd like to commission me, you can check my portfolio at the [Runeforge Discord](https://discord.gg/runeforge \"runeforge epic discord\") or the [Divine Skins Discord](https://discord.gg/divineskins \"divini discordini\")! You can also support me through [my Ko-fi page](https://ko-fi.com/wiko2303).\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/mythwood-irelia\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mythwood-irelia/thumb.webp?v=402e31b2",
+	"file": {
+		"version": 1,
+		"asset": "mythwood-irelia-v1.fantome",
+		"size": 20276862,
+		"sha256": "bc05762e7a8c9a9d57e297da8659be3e2aa060b029c389f8e6b3354169189bb5"
+	},
+	"chromas": []
+}

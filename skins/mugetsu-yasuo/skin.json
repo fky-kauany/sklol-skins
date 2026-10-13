@@ -1,0 +1,26 @@
+{
+	"id": "mugetsu-yasuo",
+	"name": "Mugetsu Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "frog",
+	"description": "Master your blade, embrace the void. This custom **Ichigo Mugetsu Yasuo** skin transforms the Unforgiven into the ultimate shinigami, channeling the immense power of Ichigo's final form. Unleash the Final Getsuga Tenshō with every strike and show your enemies the true meaning of despair. This is the **Yasuo** you've been waiting for.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/mugetsu-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mugetsu-yasuo/thumb.webp?v=04321cba",
+	"file": {
+		"version": 1,
+		"asset": "mugetsu-yasuo-v1.fantome",
+		"size": 21221847,
+		"sha256": "686d557a45540ce3f71c9f9bc1882610fd8e0666543997d14706debfecd877df"
+	},
+	"chromas": []
+}
