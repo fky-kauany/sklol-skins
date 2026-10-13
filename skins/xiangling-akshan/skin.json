@@ -1,0 +1,26 @@
+{
+	"id": "xiangling-akshan",
+	"name": "Xiangling Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "seweski",
+	"description": "She is hunting me to deal no icd pyro damge...\n**this skin changes:**\nmodel\nvisual effects\nvoicelines\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/xiangling-akshan\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/xiangling-akshan/thumb.webp?v=6be7b683",
+	"file": {
+		"version": 1,
+		"asset": "xiangling-akshan-v1.fantome",
+		"size": 18550789,
+		"sha256": "652d7328ba66717c7d59b1298ff94cd661de49e316ba161040906bd10f2bb4df"
+	},
+	"chromas": []
+}

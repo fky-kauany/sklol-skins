@@ -1,0 +1,25 @@
+{
+	"id": "xxxtentacion-zed",
+	"name": "XXXTentacion Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "disco",
+	"description": "XXXTENACION ZED\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/xxxtentacion-zed\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/xxxtentacion-zed/thumb.webp?v=0390be33",
+	"file": {
+		"version": 1,
+		"asset": "xxxtentacion-zed-v1.fantome",
+		"size": 29194457,
+		"sha256": "657092496cf71317da3a4e295c3d1dae7e31547c5c3840e4143824ac0f4b31a5"
+	},
+	"chromas": []
+}

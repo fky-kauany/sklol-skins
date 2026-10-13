@@ -1,0 +1,26 @@
+{
+	"id": "yakub-ryze",
+	"name": "Yakub Ryze",
+	"champion": 13,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Ryze with Yakub from Agartha.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Ryze.\n\n#\n\n### ✨ Credits\n\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for creating the mod, I am only maintaining it\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/yakub-ryze\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yakub-ryze/thumb.webp?v=57a05d8a",
+	"file": {
+		"version": 1,
+		"asset": "yakub-ryze-v1.fantome",
+		"size": 6526650,
+		"sha256": "beea03c1dce87344194286d4725fbe9ac50acb5148df83721f1adeff48cf3c03"
+	},
+	"chromas": []
+}

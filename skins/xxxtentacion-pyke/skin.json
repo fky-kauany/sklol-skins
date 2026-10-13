@@ -1,0 +1,26 @@
+{
+	"id": "xxxtentacion-pyke",
+	"name": "XXXTENTACION Pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "disco",
+	"description": "Enjoy ^^\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/xxxtentacion-pyke\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/xxxtentacion-pyke/thumb.webp?v=eb35e754",
+	"file": {
+		"version": 1,
+		"asset": "xxxtentacion-pyke-v1.fantome",
+		"size": 22676223,
+		"sha256": "123ada3fe466137b7adbe8593d485e9022dcf033d0a25126fdf4c7335f4ac7db"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "xianyun-vayne",
+	"name": "Xianyun Vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Xianyun Vayne\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/xianyun-vayne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/xianyun-vayne/thumb.webp?v=f111d907",
+	"file": {
+		"version": 1,
+		"asset": "xianyun-vayne-v1.fantome",
+		"size": 4925312,
+		"sha256": "0267d100a84ef6e939c5253a3ac221fd7d1bb623f921d616cc2c311f35096522"
+	},
+	"chromas": []
+}

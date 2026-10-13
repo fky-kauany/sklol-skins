@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:29:50.848Z",
+	"generatedAt": "2026-10-13T07:33:16.746Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -21607,6 +21607,259 @@
 				"asset": "wukong-dora-v1.fantome",
 				"size": 15461294,
 				"sha256": "1e1772f3b4fd58359c898c26c99259aeeb2a01058ae2ddcbf012ef363855eef2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xerath-tusk",
+			"name": "Tusk",
+			"champion": 101,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xerath-tusk/thumb.webp?v=532a9123",
+			"file": {
+				"version": 1,
+				"asset": "xerath-tusk-v1.fantome",
+				"size": 20740320,
+				"sha256": "13001243857cebbdb57131c7d86a3f3684ec5789292a7bc09fb0d7eb5b7edebe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xiangling-akshan",
+			"name": "Xiangling Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xiangling-akshan/thumb.webp?v=6be7b683",
+			"file": {
+				"version": 1,
+				"asset": "xiangling-akshan-v1.fantome",
+				"size": 18550789,
+				"sha256": "652d7328ba66717c7d59b1298ff94cd661de49e316ba161040906bd10f2bb4df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xianyun-vayne",
+			"name": "Xianyun Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xianyun-vayne/thumb.webp?v=f111d907",
+			"file": {
+				"version": 1,
+				"asset": "xianyun-vayne-v1.fantome",
+				"size": 4925312,
+				"sha256": "0267d100a84ef6e939c5253a3ac221fd7d1bb623f921d616cc2c311f35096522"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xiao-zaahen",
+			"name": "Xiao Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xiao-zaahen/thumb.webp?v=392d6fe4",
+			"file": {
+				"version": 1,
+				"asset": "xiao-zaahen-v1.fantome",
+				"size": 29945710,
+				"sha256": "ba1648bc45e5f54892f55579529aa2c157f623ad2014959b50be38473990c2b5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xin-zhao-arlecchino-xinzhao",
+			"name": "Arlecchino XinZhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xin-zhao-arlecchino-xinzhao/thumb.webp?v=18f4baa7",
+			"file": {
+				"version": 1,
+				"asset": "xin-zhao-arlecchino-xinzhao-v1.fantome",
+				"size": 16315247,
+				"sha256": "573a34e87665f1fd5656162963724c12275b2965725790b18ef84e8fb70e9c1c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xuanling-yone-wip",
+			"name": "XuanLing Yone wip",
+			"champion": 777,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xuanling-yone-wip/thumb.webp?v=d6bcaf9d",
+			"file": {
+				"version": 1,
+				"asset": "xuanling-yone-wip-v1.fantome",
+				"size": 29738259,
+				"sha256": "fd65ccb685f2e5d09c9c9e2ed6cc0acc924f32bd7e8da8d1ccd83f504289abe5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xxxtentacion-pyke",
+			"name": "XXXTENTACION Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xxxtentacion-pyke/thumb.webp?v=eb35e754",
+			"file": {
+				"version": 1,
+				"asset": "xxxtentacion-pyke-v1.fantome",
+				"size": 22676223,
+				"sha256": "123ada3fe466137b7adbe8593d485e9022dcf033d0a25126fdf4c7335f4ac7db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xxxtentacion-zed",
+			"name": "XXXTentacion Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/xxxtentacion-zed/thumb.webp?v=0390be33",
+			"file": {
+				"version": 1,
+				"asset": "xxxtentacion-zed-v1.fantome",
+				"size": 29194457,
+				"sha256": "657092496cf71317da3a4e295c3d1dae7e31547c5c3840e4143824ac0f4b31a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yaemiko-ahri",
+			"name": "YaeMiko Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yaemiko-ahri/thumb.webp?v=6486d615",
+			"file": {
+				"version": 1,
+				"asset": "yaemiko-ahri-v1.fantome",
+				"size": 4042562,
+				"sha256": "1591b1f7561e72f26ae2a29212cc86fb1b8546a696baf03df1a34d06f2b87509"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yakub-ryze",
+			"name": "Yakub Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yakub-ryze/thumb.webp?v=57a05d8a",
+			"file": {
+				"version": 1,
+				"asset": "yakub-ryze-v1.fantome",
+				"size": 6526650,
+				"sha256": "beea03c1dce87344194286d4725fbe9ac50acb5148df83721f1adeff48cf3c03"
 			},
 			"chromas": []
 		},
