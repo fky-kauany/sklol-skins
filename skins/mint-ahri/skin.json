@@ -1,0 +1,26 @@
+{
+	"id": "mint-ahri",
+	"name": "Mint Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Mint Ahri\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 2.1.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/mint-ahri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mint-ahri/thumb.webp?v=5d955c9a",
+	"file": {
+		"version": 1,
+		"asset": "mint-ahri-v1.fantome",
+		"size": 11469000,
+		"sha256": "b60dd2426d72f2c8c209648ac2e764f294cd31503686eb7846db1c5dcc329d0d"
+	},
+	"chromas": []
+}

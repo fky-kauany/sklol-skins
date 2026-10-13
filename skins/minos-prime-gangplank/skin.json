@@ -1,0 +1,26 @@
+{
+	"id": "minos-prime-gangplank",
+	"name": "Minos Prime GangPlank",
+	"champion": 41,
+	"base": 0,
+	"creator": "lita",
+	"description": "---\n\n**Created by** [lita](https://www.divineskins.gg/lita)\n\n**Original:** https://www.divineskins.gg/lita/minos-prime-gangplank\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/minos-prime-gangplank/thumb.webp?v=def068e6",
+	"file": {
+		"version": 1,
+		"asset": "minos-prime-gangplank-v1.fantome",
+		"size": 8256855,
+		"sha256": "d62a72ba7118d0e62471a2e10a7d7562b8bf17ce8ccc45e8c78bcf84fd8e046d"
+	},
+	"chromas": []
+}

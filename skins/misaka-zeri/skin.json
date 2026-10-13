@@ -1,0 +1,26 @@
+{
+	"id": "misaka-zeri",
+	"name": "Misaka Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/misaka-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/misaka-zeri/thumb.webp?v=987826e9",
+	"file": {
+		"version": 1,
+		"asset": "misaka-zeri-v1.fantome",
+		"size": 10042001,
+		"sha256": "bb835b56670dfb2e5324c053453d0c69b188fdc5639789eca0bfe49b40303b0a"
+	},
+	"chromas": []
+}

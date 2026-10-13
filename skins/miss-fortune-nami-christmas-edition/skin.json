@@ -1,0 +1,26 @@
+{
+	"id": "miss-fortune-nami-christmas-edition",
+	"name": "Miss Fortune Nami (Christmas Edition)",
+	"champion": 21,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 NAMI CHRISTMAS EDITION 」\r\n### *Replaces Miss Fortune*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/miss-fortune-nami-christmas-edition\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/miss-fortune-nami-christmas-edition/thumb.webp?v=9f681b81",
+	"file": {
+		"version": 1,
+		"asset": "miss-fortune-nami-christmas-edition-v1.fantome",
+		"size": 22816397,
+		"sha256": "e866bbf8fcfaf162ed5cc3956d4f4020af950f21d5b826cf3a0bb79bc01d799d"
+	},
+	"chromas": []
+}

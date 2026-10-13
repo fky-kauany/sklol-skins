@@ -1,0 +1,26 @@
+{
+	"id": "miracle-magical-girl-sirin-gwen",
+	"name": "Miracle ☆ Magical Girl Sirin - Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "### 📌 Mod Info\r\n\r\n- Model : Miracle ☆ Magical Girl Sirin + Magic Academy Uniform from Honkai Impact 3rd\r\n- Champion : Gwen\r\n- Works On : Default\r\n- Voice Over : No\r\n\r\n*Hail our proud Queen on and on, on and on~☆*\r\n\r\n![Queen](https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/88/%E8%A5%BF%E7%90%B3-%E5%89%AA%E4%BD%A0%E4%B8%80%E5%88%80_%28Miyoushe%29.png/revision/latest?cb=20240706193521)\r\n\r\n### 💬 Additional Info\r\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\r\n\r\n### 💖 Support Me\r\nEnjoyed the mod? Help fuel future projects: \r\n\r\nhttps://ko-fi.com/s0jaku\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/miracle-magical-girl-sirin-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/miracle-magical-girl-sirin-gwen/thumb.webp?v=cbb1699f",
+	"file": {
+		"version": 1,
+		"asset": "miracle-magical-girl-sirin-gwen-v1.fantome",
+		"size": 14202893,
+		"sha256": "a9f02fb83e5617b7ebc5bdc4168c461afceaa47c1c79b3000d94492afbc81661"
+	},
+	"chromas": []
+}

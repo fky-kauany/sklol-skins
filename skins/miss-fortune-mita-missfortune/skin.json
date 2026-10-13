@@ -1,0 +1,26 @@
+{
+	"id": "miss-fortune-mita-missfortune",
+	"name": "Mita Missfortune",
+	"champion": 21,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Mita Missfortune\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/mita-missfortune\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/miss-fortune-mita-missfortune/thumb.webp?v=52ca99c8",
+	"file": {
+		"version": 1,
+		"asset": "miss-fortune-mita-missfortune-v1.fantome",
+		"size": 41995194,
+		"sha256": "28444dd9232d7a779e8558e9c149a93d99d626ae8305c4f73a5ee1a00a19bb82"
+	},
+	"chromas": []
+}

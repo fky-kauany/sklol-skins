@@ -1,0 +1,22 @@
+{
+	"id": "minecraft-twitch",
+	"name": "Minecraft Twitch",
+	"champion": 29,
+	"base": 0,
+	"creator": "eikori",
+	"description": "## What's included\nMC Twitch Custom skin + Minecraft SFX\n**Works on:** Default Skin\n\n## Credits\n**Model:** MC Twitch\n**Thanks to:** Konradosj\n\n## Support\nQuestions? Find me on Discord: https://discord.gg/M8mRgNzaJ\n\n\n*Fan-made. Not affiliated with Riot Games.*\n\n---\n\n**Created by** [Eikori](https://www.divineskins.gg/Eikori)\n\n**Original:** https://www.divineskins.gg/Eikori/minecraft-twitch\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/minecraft-twitch/thumb.webp?v=e63b586c",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-twitch-v1.modpkg",
+		"size": 927269,
+		"sha256": "249e93bfaf181b3d4eea073dc0371e00fb8cb030bda059ab29bf78596b6dbec9"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "minecraft-skarner",
+	"name": "Minecraft Skarner",
+	"champion": 72,
+	"base": 0,
+	"creator": "eikori",
+	"description": "I modeled Skarner in a faithful minecraft style ! I hope you will enjoy it !\n\n## What's included\nMinecraft Model on Default Skin\n**Works on:** Default Skin\n\n## Credits\n**Model:** MC Minecraft\n**Thanks to:** Konradosj\n\n## Support\nQuestions? Find me on Discord: https://discord.gg/nznUtzx33q\n\n\n*Fan-made. Not affiliated with Riot Games.*\n\n---\n\n**Created by** [Eikori](https://www.divineskins.gg/Eikori)\n\n**Original:** https://www.divineskins.gg/Eikori/minecraft-skarner\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/minecraft-skarner/thumb.webp?v=243c099e",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-skarner-v1.modpkg",
+		"size": 414017,
+		"sha256": "5132862969f624f9567c0fa39ea13b2c22aab28fcef2d3f2fbbb64e7e84e232f"
+	},
+	"chromas": []
+}

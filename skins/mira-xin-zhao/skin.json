@@ -1,0 +1,26 @@
+{
+	"id": "mira-xin-zhao",
+	"name": "Mira Xin Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:** Champion Mod\n**Modified Skin(s):** All\n\n### ? Credits\n\n**Model(s):** https://www.deviantart.com/jennyhl/art/MMD-Tda-Huntrix-F2U-DL-1238451486\nhttps://ko-fi.com/s/08818ca6a5\nhttps://sketchfab.com/3d-models/kpop-demon-hunters-weapons-miras-weapon-eaa70194d746438c817706749eec880c\n**Special Thanks:**\n\n### ? Additional Info\n\nQuestions or requests? Cool\n\n### ? Support Me\n\nEnjoyed the mod? Support the Artist of the Model https://www.deviantart.com/jennyhl/art/MMD-Tda-Huntrix-F2U-DL-1238451486\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/mira-xin-zhao\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mira-xin-zhao/thumb.webp?v=ce37c729",
+	"file": {
+		"version": 1,
+		"asset": "mira-xin-zhao-v1.fantome",
+		"size": 23368761,
+		"sha256": "143086bebff06252de2ab6b311308beb2d1289efbbf6568608a7f9a9beb7c158"
+	},
+	"chromas": []
+}

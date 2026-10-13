@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:53:33.896Z",
+	"generatedAt": "2026-10-13T04:56:47.123Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -201,6 +201,15 @@
 				"site": "https://models.spriters-resource.com/pc_computer/plantsvszombiesgardenwarfare2/asset/346847/",
 				"x": "https://x.com/ratpick_24",
 				"youtube": "https://www.youtube.com/@drinfinito"
+			}
+		},
+		"eikori": {
+			"name": "Eikori",
+			"avatar": "creators/eikori.webp?v=4f0edcae",
+			"bio": "Hi there ! I've been doing memetages on league of legends for the 2017-2020 period mostly, still doing some from time to time. And I also make custom skins too !",
+			"links": {
+				"discord": "https://discord.gg/nznUtzx33q",
+				"youtube": "https://www.youtube.com/@nbdyeikori"
 			}
 		},
 		"emshu": {
@@ -9481,6 +9490,258 @@
 				"asset": "minecraft-ornn-v1.fantome",
 				"size": 3268823,
 				"sha256": "e10792c02b5a8e9fba3375915f8f45736cc8bcd8136fbeb3f111ce7d05e35726"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minecraft-shen",
+			"name": "Minecraft Shen",
+			"champion": 98,
+			"base": 16,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/minecraft-shen/thumb.webp?v=2d58d13a",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-shen-v1.fantome",
+				"size": 17188051,
+				"sha256": "1a9010ffa9cac9e85b0c632cf8199ae5521a076acb8eb242a48360c03f771eb4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minecraft-skarner",
+			"name": "Minecraft Skarner",
+			"champion": 72,
+			"base": 0,
+			"creator": "eikori",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/minecraft-skarner/thumb.webp?v=243c099e",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-skarner-v1.modpkg",
+				"size": 414017,
+				"sha256": "5132862969f624f9567c0fa39ea13b2c22aab28fcef2d3f2fbbb64e7e84e232f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minecraft-twitch",
+			"name": "Minecraft Twitch",
+			"champion": 29,
+			"base": 0,
+			"creator": "eikori",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/minecraft-twitch/thumb.webp?v=e63b586c",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-twitch-v1.modpkg",
+				"size": 927269,
+				"sha256": "249e93bfaf181b3d4eea073dc0371e00fb8cb030bda059ab29bf78596b6dbec9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minos-prime-gangplank",
+			"name": "Minos Prime GangPlank",
+			"champion": 41,
+			"base": 0,
+			"creator": "lita",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/minos-prime-gangplank/thumb.webp?v=def068e6",
+			"file": {
+				"version": 1,
+				"asset": "minos-prime-gangplank-v1.fantome",
+				"size": 8256855,
+				"sha256": "d62a72ba7118d0e62471a2e10a7d7562b8bf17ce8ccc45e8c78bcf84fd8e046d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mint-ahri",
+			"name": "Mint Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mint-ahri/thumb.webp?v=5d955c9a",
+			"file": {
+				"version": 1,
+				"asset": "mint-ahri-v1.fantome",
+				"size": 11469000,
+				"sha256": "b60dd2426d72f2c8c209648ac2e764f294cd31503686eb7846db1c5dcc329d0d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mira-xin-zhao",
+			"name": "Mira Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mira-xin-zhao/thumb.webp?v=ce37c729",
+			"file": {
+				"version": 1,
+				"asset": "mira-xin-zhao-v1.fantome",
+				"size": 23368761,
+				"sha256": "143086bebff06252de2ab6b311308beb2d1289efbbf6568608a7f9a9beb7c158"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miracle-magical-girl-sirin-gwen",
+			"name": "Miracle ☆ Magical Girl Sirin - Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/miracle-magical-girl-sirin-gwen/thumb.webp?v=cbb1699f",
+			"file": {
+				"version": 1,
+				"asset": "miracle-magical-girl-sirin-gwen-v1.fantome",
+				"size": 14202893,
+				"sha256": "a9f02fb83e5617b7ebc5bdc4168c461afceaa47c1c79b3000d94492afbc81661"
+			},
+			"chromas": []
+		},
+		{
+			"id": "misaka-zeri",
+			"name": "Misaka Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/misaka-zeri/thumb.webp?v=987826e9",
+			"file": {
+				"version": 1,
+				"asset": "misaka-zeri-v1.fantome",
+				"size": 10042001,
+				"sha256": "bb835b56670dfb2e5324c053453d0c69b188fdc5639789eca0bfe49b40303b0a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miss-fortune-mita-missfortune",
+			"name": "Mita Missfortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/miss-fortune-mita-missfortune/thumb.webp?v=52ca99c8",
+			"file": {
+				"version": 1,
+				"asset": "miss-fortune-mita-missfortune-v1.fantome",
+				"size": 41995194,
+				"sha256": "28444dd9232d7a779e8558e9c149a93d99d626ae8305c4f73a5ee1a00a19bb82"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miss-fortune-nami-christmas-edition",
+			"name": "Miss Fortune Nami (Christmas Edition)",
+			"champion": 21,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/miss-fortune-nami-christmas-edition/thumb.webp?v=9f681b81",
+			"file": {
+				"version": 1,
+				"asset": "miss-fortune-nami-christmas-edition-v1.fantome",
+				"size": 22816397,
+				"sha256": "e866bbf8fcfaf162ed5cc3956d4f4020af950f21d5b826cf3a0bb79bc01d799d"
 			},
 			"chromas": []
 		},
