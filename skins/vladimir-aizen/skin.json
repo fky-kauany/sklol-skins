@@ -1,0 +1,26 @@
+{
+	"id": "vladimir-aizen",
+	"name": "Aizen",
+	"champion": 8,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Aizen Vladimir • Custom model • Custom Abilities • by CZ\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/aizen-vladimir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vladimir-aizen/thumb.webp?v=f4cab2e0",
+	"file": {
+		"version": 1,
+		"asset": "vladimir-aizen-v1.fantome",
+		"size": 16951518,
+		"sha256": "af8af1578c4354f32f7aaf8e408ec9815df42d8b3b02214acc5cb204de7629c8"
+	},
+	"chromas": []
+}

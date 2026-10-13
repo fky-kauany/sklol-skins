@@ -1,0 +1,26 @@
+{
+	"id": "volibear-angel",
+	"name": "Angel",
+	"champion": 106,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/angel-volibear\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/volibear-angel/thumb.webp?v=6dbce42d",
+	"file": {
+		"version": 1,
+		"asset": "volibear-angel-v1.fantome",
+		"size": 20161436,
+		"sha256": "ade44f2280be0299a9e7c510f5c147f2ea3de9601667518af118eca6cac58415"
+	},
+	"chromas": []
+}

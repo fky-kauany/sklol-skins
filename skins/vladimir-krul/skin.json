@@ -1,0 +1,26 @@
+{
+	"id": "vladimir-krul",
+	"name": "Krul",
+	"champion": 8,
+	"base": 0,
+	"creator": "frog",
+	"description": "Krul Vladimir • Custom model • Custom Voicelines for Krul • Custom Abilities • Works on every Vladimir skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/krul-vladimir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vladimir-krul/thumb.webp?v=62db04bb",
+	"file": {
+		"version": 1,
+		"asset": "vladimir-krul-v1.fantome",
+		"size": 21844626,
+		"sha256": "78b0e6b4260ea60c4a00f35e08d2819e497119944ce2e93272eda844206e971e"
+	},
+	"chromas": []
+}

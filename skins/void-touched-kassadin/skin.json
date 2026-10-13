@@ -1,0 +1,26 @@
+{
+	"id": "void-touched-kassadin",
+	"name": "Void Touched - Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# 🌑 VOID TOUCHED - KASSADIN 🌑\nA massive visual upgrade for base skin Kassadin.\n\nThis skin upgrades Kassadin's dated model with high detail void corruption artwork and glowing visuals. The in game splash art looks nothing like the model, this mod aims to bring the two together. This also serves to update Kassadin to the new colors used in most void faction champions.\n\nI encourage you to do a side by side comparison to really see the improvement of the VFX, model and splashart.\n\n## Features:\n- An HD model corrupted and warped by the powers of the void\n- Upscaled VFX with rich colors to match Kassadin's visuals \n- New splash art and slightly recolored icons\n\nBefore and after photos in the gallery!\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/void-touched-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/void-touched-kassadin/thumb.webp?v=cbbc706a",
+	"file": {
+		"version": 1,
+		"asset": "void-touched-kassadin-v1.fantome",
+		"size": 4779150,
+		"sha256": "56a779aaf789583f35e92ee58222196aae79b8eca3a41bc4a100bd1aea7ee63a"
+	},
+	"chromas": []
+}

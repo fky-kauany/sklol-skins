@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:23:03.685Z",
+	"generatedAt": "2026-10-13T07:26:25.201Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -21097,6 +21097,261 @@
 				"asset": "viper-renata-glasc-v1.fantome",
 				"size": 13895937,
 				"sha256": "ca01575d42e6edde4da6c2038550b45d9812167b5562582129d97280e20fe0f3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vladimir-aizen",
+			"name": "Aizen",
+			"champion": 8,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vladimir-aizen/thumb.webp?v=f4cab2e0",
+			"file": {
+				"version": 1,
+				"asset": "vladimir-aizen-v1.fantome",
+				"size": 16951518,
+				"sha256": "af8af1578c4354f32f7aaf8e408ec9815df42d8b3b02214acc5cb204de7629c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vladimir-gojo",
+			"name": "Vladimir Gojo",
+			"champion": 8,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vladimir-gojo/thumb.webp?v=85458e2a",
+			"file": {
+				"version": 1,
+				"asset": "vladimir-gojo-v1.fantome",
+				"size": 13705643,
+				"sha256": "bcd97a23ce76a5488cb6c0b54a868bf0c9b11559eaed9c1593d14c15a78c5dd7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vladimir-krul",
+			"name": "Krul",
+			"champion": 8,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vladimir-krul/thumb.webp?v=62db04bb",
+			"file": {
+				"version": 1,
+				"asset": "vladimir-krul-v1.fantome",
+				"size": 21844626,
+				"sha256": "78b0e6b4260ea60c4a00f35e08d2819e497119944ce2e93272eda844206e971e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vladimir-muzan",
+			"name": "Vladimir Muzan",
+			"champion": 8,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vladimir-muzan/thumb.webp?v=f8f0daa8",
+			"file": {
+				"version": 1,
+				"asset": "vladimir-muzan-v1.fantome",
+				"size": 17234895,
+				"sha256": "ae335d48bed9fad407e3095414cd794f1fff749c850ee82f2283c69e9a76f9ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vladimir-putin",
+			"name": "Vladimir Putin",
+			"champion": 8,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vladimir-putin/thumb.webp?v=e87d04ee",
+			"file": {
+				"version": 1,
+				"asset": "vladimir-putin-v1.fantome",
+				"size": 15683677,
+				"sha256": "8d81150668ebadc2a4bd69b5c7caf1fcc50213a8c1d4c8865265ad6b023ed0b5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "void-touched-kassadin",
+			"name": "Void Touched - Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/void-touched-kassadin/thumb.webp?v=cbbc706a",
+			"file": {
+				"version": 1,
+				"asset": "void-touched-kassadin-v1.fantome",
+				"size": 4779150,
+				"sha256": "56a779aaf789583f35e92ee58222196aae79b8eca3a41bc4a100bd1aea7ee63a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "voidfang-default-talon",
+			"name": "Voidfang | Default Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/voidfang-default-talon/thumb.webp?v=b1f5ee2e",
+			"file": {
+				"version": 1,
+				"asset": "voidfang-default-talon-v1.fantome",
+				"size": 2310253,
+				"sha256": "3773fe9a8dc1c238535aaf602006113c612e5a076740a20b6a3d146ae9d4895d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "volibear-angel",
+			"name": "Angel",
+			"champion": 106,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/volibear-angel/thumb.webp?v=6dbce42d",
+			"file": {
+				"version": 1,
+				"asset": "volibear-angel-v1.fantome",
+				"size": 20161436,
+				"sha256": "ade44f2280be0299a9e7c510f5c147f2ea3de9601667518af118eca6cac58415"
+			},
+			"chromas": []
+		},
+		{
+			"id": "volibear-rengar-tailung-kung-fu-panda",
+			"name": "Rengar: Tailung (kung fu panda)",
+			"champion": 106,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/volibear-rengar-tailung-kung-fu-panda/thumb.webp?v=19e3c462",
+			"file": {
+				"version": 1,
+				"asset": "volibear-rengar-tailung-kung-fu-panda-v1.fantome",
+				"size": 14194141,
+				"sha256": "1e774726b0316996907cdc06ffab1032e7acb4f989c6900d231fc304b9c6bff1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "volibear-tank",
+			"name": "Tank",
+			"champion": 106,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/volibear-tank/thumb.webp?v=9e4f79a4",
+			"file": {
+				"version": 1,
+				"asset": "volibear-tank-v1.fantome",
+				"size": 14609574,
+				"sha256": "2a15c6b35bd297b9f02a5fa49874860fdf6c494ae9487643f059087918426752"
 			},
 			"chromas": []
 		},

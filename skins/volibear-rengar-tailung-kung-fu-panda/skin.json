@@ -1,0 +1,26 @@
+{
+	"id": "volibear-rengar-tailung-kung-fu-panda",
+	"name": "Rengar: Tailung (kung fu panda)",
+	"champion": 106,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "True dragon warrior\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/rengar-tailung-kung-fu-panda\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/volibear-rengar-tailung-kung-fu-panda/thumb.webp?v=19e3c462",
+	"file": {
+		"version": 1,
+		"asset": "volibear-rengar-tailung-kung-fu-panda-v1.fantome",
+		"size": 14194141,
+		"sha256": "1e774726b0316996907cdc06ffab1032e7acb4f989c6900d231fc304b9c6bff1"
+	},
+	"chromas": []
+}

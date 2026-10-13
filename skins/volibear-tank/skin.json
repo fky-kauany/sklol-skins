@@ -1,0 +1,24 @@
+{
+	"id": "volibear-tank",
+	"name": "Tank",
+	"champion": 106,
+	"base": 0,
+	"creator": "frog",
+	"description": "Tank Volibear • Custom model • Custom Abilities • Works on every Volibear skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/tank-volibear\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/volibear-tank/thumb.webp?v=9e4f79a4",
+	"file": {
+		"version": 1,
+		"asset": "volibear-tank-v1.fantome",
+		"size": 14609574,
+		"sha256": "2a15c6b35bd297b9f02a5fa49874860fdf6c494ae9487643f059087918426752"
+	},
+	"chromas": []
+}

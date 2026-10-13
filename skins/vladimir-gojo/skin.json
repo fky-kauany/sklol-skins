@@ -1,0 +1,26 @@
+{
+	"id": "vladimir-gojo",
+	"name": "Vladimir Gojo",
+	"champion": 8,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 SATORU GOJO 」\r\n### *Replaces Vladimir*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/vladimir-gojo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vladimir-gojo/thumb.webp?v=85458e2a",
+	"file": {
+		"version": 1,
+		"asset": "vladimir-gojo-v1.fantome",
+		"size": 13705643,
+		"sha256": "bcd97a23ce76a5488cb6c0b54a868bf0c9b11559eaed9c1593d14c15a78c5dd7"
+	},
+	"chromas": []
+}

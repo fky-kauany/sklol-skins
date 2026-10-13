@@ -1,0 +1,26 @@
+{
+	"id": "vladimir-muzan",
+	"name": "Vladimir Muzan",
+	"champion": 8,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MUZAN KIBUTSUJI 」\r\n### *Replaces Vladimir*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/vladimir-muzan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vladimir-muzan/thumb.webp?v=f8f0daa8",
+	"file": {
+		"version": 1,
+		"asset": "vladimir-muzan-v1.fantome",
+		"size": 17234895,
+		"sha256": "ae335d48bed9fad407e3095414cd794f1fff749c850ee82f2283c69e9a76f9ee"
+	},
+	"chromas": []
+}
