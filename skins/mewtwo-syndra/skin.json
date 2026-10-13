@@ -1,0 +1,26 @@
+{
+	"id": "mewtwo-syndra",
+	"name": "Mewtwo Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "nyht",
+	"description": "# 🌀 Syndra → Mewtwo Evolution Mod\n\n### Champion\n**Syndra**\n\n### Skin Replace\n**Base Skin**\n\n---\n\n# ✨ Unique Features\n\n🌀 **Toggle Emote (Joke)**  \nSwitch between **Armored** and **No Armor** forms.\n\n🔥 **Max Transcendent → Mega Evolution**  \nAt maximum Transcendent stacks, Mewtwo transforms into **Mega Mewtwo**.\n\n🌀 **Toggle Emote (Joke) [Mega Form]**  \nSwitch between:\n- **Mega Mewtwo X**\n- **Mega Mewtwo Y**\n\n⭐ **Special Mechanic**\n\nAt the start of each game, there is a **1% chance to spawn as a shiny variant.**\n\n---\n\n# 💥 Custom VFX\n\n- Max Transcendent Effects  \n- Emote Effects  \n\n---\n\n# 🎬 Custom Animations\n\n- Idle  \n- Attack  \n- Ability Animations  \n- Recall  \n- Emotes  \n- Death  \n- Respawn  \n\n---\n\n# 🔊 Custom SFX\n\n- Recall  \n- Abilities  \n- Emotes  \n- Respawn  \n\n---\n\n# 🧩 Custom Models & Textures\n\nModels sourced from various Pokémon assets and mods.\n\n- **Armored Mewtwo** — Ultimate Armored Mewtwo Mod  \n- **Mewtwo** — Pokémon X and Y  \n- **Mega Mewtwo X** — Pokémon X and Y  \n- **Mega Mewtwo Y** — Pokémon X and Y  \n- **Mew** — Pokémon X and Y  \n\n---\n\n# 🎮 Feature Highlights\n\n- 🔄 Real-time form switching via emotes  \n- 🧬 Mega evolution at max stacks  \n- 🎨 Multiple model variations (Armored, Base, Mega X/Y)  \n- ⭐ Rare **Shiny Variant System (1%)**\n\n---\n\n# 🙏 Credits\n\n**Mod Creator**  \n⭐ Nyht Seven  \n\n**Special Contribution**  \n- Armored Mewtwo model & textures by **Archon(shadow)#7880**\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/mewtwo-syndra\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mewtwo-syndra/thumb.webp?v=c543c2c9",
+	"file": {
+		"version": 1,
+		"asset": "mewtwo-syndra-v1.fantome",
+		"size": 14553250,
+		"sha256": "e8064b60ca4ab11d100ec4cdceaf2c53cc69d9e0339c15b77c7732c8023016bd"
+	},
+	"chromas": []
+}

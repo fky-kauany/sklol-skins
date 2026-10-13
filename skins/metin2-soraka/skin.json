@@ -1,0 +1,24 @@
+{
+	"id": "metin2-soraka",
+	"name": "Metin2 Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Soraka\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/metin2-soraka\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/metin2-soraka/thumb.webp?v=003d20a1",
+	"file": {
+		"version": 1,
+		"asset": "metin2-soraka-v1.fantome",
+		"size": 1356174,
+		"sha256": "0e0bc4b6d624970609c7a0a85e4ef768328c324524edfeb17bff099c7e04cc34"
+	},
+	"chromas": []
+}

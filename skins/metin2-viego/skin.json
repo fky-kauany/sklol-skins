@@ -1,0 +1,24 @@
+{
+	"id": "metin2-viego",
+	"name": "Metin2 Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Viego\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/metin2-viego\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/metin2-viego/thumb.webp?v=bebd6e98",
+	"file": {
+		"version": 1,
+		"asset": "metin2-viego-v1.fantome",
+		"size": 1309678,
+		"sha256": "8c8c80c91442366a69d320fc93cc83ee4f77a661fd1d06c954bd316ba6a0239d"
+	},
+	"chromas": []
+}

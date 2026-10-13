@@ -1,0 +1,23 @@
+{
+	"id": "metin2-ryze",
+	"name": "Metin2 Ryze",
+	"champion": 13,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Ryze\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/metin2-ryze\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/metin2-ryze/thumb.webp?v=d97e1d7c",
+	"file": {
+		"version": 1,
+		"asset": "metin2-ryze-v1.fantome",
+		"size": 1409047,
+		"sha256": "cc592455538970e901bb5b67fb768de990c606c96cf7ddd7ad79adf6eed06651"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "mgrr-raiden-yone",
+	"name": "MGRR Raiden Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Yone with Raiden from MGRR.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Yone.\n\n#\n\n### ✨ Credits\n\n- Credits to [Kingshound](https://www.youtube.com/@Kingshound \"kingshound's yt channel\") for creating the mod, I am only maintaining it\n\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for making the voiceover\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/mgrr-raiden-yone\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mgrr-raiden-yone/thumb.webp?v=b58ab469",
+	"file": {
+		"version": 1,
+		"asset": "mgrr-raiden-yone-v1.fantome",
+		"size": 6669385,
+		"sha256": "4f4f25746274a3b5c45ce72adcea45ac585e401f840a784af28139ecb2d26618"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:47:10.001Z",
+	"generatedAt": "2026-10-13T04:50:14.339Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8975,6 +8975,246 @@
 				"asset": "metin2-ornn-v1.fantome",
 				"size": 605665,
 				"sha256": "1a9241f9df5f0a5415be0ff72ab224e61c8630858c832442aa7ce73f6d40728e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-riven",
+			"name": "Metin2 Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-riven/thumb.webp?v=2913eb5b",
+			"file": {
+				"version": 1,
+				"asset": "metin2-riven-v1.fantome",
+				"size": 2957784,
+				"sha256": "ed38163db205212ef4e823506d9bce5ac6f5ea9994ac6d3372936dbb334aa553"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-ryze",
+			"name": "Metin2 Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-ryze/thumb.webp?v=d97e1d7c",
+			"file": {
+				"version": 1,
+				"asset": "metin2-ryze-v1.fantome",
+				"size": 1409047,
+				"sha256": "cc592455538970e901bb5b67fb768de990c606c96cf7ddd7ad79adf6eed06651"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-soraka",
+			"name": "Metin2 Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-soraka/thumb.webp?v=003d20a1",
+			"file": {
+				"version": 1,
+				"asset": "metin2-soraka-v1.fantome",
+				"size": 1356174,
+				"sha256": "0e0bc4b6d624970609c7a0a85e4ef768328c324524edfeb17bff099c7e04cc34"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-tryndamere",
+			"name": "Metin2 Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-tryndamere/thumb.webp?v=4e134979",
+			"file": {
+				"version": 1,
+				"asset": "metin2-tryndamere-v1.fantome",
+				"size": 1404663,
+				"sha256": "8c8f7a6480147cf5c4bb5868b6c7741bbfb0d9c0044c17445f8d6f2a811f56a7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-viego",
+			"name": "Metin2 Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-viego/thumb.webp?v=bebd6e98",
+			"file": {
+				"version": 1,
+				"asset": "metin2-viego-v1.fantome",
+				"size": 1309678,
+				"sha256": "8c8c80c91442366a69d320fc93cc83ee4f77a661fd1d06c954bd316ba6a0239d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-vladimir",
+			"name": "Metin2 Vladimir",
+			"champion": 8,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-vladimir/thumb.webp?v=6404b834",
+			"file": {
+				"version": 1,
+				"asset": "metin2-vladimir-v1.fantome",
+				"size": 2744805,
+				"sha256": "1810444dc34f6dce5eb99e4fddcc9cb7fede999828107d36e009c217fbf217ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-yasuo",
+			"name": "Metin2 Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-yasuo/thumb.webp?v=d1292007",
+			"file": {
+				"version": 1,
+				"asset": "metin2-yasuo-v1.fantome",
+				"size": 1430730,
+				"sha256": "4e1ca7adb0e1acba1adcca5fb7d0ff14066b702d58255ea1e1545abcbecdcc01"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mew-yuumi",
+			"name": "Mew Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mew-yuumi/thumb.webp?v=7c950289",
+			"file": {
+				"version": 1,
+				"asset": "mew-yuumi-v1.fantome",
+				"size": 11199694,
+				"sha256": "8d479d6256fff448be40d14a678eb13b493e011d13f39997995ced270c4dac2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mewtwo-syndra",
+			"name": "Mewtwo Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mewtwo-syndra/thumb.webp?v=c543c2c9",
+			"file": {
+				"version": 1,
+				"asset": "mewtwo-syndra-v1.fantome",
+				"size": 14553250,
+				"sha256": "e8064b60ca4ab11d100ec4cdceaf2c53cc69d9e0339c15b77c7732c8023016bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mgrr-raiden-yone",
+			"name": "MGRR Raiden Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mgrr-raiden-yone/thumb.webp?v=b58ab469",
+			"file": {
+				"version": 1,
+				"asset": "mgrr-raiden-yone-v1.fantome",
+				"size": 6669385,
+				"sha256": "4f4f25746274a3b5c45ce72adcea45ac585e401f840a784af28139ecb2d26618"
 			},
 			"chromas": []
 		},
