@@ -1,0 +1,26 @@
+{
+	"id": "viego-witch-king-of-angmar",
+	"name": "Witch-King of Angmar",
+	"champion": 234,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n\r\n- Support for all quality settings\r\n- Custom Voice-over for all languages\r\n- Somew VFX\r\n- Custom loading screen\r\n- Animated Cape\r\n- A shiny new ring, just take it bro, don't worry about it\r\n\r\n\r\nLeader of the Nine, Sauron's most fearsome servant, the Witch-King of Angmar arrives on the Rift to seek those who would oppose the Dark Lord. Do not come between the Nazgûl and its prey.\r\n\r\n\r\n\r\nThe 2.0 update is essentially a remake of the mod. I haven't made custom animations for it (except for laugh, but it's nothing special), since Viego's were already matching very well. However, there is a new, this time movie accurate model, with better looking textures too, a fully animated cape, custom greatsword that's on fire, vfx of the sword attacks were changed to look like fire, Sauron's sigil now appears when possessing someone, and your screen gets a misty green overlay when standing in your E. You also swap out the helmet for Witch-King's \"human\"crown when in the mist or when recalling. The voice over stays the same, but it's now integrated into the main file, so no need to download anything else.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/witch-king-of-angmar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viego-witch-king-of-angmar/thumb.webp?v=d51df5ec",
+	"file": {
+		"version": 1,
+		"asset": "viego-witch-king-of-angmar-v1.fantome",
+		"size": 16138752,
+		"sha256": "799a595d70134319963564479414692c2a2292743654d73767827d13654dfc53"
+	},
+	"chromas": []
+}

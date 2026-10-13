@@ -1,0 +1,24 @@
+{
+	"id": "viktor-teklovossen-the-mechropotent",
+	"name": "Teklovossen, The Mechropotent",
+	"champion": 112,
+	"base": 0,
+	"creator": "arashis",
+	"description": "# **Teklovossen, The Mechropotent** #\n\nI wanted to add this custom skin to bring a beloved character of mine from Flesh and Blood to League of Legends and what better way then with his transformation on the champion who went through their own transformation, Viktor.\n\nHope you all enjoy!\n\n---\n\n**Created by** [ArashiS](https://www.divineskins.gg/ArashiS)\n\n**Original:** https://www.divineskins.gg/ArashiS/teklovossen-the-mechropotent\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viktor-teklovossen-the-mechropotent/thumb.webp?v=963f10b8",
+	"file": {
+		"version": 1,
+		"asset": "viktor-teklovossen-the-mechropotent-v1.fantome",
+		"size": 4449057,
+		"sha256": "657f5eb0675d31e6e4a9009551d76aa53b0b20188038004ad08d6b852caa8749"
+	},
+	"chromas": []
+}

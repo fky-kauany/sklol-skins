@@ -1,0 +1,26 @@
+{
+	"id": "viktor-overhaul",
+	"name": "Viktor Overhaul",
+	"champion": 112,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KAI CHISAKI 」\r\n### *Replaces Viktor*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/viktor-overhaul\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viktor-overhaul/thumb.webp?v=282b2a05",
+	"file": {
+		"version": 1,
+		"asset": "viktor-overhaul-v1.fantome",
+		"size": 37446554,
+		"sha256": "ff198c45c2bfcb74a31c11ef2ea9bd70b544efce229944d3534bc45df8ff3c64"
+	},
+	"chromas": []
+}

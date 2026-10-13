@@ -1,0 +1,26 @@
+{
+	"id": "viego-shigaraki",
+	"name": "Viego Shigaraki",
+	"champion": 234,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 TOMURA SHIGARAKI 」\n### *Replaces Viego*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/viego-shigaraki\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viego-shigaraki/thumb.webp?v=a610c220",
+	"file": {
+		"version": 1,
+		"asset": "viego-shigaraki-v1.fantome",
+		"size": 11809345,
+		"sha256": "bc1add0d62105bde299a3f431503c506b29190818a050592cf9c166cc9d89187"
+	},
+	"chromas": []
+}

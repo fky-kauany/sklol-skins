@@ -1,0 +1,26 @@
+{
+	"id": "viper-renata-glasc",
+	"name": "Viper Renata Glasc",
+	"champion": 888,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Viper Renata Glasc\n\n### Features\n\n- **Full Custom Model:** Transforms Renata Glasc into Valorant's iconic agent, Viper, complete with her mask and suit.\n- **Custom Toxic Abilities:** All of Renata's VFX are redesigned to use Viper's signature green chemical effects.\n- **Viper Voice Over:** Includes a complete voice pack featuring Viper's actual in-game lines from Valorant.\n- **Universal Compatibility:** This custom mod works flawlessly over any Renata Glasc skin you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/viper-renata-glasc\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/viper-renata-glasc/thumb.webp?v=8091c28d",
+	"file": {
+		"version": 1,
+		"asset": "viper-renata-glasc-v1.fantome",
+		"size": 13895937,
+		"sha256": "ca01575d42e6edde4da6c2038550b45d9812167b5562582129d97280e20fe0f3"
+	},
+	"chromas": []
+}

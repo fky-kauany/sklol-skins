@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:19:38.838Z",
+	"generatedAt": "2026-10-13T07:23:03.685Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -49,6 +49,11 @@
 		"aphex": {
 			"name": "Aphex",
 			"avatar": "creators/aphex.webp?v=f8ff7ffa",
+			"links": {}
+		},
+		"arashis": {
+			"name": "ArashiS",
+			"avatar": "creators/arashis.jpg?v=b7ebd29c",
 			"links": {}
 		},
 		"archlyris": {
@@ -20837,6 +20842,261 @@
 				"asset": "viego-ruined-king-redux-v1.fantome",
 				"size": 12732949,
 				"sha256": "87bc36deeb66586aa2b6d5b3c3eb03e4c0f76995a954cabb3422610c33137da7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viego-shigaraki",
+			"name": "Viego Shigaraki",
+			"champion": 234,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viego-shigaraki/thumb.webp?v=a610c220",
+			"file": {
+				"version": 1,
+				"asset": "viego-shigaraki-v1.fantome",
+				"size": 11809345,
+				"sha256": "bc1add0d62105bde299a3f431503c506b29190818a050592cf9c166cc9d89187"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viego-ulquiorra",
+			"name": "Ulquiorra",
+			"champion": 234,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viego-ulquiorra/thumb.webp?v=411bc334",
+			"file": {
+				"version": 1,
+				"asset": "viego-ulquiorra-v1.fantome",
+				"size": 23264106,
+				"sha256": "4db6b3178f4fc813575e78a550a7f722e0f52f7dff9f2a62c9378cb66e18a5b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viego-witch-king-of-angmar",
+			"name": "Witch-King of Angmar",
+			"champion": 234,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viego-witch-king-of-angmar/thumb.webp?v=d51df5ec",
+			"file": {
+				"version": 1,
+				"asset": "viego-witch-king-of-angmar-v1.fantome",
+				"size": 16138752,
+				"sha256": "799a595d70134319963564479414692c2a2292743654d73767827d13654dfc53"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viego-yuta",
+			"name": "Viego Yuta",
+			"champion": 234,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viego-yuta/thumb.webp?v=8513c4ec",
+			"file": {
+				"version": 1,
+				"asset": "viego-yuta-v1.fantome",
+				"size": 38022369,
+				"sha256": "9493a0f5362d2c7aa1fd6cdd8498f2a0a0589c61e55f8d38a4ec8b9a66a0ccea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viktor-overhaul",
+			"name": "Viktor Overhaul",
+			"champion": 112,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viktor-overhaul/thumb.webp?v=282b2a05",
+			"file": {
+				"version": 1,
+				"asset": "viktor-overhaul-v1.fantome",
+				"size": 37446554,
+				"sha256": "ff198c45c2bfcb74a31c11ef2ea9bd70b544efce229944d3534bc45df8ff3c64"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viktor-teklovossen-the-mechropotent",
+			"name": "Teklovossen, The Mechropotent",
+			"champion": 112,
+			"base": 0,
+			"creator": "arashis",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viktor-teklovossen-the-mechropotent/thumb.webp?v=963f10b8",
+			"file": {
+				"version": 1,
+				"asset": "viktor-teklovossen-the-mechropotent-v1.fantome",
+				"size": 4449057,
+				"sha256": "657f5eb0675d31e6e4a9009551d76aa53b0b20188038004ad08d6b852caa8749"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viktor-yuki",
+			"name": "Viktor Yuki",
+			"champion": 112,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viktor-yuki/thumb.webp?v=f20c25a6",
+			"file": {
+				"version": 1,
+				"asset": "viktor-yuki-v1.fantome",
+				"size": 15274523,
+				"sha256": "29c1de83f92d9921d24c7e29bf8300f9af6d226a862624e92789d3e2efd66333"
+			},
+			"chromas": []
+		},
+		{
+			"id": "violator-cho-gath",
+			"name": "violator cho'gath",
+			"champion": 31,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/violator-cho-gath/thumb.webp?v=af2ead4e",
+			"file": {
+				"version": 1,
+				"asset": "violator-cho-gath-v1.fantome",
+				"size": 4206298,
+				"sha256": "617531d3dd46b61a469912cf913df3da44166c0c2052f731797c124393394c97"
+			},
+			"chromas": []
+		},
+		{
+			"id": "violet-spark-shockblade-zed",
+			"name": "Violet Spark | Shockblade Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/violet-spark-shockblade-zed/thumb.webp?v=4dfb1d74",
+			"file": {
+				"version": 1,
+				"asset": "violet-spark-shockblade-zed-v1.fantome",
+				"size": 3269967,
+				"sha256": "3f6885c04ae2a3c59b688dddd62aa7b6ce5df8d26d439edfb915418d967fe545"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viper-renata-glasc",
+			"name": "Viper Renata Glasc",
+			"champion": 888,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/viper-renata-glasc/thumb.webp?v=8091c28d",
+			"file": {
+				"version": 1,
+				"asset": "viper-renata-glasc-v1.fantome",
+				"size": 13895937,
+				"sha256": "ca01575d42e6edde4da6c2038550b45d9812167b5562582129d97280e20fe0f3"
 			},
 			"chromas": []
 		},

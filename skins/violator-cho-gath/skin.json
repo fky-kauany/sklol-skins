@@ -1,0 +1,26 @@
+{
+	"id": "violator-cho-gath",
+	"name": "violator cho'gath",
+	"champion": 31,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"i'm a creature far superior\"\n\n***\n\n**Modified champion: Cho'gath**\n\n**Modified skin: Default**\n\n\n\n**Author: Mojkqueira, foose and** Charsles\n\n\n\nDiscord: serrando a fimose\n\n\n\nthe 3d model from the game: Spawn into the demons hand (i extracted)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/violator-chogath\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/violator-cho-gath/thumb.webp?v=af2ead4e",
+	"file": {
+		"version": 1,
+		"asset": "violator-cho-gath-v1.fantome",
+		"size": 4206298,
+		"sha256": "617531d3dd46b61a469912cf913df3da44166c0c2052f731797c124393394c97"
+	},
+	"chromas": []
+}
