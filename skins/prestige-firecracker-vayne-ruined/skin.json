@@ -1,0 +1,24 @@
+{
+	"id": "prestige-firecracker-vayne-ruined",
+	"name": "Prestige Firecracker Vayne - Ruined",
+	"champion": 67,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Prestige Firecracker Vayne\r\n\r\n╰┈➤ _The idea for this mod was to give this skin a Ruination vibe, i fuck heavy with this tbf_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/prestige-firecracker-vayne-ruined\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/prestige-firecracker-vayne-ruined/thumb.webp?v=963e90b3",
+	"file": {
+		"version": 1,
+		"asset": "prestige-firecracker-vayne-ruined-v1.fantome",
+		"size": 2647605,
+		"sha256": "991d1652414b3247259194ab2f4504a63e9e5901ba28e05fc6019a9ca4c5b622"
+	},
+	"chromas": []
+}

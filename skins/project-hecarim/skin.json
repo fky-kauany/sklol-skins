@@ -1,0 +1,26 @@
+{
+	"id": "project-hecarim",
+	"name": "PROJECT: Hecarim",
+	"champion": 120,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n   - Custom model and textures\r\n\r\n   - Support for all quality settings\r\n\r\n   - Custom Voice-over for all languages\r\n\r\n   - Custom loading screen\r\n\r\n   - Custom SFX\r\n   - Custom VFX\r\n\r\n   - Latest augments straight from corpo ripper docs\r\n\r\n   - 3 years of hard work (just kidding, updated it in one afternoon)\r\n\r\nMany people have been asking me to update my old mods, particularly Project Hecarim. It was getting broken every patch, I didn't wanna deal with it. But now, thanks to Divine's modding tools, fixing it is not only piss easy, it's mostly future proof, too! While at was at it, I decided to give it a whole new entire VFX suite, so the wait can be at least a little sweetened. Enjoy!\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/project-hecarim\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/project-hecarim/thumb.webp?v=fe177c66",
+	"file": {
+		"version": 1,
+		"asset": "project-hecarim-v1.fantome",
+		"size": 12247545,
+		"sha256": "3ee18b9475b93bc1f587c3eb124af3acefc52ecd328e2e5367a96a2ec0f678c8"
+	},
+	"chromas": []
+}

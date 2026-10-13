@@ -1,0 +1,25 @@
+{
+	"id": "project-kindred",
+	"name": "Project: Kindred",
+	"champion": 203,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2053113199168205017 \"Source Post\")&#x20;\n\n# Mod Information\n\n***\n* Mod For: Kindred\n* Skin: Default\n* Project: Kindred Concept Art made into real skin in the game\n\n# Features\n\n- Loadingscreen & HUD\n- VFX\n- Model + Weapon\n\n# ![](https://i.imgur.com/vErVv8S.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/project-kindred\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/project-kindred/thumb.webp?v=2bd18685",
+	"file": {
+		"version": 1,
+		"asset": "project-kindred-v1.fantome",
+		"size": 38244701,
+		"sha256": "36a228207080e9cd58226ef3b1a8f88d4fc067fb01035b204e90af36fbfd9f20"
+	},
+	"chromas": []
+}

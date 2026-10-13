@@ -1,0 +1,26 @@
+{
+	"id": "postal-dude-gangplank",
+	"name": "postal dude gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "*\"this can't be good for me....but i feel great :D\"*\n\n***\n\n**Modified champion: Singed**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n\n\n**Discord: serrandoafimose**\n\n\n3D model from: Running With Scissors\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/postal-dude-gangplank\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/postal-dude-gangplank/thumb.webp?v=e3869e77",
+	"file": {
+		"version": 1,
+		"asset": "postal-dude-gangplank-v1.fantome",
+		"size": 6035640,
+		"sha256": "362334ece474ae4ac5f77d43fa08e0a73718de15c6584beefe66c1707c11f935"
+	},
+	"chromas": []
+}

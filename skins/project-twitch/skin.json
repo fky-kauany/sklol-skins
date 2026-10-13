@@ -1,0 +1,26 @@
+{
+	"id": "project-twitch",
+	"name": "Project: Twitch",
+	"champion": 29,
+	"base": 0,
+	"creator": "pimek",
+	"description": "# Teaser\n\n![](https://i.imgur.com/SXHKWkq.gif)\n\n# Preview![](https://x.com/p1mek/status/1981506497785057698 \"Teaser\")\n\n# * [Spotlight](https://x.com/p1mek/status/1981506497785057698 \"Spotlight\") - prerelease few things changed\n* [Thread with all updates fixes and features](https://x.com/p1mek/status/1888371884749697312 \"Thread with all updates fixes and features\")&#x20;\n\n# Mod Information\n\n***\n\n* Skin: Default\n* Description: Wild Rift Import with customized spells Recall and UI\n\n# Features\n\n* Custom Features or \\[Q W E R]\n* VFXs and Shaders\n* Loading Screen\n* Custom UI & HUD on spells\n* Custom Recall\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/project-twitch\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/project-twitch/thumb.webp?v=a9e2ab04",
+	"file": {
+		"version": 1,
+		"asset": "project-twitch-v1.fantome",
+		"size": 97581358,
+		"sha256": "c6cc350048097f575de42ec5e8c0de25296def6f5a71a54979d1f400d63bf672"
+	},
+	"chromas": []
+}

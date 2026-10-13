@@ -1,0 +1,26 @@
+{
+	"id": "power-katarina",
+	"name": "Power Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Power Katarina\n\n### Features\n\n- **Custom model**: Katarina redesigned as Power with horns, wild hair, and fiendish aesthetic\n- **Custom abilities**: Blood-themed daggers, red mist dashes, and anime-inspired ult VFX\n- **Works on every Katarina skin** — Project, Battle Queen, base, and more\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/power-katarina\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/power-katarina/thumb.webp?v=7b559ce2",
+	"file": {
+		"version": 1,
+		"asset": "power-katarina-v1.fantome",
+		"size": 10609585,
+		"sha256": "b8fa6ff25e9d7ebd6f88ccefbef9d30c9d300170b1de264a5ac113a3fa3688ce"
+	},
+	"chromas": []
+}

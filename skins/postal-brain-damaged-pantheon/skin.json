@@ -1,0 +1,26 @@
+{
+	"id": "postal-brain-damaged-pantheon",
+	"name": "postal brain damaged pantheon",
+	"champion": 80,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "*\"*&#x49;t's like looking in a really fucked up mirro&#x72;*\"*\nMod Information\n\n***\n\n###### Champion: Pantheon\n\n###### Modified skin: Default\n\n###### Authors: Mojkqueira\n\n###### *3D model made by:* Hyperstrange\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/postal-brain-damaged-pantheon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/postal-brain-damaged-pantheon/thumb.webp?v=a89efb11",
+	"file": {
+		"version": 1,
+		"asset": "postal-brain-damaged-pantheon-v1.fantome",
+		"size": 11467757,
+		"sha256": "287ee97e8d269d30b0252332dae2fd5c10d7ca59d0aac4c3cb5e6cdf6f6bb1be"
+	},
+	"chromas": []
+}

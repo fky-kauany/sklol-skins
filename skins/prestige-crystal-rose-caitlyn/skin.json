@@ -1,0 +1,26 @@
+{
+	"id": "prestige-crystal-rose-caitlyn",
+	"name": "Prestige Crystal Rose Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "frog",
+	"description": "HIDDEN GOTH CHROMA IN VERSIONS!!!!!!!!!!!!!\n\n### ? Mod Info\n\n**Type:** Champion Mod**Modified Skin(s):** All skins\n\n### ? Credits\n\n**Model(s):**  WILD RIFT\n### ? Additional Info\n\nQuestions or requests? DM me on Discord\n### ? Support Me\n\nEnjoyed the mod? Cool*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/prestige-crystal-rose-caitlyn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/prestige-crystal-rose-caitlyn/thumb.webp?v=403112c1",
+	"file": {
+		"version": 1,
+		"asset": "prestige-crystal-rose-caitlyn-v1.fantome",
+		"size": 22169525,
+		"sha256": "64fa20edbb70c4b6bb3b5710adfd29b59a00866a3ac79957d07c4ba34237a8e8"
+	},
+	"chromas": []
+}

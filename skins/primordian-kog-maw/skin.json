@@ -1,0 +1,26 @@
+{
+	"id": "primordian-kog-maw",
+	"name": "Primordian Kog'maw",
+	"champion": 96,
+	"base": 0,
+	"creator": "valfren",
+	"description": "### SKIN INFORMATION\nChampion: Kog'Maw\nModified skin: Base\nAuthor: BlooJae\nVersion: 1.0.0\nDescription: Custom model and VFX\n\nThis mod was created by BlooJae, and was updated 4/19/26 by YouAteMyLastMeal with help from the community.\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/primordian-kogmaw\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/primordian-kog-maw/thumb.webp?v=b83ef157",
+	"file": {
+		"version": 1,
+		"asset": "primordian-kog-maw-v1.fantome",
+		"size": 7065256,
+		"sha256": "03da632bc4908d1c5b0cc594756dc50afc4638766b2cc5d8b22fb825f47ca428"
+	},
+	"chromas": []
+}

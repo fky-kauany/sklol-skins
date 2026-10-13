@@ -1,0 +1,26 @@
+{
+	"id": "prestige-coven-ahri",
+	"name": "Prestige Coven Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "prinzz",
+	"description": "**Works on Coven Ahri skin only!!**\n\nSo if you find a bug or flaw or if its doesnt work - **please let me know**.\nIll be glad to recieve your feedback if such recolors are needed\n\n---\n\n**Created by** [Prinzz](https://www.divineskins.gg/Prinzz)\n\n**Original:** https://www.divineskins.gg/Prinzz/prestige-coven-ahri\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/prestige-coven-ahri/thumb.webp?v=1fa5cb36",
+	"file": {
+		"version": 1,
+		"asset": "prestige-coven-ahri-v1.fantome",
+		"size": 12962252,
+		"sha256": "820865e707abad07e6b0d4e0372fd783d52893137e5f7a9057efdb5443ce5551"
+	},
+	"chromas": []
+}

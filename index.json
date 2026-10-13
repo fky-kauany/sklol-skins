@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:26:35.326Z",
+	"generatedAt": "2026-10-13T05:29:57.292Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -482,6 +482,11 @@
 				"site": "https://i.imgur.com/FAR3dg6.png",
 				"x": "https://x.com/p1mek"
 			}
+		},
+		"prinzz": {
+			"name": "Prinzz",
+			"avatar": "creators/prinzz.webp?v=7e2378fa",
+			"links": {}
 		},
 		"ramo": {
 			"name": "ramo",
@@ -12092,6 +12097,263 @@
 				"asset": "poro-amumu-v1.fantome",
 				"size": 11020682,
 				"sha256": "ccda009b6e737f99e8491e3775b6a2c08ab0a047249817cd6c57809cc642cc92"
+			},
+			"chromas": []
+		},
+		{
+			"id": "postal-brain-damaged-pantheon",
+			"name": "postal brain damaged pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/postal-brain-damaged-pantheon/thumb.webp?v=a89efb11",
+			"file": {
+				"version": 1,
+				"asset": "postal-brain-damaged-pantheon-v1.fantome",
+				"size": 11467757,
+				"sha256": "287ee97e8d269d30b0252332dae2fd5c10d7ca59d0aac4c3cb5e6cdf6f6bb1be"
+			},
+			"chromas": []
+		},
+		{
+			"id": "postal-dude-gangplank",
+			"name": "postal dude gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/postal-dude-gangplank/thumb.webp?v=e3869e77",
+			"file": {
+				"version": 1,
+				"asset": "postal-dude-gangplank-v1.fantome",
+				"size": 6035640,
+				"sha256": "362334ece474ae4ac5f77d43fa08e0a73718de15c6584beefe66c1707c11f935"
+			},
+			"chromas": []
+		},
+		{
+			"id": "power-katarina",
+			"name": "Power Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/power-katarina/thumb.webp?v=7b559ce2",
+			"file": {
+				"version": 1,
+				"asset": "power-katarina-v1.fantome",
+				"size": 10609585,
+				"sha256": "b8fa6ff25e9d7ebd6f88ccefbef9d30c9d300170b1de264a5ac113a3fa3688ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-coven-ahri",
+			"name": "Prestige Coven Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "prinzz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/prestige-coven-ahri/thumb.webp?v=1fa5cb36",
+			"file": {
+				"version": 1,
+				"asset": "prestige-coven-ahri-v1.fantome",
+				"size": 12962252,
+				"sha256": "820865e707abad07e6b0d4e0372fd783d52893137e5f7a9057efdb5443ce5551"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-crystal-rose-caitlyn",
+			"name": "Prestige Crystal Rose Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/prestige-crystal-rose-caitlyn/thumb.webp?v=403112c1",
+			"file": {
+				"version": 1,
+				"asset": "prestige-crystal-rose-caitlyn-v1.fantome",
+				"size": 22169525,
+				"sha256": "64fa20edbb70c4b6bb3b5710adfd29b59a00866a3ac79957d07c4ba34237a8e8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-firecracker-vayne-ruined",
+			"name": "Prestige Firecracker Vayne - Ruined",
+			"champion": 67,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/prestige-firecracker-vayne-ruined/thumb.webp?v=963e90b3",
+			"file": {
+				"version": 1,
+				"asset": "prestige-firecracker-vayne-ruined-v1.fantome",
+				"size": 2647605,
+				"sha256": "991d1652414b3247259194ab2f4504a63e9e5901ba28e05fc6019a9ca4c5b622"
+			},
+			"chromas": []
+		},
+		{
+			"id": "primordian-kog-maw",
+			"name": "Primordian Kog'maw",
+			"champion": 96,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/primordian-kog-maw/thumb.webp?v=b83ef157",
+			"file": {
+				"version": 1,
+				"asset": "primordian-kog-maw-v1.fantome",
+				"size": 7065256,
+				"sha256": "03da632bc4908d1c5b0cc594756dc50afc4638766b2cc5d8b22fb825f47ca428"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-hecarim",
+			"name": "PROJECT: Hecarim",
+			"champion": 120,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/project-hecarim/thumb.webp?v=fe177c66",
+			"file": {
+				"version": 1,
+				"asset": "project-hecarim-v1.fantome",
+				"size": 12247545,
+				"sha256": "3ee18b9475b93bc1f587c3eb124af3acefc52ecd328e2e5367a96a2ec0f678c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-kindred",
+			"name": "Project: Kindred",
+			"champion": 203,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/project-kindred/thumb.webp?v=2bd18685",
+			"file": {
+				"version": 1,
+				"asset": "project-kindred-v1.fantome",
+				"size": 38244701,
+				"sha256": "36a228207080e9cd58226ef3b1a8f88d4fc067fb01035b204e90af36fbfd9f20"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-twitch",
+			"name": "Project: Twitch",
+			"champion": 29,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/project-twitch/thumb.webp?v=a9e2ab04",
+			"file": {
+				"version": 1,
+				"asset": "project-twitch-v1.fantome",
+				"size": 97581358,
+				"sha256": "c6cc350048097f575de42ec5e8c0de25296def6f5a71a54979d1f400d63bf672"
 			},
 			"chromas": []
 		},
