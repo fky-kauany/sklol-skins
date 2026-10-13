@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:41:17.374Z",
+	"generatedAt": "2026-10-13T03:44:38.050Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -3839,6 +3839,259 @@
 				"asset": "ivern-stalker-of-the-woods-v1.fantome",
 				"size": 25689715,
 				"sha256": "e87849ef77caa32980a04a92f1048bfc6429b44ce11af174fe065d5b1193a5c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jack-o-valentine-briar-from-guilty-gear-strive",
+			"name": "Jack o Valentine Briar from Guilty Gear Strive",
+			"champion": 233,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jack-o-valentine-briar-from-guilty-gear-strive/thumb.webp?v=6a3f6f7f",
+			"file": {
+				"version": 1,
+				"asset": "jack-o-valentine-briar-from-guilty-gear-strive-v1.fantome",
+				"size": 19374587,
+				"sha256": "404824fac8de4d5fbea32ef73dabae7f00f3236d460525eb40c349a44dfe83f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jahrein-darius",
+			"name": "Jahrein Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jahrein-darius/thumb.webp?v=e2fda6f3",
+			"file": {
+				"version": 1,
+				"asset": "jahrein-darius-v1.fantome",
+				"size": 40685570,
+				"sha256": "e53978cd39076b94923aebcbe3a655ccf8f40ace09fa5d05ef7d90903716375b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jahrein-gragas",
+			"name": "Jahrein Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jahrein-gragas/thumb.webp?v=90e352ff",
+			"file": {
+				"version": 1,
+				"asset": "jahrein-gragas-v1.fantome",
+				"size": 11938821,
+				"sha256": "021df2886b603e45ce23ee6a4e20991df035c9bfc63cc8ddf0cfb3d41ca5ba0f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jane-doe-irelia",
+			"name": "Jane Doe Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jane-doe-irelia/thumb.webp?v=d08e8c25",
+			"file": {
+				"version": 1,
+				"asset": "jane-doe-irelia-v1.fantome",
+				"size": 7960458,
+				"sha256": "0078dba72ab0bbced0ac54a1a3b7c7c44cf4e0da746cccc16f6040bf5c14b2b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jarvan-iv-deathknight-jarvaniv",
+			"name": "DeathKnight JarvanIV",
+			"champion": 59,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jarvan-iv-deathknight-jarvaniv/thumb.webp?v=a023ab65",
+			"file": {
+				"version": 1,
+				"asset": "jarvan-iv-deathknight-jarvaniv-v1.fantome",
+				"size": 7976373,
+				"sha256": "08e2abdc9c861a58ec8cf8520a6024c6934a38d2985e2ab13c441d2fc3cb32e3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jarvan-iv-jarvan-huggy",
+			"name": "Jarvan Huggy",
+			"champion": 59,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jarvan-iv-jarvan-huggy/thumb.webp?v=e007ebf5",
+			"file": {
+				"version": 1,
+				"asset": "jarvan-iv-jarvan-huggy-v1.fantome",
+				"size": 7740502,
+				"sha256": "1b7a480c3cbbdfc07f6dfa86123057f6837b194b12c55081692e76bed545305c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jarvan-iv-jarvan-whitebeard",
+			"name": "Jarvan WhiteBeard",
+			"champion": 59,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jarvan-iv-jarvan-whitebeard/thumb.webp?v=9591580a",
+			"file": {
+				"version": 1,
+				"asset": "jarvan-iv-jarvan-whitebeard-v1.fantome",
+				"size": 7638149,
+				"sha256": "42339450b3e4b51e43359244770d5051da1370944b1fa057ac8b76194d612eca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jarvan-iv-lupa-jarvan-wip-wuthering-waves",
+			"name": "Lupa Jarvan wip (Wuthering Waves)",
+			"champion": 59,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jarvan-iv-lupa-jarvan-wip-wuthering-waves/thumb.webp?v=bfbd59fe",
+			"file": {
+				"version": 1,
+				"asset": "jarvan-iv-lupa-jarvan-wip-wuthering-waves-v1.fantome",
+				"size": 32243102,
+				"sha256": "b8d572476afb78352813c8107656334dd072af3ab84fd02e92d2e5d70fbff51f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jarvan-iv-sirfetch-d-jarvan",
+			"name": "Sirfetch'd Jarvan",
+			"champion": 59,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jarvan-iv-sirfetch-d-jarvan/thumb.webp?v=1eb968b2",
+			"file": {
+				"version": 1,
+				"asset": "jarvan-iv-sirfetch-d-jarvan-v1.fantome",
+				"size": 14053997,
+				"sha256": "8ec73a0671f43ed78c3cc2ea5131c0cdfcbad6db249cd1d32ae856295b4e1446"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jayce-adam-smasher",
+			"name": "Adam Smasher",
+			"champion": 126,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jayce-adam-smasher/thumb.webp?v=2560507e",
+			"file": {
+				"version": 1,
+				"asset": "jayce-adam-smasher-v1.fantome",
+				"size": 23969440,
+				"sha256": "7064c539ac941be6f9e49a4207fbf317ae90b0db943d442c3593d5248aacd149"
 			},
 			"chromas": []
 		},

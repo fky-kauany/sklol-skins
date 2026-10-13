@@ -1,0 +1,26 @@
+{
+	"id": "jack-o-valentine-briar-from-guilty-gear-strive",
+	"name": "Jack o Valentine Briar from Guilty Gear Strive",
+	"champion": 233,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# Jack o Valentine Briar:\r\n\r\n***\r\n\r\n> 🎃 For fans of Guilty Gear and League of Legends, Jack-O' Valentine bursts onto the Rift with her signature chaos and charm. 🎃 \r\n\r\n* Champion: Briar\r\n* Skin: Base Skin\r\n* Character Quality: All\r\n\r\n\r\n## Features:\r\n\r\n***\r\n\r\n* New Custom Model\r\n* New Custom Weapon\r\n* New VFX\r\n* New VFX Colors\r\n* New Ability Icons\r\n* New Loading Screen\r\n* New Champion Icons\r\n* New Voice Overs\r\n\r\n\r\n***If you find any bug please ping me in the discord server or dm me: davex45a.***\r\n\r\n## Credits:\r\n\r\n***\r\n\r\n* Thanks to *Nosferatu* for commissioning this skin and sharing it with everyone :D\r\n* Big Thanks to *Moga* for helping me with the shaders and files\r\n* Huge Thanks to *Aurecueil* for making the VoiceOvers in both languages\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN), [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/davexFN/jack-o-valentine-briar-from-guilty-gear-strive\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jack-o-valentine-briar-from-guilty-gear-strive/thumb.webp?v=6a3f6f7f",
+	"file": {
+		"version": 1,
+		"asset": "jack-o-valentine-briar-from-guilty-gear-strive-v1.fantome",
+		"size": 19374587,
+		"sha256": "404824fac8de4d5fbea32ef73dabae7f00f3236d460525eb40c349a44dfe83f4"
+	},
+	"chromas": []
+}

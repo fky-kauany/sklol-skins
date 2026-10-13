@@ -1,0 +1,26 @@
+{
+	"id": "jayce-adam-smasher",
+	"name": "Adam Smasher",
+	"champion": 126,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n- Custom VFX\r\n- Custom SFX\r\n- Custom Voice-over for all languages, full of swear words.\r\n\r\n- Custom loading screen and in-game icons\r\n- Up to 96% chrome\r\n\r\n\r\n\r\n*\"You look like a cut of fuckable meat. Are you?\"*\r\n\r\n\r\nAdam Smasher, another one of Night City's grim legends, turned out to be true, after all. With a body made almost entirely out of chrome, he is ready to punch, shoot and explode his way through the Rift, all on Arasaka's orders.\r\n\r\nFeatures a new model, a complete animation overhaul, where you switch between melee fist fighting and ranged wrist-gun fighting, a VFX overhaul, a boat load of new SFX, a whole intimidating voice-over, and of course new icons/loading screen splash. Enjoy!\r\nWorks on ALL SKINS, except for Arcane Survivor. Picking any other skins will result in Adam Smasher still being in the game.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/adam-smasher\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jayce-adam-smasher/thumb.webp?v=2560507e",
+	"file": {
+		"version": 1,
+		"asset": "jayce-adam-smasher-v1.fantome",
+		"size": 23969440,
+		"sha256": "7064c539ac941be6f9e49a4207fbf317ae90b0db943d442c3593d5248aacd149"
+	},
+	"chromas": []
+}

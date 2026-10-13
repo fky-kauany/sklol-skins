@@ -1,0 +1,24 @@
+{
+	"id": "jane-doe-irelia",
+	"name": "Jane Doe Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Jane Doe Irelia\n\n### Features\n\n- **Custom model:** Irelia redesigned as Jane Doe from ZZZ\n- **Custom abilities:** Futuristic VFX matching her sharp ZZZ identity\n- **Created by Oldey:** A trusted Divine Skins creator\n- **Universal compatibility:** Works with **all Irelia skins**\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games, League of Legends, or Zenless Zone Zero.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco), [oldey](https://www.divineskins.gg/oldey)\n\n**Original:** https://www.divineskins.gg/oldey/jane-doe-irelia\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jane-doe-irelia/thumb.webp?v=d08e8c25",
+	"file": {
+		"version": 1,
+		"asset": "jane-doe-irelia-v1.fantome",
+		"size": 7960458,
+		"sha256": "0078dba72ab0bbced0ac54a1a3b7c7c44cf4e0da746cccc16f6040bf5c14b2b7"
+	},
+	"chromas": []
+}

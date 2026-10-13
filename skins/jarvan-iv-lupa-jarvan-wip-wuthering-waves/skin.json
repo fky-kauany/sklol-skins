@@ -1,0 +1,26 @@
+{
+	"id": "jarvan-iv-lupa-jarvan-wip-wuthering-waves",
+	"name": "Lupa Jarvan wip (Wuthering Waves)",
+	"champion": 59,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "The author is lazy and wish to not write anything\n\nAlso its wip so ill finish all the unfinished stuff, so check for updates\n\n---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/lupa-jarvan-wip-wuthering-waves\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jarvan-iv-lupa-jarvan-wip-wuthering-waves/thumb.webp?v=bfbd59fe",
+	"file": {
+		"version": 1,
+		"asset": "jarvan-iv-lupa-jarvan-wip-wuthering-waves-v1.fantome",
+		"size": 32243102,
+		"sha256": "b8d572476afb78352813c8107656334dd072af3ab84fd02e92d2e5d70fbff51f"
+	},
+	"chromas": []
+}

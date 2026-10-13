@@ -1,0 +1,26 @@
+{
+	"id": "jarvan-iv-sirfetch-d-jarvan",
+	"name": "Sirfetch'd Jarvan",
+	"champion": 59,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "**THIS MOD WAS A COMMISION FOR @krysiuuk**\n## COMMISION ME ON DISCORD OR DIVINE SERVER @CEEREL\n\n\n\n\nCredits for dakaaa for the model and anim :steamhappy:\n\n\n\n\n\n\n- CUSTOM VFX\n- POKEMON UNITE MODEL\n- POKEMON UNITE ANIMATIONS\n- HUD/ICONS\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/sirfetchd-jarvan\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jarvan-iv-sirfetch-d-jarvan/thumb.webp?v=1eb968b2",
+	"file": {
+		"version": 1,
+		"asset": "jarvan-iv-sirfetch-d-jarvan-v1.fantome",
+		"size": 14053997,
+		"sha256": "8ec73a0671f43ed78c3cc2ea5131c0cdfcbad6db249cd1d32ae856295b4e1446"
+	},
+	"chromas": []
+}
