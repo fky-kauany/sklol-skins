@@ -1,0 +1,26 @@
+{
+	"id": "zeri-miku",
+	"name": "Miku",
+	"champion": 221,
+	"base": 0,
+	"creator": "frog",
+	"description": "Miku Zeri • Custom model • Custom Abilities • Works on every Zeri skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/miku-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zeri-miku/thumb.webp?v=9ddaa59c",
+	"file": {
+		"version": 1,
+		"asset": "zeri-miku-v1.fantome",
+		"size": 17063937,
+		"sha256": "cd8823787193ec9f104dda6d12abe85b4ebdec9f2cdb5c8fe50b48c0200e32a6"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:56:29.592Z",
+	"generatedAt": "2026-10-13T07:59:49.578Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -23669,6 +23669,257 @@
 				"asset": "zeraora-master-yi-v1.fantome",
 				"size": 12258575,
 				"sha256": "e18142663c03920de7af06dbf16b22d8dc6a076d048b917ac86feb4981751f04"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeri-hajime-kashimo",
+			"name": "Hajime Kashimo",
+			"champion": 221,
+			"base": 0,
+			"creator": "oyashxro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zeri-hajime-kashimo/thumb.webp?v=8f478405",
+			"file": {
+				"version": 1,
+				"asset": "zeri-hajime-kashimo-v1.fantome",
+				"size": 8854424,
+				"sha256": "78c009b820fc0c0c37233560bbed7b03b361473b8ff407dc45806646c93b434b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeri-miku",
+			"name": "Miku",
+			"champion": 221,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zeri-miku/thumb.webp?v=9ddaa59c",
+			"file": {
+				"version": 1,
+				"asset": "zeri-miku-v1.fantome",
+				"size": 17063937,
+				"sha256": "cd8823787193ec9f104dda6d12abe85b4ebdec9f2cdb5c8fe50b48c0200e32a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeri-neon",
+			"name": "Neon",
+			"champion": 221,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zeri-neon/thumb.webp?v=2e3e44d7",
+			"file": {
+				"version": 1,
+				"asset": "zeri-neon-v1.fantome",
+				"size": 27339275,
+				"sha256": "76bb1aff057d96daed50d2ddca7a5168a55714bbf35787aee288c967d4394645"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeri-tanya-degurechaff",
+			"name": "Zeri Tanya Degurechaff",
+			"champion": 221,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zeri-tanya-degurechaff/thumb.webp?v=494bc6a9",
+			"file": {
+				"version": 1,
+				"asset": "zeri-tanya-degurechaff-v1.fantome",
+				"size": 37445557,
+				"sha256": "28bdeff4c152458f8974983f27ed81c245f62a641cb3b425aa50cca437501981"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zero-honors-akshan",
+			"name": "Zero Honors Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zero-honors-akshan/thumb.webp?v=d61e65ec",
+			"file": {
+				"version": 1,
+				"asset": "zero-honors-akshan-v1.fantome",
+				"size": 417956,
+				"sha256": "3827d89727c6917e286330381361edf7d0ef0f2c265ad2aa5292776009161725"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zhuang-fangyi-kayle",
+			"name": "Zhuang Fangyi Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zhuang-fangyi-kayle/thumb.webp?v=2e7a4b9f",
+			"file": {
+				"version": 1,
+				"asset": "zhuang-fangyi-kayle-v1.fantome",
+				"size": 41616115,
+				"sha256": "e45ca832d6be98e19bd814f9132cb3476b4d8ed45b9fe02b973900c04a493039"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ziggs-gragas",
+			"name": "Ziggs Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ziggs-gragas/thumb.webp?v=40fe723b",
+			"file": {
+				"version": 1,
+				"asset": "ziggs-gragas-v1.fantome",
+				"size": 403876,
+				"sha256": "551177b914946e5a1f69667c7fc2065c828bb2fef66700750658750dfc94a704"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ziggs-pengu",
+			"name": "Pengu",
+			"champion": 115,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ziggs-pengu/thumb.webp?v=3c6d583a",
+			"file": {
+				"version": 1,
+				"asset": "ziggs-pengu-v1.fantome",
+				"size": 12734887,
+				"sha256": "cfadfb1b0963ea2cc51afeffd658d5ded06df1c27eff124396b79f6bffc8c750"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zoe-angel",
+			"name": "Angel",
+			"champion": 142,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zoe-angel/thumb.webp?v=5fab3dc7",
+			"file": {
+				"version": 1,
+				"asset": "zoe-angel-v1.fantome",
+				"size": 4305405,
+				"sha256": "44d11b23cc9523070b85d11b7fe6510955d3e562038a4a99b26a6d23ff513ae6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zoe-cafe-maiden",
+			"name": "Café Maiden",
+			"champion": 142,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zoe-cafe-maiden/thumb.webp?v=b81ca1c2",
+			"file": {
+				"version": 1,
+				"asset": "zoe-cafe-maiden-v1.fantome",
+				"size": 16496836,
+				"sha256": "91534a46d170fd643fadc651e8f8a75cbda0341e4f02054e7c7c06f5b7268deb"
 			},
 			"chromas": []
 		},

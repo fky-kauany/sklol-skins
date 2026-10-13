@@ -1,0 +1,26 @@
+{
+	"id": "zhuang-fangyi-kayle",
+	"name": "Zhuang Fangyi Kayle",
+	"champion": 10,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "Kayle as Zhuang Fangyi from Arknights Endfield.\n\nSkin Features:\nCustom Model\nCustom VFX\nCustom Icon and Banner\nVoice Over\n\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins or [My](https://discord.gg/vXHXVgv7qy) Discord server.\n\nMy Discord: @nyxns0 | https://discord.gg/vXHXVgv7qy\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/zhuang-fangyi-kayle\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zhuang-fangyi-kayle/thumb.webp?v=2e7a4b9f",
+	"file": {
+		"version": 1,
+		"asset": "zhuang-fangyi-kayle-v1.fantome",
+		"size": 41616115,
+		"sha256": "e45ca832d6be98e19bd814f9132cb3476b4d8ed45b9fe02b973900c04a493039"
+	},
+	"chromas": []
+}

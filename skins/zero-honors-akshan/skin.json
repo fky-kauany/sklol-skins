@@ -1,0 +1,22 @@
+{
+	"id": "zero-honors-akshan",
+	"name": "Zero Honors Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod is a black and white, L9 themed skin for Akshan. Were you naughty on the chat? Did you get punished? Don't lose yourself in despair, even the hopeless can get a cool skin sometimes...\n\n#\n\n### ✨ Additional information\n\nThe mod replaces the Base Akshan skin.\n\n#\n\n### ✨ Features\n\n* Modified textures\n* Modified loadingscreen\n* Modified in-game HUD icons\n* Modified VFX\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/zero-honors-akshan\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zero-honors-akshan/thumb.webp?v=d61e65ec",
+	"file": {
+		"version": 1,
+		"asset": "zero-honors-akshan-v1.fantome",
+		"size": 417956,
+		"sha256": "3827d89727c6917e286330381361edf7d0ef0f2c265ad2aa5292776009161725"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "zeri-hajime-kashimo",
+	"name": "Hajime Kashimo",
+	"champion": 221,
+	"base": 0,
+	"creator": "oyashxro",
+	"description": "Hajime Kashimo Zeri • Custom model • Custom Abilities • Works on every Zeri skin\n\n---\n\n**Created by** [oyashxro](https://www.divineskins.gg/oyashxro)\n\n**Original:** https://www.divineskins.gg/oyashxro/hajime-kashimo-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zeri-hajime-kashimo/thumb.webp?v=8f478405",
+	"file": {
+		"version": 1,
+		"asset": "zeri-hajime-kashimo-v1.fantome",
+		"size": 8854424,
+		"sha256": "78c009b820fc0c0c37233560bbed7b03b361473b8ff407dc45806646c93b434b"
+	},
+	"chromas": []
+}

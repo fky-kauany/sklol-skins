@@ -1,0 +1,26 @@
+{
+	"id": "ziggs-pengu",
+	"name": "Pengu",
+	"champion": 115,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/pengu-ziggs\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ziggs-pengu/thumb.webp?v=3c6d583a",
+	"file": {
+		"version": 1,
+		"asset": "ziggs-pengu-v1.fantome",
+		"size": 12734887,
+		"sha256": "cfadfb1b0963ea2cc51afeffd658d5ded06df1c27eff124396b79f6bffc8c750"
+	},
+	"chromas": []
+}

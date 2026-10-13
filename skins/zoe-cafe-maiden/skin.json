@@ -1,0 +1,26 @@
+{
+	"id": "zoe-cafe-maiden",
+	"name": "Café Maiden",
+	"champion": 142,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/caf-maiden-zoe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zoe-cafe-maiden/thumb.webp?v=b81ca1c2",
+	"file": {
+		"version": 1,
+		"asset": "zoe-cafe-maiden-v1.fantome",
+		"size": 16496836,
+		"sha256": "91534a46d170fd643fadc651e8f8a75cbda0341e4f02054e7c7c06f5b7268deb"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "zeri-tanya-degurechaff",
+	"name": "Zeri Tanya Degurechaff",
+	"champion": 221,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 TANYA DEGURECHAFF 」\n### *Replaces Zeri*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/zeri-tanya-degurechaff\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zeri-tanya-degurechaff/thumb.webp?v=494bc6a9",
+	"file": {
+		"version": 1,
+		"asset": "zeri-tanya-degurechaff-v1.fantome",
+		"size": 37445557,
+		"sha256": "28bdeff4c152458f8974983f27ed81c245f62a641cb3b425aa50cca437501981"
+	},
+	"chromas": []
+}

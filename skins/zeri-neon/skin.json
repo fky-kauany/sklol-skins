@@ -1,0 +1,24 @@
+{
+	"id": "zeri-neon",
+	"name": "Neon",
+	"champion": 221,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/neon-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zeri-neon/thumb.webp?v=2e3e44d7",
+	"file": {
+		"version": 1,
+		"asset": "zeri-neon-v1.fantome",
+		"size": 27339275,
+		"sha256": "76bb1aff057d96daed50d2ddca7a5168a55714bbf35787aee288c967d4394645"
+	},
+	"chromas": []
+}
