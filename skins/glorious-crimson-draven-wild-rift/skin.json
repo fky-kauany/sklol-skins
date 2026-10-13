@@ -1,0 +1,26 @@
+{
+	"id": "glorious-crimson-draven-wild-rift",
+	"name": "Glorious Crimson Draven Wild Rift",
+	"champion": 119,
+	"base": 0,
+	"creator": "valfren",
+	"description": "## What's included\r\n\r\n- Custom model, VFX\r\n- **Works on:** All skins except Legendary and above\r\n- Port of the Wild Rift skin, axe indicator is a direct rip (all i was able to get sorry)\r\n- Shading was done to the best of my ability using ucupaint in Blender\r\n- Might try to duplicate the SFX if there is demand but its not easy and I am lazy\r\n- Special thanks to ChicoEevee for ripping\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/glorious-crimson-draven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/glorious-crimson-draven-wild-rift/thumb.webp?v=fdd8df09",
+	"file": {
+		"version": 1,
+		"asset": "glorious-crimson-draven-wild-rift-v1.fantome",
+		"size": 9140294,
+		"sha256": "9e78f38386b9beea272ae6ba7538009fbec0bcfd7378fc31bf2736e6a5b5c2b7"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "gojo-satoru-smolder-ultimate-skin",
+	"name": "Gojo Satoru Smolder (ULTIMATE SKIN)",
+	"champion": 901,
+	"base": 0,
+	"creator": "megaomg",
+	"description": "Uploading my custom skin, hope you guys like it\r\n\r\nIt has 4 evolutions;\r\n\r\n**0-25 P charges**: Gojo Satoru Student\r\n**25-125 P charges**: Gojo Satoru sensei\r\n**125-225 P charges**: Gojo Satoru Toji Outfit\r\n**225+ P charges**: Gojo Satoru Shinjuku Showdown outfit\r\n\r\nYou can choose either with voicelines or without it, this is the new update from 08/09/2026.\r\nSkin was not made by me, I paid for it long ago and now i give it for free!\r\nCredits to Sara!\r\n*discord*: megaomg\n\n---\n\n**Created by** [megaomg](https://www.divineskins.gg/megaomg)\n\n**Original:** https://www.divineskins.gg/megaomg/gojo-smolder-ultimate-skin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gojo-satoru-smolder-ultimate-skin/thumb.webp?v=c57247ef",
+	"file": {
+		"version": 1,
+		"asset": "gojo-satoru-smolder-ultimate-skin-v1.fantome",
+		"size": 13229139,
+		"sha256": "c66ac7b92b9ec605db3154c4501540cd3523e57a7c9774638bd7b4ec7dc99097"
+	},
+	"chromas": []
+}

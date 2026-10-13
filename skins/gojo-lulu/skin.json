@@ -1,0 +1,26 @@
+{
+	"id": "gojo-lulu",
+	"name": "Gojo Lulu",
+	"champion": 117,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:**  etc.\n**Modified Skin(s):** All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n\n### ? Credits\n\n**Model(s):**\n**Special Thanks:**\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n\n### ? Support Me\n\nEnjoyed the mod? Help fuel future projects: [Donate](#)\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gojo-lulu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gojo-lulu/thumb.webp?v=46e41729",
+	"file": {
+		"version": 1,
+		"asset": "gojo-lulu-v1.fantome",
+		"size": 6549151,
+		"sha256": "1ddc4c5085f06fd6e4fb18bedc20e2b41540dd7630e7d33ccf25b905f42f6065"
+	},
+	"chromas": []
+}

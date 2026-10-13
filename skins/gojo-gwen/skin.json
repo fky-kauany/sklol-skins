@@ -1,0 +1,25 @@
+{
+	"id": "gojo-gwen",
+	"name": "Gojo Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Gojo Gwen\n\n### Features\n\n- **The Strongest's Model:** A complete, custom model that transforms Gwen into Satoru Gojo, featuring his iconic white hair and sleek Jujutsu High uniform.\n- **Cursed Technique Abilities:** All of Gwen's abilities have been reimagined with Gojo's signature techniques, including a Hallowed Mist (W) that functions as his Infinity.\n- **Toggleable Eyewear:** This is the coolest part! Use Gwen's emotes to swap between Gojo's iconic blindfolded look and his casual sunglasses style, letting you choose your vibe in-game.\n- **Universal Compatibility:** This mod is designed to work as a base, meaning it functions with every official Gwen skin you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/gojo-gwen\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gojo-gwen/thumb.webp?v=558c06c4",
+	"file": {
+		"version": 1,
+		"asset": "gojo-gwen-v1.fantome",
+		"size": 10225966,
+		"sha256": "167bceb3a6477e5bd3d62d115d85df63c26200643e5f0c3c5a196fd077a24362"
+	},
+	"chromas": []
+}

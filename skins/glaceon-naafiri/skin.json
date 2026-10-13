@@ -1,0 +1,26 @@
+{
+	"id": "glaceon-naafiri",
+	"name": "glaceon naafiri",
+	"champion": 950,
+	"base": 0,
+	"creator": "gazor",
+	"description": "---\n\n**Created by** [Gazor](https://www.divineskins.gg/Gazor)\n\n**Original:** https://www.divineskins.gg/Gazor/glaceon-naafiri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/glaceon-naafiri/thumb.webp?v=cd8a8f30",
+	"file": {
+		"version": 1,
+		"asset": "glaceon-naafiri-v1.fantome",
+		"size": 6802785,
+		"sha256": "ee1a74a6edb596a2e817c0108445aa45308451f9bab3256685ecc7cad4599b48"
+	},
+	"chromas": []
+}

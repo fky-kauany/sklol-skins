@@ -1,0 +1,26 @@
+{
+	"id": "gigachad-sett",
+	"name": "GigaChad Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "only use if you're not a chud\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/gigachad-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gigachad-sett/thumb.webp?v=8fb1642d",
+	"file": {
+		"version": 1,
+		"asset": "gigachad-sett-v1.fantome",
+		"size": 9580915,
+		"sha256": "bb573f32c57dca431ff9c9bac8c9fb6a12e5af21e2e412cc49e9831637dd4d26"
+	},
+	"chromas": []
+}

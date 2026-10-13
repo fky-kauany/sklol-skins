@@ -1,0 +1,26 @@
+{
+	"id": "ghostly-raven-hecarim",
+	"name": "Ghostly Raven Hecarim",
+	"champion": 120,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/ghostly-raven-hecarim\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ghostly-raven-hecarim/thumb.webp?v=38e3ccdd",
+	"file": {
+		"version": 1,
+		"asset": "ghostly-raven-hecarim-v1.fantome",
+		"size": 22438994,
+		"sha256": "09096d8396a3df9f6691ca4bcf01092ea1e34f25302b7ed82b8c4f7469b73aa3"
+	},
+	"chromas": []
+}

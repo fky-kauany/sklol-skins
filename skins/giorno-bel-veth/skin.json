@@ -1,0 +1,27 @@
+{
+	"id": "giorno-bel-veth",
+	"name": "Giorno Bel'veth",
+	"champion": 200,
+	"base": 0,
+	"creator": "kayki-lessa",
+	"description": ">- *****Giorno Bel'veth*****\r\n--\r\n*****Fixed and Edited By - Tiberius*****\r\n>- *****Description*****\r\n--\r\n**First of all, I wanted to say that the skin mod wasn't made by me, \r\nbut by DaneeshBruh.**\r\n>**This skin mod had several texture and audio issues; it was originally released for download years ago on the old Killer Skins site, which later became RuneForge. Many variants of the skin circulated on Discord servers, but they all contained modified files and audio, persistent bugs, or even completely lacked the original audio. Since I had saved a copy from the Killer Skins era in my MediaFire account, I decided to fix all the audio and texture problems, and even upscale the textures, and am now making it available to everyone.**\r\n\r\n------------------------------------------------------------------------------------------\r\n>- *****Full credit to DaneeshBruh.*****\r\n--\r\n**There has been no news about the creator of this skin mod since Killer Skins went down, but I am including the creator's credits and have left it open for modifications.**\r\n-------------------------------------------------------------------------------------------\r\n>- *****Musics Credits*****\r\n--\r\nhttps://youtu.be/K2wKBYrDxew?is=wJFrtHrL0TC7pBsD\r\nhttps://youtu.be/U0TXIXTzJEY?is=CbQC_vgWaQYARCrD\n\n---\n\n**Created by** [Kayki_Lessa](https://www.divineskins.gg/Kayki_Lessa)\n\n**Original:** https://www.divineskins.gg/Kayki_Lessa/giorno-belveth\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/giorno-bel-veth/thumb.webp?v=4d280500",
+	"file": {
+		"version": 1,
+		"asset": "giorno-bel-veth-v1.fantome",
+		"size": 36014485,
+		"sha256": "d88ed1b105c1b6857244c5143e7f65637f50ac02775cade7e243cc1187daccad"
+	},
+	"chromas": []
+}

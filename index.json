@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:55:45.099Z",
+	"generatedAt": "2026-10-13T02:59:00.474Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -232,6 +232,11 @@
 				"youtube": "https://youtu.be/gqgZpk_jJKQ"
 			}
 		},
+		"gazor": {
+			"name": "Gazor",
+			"avatar": "creators/gazor.webp?v=e4d83a29",
+			"links": {}
+		},
 		"hatstore": {
 			"name": "hatstore",
 			"avatar": "creators/hatstore.webp?v=1390bc9f",
@@ -268,6 +273,15 @@
 				"kofi": "https://ko-fi.com/mordekaizen/commissions",
 				"x": "https://x.com/MordeKaizen",
 				"youtube": "https://www.youtube.com/@MordeKaizen"
+			}
+		},
+		"kayki-lessa": {
+			"name": "Kayki_Lessa",
+			"avatar": "creators/kayki-lessa.jpg?v=701b3e0f",
+			"bio": "𝕀 𝕞𝕠𝕕𝕚𝕗𝕪 𝕥𝕖𝕩𝕥𝕦𝕣𝕖𝕤 𝕒𝕟𝕕 𝕦𝕡𝕕𝕒𝕥𝕖 𝕥𝕙𝕖𝕞 𝕥𝕠 𝕝𝕠𝕠𝕜 𝕞𝕠𝕣𝕖 𝕞𝕠𝕕𝕖𝕣𝕟.\n\n𝕞𝕒𝕚𝕟 𝕣𝕖𝕜'𝕤𝕒𝕚 ദ്ദി◝ ⩊ ◜",
+			"links": {
+				"discord": "https://ptb.discord.com/users/1449524972073521273",
+				"youtube": "https://youtu.be/K2wKBYrDxew?is=wJFrtHrL0TC7pBsD"
 			}
 		},
 		"keduox": {
@@ -11656,6 +11670,266 @@
 				"asset": "ghostface-shaco-v1.fantome",
 				"size": 5870230,
 				"sha256": "ec6f3a925229cce3152db5061be4436cde16e7929f34c959fbc0597b1cffb08f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ghostly-raven-hecarim",
+			"name": "Ghostly Raven Hecarim",
+			"champion": 120,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ghostly-raven-hecarim/thumb.webp?v=38e3ccdd",
+			"file": {
+				"version": 1,
+				"asset": "ghostly-raven-hecarim-v1.fantome",
+				"size": 22438994,
+				"sha256": "09096d8396a3df9f6691ca4bcf01092ea1e34f25302b7ed82b8c4f7469b73aa3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gigachad-sett",
+			"name": "GigaChad Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gigachad-sett/thumb.webp?v=8fb1642d",
+			"file": {
+				"version": 1,
+				"asset": "gigachad-sett-v1.fantome",
+				"size": 9580915,
+				"sha256": "bb573f32c57dca431ff9c9bac8c9fb6a12e5af21e2e412cc49e9831637dd4d26"
+			},
+			"chromas": []
+		},
+		{
+			"id": "giorno-bel-veth",
+			"name": "Giorno Bel'veth",
+			"champion": 200,
+			"base": 0,
+			"creator": "kayki-lessa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/giorno-bel-veth/thumb.webp?v=4d280500",
+			"file": {
+				"version": 1,
+				"asset": "giorno-bel-veth-v1.fantome",
+				"size": 36014485,
+				"sha256": "d88ed1b105c1b6857244c5143e7f65637f50ac02775cade7e243cc1187daccad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glaceon-naafiri",
+			"name": "glaceon naafiri",
+			"champion": 950,
+			"base": 0,
+			"creator": "gazor",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/glaceon-naafiri/thumb.webp?v=cd8a8f30",
+			"file": {
+				"version": 1,
+				"asset": "glaceon-naafiri-v1.fantome",
+				"size": 6802785,
+				"sha256": "ee1a74a6edb596a2e817c0108445aa45308451f9bab3256685ecc7cad4599b48"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glorious-crimson-draven-wild-rift",
+			"name": "Glorious Crimson Draven Wild Rift",
+			"champion": 119,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/glorious-crimson-draven-wild-rift/thumb.webp?v=fdd8df09",
+			"file": {
+				"version": 1,
+				"asset": "glorious-crimson-draven-wild-rift-v1.fantome",
+				"size": 9140294,
+				"sha256": "9e78f38386b9beea272ae6ba7538009fbec0bcfd7378fc31bf2736e6a5b5c2b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-aurora",
+			"name": "Gojo Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-aurora/thumb.webp?v=4014f074",
+			"file": {
+				"version": 1,
+				"asset": "gojo-aurora-v1.fantome",
+				"size": 24126842,
+				"sha256": "a4b4ef6b622bb793317be7b7bfbe873317516028f2c81c27fd05d6acb5d84f82"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-gwen",
+			"name": "Gojo Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-gwen/thumb.webp?v=558c06c4",
+			"file": {
+				"version": 1,
+				"asset": "gojo-gwen-v1.fantome",
+				"size": 10225966,
+				"sha256": "167bceb3a6477e5bd3d62d115d85df63c26200643e5f0c3c5a196fd077a24362"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-lulu",
+			"name": "Gojo Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-lulu/thumb.webp?v=46e41729",
+			"file": {
+				"version": 1,
+				"asset": "gojo-lulu-v1.fantome",
+				"size": 6549151,
+				"sha256": "1ddc4c5085f06fd6e4fb18bedc20e2b41540dd7630e7d33ccf25b905f42f6065"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-ryze",
+			"name": "Gojo Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-ryze/thumb.webp?v=2ed77025",
+			"file": {
+				"version": 1,
+				"asset": "gojo-ryze-v1.fantome",
+				"size": 13718293,
+				"sha256": "d675b3b9e6ea51e39ad07e42dbf58e168bb8f75c1b9a091aa8d1a8488cbc7359"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-satoru-smolder-ultimate-skin",
+			"name": "Gojo Satoru Smolder (ULTIMATE SKIN)",
+			"champion": 901,
+			"base": 0,
+			"creator": "megaomg",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-satoru-smolder-ultimate-skin/thumb.webp?v=c57247ef",
+			"file": {
+				"version": 1,
+				"asset": "gojo-satoru-smolder-ultimate-skin-v1.fantome",
+				"size": 13229139,
+				"sha256": "c66ac7b92b9ec605db3154c4501540cd3523e57a7c9774638bd7b4ec7dc99097"
 			},
 			"chromas": []
 		},
