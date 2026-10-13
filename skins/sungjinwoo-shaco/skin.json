@@ -1,0 +1,26 @@
+{
+	"id": "sungjinwoo-shaco",
+	"name": "Sungjinwoo Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Sungjinwoo Shaco\n\n### Features\n\n- **Full custom 3D model** inspired by Sung Jinwoo, the Shadow Monarch\n- **Custom abilities** with shadow-infused visuals and VFX\n- **Works across every Shaco skin**, giving maximum compatibility\n- **Custom voiceover** bringing Sung Jinwoo’s personality into League\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/sungjinwoo-shaco\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sungjinwoo-shaco/thumb.webp?v=acc7d884",
+	"file": {
+		"version": 1,
+		"asset": "sungjinwoo-shaco-v1.fantome",
+		"size": 27203780,
+		"sha256": "c3607966d2328f895e72518d857cebafae2e9fc9a0fe1db46cfe0d8df16dc490"
+	},
+	"chromas": []
+}

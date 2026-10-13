@@ -1,0 +1,26 @@
+{
+	"id": "sungjinwoo-zed",
+	"name": "SungJinWoo Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sungjinwoo-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sungjinwoo-zed/thumb.webp?v=4454570d",
+	"file": {
+		"version": 1,
+		"asset": "sungjinwoo-zed-v1.fantome",
+		"size": 16624052,
+		"sha256": "2f8309bdb40401c223a9d523d04494ec84bbff1cebc79e7533b2971ac60a82e0"
+	},
+	"chromas": []
+}

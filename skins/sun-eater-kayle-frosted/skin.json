@@ -1,0 +1,26 @@
+{
+	"id": "sun-eater-kayle-frosted",
+	"name": "Sun-Eater Kayle - Frosted",
+	"champion": 10,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Sun-Eater Kayle\n╰┈➤ _The idea for this mod was to give Kayle a chroma for Sun-Eater that would change the colors :3\n\n\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/sun-eater-kayle-frosted\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sun-eater-kayle-frosted/thumb.webp?v=9517a6f1",
+	"file": {
+		"version": 1,
+		"asset": "sun-eater-kayle-frosted-v1.fantome",
+		"size": 20814940,
+		"sha256": "cf544cfa68f3e7c513b8f9fafee306c324876c18f8eed719990017525d365d1d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "sungjinwoo-briar",
+	"name": "Sungjinwoo Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/sungjinwoo-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sungjinwoo-briar/thumb.webp?v=de4d1d4e",
+	"file": {
+		"version": 1,
+		"asset": "sungjinwoo-briar-v1.fantome",
+		"size": 14680835,
+		"sha256": "212bf9d0728b8f4affb82710188bcdf1647a0fab9e9514f197c9683dfa37ad63"
+	},
+	"chromas": []
+}

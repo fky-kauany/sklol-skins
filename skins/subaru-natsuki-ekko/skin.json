@@ -1,0 +1,26 @@
+{
+	"id": "subaru-natsuki-ekko",
+	"name": "Subaru Natsuki Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Subaru Natsuki Ekko\n\n### Features\n\n- **Custom Model:** Play as Subaru Natsuki, complete with his iconic orange and black tracksuit.\n- **Custom Abilities:** All of Ekko’s abilities have new VFX inspired by the world of *Re:Zero*.\n- **Custom Voice Over:** The skin includes a full voice pack, bringing Subaru's personality and key lines into the game!\n- **Universal Compatibility:** This mod works as a custom skin for every existing Ekko skin you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/subaru-natsuki-ekko\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/subaru-natsuki-ekko/thumb.webp?v=5ac3d660",
+	"file": {
+		"version": 1,
+		"asset": "subaru-natsuki-ekko-v1.fantome",
+		"size": 22270124,
+		"sha256": "e39875a9f38fdf1d2ffde93e3c177e5908358b5bc75714e0100a0a986f7b53fe"
+	},
+	"chromas": []
+}

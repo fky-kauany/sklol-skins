@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:27:04.286Z",
+	"generatedAt": "2026-10-13T06:30:22.280Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16747,6 +16747,266 @@
 				"asset": "stitch-gnar-v1.fantome",
 				"size": 14469848,
 				"sha256": "0faf65bb0e909ddc26377540037219d5738a937cfd04388834d1ea2a4eeea7c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "subaru-natsuki-ekko",
+			"name": "Subaru Natsuki Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/subaru-natsuki-ekko/thumb.webp?v=5ac3d660",
+			"file": {
+				"version": 1,
+				"asset": "subaru-natsuki-ekko-v1.fantome",
+				"size": 22270124,
+				"sha256": "e39875a9f38fdf1d2ffde93e3c177e5908358b5bc75714e0100a0a986f7b53fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sukuna-ryze",
+			"name": "Sukuna - Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sukuna-ryze/thumb.webp?v=950db124",
+			"file": {
+				"version": 1,
+				"asset": "sukuna-ryze-v1.fantome",
+				"size": 10291126,
+				"sha256": "e50ce68eede381ca3de204ddff1670abc78f9306151fdc495753ddadaa5c5941"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sukuna-sylas",
+			"name": "Sukuna Sylas",
+			"champion": 517,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sukuna-sylas/thumb.webp?v=52042347",
+			"file": {
+				"version": 1,
+				"asset": "sukuna-sylas-v1.fantome",
+				"size": 21745169,
+				"sha256": "8ee4019392220a895a179467e11de82a385705d9ca126bb15d0262347c19595c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sultan-draven",
+			"name": "Sultan Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sultan-draven/thumb.webp?v=d0b6a6bb",
+			"file": {
+				"version": 1,
+				"asset": "sultan-draven-v1.fantome",
+				"size": 4426303,
+				"sha256": "0d8b7377c0a45a85dad13ca43c66ced613c52ca9450ab892cf9fdd8d4f8b7de3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sun-eater-kayle-frosted",
+			"name": "Sun-Eater Kayle - Frosted",
+			"champion": 10,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sun-eater-kayle-frosted/thumb.webp?v=9517a6f1",
+			"file": {
+				"version": 1,
+				"asset": "sun-eater-kayle-frosted-v1.fantome",
+				"size": 20814940,
+				"sha256": "cf544cfa68f3e7c513b8f9fafee306c324876c18f8eed719990017525d365d1d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sungjinwoo-briar",
+			"name": "Sungjinwoo Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sungjinwoo-briar/thumb.webp?v=de4d1d4e",
+			"file": {
+				"version": 1,
+				"asset": "sungjinwoo-briar-v1.fantome",
+				"size": 14680835,
+				"sha256": "212bf9d0728b8f4affb82710188bcdf1647a0fab9e9514f197c9683dfa37ad63"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sungjinwoo-katarina",
+			"name": "Sungjinwoo Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sungjinwoo-katarina/thumb.webp?v=6d59ba4e",
+			"file": {
+				"version": 1,
+				"asset": "sungjinwoo-katarina-v1.fantome",
+				"size": 21997499,
+				"sha256": "715151bf0c743cb95117a9ce906cd08c0bfe955e6a959af416bc2cae28a94ebb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sungjinwoo-samira",
+			"name": "SungJinWoo Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sungjinwoo-samira/thumb.webp?v=a0033c8d",
+			"file": {
+				"version": 1,
+				"asset": "sungjinwoo-samira-v1.fantome",
+				"size": 10776837,
+				"sha256": "3637eef98e1a92fcc8483e508a9eb7c850b5a27333bdbe2d46bbcc5e0c68837c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sungjinwoo-shaco",
+			"name": "Sungjinwoo Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sungjinwoo-shaco/thumb.webp?v=acc7d884",
+			"file": {
+				"version": 1,
+				"asset": "sungjinwoo-shaco-v1.fantome",
+				"size": 27203780,
+				"sha256": "c3607966d2328f895e72518d857cebafae2e9fc9a0fe1db46cfe0d8df16dc490"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sungjinwoo-zed",
+			"name": "SungJinWoo Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sungjinwoo-zed/thumb.webp?v=4454570d",
+			"file": {
+				"version": 1,
+				"asset": "sungjinwoo-zed-v1.fantome",
+				"size": 16624052,
+				"sha256": "2f8309bdb40401c223a9d523d04494ec84bbff1cebc79e7533b2971ac60a82e0"
 			},
 			"chromas": []
 		},

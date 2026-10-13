@@ -1,0 +1,26 @@
+{
+	"id": "sukuna-sylas",
+	"name": "Sukuna Sylas",
+	"champion": 517,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Sukuna Sylas\n\n### Features\n\n- **Custom model**: Sylas redesigned with Sukuna’s markings, aura, and menacing presence\n- **Custom abilities**: Black-and-red cursed energy slams, mist dashes, and seal effects\n- Works seamlessly on Sylas with a full thematic re-imagining\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/sukuna-sylas\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sukuna-sylas/thumb.webp?v=52042347",
+	"file": {
+		"version": 1,
+		"asset": "sukuna-sylas-v1.fantome",
+		"size": 21745169,
+		"sha256": "8ee4019392220a895a179467e11de82a385705d9ca126bb15d0262347c19595c"
+	},
+	"chromas": []
+}

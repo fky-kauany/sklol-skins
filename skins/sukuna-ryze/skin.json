@@ -1,0 +1,26 @@
+{
+	"id": "sukuna-ryze",
+	"name": "Sukuna - Ryze",
+	"champion": 13,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/sukuna-ryze\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sukuna-ryze/thumb.webp?v=950db124",
+	"file": {
+		"version": 1,
+		"asset": "sukuna-ryze-v1.fantome",
+		"size": 10291126,
+		"sha256": "e50ce68eede381ca3de204ddff1670abc78f9306151fdc495753ddadaa5c5941"
+	},
+	"chromas": []
+}

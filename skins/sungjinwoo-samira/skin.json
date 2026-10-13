@@ -1,0 +1,26 @@
+{
+	"id": "sungjinwoo-samira",
+	"name": "SungJinWoo Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sungjinwoo-samira\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sungjinwoo-samira/thumb.webp?v=a0033c8d",
+	"file": {
+		"version": 1,
+		"asset": "sungjinwoo-samira-v1.fantome",
+		"size": 10776837,
+		"sha256": "3637eef98e1a92fcc8483e508a9eb7c850b5a27333bdbe2d46bbcc5e0c68837c"
+	},
+	"chromas": []
+}
