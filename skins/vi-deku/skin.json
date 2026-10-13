@@ -1,0 +1,26 @@
+{
+	"id": "vi-deku",
+	"name": "Vi Deku",
+	"champion": 254,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 IZUKU MIDORIYA 」\r\n### *Replaces Vi*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/vi-deku\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vi-deku/thumb.webp?v=d0b3c1a4",
+	"file": {
+		"version": 1,
+		"asset": "vi-deku-v1.fantome",
+		"size": 18188274,
+		"sha256": "8d33138da7ade1b80d674cf6a431d1e04ddc4a282a7cd9fffbac652f279f3da9"
+	},
+	"chromas": []
+}

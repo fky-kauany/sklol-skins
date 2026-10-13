@@ -1,0 +1,26 @@
+{
+	"id": "vel-koz-minecraft-ghast",
+	"name": "MINECRAFT Ghast",
+	"champion": 161,
+	"base": 0,
+	"creator": "arkera",
+	"description": "ENGLISH AND FRENCH DESCRIPTION scroll back ! :)\nEN : Hi! \n\nI'm thrilled to present my Vel'Koz skin, based on the **Minecraft Ghast !!**\n\nI spent between 40 and 60 hours fine-tuning every animation to make the skin smoother and more pleasing to the eye ! I hope you like it! \n\n### What's in the mod?\n\n- The Custom MINECRAFT skin (\n- Custom AOE and EVERY Icons in HUD\n- Custom recall, death, respawn.\n- Custom attack (1,2,3) crit and Q,W,E,R animations !\n- Custom CTRL + 1 AND CTRL + 3\n\nI will regularly publish updates and improvements, so feel free to download the latest version from the site!\nI used Trainguy's texture, but the 3D model, rigging, animations, and LoL adaptation were entirely made by me ! It take me a lot of time^^\n\n### In future versions, i'll add :\n\n- Custom Voices lines and SFX (I tried for several hours without success; if a modder happens to come across this and can help me...)\n\n- Create animations for CTRL + 2 and CTRL + 4 and tp animation\n\n- An animation for the Ghast's texture so its face moves, as well as the fireballs it can spit, just like in Minecraft !\n\n- Fixes bugs if apear ofc ! :D\n\n-----------------------------------------------------------------------\nFR : \nHeyy !\n\nJe suis ravi de vous présenter mon skin Vel'Koz, inspiré du **Ghast de Minecraft !!**\n\nJ'ai passé entre 40 et 60 heures à peaufiner chaque animation pour rendre le skin plus fluide et plus agréable à regarder ! J'espère qu'il vous plaira !\n\n### Que contient le mod ?\n\n- Le skin personnalisé MINECRAFT\n- Icônes personnalisées pour les zones d'effet (AOE) et toutes les icônes de l'interface (HUD)\n- Animations personnalisées pour le rappel, la mort et la réapparition\n- Attaques personnalisées (1, 2, 3), coup critique et animations des sorts A, Z, E, R\n- Animations personnalisées pour CTRL+1 et CTRL+3\n\nJe publierai régulièrement des mises à jour et des améliorations, alors n'hésitez pas à télécharger la dernière version sur le site !\n\n### Dans les prochaines versions, j'ajouterai :\n\n- Des répliques vocales et des effets sonores (SFX) personnalisés (j'ai essayé pendant plusieurs heures sans succès ; si un moddeur tombe sur ce message et peut m'aider...)\n\n- Des animations pour CTRL+2, CTRL+4 et la téléportation\n\n- Une animation pour la texture du Ghast afin que son visage bouge, ainsi que pour les boules de feu qu'il crache, exactement comme dans Minecraft !\n\n- Des corrections de bugs, si jamais il y en a ! :D\n\n---\n\n**Created by** [Arkera](https://www.divineskins.gg/Arkera)\n\n**Original:** https://www.divineskins.gg/Arkera/minecraft-ghast\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vel-koz-minecraft-ghast/thumb.webp?v=f17636f4",
+	"file": {
+		"version": 1,
+		"asset": "vel-koz-minecraft-ghast-v1.fantome",
+		"size": 8513214,
+		"sha256": "3b4146f74026ab00fa54e11d6af1bdc1e613b53897a5840913436858d3377dfd"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "vergil-master-yi",
+	"name": "Vergil Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### Vergil from DMC5 as Master Yi\nCommissioned by Roberto7297\nWant a commission?? DM me on Discord - zzzzzzz2930 (CZ in every server)\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/vergil-master-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vergil-master-yi/thumb.webp?v=73a16d71",
+	"file": {
+		"version": 1,
+		"asset": "vergil-master-yi-v1.fantome",
+		"size": 30709895,
+		"sha256": "5a52ee2fd0604842522d5d9e0df5d0ca7688f2edfc6329a65b8bbc38977fa870"
+	},
+	"chromas": []
+}

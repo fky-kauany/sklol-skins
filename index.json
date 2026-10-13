@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:13:03.972Z",
+	"generatedAt": "2026-10-13T07:16:22.026Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -515,6 +515,11 @@
 		"prinzz": {
 			"name": "Prinzz",
 			"avatar": "creators/prinzz.webp?v=7e2378fa",
+			"links": {}
+		},
+		"r-e-z-a": {
+			"name": "R_e_Z_a",
+			"avatar": "creators/r-e-z-a.webp?v=59b2a08d",
 			"links": {}
 		},
 		"rahabani": {
@@ -20322,6 +20327,263 @@
 				"asset": "vel-koz-choso-v1.fantome",
 				"size": 8039484,
 				"sha256": "f8351d77b91bc95943a1cfcab8214aad0968f1b20fd448d88f6d4662ad5e5020"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vel-koz-dark-star-velkoz",
+			"name": "Dark Star Velkoz",
+			"champion": 161,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vel-koz-dark-star-velkoz/thumb.webp?v=20c296d8",
+			"file": {
+				"version": 1,
+				"asset": "vel-koz-dark-star-velkoz-v1.fantome",
+				"size": 17544488,
+				"sha256": "41709068e01c5ec561c81a4261dfff5762a7b6a9c43bac2f0f243aa369d6fa69"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vel-koz-minecraft-ghast",
+			"name": "MINECRAFT Ghast",
+			"champion": 161,
+			"base": 0,
+			"creator": "arkera",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vel-koz-minecraft-ghast/thumb.webp?v=f17636f4",
+			"file": {
+				"version": 1,
+				"asset": "vel-koz-minecraft-ghast-v1.fantome",
+				"size": 8513214,
+				"sha256": "3b4146f74026ab00fa54e11d6af1bdc1e613b53897a5840913436858d3377dfd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vengeance-yone",
+			"name": "Vengeance Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "r-e-z-a",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vengeance-yone/thumb.webp?v=836342aa",
+			"file": {
+				"version": 1,
+				"asset": "vengeance-yone-v1.fantome",
+				"size": 8945259,
+				"sha256": "ea09c0d8df03e19eb4bae604f8a21e4c14e6f5099814551a4b2004aed9226734"
+			},
+			"chromas": []
+		},
+		{
+			"id": "verdant-warden-nightbringer-yasuo",
+			"name": "Verdant Warden | Nightbringer Yasuo",
+			"champion": 157,
+			"base": 9,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/verdant-warden-nightbringer-yasuo/thumb.webp?v=b54489cf",
+			"file": {
+				"version": 1,
+				"asset": "verdant-warden-nightbringer-yasuo-v1.fantome",
+				"size": 3011651,
+				"sha256": "41d2191f91c5dd4151c6e98bd4a8b231fab43d3b3449b81905861b49b44a0145"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vergil-master-yi",
+			"name": "Vergil Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vergil-master-yi/thumb.webp?v=73a16d71",
+			"file": {
+				"version": 1,
+				"asset": "vergil-master-yi-v1.fantome",
+				"size": 30709895,
+				"sha256": "5a52ee2fd0604842522d5d9e0df5d0ca7688f2edfc6329a65b8bbc38977fa870"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vergil-yasuo",
+			"name": "Vergil Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vergil-yasuo/thumb.webp?v=fb02c592",
+			"file": {
+				"version": 1,
+				"asset": "vergil-yasuo-v1.fantome",
+				"size": 17388159,
+				"sha256": "7b8b9897993d7005fe402222b3216dab507cb8e8236cd47d66bfaae2eeb2bb6f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vergil-yone-from-devil-may-cry-v",
+			"name": "Vergil Yone from Devil May Cry V",
+			"champion": 777,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vergil-yone-from-devil-may-cry-v/thumb.webp?v=d6adfae0",
+			"file": {
+				"version": 1,
+				"asset": "vergil-yone-from-devil-may-cry-v-v1.fantome",
+				"size": 38681086,
+				"sha256": "42f88ce8c1488cdd46c310a87a204bc5a9d37dd1bb730ce4b7a0cba094e2c964"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vex-minecraft",
+			"name": "Minecraft",
+			"champion": 711,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vex-minecraft/thumb.webp?v=29da0bed",
+			"file": {
+				"version": 1,
+				"asset": "vex-minecraft-v1.fantome",
+				"size": 9746604,
+				"sha256": "98597e3a3d95968203f21667169f818ffcf88e1034ff0ec03bc69dccff35d04b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vi-deku",
+			"name": "Vi Deku",
+			"champion": 254,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vi-deku/thumb.webp?v=d0b3c1a4",
+			"file": {
+				"version": 1,
+				"asset": "vi-deku-v1.fantome",
+				"size": 18188274,
+				"sha256": "8d33138da7ade1b80d674cf6a431d1e04ddc4a282a7cd9fffbac652f279f3da9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vi-shushu",
+			"name": "Vi Shushu",
+			"champion": 254,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vi-shushu/thumb.webp?v=cf787bb9",
+			"file": {
+				"version": 1,
+				"asset": "vi-shushu-v1.fantome",
+				"size": 27424454,
+				"sha256": "7abdefdd0fe3de307db4e6a804bcee7ba7af55ebcba6b03ec6d0d55ee6552bf4"
 			},
 			"chromas": []
 		},

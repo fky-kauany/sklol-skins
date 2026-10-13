@@ -1,0 +1,23 @@
+{
+	"id": "verdant-warden-nightbringer-yasuo",
+	"name": "Verdant Warden | Nightbringer Yasuo",
+	"champion": 157,
+	"base": 9,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Northoff from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/verdant-warden-nightbringer-yasuo\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/verdant-warden-nightbringer-yasuo/thumb.webp?v=b54489cf",
+	"file": {
+		"version": 1,
+		"asset": "verdant-warden-nightbringer-yasuo-v1.fantome",
+		"size": 3011651,
+		"sha256": "41d2191f91c5dd4151c6e98bd4a8b231fab43d3b3449b81905861b49b44a0145"
+	},
+	"chromas": []
+}

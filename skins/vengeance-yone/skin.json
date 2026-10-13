@@ -1,0 +1,26 @@
+{
+	"id": "vengeance-yone",
+	"name": "Vengeance Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "r-e-z-a",
+	"description": "Pure red Yone slay your foes with Vengeance:)\n\n---\n\n**Created by** [R_e_Z_a](https://www.divineskins.gg/R_e_Z_a)\n\n**Original:** https://www.divineskins.gg/R_e_Z_a/vengeance-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vengeance-yone/thumb.webp?v=836342aa",
+	"file": {
+		"version": 1,
+		"asset": "vengeance-yone-v1.fantome",
+		"size": 8945259,
+		"sha256": "ea09c0d8df03e19eb4bae604f8a21e4c14e6f5099814551a4b2004aed9226734"
+	},
+	"chromas": []
+}

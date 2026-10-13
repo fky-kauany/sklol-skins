@@ -1,0 +1,26 @@
+{
+	"id": "vergil-yasuo",
+	"name": "Vergil Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "> **COMMISION ME ON DISCORD OR IF ANYTHING BREAKS @CEEREL**\n\n\n\n\n\n **Huge thanks to ikiryou0311 for the judgement cut vfx:steamhappy:**\n\n\n\n\n\n\n### THIS MOD HAS\n*CHANGED VISUAL EFFECTS*\n*CUSTOM MODEL PLUS PHYSICS*\n*VOICEOVER*\n*CUSTOM ICONS*\n*MOTIVATION*\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/vergil-yasuo\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vergil-yasuo/thumb.webp?v=fb02c592",
+	"file": {
+		"version": 1,
+		"asset": "vergil-yasuo-v1.fantome",
+		"size": 17388159,
+		"sha256": "7b8b9897993d7005fe402222b3216dab507cb8e8236cd47d66bfaae2eeb2bb6f"
+	},
+	"chromas": []
+}
