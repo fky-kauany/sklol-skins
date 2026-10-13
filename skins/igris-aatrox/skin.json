@@ -1,0 +1,26 @@
+{
+	"id": "igris-aatrox",
+	"name": "Igris Aatrox",
+	"champion": 266,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Igris Aatrox (by Frog)\n\n### Features\n\n- Custom model inspired by Igris, Shadow Knight Commander\n- Crimson-and-black armor theme with glowing energy\n- Works seamlessly via **Celestial Launcher**\n- Made by **Frog**, one of the community’s standout creators\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/igris-aatrox\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/igris-aatrox/thumb.webp?v=a1b15adb",
+	"file": {
+		"version": 1,
+		"asset": "igris-aatrox-v1.fantome",
+		"size": 23831586,
+		"sha256": "88dca45a009d515f19b3fa1d269f64fa874142d3c8ded93ee33d40e53eb0780a"
+	},
+	"chromas": []
+}

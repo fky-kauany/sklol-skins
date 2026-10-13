@@ -1,0 +1,25 @@
+{
+	"id": "igris-riven",
+	"name": "Igris Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Igris Riven\n\n### Features\n\n- **Visual motif:** Obsidian armor plates with crimson core light; disciplined, readable VFX for trades and all-ins\n- **Ability treatment:** Custom Q/W/E/R visuals that emphasize clean arcs, tight shock rings, and a decisive ult bloom\n- **Compatibility:** Works on **every Riven skin**; install via **Celestial Launcher**; client-side only and designed for clarity\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/igris-riven\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/igris-riven/thumb.webp?v=d59d0e56",
+	"file": {
+		"version": 1,
+		"asset": "igris-riven-v1.fantome",
+		"size": 16873426,
+		"sha256": "e7049417501acc393f49055c7381b450b09316524641f36f2699231f150642cf"
+	},
+	"chromas": []
+}

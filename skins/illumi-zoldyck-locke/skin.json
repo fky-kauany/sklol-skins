@@ -1,0 +1,26 @@
+{
+	"id": "illumi-zoldyck-locke",
+	"name": "Illumi Zoldyck Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\n### DM IF YOU WANT TO COMMISSION (or if something breaks)\n#\n### Illumi Zoldyck from HunterXHunter \n\nWorks on: All skins\n\n(Might add VO and more stuff in future)\n\nDAKA la??????\n\n\nKAKA\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/illumi-zoldyck-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/illumi-zoldyck-locke/thumb.webp?v=8fc7c3db",
+	"file": {
+		"version": 1,
+		"asset": "illumi-zoldyck-locke-v1.fantome",
+		"size": 38502255,
+		"sha256": "c254806d7980188de5841fc3ebbc76c450d65495f9ee40ebbf41aaa237f5dc49"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "igris-irelia",
+	"name": "Igris Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/igris-irelia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/igris-irelia/thumb.webp?v=27eeae8e",
+	"file": {
+		"version": 1,
+		"asset": "igris-irelia-v1.fantome",
+		"size": 8708933,
+		"sha256": "53166172f5d2109052efa23e38a512e69fb3016ae235b636f0157a6488cc1272"
+	},
+	"chromas": []
+}

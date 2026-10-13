@@ -1,0 +1,26 @@
+{
+	"id": "igris-kled",
+	"name": "Igris-Kled",
+	"champion": 240,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/igris-kled\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/igris-kled/thumb.webp?v=f5173336",
+	"file": {
+		"version": 1,
+		"asset": "igris-kled-v1.fantome",
+		"size": 21753021,
+		"sha256": "69bd15f959e1ae1470fb2e40e846a89954abdf3e0cb4dcb85e404fb4ddce1673"
+	},
+	"chromas": []
+}

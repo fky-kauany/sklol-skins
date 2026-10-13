@@ -1,0 +1,26 @@
+{
+	"id": "incredible-gassy-gragas",
+	"name": "Incredible Gassy Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nThis mod replaces Gragas with Incredible Gassy. \r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces Base Gragas.\r\n\r\n#\r\n\r\n### ✨ Credits\r\n\r\n- Credits to konradosj (join [his Discord](https://discord.gg/AbJr22cCZG/ \"konradosj Super Server invite link\")!) and LxVer for creating the mod, I am only maintaining it\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko), [konradosj](https://www.divineskins.gg/konradosj)\n\n**Original:** https://www.divineskins.gg/Wiko/incredible-gassy-gragas\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/incredible-gassy-gragas/thumb.webp?v=c90d4afb",
+	"file": {
+		"version": 1,
+		"asset": "incredible-gassy-gragas-v1.fantome",
+		"size": 10993137,
+		"sha256": "7f9a93b1c409bbf67e30d0b421c12c94c7780c54b6949e48f92f2a05e91a86ea"
+	},
+	"chromas": []
+}

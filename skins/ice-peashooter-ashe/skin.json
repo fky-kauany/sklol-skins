@@ -1,0 +1,26 @@
+{
+	"id": "ice-peashooter-ashe",
+	"name": "Ice Peashooter Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/ice-peashooter-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ice-peashooter-ashe/thumb.webp?v=f8f04ee4",
+	"file": {
+		"version": 1,
+		"asset": "ice-peashooter-ashe-v1.fantome",
+		"size": 1621637,
+		"sha256": "f49aa0d414d38e0ce875c8ddca95933647d67275ea05de7aecaa9f1939ded56a"
+	},
+	"chromas": []
+}

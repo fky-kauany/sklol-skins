@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:28:03.780Z",
+	"generatedAt": "2026-10-13T03:31:21.443Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -2814,6 +2814,261 @@
 				"asset": "hyacine-lux-v1.fantome",
 				"size": 18683910,
 				"sha256": "2820e5b63fca869e9052f3ebb08f01c60a4ff564a3cc78c7a523cb708fd9e1d7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ice-peashooter-ashe",
+			"name": "Ice Peashooter Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ice-peashooter-ashe/thumb.webp?v=f8f04ee4",
+			"file": {
+				"version": 1,
+				"asset": "ice-peashooter-ashe-v1.fantome",
+				"size": 1621637,
+				"sha256": "f49aa0d414d38e0ce875c8ddca95933647d67275ea05de7aecaa9f1939ded56a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ichigo-master-yi",
+			"name": "Ichigo Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ichigo-master-yi/thumb.webp?v=c0a1d21f",
+			"file": {
+				"version": 1,
+				"asset": "ichigo-master-yi-v1.fantome",
+				"size": 10800803,
+				"sha256": "d0b180b734271d53469bd801fc8381ceace88d76f629867118472b1001381ad0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "igris-aatrox",
+			"name": "Igris Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/igris-aatrox/thumb.webp?v=a1b15adb",
+			"file": {
+				"version": 1,
+				"asset": "igris-aatrox-v1.fantome",
+				"size": 23831586,
+				"sha256": "88dca45a009d515f19b3fa1d269f64fa874142d3c8ded93ee33d40e53eb0780a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "igris-irelia",
+			"name": "Igris Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/igris-irelia/thumb.webp?v=27eeae8e",
+			"file": {
+				"version": 1,
+				"asset": "igris-irelia-v1.fantome",
+				"size": 8708933,
+				"sha256": "53166172f5d2109052efa23e38a512e69fb3016ae235b636f0157a6488cc1272"
+			},
+			"chromas": []
+		},
+		{
+			"id": "igris-kled",
+			"name": "Igris-Kled",
+			"champion": 240,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/igris-kled/thumb.webp?v=f5173336",
+			"file": {
+				"version": 1,
+				"asset": "igris-kled-v1.fantome",
+				"size": 21753021,
+				"sha256": "69bd15f959e1ae1470fb2e40e846a89954abdf3e0cb4dcb85e404fb4ddce1673"
+			},
+			"chromas": []
+		},
+		{
+			"id": "igris-riven",
+			"name": "Igris Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/igris-riven/thumb.webp?v=d59d0e56",
+			"file": {
+				"version": 1,
+				"asset": "igris-riven-v1.fantome",
+				"size": 16873426,
+				"sha256": "e7049417501acc393f49055c7381b450b09316524641f36f2699231f150642cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "igris-trundle",
+			"name": "Igris Trundle",
+			"champion": 48,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/igris-trundle/thumb.webp?v=57519d91",
+			"file": {
+				"version": 1,
+				"asset": "igris-trundle-v1.fantome",
+				"size": 23100570,
+				"sha256": "a23977f9265f5dd002627d363d6856d2f5d0e79a521ad3b44c423504de5ddd4a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "illumi-zoldyck-locke",
+			"name": "Illumi Zoldyck Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/illumi-zoldyck-locke/thumb.webp?v=8fc7c3db",
+			"file": {
+				"version": 1,
+				"asset": "illumi-zoldyck-locke-v1.fantome",
+				"size": 38502255,
+				"sha256": "c254806d7980188de5841fc3ebbc76c450d65495f9ee40ebbf41aaa237f5dc49"
+			},
+			"chromas": []
+		},
+		{
+			"id": "incredible-gassy-gragas",
+			"name": "Incredible Gassy Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/incredible-gassy-gragas/thumb.webp?v=c90d4afb",
+			"file": {
+				"version": 1,
+				"asset": "incredible-gassy-gragas-v1.fantome",
+				"size": 10993137,
+				"sha256": "7f9a93b1c409bbf67e30d0b421c12c94c7780c54b6949e48f92f2a05e91a86ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "incredible-gassy-singed",
+			"name": "Incredible Gassy Singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/incredible-gassy-singed/thumb.webp?v=e6d48cef",
+			"file": {
+				"version": 1,
+				"asset": "incredible-gassy-singed-v1.fantome",
+				"size": 2495005,
+				"sha256": "0ed66ebf377fb0cc91ae14ac83e562a3f405ce545ef6117fa16802fc99856ada"
 			},
 			"chromas": []
 		},

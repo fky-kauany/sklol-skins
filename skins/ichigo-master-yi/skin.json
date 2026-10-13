@@ -1,0 +1,26 @@
+{
+	"id": "ichigo-master-yi",
+	"name": "Ichigo Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Ichigo Master Yi\n\n### Features\n\n- **Custom model:** Master Yi fully reimagined as Ichigo Kurosaki\n- **Custom abilities:** Blade-inspired VFX and animations true to Bleach’s combat style\n- **Custom voiceover:** Ichigo’s iconic voice lines woven into gameplay\n- **Ultimate transformation:** *Final Getsuga Tensho* as Yi’s R, delivering Bleach-level spectacle\n- **Universal compatibility:** Works with **all Master Yi skins** for maximum flexibility\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/ichigo-master-yi\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ichigo-master-yi/thumb.webp?v=c0a1d21f",
+	"file": {
+		"version": 1,
+		"asset": "ichigo-master-yi-v1.fantome",
+		"size": 10800803,
+		"sha256": "d0b180b734271d53469bd801fc8381ceace88d76f629867118472b1001381ad0"
+	},
+	"chromas": []
+}

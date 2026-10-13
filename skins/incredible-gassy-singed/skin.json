@@ -1,0 +1,24 @@
+{
+	"id": "incredible-gassy-singed",
+	"name": "Incredible Gassy Singed",
+	"champion": 27,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nThis mod replaces Singed with Incredible Gassy. It's just getting started!\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces Base Singed.\r\n\r\n#\r\n\r\n### ✨ Credits\r\n\r\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for creating the mod, I am only maintaining it\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/incredible-gassy-singed\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/incredible-gassy-singed/thumb.webp?v=e6d48cef",
+	"file": {
+		"version": 1,
+		"asset": "incredible-gassy-singed-v1.fantome",
+		"size": 2495005,
+		"sha256": "0ed66ebf377fb0cc91ae14ac83e562a3f405ce545ef6117fa16802fc99856ada"
+	},
+	"chromas": []
+}
