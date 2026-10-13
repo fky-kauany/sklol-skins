@@ -1,0 +1,26 @@
+{
+	"id": "life-wizard-soraka",
+	"name": "Life Wizard Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Wizard101)\n- Custom Icons\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nShrimpBack - Video Spotlight\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/life-wizard-soraka\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/life-wizard-soraka/thumb.webp?v=85634287",
+	"file": {
+		"version": 1,
+		"asset": "life-wizard-soraka-v1.fantome",
+		"size": 16862102,
+		"sha256": "7879b5497415159ed5d29f82588fe87ef2c95544df1feb04a095fec4d25e48a6"
+	},
+	"chromas": []
+}

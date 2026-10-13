@@ -1,0 +1,26 @@
+{
+	"id": "link-leona",
+	"name": "Link Leona",
+	"champion": 89,
+	"base": 0,
+	"creator": "frog",
+	"description": "Copyright & Legal Disclaimer\nThis modification is free to use and is a fan-made creation. All rights to the characters, names, and original concepts belong to Nintendo. This mod is not affiliated with or endorsed by Nintendo.\n\nFan-made, not affiliated with Riot Games, Nintendo or any other company.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/link-leona\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/link-leona/thumb.webp?v=4f67b83d",
+	"file": {
+		"version": 1,
+		"asset": "link-leona-v1.fantome",
+		"size": 35015962,
+		"sha256": "c46ed4a1adb6b70542efcaa51ac1205e7edf70253569db2d9c0d3989106a6612"
+	},
+	"chromas": []
+}

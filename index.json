@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:21:11.088Z",
+	"generatedAt": "2026-10-13T04:24:26.964Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -6927,6 +6927,265 @@
 				"asset": "legion-naval-commander-gangplank-v1.fantome",
 				"size": 36216117,
 				"sha256": "b4642a49b1667ae7951f284aa8843a63a57a43145a6c3a1400eba15c55b8ada0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leon-talon",
+			"name": "Leon Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/leon-talon/thumb.webp?v=f6fa0de4",
+			"file": {
+				"version": 1,
+				"asset": "leon-talon-v1.fantome",
+				"size": 4618071,
+				"sha256": "46a9ec8ef51ae3b4cb15ecdea88220360348be96502991a3b2a3d4604e5c9cdd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leon-vayne",
+			"name": "Leon vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/leon-vayne/thumb.webp?v=663d4081",
+			"file": {
+				"version": 1,
+				"asset": "leon-vayne-v1.fantome",
+				"size": 9193608,
+				"sha256": "c359be0fd039460028d9e8aa792c3a0911c54118d2c6414ca9198901ea4f96dd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leona-thor",
+			"name": "Leona Thor",
+			"champion": 89,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/leona-thor/thumb.webp?v=18d397a4",
+			"file": {
+				"version": 1,
+				"asset": "leona-thor-v1.fantome",
+				"size": 24908533,
+				"sha256": "ba1c2b54e6d7ceead3a8ae0991db283d966a6edfa32f58edce963c499a08357a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lich-queen-leblanc",
+			"name": "Lich Queen - LeBlanc",
+			"champion": 7,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lich-queen-leblanc/thumb.webp?v=075c1899",
+			"file": {
+				"version": 1,
+				"asset": "lich-queen-leblanc-v1.fantome",
+				"size": 11916726,
+				"sha256": "e39ad2344ca997de69f81f9de8fffec444f309bbde6aad706dd4afc170cb704d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "life-wizard-soraka",
+			"name": "Life Wizard Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/life-wizard-soraka/thumb.webp?v=85634287",
+			"file": {
+				"version": 1,
+				"asset": "life-wizard-soraka-v1.fantome",
+				"size": 16862102,
+				"sha256": "7879b5497415159ed5d29f82588fe87ef2c95544df1feb04a095fec4d25e48a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lil-peep-kassadin",
+			"name": "Lil Peep Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lil-peep-kassadin/thumb.webp?v=9dd589b9",
+			"file": {
+				"version": 1,
+				"asset": "lil-peep-kassadin-v1.fantome",
+				"size": 10735826,
+				"sha256": "ecf8154ebf702a1e5e569204184d68ba45970a552cdabae1901c66d788ff6590"
+			},
+			"chromas": []
+		},
+		{
+			"id": "link-ekko",
+			"name": "Link Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/link-ekko/thumb.webp?v=83428ecd",
+			"file": {
+				"version": 1,
+				"asset": "link-ekko-v1.fantome",
+				"size": 12382531,
+				"sha256": "bd7005b9552eb3cc7d95d3e644b6895e4bb56b470d87f19549c628dce67694de"
+			},
+			"chromas": []
+		},
+		{
+			"id": "link-leona",
+			"name": "Link Leona",
+			"champion": 89,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/link-leona/thumb.webp?v=4f67b83d",
+			"file": {
+				"version": 1,
+				"asset": "link-leona-v1.fantome",
+				"size": 35015962,
+				"sha256": "c46ed4a1adb6b70542efcaa51ac1205e7edf70253569db2d9c0d3989106a6612"
+			},
+			"chromas": []
+		},
+		{
+			"id": "link-viego",
+			"name": "Link Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/link-viego/thumb.webp?v=f87b0b2d",
+			"file": {
+				"version": 1,
+				"asset": "link-viego-v1.fantome",
+				"size": 33883611,
+				"sha256": "1fcb28b98d40225ecd09307d32377a2d0a60e0b76c009eab2c28d04df3f4f852"
+			},
+			"chromas": []
+		},
+		{
+			"id": "little-mac-lee-sin",
+			"name": "little mac lee sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/little-mac-lee-sin/thumb.webp?v=c790dcd0",
+			"file": {
+				"version": 1,
+				"asset": "little-mac-lee-sin-v1.fantome",
+				"size": 1847764,
+				"sha256": "391ae90202c75fdc93c0bd07c763d30d6b3b91f4f2ca44c21e22497ead482d93"
 			},
 			"chromas": []
 		},

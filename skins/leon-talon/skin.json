@@ -1,0 +1,26 @@
+{
+	"id": "leon-talon",
+	"name": "Leon Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "daka",
+	"description": "# Overview\n\nThis mod is distributed as `.modpkg` which contains all skins of Leon as well.\n\n## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Brawl Stars)\n- Custom Icons\n- Custom VO/sfx\n\n### How to activate other skins\n\n- When you install the skin on Celestial, click on the layers icon and select the skin you want to play with, otherwise you play with default Leon.\n- Only 1 works at a time!\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/leon-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/leon-talon/thumb.webp?v=f6fa0de4",
+	"file": {
+		"version": 1,
+		"asset": "leon-talon-v1.fantome",
+		"size": 4618071,
+		"sha256": "46a9ec8ef51ae3b4cb15ecdea88220360348be96502991a3b2a3d4604e5c9cdd"
+	},
+	"chromas": []
+}

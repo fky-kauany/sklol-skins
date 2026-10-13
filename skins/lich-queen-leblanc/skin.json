@@ -1,0 +1,26 @@
+{
+	"id": "lich-queen-leblanc",
+	"name": "Lich Queen - LeBlanc",
+	"champion": 7,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# ❄️ LICH QUEEN - LEBLANC 🪦\n* * *\nUndead ice mage skin for base LeBlanc\n## Featuring:\n- New highly detailed model\n- recolored VFX\n- New HUD and loading art\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/lich-queen-leblanc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lich-queen-leblanc/thumb.webp?v=075c1899",
+	"file": {
+		"version": 1,
+		"asset": "lich-queen-leblanc-v1.fantome",
+		"size": 11916726,
+		"sha256": "e39ad2344ca997de69f81f9de8fffec444f309bbde6aad706dd4afc170cb704d"
+	},
+	"chromas": []
+}

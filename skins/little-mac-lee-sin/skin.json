@@ -1,0 +1,25 @@
+{
+	"id": "little-mac-lee-sin",
+	"name": "little mac lee sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"i'm proud of you mac\"\n\n***\n\n**Modified champion: Leesin**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model from:** [Centrixe the Dodo](https://www.models-resource.com/nintendo_switch/supersmashbrosultimate/model/31247/)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/little-mac-lee-sin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/little-mac-lee-sin/thumb.webp?v=c790dcd0",
+	"file": {
+		"version": 1,
+		"asset": "little-mac-lee-sin-v1.fantome",
+		"size": 1847764,
+		"sha256": "391ae90202c75fdc93c0bd07c763d30d6b3b91f4f2ca44c21e22497ead482d93"
+	},
+	"chromas": []
+}

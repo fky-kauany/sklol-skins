@@ -1,0 +1,26 @@
+{
+	"id": "leona-thor",
+	"name": "Leona Thor",
+	"champion": 89,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 THOR 」\n### *Replaces Leona*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Animations**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/leona-thor\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/leona-thor/thumb.webp?v=18d397a4",
+	"file": {
+		"version": 1,
+		"asset": "leona-thor-v1.fantome",
+		"size": 24908533,
+		"sha256": "ba1c2b54e6d7ceead3a8ae0991db283d966a6edfa32f58edce963c499a08357a"
+	},
+	"chromas": []
+}

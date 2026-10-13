@@ -1,0 +1,26 @@
+{
+	"id": "leon-vayne",
+	"name": "Leon vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "Slop mod of the day\nCOMMISION ME ON DISCORD FOR MORE @ceerel(or a re9 version blehhuh)\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/leon-vayne\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/leon-vayne/thumb.webp?v=663d4081",
+	"file": {
+		"version": 1,
+		"asset": "leon-vayne-v1.fantome",
+		"size": 9193608,
+		"sha256": "c359be0fd039460028d9e8aa792c3a0911c54118d2c6414ca9198901ea4f96dd"
+	},
+	"chromas": []
+}

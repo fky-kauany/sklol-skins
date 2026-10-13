@@ -1,0 +1,26 @@
+{
+	"id": "lil-peep-kassadin",
+	"name": "Lil Peep Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:**  etc.\n**Modified Skin(s):** All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n\n### ? Credits\n\n**Model(s):**\n**Special Thanks:**\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n\n### ? Support Me\n\nEnjoyed the mod? Help fuel future projects: [Donate](#)\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/lil-peep-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lil-peep-kassadin/thumb.webp?v=9dd589b9",
+	"file": {
+		"version": 1,
+		"asset": "lil-peep-kassadin-v1.fantome",
+		"size": 10735826,
+		"sha256": "ecf8154ebf702a1e5e569204184d68ba45970a552cdabae1901c66d788ff6590"
+	},
+	"chromas": []
+}

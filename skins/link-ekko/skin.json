@@ -1,0 +1,26 @@
+{
+	"id": "link-ekko",
+	"name": "Link Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "### 📌 Mod Info\n**Type:** Custom Skin\n**Modified Skin(s):** All skins\n\n**Features:**\n- Custom model\n- Custom VFX\n- Custom SFX\n- Custom Animations\n\n\n\n**Commissioned by:** [Yowplays](https://www.twitch.tv/yowplays)\n\n\n\n*Fan-made, not affiliated with Riot Games, Nintendo or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/link-ekko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/link-ekko/thumb.webp?v=83428ecd",
+	"file": {
+		"version": 1,
+		"asset": "link-ekko-v1.fantome",
+		"size": 12382531,
+		"sha256": "bd7005b9552eb3cc7d95d3e644b6895e4bb56b470d87f19549c628dce67694de"
+	},
+	"chromas": []
+}
