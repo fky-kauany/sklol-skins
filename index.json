@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:13:33.035Z",
+	"generatedAt": "2026-10-13T06:16:58.302Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -15704,6 +15704,266 @@
 				"asset": "smolder-kaisel-v1.fantome",
 				"size": 13353375,
 				"sha256": "ef76a94e23b69f2b84d0f29e1cd40ae617b94905be7b61bdd247017510d56e52"
+			},
+			"chromas": []
+		},
+		{
+			"id": "snake-akshan",
+			"name": "Snake Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/snake-akshan/thumb.webp?v=fcc392aa",
+			"file": {
+				"version": 1,
+				"asset": "snake-akshan-v1.fantome",
+				"size": 17704836,
+				"sha256": "1b3d7365ab94aec05ec5d588f1fda0b275e95997d50ba5b3ce7496d48d3d7aa9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "snek-cassiopeia",
+			"name": "Snek Cassiopeia",
+			"champion": 69,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/snek-cassiopeia/thumb.webp?v=08c68a5a",
+			"file": {
+				"version": 1,
+				"asset": "snek-cassiopeia-v1.fantome",
+				"size": 10492591,
+				"sha256": "3e7d2f4ef6c65c5263ea59dc1d3c610fcd0cddfe620d568173f8ac79a5adb6f5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sniper-varus",
+			"name": "Sniper Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sniper-varus/thumb.webp?v=bd1b737f",
+			"file": {
+				"version": 1,
+				"asset": "sniper-varus-v1.fantome",
+				"size": 11289845,
+				"sha256": "76b6d40e796300644bdaea2df1af7c796f8a0738c4a37914eabe953d65a7dce8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "snorlax-gragas",
+			"name": "Snorlax Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/snorlax-gragas/thumb.webp?v=0ff576cf",
+			"file": {
+				"version": 1,
+				"asset": "snorlax-gragas-v1.fantome",
+				"size": 8542975,
+				"sha256": "4ace0a6f3bfc0407727546a413d47552ae6bb0ce93e8adcc98ef870f04adad58"
+			},
+			"chromas": []
+		},
+		{
+			"id": "snow-moon-cassiopeia",
+			"name": "Snow Moon Cassiopeia",
+			"champion": 69,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/snow-moon-cassiopeia/thumb.webp?v=f0cb2113",
+			"file": {
+				"version": 1,
+				"asset": "snow-moon-cassiopeia-v1.fantome",
+				"size": 11687898,
+				"sha256": "4cb1d243639e673a4d5751ba5f128b79cf11fdde955c7417f33bf04e816a3362"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soi-fon-katarina",
+			"name": "Soi Fon Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/soi-fon-katarina/thumb.webp?v=18f5368f",
+			"file": {
+				"version": 1,
+				"asset": "soi-fon-katarina-v1.fantome",
+				"size": 34900014,
+				"sha256": "a9135d5dd7d78296f2f09847f8b53609a359715110f97f8e807f2fe69cf142ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soldier-boy-sett",
+			"name": "Soldier Boy Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/soldier-boy-sett/thumb.webp?v=67a784c6",
+			"file": {
+				"version": 1,
+				"asset": "soldier-boy-sett-v1.fantome",
+				"size": 17557412,
+				"sha256": "42469e0d63d3e5f55df16f8265fe3d0852f6cad81b4ae6781ddfc449ce8d6d3d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sora-master-yi",
+			"name": "Sora Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sora-master-yi/thumb.webp?v=0d07966a",
+			"file": {
+				"version": 1,
+				"asset": "sora-master-yi-v1.fantome",
+				"size": 30219453,
+				"sha256": "7cfd10b3caa92a71a518d0108eb40adbf84d5141c209b259a0deeecd2935db50"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soraka-cecilia",
+			"name": "Soraka Cecilia",
+			"champion": 16,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/soraka-cecilia/thumb.webp?v=d134f3a1",
+			"file": {
+				"version": 1,
+				"asset": "soraka-cecilia-v1.fantome",
+				"size": 5621840,
+				"sha256": "90c0736429d4e4ec5c2a09d4a4128fc4eed3eb79d526916225e4d47357ebe6bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soraka-kei",
+			"name": "Soraka Kei",
+			"champion": 16,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/soraka-kei/thumb.webp?v=bda240c7",
+			"file": {
+				"version": 1,
+				"asset": "soraka-kei-v1.fantome",
+				"size": 52033464,
+				"sha256": "1195dff88a754c4a72c3d601f58ef3496c6011ad6c457ea482b8cb11235acc99"
 			},
 			"chromas": []
 		},

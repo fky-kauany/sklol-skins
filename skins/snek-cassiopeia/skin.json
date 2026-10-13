@@ -1,0 +1,26 @@
+{
+	"id": "snek-cassiopeia",
+	"name": "Snek Cassiopeia",
+	"champion": 69,
+	"base": 0,
+	"creator": "disco",
+	"description": "Snek from TFT as Cassiopeia\nTo change variant use layer\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/snek-cassiopeia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/snek-cassiopeia/thumb.webp?v=08c68a5a",
+	"file": {
+		"version": 1,
+		"asset": "snek-cassiopeia-v1.fantome",
+		"size": 10492591,
+		"sha256": "3e7d2f4ef6c65c5263ea59dc1d3c610fcd0cddfe620d568173f8ac79a5adb6f5"
+	},
+	"chromas": []
+}

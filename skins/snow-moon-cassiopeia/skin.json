@@ -1,0 +1,26 @@
+{
+	"id": "snow-moon-cassiopeia",
+	"name": "Snow Moon Cassiopeia",
+	"champion": 69,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/snow-moon-cassiopeia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/snow-moon-cassiopeia/thumb.webp?v=f0cb2113",
+	"file": {
+		"version": 1,
+		"asset": "snow-moon-cassiopeia-v1.fantome",
+		"size": 11687898,
+		"sha256": "4cb1d243639e673a4d5751ba5f128b79cf11fdde955c7417f33bf04e816a3362"
+	},
+	"chromas": []
+}

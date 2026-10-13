@@ -1,0 +1,26 @@
+{
+	"id": "soi-fon-katarina",
+	"name": "Soi Fon Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/soi-fon-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/soi-fon-katarina/thumb.webp?v=18f5368f",
+	"file": {
+		"version": 1,
+		"asset": "soi-fon-katarina-v1.fantome",
+		"size": 34900014,
+		"sha256": "a9135d5dd7d78296f2f09847f8b53609a359715110f97f8e807f2fe69cf142ce"
+	},
+	"chromas": []
+}

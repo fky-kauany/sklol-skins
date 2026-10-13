@@ -1,0 +1,26 @@
+{
+	"id": "sora-master-yi",
+	"name": "Sora Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "### ? Mod Info\n\n**Type:** Custom Skin\n**Modified Skin(s):** All skins except Legendary-tier and above.\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/sora-master-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sora-master-yi/thumb.webp?v=0d07966a",
+	"file": {
+		"version": 1,
+		"asset": "sora-master-yi-v1.fantome",
+		"size": 30219453,
+		"sha256": "7cfd10b3caa92a71a518d0108eb40adbf84d5141c209b259a0deeecd2935db50"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "snake-akshan",
+	"name": "Snake Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Akshan with Snake/Big Boss from Metal Gear Solid.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces the Base Akshan skin.\n\n#\n\n### ✨ Features\n\n* New model and textures\n* New voiceover\n* New visual effects\n* New sound effects\n\n#\n\n### ✨ Credits\n\n- Credits to Konradosj (join [his Discord](https://discord.gg/AbJr22cCZG/ \"konradosj Super Server invite link\")!) for the original rig \n\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for the voiceover\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko), [konradosj](https://www.divineskins.gg/konradosj)\n\n**Original:** https://www.divineskins.gg/Wiko/snake-akshan\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/snake-akshan/thumb.webp?v=fcc392aa",
+	"file": {
+		"version": 1,
+		"asset": "snake-akshan-v1.fantome",
+		"size": 17704836,
+		"sha256": "1b3d7365ab94aec05ec5d588f1fda0b275e95997d50ba5b3ce7496d48d3d7aa9"
+	},
+	"chromas": []
+}

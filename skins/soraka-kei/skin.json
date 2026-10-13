@@ -1,0 +1,26 @@
+{
+	"id": "soraka-kei",
+	"name": "Soraka Kei",
+	"champion": 16,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KEI KARUIZAWA 」\n### *Replaces Soraka*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/soraka-kei\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/soraka-kei/thumb.webp?v=bda240c7",
+	"file": {
+		"version": 1,
+		"asset": "soraka-kei-v1.fantome",
+		"size": 52033464,
+		"sha256": "1195dff88a754c4a72c3d601f58ef3496c6011ad6c457ea482b8cb11235acc99"
+	},
+	"chromas": []
+}

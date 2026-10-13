@@ -1,0 +1,26 @@
+{
+	"id": "snorlax-gragas",
+	"name": "Snorlax Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "nyht",
+	"description": "# 😴 Gragas → Snorlax Mod\n\n### Champion\n**Gragas**\n\n### Skin Replace\n**Base Skin**\n\n---\n\n# ✨ Unique Feature\n\n🌀 **Toggle Emote (Ctrl + 5)**  \nSnorlax will **cosplay as Gragas**.\n\n⭐ **Special Mechanic**\n\nAt the start of each game, there is a **1% chance to spawn as a shiny variant.**\n\n---\n\n# 💥 Custom VFX\n\n- Ability Effects\n\n---\n\n# 🎬 Custom Animations\n\n- Idle  \n- Attack  \n- Ability Animations  \n- Recall  \n- Emotes  \n- Death  \n- Respawn  \n\n---\n\n# 🔊 Custom SFX\n\n- Recall  \n- Abilities  \n- Emotes  \n- Respawn  \n\n---\n\n# 🧩 Custom Models & Textures\n\nModels sourced from multiple Pokémon and League assets.\n\n- **Snorlax model** — Pokémon X and Y  \n- **Voltorb model** — Pokémon X and Y  \n- **Gragas assets model** — Wild Rift  \n\n---\n\n# 🎵 Music\n\n🎧 **Recall Music**  \nRefi Sleep Music –  \n[Pokémon Center Theme | Slow & Peaceful Sleep Music](https://www.youtube.com/watch?v=juZ6U3-hM0o)\n\n---\n\n# 🙏 Credits\n\n**Mod Creator**  \n⭐ Nyht Seven\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/snorlax-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/snorlax-gragas/thumb.webp?v=0ff576cf",
+	"file": {
+		"version": 1,
+		"asset": "snorlax-gragas-v1.fantome",
+		"size": 8542975,
+		"sha256": "4ace0a6f3bfc0407727546a413d47552ae6bb0ce93e8adcc98ef870f04adad58"
+	},
+	"chromas": []
+}

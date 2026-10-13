@@ -1,0 +1,26 @@
+{
+	"id": "sniper-varus",
+	"name": "Sniper Varus",
+	"champion": 110,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nThis mod turns Varus into Sniper from TF2.\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces the Base and T1 Varus skins.\r\n\r\n#\r\n\r\n### ✨ Features\r\n\r\n* New model and textures\r\n* New visual effects\r\n* New voiceover \r\n* New sound effects\r\n* New  loadingscreen and in-game icons\r\n\r\n#\r\n\r\nThis mod was made as a commission. If you'd like to commission me, you can check my portfolio at the [Runeforge Discord](https://discord.gg/runeforge \"runeforge epic discord\") or the [Divine Skins Discord](https://discord.gg/divineskins \"divini discordini\")! You can also support me through [my Ko-fi page](https://ko-fi.com/wiko2303).\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/sniper-varus\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sniper-varus/thumb.webp?v=bd1b737f",
+	"file": {
+		"version": 1,
+		"asset": "sniper-varus-v1.fantome",
+		"size": 11289845,
+		"sha256": "76b6d40e796300644bdaea2df1af7c796f8a0738c4a37914eabe953d65a7dce8"
+	},
+	"chromas": []
+}
