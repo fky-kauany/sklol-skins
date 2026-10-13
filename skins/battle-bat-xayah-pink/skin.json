@@ -1,0 +1,26 @@
+{
+	"id": "battle-bat-xayah-pink",
+	"name": "Battle Bat Xayah - Pink",
+	"champion": 498,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Battle Bat Xayah\n╰┈➤ _The idea for this mod was to give Xayah a chroma that, honestly was just for me but it's fire as fuck so here haha, remade from a very very old version i created back on runeforge_\n\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/battle-bat-xayah-pink\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/battle-bat-xayah-pink/thumb.webp?v=abf55b3c",
+	"file": {
+		"version": 1,
+		"asset": "battle-bat-xayah-pink-v1.fantome",
+		"size": 22981828,
+		"sha256": "9c1e5d3410fe24d8244e7f61144880ecb022ed661bca990e4771ee752c76448f"
+	},
+	"chromas": []
+}

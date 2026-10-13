@@ -1,0 +1,26 @@
+{
+	"id": "batman-rengar-rebirth",
+	"name": "Batman Rengar [Rebirth]",
+	"champion": 107,
+	"base": 0,
+	"creator": "backstab",
+	"description": "+ Bringing back some of Rengar's OG custom skins, from S2-S6 era. Based on [Old Rengar Rebirth](https://divineskins.gg/BACKSTAB/old-rengar-rebirth).\r\n\r\n### SKIN INFORMATION\r\n+ Champion: Rengar\r\n+ Modified skin: Base\r\n+ Author: Mundonator\r\n+ Description: Restored with Rengar's old Season 6 assets (SFX, VFX and Animations).\r\n\r\n### DISCLAIMER \r\n+ I'm not the original author of this skin. If any of the authors have a problem with me posting their skin feel free to message me on Twitter and I'll take it down.\n\n---\n\n**Created by** [BACKSTAB](https://www.divineskins.gg/BACKSTAB)\n\n**Original:** https://www.divineskins.gg/BACKSTAB/batman-rengar-rebirth\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/batman-rengar-rebirth/thumb.webp?v=47379705",
+	"file": {
+		"version": 1,
+		"asset": "batman-rengar-rebirth-v1.fantome",
+		"size": 6604796,
+		"sha256": "a4650983897db38a4a4513afbcf18ab6af206d1a07b785df43b7eb3756c1d47a"
+	},
+	"chromas": []
+}

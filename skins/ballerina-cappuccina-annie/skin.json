@@ -1,0 +1,25 @@
+{
+	"id": "ballerina-cappuccina-annie",
+	"name": "Ballerina Cappuccina Annie",
+	"champion": 1,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Ballerina Cappuccina Annie\n\n### Features\n\n- Ballerina aesthetic mixed with cappuccino meme flair\n- Annie’s fiery gameplay wrapped in elegant but chaotic visuals\n- One-click install via **Celestial Launcher**\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/ballerina-cappuccina-annie\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ballerina-cappuccina-annie/thumb.webp?v=eb9620eb",
+	"file": {
+		"version": 1,
+		"asset": "ballerina-cappuccina-annie-v1.fantome",
+		"size": 19002051,
+		"sha256": "262507c2c9aca532292569c9923dc01b0892e91c2f96d4810688748bc26c5b96"
+	},
+	"chromas": []
+}

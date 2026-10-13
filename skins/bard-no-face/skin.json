@@ -1,0 +1,25 @@
+{
+	"id": "bard-no-face",
+	"name": "No Face",
+	"champion": 432,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/no-face-bard\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bard-no-face/thumb.webp?v=ba7bf1e9",
+	"file": {
+		"version": 1,
+		"asset": "bard-no-face-v1.fantome",
+		"size": 7248068,
+		"sha256": "e59710076c36f0f14972382ae6d24e6364ff1b54f35a200de7232db2c2acb1c7"
+	},
+	"chromas": []
+}

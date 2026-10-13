@@ -1,0 +1,26 @@
+{
+	"id": "bakugo-katsuki-ezreal",
+	"name": "Bakugo Katsuki - Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "kesa",
+	"description": "# **DISCORD: hanmada**\r\n\r\n### **DM IF SOMETHING BREAKS**\r\n**(or if you wanna commision)**\r\n\r\n#\r\n\r\n\r\n**CTRL 2 = Season 8 Bakugo\r\nCTRL 3 = Hero Bakugo Outfit**\r\n#\r\nThis custom skin transforms **Ezreal** into **Katsuki Bakugo** from **My Hero Academia**, fully reimagined with a complete visual and audio overhaul while maintaining perfect gameplay clarity.\r\n\r\n- ? Features\r\n\r\n- **Custom Models**\r\n\r\nHigh-quality Bakugo models\r\n\r\n\r\n\r\n- **Custom VFX**\r\n\r\nFully replaced spell effects for all abilities\r\n\r\n\r\n- **Custom SFX**\r\n\r\nCustom Voice Lines\r\n\r\nBakugo – inspired voice lines\r\n\r\n\r\n#\r\n- **Skin Compatibility-**\r\n\r\n**WORKS ON ALL EZREAL  SKINS**\n\n---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/bakugo-katsuki-ezreal\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bakugo-katsuki-ezreal/thumb.webp?v=83d9c1a2",
+	"file": {
+		"version": 1,
+		"asset": "bakugo-katsuki-ezreal-v1.fantome",
+		"size": 12221731,
+		"sha256": "58fb98658422e5742edb457efd7c8564de05836810ecb9558dbcb052b2e502d3"
+	},
+	"chromas": []
+}

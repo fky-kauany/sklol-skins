@@ -1,0 +1,23 @@
+{
+	"id": "barriguinha-mole-singed",
+	"name": "Barriguinha Mole singed",
+	"champion": 27,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"eu sou o barriguinha mole\"\n\n***\n\n**Modified champion: Singed**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\nthe 3d model made by: [Ryan Carlos](https://sketchfab.com/3d-models/barriguinha-mole-50e752dc9e644333b1d2975757485925)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/barriguinha-mole-singed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/barriguinha-mole-singed/thumb.webp?v=6b43f98f",
+	"file": {
+		"version": 1,
+		"asset": "barriguinha-mole-singed-v1.fantome",
+		"size": 1153055,
+		"sha256": "62275db8d4c1715d603e970b52b4f1d8523add19c73f7882418caf4c51f8acc1"
+	},
+	"chromas": []
+}

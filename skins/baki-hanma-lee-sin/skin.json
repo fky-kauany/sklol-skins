@@ -1,0 +1,26 @@
+{
+	"id": "baki-hanma-lee-sin",
+	"name": "Baki Hanma Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "czcz",
+	"description": "BAKI HANMA AS LEE SIN\nWITH CUSTOM VOICELINES\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/baki-hanma-lee-sin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/baki-hanma-lee-sin/thumb.webp?v=f40db146",
+	"file": {
+		"version": 1,
+		"asset": "baki-hanma-lee-sin-v1.fantome",
+		"size": 19706905,
+		"sha256": "345aa62712eff4fc5ff66a76e246b2a5e33bad5c324c2475a4320bb70bae5703"
+	},
+	"chromas": []
+}

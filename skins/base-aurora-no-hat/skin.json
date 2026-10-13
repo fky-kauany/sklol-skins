@@ -1,0 +1,26 @@
+{
+	"id": "base-aurora-no-hat",
+	"name": "Base Aurora - No Hat",
+	"champion": 893,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Base Aurora\r\n\r\n╰┈➤ _The idea for this mod was to take Aurora's hat off_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/base-aurora-no-hat\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/base-aurora-no-hat/thumb.webp?v=e13335da",
+	"file": {
+		"version": 1,
+		"asset": "base-aurora-no-hat-v1.fantome",
+		"size": 10502313,
+		"sha256": "93c29b6594d448b64af33d4e6d5738269738f361ae3f415e2d6fc1a6b4a4f3ca"
+	},
+	"chromas": []
+}

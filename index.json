@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:50:49.408Z",
+	"generatedAt": "2026-10-13T00:54:03.074Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8,6 +8,14 @@
 			"bio": "arclyris/ascilia side account used to post commissioned mods. check out my main page here \n\nhttps://divineskins.gg/archlyris",
 			"links": {
 				"discord": "https://discord.gg/yaByNwaxsP"
+			}
+		},
+		"1gem1": {
+			"name": "1gem1",
+			"avatar": "creators/1gem1.webp?v=d93458c2",
+			"bio": "hello everyone! im rachel (or 1gem1 depending on what you wanna call me) and i love making custom skins!\n\nyou can find me via: (most active to least)\n\n• discord - 1gem1\n• my custom skins discord\n• runeforge over here\n• twitter/x - here\n• kofi - here\n• league (EUW) - 1gem1#EUW\n\nif anything breaks, you wanna ask me any questions, or you'd like info on commissioning me, hmu on any of these !!",
+			"links": {
+				"discord": "https://discord.gg/6MTrrVbwgm"
 			}
 		},
 		"antton": {
@@ -42,6 +50,16 @@
 			"links": {
 				"kofi": "https://ko-fi.com/azerkan",
 				"youtube": "https://www.youtube.com/c/Xazerkan67X/"
+			}
+		},
+		"backstab": {
+			"name": "BACKSTAB",
+			"avatar": "creators/backstab.jpg?v=b9b07692",
+			"bio": "old rengar was better.",
+			"links": {
+				"site": "https://www.reddit.com/user/Ryo_Marufuji/",
+				"x": "https://x.com/BACKSTAB44",
+				"youtube": "https://www.youtube.com/@BACKSTAB44"
 			}
 		},
 		"ceerel": {
@@ -3211,6 +3229,261 @@
 				"asset": "bad-mr-frosty-malphite-v1.fantome",
 				"size": 10053923,
 				"sha256": "1dd792c5d380b1c2ff21ab44e7dc2f037ae0a3528fdbcfa765b803433f5a13d8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bailu-yasuo",
+			"name": "Bailu Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bailu-yasuo/thumb.webp?v=0f90f7eb",
+			"file": {
+				"version": 1,
+				"asset": "bailu-yasuo-v1.fantome",
+				"size": 31712732,
+				"sha256": "992840222cc06a337111b84dd555c66bcfa036e04daa3fa32fb6770fa84b0f0b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "baki-hanma-lee-sin",
+			"name": "Baki Hanma Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/baki-hanma-lee-sin/thumb.webp?v=f40db146",
+			"file": {
+				"version": 1,
+				"asset": "baki-hanma-lee-sin-v1.fantome",
+				"size": 19706905,
+				"sha256": "345aa62712eff4fc5ff66a76e246b2a5e33bad5c324c2475a4320bb70bae5703"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bakugo-katsuki-ezreal",
+			"name": "Bakugo Katsuki - Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bakugo-katsuki-ezreal/thumb.webp?v=83d9c1a2",
+			"file": {
+				"version": 1,
+				"asset": "bakugo-katsuki-ezreal-v1.fantome",
+				"size": 12221731,
+				"sha256": "58fb98658422e5742edb457efd7c8564de05836810ecb9558dbcb052b2e502d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ballerina-cappuccina-annie",
+			"name": "Ballerina Cappuccina Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ballerina-cappuccina-annie/thumb.webp?v=eb9620eb",
+			"file": {
+				"version": 1,
+				"asset": "ballerina-cappuccina-annie-v1.fantome",
+				"size": 19002051,
+				"sha256": "262507c2c9aca532292569c9923dc01b0892e91c2f96d4810688748bc26c5b96"
+			},
+			"chromas": []
+		},
+		{
+			"id": "barbara-soraka",
+			"name": "Barbara Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/barbara-soraka/thumb.webp?v=e83e7dee",
+			"file": {
+				"version": 1,
+				"asset": "barbara-soraka-v1.fantome",
+				"size": 13847826,
+				"sha256": "9098a71f3d278cc31dbf7199e4c84f65a5a39a9d069a849bf5e1301bedd09fa9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bard-no-face",
+			"name": "No Face",
+			"champion": 432,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bard-no-face/thumb.webp?v=ba7bf1e9",
+			"file": {
+				"version": 1,
+				"asset": "bard-no-face-v1.fantome",
+				"size": 7248068,
+				"sha256": "e59710076c36f0f14972382ae6d24e6364ff1b54f35a200de7232db2c2acb1c7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "barriguinha-mole-singed",
+			"name": "Barriguinha Mole singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/barriguinha-mole-singed/thumb.webp?v=6b43f98f",
+			"file": {
+				"version": 1,
+				"asset": "barriguinha-mole-singed-v1.fantome",
+				"size": 1153055,
+				"sha256": "62275db8d4c1715d603e970b52b4f1d8523add19c73f7882418caf4c51f8acc1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "base-aurora-no-hat",
+			"name": "Base Aurora - No Hat",
+			"champion": 893,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/base-aurora-no-hat/thumb.webp?v=e13335da",
+			"file": {
+				"version": 1,
+				"asset": "base-aurora-no-hat-v1.fantome",
+				"size": 10502313,
+				"sha256": "93c29b6594d448b64af33d4e6d5738269738f361ae3f415e2d6fc1a6b4a4f3ca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "batman-rengar-rebirth",
+			"name": "Batman Rengar [Rebirth]",
+			"champion": 107,
+			"base": 0,
+			"creator": "backstab",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/batman-rengar-rebirth/thumb.webp?v=47379705",
+			"file": {
+				"version": 1,
+				"asset": "batman-rengar-rebirth-v1.fantome",
+				"size": 6604796,
+				"sha256": "a4650983897db38a4a4513afbcf18ab6af206d1a07b785df43b7eb3756c1d47a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-bat-xayah-pink",
+			"name": "Battle Bat Xayah - Pink",
+			"champion": 498,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/battle-bat-xayah-pink/thumb.webp?v=abf55b3c",
+			"file": {
+				"version": 1,
+				"asset": "battle-bat-xayah-pink-v1.fantome",
+				"size": 22981828,
+				"sha256": "9c1e5d3410fe24d8244e7f61144880ecb022ed661bca990e4771ee752c76448f"
 			},
 			"chromas": []
 		},

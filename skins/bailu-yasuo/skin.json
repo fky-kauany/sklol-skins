@@ -1,0 +1,26 @@
+{
+	"id": "bailu-yasuo",
+	"name": "Bailu Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\n\n* Champion: Yasuo\n* Modified skin: Truth / Dream Dragon Yasuo\n* Author: Konari Lab Ch. 白夜こなり\n* In order to use this skin, you need to own **Truth / Dream Dragon Yasuo** and select it in champion select.\n\n## Specifications\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* New voiceover\n\n## Credits\n\n* Thanks tarngaina for helping me with the model.\n* -Shinon-#5507 with Bailu VO.\n\n## Known issues\n\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\n---\n💬 **Join Moonlit Night!**\nClick the banner below to join. Report bugs directly, and hang out with other players!\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\n---\n\n---\n\n**Created by** [Konari](https://www.divineskins.gg/Konari)\n\n**Original:** https://www.divineskins.gg/Konari/bailu-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bailu-yasuo/thumb.webp?v=0f90f7eb",
+	"file": {
+		"version": 1,
+		"asset": "bailu-yasuo-v1.fantome",
+		"size": 31712732,
+		"sha256": "992840222cc06a337111b84dd555c66bcfa036e04daa3fa32fb6770fa84b0f0b"
+	},
+	"chromas": []
+}
