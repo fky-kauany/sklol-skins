@@ -1,0 +1,26 @@
+{
+	"id": "kassadin-beesadin",
+	"name": "Beesadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\r\n\r\n### DM IF SOMETHING BREAKS (or if you want to commission)\r\n# \r\n\r\n### Beesadin kassadin from the Bee-league of legends skinline \r\n#\r\nFEATURES:\r\n* NEW ABILITY SOUNDS\r\n* NEW VFX\r\n* CUSTOM MODEL\r\n\r\nBZZZZZZZZZZZZZZZZ\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/beesadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kassadin-beesadin/thumb.webp?v=d7dedb59",
+	"file": {
+		"version": 1,
+		"asset": "kassadin-beesadin-v1.fantome",
+		"size": 7260985,
+		"sha256": "155b3fddbc22c84ba49448c0e488331921d8a37efcccae8463e029825aa87088"
+	},
+	"chromas": []
+}

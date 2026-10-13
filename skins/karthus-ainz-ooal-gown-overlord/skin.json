@@ -1,0 +1,26 @@
+{
+	"id": "karthus-ainz-ooal-gown-overlord",
+	"name": "Ainz Ooal Gown (Overlord)",
+	"champion": 30,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features**\n- Custom model and textures\n- Changed VFX\n- New SFX & VO\n- The Power of the Supreme Being\n- Your own Succubus (not this time)\n\n\n\nBringing back one of my old mods, thanks to the ease of use of Divine's modding tools!\n\nThis is an up-to-date version of Overlord Karthus. \n\n### **Disclaimer!**\nThis is, by all means, still a very old mod of mine. It's jank and it's pretty ugly. So don't expect anything special! But people asked me for it so here it is.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/ainz-ooal-gown-overlord\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/karthus-ainz-ooal-gown-overlord/thumb.webp?v=ffecbc0a",
+	"file": {
+		"version": 1,
+		"asset": "karthus-ainz-ooal-gown-overlord-v1.fantome",
+		"size": 18225552,
+		"sha256": "26cd0820c1108a4dc7ae1324e1702149cc788dadbf9c4d00a36f5ad4c11079d7"
+	},
+	"chromas": []
+}

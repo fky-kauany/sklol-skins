@@ -1,0 +1,25 @@
+{
+	"id": "karthus-ryuk",
+	"name": "Ryuk",
+	"champion": 30,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/ryuk-karthus\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/karthus-ryuk/thumb.webp?v=cc6274e7",
+	"file": {
+		"version": 1,
+		"asset": "karthus-ryuk-v1.fantome",
+		"size": 8628924,
+		"sha256": "bf149aedf333003f3e30cd2b92e7684ad76e000af8f24a3a7be67ce9fb55de27"
+	},
+	"chromas": []
+}

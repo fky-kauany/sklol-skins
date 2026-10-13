@@ -1,0 +1,26 @@
+{
+	"id": "kassadin-yasuo",
+	"name": "Kassadin Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/kassadin-yasuo\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kassadin-yasuo/thumb.webp?v=9a3a442c",
+	"file": {
+		"version": 1,
+		"asset": "kassadin-yasuo-v1.fantome",
+		"size": 31777344,
+		"sha256": "946243b497ec19683948fbed6ead8ef7129c4b6317a5fffd9c4a487918f17e1a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "katarina-chizuru",
+	"name": "Katarina Chizuru",
+	"champion": 55,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 CHIZURU MIZUHARA 」\r\n### *Replaces Katarina*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/katarina-chizuru\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/katarina-chizuru/thumb.webp?v=654f4ad9",
+	"file": {
+		"version": 1,
+		"asset": "katarina-chizuru-v1.fantome",
+		"size": 6771555,
+		"sha256": "0fbded88ccceb7b583dbab16d32380e2c23cc006c068280dca6e378a33da885d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "kasane-teto-lux",
+	"name": "Kasane Teto Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "disco",
+	"description": "Enjoy!\r\nWorks on all Lux Skins.\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/kasane-teto-lux\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kasane-teto-lux/thumb.webp?v=f67db595",
+	"file": {
+		"version": 1,
+		"asset": "kasane-teto-lux-v1.fantome",
+		"size": 11876618,
+		"sha256": "bb8df572e50b4ee20030ac071a23749ddadc03add82f941ccc0086d8a3432105"
+	},
+	"chromas": []
+}

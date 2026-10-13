@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:57:50.811Z",
+	"generatedAt": "2026-10-13T04:01:06.983Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -5130,6 +5130,261 @@
 				"asset": "karthus-ainz-ooal-gown-v1.fantome",
 				"size": 17694429,
 				"sha256": "34d7d6d1215c7cbfea4e3cab411730accad2bc86f439c2713ec5db9500e01830"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karthus-ainz-ooal-gown-overlord",
+			"name": "Ainz Ooal Gown (Overlord)",
+			"champion": 30,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/karthus-ainz-ooal-gown-overlord/thumb.webp?v=ffecbc0a",
+			"file": {
+				"version": 1,
+				"asset": "karthus-ainz-ooal-gown-overlord-v1.fantome",
+				"size": 18225552,
+				"sha256": "26cd0820c1108a4dc7ae1324e1702149cc788dadbf9c4d00a36f5ad4c11079d7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karthus-ryuk",
+			"name": "Ryuk",
+			"champion": 30,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/karthus-ryuk/thumb.webp?v=cc6274e7",
+			"file": {
+				"version": 1,
+				"asset": "karthus-ryuk-v1.fantome",
+				"size": 8628924,
+				"sha256": "bf149aedf333003f3e30cd2b92e7684ad76e000af8f24a3a7be67ce9fb55de27"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kasane-teto-lux",
+			"name": "Kasane Teto Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kasane-teto-lux/thumb.webp?v=f67db595",
+			"file": {
+				"version": 1,
+				"asset": "kasane-teto-lux-v1.fantome",
+				"size": 11876618,
+				"sha256": "bb8df572e50b4ee20030ac071a23749ddadc03add82f941ccc0086d8a3432105"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kasane-teto-xayah",
+			"name": "Kasane Teto Xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kasane-teto-xayah/thumb.webp?v=8a40bdfc",
+			"file": {
+				"version": 1,
+				"asset": "kasane-teto-xayah-v1.fantome",
+				"size": 22110647,
+				"sha256": "dd0e36b86fc0abea7fa278eebe7f16ddf644ba937354b8b5c5ac4e905fbb1ae1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kassadin-beesadin",
+			"name": "Beesadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kassadin-beesadin/thumb.webp?v=d7dedb59",
+			"file": {
+				"version": 1,
+				"asset": "kassadin-beesadin-v1.fantome",
+				"size": 7260985,
+				"sha256": "155b3fddbc22c84ba49448c0e488331921d8a37efcccae8463e029825aa87088"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kassadin-darth-vader",
+			"name": "Darth Vader",
+			"champion": 38,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kassadin-darth-vader/thumb.webp?v=6d43aac9",
+			"file": {
+				"version": 1,
+				"asset": "kassadin-darth-vader-v1.fantome",
+				"size": 22642542,
+				"sha256": "4c184ef76839ee471da2c3607d555f496a2203371714f8ddc6e2e8617129ae2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kassadin-l9-boss",
+			"name": "L9 Boss",
+			"champion": 38,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kassadin-l9-boss/thumb.webp?v=cbbd8548",
+			"file": {
+				"version": 1,
+				"asset": "kassadin-l9-boss-v1.fantome",
+				"size": 8363773,
+				"sha256": "4b555d4a6b4d87704ff8c0ccbb00fd61062c9d851469c93cfbff180ddeaab6ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kassadin-tenka",
+			"name": "Kassadin Tenka",
+			"champion": 38,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kassadin-tenka/thumb.webp?v=4887bef1",
+			"file": {
+				"version": 1,
+				"asset": "kassadin-tenka-v1.fantome",
+				"size": 6790553,
+				"sha256": "4c6f712a55ff11c002d991d812b41b7312131c2f5638cb73acb976b0b5b00c2a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kassadin-yasuo",
+			"name": "Kassadin Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kassadin-yasuo/thumb.webp?v=9a3a442c",
+			"file": {
+				"version": 1,
+				"asset": "kassadin-yasuo-v1.fantome",
+				"size": 31777344,
+				"sha256": "946243b497ec19683948fbed6ead8ef7129c4b6317a5fffd9c4a487918f17e1a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-chizuru",
+			"name": "Katarina Chizuru",
+			"champion": 55,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/katarina-chizuru/thumb.webp?v=654f4ad9",
+			"file": {
+				"version": 1,
+				"asset": "katarina-chizuru-v1.fantome",
+				"size": 6771555,
+				"sha256": "0fbded88ccceb7b583dbab16d32380e2c23cc006c068280dca6e378a33da885d"
 			},
 			"chromas": []
 		},

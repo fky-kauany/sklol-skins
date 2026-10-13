@@ -1,0 +1,23 @@
+{
+	"id": "kassadin-l9-boss",
+	"name": "L9 Boss",
+	"champion": 38,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": ".\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/l9-boss-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kassadin-l9-boss/thumb.webp?v=cbbd8548",
+	"file": {
+		"version": 1,
+		"asset": "kassadin-l9-boss-v1.fantome",
+		"size": 8363773,
+		"sha256": "4b555d4a6b4d87704ff8c0ccbb00fd61062c9d851469c93cfbff180ddeaab6ee"
+	},
+	"chromas": []
+}

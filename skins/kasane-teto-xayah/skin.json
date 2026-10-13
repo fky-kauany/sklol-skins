@@ -1,0 +1,25 @@
+{
+	"id": "kasane-teto-xayah",
+	"name": "Kasane Teto Xayah",
+	"champion": 498,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Kasane Teto Xayah\n\n### Features\n\n- **Custom Model:** Xayah's model is completely replaced with a faithful recreation of Kasane Teto, including her iconic outfit and signature twin-drill hairstyle.\n- **Custom Abilities:** All of Xayah's abilities and visual effects (VFX) have been redesigned with a musical, digital flair that fits Teto's idol persona.\n- **Universal Compatibility:** This mod is designed to work as an overlay on **every** official Xayah skin you own, including her base model.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/kasane-teto-xayah\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kasane-teto-xayah/thumb.webp?v=8a40bdfc",
+	"file": {
+		"version": 1,
+		"asset": "kasane-teto-xayah-v1.fantome",
+		"size": 22110647,
+		"sha256": "dd0e36b86fc0abea7fa278eebe7f16ddf644ba937354b8b5c5ac4e905fbb1ae1"
+	},
+	"chromas": []
+}

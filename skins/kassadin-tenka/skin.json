@@ -1,0 +1,26 @@
+{
+	"id": "kassadin-tenka",
+	"name": "Kassadin Tenka",
+	"champion": 38,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 TENKA IZUMO 」\r\n### *Replaces Kassadin*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n**Custom Animations**\r\n\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/kassadin-tenka\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kassadin-tenka/thumb.webp?v=4887bef1",
+	"file": {
+		"version": 1,
+		"asset": "kassadin-tenka-v1.fantome",
+		"size": 6790553,
+		"sha256": "4c6f712a55ff11c002d991d812b41b7312131c2f5638cb73acb976b0b5b00c2a"
+	},
+	"chromas": []
+}

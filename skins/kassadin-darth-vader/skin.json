@@ -1,0 +1,26 @@
+{
+	"id": "kassadin-darth-vader",
+	"name": "Darth Vader",
+	"champion": 38,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\n\n- Custom model and textures\n- Custom animations\n- Custom Voice-over for all languages\n- New VFX\n- New SFX\n- Custom loading screen and in-game icons\n- Your very own TIE Advanced\n- A boatload of midichlorians\n\n\n*\"Be careful not to choke on your aspirations, Summoner\"*\n\n\nThings have gotten unstable enough in Runeterra that the Dark Lord of the Sith, Darth Vader, has decided to join the fray.\n\nKassadin has been entirely replaced by Darth Vader. All animations have been remade to fit the Sith Lord, as well as three animations have been added that Kassadin didn't have earlier - Joke, Recall and Respawn. Aside from animations, all sound effects have been changed as well, to reflect the lightsaber sounds, as well as the mighty reverberations of the Force (bonus: when you have your E ready, you will be able to hear Vader's iconic breathing). A new voice-over is available as well! Visual effects also received some love (New W effect in 2.1), as to reflect the changes mentioned before. And, of course, all the icons and the loading screen have been changed too.\nThis works on EVERY SKIN. So no matter which skin you or the enemy picks in champ select, you will always see Vader.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/darth-vader\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kassadin-darth-vader/thumb.webp?v=6d43aac9",
+	"file": {
+		"version": 1,
+		"asset": "kassadin-darth-vader-v1.fantome",
+		"size": 22642542,
+		"sha256": "4c184ef76839ee471da2c3607d555f496a2203371714f8ddc6e2e8617129ae2c"
+	},
+	"chromas": []
+}
