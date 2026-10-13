@@ -1,0 +1,23 @@
+{
+	"id": "unknown-knight-mordekaiser",
+	"name": "unknown knight mordekaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"*hahaha\"*\n\n***\n\n**Modified champion: Mordekaiser**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game:** Amid evil\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/unknown-knight-mordekaiser\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/unknown-knight-mordekaiser/thumb.webp?v=5a7a9a2b",
+	"file": {
+		"version": 1,
+		"asset": "unknown-knight-mordekaiser-v1.fantome",
+		"size": 2283301,
+		"sha256": "f2004860ec514d7bafdfaaf63fbffa93ca7aa99bf380251551d3a96e4a318b3f"
+	},
+	"chromas": []
+}

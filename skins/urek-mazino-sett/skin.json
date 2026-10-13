@@ -1,0 +1,26 @@
+{
+	"id": "urek-mazino-sett",
+	"name": "Urek Mazino Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "czcz",
+	"description": "UREK MAZINO AS SETT\nWith a basic recolor of vfx\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/urek-mazino-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/urek-mazino-sett/thumb.webp?v=03d288da",
+	"file": {
+		"version": 1,
+		"asset": "urek-mazino-sett-v1.fantome",
+		"size": 13313857,
+		"sha256": "47c6519968a3f0c2425e2462e92c211431f4d5f87d29154f72027ab333ca46b6"
+	},
+	"chromas": []
+}

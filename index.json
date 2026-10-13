@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:06:27.479Z",
+	"generatedAt": "2026-10-13T07:09:45.420Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -19811,6 +19811,260 @@
 				"asset": "twitch-demonic-angel-bw-v1.fantome",
 				"size": 9023083,
 				"sha256": "06efd9f242f55504ab98413f7db97bbc36a2293eae5e150065d4e0e64d0ed654"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twitch-ghostly-raven",
+			"name": "Ghostly Raven",
+			"champion": 29,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twitch-ghostly-raven/thumb.webp?v=d7c8fcaa",
+			"file": {
+				"version": 1,
+				"asset": "twitch-ghostly-raven-v1.fantome",
+				"size": 15611381,
+				"sha256": "79324ec2e9137b3216723f329a3e46c30801f6489a35d415d5fdd42ebc7e1f0f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twitch-spirit-rat",
+			"name": "Spirit Rat",
+			"champion": 29,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twitch-spirit-rat/thumb.webp?v=a80ececd",
+			"file": {
+				"version": 1,
+				"asset": "twitch-spirit-rat-v1.fantome",
+				"size": 22164765,
+				"sha256": "11d11b12f686f86e05bb9b99edc68c780812a961a354981d12c24b35556a9a02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "typhoeus-ashe",
+			"name": "Typhoeus Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/typhoeus-ashe/thumb.webp?v=be2c6c49",
+			"file": {
+				"version": 1,
+				"asset": "typhoeus-ashe-v1.fantome",
+				"size": 18119741,
+				"sha256": "3bff534cc8f863ecfde94abaa204f9460446fe742c6cb76faf779382a0eb87f2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "unbound-garen",
+			"name": "Unbound Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/unbound-garen/thumb.webp?v=b0aacbab",
+			"file": {
+				"version": 1,
+				"asset": "unbound-garen-v1.fantome",
+				"size": 11409764,
+				"sha256": "79f363152c93591354b48b5f3ede49dca27bbb5977ac394e7c6b89be685a073d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "unforgiving-tryndamere",
+			"name": "Unforgiving Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "jaku3",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/unforgiving-tryndamere/thumb.webp?v=833d814d",
+			"file": {
+				"version": 1,
+				"asset": "unforgiving-tryndamere-v1.fantome",
+				"size": 417237,
+				"sha256": "beeb1c960a0a22c760cbccc824e70c1c774fb0c339f60932f90685d0b3214196"
+			},
+			"chromas": []
+		},
+		{
+			"id": "unknown-knight-mordekaiser",
+			"name": "unknown knight mordekaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/unknown-knight-mordekaiser/thumb.webp?v=5a7a9a2b",
+			"file": {
+				"version": 1,
+				"asset": "unknown-knight-mordekaiser-v1.fantome",
+				"size": 2283301,
+				"sha256": "f2004860ec514d7bafdfaaf63fbffa93ca7aa99bf380251551d3a96e4a318b3f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "urahara-kisuke-yasuo",
+			"name": "Urahara Kisuke - Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/urahara-kisuke-yasuo/thumb.webp?v=623ec7d7",
+			"file": {
+				"version": 1,
+				"asset": "urahara-kisuke-yasuo-v1.fantome",
+				"size": 20290901,
+				"sha256": "47181dc7c723fcf54bdd22394a0aaa2421390d2498c663424161795d5f6a1ff3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "urek-mazino-sett",
+			"name": "Urek Mazino Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/urek-mazino-sett/thumb.webp?v=03d288da",
+			"file": {
+				"version": 1,
+				"asset": "urek-mazino-sett-v1.fantome",
+				"size": 13313857,
+				"sha256": "47c6519968a3f0c2425e2462e92c211431f4d5f87d29154f72027ab333ca46b6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "urf-the-manatee-zeri",
+			"name": "Urf the Manatee Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/urf-the-manatee-zeri/thumb.webp?v=ee219c79",
+			"file": {
+				"version": 1,
+				"asset": "urf-the-manatee-zeri-v1.fantome",
+				"size": 11366763,
+				"sha256": "738857f5d4b0d1a94807afdce2e3aa0afd104ffa91547047edf42d88594b77fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "usopp-caitlyn",
+			"name": "Usopp Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/usopp-caitlyn/thumb.webp?v=f940e7c9",
+			"file": {
+				"version": 1,
+				"asset": "usopp-caitlyn-v1.fantome",
+				"size": 23099337,
+				"sha256": "9e60def89d1fd6059bc0a8fbaaa357bc890042b0eecb8ea29e135cdaad950661"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,23 @@
+{
+	"id": "unforgiving-tryndamere",
+	"name": "Unforgiving Tryndamere",
+	"champion": 23,
+	"base": 0,
+	"creator": "jaku3",
+	"description": "---\n\n**Created by** [jaku3](https://www.divineskins.gg/jaku3)\n\n**Original:** https://www.divineskins.gg/jaku3/unforgiving-tryndamere\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/unforgiving-tryndamere/thumb.webp?v=833d814d",
+	"file": {
+		"version": 1,
+		"asset": "unforgiving-tryndamere-v1.fantome",
+		"size": 417237,
+		"sha256": "beeb1c960a0a22c760cbccc824e70c1c774fb0c339f60932f90685d0b3214196"
+	},
+	"chromas": []
+}

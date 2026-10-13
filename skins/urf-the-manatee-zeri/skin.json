@@ -1,0 +1,26 @@
+{
+	"id": "urf-the-manatee-zeri",
+	"name": "Urf the Manatee Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/urf-the-manatee-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/urf-the-manatee-zeri/thumb.webp?v=ee219c79",
+	"file": {
+		"version": 1,
+		"asset": "urf-the-manatee-zeri-v1.fantome",
+		"size": 11366763,
+		"sha256": "738857f5d4b0d1a94807afdce2e3aa0afd104ffa91547047edf42d88594b77fd"
+	},
+	"chromas": []
+}

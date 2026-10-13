@@ -1,0 +1,26 @@
+{
+	"id": "urahara-kisuke-yasuo",
+	"name": "Urahara Kisuke - Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "kesa",
+	"description": "# **DISCORD: hanmada**\r\n\r\n### **DM IF SOMETHING BREAKS**\r\n**(or if you wanna commision)**\r\n\r\n#\r\n\r\n\r\nThis custom skin transforms **Yasuo** into **Urahara Kisuke** from **Bleach**, fully reimagined with a complete visual and audio overhaul while maintaining perfect gameplay clarity.\r\n#\r\n- ? Features\r\n\r\n- **Custom Model**\r\n\r\nHigh-quality Urahara Kisuke Model\r\n\r\n\r\n\r\n- **Custom VFX**\r\n\r\nFully replaced spell effects for all abilities\r\n\r\n\r\n- **Custom SFX**\r\n\r\nCustom Voice Lines\r\n\r\nUrahara Kisuke inspired voice lines\r\n\r\n\r\n\r\n- **Skin Compatibility-**\r\n\r\n**WORKS ON ALL YASUO SKINS**\r\n\r\nFeel free to dm me on discord for any type of thing (suggestions,ideas,bugs etc...) @hanmada\n\n---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/urahara-kisuke-yasuo\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/urahara-kisuke-yasuo/thumb.webp?v=623ec7d7",
+	"file": {
+		"version": 1,
+		"asset": "urahara-kisuke-yasuo-v1.fantome",
+		"size": 20290901,
+		"sha256": "47181dc7c723fcf54bdd22394a0aaa2421390d2498c663424161795d5f6a1ff3"
+	},
+	"chromas": []
+}

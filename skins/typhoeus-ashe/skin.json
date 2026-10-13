@@ -1,0 +1,26 @@
+{
+	"id": "typhoeus-ashe",
+	"name": "Typhoeus Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "Ashe as Typhoeus from Arknights Endfield.\n\nSkin Features:\nCustom Model\nCustom Icon and Banner\nVoice Over\n\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins or [My](https://discord.gg/vXHXVgv7qy) Discord server.\n\nMy Discord: @nyxns0 | https://discord.gg/vXHXVgv7qy\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/typhoeus-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/typhoeus-ashe/thumb.webp?v=be2c6c49",
+	"file": {
+		"version": 1,
+		"asset": "typhoeus-ashe-v1.fantome",
+		"size": 18119741,
+		"sha256": "3bff534cc8f863ecfde94abaa204f9460446fe742c6cb76faf779382a0eb87f2"
+	},
+	"chromas": []
+}

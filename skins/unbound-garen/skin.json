@@ -1,0 +1,26 @@
+{
+	"id": "unbound-garen",
+	"name": "Unbound Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:**  Character Skin\n**Modified Skin(s):** Base only for obvious reasons\n\n### ? Credits\n\nTFT\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord.\n\n### ? Support Me\n\nEnjoyed the mod? Cool\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/unbound-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/unbound-garen/thumb.webp?v=b0aacbab",
+	"file": {
+		"version": 1,
+		"asset": "unbound-garen-v1.fantome",
+		"size": 11409764,
+		"sha256": "79f363152c93591354b48b5f3ede49dca27bbb5977ac394e7c6b89be685a073d"
+	},
+	"chromas": []
+}

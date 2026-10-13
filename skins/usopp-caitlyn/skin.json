@@ -1,0 +1,26 @@
+{
+	"id": "usopp-caitlyn",
+	"name": "Usopp Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "frog",
+	"description": "The king of snipers has arrived! This custom **Usopp Caitlyn** skin brings the sharpshooting master of the Straw Hat Pirates to the Rift. With his trusty Slingshot, you'll be able to land impossible shots from across the map and prove that you're the true long-range king.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/usopp-caitlyn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/usopp-caitlyn/thumb.webp?v=f940e7c9",
+	"file": {
+		"version": 1,
+		"asset": "usopp-caitlyn-v1.fantome",
+		"size": 23099337,
+		"sha256": "9e60def89d1fd6059bc0a8fbaaa357bc890042b0eecb8ea29e135cdaad950661"
+	},
+	"chromas": []
+}
