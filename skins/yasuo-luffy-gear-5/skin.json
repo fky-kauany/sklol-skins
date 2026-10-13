@@ -1,0 +1,26 @@
+{
+	"id": "yasuo-luffy-gear-5",
+	"name": "Yasuo Luffy Gear 5",
+	"champion": 157,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MONKEY D. LUFFY — GEAR 5 」\r\n### *Replaces Yasuo*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/yasuo-luffy-gear-5\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-luffy-gear-5/thumb.webp?v=570aa3df",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-luffy-gear-5-v1.fantome",
+		"size": 10239238,
+		"sha256": "132ad2f7d490639b6bdff7204f3002a5d87c4f1a7c4002bbfa161b78ee9c179e"
+	},
+	"chromas": []
+}

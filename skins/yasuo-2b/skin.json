@@ -1,0 +1,26 @@
+{
+	"id": "yasuo-2b",
+	"name": "2b",
+	"champion": 157,
+	"base": 0,
+	"creator": "frog",
+	"description": "2b yasuo • Custom model • Custom Abilities  • Works on every yasuo skin •  voicelines\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/2b-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-2b/thumb.webp?v=118de90e",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-2b-v1.fantome",
+		"size": 24752611,
+		"sha256": "b03d68f5b24193db272eed207208bb1daedcf4ab1a95938e02f3896228864121"
+	},
+	"chromas": []
+}

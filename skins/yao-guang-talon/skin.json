@@ -1,0 +1,26 @@
+{
+	"id": "yao-guang-talon",
+	"name": "Yao Guang - Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "### 📌 Mod Info\n**Voice Over** : Chinese\n### 🧾 Credits\n**Model:** Yao Guang from Honkai: Star Rail.\n**Loading Screen Art:** [Hitohachan_](https://x.com/Hitohachan_/status/2022143698256228861?s=20)\n**Special Thanks:** Miyu\n\n### 💬 Additional Info\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: \n\nhttps://ko-fi.com/s0jaku\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/yao-guang-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yao-guang-talon/thumb.webp?v=1f3950ff",
+	"file": {
+		"version": 1,
+		"asset": "yao-guang-talon-v1.fantome",
+		"size": 16430088,
+		"sha256": "2b3c7cee25ad8fb9f2410682062abf32e95b2d2d52e95803e94fae39e0900f25"
+	},
+	"chromas": []
+}

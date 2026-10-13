@@ -1,0 +1,26 @@
+{
+	"id": "yasuo-ikki-kurogane",
+	"name": "Yasuo Ikki Kurogane",
+	"champion": 157,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 IKKI KUROGANE 」\r\n### *Replaces Yasuo*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/yasuo-ikki-kurogane\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-ikki-kurogane/thumb.webp?v=bb3a2d5a",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-ikki-kurogane-v1.fantome",
+		"size": 9879466,
+		"sha256": "93635d6619587d397e9222b388ed6844473d1735a11790703120a3d88f4f1203"
+	},
+	"chromas": []
+}

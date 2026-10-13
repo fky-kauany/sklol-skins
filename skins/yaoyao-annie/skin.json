@@ -1,0 +1,26 @@
+{
+	"id": "yaoyao-annie",
+	"name": "Yaoyao Annie",
+	"champion": 1,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Yaoyao Annie\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/yaoyao-annie\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yaoyao-annie/thumb.webp?v=b84788c6",
+	"file": {
+		"version": 1,
+		"asset": "yaoyao-annie-v1.fantome",
+		"size": 13415415,
+		"sha256": "6fe73af1f3cefc2c91c43459aed50f1fecdcc36f03c75c453f1d8a363817e3bb"
+	},
+	"chromas": []
+}

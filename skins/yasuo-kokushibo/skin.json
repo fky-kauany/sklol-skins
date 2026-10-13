@@ -1,0 +1,26 @@
+{
+	"id": "yasuo-kokushibo",
+	"name": "Kokushibo",
+	"champion": 157,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Kokushibo Yasuo\r\n• Custom Model\r\n• Custom Abilities\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/kokushibo-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yasuo-kokushibo/thumb.webp?v=0ad823f7",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-kokushibo-v1.fantome",
+		"size": 19856047,
+		"sha256": "8d3dc5dea7f74e627378e2e7ef252bf1dda2335c476bd43c69db07c5387adff7"
+	},
+	"chromas": []
+}

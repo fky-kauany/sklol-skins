@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:33:16.746Z",
+	"generatedAt": "2026-10-13T07:36:31.979Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -21860,6 +21860,264 @@
 				"asset": "yakub-ryze-v1.fantome",
 				"size": 6526650,
 				"sha256": "beea03c1dce87344194286d4725fbe9ac50acb5148df83721f1adeff48cf3c03"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yao-guang-talon",
+			"name": "Yao Guang - Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yao-guang-talon/thumb.webp?v=1f3950ff",
+			"file": {
+				"version": 1,
+				"asset": "yao-guang-talon-v1.fantome",
+				"size": 16430088,
+				"sha256": "2b3c7cee25ad8fb9f2410682062abf32e95b2d2d52e95803e94fae39e0900f25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yaoyao-annie",
+			"name": "Yaoyao Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yaoyao-annie/thumb.webp?v=b84788c6",
+			"file": {
+				"version": 1,
+				"asset": "yaoyao-annie-v1.fantome",
+				"size": 13415415,
+				"sha256": "6fe73af1f3cefc2c91c43459aed50f1fecdcc36f03c75c453f1d8a363817e3bb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-2b",
+			"name": "2b",
+			"champion": 157,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-2b/thumb.webp?v=118de90e",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-2b-v1.fantome",
+				"size": 24752611,
+				"sha256": "b03d68f5b24193db272eed207208bb1daedcf4ab1a95938e02f3896228864121"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-as-genji",
+			"name": "Yasuo as genji",
+			"champion": 157,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-as-genji/thumb.webp?v=f3baa9c1",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-as-genji-v1.fantome",
+				"size": 2158154,
+				"sha256": "dc7b2da2f83c41fe7a6a94715aeab7c15408f336ff86a3dd69ca92ba779ada24"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-calligraphia",
+			"name": "Calligraphia",
+			"champion": 157,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-calligraphia/thumb.webp?v=ac197a1c",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-calligraphia-v1.fantome",
+				"size": 19606093,
+				"sha256": "3399a7382a9962b12605031633f543de3b5f4e92ca3ffa2e59ea1a9328f8ac75"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-grimmjow",
+			"name": "Grimmjow",
+			"champion": 157,
+			"base": 0,
+			"creator": "oyashxro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-grimmjow/thumb.webp?v=d9ff9623",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-grimmjow-v1.fantome",
+				"size": 17171957,
+				"sha256": "ce9a79ae014e098537aac146d89c13e8cca93ac57e407855cf1e830749173de3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-ichigo-kurosaki",
+			"name": "Ichigo Kurosaki",
+			"champion": 157,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-ichigo-kurosaki/thumb.webp?v=b8e53b68",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-ichigo-kurosaki-v1.fantome",
+				"size": 6342653,
+				"sha256": "efb1c66a53a4c19bdafd146c900136a78a51bedba138466e6ce85556425424e5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-ikki-kurogane",
+			"name": "Yasuo Ikki Kurogane",
+			"champion": 157,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-ikki-kurogane/thumb.webp?v=bb3a2d5a",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-ikki-kurogane-v1.fantome",
+				"size": 9879466,
+				"sha256": "93635d6619587d397e9222b388ed6844473d1735a11790703120a3d88f4f1203"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-kokushibo",
+			"name": "Kokushibo",
+			"champion": 157,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-kokushibo/thumb.webp?v=0ad823f7",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-kokushibo-v1.fantome",
+				"size": 19856047,
+				"sha256": "8d3dc5dea7f74e627378e2e7ef252bf1dda2335c476bd43c69db07c5387adff7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-luffy-gear-5",
+			"name": "Yasuo Luffy Gear 5",
+			"champion": 157,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yasuo-luffy-gear-5/thumb.webp?v=570aa3df",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-luffy-gear-5-v1.fantome",
+				"size": 10239238,
+				"sha256": "132ad2f7d490639b6bdff7204f3002a5d87c4f1a7c4002bbfa161b78ee9c179e"
 			},
 			"chromas": []
 		},
