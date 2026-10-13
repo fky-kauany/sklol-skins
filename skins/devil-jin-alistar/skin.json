@@ -1,0 +1,26 @@
+{
+	"id": "devil-jin-alistar",
+	"name": "Devil Jin Alistar",
+	"champion": 12,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "### ? Mod Info\n\n**Type:** Custom skin\n\n**Modified Skin(s)**: For base skin only.\n\nmade by ikiryou\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/devil-jin-alistar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/devil-jin-alistar/thumb.webp?v=76683b4d",
+	"file": {
+		"version": 1,
+		"asset": "devil-jin-alistar-v1.fantome",
+		"size": 8528858,
+		"sha256": "ced7d8a73c861d0591836ae9c0c137e040c1d9e611705edb2b6e848681728faf"
+	},
+	"chromas": []
+}

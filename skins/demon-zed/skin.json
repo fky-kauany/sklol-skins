@@ -1,0 +1,25 @@
+{
+	"id": "demon-zed",
+	"name": "Demon Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "frog",
+	"description": "COOL ZED DEMON SKIN YEAH ENJOY THIS SKIN COOL\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/demon-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-zed/thumb.webp?v=076f3631",
+	"file": {
+		"version": 1,
+		"asset": "demon-zed-v1.fantome",
+		"size": 25319348,
+		"sha256": "f03e5f4009f875ba214e4f21b2c67ece26bdcc5c4d95240491fe9092424d7834"
+	},
+	"chromas": []
+}

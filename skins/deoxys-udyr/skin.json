@@ -1,0 +1,26 @@
+{
+	"id": "deoxys-udyr",
+	"name": "Deoxys (Udyr)",
+	"champion": 77,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Udyr\n\nModified Skin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Deoxys from Pokemon\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-Love/hate relationship with Rayquaza.\n\nSources:\n\n-Models, textures and sounds extracted from different pokemon games.\n\n-The taunt animation references the Youtuber/Streamer Knekro, who won the Pokemon competitive championship in Spain in the year 2000 using a Snorlax to defeat the enemy Mewtwo with self-destruct, and then got the third position in the international tournament.\n\n-All animations made by me.\n\nlegacy Changelog:\n\n-22/10/2023: First official release\n\n-14/06/2024: Fixed for new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n-1.5.x and 1,6,x versions are just fixes for new patches\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/deoxys-udyr\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/deoxys-udyr/thumb.webp?v=6d2cbe91",
+	"file": {
+		"version": 1,
+		"asset": "deoxys-udyr-v1.fantome",
+		"size": 9634486,
+		"sha256": "3dfda6331f15a04872784839e5470bbaf73cb9dc6ecde00639b159a04c3ee60a"
+	},
+	"chromas": []
+}

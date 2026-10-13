@@ -1,0 +1,26 @@
+{
+	"id": "desert-siren-katarina",
+	"name": "Desert Siren Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# Desert Siren Katarina\r\nA simple upgrade to sandstorm Katarina.\r\n## Features:\r\n- Desert themed particle effects\r\n- New effects for Bouncing Blade and Death Lotus\r\n- Up-scaled skin and splash art\r\n- Matching HUD icons\r\n\r\n## Also includes \"Classic\" version:\r\n- Some classic animations\r\n- Classic ability icons\r\n- Classic Katarina art for minimap and tab screen\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/desert-siren-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/desert-siren-katarina/thumb.webp?v=1a12961e",
+	"file": {
+		"version": 1,
+		"asset": "desert-siren-katarina-v1.fantome",
+		"size": 5116367,
+		"sha256": "687b41a33d12fb19478574e1c5b08c19c492411957aaaa4e94ce7816945713eb"
+	},
+	"chromas": []
+}

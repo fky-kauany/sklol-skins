@@ -1,0 +1,26 @@
+{
+	"id": "diana-angel",
+	"name": "Angel",
+	"champion": 131,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Angel Diana\r\nWorks on all Diana Skins\r\nCustom Model and VFX\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/angel-diana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/diana-angel/thumb.webp?v=7b065a1e",
+	"file": {
+		"version": 1,
+		"asset": "diana-angel-v1.fantome",
+		"size": 13564457,
+		"sha256": "6109229e4549d06182f7209e1d38067503da767f0c2cb429a9c69d1203da6cc5"
+	},
+	"chromas": []
+}

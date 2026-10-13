@@ -1,0 +1,24 @@
+{
+	"id": "diana-blade-of-miquela",
+	"name": "Diana: Blade of Miquela",
+	"champion": 131,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "You will never know defeat with this skin\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/diana-blade-of-miquela\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/diana-blade-of-miquela/thumb.webp?v=531fc342",
+	"file": {
+		"version": 1,
+		"asset": "diana-blade-of-miquela-v1.fantome",
+		"size": 11495884,
+		"sha256": "8bd2f3bb136e65f492ff4eae919f8d716fbf690df4bf62e036932ab3e8ab7c0b"
+	},
+	"chromas": []
+}

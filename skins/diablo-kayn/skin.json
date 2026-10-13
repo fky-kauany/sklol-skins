@@ -1,0 +1,26 @@
+{
+	"id": "diablo-kayn",
+	"name": "Diablo Kayn",
+	"champion": 141,
+	"base": 0,
+	"creator": "dazashu",
+	"description": "I will probably add VO later\n\nSkin made for daka\n\n---\n\n**Created by** [dazashu](https://www.divineskins.gg/dazashu)\n\n**Original:** https://www.divineskins.gg/dazashu/diablo-kayn\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/diablo-kayn/thumb.webp?v=88d10539",
+	"file": {
+		"version": 1,
+		"asset": "diablo-kayn-v1.fantome",
+		"size": 20247943,
+		"sha256": "0cc638d118b8a377a36a3a1d4f1b08edb0d274f501da48d452f7f89348414062"
+	},
+	"chromas": []
+}

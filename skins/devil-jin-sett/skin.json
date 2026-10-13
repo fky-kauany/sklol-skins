@@ -1,0 +1,26 @@
+{
+	"id": "devil-jin-sett",
+	"name": "Devil jin sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "## DISCORD: CEEREL\n### DM IF SOMETHING BREAKS (or if you want to commission)\n**CUSTOM MODEL\nICONS\nVFX**\ni miss you 700 come back :(\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/devil-jin-sett\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/devil-jin-sett/thumb.webp?v=49caf3cc",
+	"file": {
+		"version": 1,
+		"asset": "devil-jin-sett-v1.fantome",
+		"size": 56719053,
+		"sha256": "50e7db6be0b4a9fdb5ccba10b6e45d9031d8d1019e97206854146771b23f370c"
+	},
+	"chromas": []
+}

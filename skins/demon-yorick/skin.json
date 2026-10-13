@@ -1,0 +1,25 @@
+{
+	"id": "demon-yorick",
+	"name": "Demon Yorick",
+	"champion": 83,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Demon Yorick\n\n### Features\n\n- **Custom 3D model** with demonic armor and infernal detailing\n- **Custom abilities** that reimagine ghouls and the Maiden as demonic horrors\n- **Works across every Yorick skin** for maximum flexibility\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/demon-yorick\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-yorick/thumb.webp?v=c93b9d8c",
+	"file": {
+		"version": 1,
+		"asset": "demon-yorick-v1.fantome",
+		"size": 6242398,
+		"sha256": "841e4712a470b2f7dd37fb6e1ae661753ec905bdb3522e40fb5b1d2fb6895bc1"
+	},
+	"chromas": []
+}

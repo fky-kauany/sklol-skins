@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:09:25.712Z",
+	"generatedAt": "2026-10-13T02:12:40.589Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8514,6 +8514,262 @@
 				"asset": "demon-talon-v1.fantome",
 				"size": 16069964,
 				"sha256": "9efbabb68165aa4cc8bc6e9d845b1cf1af1ba51fb879579a3552fdb3448ffc8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-yorick",
+			"name": "Demon Yorick",
+			"champion": 83,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-yorick/thumb.webp?v=c93b9d8c",
+			"file": {
+				"version": 1,
+				"asset": "demon-yorick-v1.fantome",
+				"size": 6242398,
+				"sha256": "841e4712a470b2f7dd37fb6e1ae661753ec905bdb3522e40fb5b1d2fb6895bc1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-zed",
+			"name": "Demon Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-zed/thumb.webp?v=076f3631",
+			"file": {
+				"version": 1,
+				"asset": "demon-zed-v1.fantome",
+				"size": 25319348,
+				"sha256": "f03e5f4009f875ba214e4f21b2c67ece26bdcc5c4d95240491fe9092424d7834"
+			},
+			"chromas": []
+		},
+		{
+			"id": "deoxys-udyr",
+			"name": "Deoxys (Udyr)",
+			"champion": 77,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/deoxys-udyr/thumb.webp?v=6d2cbe91",
+			"file": {
+				"version": 1,
+				"asset": "deoxys-udyr-v1.fantome",
+				"size": 9634486,
+				"sha256": "3dfda6331f15a04872784839e5470bbaf73cb9dc6ecde00639b159a04c3ee60a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "desert-siren-katarina",
+			"name": "Desert Siren Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/desert-siren-katarina/thumb.webp?v=1a12961e",
+			"file": {
+				"version": 1,
+				"asset": "desert-siren-katarina-v1.fantome",
+				"size": 5116367,
+				"sha256": "687b41a33d12fb19478574e1c5b08c19c492411957aaaa4e94ce7816945713eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "devil-jin-alistar",
+			"name": "Devil Jin Alistar",
+			"champion": 12,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/devil-jin-alistar/thumb.webp?v=76683b4d",
+			"file": {
+				"version": 1,
+				"asset": "devil-jin-alistar-v1.fantome",
+				"size": 8528858,
+				"sha256": "ced7d8a73c861d0591836ae9c0c137e040c1d9e611705edb2b6e848681728faf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "devil-jin-sett",
+			"name": "Devil jin sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/devil-jin-sett/thumb.webp?v=49caf3cc",
+			"file": {
+				"version": 1,
+				"asset": "devil-jin-sett-v1.fantome",
+				"size": 56719053,
+				"sha256": "50e7db6be0b4a9fdb5ccba10b6e45d9031d8d1019e97206854146771b23f370c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "devil-may-cry-fiora",
+			"name": "Devil May Cry Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/devil-may-cry-fiora/thumb.webp?v=12718150",
+			"file": {
+				"version": 1,
+				"asset": "devil-may-cry-fiora-v1.fantome",
+				"size": 5361556,
+				"sha256": "710834ed3eecf3c536c3cd87bbb2c27b2bb7ec7e7b4d63e0b2a2f4f106f383a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "diablo-kayn",
+			"name": "Diablo Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "dazashu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/diablo-kayn/thumb.webp?v=88d10539",
+			"file": {
+				"version": 1,
+				"asset": "diablo-kayn-v1.fantome",
+				"size": 20247943,
+				"sha256": "0cc638d118b8a377a36a3a1d4f1b08edb0d274f501da48d452f7f89348414062"
+			},
+			"chromas": []
+		},
+		{
+			"id": "diana-angel",
+			"name": "Angel",
+			"champion": 131,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/diana-angel/thumb.webp?v=7b065a1e",
+			"file": {
+				"version": 1,
+				"asset": "diana-angel-v1.fantome",
+				"size": 13564457,
+				"sha256": "6109229e4549d06182f7209e1d38067503da767f0c2cb429a9c69d1203da6cc5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "diana-blade-of-miquela",
+			"name": "Diana: Blade of Miquela",
+			"champion": 131,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/diana-blade-of-miquela/thumb.webp?v=531fc342",
+			"file": {
+				"version": 1,
+				"asset": "diana-blade-of-miquela-v1.fantome",
+				"size": 11495884,
+				"sha256": "8bd2f3bb136e65f492ff4eae919f8d716fbf690df4bf62e036932ab3e8ab7c0b"
 			},
 			"chromas": []
 		},
