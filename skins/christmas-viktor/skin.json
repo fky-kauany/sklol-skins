@@ -1,0 +1,26 @@
+{
+	"id": "christmas-viktor",
+	"name": "Christmas Viktor",
+	"champion": 112,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/christmas-viktor\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/christmas-viktor/thumb.webp?v=d4e90bc1",
+	"file": {
+		"version": 1,
+		"asset": "christmas-viktor-v1.fantome",
+		"size": 9995858,
+		"sha256": "30b6afe423af19a68a9197d17121c87a9257dac70e2cd188aa4f3302810d6a91"
+	},
+	"chromas": []
+}

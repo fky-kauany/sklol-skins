@@ -1,0 +1,27 @@
+{
+	"id": "cho-gath-kannakamui-chogath",
+	"name": "KannaKamui Chogath",
+	"champion": 31,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : KannaKamui Chogath\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.2.2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/kannakamui-chogath\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cho-gath-kannakamui-chogath/thumb.webp?v=31e3d8fc",
+	"file": {
+		"version": 1,
+		"asset": "cho-gath-kannakamui-chogath-v1.fantome",
+		"size": 21119916,
+		"sha256": "21dd41975d2b9327388c5cec836bb1a602ca4320c5316a3cd709d644c6f9e971"
+	},
+	"chromas": []
+}

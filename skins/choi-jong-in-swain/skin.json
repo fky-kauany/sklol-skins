@@ -1,0 +1,26 @@
+{
+	"id": "choi-jong-in-swain",
+	"name": "Choi Jong In Swain",
+	"champion": 50,
+	"base": 0,
+	"creator": "disco",
+	"description": "Enjoy ^^\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/choi-jong-in-swain\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/choi-jong-in-swain/thumb.webp?v=b110b45e",
+	"file": {
+		"version": 1,
+		"asset": "choi-jong-in-swain-v1.fantome",
+		"size": 25147244,
+		"sha256": "33dfcc1a8a841785950bae6f75ff8f69acf59fa6980f1d2ebc697b7600035b72"
+	},
+	"chromas": []
+}

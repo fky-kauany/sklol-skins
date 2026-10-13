@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:31:03.612Z",
+	"generatedAt": "2026-10-13T01:37:01.367Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -6182,6 +6182,262 @@
 				"asset": "cho-gath-eto-chogath-v1.fantome",
 				"size": 5464427,
 				"sha256": "be996d35e34ccf2e1ef568d2e78268fe39887c1408c33d1b9df23f733fbaa680"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cho-gath-kannakamui-chogath",
+			"name": "KannaKamui Chogath",
+			"champion": 31,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cho-gath-kannakamui-chogath/thumb.webp?v=31e3d8fc",
+			"file": {
+				"version": 1,
+				"asset": "cho-gath-kannakamui-chogath-v1.fantome",
+				"size": 21119916,
+				"sha256": "21dd41975d2b9327388c5cec836bb1a602ca4320c5316a3cd709d644c6f9e971"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cho-gath-the-rancor",
+			"name": "The Rancor",
+			"champion": 31,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cho-gath-the-rancor/thumb.webp?v=a12dd5a4",
+			"file": {
+				"version": 1,
+				"asset": "cho-gath-the-rancor-v1.fantome",
+				"size": 12808259,
+				"sha256": "da3d1a9105c2b8ec1aba1ffdeb1f5f038ad449f52eabed2fa7e343fb02dbc542"
+			},
+			"chromas": []
+		},
+		{
+			"id": "choi-jong-in-brand",
+			"name": "Choi Jong-In Brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/choi-jong-in-brand/thumb.webp?v=a5d2fbbb",
+			"file": {
+				"version": 1,
+				"asset": "choi-jong-in-brand-v1.fantome",
+				"size": 23549528,
+				"sha256": "66d8b37819c3c5091deca690cc07e4202de21e8df016f5d383c8edbf3a29e3db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "choi-jong-in-swain",
+			"name": "Choi Jong In Swain",
+			"champion": 50,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/choi-jong-in-swain/thumb.webp?v=b110b45e",
+			"file": {
+				"version": 1,
+				"asset": "choi-jong-in-swain-v1.fantome",
+				"size": 25147244,
+				"sha256": "33dfcc1a8a841785950bae6f75ff8f69acf59fa6980f1d2ebc697b7600035b72"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chopchop-ambessa",
+			"name": "ChopChop Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chopchop-ambessa/thumb.webp?v=ae1912f6",
+			"file": {
+				"version": 1,
+				"asset": "chopchop-ambessa-v1.fantome",
+				"size": 12020645,
+				"sha256": "ea7856c54a8863265d04bdc16c64bbea17871b605bf4c2e41740d759e5b5757a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "christmas-ambessa",
+			"name": "Christmas Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/christmas-ambessa/thumb.webp?v=01ea3e25",
+			"file": {
+				"version": 1,
+				"asset": "christmas-ambessa-v1.fantome",
+				"size": 9544484,
+				"sha256": "379daca6207d6a1dc17855e53b3ab1beab6dc8b0b7c15b85193b1491284b5cbb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "christmas-aurora",
+			"name": "Christmas Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/christmas-aurora/thumb.webp?v=f4e52fa6",
+			"file": {
+				"version": 1,
+				"asset": "christmas-aurora-v1.fantome",
+				"size": 8636633,
+				"sha256": "4bdb00dce03be1b2e11d07a577c383bae49f9dea582d17b49ea30af567467450"
+			},
+			"chromas": []
+		},
+		{
+			"id": "christmas-talon",
+			"name": "Christmas Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/christmas-talon/thumb.webp?v=7f969158",
+			"file": {
+				"version": 1,
+				"asset": "christmas-talon-v1.fantome",
+				"size": 333602,
+				"sha256": "15836cc79dc4fa56a2bff539539763859aff93a2c4b1181f45a3f5cab1898ccb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "christmas-viktor",
+			"name": "Christmas Viktor",
+			"champion": 112,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/christmas-viktor/thumb.webp?v=d4e90bc1",
+			"file": {
+				"version": 1,
+				"asset": "christmas-viktor-v1.fantome",
+				"size": 9995858,
+				"sha256": "30b6afe423af19a68a9197d17121c87a9257dac70e2cd188aa4f3302810d6a91"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chromas-annie-pandemonium",
+			"name": "Chromas Annie Pandemonium",
+			"champion": 1,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/chromas-annie-pandemonium/thumb.webp?v=cc112e55",
+			"file": {
+				"version": 1,
+				"asset": "chromas-annie-pandemonium-v1.fantome",
+				"size": 13426827,
+				"sha256": "c4057be9bfba1ad788281c132973343da9d9f6d2f7d4b409e88f8f0bf46c516e"
 			},
 			"chromas": []
 		},

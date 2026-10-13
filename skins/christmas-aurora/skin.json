@@ -1,0 +1,26 @@
+{
+	"id": "christmas-aurora",
+	"name": "Christmas Aurora",
+	"champion": 893,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/christmas-aurora\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/christmas-aurora/thumb.webp?v=f4e52fa6",
+	"file": {
+		"version": 1,
+		"asset": "christmas-aurora-v1.fantome",
+		"size": 8636633,
+		"sha256": "4bdb00dce03be1b2e11d07a577c383bae49f9dea582d17b49ea30af567467450"
+	},
+	"chromas": []
+}

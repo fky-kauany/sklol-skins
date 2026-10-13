@@ -1,0 +1,26 @@
+{
+	"id": "christmas-ambessa",
+	"name": "Christmas Ambessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/christmas-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/christmas-ambessa/thumb.webp?v=01ea3e25",
+	"file": {
+		"version": 1,
+		"asset": "christmas-ambessa-v1.fantome",
+		"size": 9544484,
+		"sha256": "379daca6207d6a1dc17855e53b3ab1beab6dc8b0b7c15b85193b1491284b5cbb"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "christmas-talon",
+	"name": "Christmas Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/christmas-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/christmas-talon/thumb.webp?v=7f969158",
+	"file": {
+		"version": 1,
+		"asset": "christmas-talon-v1.fantome",
+		"size": 333602,
+		"sha256": "15836cc79dc4fa56a2bff539539763859aff93a2c4b1181f45a3f5cab1898ccb"
+	},
+	"chromas": []
+}

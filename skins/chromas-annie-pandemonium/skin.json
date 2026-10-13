@@ -1,0 +1,25 @@
+{
+	"id": "chromas-annie-pandemonium",
+	"name": "Chromas Annie Pandemonium",
+	"champion": 1,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "𝐈𝐧𝐝𝐢𝐞 𝐜𝐨𝐦𝐩𝐚𝐧𝐲 𝐜𝐚𝐧𝐭 𝐩𝐫𝐨𝐝𝐮𝐜𝐞 𝐜𝐡𝐫𝐨𝐦𝐚'𝐬 𝐟𝐨𝐫 𝐠𝐨𝐨𝐝 𝐬𝐤𝐢𝐧 𝐛𝐮𝐭 𝐰𝐢𝐥𝐥 𝐬𝐡𝐢𝐭 10 𝐛𝐚𝐭𝐭𝐥𝐞𝐬 𝐩𝐚𝐬𝐬𝐞𝐬 𝐞𝐯𝐞𝐫𝐲 𝐰𝐞𝐞𝐤 𝐚𝐧𝐝 𝐬𝐡𝐢𝐭𝐭𝐲 𝐬𝐤𝐢𝐧𝐥𝐢𝐧𝐞 𝐰𝐡𝐢𝐥𝐞 𝐠𝐨𝐨𝐝 𝐬𝐤𝐢𝐧 𝐜𝐚𝐧 𝐨𝐧𝐥𝐲 𝐛𝐞 𝐨𝐛𝐭𝐚𝐢𝐧 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐠𝐚𝐜𝐡𝐚 𝐬𝐡𝐢𝐭𝐭𝐞𝐫𝐬 𝐠𝐚𝐦𝐛𝐥𝐢𝐧𝐠 𝐚𝐝𝐝𝐢𝐜𝐭 𝐠𝐚𝐦𝐞 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐠𝐞𝐭 𝐛𝐚𝐧𝐧𝐞𝐝 𝐢𝐟 𝐲𝐨𝐮 𝐝𝐮𝐨 𝐰𝐢𝐭𝐡 𝐚 𝐟𝐫𝐢𝐞𝐧𝐝 𝐭𝐡𝐚𝐭 𝐛𝐨𝐮𝐠𝐡𝐭 𝐚 𝐟𝐫𝐞𝐬𝐡 𝐚𝐜𝐜 5𝐲𝐞𝐚𝐫𝐬 𝐚𝐠𝐨 𝐚𝐧𝐝 𝐰𝐢𝐥𝐥 𝐨𝐧𝐥𝐲 𝐜𝐚𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐲𝐨𝐮 𝐢𝐟 𝐮𝐫 𝐚𝐧 𝐞𝐠𝐢𝐫𝐥 (𝐧𝐨 𝐦𝐚𝐭𝐭𝐞𝐫 𝐭𝐡𝐞 𝐛𝐫𝐞𝐚𝐬𝐭 𝐬𝐢𝐳𝐞) :𝐃 \r\n\r\n\r\n          ⋆｡°✩ Anyway use layers button to choose the chroma of ur choice. \r\n          base chroma is:  Transgender Flag Annie Pandemonium Chroma ✩°｡⋆\r\n![Skin Layers](https://i.imgur.com/9zp0cSH.png)\n\n---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/chromas-annie-pandemonium\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/chromas-annie-pandemonium/thumb.webp?v=cc112e55",
+	"file": {
+		"version": 1,
+		"asset": "chromas-annie-pandemonium-v1.fantome",
+		"size": 13426827,
+		"sha256": "c4057be9bfba1ad788281c132973343da9d9f6d2f7d4b409e88f8f0bf46c516e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "cho-gath-the-rancor",
+	"name": "The Rancor",
+	"champion": 31,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features**\n- Custom model and textures\n- Custom animations\n- Changed VFX\n- New SFX & VO\n- An infinite supply Gamorrean guards to munch on\n\n\n\nBringing back one of my old mods, thanks to the ease of use of Divine's modding tools!\n\nThis is an up-to-date version of Rancor Cho'Gath. \n\n### **Disclaimer!**\nThis is, by all means, still a very old mod of mine. It's jank and it's pretty ugly. So don't expect anything special! But people asked me for it so here it is.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/the-rancor\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cho-gath-the-rancor/thumb.webp?v=a12dd5a4",
+	"file": {
+		"version": 1,
+		"asset": "cho-gath-the-rancor-v1.fantome",
+		"size": 12808259,
+		"sha256": "da3d1a9105c2b8ec1aba1ffdeb1f5f038ad449f52eabed2fa7e343fb02dbc542"
+	},
+	"chromas": []
+}

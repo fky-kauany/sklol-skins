@@ -1,0 +1,26 @@
+{
+	"id": "choi-jong-in-brand",
+	"name": "Choi Jong-In Brand",
+	"champion": 63,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Choi Jong-In Brand\n\n### Features\n\n- **Custom model** replacing Brand with Choi Jong-In\n- **Custom abilities** themed around overwhelming fire magic\n- **Works on every Brand skin** for maximum flexibility\n- **Choi Jong-In voice over** for full immersion\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/choi-jong-in-brand\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/choi-jong-in-brand/thumb.webp?v=a5d2fbbb",
+	"file": {
+		"version": 1,
+		"asset": "choi-jong-in-brand-v1.fantome",
+		"size": 23549528,
+		"sha256": "66d8b37819c3c5091deca690cc07e4202de21e8df016f5d383c8edbf3a29e3db"
+	},
+	"chromas": []
+}
