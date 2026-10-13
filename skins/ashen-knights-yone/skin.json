@@ -1,0 +1,26 @@
+{
+	"id": "ashen-knights-yone",
+	"name": "Ashen Knights Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover Ashen Knights Yone, **imagined and commissioned by Gio**.\r\n\r\nThis custom skin reimagines Yone with a darker, demonic Ashen Knights style, inspired by Riot Games’ official skin line of the same name while keeping the elegance, speed, and deadly presence of the original champion.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/ashen-knights-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ashen-knights-yone/thumb.webp?v=2131be12",
+	"file": {
+		"version": 1,
+		"asset": "ashen-knights-yone-v1.fantome",
+		"size": 17948606,
+		"sha256": "4d6082999c0d1a37a400de5371a62922cc776c1d98438574b7538b34f3929f68"
+	},
+	"chromas": []
+}

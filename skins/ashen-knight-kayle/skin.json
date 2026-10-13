@@ -1,0 +1,26 @@
+{
+	"id": "ashen-knight-kayle",
+	"name": "Ashen Knight Kayle",
+	"champion": 10,
+	"base": 0,
+	"creator": "xellelux",
+	"description": "# Info:\nModified skin: Basic\nVersion: 1.0\n\n## Features:\nChanged model\nNew textures\nChanged VFX and SFX\nLoading screen, in-game icon\n\n---\n\n**Created by** [Xellelux](https://www.divineskins.gg/Xellelux)\n\n**Original:** https://www.divineskins.gg/Xellelux/ashen-knight-kayle\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ashen-knight-kayle/thumb.webp?v=1db16075",
+	"file": {
+		"version": 1,
+		"asset": "ashen-knight-kayle-v1.fantome",
+		"size": 26064200,
+		"sha256": "7de86fc4b12b4c1881450d765cf3df81ad1bc893ea8673a8e8c46236a4072194"
+	},
+	"chromas": []
+}

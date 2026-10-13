@@ -1,0 +1,24 @@
+{
+	"id": "astolfo-ezreal-deluxe",
+	"name": "Astolfo Ezreal Deluxe",
+	"champion": 81,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nAverage polish male, now in League of Legends.\r\nThis mod puts Astolfo in a school outfit over Ezreal. Truly a femboy deluxe\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces the Base Ezreal skin.\r\n\r\n❗This skin is a [variant](https://wiki.leagueoflegends.com/en-us/Category:Skin_variants \"skin variant - what is that?\") of another custom skin: [Astolfo Ezreal](https://divineskins.gg/Wiko/astolfo-ezreal \"astolfo ezreal but not as much of a femboy\")\r\n\r\n#\r\n\r\n### ✨ Features\r\n\r\n* New model and textures\r\n* Modified loadingscreen\r\n* Modified in-game icons\r\n\r\n#\r\n\r\n### ✨ Credits\r\n\r\nCredits to [anhtle2010](https://sketchfab.com/anhtle2010) for the [model](https://sketchfab.com/3d-models/astolfo-school-uniform-0eb42d074fd34932be56fe92ab693cfd).\r\n\r\nCredits to [drosari](https://sketchfab.com/drosari \"guy who made the astolfo sword model\") for the [sword model](https://sketchfab.com/3d-models/astolfos-sword-3f5ad88ba4eb4accbfb78ada7d16abe1 \"astolfo sword model link\").\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/astolfo-ezreal-deluxe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/astolfo-ezreal-deluxe/thumb.webp?v=6724ef56",
+	"file": {
+		"version": 1,
+		"asset": "astolfo-ezreal-deluxe-v1.fantome",
+		"size": 2067012,
+		"sha256": "29a7480be49d3ff02a3d3e09d771b53d4ad28dbc8e29fefda71a597d13774af1"
+	},
+	"chromas": []
+}

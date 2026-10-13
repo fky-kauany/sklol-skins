@@ -1,0 +1,26 @@
+{
+	"id": "aurora-angel",
+	"name": "Angel",
+	"champion": 893,
+	"base": 0,
+	"creator": "disco",
+	"description": "Angel Aurora\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Aurora skin\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/angel-aurora\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aurora-angel/thumb.webp?v=9777f847",
+	"file": {
+		"version": 1,
+		"asset": "aurora-angel-v1.fantome",
+		"size": 9500429,
+		"sha256": "a38673e58da3e13a867e1dc5dd637b4931cad908c8b2ac31f7f36b8c47aa1ef7"
+	},
+	"chromas": []
+}

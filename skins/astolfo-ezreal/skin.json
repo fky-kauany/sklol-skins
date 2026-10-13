@@ -1,0 +1,24 @@
+{
+	"id": "astolfo-ezreal",
+	"name": "Astolfo Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nAverage polish male, now in League of Legends.\r\nThis mod replaces Ezreal with Astolfo.\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces the Base Ezreal skin.\r\n\r\n❗This skin is a [variant](https://wiki.leagueoflegends.com/en-us/Category:Skin_variants \"skin variant - what is that?\") of another custom skin: [Astolfo Ezreal Deluxe](https://divineskins.gg/Wiko/astolfo-ezreal-deluxe \"astolfo ezreal but even more of a femboy :3\")\r\n\r\n#\r\n\r\n### ✨ Features\r\n\r\n* New model and textures\r\n* Modified loadingscreen\r\n* Modified in-game icons\r\n\r\n#\r\n\r\n### ✨ Credits\r\n\r\nCredits to [NouveauOceana](https://steamcommunity.com/id/NouveauOceana \"guy who made this astolfo model\") for the [Astolfo model](https://steamcommunity.com/sharedfiles/filedetails/?l=polish\\&id=1388056137 \"astolfo model link\").\r\n\r\nCredits to [drosari](https://sketchfab.com/drosari \"guy who made the astolfo sword model\") for the [sword model](https://sketchfab.com/3d-models/astolfos-sword-3f5ad88ba4eb4accbfb78ada7d16abe1 \"astolfo sword model link\").\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/astolfo-ezreal\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/astolfo-ezreal/thumb.webp?v=242c2463",
+	"file": {
+		"version": 1,
+		"asset": "astolfo-ezreal-v1.fantome",
+		"size": 2575289,
+		"sha256": "fb9bdfa23376d8a322b4f629208871116d4f766057ca4f10bf5f9b2c7ab7319f"
+	},
+	"chromas": []
+}

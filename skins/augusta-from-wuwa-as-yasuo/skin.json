@@ -1,0 +1,26 @@
+{
+	"id": "augusta-from-wuwa-as-yasuo",
+	"name": "Augusta From Wuwa as Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "garyuu",
+	"description": "I really like Augusta from wuthering waves, so I tried to port her into yasuo, my main in lol.\n\nI created 2 versions: one for the base skin with nightbringer yasuo VFX and another for the dragon truth yasuo skin, I like the second one better because I imported her echo from the game to it, and the effects match her better IMO\n\nBoth have the same Voice Pack\n\nThis is my first mod\n\n---\n\n**Created by** [Garyuu](https://www.divineskins.gg/Garyuu)\n\n**Original:** https://www.divineskins.gg/Garyuu/augusta-from-wuwa-as-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/augusta-from-wuwa-as-yasuo/thumb.webp?v=ff3a77b0",
+	"file": {
+		"version": 1,
+		"asset": "augusta-from-wuwa-as-yasuo-v1.fantome",
+		"size": 27255242,
+		"sha256": "1dcdeaffff3278fd76d0a1dbfae1dfad303c9ec0e306aec539fe10654e1774c3"
+	},
+	"chromas": []
+}

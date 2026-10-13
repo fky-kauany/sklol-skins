@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:42:55.634Z",
+	"generatedAt": "2026-10-13T00:47:39.143Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8,6 +8,17 @@
 			"bio": "arclyris/ascilia side account used to post commissioned mods. check out my main page here \n\nhttps://divineskins.gg/archlyris",
 			"links": {
 				"discord": "https://discord.gg/yaByNwaxsP"
+			}
+		},
+		"antton": {
+			"name": "Antton",
+			"avatar": "creators/antton.webp?v=e22a3138",
+			"bio": "# ANTTON | CUSTOM LEAGUE OF LEGENDS SKIN CREATOR\n\nI create custom **League of Legends skins, champion redesigns, and complete visual transformations**, giving your favorite champions new identities and unique in-game experiences.\n\nMy work combines creativity, technical precision, and artistic direction to bring original concepts to life through detailed models, immersive effects, and cohesive visual designs.\n\n### WHAT I CREATE\n\n- **Custom 3D Models & Textures** — Champion transformations, model ",
+			"links": {
+				"discord": "https://discord.gg/fB9AxQnhFz",
+				"kofi": "https://ko-fi.com/antton_creator",
+				"tiktok": "https://www.tiktok.com/@antton_lol",
+				"youtube": "https://www.youtube.com/@Antton_Creator"
 			}
 		},
 		"aphex": {
@@ -81,6 +92,14 @@
 			"bio": "XD",
 			"links": {
 				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
+			}
+		},
+		"garyuu": {
+			"name": "Garyuu",
+			"avatar": "creators/garyuu.webp?v=e285be67",
+			"bio": "Augusta Simp",
+			"links": {
+				"youtube": "https://youtu.be/gqgZpk_jJKQ"
 			}
 		},
 		"ikiryou": {
@@ -197,6 +216,11 @@
 				"twitch": "https://www.twitch.tv/zy0xxx",
 				"youtube": "https://www.youtube.com/@wikofiko"
 			}
+		},
+		"xellelux": {
+			"name": "Xellelux",
+			"avatar": "creators/xellelux.webp?v=e46c87e1",
+			"links": {}
 		},
 		"yigitvercetti": {
 			"name": "yigitvercetti",
@@ -2671,6 +2695,262 @@
 				"asset": "ashe-sasha-v1.fantome",
 				"size": 6732225,
 				"sha256": "c743b23a63a82e75d8c3095987345ef10add229cf7abff426d6da9c7f137571d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashen-knight-kayle",
+			"name": "Ashen Knight Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "xellelux",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ashen-knight-kayle/thumb.webp?v=1db16075",
+			"file": {
+				"version": 1,
+				"asset": "ashen-knight-kayle-v1.fantome",
+				"size": 26064200,
+				"sha256": "7de86fc4b12b4c1881450d765cf3df81ad1bc893ea8673a8e8c46236a4072194"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashen-knights-yone",
+			"name": "Ashen Knights Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ashen-knights-yone/thumb.webp?v=2131be12",
+			"file": {
+				"version": 1,
+				"asset": "ashen-knights-yone-v1.fantome",
+				"size": 17948606,
+				"sha256": "4d6082999c0d1a37a400de5371a62922cc776c1d98438574b7538b34f3929f68"
+			},
+			"chromas": []
+		},
+		{
+			"id": "astolfo-ezreal",
+			"name": "Astolfo Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/astolfo-ezreal/thumb.webp?v=242c2463",
+			"file": {
+				"version": 1,
+				"asset": "astolfo-ezreal-v1.fantome",
+				"size": 2575289,
+				"sha256": "fb9bdfa23376d8a322b4f629208871116d4f766057ca4f10bf5f9b2c7ab7319f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "astolfo-ezreal-deluxe",
+			"name": "Astolfo Ezreal Deluxe",
+			"champion": 81,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/astolfo-ezreal-deluxe/thumb.webp?v=6724ef56",
+			"file": {
+				"version": 1,
+				"asset": "astolfo-ezreal-deluxe-v1.fantome",
+				"size": 2067012,
+				"sha256": "29a7480be49d3ff02a3d3e09d771b53d4ad28dbc8e29fefda71a597d13774af1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "astolfo-zoe",
+			"name": "Astolfo Zoe",
+			"champion": 142,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/astolfo-zoe/thumb.webp?v=7d7929cf",
+			"file": {
+				"version": 1,
+				"asset": "astolfo-zoe-v1.fantome",
+				"size": 11497973,
+				"sha256": "b23ae94a1cc2403365231ae6ea790f8f900d9244bc03a174098c8a84329ee56f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "augusta-from-wuwa-as-yasuo",
+			"name": "Augusta From Wuwa as Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "garyuu",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/augusta-from-wuwa-as-yasuo/thumb.webp?v=ff3a77b0",
+			"file": {
+				"version": 1,
+				"asset": "augusta-from-wuwa-as-yasuo-v1.fantome",
+				"size": 27255242,
+				"sha256": "1dcdeaffff3278fd76d0a1dbfae1dfad303c9ec0e306aec539fe10654e1774c3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aurora-ai-hoshino",
+			"name": "Aurora Ai Hoshino",
+			"champion": 893,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aurora-ai-hoshino/thumb.webp?v=12407d0c",
+			"file": {
+				"version": 1,
+				"asset": "aurora-ai-hoshino-v1.fantome",
+				"size": 12618537,
+				"sha256": "2d4ddf7ad80a9406d32836d09ae6408b5db25423dc03433d3c40d04390e885ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aurora-angel",
+			"name": "Angel",
+			"champion": 893,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aurora-angel/thumb.webp?v=9777f847",
+			"file": {
+				"version": 1,
+				"asset": "aurora-angel-v1.fantome",
+				"size": 9500429,
+				"sha256": "a38673e58da3e13a867e1dc5dd637b4931cad908c8b2ac31f7f36b8c47aa1ef7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aurora-mai-sakurajima",
+			"name": "Mai Sakurajima",
+			"champion": 893,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aurora-mai-sakurajima/thumb.webp?v=9c5906ea",
+			"file": {
+				"version": 1,
+				"asset": "aurora-mai-sakurajima-v1.fantome",
+				"size": 18083265,
+				"sha256": "7cc3816ef7b5902d7e380c3017e7796669313c18de00c6c8c5fe389aa403f26b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aurora-marin-kitagawa",
+			"name": "Aurora Marin Kitagawa",
+			"champion": 893,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aurora-marin-kitagawa/thumb.webp?v=1f710d9e",
+			"file": {
+				"version": 1,
+				"asset": "aurora-marin-kitagawa-v1.fantome",
+				"size": 12811022,
+				"sha256": "3ff6fceed8afe105495080adc30c655950e45836634bc90359dfd48586876ff2"
 			},
 			"chromas": []
 		},

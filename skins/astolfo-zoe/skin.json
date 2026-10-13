@@ -1,0 +1,26 @@
+{
+	"id": "astolfo-zoe",
+	"name": "Astolfo Zoe",
+	"champion": 142,
+	"base": 0,
+	"creator": "daka",
+	"description": "---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/astolfo-zoe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/astolfo-zoe/thumb.webp?v=7d7929cf",
+	"file": {
+		"version": 1,
+		"asset": "astolfo-zoe-v1.fantome",
+		"size": 11497973,
+		"sha256": "b23ae94a1cc2403365231ae6ea790f8f900d9244bc03a174098c8a84329ee56f"
+	},
+	"chromas": []
+}
