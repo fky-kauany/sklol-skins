@@ -1,0 +1,26 @@
+{
+	"id": "the-enderman-fiddlesticks",
+	"name": "The Enderman Fiddlesticks",
+	"champion": 9,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/the-enderman-fiddlesticks\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-enderman-fiddlesticks/thumb.webp?v=9258ab5d",
+	"file": {
+		"version": 1,
+		"asset": "the-enderman-fiddlesticks-v1.fantome",
+		"size": 5802608,
+		"sha256": "ac343e34f5982c7389ab71792004cc97ec2c8901471b1b00255924d20524db9c"
+	},
+	"chromas": []
+}

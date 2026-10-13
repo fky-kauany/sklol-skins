@@ -1,0 +1,26 @@
+{
+	"id": "the-berserker-vindicator-darius",
+	"name": "The Berserker Vindicator (Darius)",
+	"champion": 122,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\r\n\r\nBase champion: Darius\r\n\r\nSkin:  Default\r\n\r\nAuthor: Sauronkaiser\r\n\r\nDescription: The second of the Vindicator brothers.\r\n\r\nFeatures:\r\n\r\n-New model and textures.\r\n\r\n-New full set of animations.\r\n\r\n-Full model and animations swap while passive is charged.\r\n\r\n-New sounds.\r\n\r\n-New particles\r\n\r\n-New Splashart loading screen.\r\n\r\n-New Ability icons and HUD.\r\n\r\n-A giant chunk of iron as sword.\r\n\r\n-Ravager armor included on passive activation\r\n\r\n-Alloy included\r\n\r\n-Berserk references included. A lot of them.\r\n\r\nMeet the vindicator brothers!\r\n\r\n-The Weaponmaster vindicator (Draven):\r\n\r\nlink to be posted\r\n\r\n-The Electric vindicator (Olaf):\r\n\r\nlink to be posted\r\n\r\nLore:\r\n\r\nWhile resting in company of his younger brothers and reading an specific dark fantasy manga, the oldest vindicator got a letter directly from a Vex, sent by his boss, the Evoker.\r\n\r\nWhile at first he ignored the letter and tried to play baseball using his giant sword as the bat and the vex as a ball, his Alloy companion forced him to finally read the message.\r\n\r\nAn army of withers were invading the Overworld and the three vindicator brothers were selected to stop those monsters. \"Fighting undead withered skeletons inside hell itself actually sounds very metal\", he thought, so he grabbed his younger brothers and moved to the marked location.\r\n\r\nDidn't take long to repel the horde to the portal they came from, and soon enough they performing an Omniman reference by entering the wither skeleton's dimension to slay all of them in their own territory.\r\n\r\nHowever, while the skeletons army was being neutralized, there is still the problem of who will deal with The Wither itself and how.\r\n\r\nSources:\r\n\r\n-Animations made by me.\r\n\r\n-Particle changes made by me with some help from the community.\r\n\r\n-Some assets from Minecraft, others made by me in Blockbench.\r\n\r\n-Special thanks to Frog for helping with the Passive model swap effect.\r\n\r\n-The joke emote references the berserk memes from Baroja bookstore in Pontevedra.\r\n\r\n-The Taunt emote refereces a panel from Berserk.\r\n\r\n-The music from passive and dance emote is Immortalized from Disturbed (instrumental version)\r\n\r\n-The Laugh emote references the Jeb_ nametag effect on sheeps in Minecraft.\r\n\r\nLegacy Changelog:\r\n\r\n-18/08/2024: First official release\r\n\r\n-07/02/2025: Fixed for new patch\r\n\r\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/the-berserker-vindicator-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-berserker-vindicator-darius/thumb.webp?v=f4da3a2a",
+	"file": {
+		"version": 1,
+		"asset": "the-berserker-vindicator-darius-v1.fantome",
+		"size": 20092993,
+		"sha256": "e8b9473143e315adb82e13cf87601aa5cfb93706deed7c98231ab9997edc19f3"
+	},
+	"chromas": []
+}

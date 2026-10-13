@@ -1,0 +1,23 @@
+{
+	"id": "the-maxx-sion",
+	"name": "The Maxx sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"It wet, dark and wet, the kind of wet that penetrate\"\n\n***\n\n**Modified champion: Sion**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\nthe 3d model is the comic: The Maxx\nmade with me and Deric\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/the-maxx-sion\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-maxx-sion/thumb.webp?v=092a1d00",
+	"file": {
+		"version": 1,
+		"asset": "the-maxx-sion-v1.fantome",
+		"size": 2070653,
+		"sha256": "02b0e2de46801e8017921c5e867d2a8fa8ac46d0e5ebd0b478a796ad4376dcc2"
+	},
+	"chromas": []
+}

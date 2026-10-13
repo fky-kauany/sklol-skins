@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:50:04.453Z",
+	"generatedAt": "2026-10-13T06:53:25.751Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -18538,6 +18538,263 @@
 				"asset": "the-batter-ekko-v1.fantome",
 				"size": 10500919,
 				"sha256": "53826c45d12c14a3edff2daba5523349338c072ccf3382b4fa4bcd2458ef8b95"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-berserker-vindicator-darius",
+			"name": "The Berserker Vindicator (Darius)",
+			"champion": 122,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-berserker-vindicator-darius/thumb.webp?v=f4da3a2a",
+			"file": {
+				"version": 1,
+				"asset": "the-berserker-vindicator-darius-v1.fantome",
+				"size": 20092993,
+				"sha256": "e8b9473143e315adb82e13cf87601aa5cfb93706deed7c98231ab9997edc19f3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-deepest-drowned-azir",
+			"name": "The Deepest Drowned (Azir)",
+			"champion": 268,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-deepest-drowned-azir/thumb.webp?v=3d06d602",
+			"file": {
+				"version": 1,
+				"asset": "the-deepest-drowned-azir-v1.fantome",
+				"size": 19700020,
+				"sha256": "9701063af59527730319e5808fd3c0ff0b1cd5d04f96cb5f145824a9a462b7e1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-doomslayer-darius",
+			"name": "The Doomslayer Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-doomslayer-darius/thumb.webp?v=d47c94e8",
+			"file": {
+				"version": 1,
+				"asset": "the-doomslayer-darius-v1.fantome",
+				"size": 19201854,
+				"sha256": "2be871d52b6235345ebc0c2349a0960d0efa05614fbf56996faab21190421437"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-electric-vindicator-olaf",
+			"name": "The Electric Vindicator Olaf",
+			"champion": 2,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-electric-vindicator-olaf/thumb.webp?v=fd940565",
+			"file": {
+				"version": 1,
+				"asset": "the-electric-vindicator-olaf-v1.fantome",
+				"size": 23390225,
+				"sha256": "df97d302dbe312fc6c1bfb1e8852cde3f5189a197093ac803daff8ad83dcee46"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-enderman-fiddlesticks",
+			"name": "The Enderman Fiddlesticks",
+			"champion": 9,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-enderman-fiddlesticks/thumb.webp?v=9258ab5d",
+			"file": {
+				"version": 1,
+				"asset": "the-enderman-fiddlesticks-v1.fantome",
+				"size": 5802608,
+				"sha256": "ac343e34f5982c7389ab71792004cc97ec2c8901471b1b00255924d20524db9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-evoker-yorick",
+			"name": "The Evoker (Yorick)",
+			"champion": 83,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-evoker-yorick/thumb.webp?v=6eafeeb8",
+			"file": {
+				"version": 1,
+				"asset": "the-evoker-yorick-v1.fantome",
+				"size": 32660915,
+				"sha256": "5f676cbbf029c23105a9d7d38e5c7f05dc4bb7ced04339c5c5da9acbb76cb63c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-iron-golem-mordekaiser",
+			"name": "The Iron Golem Mordekaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-iron-golem-mordekaiser/thumb.webp?v=3f561dfb",
+			"file": {
+				"version": 1,
+				"asset": "the-iron-golem-mordekaiser-v1.fantome",
+				"size": 6856199,
+				"sha256": "00d8e9681ed9dd5e756138404cb23f3ab3ec376edf0d1a30931ecd35288fc311"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-maxx-sion",
+			"name": "The Maxx sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-maxx-sion/thumb.webp?v=092a1d00",
+			"file": {
+				"version": 1,
+				"asset": "the-maxx-sion-v1.fantome",
+				"size": 2070653,
+				"sha256": "02b0e2de46801e8017921c5e867d2a8fa8ac46d0e5ebd0b478a796ad4376dcc2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-spartan-piglin-ambessa",
+			"name": "The Spartan Piglin (Ambessa)",
+			"champion": 799,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-spartan-piglin-ambessa/thumb.webp?v=b2828539",
+			"file": {
+				"version": 1,
+				"asset": "the-spartan-piglin-ambessa-v1.fantome",
+				"size": 53099894,
+				"sha256": "8cfa7632e5c025c96028d6f613ac9ad6885f7966a500556171e8353758ba571c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-warden-rek-sai",
+			"name": "The Warden Rek'Sai",
+			"champion": 421,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-warden-rek-sai/thumb.webp?v=d06f0173",
+			"file": {
+				"version": 1,
+				"asset": "the-warden-rek-sai-v1.fantome",
+				"size": 8828859,
+				"sha256": "0f3fd9a8ab0550c757f18feaa71c5f9d87235d1638bf72eec7a0c6e1da0704ec"
 			},
 			"chromas": []
 		},

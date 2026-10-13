@@ -1,0 +1,26 @@
+{
+	"id": "the-warden-rek-sai",
+	"name": "The Warden Rek'Sai",
+	"champion": 421,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/the-warden-reksai\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-warden-rek-sai/thumb.webp?v=d06f0173",
+	"file": {
+		"version": 1,
+		"asset": "the-warden-rek-sai-v1.fantome",
+		"size": 8828859,
+		"sha256": "0f3fd9a8ab0550c757f18feaa71c5f9d87235d1638bf72eec7a0c6e1da0704ec"
+	},
+	"chromas": []
+}

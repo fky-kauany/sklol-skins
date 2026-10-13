@@ -1,0 +1,26 @@
+{
+	"id": "the-doomslayer-darius",
+	"name": "The Doomslayer Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/the-doomslayer-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-doomslayer-darius/thumb.webp?v=d47c94e8",
+	"file": {
+		"version": 1,
+		"asset": "the-doomslayer-darius-v1.fantome",
+		"size": 19201854,
+		"sha256": "2be871d52b6235345ebc0c2349a0960d0efa05614fbf56996faab21190421437"
+	},
+	"chromas": []
+}

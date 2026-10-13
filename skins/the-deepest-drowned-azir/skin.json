@@ -1,0 +1,26 @@
+{
+	"id": "the-deepest-drowned-azir",
+	"name": "The Deepest Drowned (Azir)",
+	"champion": 268,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Azir\n\nSkin: Default\n\nAuthor: Sauronkaiser\n\nDescription: The first of the undead heroes\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-3 different soldier skins randomized\n\n-A lot of different soldier skins in the ultimate\n\n-Doplhin mount in the E.\n\n-Special autoattack transitions when attacking and moving.\n\n-A ton of friends from the sea.\n\n-A ton of cameos in the ultimate.\n\n-A chicken and lava.\n\n-Scrapped content from a game made of cubes.\n\n-No balls pressing CRL+5.\n\nMeet the Undead heroes!\n\n-The Coldest Stray (Senna):\n\nNot uploaded yet\n\n-Bryan the Hero (Kayle):\n\nNot uploaded yet\n\nLore:\n\nLong time ago, three mighty heroes managed to defeat the Wither Storm and save the overworld. Not much is known about them in the current days, but legends say one of them was a powerful summoner from beneath the seas...\n\nSources and references:\n\n-The music used for the dance emote is Free The Angels, by The Lightbringer of Sweden.\n\n-The metal scream in the taunt emote also comes from that song.\n\n-All animations made by me.\n\n-Particle effects mostly made by me.\n\n-The joke emote references Lava Chicken from the Minecraft Movie.\n\n-The taunt emote references the copper golem, scrapped content from Minecraft (tho afterwards it was added to the game)\n\n-The laugh emote references the spanish youtuber Baitybait.\n\n-The respawn emote features a Happy Ghast from minecraft.\n\n-The ultimate features a lot of cameos from youtubers, such as Alexelcapo, Tonacho, Chincheto, etc.\n\n-The ultimate also features a lot of my previous Minecraft-themed mods.\n\n-Most of 3D models made by me except those listed below.\n\n-The copper golem model is from this post: https://sketchfab.com/3d-models/copper-golem-77f282824a494bb7a94c2ad77fabf053#download\n\n-The guardian model from the ultimate is from this post: https://sketchfab.com/3d-models/minecraft-guardian-1137df80013443799558d9586738b8ba\n\n-The horse model from the ultimate is from this post: https://sketchfab.com/3d-models/minecraft-horse-cb34dbb8bd17433d94b916d7023e0d52#download\n\n-The Breeze model from the ultimate is from this post: https://sketchfab.com/3d-models/free-minecraft-breeze-rigged-blender-model-38e162f62f7d4a378443ee8cd5407389#download\n\n-The Baiji model from the ultimate is from this post: https://sketchfab.com/3d-models/minecraft-dolphin-1644f4aff9ea4a14985bb7cb04c64026#download\n\n-The cow model is from this post: https://sketchfab.com/3d-models/minecraft-cow-a02041b58eb442c7a6a1bf2e031ee30d#download\n\n-The dolphin model is from this post: https://sketchfab.com/3d-models/minecraft-dolphin-1644f4aff9ea4a14985bb7cb04c64026\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/the-deepest-drowned-azir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-deepest-drowned-azir/thumb.webp?v=3d06d602",
+	"file": {
+		"version": 1,
+		"asset": "the-deepest-drowned-azir-v1.fantome",
+		"size": 19700020,
+		"sha256": "9701063af59527730319e5808fd3c0ff0b1cd5d04f96cb5f145824a9a462b7e1"
+	},
+	"chromas": []
+}
