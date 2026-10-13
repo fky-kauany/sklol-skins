@@ -1,0 +1,26 @@
+{
+	"id": "starrk-coyote-lucian",
+	"name": "Starrk Coyote - Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/starrk-coyote-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/starrk-coyote-lucian/thumb.webp?v=b90438d5",
+	"file": {
+		"version": 1,
+		"asset": "starrk-coyote-lucian-v1.fantome",
+		"size": 10082579,
+		"sha256": "fa70bd7bff493e755b64229b05486dc89e94c7a78075f43f898e80dc3f4bcbb1"
+	},
+	"chromas": []
+}

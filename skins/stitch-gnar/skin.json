@@ -1,0 +1,26 @@
+{
+	"id": "stitch-gnar",
+	"name": "Stitch Gnar",
+	"champion": 150,
+	"base": 0,
+	"creator": "frog",
+	"description": "Copyright & Legal Disclaimer\r\nThis modification is free to use and is a fan-made creation. All rights to the characters, names, and original concepts belong to Disney. This mod is not affiliated with or endorsed by Disney.\r\n\r\nFan-made, not affiliated with Disney or any other company.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/stitch-gnar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/stitch-gnar/thumb.webp?v=d466f012",
+	"file": {
+		"version": 1,
+		"asset": "stitch-gnar-v1.fantome",
+		"size": 14469848,
+		"sha256": "0faf65bb0e909ddc26377540037219d5738a937cfd04388834d1ea2a4eeea7c8"
+	},
+	"chromas": []
+}

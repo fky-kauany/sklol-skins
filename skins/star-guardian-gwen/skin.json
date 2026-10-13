@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-gwen",
+	"name": "Star Guardian Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "xellelux",
+	"description": "# Info:\n\nModified skin: Basic\nVersion: 1.0\n# Features:\n\nChanged model\nNew textures\nChanged VFX and SFX\nLoading screen, in-game icon\n\n---\n\n**Created by** [Xellelux](https://www.divineskins.gg/Xellelux)\n\n**Original:** https://www.divineskins.gg/Xellelux/star-guardian-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/star-guardian-gwen/thumb.webp?v=7b0a8661",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-gwen-v1.fantome",
+		"size": 9507089,
+		"sha256": "b877edbb09cfbd400bb504de85e99ca14c291ad669495b5319d3c886e95e7261"
+	},
+	"chromas": []
+}

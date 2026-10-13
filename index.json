@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:23:45.273Z",
+	"generatedAt": "2026-10-13T06:27:04.286Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16488,6 +16488,265 @@
 				"asset": "star-guardian-akali-chroma-vfx-v1.fantome",
 				"size": 4400033,
 				"sha256": "4cafd31a6819e89ba16dae3d069934a523dba67f97ccad70a43b6fa06d629882"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-gwen",
+			"name": "Star Guardian Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "xellelux",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-gwen/thumb.webp?v=7b0a8661",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-gwen-v1.fantome",
+				"size": 9507089,
+				"sha256": "b877edbb09cfbd400bb504de85e99ca14c291ad669495b5319d3c886e95e7261"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-orianna-chroma-vfx",
+			"name": "Star Guardian Orianna - Chroma VFX",
+			"champion": 61,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-orianna-chroma-vfx/thumb.webp?v=57d94fcb",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-orianna-chroma-vfx-v1.fantome",
+				"size": 14663907,
+				"sha256": "1aca0c492d6b435d7491873f7322481cd90b2a94ae0397dba61ce98f30341538"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-qiyana",
+			"name": "Star Guardian Qiyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-qiyana/thumb.webp?v=5ca89bab",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-qiyana-v1.fantome",
+				"size": 48610479,
+				"sha256": "8cf41d2dd533785a099e35536c17f638df75408c172508ea5909d3100d3daa68"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-thresh",
+			"name": "Star Guardian Thresh",
+			"champion": 412,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-thresh/thumb.webp?v=69101038",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-thresh-v1.fantome",
+				"size": 21052987,
+				"sha256": "2eaf94b9e026d2e86ce86857bbf36ee2ec020afd771ac867694492f0c3712343"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-yunara",
+			"name": "Star Guardian Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-yunara/thumb.webp?v=1393970d",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-yunara-v1.fantome",
+				"size": 16058974,
+				"sha256": "1406b6268840b16973b119aba6ec1390a4ea97db99eaa998581144ae16478a0c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "starrk-coyote-lucian",
+			"name": "Starrk Coyote - Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/starrk-coyote-lucian/thumb.webp?v=b90438d5",
+			"file": {
+				"version": 1,
+				"asset": "starrk-coyote-lucian-v1.fantome",
+				"size": 10082579,
+				"sha256": "fa70bd7bff493e755b64229b05486dc89e94c7a78075f43f898e80dc3f4bcbb1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "statue-of-god-karthus",
+			"name": "Statue of God Karthus",
+			"champion": 30,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/statue-of-god-karthus/thumb.webp?v=c53419d7",
+			"file": {
+				"version": 1,
+				"asset": "statue-of-god-karthus-v1.fantome",
+				"size": 29146035,
+				"sha256": "d81f522e11109b281c971b39d6328446e73b8def5d8ad53da33bfae96da1dc19"
+			},
+			"chromas": []
+		},
+		{
+			"id": "stealth-elf-akali",
+			"name": "Stealth Elf Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/stealth-elf-akali/thumb.webp?v=c062550d",
+			"file": {
+				"version": 1,
+				"asset": "stealth-elf-akali-v1.fantome",
+				"size": 11856764,
+				"sha256": "ba85a0825dfa12d7e3d311b85f9aa56064419c3b2bf61a2554d7ffe3d1e76e1c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "still-in-love-evelynn-from-uma-musume-pretty-der",
+			"name": "Still In Love Evelynn from Uma Musume Pretty Derby",
+			"champion": 28,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/still-in-love-evelynn-from-uma-musume-pretty-der/thumb.webp?v=e44fe4ee",
+			"file": {
+				"version": 1,
+				"asset": "still-in-love-evelynn-from-uma-musume-pretty-der-v1.fantome",
+				"size": 20224572,
+				"sha256": "1670c64ba7a59eef289558eb6d77a3853a64562bd6ab866dba905152151861a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "stitch-gnar",
+			"name": "Stitch Gnar",
+			"champion": 150,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/stitch-gnar/thumb.webp?v=d466f012",
+			"file": {
+				"version": 1,
+				"asset": "stitch-gnar-v1.fantome",
+				"size": 14469848,
+				"sha256": "0faf65bb0e909ddc26377540037219d5738a937cfd04388834d1ea2a4eeea7c8"
 			},
 			"chromas": []
 		},

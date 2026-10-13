@@ -1,0 +1,26 @@
+{
+	"id": "stealth-elf-akali",
+	"name": "Stealth Elf Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\r\n### DM IF YOU WANT TO COMMISSION (or if something breaks)\r\n#\r\n### Stealth Elf Akali from skylanders \r\n\r\nWorks on: All skins\r\n\r\nFEATURES:\r\n\r\n* NEW VFX\r\n* CUSTOM MODEL\r\n* FULL VO\r\n* CUSTOM ICONS\r\n\r\n(Might add more stuff in future)\r\n\r\nDAKA la??????\r\n\r\n\r\nKAKA\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/stealth-elf-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/stealth-elf-akali/thumb.webp?v=c062550d",
+	"file": {
+		"version": 1,
+		"asset": "stealth-elf-akali-v1.fantome",
+		"size": 11856764,
+		"sha256": "ba85a0825dfa12d7e3d311b85f9aa56064419c3b2bf61a2554d7ffe3d1e76e1c"
+	},
+	"chromas": []
+}

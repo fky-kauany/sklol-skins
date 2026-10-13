@@ -1,0 +1,26 @@
+{
+	"id": "still-in-love-evelynn-from-uma-musume-pretty-der",
+	"name": "Still In Love Evelynn from Uma Musume Pretty Derby",
+	"champion": 28,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# 💘 Still In Love Evelynn Skin:\n\n***\n\n> 🏇🏻 \"Can you keep up with her love?\" Say hello to Still In Love, who races onto the Summoner's Rift to steal hearts (and health bars)! 🏇🏻\n\n* Champion: Evelynn\n* Skin: All \n* Character Quality: All\n* VoiceLines Language: en_US\n\n## Features:\n\n***\n\n* New Custom Model\n* New Custom Textures\n* New VFX\n* New Loading Screen\n* New Champion Icons\n* New SFX\n* New Summoner Spells SFX\n* New Voicelines from the game!\n\n***If you find any bug please ping me in the discord server or dm me: davex45a.***\n\n## Credits:\n\n***\nLots of thanks to DjakDawid! <3\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/still-in-love-evelynn-from-uma-musume-pretty-derby\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/still-in-love-evelynn-from-uma-musume-pretty-der/thumb.webp?v=e44fe4ee",
+	"file": {
+		"version": 1,
+		"asset": "still-in-love-evelynn-from-uma-musume-pretty-der-v1.fantome",
+		"size": 20224572,
+		"sha256": "1670c64ba7a59eef289558eb6d77a3853a64562bd6ab866dba905152151861a1"
+	},
+	"chromas": []
+}

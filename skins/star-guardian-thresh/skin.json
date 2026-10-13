@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-thresh",
+	"name": "Star Guardian Thresh",
+	"champion": 412,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\r\n**Type:** Skin  \r\n**Modified Skin(s):** Thresh Base\r\n\r\n---\r\n\r\n### ? Credits\r\n**Model(s):** Threshous  \r\n**Special Thanks:** Threshous (model & SFX)\r\n\r\n**VFX:** Frog, I fucked up E Ability looks shit\r\n**Original Skin:** Threshous (all credits go to them)\r\n\r\n---\r\n\r\n### ? Additional Info\r\nQuestions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n---\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/star-guardian-thresh\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/star-guardian-thresh/thumb.webp?v=69101038",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-thresh-v1.fantome",
+		"size": 21052987,
+		"sha256": "2eaf94b9e026d2e86ce86857bbf36ee2ec020afd771ac867694492f0c3712343"
+	},
+	"chromas": []
+}

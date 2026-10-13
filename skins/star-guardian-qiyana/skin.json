@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-qiyana",
+	"name": "Star Guardian Qiyana",
+	"champion": 246,
+	"base": 0,
+	"creator": "frog",
+	"description": "Artwork and concept by https://x.com/Sirquel_art/status/1854992687113359445\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/star-guardian-qiyana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/star-guardian-qiyana/thumb.webp?v=5ca89bab",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-qiyana-v1.fantome",
+		"size": 48610479,
+		"sha256": "8cf41d2dd533785a099e35536c17f638df75408c172508ea5909d3100d3daa68"
+	},
+	"chromas": []
+}

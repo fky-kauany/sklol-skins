@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-orianna-chroma-vfx",
+	"name": "Star Guardian Orianna - Chroma VFX",
+	"champion": 61,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Star Guardian Orianna Chromas, this also changes her splashart/HUD for each chroma!\r\n\r\n╰┈➤ _The idea for this mod was to give her chromas custom VFX_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/star-guardian-orianna-chroma-vfx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/star-guardian-orianna-chroma-vfx/thumb.webp?v=57d94fcb",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-orianna-chroma-vfx-v1.fantome",
+		"size": 14663907,
+		"sha256": "1aca0c492d6b435d7491873f7322481cd90b2a94ae0397dba61ce98f30341538"
+	},
+	"chromas": []
+}
