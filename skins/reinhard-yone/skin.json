@@ -1,0 +1,26 @@
+{
+	"id": "reinhard-yone",
+	"name": "Reinhard Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Reinhard Yone\n\n### Features\n\n- **Divine Custom Model:** A complete visual overhaul for Yone, modeled after Reinhard van Astrea's iconic white and red royal guard uniform.\n- **Custom Abilities & VFX:** All-new visual effects for Yone's abilities that reflect Reinhard's holy, powerful sword arts. Expect cleaner, brighter, and more impactful animations on his Q, W, and ultimate.\n- **Champion Compatibility:** Designed exclusively for Yone.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/reinhard-yone\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/reinhard-yone/thumb.webp?v=814e74ab",
+	"file": {
+		"version": 1,
+		"asset": "reinhard-yone-v1.fantome",
+		"size": 29933964,
+		"sha256": "31f75dbb2e5caf50f9b04c9cab0100d985d83b96d505e13d1ce02ef37e4de377"
+	},
+	"chromas": []
+}

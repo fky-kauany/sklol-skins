@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:36:30.302Z",
+	"generatedAt": "2026-10-13T05:39:49.833Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -12863,6 +12863,265 @@
 				"asset": "red-amumu-v1.fantome",
 				"size": 1493938,
 				"sha256": "c0670d6780aec657438a0f202753d7a15e562dda1f10b49f7326fb1ed566bdca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "red-black-akshan",
+			"name": "Red Black Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/red-black-akshan/thumb.webp?v=cc7b5ffc",
+			"file": {
+				"version": 1,
+				"asset": "red-black-akshan-v1.fantome",
+				"size": 13357832,
+				"sha256": "4e852b4a7aaaf66da3f22fbf616d2e4b82a5ef5bd806389b605807747a66850b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "regulus-corneas-vladimir",
+			"name": "Regulus Corneas Vladimir",
+			"champion": 8,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/regulus-corneas-vladimir/thumb.webp?v=9aa33b2f",
+			"file": {
+				"version": 1,
+				"asset": "regulus-corneas-vladimir-v1.fantome",
+				"size": 18391908,
+				"sha256": "d03de6beb3cf74be5e0b70c5e4dfed927ac63aad22258a8518e51297008eacc6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "reimu-nasus",
+			"name": "Reimu Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/reimu-nasus/thumb.webp?v=fe38104a",
+			"file": {
+				"version": 1,
+				"asset": "reimu-nasus-v1.fantome",
+				"size": 18646637,
+				"sha256": "cf94c7ab0db0d3dbadf3d4a9c0c1a9cf8223617526cfe6367904e2f1cdeab5e0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "reinhard-yone",
+			"name": "Reinhard Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/reinhard-yone/thumb.webp?v=814e74ab",
+			"file": {
+				"version": 1,
+				"asset": "reinhard-yone-v1.fantome",
+				"size": 29933964,
+				"sha256": "31f75dbb2e5caf50f9b04c9cab0100d985d83b96d505e13d1ce02ef37e4de377"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rem-zaahen",
+			"name": "Rem Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rem-zaahen/thumb.webp?v=1d794f77",
+			"file": {
+				"version": 1,
+				"asset": "rem-zaahen-v1.fantome",
+				"size": 23813387,
+				"sha256": "9f5f1517ae35ed4859c7fb9b51bdcc8f37f533ce78890daec5464e1236afe1be"
+			},
+			"chromas": []
+		},
+		{
+			"id": "remielle-xayah",
+			"name": "Remielle xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "keithly",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/remielle-xayah/thumb.webp?v=b5dc7dce",
+			"file": {
+				"version": 1,
+				"asset": "remielle-xayah-v1.fantome",
+				"size": 48058591,
+				"sha256": "0db683a993c6498254f411cc8a5f19f57c29a00b65f0a933d4f89796f76a27af"
+			},
+			"chromas": []
+		},
+		{
+			"id": "renekton-illidan-stormrage",
+			"name": "Illidan Stormrage",
+			"champion": 58,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/renekton-illidan-stormrage/thumb.webp?v=756325f6",
+			"file": {
+				"version": 1,
+				"asset": "renekton-illidan-stormrage-v1.fantome",
+				"size": 25329183,
+				"sha256": "5b0161726af157a8efb2c94d964d88ec5bc1f4b2effd99e9b58f69bcb455d834"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rengar-sentinel-demon",
+			"name": "Rengar Sentinel Demon",
+			"champion": 107,
+			"base": 0,
+			"creator": "vincealucard",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rengar-sentinel-demon/thumb.webp?v=7311f1cd",
+			"file": {
+				"version": 1,
+				"asset": "rengar-sentinel-demon-v1.fantome",
+				"size": 8887530,
+				"sha256": "e712bea2757a803930aa0e5e48bd14b61729f0846b060b162c15ef1e1ca8507a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rengar-yummi",
+			"name": "Rengar: Yummi",
+			"champion": 107,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rengar-yummi/thumb.webp?v=665ad6fc",
+			"file": {
+				"version": 1,
+				"asset": "rengar-yummi-v1.fantome",
+				"size": 7776012,
+				"sha256": "b474c41e603f2b4764e87ee3aec80c5275d62984e4794ffd914955fcfb8e3dba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rengoku-talon",
+			"name": "Rengoku Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rengoku-talon/thumb.webp?v=6d5b1ac4",
+			"file": {
+				"version": 1,
+				"asset": "rengoku-talon-v1.fantome",
+				"size": 12487098,
+				"sha256": "fc8320af16f8c0b5d54ac331f547853e887e92abd18f2ce554f3626dc5ce80bd"
 			},
 			"chromas": []
 		},

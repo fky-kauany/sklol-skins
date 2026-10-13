@@ -1,0 +1,24 @@
+{
+	"id": "rengar-yummi",
+	"name": "Rengar: Yummi",
+	"champion": 107,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "What's my yummi doing in jungle???\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/rengar-yummi\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rengar-yummi/thumb.webp?v=665ad6fc",
+	"file": {
+		"version": 1,
+		"asset": "rengar-yummi-v1.fantome",
+		"size": 7776012,
+		"sha256": "b474c41e603f2b4764e87ee3aec80c5275d62984e4794ffd914955fcfb8e3dba"
+	},
+	"chromas": []
+}

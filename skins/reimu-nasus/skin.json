@@ -1,0 +1,27 @@
+{
+	"id": "reimu-nasus",
+	"name": "Reimu Nasus",
+	"champion": 75,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Reimu Nasus\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 2.1.3\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/reimu-nasus\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/reimu-nasus/thumb.webp?v=fe38104a",
+	"file": {
+		"version": 1,
+		"asset": "reimu-nasus-v1.fantome",
+		"size": 18646637,
+		"sha256": "cf94c7ab0db0d3dbadf3d4a9c0c1a9cf8223617526cfe6367904e2f1cdeab5e0"
+	},
+	"chromas": []
+}

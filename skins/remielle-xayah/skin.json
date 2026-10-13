@@ -1,0 +1,26 @@
+{
+	"id": "remielle-xayah",
+	"name": "Remielle xayah",
+	"champion": 498,
+	"base": 0,
+	"creator": "keithly",
+	"description": "This mod was commissioned by @riemay Skin features:\n\n!!ONLY WORKS ON STAR GUARDIAN XAYAH!!\n\n- Accurate model from the ZZZ game\n- Custom visual effects to match Remielle dust feather abilities \n- Custom icon and Banner\n\nIf you're interested in commissioning gacha skins like this you can contact me through discord direct message or the divine skins/runeforge server\n\nMy discord: redkeith\n\n---\n\n**Created by** [Keithly](https://www.divineskins.gg/Keithly)\n\n**Original:** https://www.divineskins.gg/Keithly/remielle-xayah\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/remielle-xayah/thumb.webp?v=b5dc7dce",
+	"file": {
+		"version": 1,
+		"asset": "remielle-xayah-v1.fantome",
+		"size": 48058591,
+		"sha256": "0db683a993c6498254f411cc8a5f19f57c29a00b65f0a933d4f89796f76a27af"
+	},
+	"chromas": []
+}

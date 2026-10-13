@@ -1,0 +1,27 @@
+{
+	"id": "rem-zaahen",
+	"name": "Rem Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "daka",
+	"description": "## *Big thanks to @KeyTchup for commissioning this skin, it is my best work by far.*\n\n## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (The Seven Deadly Sins)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/rem-zaahen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rem-zaahen/thumb.webp?v=1d794f77",
+	"file": {
+		"version": 1,
+		"asset": "rem-zaahen-v1.fantome",
+		"size": 23813387,
+		"sha256": "9f5f1517ae35ed4859c7fb9b51bdcc8f37f533ce78890daec5464e1236afe1be"
+	},
+	"chromas": []
+}

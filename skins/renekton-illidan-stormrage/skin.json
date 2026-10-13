@@ -1,0 +1,26 @@
+{
+	"id": "renekton-illidan-stormrage",
+	"name": "Illidan Stormrage",
+	"champion": 58,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/illidan-stormrage-renekton\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/renekton-illidan-stormrage/thumb.webp?v=756325f6",
+	"file": {
+		"version": 1,
+		"asset": "renekton-illidan-stormrage-v1.fantome",
+		"size": 25329183,
+		"sha256": "5b0161726af157a8efb2c94d964d88ec5bc1f4b2effd99e9b58f69bcb455d834"
+	},
+	"chromas": []
+}

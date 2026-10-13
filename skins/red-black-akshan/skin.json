@@ -1,0 +1,26 @@
+{
+	"id": "red-black-akshan",
+	"name": "Red Black Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "frog",
+	"description": "DSAFSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSAAAAAAAAAAAA\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/red-black-akshan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/red-black-akshan/thumb.webp?v=cc7b5ffc",
+	"file": {
+		"version": 1,
+		"asset": "red-black-akshan-v1.fantome",
+		"size": 13357832,
+		"sha256": "4e852b4a7aaaf66da3f22fbf616d2e4b82a5ef5bd806389b605807747a66850b"
+	},
+	"chromas": []
+}

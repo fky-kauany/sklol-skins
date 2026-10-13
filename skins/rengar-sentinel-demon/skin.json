@@ -1,0 +1,25 @@
+{
+	"id": "rengar-sentinel-demon",
+	"name": "Rengar Sentinel Demon",
+	"champion": 107,
+	"base": 0,
+	"creator": "vincealucard",
+	"description": "A recolor of the Rengar Sentinel, featuring my signature dark, gothic style.\n\n---\n\n**Created by** [VinceAlucard](https://www.divineskins.gg/VinceAlucard)\n\n**Original:** https://www.divineskins.gg/VinceAlucard/rengar-sentinel-demon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/rengar-sentinel-demon/thumb.webp?v=7311f1cd",
+	"file": {
+		"version": 1,
+		"asset": "rengar-sentinel-demon-v1.fantome",
+		"size": 8887530,
+		"sha256": "e712bea2757a803930aa0e5e48bd14b61729f0846b060b162c15ef1e1ca8507a"
+	},
+	"chromas": []
+}
