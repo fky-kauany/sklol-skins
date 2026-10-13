@@ -1,0 +1,26 @@
+{
+	"id": "stan-smith-jarvan-iv",
+	"name": "Stan Smith Jarvan IV",
+	"champion": 59,
+	"base": 0,
+	"creator": "drinfinito",
+	"description": "*\"Good morning, USA!\"*\n\nThis mod turns Jarvan into one of the greatest US Patriot, Stan Smith from American Dad! \n\nThis mod contains:\n- New Model!\n- New VO!\n- New SFX!\n- New HUD Icons!\n- New Loading Screen!\n\nCredits\n- Stan Smith Model from https://models.spriters-resource.com/mobile/warpedkartracers/asset/333851/\n- Stan Smith Voice from https://sounds.spriters-resource.com/mobile/warpedkartracers/asset/440949/\n- W SFX from https://pixabay.com/sound-effects/nature-eagle-scream-112940/ and https://en.wikipedia.org/wiki/File:Screaming_Hawk.wav\n\n---\n\n**Created by** [DrInfinito](https://www.divineskins.gg/DrInfinito)\n\n**Original:** https://www.divineskins.gg/DrInfinito/stan-smith-jarvan-iv\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/stan-smith-jarvan-iv/thumb.webp?v=3e0ef30b",
+	"file": {
+		"version": 1,
+		"asset": "stan-smith-jarvan-iv-v1.fantome",
+		"size": 8237779,
+		"sha256": "4ae8939c98ddb778ea381e33f81750d79418fb52f804653f64fec94e1de1b3a2"
+	},
+	"chromas": []
+}

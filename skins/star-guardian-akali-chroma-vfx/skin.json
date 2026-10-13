@@ -1,0 +1,25 @@
+{
+	"id": "star-guardian-akali-chroma-vfx",
+	"name": "Star Guardian Akali Chroma VFX",
+	"champion": 84,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod restores Star Guardian Akali's original, colored VFX from before Riot removed them.\n\n#\n\n### ✨ Additional information\n\nIn order to use this mod, you need to own Star Guardian Akali + Chroma and select it in champion select.\n\n#\n\n### ✨ Related Posts\n\n[Unmasked Akali]( \"Unmasked Akali\") (not posted yet :p)\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/star-guardian-akali-chroma-vfx\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/star-guardian-akali-chroma-vfx/thumb.webp?v=f9c85718",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-akali-chroma-vfx-v1.fantome",
+		"size": 4400033,
+		"sha256": "4cafd31a6819e89ba16dae3d069934a523dba67f97ccad70a43b6fa06d629882"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "squidward-shaco",
+	"name": "Squidward Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/squidward-shaco\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/squidward-shaco/thumb.webp?v=97d8e466",
+	"file": {
+		"version": 1,
+		"asset": "squidward-shaco-v1.fantome",
+		"size": 4173527,
+		"sha256": "a3403da3932d21c7d8ae0b5275c49854a686ecd130bc83bdc48afb5c76065711"
+	},
+	"chromas": []
+}

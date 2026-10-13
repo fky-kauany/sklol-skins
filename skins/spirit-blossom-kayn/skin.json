@@ -1,0 +1,25 @@
+{
+	"id": "spirit-blossom-kayn",
+	"name": "Spirit Blossom Kayn",
+	"champion": 141,
+	"base": 0,
+	"creator": "shelzy",
+	"description": "### MOD INFORMATION:\n\n* Champion: Kayn\n\n* Modified skin: Default\n\n* Author: Shelzy\n\n* Mod Version: 1.1.0\n\n### Please report bugs or give me feedback to my discord.\n* shelzymadara\n\n#\n### TO DO LIST (✅/❌):\n\nClick to see  ➤\n\n- Custom Sounds❌\n- Custom Recall for Kayn Base✅\n- Custom Recall for Rhaast✅\n- Custom Recall for Shadow Assassin✅\n- Improve Particles for Kayn Base❌\n- Improve Particles for Rhaast❌\n- Improve Particles for Shadow Assassin❌\n- Add Facials Expression for Kayn Base/Shadow Assassin❌\n\n---\n\nCHANGELOG\n\n- 1.1.0: Added Custom Recalls For Every Form\n- 1.0.0: Release\n\n---\n\n**Created by** [Shelzy](https://www.divineskins.gg/Shelzy)\n\n**Original:** https://www.divineskins.gg/Shelzy/spirit-blossom-kayn\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spirit-blossom-kayn/thumb.webp?v=a84d0c24",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-kayn-v1.fantome",
+		"size": 17452608,
+		"sha256": "2a7cf3c96abeaddb16e8841979c89307144813cde1d740ebfc6a9aec2be63ad1"
+	},
+	"chromas": []
+}

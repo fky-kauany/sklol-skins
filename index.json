@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:20:30.867Z",
+	"generatedAt": "2026-10-13T06:23:45.273Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16234,6 +16234,260 @@
 				"asset": "spirit-blossom-katarina-v1.fantome",
 				"size": 14415729,
 				"sha256": "0051aa284bd2a2f27b4711da3a8fc17b1e52773daae868f3d0dd90d44f149640"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-kayn",
+			"name": "Spirit Blossom Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "shelzy",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-kayn/thumb.webp?v=a84d0c24",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-kayn-v1.fantome",
+				"size": 17452608,
+				"sha256": "2a7cf3c96abeaddb16e8841979c89307144813cde1d740ebfc6a9aec2be63ad1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-springs-akshan",
+			"name": "Spirit Blossom Springs Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-springs-akshan/thumb.webp?v=9183c318",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-springs-akshan-v1.fantome",
+				"size": 1898436,
+				"sha256": "520933f5ca32eb62a5b980ece8669b50e5c608e7f265ee478e92b353fde5a1e4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-dragon-miss-fortune",
+			"name": "Spirit Dragon Miss Fortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spirit-dragon-miss-fortune/thumb.webp?v=6b950cee",
+			"file": {
+				"version": 1,
+				"asset": "spirit-dragon-miss-fortune-v1.fantome",
+				"size": 29368866,
+				"sha256": "53922a3854334dec61c0ddfdb94ee6237fe714c369638d763ab8cd97743ab749"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spongebob-pyke",
+			"name": "Spongebob Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spongebob-pyke/thumb.webp?v=6229b244",
+			"file": {
+				"version": 1,
+				"asset": "spongebob-pyke-v1.fantome",
+				"size": 40615789,
+				"sha256": "cc19f5361d45a2bdd428b44989563c37cf2b8868aa7e2d8f816b16efa4a889bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spongebob-veigar",
+			"name": "Spongebob Veigar",
+			"champion": 45,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spongebob-veigar/thumb.webp?v=335be4c1",
+			"file": {
+				"version": 1,
+				"asset": "spongebob-veigar-v1.fantome",
+				"size": 19913096,
+				"sha256": "dc8778950120900305719d4fec93d6ae451f86267be7324321c95c7013857860"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spooky-girl-annie",
+			"name": "Spooky Girl Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spooky-girl-annie/thumb.webp?v=0d7920e8",
+			"file": {
+				"version": 1,
+				"asset": "spooky-girl-annie-v1.fantome",
+				"size": 7442696,
+				"sha256": "145f251962f4e8edc81f8c8c6631918a69df2aa2f41cfa5f95ba3383415ae757"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spy-vs-spy-jhin",
+			"name": "Spy vs Spy jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/spy-vs-spy-jhin/thumb.webp?v=de696354",
+			"file": {
+				"version": 1,
+				"asset": "spy-vs-spy-jhin-v1.fantome",
+				"size": 11444501,
+				"sha256": "16090cffac4c27ea1744aa834ee9f430c9535f08a8eff4e5da64b0a34ff18773"
+			},
+			"chromas": []
+		},
+		{
+			"id": "squidward-shaco",
+			"name": "Squidward Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/squidward-shaco/thumb.webp?v=97d8e466",
+			"file": {
+				"version": 1,
+				"asset": "squidward-shaco-v1.fantome",
+				"size": 4173527,
+				"sha256": "a3403da3932d21c7d8ae0b5275c49854a686ecd130bc83bdc48afb5c76065711"
+			},
+			"chromas": []
+		},
+		{
+			"id": "stan-smith-jarvan-iv",
+			"name": "Stan Smith Jarvan IV",
+			"champion": 59,
+			"base": 0,
+			"creator": "drinfinito",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/stan-smith-jarvan-iv/thumb.webp?v=3e0ef30b",
+			"file": {
+				"version": 1,
+				"asset": "stan-smith-jarvan-iv-v1.fantome",
+				"size": 8237779,
+				"sha256": "4ae8939c98ddb778ea381e33f81750d79418fb52f804653f64fec94e1de1b3a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-akali-chroma-vfx",
+			"name": "Star Guardian Akali Chroma VFX",
+			"champion": 84,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-akali-chroma-vfx/thumb.webp?v=f9c85718",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-akali-chroma-vfx-v1.fantome",
+				"size": 4400033,
+				"sha256": "4cafd31a6819e89ba16dae3d069934a523dba67f97ccad70a43b6fa06d629882"
 			},
 			"chromas": []
 		},

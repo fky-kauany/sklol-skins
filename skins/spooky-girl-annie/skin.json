@@ -1,0 +1,26 @@
+{
+	"id": "spooky-girl-annie",
+	"name": "Spooky Girl Annie",
+	"champion": 1,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/spooky-girl-annie\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spooky-girl-annie/thumb.webp?v=0d7920e8",
+	"file": {
+		"version": 1,
+		"asset": "spooky-girl-annie-v1.fantome",
+		"size": 7442696,
+		"sha256": "145f251962f4e8edc81f8c8c6631918a69df2aa2f41cfa5f95ba3383415ae757"
+	},
+	"chromas": []
+}

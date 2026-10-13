@@ -1,0 +1,26 @@
+{
+	"id": "spongebob-veigar",
+	"name": "Spongebob Veigar",
+	"champion": 45,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Spongebob Veigar\n\n### Features\n\n- **Custom model:** Veigar transformed into SpongeBob SquarePants\n- **Custom abilities:** Cartoon-inspired effects to match the theme\n- **Created by:** Disco and Frog\n- **Easy install:** Fully compatible with the **Celestial Launcher**\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games, League of Legends, or Nickelodeon.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/spongebob-veigar\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spongebob-veigar/thumb.webp?v=335be4c1",
+	"file": {
+		"version": 1,
+		"asset": "spongebob-veigar-v1.fantome",
+		"size": 19913096,
+		"sha256": "dc8778950120900305719d4fec93d6ae451f86267be7324321c95c7013857860"
+	},
+	"chromas": []
+}

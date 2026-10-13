@@ -1,0 +1,26 @@
+{
+	"id": "spy-vs-spy-jhin",
+	"name": "Spy vs Spy jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "***\n\n**Modified champion: Jhin**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3D made by: [**Murrzipan**](https://steamcommunity.com/sharedfiles/filedetails/?id=475886295)\n\ncreator is: **MAD**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/spy-vs-spy-jhin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spy-vs-spy-jhin/thumb.webp?v=de696354",
+	"file": {
+		"version": 1,
+		"asset": "spy-vs-spy-jhin-v1.fantome",
+		"size": 11444501,
+		"sha256": "16090cffac4c27ea1744aa834ee9f430c9535f08a8eff4e5da64b0a34ff18773"
+	},
+	"chromas": []
+}

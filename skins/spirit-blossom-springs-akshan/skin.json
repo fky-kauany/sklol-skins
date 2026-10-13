@@ -1,0 +1,23 @@
+{
+	"id": "spirit-blossom-springs-akshan",
+	"name": "Spirit Blossom Springs Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nThis mod is a Spirit Blossom Springs skin for Akshan.\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces the Base Akshan skin.\r\n\r\n#\r\n\r\n### ✨ Features\r\n\r\n* New model and textures\r\n* New  loading screen\r\n\r\n#\r\n\r\n### ✨ Credits\r\n\r\nCredits to [Bearded Shepherd](https://www.runeforge.dev/users/BeardedShepherd \"bearded's runeforge profile\") for the base Akshan body model.\r\n\r\n#\r\n\r\nThis mod was made ~~as a commission~~ out of my free will!!! However - if you'd like to commission me, you can check my portfolio at the [Runeforge Discord](https://discord.gg/runeforge \"runeforge epic discord\") or the [Divine Skins Discord](https://discord.gg/divineskins \"divini discordini\"). You can also support me through [my Ko-fi page](https://ko-fi.com/wiko2303 \"my kofi page lol\").\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/spirit-blossom-springs-akshan\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spirit-blossom-springs-akshan/thumb.webp?v=9183c318",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-springs-akshan-v1.fantome",
+		"size": 1898436,
+		"sha256": "520933f5ca32eb62a5b980ece8669b50e5c608e7f265ee478e92b353fde5a1e4"
+	},
+	"chromas": []
+}

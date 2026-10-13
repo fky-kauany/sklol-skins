@@ -1,0 +1,25 @@
+{
+	"id": "spirit-dragon-miss-fortune",
+	"name": "Spirit Dragon Miss Fortune",
+	"champion": 21,
+	"base": 0,
+	"creator": "frog",
+	"description": "Artwork by https://www.instagram.com/p/CmPWmsXP97u\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/spirit-dragon-miss-fortune\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/spirit-dragon-miss-fortune/thumb.webp?v=6b950cee",
+	"file": {
+		"version": 1,
+		"asset": "spirit-dragon-miss-fortune-v1.fantome",
+		"size": 29368866,
+		"sha256": "53922a3854334dec61c0ddfdb94ee6237fe714c369638d763ab8cd97743ab749"
+	},
+	"chromas": []
+}
