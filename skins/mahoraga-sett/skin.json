@@ -1,0 +1,26 @@
+{
+	"id": "mahoraga-sett",
+	"name": "Mahoraga Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "disco",
+	"description": "---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/mahoraga-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mahoraga-sett/thumb.webp?v=e955d53b",
+	"file": {
+		"version": 1,
+		"asset": "mahoraga-sett-v1.fantome",
+		"size": 14911872,
+		"sha256": "cb3af54f61b88a5ec2c21f912b1d748511e01f3806bd92ee4111fd05cd2d525e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "majin-superbuu-zac",
+	"name": "Majin SuperBuu Zac",
+	"champion": 154,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/majin-superbuu-zac\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/majin-superbuu-zac/thumb.webp?v=3bb6edfc",
+	"file": {
+		"version": 1,
+		"asset": "majin-superbuu-zac-v1.fantome",
+		"size": 18174492,
+		"sha256": "9a334d1e1861b5cd497bf53bb8a731454a221660beb9a20f23db256acc05fabe"
+	},
+	"chromas": []
+}

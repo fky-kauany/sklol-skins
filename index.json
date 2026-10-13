@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:34:23.475Z",
+	"generatedAt": "2026-10-13T04:37:35.906Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -7963,6 +7963,258 @@
 				"asset": "mahoraga-malphite-v1.fantome",
 				"size": 5755714,
 				"sha256": "44e5846587c2463e8beea9e9f961ba30737974c4eb53bfe608084c0fbee65049"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mahoraga-sett",
+			"name": "Mahoraga Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mahoraga-sett/thumb.webp?v=e955d53b",
+			"file": {
+				"version": 1,
+				"asset": "mahoraga-sett-v1.fantome",
+				"size": 14911872,
+				"sha256": "cb3af54f61b88a5ec2c21f912b1d748511e01f3806bd92ee4111fd05cd2d525e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "majin-superbuu-zac",
+			"name": "Majin SuperBuu Zac",
+			"champion": 154,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/majin-superbuu-zac/thumb.webp?v=3bb6edfc",
+			"file": {
+				"version": 1,
+				"asset": "majin-superbuu-zac-v1.fantome",
+				"size": 18174492,
+				"sha256": "9a334d1e1861b5cd497bf53bb8a731454a221660beb9a20f23db256acc05fabe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "maki-samira",
+			"name": "Maki Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "dazashu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/maki-samira/thumb.webp?v=3cb84050",
+			"file": {
+				"version": 1,
+				"asset": "maki-samira-v1.fantome",
+				"size": 11323343,
+				"sha256": "e39e100819cabc027c400e769fdd96950a57912dcdc852fe49f1d26d96310119"
+			},
+			"chromas": []
+		},
+		{
+			"id": "maki-zenin-katarina",
+			"name": "Maki Zenin Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/maki-zenin-katarina/thumb.webp?v=838432f0",
+			"file": {
+				"version": 1,
+				"asset": "maki-zenin-katarina-v1.fantome",
+				"size": 18923690,
+				"sha256": "12c42611b59b7c0eb440c99c7d9799a81a17f5383c89e9dab258648fa9be31ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "malphite-alistar",
+			"name": "Malphite: Alistar",
+			"champion": 54,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/malphite-alistar/thumb.webp?v=94ab5b0d",
+			"file": {
+				"version": 1,
+				"asset": "malphite-alistar-v1.fantome",
+				"size": 618247,
+				"sha256": "fbc809165e3f30824b662cfee2855197593dbf734fa068d834b199d582f5bfe4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "malphite-as-freddy-fazbear",
+			"name": "Malphite as Freddy fazbear",
+			"champion": 54,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/malphite-as-freddy-fazbear/thumb.webp?v=f6cd502f",
+			"file": {
+				"version": 1,
+				"asset": "malphite-as-freddy-fazbear-v1.fantome",
+				"size": 7597831,
+				"sha256": "6d1645b0ac398d5de4227eace2954cf89e5d9f4e5b83851fc4e71b57e1b8a4f0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "malphite-on-a-wheelchair",
+			"name": "malphite on a wheelchair",
+			"champion": 54,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/malphite-on-a-wheelchair/thumb.webp?v=ae7d6fba",
+			"file": {
+				"version": 1,
+				"asset": "malphite-on-a-wheelchair-v1.fantome",
+				"size": 574358,
+				"sha256": "5dcb35f7fbcae66748a00e32f9cdcd240730ebb3afba9f6e503f115298af64a3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "malzahar-mind-flayer",
+			"name": "Mind Flayer",
+			"champion": 90,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/malzahar-mind-flayer/thumb.webp?v=9bce3a91",
+			"file": {
+				"version": 1,
+				"asset": "malzahar-mind-flayer-v1.fantome",
+				"size": 22396980,
+				"sha256": "8eec237b398ee0e9dec6cc62937da3cd14a5cabd70f6762ae9c2bd3ae9ae288b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "manhattan-cafe-vladimir-from-uma-musume-pretty-d",
+			"name": "Manhattan Cafe Vladimir from Uma Musume Pretty Derby",
+			"champion": 8,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/manhattan-cafe-vladimir-from-uma-musume-pretty-d/thumb.webp?v=8dc5cba3",
+			"file": {
+				"version": 1,
+				"asset": "manhattan-cafe-vladimir-from-uma-musume-pretty-d-v1.fantome",
+				"size": 20214938,
+				"sha256": "bee0b9d61ba7db54a73e2138a7917fee39ba20b4b59dbafe0504c40fe7f7a0c7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "maokai-l9-boss",
+			"name": "L9 Boss",
+			"champion": 57,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/maokai-l9-boss/thumb.webp?v=8ad70caa",
+			"file": {
+				"version": 1,
+				"asset": "maokai-l9-boss-v1.fantome",
+				"size": 10524872,
+				"sha256": "9440fa19f14bc06c9c3e1b957f7d673d77f21bab26635eaa71eb60c182713a8a"
 			},
 			"chromas": []
 		},

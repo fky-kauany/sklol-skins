@@ -1,0 +1,26 @@
+{
+	"id": "malzahar-mind-flayer",
+	"name": "Mind Flayer",
+	"champion": 90,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n\r\n- Support for all quality settings\r\n- Custom Voice-over for all languages\r\n- New SFX\r\n- Custom loading screen and in-game icons\r\n- Another plot to realize the Grand Design\r\n- Ayo what those tentacles do\r\n\r\n\r\n*\"You've witnessed what a mind flayer can do. Imagine yourself with the same strenght, the same intellect, the same devastating beauty.\"*\r\n\r\n\r\nAfter like a 15th playthrough and 600 hours sunk into Baldur's Gate 3, I decided on the only logical move. It was time to put it aside and start making mods to League with DnD characters.\r\n\r\nThis is somewhat of a lightweight mod - it still has all the goodies like custom animations, sounds, voice (of The Emperor), but I have left Malzahar's VFX mostly untouched, since they were alright and I had no idea what to change them to.\r\n\r\nYou do, however, get: The Emperor's mind flayer model for Malz, Intellect Devourer for his little voidlings, whole animation makeover, with some animations that Malz didn't even have. These animations also include animated tentacles and cape. A lot of new sound effects, all pulled from BG3, cool new icons, as well as the voice of our beloved ghaik friend.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/mind-flayer\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/malzahar-mind-flayer/thumb.webp?v=9bce3a91",
+	"file": {
+		"version": 1,
+		"asset": "malzahar-mind-flayer-v1.fantome",
+		"size": 22396980,
+		"sha256": "8eec237b398ee0e9dec6cc62937da3cd14a5cabd70f6762ae9c2bd3ae9ae288b"
+	},
+	"chromas": []
+}

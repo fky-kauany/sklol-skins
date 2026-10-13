@@ -1,0 +1,23 @@
+{
+	"id": "malphite-alistar",
+	"name": "Malphite: Alistar",
+	"champion": 54,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "Mess with the Rock and you get the Rock\nworks on base malphite skin only\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/malphite-alistar\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/malphite-alistar/thumb.webp?v=94ab5b0d",
+	"file": {
+		"version": 1,
+		"asset": "malphite-alistar-v1.fantome",
+		"size": 618247,
+		"sha256": "fbc809165e3f30824b662cfee2855197593dbf734fa068d834b199d582f5bfe4"
+	},
+	"chromas": []
+}

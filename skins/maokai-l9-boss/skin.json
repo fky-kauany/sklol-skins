@@ -1,0 +1,23 @@
+{
+	"id": "maokai-l9-boss",
+	"name": "L9 Boss",
+	"champion": 57,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": ".\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/l9-boss-maokai\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/maokai-l9-boss/thumb.webp?v=8ad70caa",
+	"file": {
+		"version": 1,
+		"asset": "maokai-l9-boss-v1.fantome",
+		"size": 10524872,
+		"sha256": "9440fa19f14bc06c9c3e1b957f7d673d77f21bab26635eaa71eb60c182713a8a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "maki-zenin-katarina",
+	"name": "Maki Zenin Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/maki-zenin-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/maki-zenin-katarina/thumb.webp?v=838432f0",
+	"file": {
+		"version": 1,
+		"asset": "maki-zenin-katarina-v1.fantome",
+		"size": 18923690,
+		"sha256": "12c42611b59b7c0eb440c99c7d9799a81a17f5383c89e9dab258648fa9be31ea"
+	},
+	"chromas": []
+}

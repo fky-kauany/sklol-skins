@@ -1,0 +1,26 @@
+{
+	"id": "malphite-as-freddy-fazbear",
+	"name": "Malphite as Freddy fazbear",
+	"champion": 54,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "I swear to you i keep thinking about malphite ult and fnaf jumpscare sound effect so i just mashed the two\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/malphite-as-freddy-fazbear\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/malphite-as-freddy-fazbear/thumb.webp?v=f6cd502f",
+	"file": {
+		"version": 1,
+		"asset": "malphite-as-freddy-fazbear-v1.fantome",
+		"size": 7597831,
+		"sha256": "6d1645b0ac398d5de4227eace2954cf89e5d9f4e5b83851fc4e71b57e1b8a4f0"
+	},
+	"chromas": []
+}
