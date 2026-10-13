@@ -1,0 +1,25 @@
+{
+	"id": "garen-guts",
+	"name": "Guts",
+	"champion": 86,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Guts Garen\r\n• Custom model\r\n• Custom Animations\r\n• Custom Abilities\r\n• Works on every Garen skin\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/guts-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/garen-guts/thumb.webp?v=4fa5595c",
+	"file": {
+		"version": 1,
+		"asset": "garen-guts-v1.fantome",
+		"size": 8924388,
+		"sha256": "c81284924651d240f1c812a95ca3a99fb5cb47eeb165e77b1f6c8e60315d73c0"
+	},
+	"chromas": []
+}

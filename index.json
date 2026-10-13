@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:49:16.956Z",
+	"generatedAt": "2026-10-13T02:52:26.853Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -471,6 +471,16 @@
 			"bio": "draven draven draven draven draven draven draven draven draven draven draven",
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
+			}
+		},
+		"vincealucard": {
+			"name": "VinceAlucard",
+			"avatar": "creators/vincealucard.webp?v=3f4fed52",
+			"bio": "Faço custom skins variadas e personalizadas, atendo pedidos no discord\n\nSkins completas no discord: https://discord.gg/egvwRPxG8",
+			"links": {
+				"discord": "https://discord.gg/RG7KkwTZva",
+				"x": "https://x.com/VinceWhoLaughs",
+				"youtube": "https://www.youtube.com/@vincedesigns33"
 			}
 		},
 		"wiko": {
@@ -11136,6 +11146,258 @@
 				"asset": "gangplank-blackbeard-v1.fantome",
 				"size": 16619810,
 				"sha256": "2431870da4ff8bcf68c4e75bf9b2482b812a472fb0ff4550e413b7d6c186c572"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-gp-do-bope",
+			"name": "GP do BOPE",
+			"champion": 41,
+			"base": 0,
+			"creator": "vincealucard",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gangplank-gp-do-bope/thumb.webp?v=d69ceedd",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-gp-do-bope-v1.fantome",
+				"size": 6967636,
+				"sha256": "47a0182e9df779ba92f3eac278efc8ff3973f443464e4355496f86b1e8f81163"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-projeto-vince",
+			"name": "Gangplank Projeto Vince",
+			"champion": 41,
+			"base": 0,
+			"creator": "vincealucard",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gangplank-projeto-vince/thumb.webp?v=ad0e2ca2",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-projeto-vince-v1.fantome",
+				"size": 5821325,
+				"sha256": "7a0baa93d5c75eacb1412960e166a3dc27556bb35483b993f91e472e7387dcf5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-undead",
+			"name": "Gangplank Undead",
+			"champion": 41,
+			"base": 0,
+			"creator": "vincealucard",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gangplank-undead/thumb.webp?v=9e1455b8",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-undead-v1.fantome",
+				"size": 9943197,
+				"sha256": "e2e3f68d9bf8701ed06ca7cbda0320e022e8727e2a70ae87f83662bb3a610178"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-vince-demon",
+			"name": "Gangplank Vince Demon",
+			"champion": 41,
+			"base": 0,
+			"creator": "vincealucard",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gangplank-vince-demon/thumb.webp?v=6505a552",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-vince-demon-v1.fantome",
+				"size": 6394811,
+				"sha256": "40c654d156dac91998f1018125aa3773ad72b8b3f3931ca609ff6d912a577109"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garamararam-shaco",
+			"name": "Garamararam Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/garamararam-shaco/thumb.webp?v=49c00f35",
+			"file": {
+				"version": 1,
+				"asset": "garamararam-shaco-v1.fantome",
+				"size": 3520428,
+				"sha256": "f5b875c8c3117134ae57e1cfc14bc51472b86380c3f45efd1fb3dd06169ed525"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gardevoir-karma",
+			"name": "Gardevoir Karma",
+			"champion": 43,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gardevoir-karma/thumb.webp?v=60520d0e",
+			"file": {
+				"version": 1,
+				"asset": "gardevoir-karma-v1.fantome",
+				"size": 9377956,
+				"sha256": "f20678bd1d6de5bcf0a1225653712e62defe3f923e469b3623430b6f61a34338"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garen-black-templar-warhammer-40k",
+			"name": "Black Templar Warhammer 40K",
+			"champion": 86,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/garen-black-templar-warhammer-40k/thumb.webp?v=8ce92d1d",
+			"file": {
+				"version": 1,
+				"asset": "garen-black-templar-warhammer-40k-v1.fantome",
+				"size": 10296004,
+				"sha256": "33769464360765f409e90de78368de7ac27323f94b104548770eecfddb98fb08"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garen-guts",
+			"name": "Guts",
+			"champion": 86,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/garen-guts/thumb.webp?v=4fa5595c",
+			"file": {
+				"version": 1,
+				"asset": "garen-guts-v1.fantome",
+				"size": 8924388,
+				"sha256": "c81284924651d240f1c812a95ca3a99fb5cb47eeb165e77b1f6c8e60315d73c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garen-igris",
+			"name": "Igris",
+			"champion": 86,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/garen-igris/thumb.webp?v=df6ac233",
+			"file": {
+				"version": 1,
+				"asset": "garen-igris-v1.fantome",
+				"size": 16830534,
+				"sha256": "0983d53aee5886bd15c5a850c2928f1e371131a781a60e9621853e48946d58fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gawr-gura-neeko",
+			"name": "Gawr Gura Neeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gawr-gura-neeko/thumb.webp?v=fe6c619a",
+			"file": {
+				"version": 1,
+				"asset": "gawr-gura-neeko-v1.fantome",
+				"size": 24012445,
+				"sha256": "cc964da3d350f4eb3c3991a3590e20bc2c5c7dc8d34eabbe8dee5bec7451a454"
 			},
 			"chromas": []
 		},

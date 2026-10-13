@@ -1,0 +1,26 @@
+{
+	"id": "gangplank-projeto-vince",
+	"name": "Gangplank Projeto Vince",
+	"champion": 41,
+	"base": 0,
+	"creator": "vincealucard",
+	"description": "Custom skin based on the Project skin, but with a darker look and the color style I like.\n\n---\n\n**Created by** [VinceAlucard](https://www.divineskins.gg/VinceAlucard)\n\n**Original:** https://www.divineskins.gg/VinceAlucard/gangplank-projeto-vince\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gangplank-projeto-vince/thumb.webp?v=ad0e2ca2",
+	"file": {
+		"version": 1,
+		"asset": "gangplank-projeto-vince-v1.fantome",
+		"size": 5821325,
+		"sha256": "7a0baa93d5c75eacb1412960e166a3dc27556bb35483b993f91e472e7387dcf5"
+	},
+	"chromas": []
+}

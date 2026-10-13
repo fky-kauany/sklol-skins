@@ -1,0 +1,25 @@
+{
+	"id": "gangplank-gp-do-bope",
+	"name": "GP do BOPE",
+	"champion": 41,
+	"base": 0,
+	"creator": "vincealucard",
+	"description": "Skin inspired by BOPE (Special Police Operations Battalion); this original Riot skin is named \"Special Forces,\" and although it was released in honor of Brazil, it lacked any features reflecting that, so I created this version using BOPE's colors and symbol.\r\n\r\n*Remade model in 4K\r\n*New custom barrel\r\n*Modified ability icons\r\n*Version with a new gun and sword (V.Desert)\r\n\r\nBR\r\n\r\nSkin feita inspirada no BOPE (Batalhão de Operações Especiais) essa skin original da riot tem o nome de forças especiais e embora tenha sido lançada em homenagem ao Brasil, n tem nada que lembre então fiz com as cores e simbolo do BOPE\r\n\r\n*Modelo refeito e em 4k\r\n*Barril customizado novo\r\n*Icones de Skill alteradas\r\n*Versão com arma nova e espada (V.Desert)\n\n---\n\n**Created by** [VinceAlucard](https://www.divineskins.gg/VinceAlucard)\n\n**Original:** https://www.divineskins.gg/VinceAlucard/gp-do-bope\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gangplank-gp-do-bope/thumb.webp?v=d69ceedd",
+	"file": {
+		"version": 1,
+		"asset": "gangplank-gp-do-bope-v1.fantome",
+		"size": 6967636,
+		"sha256": "47a0182e9df779ba92f3eac278efc8ff3973f443464e4355496f86b1e8f81163"
+	},
+	"chromas": []
+}

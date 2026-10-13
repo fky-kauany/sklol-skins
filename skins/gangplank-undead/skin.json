@@ -1,0 +1,26 @@
+{
+	"id": "gangplank-undead",
+	"name": "Gangplank Undead",
+	"champion": 41,
+	"base": 0,
+	"creator": "vincealucard",
+	"description": "Skin created for Geladeira Tsunami, and he decided to make it available for free.\n\n---\n\n**Created by** [VinceAlucard](https://www.divineskins.gg/VinceAlucard)\n\n**Original:** https://www.divineskins.gg/VinceAlucard/gangplank-undead\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gangplank-undead/thumb.webp?v=9e1455b8",
+	"file": {
+		"version": 1,
+		"asset": "gangplank-undead-v1.fantome",
+		"size": 9943197,
+		"sha256": "e2e3f68d9bf8701ed06ca7cbda0320e022e8727e2a70ae87f83662bb3a610178"
+	},
+	"chromas": []
+}

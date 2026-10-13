@@ -1,0 +1,25 @@
+{
+	"id": "garen-igris",
+	"name": "Igris",
+	"champion": 86,
+	"base": 0,
+	"creator": "frog",
+	"description": "Igris Garen • Custom model • Custom Abilities • Works on every Garen skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/igris-garen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/garen-igris/thumb.webp?v=df6ac233",
+	"file": {
+		"version": 1,
+		"asset": "garen-igris-v1.fantome",
+		"size": 16830534,
+		"sha256": "0983d53aee5886bd15c5a850c2928f1e371131a781a60e9621853e48946d58fd"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "garen-black-templar-warhammer-40k",
+	"name": "Black Templar Warhammer 40K",
+	"champion": 86,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover Black Templar Warhammer 40K, **imagined and commissioned by Ikaarus**.\r\n\r\nThis custom skin reimagines Garen with the relentless crusader presence of a Black Templar from Warhammer 40K, featuring a model inspired by the iconic grimdark armor style while preserving the champion’s strength, honor, and unstoppable frontline identity.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/black-templar-warhammer-40k\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/garen-black-templar-warhammer-40k/thumb.webp?v=8ce92d1d",
+	"file": {
+		"version": 1,
+		"asset": "garen-black-templar-warhammer-40k-v1.fantome",
+		"size": 10296004,
+		"sha256": "33769464360765f409e90de78368de7ac27323f94b104548770eecfddb98fb08"
+	},
+	"chromas": []
+}

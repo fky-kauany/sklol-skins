@@ -1,0 +1,25 @@
+{
+	"id": "gawr-gura-neeko",
+	"name": "Gawr Gura Neeko",
+	"champion": 518,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Gawr Gura Neeko\n\n### Features\n\n- **Full Custom Model:** Neeko is completely transformed into Gawr Gura, featuring her iconic blue shark hoodie and design.\n- **Custom Abilities & VFX:** All of Neeko's abilities have been re-themed with custom visual effects that give them a fun, watery splash.\n- **Broad Compatibility:** This mod is designed to work on all existing Neeko skins, applying itself as a custom chroma.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/gawr-gura-neeko\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gawr-gura-neeko/thumb.webp?v=fe6c619a",
+	"file": {
+		"version": 1,
+		"asset": "gawr-gura-neeko-v1.fantome",
+		"size": 24012445,
+		"sha256": "cc964da3d350f4eb3c3991a3590e20bc2c5c7dc8d34eabbe8dee5bec7451a454"
+	},
+	"chromas": []
+}

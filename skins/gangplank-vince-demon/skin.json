@@ -1,0 +1,24 @@
+{
+	"id": "gangplank-vince-demon",
+	"name": "Gangplank Vince Demon",
+	"champion": 41,
+	"base": 0,
+	"creator": "vincealucard",
+	"description": "A custom skin based on FPX Gangplank, featuring modified effects, barrels, and model; the design draws from things I like, such as the color scheme, the darker theme, and the Hellsing pentagram.\n\n---\n\n**Created by** [VinceAlucard](https://www.divineskins.gg/VinceAlucard)\n\n**Original:** https://www.divineskins.gg/VinceAlucard/gangplank-vince-demon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gangplank-vince-demon/thumb.webp?v=6505a552",
+	"file": {
+		"version": 1,
+		"asset": "gangplank-vince-demon-v1.fantome",
+		"size": 6394811,
+		"sha256": "40c654d156dac91998f1018125aa3773ad72b8b3f3931ca609ff6d912a577109"
+	},
+	"chromas": []
+}
