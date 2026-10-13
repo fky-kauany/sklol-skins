@@ -1,0 +1,26 @@
+{
+	"id": "hu-tao-xin-zhao",
+	"name": "Hu Tao Xin Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:** Anime Skin aiaiaia\n**Modified Skin(s):** All XIn\n\n### ? Credits\n\n**Model(s):** Genshin Impact\n**Special Thanks: **Genshin ImpactGenshin ImpactGenshin ImpactGenshin ImpactGenshin ImpactGenshin ImpactGenshin Impact\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord\n\n### ? Support Me\n\nEnjoyed the mod? Cool\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/hu-tao-xin-zhao\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hu-tao-xin-zhao/thumb.webp?v=01a98955",
+	"file": {
+		"version": 1,
+		"asset": "hu-tao-xin-zhao-v1.fantome",
+		"size": 15443242,
+		"sha256": "2eec60479efecab6c45026684fd0292059c583d568c05e528ec85d50874741e7"
+	},
+	"chromas": []
+}

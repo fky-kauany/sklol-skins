@@ -1,0 +1,25 @@
+{
+	"id": "huggy-wuggy-ivern",
+	"name": "Huggy Wuggy Ivern",
+	"champion": 427,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Huggy Wuggy Ivern\n\n### Features\n\n- **Visual motif:** Plushy blue-and-yellow textures, big smile, long-limbed proportions for maximum Huggy Wuggy energy\n- **Ability treatment:** Roots and brushes colored with playful horror tones; Daisy redesigned into a monstrous toy companion\n- **Compatibility:** Works with Ivern’s gameplay across all his skins; install via **Celestial Launcher** with one click\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/huggy-wuggy-ivern\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/huggy-wuggy-ivern/thumb.webp?v=f0eaa8fc",
+	"file": {
+		"version": 1,
+		"asset": "huggy-wuggy-ivern-v1.fantome",
+		"size": 13004527,
+		"sha256": "c89cbc39cfc8f7281a3ddb7448af86440b0b60b68e7325c623540555c3723a18"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "hutao-azir",
+	"name": "Hutao Azir",
+	"champion": 268,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Hutao Azir\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/hutao-azir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hutao-azir/thumb.webp?v=bc3ad5d7",
+	"file": {
+		"version": 1,
+		"asset": "hutao-azir-v1.fantome",
+		"size": 12500780,
+		"sha256": "c3a62a965af0c538b5c6f29fe3e111f31e163122084c2111c7cd9266f1685854"
+	},
+	"chromas": []
+}

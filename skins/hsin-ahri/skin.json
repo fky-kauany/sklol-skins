@@ -1,0 +1,25 @@
+{
+	"id": "hsin-ahri",
+	"name": "Hsin Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Hsin Ahri\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/hsin-ahri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hsin-ahri/thumb.webp?v=766c01b5",
+	"file": {
+		"version": 1,
+		"asset": "hsin-ahri-v1.fantome",
+		"size": 21817680,
+		"sha256": "a6dc1447854884edb3e39d4fa799f8a551c2ec91ba3f2497e2cc1db3a1c4c289"
+	},
+	"chromas": []
+}

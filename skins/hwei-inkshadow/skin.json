@@ -1,0 +1,25 @@
+{
+	"id": "hwei-inkshadow",
+	"name": "Inkshadow",
+	"champion": 910,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/inkshadow-hwei\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hwei-inkshadow/thumb.webp?v=1e704a9e",
+	"file": {
+		"version": 1,
+		"asset": "hwei-inkshadow-v1.fantome",
+		"size": 11043746,
+		"sha256": "5ded75f92153f01d73865492da3e82f26707991093fb9f4611cccdf5ac5e9b8c"
+	},
+	"chromas": []
+}

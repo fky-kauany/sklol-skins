@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:24:52.573Z",
+	"generatedAt": "2026-10-13T03:28:03.780Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -2561,6 +2561,259 @@
 				"asset": "houndoom-naafiri-v1.fantome",
 				"size": 11045490,
 				"sha256": "886475e6933a6cd6804825a77fc5ca8758baf70b309684a1e4e2b9c580009e37"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hsin-ahri",
+			"name": "Hsin Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hsin-ahri/thumb.webp?v=766c01b5",
+			"file": {
+				"version": 1,
+				"asset": "hsin-ahri-v1.fantome",
+				"size": 21817680,
+				"sha256": "a6dc1447854884edb3e39d4fa799f8a551c2ec91ba3f2497e2cc1db3a1c4c289"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hsr-saber-artoria-talon",
+			"name": "HSR Saber Artoria Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hsr-saber-artoria-talon/thumb.webp?v=ad5514c4",
+			"file": {
+				"version": 1,
+				"asset": "hsr-saber-artoria-talon-v1.fantome",
+				"size": 10129067,
+				"sha256": "77a2b7577b6f72dfeeebf53d100d444739f43cdecda38280f3e877768f8101d8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hu-tao-xin-zhao",
+			"name": "Hu Tao Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hu-tao-xin-zhao/thumb.webp?v=01a98955",
+			"file": {
+				"version": 1,
+				"asset": "hu-tao-xin-zhao-v1.fantome",
+				"size": 15443242,
+				"sha256": "2eec60479efecab6c45026684fd0292059c583d568c05e528ec85d50874741e7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "huggy-wuggy-ivern",
+			"name": "Huggy Wuggy Ivern",
+			"champion": 427,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/huggy-wuggy-ivern/thumb.webp?v=f0eaa8fc",
+			"file": {
+				"version": 1,
+				"asset": "huggy-wuggy-ivern-v1.fantome",
+				"size": 13004527,
+				"sha256": "c89cbc39cfc8f7281a3ddb7448af86440b0b60b68e7325c623540555c3723a18"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hulk-alistar",
+			"name": "Hulk Alistar",
+			"champion": 12,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hulk-alistar/thumb.webp?v=eaed9e8f",
+			"file": {
+				"version": 1,
+				"asset": "hulk-alistar-v1.fantome",
+				"size": 207250,
+				"sha256": "d8ec3dda378478a7682655842d51f7f2c5f54a6d3c4bf7a72b9d999ae7ad5521"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hutao-azir",
+			"name": "Hutao Azir",
+			"champion": 268,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hutao-azir/thumb.webp?v=bc3ad5d7",
+			"file": {
+				"version": 1,
+				"asset": "hutao-azir-v1.fantome",
+				"size": 12500780,
+				"sha256": "c3a62a965af0c538b5c6f29fe3e111f31e163122084c2111c7cd9266f1685854"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hutao-jinx",
+			"name": "Hutao Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hutao-jinx/thumb.webp?v=1888020e",
+			"file": {
+				"version": 1,
+				"asset": "hutao-jinx-v1.fantome",
+				"size": 10684250,
+				"sha256": "bd5ee53cea3f1041596e661957dea516ebba50bedb14a6b682d3eea2aabc2991"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hwei-gojo",
+			"name": "Gojo",
+			"champion": 910,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hwei-gojo/thumb.webp?v=41dbeb30",
+			"file": {
+				"version": 1,
+				"asset": "hwei-gojo-v1.fantome",
+				"size": 7725164,
+				"sha256": "5fa32eaff4a7097475623c94567d9a2c0728d9b59bdcc674d21f977929a68017"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hwei-inkshadow",
+			"name": "Inkshadow",
+			"champion": 910,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hwei-inkshadow/thumb.webp?v=1e704a9e",
+			"file": {
+				"version": 1,
+				"asset": "hwei-inkshadow-v1.fantome",
+				"size": 11043746,
+				"sha256": "5ded75f92153f01d73865492da3e82f26707991093fb9f4611cccdf5ac5e9b8c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hyacine-lux",
+			"name": "Hyacine Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hyacine-lux/thumb.webp?v=2b5a4aee",
+			"file": {
+				"version": 1,
+				"asset": "hyacine-lux-v1.fantome",
+				"size": 18683910,
+				"sha256": "2820e5b63fca869e9052f3ebb08f01c60a4ff564a3cc78c7a523cb708fd9e1d7"
 			},
 			"chromas": []
 		},

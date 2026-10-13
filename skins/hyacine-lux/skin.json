@@ -1,0 +1,26 @@
+{
+	"id": "hyacine-lux",
+	"name": "Hyacine Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "seweski",
+	"description": "My wind healer can't be this cute\n\n**Works on every skin**\n\n**this mod changes:**\nmodel\neffects\nvoiceover\nanimations\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/hyacine-lux\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hyacine-lux/thumb.webp?v=2b5a4aee",
+	"file": {
+		"version": 1,
+		"asset": "hyacine-lux-v1.fantome",
+		"size": 18683910,
+		"sha256": "2820e5b63fca869e9052f3ebb08f01c60a4ff564a3cc78c7a523cb708fd9e1d7"
+	},
+	"chromas": []
+}
