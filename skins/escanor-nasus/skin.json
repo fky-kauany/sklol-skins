@@ -1,0 +1,26 @@
+{
+	"id": "escanor-nasus",
+	"name": "Escanor Nasus",
+	"champion": 75,
+	"base": 0,
+	"creator": "jaku3",
+	"description": "# Make them cry\nAnd the time has come, it was about time for the lion's sin of pride to reach another champion. This time is Nasus. Obliterate your enemies whether in top or mid, or who knows, botlane as well (is not like adcs have a chance either...) play with the confidence of the one who stands at the pinnacle of all champs, every second they let you live, every second they let you bonk another minion, every SECOND they don't end the game it's a second closer to your victory. \n\nShow them how you grow stronger with every stack, every miniute that goes by until you become THE ONE, the unstoppable monster capable of finishing the game the moment you feel like. Show them how chill you are farming, unfazed against all their futile attempts to make you fall behind. Show them how strong, unbreakable is your mental game, becuase acting calm and composed is the privilege of the mighty and you well know that if the game reaches high noon they are done. \n\nMake counter pickers cry because you chose to play Escanor, and not only did they pick something they didn't want to play but also they got absolutely destroyed by your unmeasurable power. \n\n# Features\n- New 3D model\n- New VFX \n- New VO\n- New loadscreen\n\nRegarding the VO, there are:\n- 3 exclusive lines for Renekton encounters. \n- 2 for Xerath. \n- 3 different laughs (don't play with this skin in jungle or bot if you don't want to get roasted by Escanor) \n- new Joke, Taunts and in game phrases. \n\n# Disclaimer\n- AI was only used to create the thumbnail\n- Loadscreen was taken from google images, if you are the author of it contact me so I can give proper credit.\n\n---\n\n**Created by** [jaku3](https://www.divineskins.gg/jaku3)\n\n**Original:** https://www.divineskins.gg/jaku3/escanor-nasus\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/escanor-nasus/thumb.webp?v=3686d020",
+	"file": {
+		"version": 1,
+		"asset": "escanor-nasus-v1.modpkg",
+		"size": 9323029,
+		"sha256": "7ec897d6e64e7b2e5f4eb3b00c94d9fdcf13b58721feb5ab43deed11e5e7f350"
+	},
+	"chromas": []
+}

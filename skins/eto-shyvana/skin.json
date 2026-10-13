@@ -1,0 +1,26 @@
+{
+	"id": "eto-shyvana",
+	"name": "Eto Shyvana",
+	"champion": 102,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Tokyo Ghoul · Break the Chains)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n700 - Assisted on polishing the weights\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/eto-shyvana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/eto-shyvana/thumb.webp?v=2c17624d",
+	"file": {
+		"version": 1,
+		"asset": "eto-shyvana-v1.fantome",
+		"size": 19566788,
+		"sha256": "6847b026c683bc827b7f5034a49e7b052792fd2bc702076070b16170397c2bc1"
+	},
+	"chromas": []
+}

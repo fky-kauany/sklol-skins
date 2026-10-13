@@ -272,6 +272,12 @@
 		"avatar": "creators/keduox.png?v=fefc17e7",
 		"links": {}
 	},
+	"keithly": {
+		"name": "Keithly",
+		"avatar": "creators/keithly.webp?v=84a0719e",
+		"bio": "I make gacha skin mods",
+		"links": {}
+	},
 	"kesa": {
 		"name": "kesa",
 		"avatar": "creators/kesa.webp?v=25b19952",
@@ -365,6 +371,15 @@
 		"avatar": "creators/rorotea1.png?v=56a27670",
 		"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
 		"links": {}
+	},
+	"s0jaku": {
+		"name": "s0jaku",
+		"avatar": "creators/s0jaku.webp?v=734b9f42",
+		"bio": "May all the beauty be blessed!",
+		"links": {
+			"kofi": "https://ko-fi.com/s0jaku",
+			"youtube": "https://www.youtube.com/@s0jaku-lol"
+		}
 	},
 	"sabafutka": {
 		"name": "SabaFutka",

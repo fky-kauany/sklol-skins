@@ -1,0 +1,26 @@
+{
+	"id": "eto-yunara",
+	"name": "Eto Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/eto-yunara\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/eto-yunara/thumb.webp?v=97abe5ed",
+	"file": {
+		"version": 1,
+		"asset": "eto-yunara-v1.fantome",
+		"size": 27340154,
+		"sha256": "dc64c4e0dec8fa10ddbc1e50baa5c416da2f75dafd6be936ed48be43856926ec"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:26:23.937Z",
+	"generatedAt": "2026-10-13T02:29:55.099Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -275,6 +275,12 @@
 			"avatar": "creators/keduox.png?v=fefc17e7",
 			"links": {}
 		},
+		"keithly": {
+			"name": "Keithly",
+			"avatar": "creators/keithly.webp?v=84a0719e",
+			"bio": "I make gacha skin mods",
+			"links": {}
+		},
 		"kesa": {
 			"name": "kesa",
 			"avatar": "creators/kesa.webp?v=25b19952",
@@ -368,6 +374,15 @@
 			"avatar": "creators/rorotea1.png?v=56a27670",
 			"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
 			"links": {}
+		},
+		"s0jaku": {
+			"name": "s0jaku",
+			"avatar": "creators/s0jaku.webp?v=734b9f42",
+			"bio": "May all the beauty be blessed!",
+			"links": {
+				"kofi": "https://ko-fi.com/s0jaku",
+				"youtube": "https://www.youtube.com/@s0jaku-lol"
+			}
 		},
 		"sabafutka": {
 			"name": "SabaFutka",
@@ -9558,6 +9573,264 @@
 				"asset": "emilia-annie-v1.fantome",
 				"size": 8171414,
 				"sha256": "6cb3be0a29d6720024d93ab0aed6d9f81da83783c6bcb2b707c47bc4251e1983"
+			},
+			"chromas": []
+		},
+		{
+			"id": "emilia-aurora",
+			"name": "Emilia Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/emilia-aurora/thumb.webp?v=d2bfd450",
+			"file": {
+				"version": 1,
+				"asset": "emilia-aurora-v1.fantome",
+				"size": 11511704,
+				"sha256": "fb1571365e8e2d08eb236597cfce23a49fccaa6c3bb9a61dabc04d34bddbd0cd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eren-renekton",
+			"name": "Eren Renekton",
+			"champion": 58,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/eren-renekton/thumb.webp?v=5a5ee476",
+			"file": {
+				"version": 1,
+				"asset": "eren-renekton-v1.fantome",
+				"size": 4658528,
+				"sha256": "5afaf54f6ef9e022204d7a0696d68c241515410121d7aaebd1f6216506f1c7f6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "escanor-garen",
+			"name": "Escanor Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "jaku3",
+			"parts": [
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/escanor-garen/thumb.webp?v=9d09b5e2",
+			"file": {
+				"version": 1,
+				"asset": "escanor-garen-v1.fantome",
+				"size": 6150078,
+				"sha256": "51118191b9fb96d456cfa4ee979f56d6f7b9cf86707275642e639d7bca366be7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "escanor-jax",
+			"name": "Escanor Jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/escanor-jax/thumb.webp?v=a7cda6e2",
+			"file": {
+				"version": 1,
+				"asset": "escanor-jax-v1.fantome",
+				"size": 10137595,
+				"sha256": "167a45361f78a194c6dfb53b852b49c7c2212e29f33f6ddfacb2369af3cb712d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "escanor-nasus",
+			"name": "Escanor Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "jaku3",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/escanor-nasus/thumb.webp?v=3686d020",
+			"file": {
+				"version": 1,
+				"asset": "escanor-nasus-v1.modpkg",
+				"size": 9323029,
+				"sha256": "7ec897d6e64e7b2e5f4eb3b00c94d9fdcf13b58721feb5ab43deed11e5e7f350"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eto-shyvana",
+			"name": "Eto Shyvana",
+			"champion": 102,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/eto-shyvana/thumb.webp?v=2c17624d",
+			"file": {
+				"version": 1,
+				"asset": "eto-shyvana-v1.fantome",
+				"size": 19566788,
+				"sha256": "6847b026c683bc827b7f5034a49e7b052792fd2bc702076070b16170397c2bc1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eto-yunara",
+			"name": "Eto Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/eto-yunara/thumb.webp?v=97abe5ed",
+			"file": {
+				"version": 1,
+				"asset": "eto-yunara-v1.fantome",
+				"size": 27340154,
+				"sha256": "dc64c4e0dec8fa10ddbc1e50baa5c416da2f75dafd6be936ed48be43856926ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "evanescia-samira",
+			"name": "Evanescia samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "keithly",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/evanescia-samira/thumb.webp?v=4270e381",
+			"file": {
+				"version": 1,
+				"asset": "evanescia-samira-v1.fantome",
+				"size": 14411502,
+				"sha256": "00870bcbbd90257ccc808e8454b03538b3ab18d27e33ae32d6e617056db02da5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "evanescia-yone",
+			"name": "Evanescia - Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/evanescia-yone/thumb.webp?v=e3979e47",
+			"file": {
+				"version": 1,
+				"asset": "evanescia-yone-v1.fantome",
+				"size": 15104674,
+				"sha256": "4c8555de35d5dec15d7ebe5da1590cee4224c07159f6c5ec6c4a875309a9a32d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "evelynn-elysian-angel",
+			"name": "Elysian Angel",
+			"champion": 28,
+			"base": 0,
+			"creator": "sirdexal",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/evelynn-elysian-angel/thumb.webp?v=2dd1983f",
+			"file": {
+				"version": 1,
+				"asset": "evelynn-elysian-angel-v1.fantome",
+				"size": 15186619,
+				"sha256": "09a65bb84131b70d62e69ad57ebef5dc3e7536cf0af8e16d34a1488a53bbbb37"
 			},
 			"chromas": []
 		},

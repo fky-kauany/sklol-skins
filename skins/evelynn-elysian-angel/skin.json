@@ -1,0 +1,26 @@
+{
+	"id": "evelynn-elysian-angel",
+	"name": "Elysian Angel",
+	"champion": 28,
+	"base": 0,
+	"creator": "sirdexal",
+	"description": "### 📌 Mod Info\n**Modified Skin(s):** All skins.\n\n### 🧾 Credits\n**Special Thanks:** Jay(@flashedmyself) to commissioning this mod\n\n### 💬 Additional Info\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: [Donate](https://buymeacoffee.com/sirdexal)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [SirDexal](https://www.divineskins.gg/SirDexal)\n\n**Original:** https://www.divineskins.gg/SirDexal/elysian-angel\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/evelynn-elysian-angel/thumb.webp?v=2dd1983f",
+	"file": {
+		"version": 1,
+		"asset": "evelynn-elysian-angel-v1.fantome",
+		"size": 15186619,
+		"sha256": "09a65bb84131b70d62e69ad57ebef5dc3e7536cf0af8e16d34a1488a53bbbb37"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "eren-renekton",
+	"name": "Eren Renekton",
+	"champion": 58,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Eren Renekton\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/eren-renekton\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/eren-renekton/thumb.webp?v=5a5ee476",
+	"file": {
+		"version": 1,
+		"asset": "eren-renekton-v1.fantome",
+		"size": 4658528,
+		"sha256": "5afaf54f6ef9e022204d7a0696d68c241515410121d7aaebd1f6216506f1c7f6"
+	},
+	"chromas": []
+}

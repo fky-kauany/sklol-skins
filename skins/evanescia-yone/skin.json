@@ -1,0 +1,26 @@
+{
+	"id": "evanescia-yone",
+	"name": "Evanescia - Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "### 📌 Mod Info\r\n**Voice Over** : English (in Version 2)\r\n**Model(s):** \r\n   - Evanescia (Honkai: Star Rail)\r\n   - Seven Thunders of Retribution: Narukami (Honkai Impact 3rd)\r\n   - Ruler Sword (Honkai: Star Rail) (in Version 2)\r\n   - Sakura Blossom (Honkai Impact 3rd) (in Version 1)\r\n   - Neon Shade for mask recall (Honkai Impact 3rd)\r\n\r\n### 💬 Additional Info\r\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\r\n\r\n### 💖 Support Me\r\nEnjoyed the mod? Help fuel future projects: \r\n\r\nhttps://ko-fi.com/s0jaku\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/evanescia-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/evanescia-yone/thumb.webp?v=e3979e47",
+	"file": {
+		"version": 1,
+		"asset": "evanescia-yone-v1.fantome",
+		"size": 15104674,
+		"sha256": "4c8555de35d5dec15d7ebe5da1590cee4224c07159f6c5ec6c4a875309a9a32d"
+	},
+	"chromas": []
+}

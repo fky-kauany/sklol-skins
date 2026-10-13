@@ -1,0 +1,25 @@
+{
+	"id": "escanor-garen",
+	"name": "Escanor Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "jaku3",
+	"description": "# Introduction\r\nGaren is a noob champ?. - Who decided that?\r\nFF go next, unwinnable?. - Who decided that?\r\n\r\nTell them to apologize immediately for spawning into YOUR GAME. \r\nWith this skin YOU Will:\r\n\r\n- Be the one to decide.\r\n- Be able to carry 1v9 easily.\r\n- Be KDA maxxxxing every single time.\r\n- Make your enemies pick ranged toplane\r\n- Make your enemies RAGE QUIT after losing to YOU as a ranged toplaner.\r\n- Send them to therapy after they sold their dignity by playing a counterpick just to end up being destroyed anyways.\r\n- Make your toxic allies fucking lose their sanity as well as they observe how you are still able to win the game despite all their softinting and ain't a thing they can do about it, because this is NOW YOUR GAME and they dont have a say in it.\r\n\r\n> And when everything's against you and the sun isn't shining too bright... remember that you're playing ESCANOR because you felt like it but they will be playing their pick not because they want it, not because they have fun with it, but because you chose to play ESCANOR.\r\n\r\n\"Summoner, Would you be so kind as to tell the enemy peasants to forfeit already?\"\r\n\r\n—Escanor, the lion sin of pride.\r\n\r\n# Description\r\nChampion: Garen\r\nSkin modified: Base\r\nVersion: 1.2.0\r\n\r\n# Features\r\n- Escanor's & Rhitta's 3D models sculpted by me\r\n- New textures baked by me\r\n- New loadscreen by Google images (couldn't find the artist, if that's you let me know so I can give proper credit)\r\n- New voiceover\r\n- Particle recolor\r\n\r\n# Planned future features\r\n- More voiceover (champ interactions)\r\n- Particle swapping\r\n\r\n# Wish me luck features\r\n- New animations\r\n- New S/VFX\r\n\r\n# Credits\r\nThanks to the whole league modding community for creating such good, well-written guides.\r\nSpecial thanks to Divine's community for helping me on getting the hands rig right.\n\n---\n\n**Created by** [jaku3](https://www.divineskins.gg/jaku3)\n\n**Original:** https://www.divineskins.gg/jaku3/escanor-garen\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/escanor-garen/thumb.webp?v=9d09b5e2",
+	"file": {
+		"version": 1,
+		"asset": "escanor-garen-v1.fantome",
+		"size": 6150078,
+		"sha256": "51118191b9fb96d456cfa4ee979f56d6f7b9cf86707275642e639d7bca366be7"
+	},
+	"chromas": []
+}

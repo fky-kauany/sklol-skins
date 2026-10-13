@@ -1,0 +1,26 @@
+{
+	"id": "emilia-aurora",
+	"name": "Emilia Aurora",
+	"champion": 893,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Emilia Aurora\n\n### Features\n\n- **Custom model** replacing Aurora with Emilia from *Re:Zero*\n- **Custom abilities** featuring frosty, anime-inspired magic effects\n- **Works on every Aurora skin** for maximum compatibility\n- Smooth installation via **Celestial Launcher**\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/emilia-aurora\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/emilia-aurora/thumb.webp?v=d2bfd450",
+	"file": {
+		"version": 1,
+		"asset": "emilia-aurora-v1.fantome",
+		"size": 11511704,
+		"sha256": "fb1571365e8e2d08eb236597cfce23a49fccaa6c3bb9a61dabc04d34bddbd0cd"
+	},
+	"chromas": []
+}
