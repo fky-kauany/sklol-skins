@@ -1,0 +1,25 @@
+{
+	"id": "selenic-ripples-kiana-aphelios",
+	"name": "Selenic Ripples Kiana - Aphelios",
+	"champion": 523,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "### 📌 Mod Info\r\n**Voice Over** : Japanese\r\n**Model(s):** \r\n   - Selenic Ripples (Outfit) Herrscher of Finality Kiana\r\n   - Tuna Sword\r\n\r\n**Extra**: There's  a 50/50 chance of getting the Tuna sword when recalling~\r\n\r\n**Special thanks** to Tec!\r\n\r\n### 💬 Additional Info\r\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\r\n\r\n### 💖 Support Me\r\nEnjoyed the mod? Help fuel future projects: \r\n\r\nhttps://ko-fi.com/s0jaku\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/selenic-ripples-kiana-aphelios\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/selenic-ripples-kiana-aphelios/thumb.webp?v=a5b60c15",
+	"file": {
+		"version": 1,
+		"asset": "selenic-ripples-kiana-aphelios-v1.fantome",
+		"size": 17555071,
+		"sha256": "56db8fb5d2615e0c6d5f517458d6d8666528453fe4f286860834fda0779209fe"
+	},
+	"chromas": []
+}

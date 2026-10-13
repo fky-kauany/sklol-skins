@@ -1,0 +1,26 @@
+{
+	"id": "seraphine-heartsong-chroma-vfx",
+	"name": "Seraphine - Heartsong Chroma VFX",
+	"champion": 147,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Heartsong Seraphine's Chromas\r\n\r\n╰┈➤ _The idea for this mod was to give Seraphine's Heartsong Chromas unique visual effects per chroma._\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/seraphine-heartsong-chroma-vfx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/seraphine-heartsong-chroma-vfx/thumb.webp?v=e1609a99",
+	"file": {
+		"version": 1,
+		"asset": "seraphine-heartsong-chroma-vfx-v1.fantome",
+		"size": 14742893,
+		"sha256": "09eb2ef8c05a060304516ccef15584413e01a7c318f58ce88ccdcf914f141fed"
+	},
+	"chromas": []
+}

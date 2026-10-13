@@ -1,0 +1,25 @@
+{
+	"id": "seraphine-ai",
+	"name": "Ai",
+	"champion": 147,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/ai-seraphine\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/seraphine-ai/thumb.webp?v=bf21d607",
+	"file": {
+		"version": 1,
+		"asset": "seraphine-ai-v1.fantome",
+		"size": 19446057,
+		"sha256": "4479b256ae4008e1b9d73262f238a0bbbb8af1818c2598134b014568d40ad2a3"
+	},
+	"chromas": []
+}

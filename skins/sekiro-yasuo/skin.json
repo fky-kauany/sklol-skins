@@ -1,0 +1,26 @@
+{
+	"id": "sekiro-yasuo",
+	"name": "Sekiro yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "## COMMISION ME ON DISCORD @ceerel\n\n\n\n\n\n\nTHIS MOD INCLUDES\nCUSTOM MODEL, VOICEOVERS, SOUND EFFECTS, ANIMATIONS\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/sekiro-yasuo\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sekiro-yasuo/thumb.webp?v=07664038",
+	"file": {
+		"version": 1,
+		"asset": "sekiro-yasuo-v1.fantome",
+		"size": 56439829,
+		"sha256": "029669437601facfa63d5dabbc16bf4306c36d25409d7f94661c65998ac603bc"
+	},
+	"chromas": []
+}

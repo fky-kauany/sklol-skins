@@ -1,0 +1,26 @@
+{
+	"id": "senna-mami",
+	"name": "Mami",
+	"champion": 235,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/mami-senna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/senna-mami/thumb.webp?v=e424ab19",
+	"file": {
+		"version": 1,
+		"asset": "senna-mami-v1.fantome",
+		"size": 19120364,
+		"sha256": "b420f679c801a219ca99b6768ddc355a507635f22c4b3ba44e1bb8df1b4e9f8f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "separatist-jhin",
+	"name": "Separatist Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nThis mod replaces Jhin with the Separatist from CS:GO.\r\nYou can pick between two variants - one wields a Dragon Lore, the other wields a Gungnir.\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces Base Jhin.\r\n\r\n#\r\n\r\n### ✨ Credits\r\n\r\n- Credits to artist (check out his [tiktok](https://www.tiktok.com/@arting_bruh \"artist's tiktok channel, funny cat videos!\")!) for creating the mod. All I did was updating it.\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/separatist-jhin\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/separatist-jhin/thumb.webp?v=2b301781",
+	"file": {
+		"version": 1,
+		"asset": "separatist-jhin-v1.fantome",
+		"size": 62684898,
+		"sha256": "84d717593bf7032a63869e482841de75d3250eb442cbd7fcc325fb286494b307"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "senator-armstrong-sett",
+	"name": "Senator Armstrong Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Sett with Senator Armstrong from MGRR.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Sett.\n\n#\n\n### ✨ Credits\n\n- Credits to [Kingshound](https://www.youtube.com/@Kingshound \"kingshound's yt channel\") for creating the mod, I am only maintaining it\n\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for making the voiceover\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/senator-armstrong-sett\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/senator-armstrong-sett/thumb.webp?v=a411df63",
+	"file": {
+		"version": 1,
+		"asset": "senator-armstrong-sett-v1.fantome",
+		"size": 8308310,
+		"sha256": "ac4e85aed43ab8940a0a5ba4ec56339d1bc4438b6d8424327d5a81e7d03f6732"
+	},
+	"chromas": []
+}

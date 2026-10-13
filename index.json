@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:56:35.014Z",
+	"generatedAt": "2026-10-13T06:00:01.330Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14418,6 +14418,259 @@
 				"asset": "scorpion-brand-v1.fantome",
 				"size": 991121,
 				"sha256": "30c48c4b41f46190356288d785443c6b6473c36c6d8ac73d324dd0152393a780"
+			},
+			"chromas": []
+		},
+		{
+			"id": "scorpion-lee-sin",
+			"name": "Scorpion Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/scorpion-lee-sin/thumb.webp?v=c1405f60",
+			"file": {
+				"version": 1,
+				"asset": "scorpion-lee-sin-v1.fantome",
+				"size": 5483150,
+				"sha256": "97e55507a049d23eb13fbcd6f105f1e348934dcbf6ff4f3393de398905c89751"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sekiro-yasuo",
+			"name": "Sekiro yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sekiro-yasuo/thumb.webp?v=07664038",
+			"file": {
+				"version": 1,
+				"asset": "sekiro-yasuo-v1.fantome",
+				"size": 56439829,
+				"sha256": "029669437601facfa63d5dabbc16bf4306c36d25409d7f94661c65998ac603bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "selenic-ripples-kiana-aphelios",
+			"name": "Selenic Ripples Kiana - Aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/selenic-ripples-kiana-aphelios/thumb.webp?v=a5b60c15",
+			"file": {
+				"version": 1,
+				"asset": "selenic-ripples-kiana-aphelios-v1.fantome",
+				"size": 17555071,
+				"sha256": "56db8fb5d2615e0c6d5f517458d6d8666528453fe4f286860834fda0779209fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "senator-armstrong-sett",
+			"name": "Senator Armstrong Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/senator-armstrong-sett/thumb.webp?v=a411df63",
+			"file": {
+				"version": 1,
+				"asset": "senator-armstrong-sett-v1.fantome",
+				"size": 8308310,
+				"sha256": "ac4e85aed43ab8940a0a5ba4ec56339d1bc4438b6d8424327d5a81e7d03f6732"
+			},
+			"chromas": []
+		},
+		{
+			"id": "senna-mami",
+			"name": "Mami",
+			"champion": 235,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/senna-mami/thumb.webp?v=e424ab19",
+			"file": {
+				"version": 1,
+				"asset": "senna-mami-v1.fantome",
+				"size": 19120364,
+				"sha256": "b420f679c801a219ca99b6768ddc355a507635f22c4b3ba44e1bb8df1b4e9f8f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sentinel-of-light-jax",
+			"name": "Sentinel Of Light Jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sentinel-of-light-jax/thumb.webp?v=39e33a09",
+			"file": {
+				"version": 1,
+				"asset": "sentinel-of-light-jax-v1.fantome",
+				"size": 24125689,
+				"sha256": "7225ae13b6a2cdcde9ca8f9d8df5bbadc261dfd5bc39511daacab0d04f5531b5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "separatist-jhin",
+			"name": "Separatist Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/separatist-jhin/thumb.webp?v=2b301781",
+			"file": {
+				"version": 1,
+				"asset": "separatist-jhin-v1.fantome",
+				"size": 62684898,
+				"sha256": "84d717593bf7032a63869e482841de75d3250eb442cbd7fcc325fb286494b307"
+			},
+			"chromas": []
+		},
+		{
+			"id": "seraphine-ai",
+			"name": "Ai",
+			"champion": 147,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/seraphine-ai/thumb.webp?v=bf21d607",
+			"file": {
+				"version": 1,
+				"asset": "seraphine-ai-v1.fantome",
+				"size": 19446057,
+				"sha256": "4479b256ae4008e1b9d73262f238a0bbbb8af1818c2598134b014568d40ad2a3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "seraphine-heartsong-chroma-vfx",
+			"name": "Seraphine - Heartsong Chroma VFX",
+			"champion": 147,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/seraphine-heartsong-chroma-vfx/thumb.webp?v=e1609a99",
+			"file": {
+				"version": 1,
+				"asset": "seraphine-heartsong-chroma-vfx-v1.fantome",
+				"size": 14742893,
+				"sha256": "09eb2ef8c05a060304516ccef15584413e01a7c318f58ce88ccdcf914f141fed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "seraphine-uta",
+			"name": "Seraphine Uta",
+			"champion": 147,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/seraphine-uta/thumb.webp?v=753d6158",
+			"file": {
+				"version": 1,
+				"asset": "seraphine-uta-v1.fantome",
+				"size": 31849776,
+				"sha256": "1d853e20440cb0c27e556bbce2a4066f8b4d79e21b4d5d0ff76ef9ddf4e1528d"
 			},
 			"chromas": []
 		},
