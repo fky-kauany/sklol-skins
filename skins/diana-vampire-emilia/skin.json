@@ -1,0 +1,26 @@
+{
+	"id": "diana-vampire-emilia",
+	"name": "Diana Vampire Emilia",
+	"champion": 131,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 🎃「 Emilia — VAMPIRE VERSION 」🎃\n### *Halloween Edition — Replaces Diana*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Loading Screen**\n\n**Custom In-Game Icons**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/diana-vampire-emilia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/diana-vampire-emilia/thumb.webp?v=06455056",
+	"file": {
+		"version": 1,
+		"asset": "diana-vampire-emilia-v1.fantome",
+		"size": 53750272,
+		"sha256": "d9eb1e53666c3bdf8e847779d9ebeebd6d2ba8e3f2942250f5b261d6907a302e"
+	},
+	"chromas": []
+}

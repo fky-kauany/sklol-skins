@@ -1,0 +1,26 @@
+{
+	"id": "dollynho-gragas",
+	"name": "Dollynho gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"oi pessoal, sou dollynho, seu amiguinho, vamos cantar? :D\"\n\n***\n\n**Modified champion: Gragas**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n\n\nthe 3d model from that guy: [M4NOCR4ZY](https://steamcommunity.com/sharedfiles/filedetails/?id=585815778)\n\n\n3D bottle edited by me: [Minnie Mouse](https://steamcommunity.com/sharedfiles/filedetails/?id=2979435986)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/dollynho-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dollynho-gragas/thumb.webp?v=4511a574",
+	"file": {
+		"version": 1,
+		"asset": "dollynho-gragas-v1.fantome",
+		"size": 4828199,
+		"sha256": "c4108cdefca81c5398a91fe25207ba12a308ddecd1576439e70b917b06f79cab"
+	},
+	"chromas": []
+}

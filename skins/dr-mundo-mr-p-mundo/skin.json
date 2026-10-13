@@ -1,0 +1,26 @@
+{
+	"id": "dr-mundo-mr-p-mundo",
+	"name": "Mr. P Mundo",
+	"champion": 36,
+	"base": 0,
+	"creator": "daka",
+	"description": "# Overview\n\nThe skin works on Corporate Mundo only.\n\n## Features:\n- Custom Model (Brawl Stars)\n- Custom Icons\n- Custom VO/sfx\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/mr-p-mundo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dr-mundo-mr-p-mundo/thumb.webp?v=1f099654",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-mr-p-mundo-v1.fantome",
+		"size": 10796121,
+		"sha256": "be93f5e7144ccf3116112ea02756b47b4e2a3a8c4a6337fcae9b75e2c6bacffe"
+	},
+	"chromas": []
+}

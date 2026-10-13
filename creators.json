@@ -46,6 +46,17 @@
 			"youtube": "https://www.youtube.com/@ascila"
 		}
 	},
+	"aurecueil": {
+		"name": "aurecueil",
+		"avatar": "creators/aurecueil.webp?v=b8768957",
+		"bio": "[Blur](https://www.youtube.com/watch?v=Fgqrkc1yDtc)",
+		"links": {
+			"discord": "https://discord.gg/GETA29vZEK",
+			"kofi": "https://ko-fi.com/aurecueil",
+			"site": "https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png",
+			"youtube": "https://youtube.com/@aurecueil"
+		}
+	},
 	"azerkan67": {
 		"name": "azerkan67",
 		"bio": "Ping me on dc @azerkan67 /\n\ncommi or issues",
@@ -345,6 +356,11 @@
 		"name": "rorotea1",
 		"avatar": "creators/rorotea1.png?v=56a27670",
 		"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
+		"links": {}
+	},
+	"sabafutka": {
+		"name": "SabaFutka",
+		"avatar": "creators/sabafutka.webp?v=97ea8aca",
 		"links": {}
 	},
 	"sauronkaiser": {

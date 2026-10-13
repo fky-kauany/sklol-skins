@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:12:40.589Z",
+	"generatedAt": "2026-10-13T02:16:51.157Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -47,6 +47,17 @@
 				"discord": "https://discord.gg/yaByNwaxsP",
 				"site": "https://paypal.me/aclysfaya",
 				"youtube": "https://www.youtube.com/@ascila"
+			}
+		},
+		"aurecueil": {
+			"name": "aurecueil",
+			"avatar": "creators/aurecueil.webp?v=b8768957",
+			"bio": "[Blur](https://www.youtube.com/watch?v=Fgqrkc1yDtc)",
+			"links": {
+				"discord": "https://discord.gg/GETA29vZEK",
+				"kofi": "https://ko-fi.com/aurecueil",
+				"site": "https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png",
+				"youtube": "https://youtube.com/@aurecueil"
 			}
 		},
 		"azerkan67": {
@@ -348,6 +359,11 @@
 			"name": "rorotea1",
 			"avatar": "creators/rorotea1.png?v=56a27670",
 			"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
+			"links": {}
+		},
+		"sabafutka": {
+			"name": "SabaFutka",
+			"avatar": "creators/sabafutka.webp?v=97ea8aca",
 			"links": {}
 		},
 		"sauronkaiser": {
@@ -8770,6 +8786,261 @@
 				"asset": "diana-blade-of-miquela-v1.fantome",
 				"size": 11495884,
 				"sha256": "8bd2f3bb136e65f492ff4eae919f8d716fbf690df4bf62e036932ab3e8ab7c0b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "diana-shikimori",
+			"name": "Diana Shikimori",
+			"champion": 131,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/diana-shikimori/thumb.webp?v=41b7aeb8",
+			"file": {
+				"version": 1,
+				"asset": "diana-shikimori-v1.fantome",
+				"size": 11885028,
+				"sha256": "fa919214f5ebacac868b77c5b32cd6e528c2944daafdf05df37edb99d1833e0a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "diana-vampire-emilia",
+			"name": "Diana Vampire Emilia",
+			"champion": 131,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/diana-vampire-emilia/thumb.webp?v=06455056",
+			"file": {
+				"version": 1,
+				"asset": "diana-vampire-emilia-v1.fantome",
+				"size": 53750272,
+				"sha256": "d9eb1e53666c3bdf8e847779d9ebeebd6d2ba8e3f2942250f5b261d6907a302e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dmc5-dante-samira",
+			"name": "DMC5 Dante Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dmc5-dante-samira/thumb.webp?v=abad46e9",
+			"file": {
+				"version": 1,
+				"asset": "dmc5-dante-samira-v1.fantome",
+				"size": 19738330,
+				"sha256": "1e88f6737b1f21cd373bd4fc820273ab6c40765d4749004b6a1a21778c3d5f82"
+			},
+			"chromas": []
+		},
+		{
+			"id": "doflamingo-locke",
+			"name": "Doflamingo - Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "sabafutka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/doflamingo-locke/thumb.webp?v=5924cf91",
+			"file": {
+				"version": 1,
+				"asset": "doflamingo-locke-v1.fantome",
+				"size": 2426440,
+				"sha256": "e00e9f6ae7727406a682a4a6705fcb180083c2651106cac2d7dec05abe6e3f23"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dollynho-gragas",
+			"name": "Dollynho gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dollynho-gragas/thumb.webp?v=4511a574",
+			"file": {
+				"version": 1,
+				"asset": "dollynho-gragas-v1.fantome",
+				"size": 4828199,
+				"sha256": "c4108cdefca81c5398a91fe25207ba12a308ddecd1576439e70b917b06f79cab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "donnie-darko-rengar",
+			"name": "Donnie Darko Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/donnie-darko-rengar/thumb.webp?v=de1a72f3",
+			"file": {
+				"version": 1,
+				"asset": "donnie-darko-rengar-v1.fantome",
+				"size": 13598676,
+				"sha256": "6fd782f123d4c10f148e4128ca04fe4e009665d7be8c2017a87ec6dbaf4c19aa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "doughcat-yuumi",
+			"name": "Doughcat Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/doughcat-yuumi/thumb.webp?v=a0bf97b9",
+			"file": {
+				"version": 1,
+				"asset": "doughcat-yuumi-v1.fantome",
+				"size": 24458018,
+				"sha256": "78947e749f05a5f621a166cd492d626e339e6649d8bf33ff18f27f53bd7390b5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-broly",
+			"name": "Broly",
+			"champion": 36,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-broly/thumb.webp?v=7e98fef6",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-broly-v1.fantome",
+				"size": 16974675,
+				"sha256": "cc4f3ccdd7d5b1601e3a74f98ef3379e8290233bc18bd2e1ba4469a5120550d9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-mr-p-mundo",
+			"name": "Mr. P Mundo",
+			"champion": 36,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-mr-p-mundo/thumb.webp?v=1f099654",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-mr-p-mundo-v1.fantome",
+				"size": 10796121,
+				"sha256": "be93f5e7144ccf3116112ea02756b47b4e2a3a8c4a6337fcae9b75e2c6bacffe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-push-sfx",
+			"name": "Dr Mundo Push SFX",
+			"champion": 36,
+			"base": 3,
+			"creator": "aurecueil",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-push-sfx/thumb.webp?v=78c503f7",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-push-sfx-v1.fantome",
+				"size": 2397395,
+				"sha256": "ea4779e2b9c12335a4dd8c93af3a3ac020e4349abd914701d6c826f88a594ca8"
 			},
 			"chromas": []
 		},

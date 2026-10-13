@@ -1,0 +1,26 @@
+{
+	"id": "dr-mundo-broly",
+	"name": "Broly",
+	"champion": 36,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/broly-mundo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dr-mundo-broly/thumb.webp?v=7e98fef6",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-broly-v1.fantome",
+		"size": 16974675,
+		"sha256": "cc4f3ccdd7d5b1601e3a74f98ef3379e8290233bc18bd2e1ba4469a5120550d9"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "doflamingo-locke",
+	"name": "Doflamingo - Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "sabafutka",
+	"description": "INSPIRED BY THE GREATEST VILLAIN FROM THE GREATEST SHOW ONE PIECE.\nDoflamingo locke skin\nFirst try mod \nAI s.\nGOOD LUCK\n\n---\n\n**Created by** [SabaFutka](https://www.divineskins.gg/SabaFutka)\n\n**Original:** https://www.divineskins.gg/SabaFutka/doflamingo-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/doflamingo-locke/thumb.webp?v=5924cf91",
+	"file": {
+		"version": 1,
+		"asset": "doflamingo-locke-v1.fantome",
+		"size": 2426440,
+		"sha256": "e00e9f6ae7727406a682a4a6705fcb180083c2651106cac2d7dec05abe6e3f23"
+	},
+	"chromas": []
+}

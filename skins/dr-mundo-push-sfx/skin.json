@@ -1,0 +1,22 @@
+{
+	"id": "dr-mundo-push-sfx",
+	"name": "Dr Mundo Push SFX",
+	"champion": 36,
+	"base": 3,
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\r\n\r\nReplaces: SFX on Corporate Mundo\r\n\r\nAuthor: Aurecuei\r\n\r\nVersion: 1.0.0\r\n\r\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\r\n\r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n\r\n## MISC\r\n\r\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\r\n\r\ndc: aurecueil\r\n\r\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/dr-mundo-push-sfx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dr-mundo-push-sfx/thumb.webp?v=78c503f7",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-push-sfx-v1.fantome",
+		"size": 2397395,
+		"sha256": "ea4779e2b9c12335a4dd8c93af3a3ac020e4349abd914701d6c826f88a594ca8"
+	},
+	"chromas": []
+}

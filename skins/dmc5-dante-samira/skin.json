@@ -1,0 +1,26 @@
+{
+	"id": "dmc5-dante-samira",
+	"name": "DMC5 Dante Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\r\n\r\nThis mod replaces Samira with Dante from DMC5.\r\n\r\n#\r\n\r\n### ✨ Additional information\r\n\r\nThe mod replaces Base Samira.\r\n\r\n#\r\n\r\n### ✨ Credits\r\n\r\n- Credits to [Swoggers](https://www.youtube.com/@SwoggersLOL \"swoggers yt channel\") and [Kingshound](https://www.youtube.com/@Kingshound \"kingshound's yt channel\") for creating the mod, I am only maintaining it\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/dmc5-dante-samira\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dmc5-dante-samira/thumb.webp?v=abad46e9",
+	"file": {
+		"version": 1,
+		"asset": "dmc5-dante-samira-v1.fantome",
+		"size": 19738330,
+		"sha256": "1e88f6737b1f21cd373bd4fc820273ab6c40765d4749004b6a1a21778c3d5f82"
+	},
+	"chromas": []
+}

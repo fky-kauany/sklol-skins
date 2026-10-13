@@ -1,0 +1,26 @@
+{
+	"id": "diana-shikimori",
+	"name": "Diana Shikimori",
+	"champion": 131,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MIYAKO SHIKIMORI 」\r\n### *Replaces Diana*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/diana-shikimori\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/diana-shikimori/thumb.webp?v=41b7aeb8",
+	"file": {
+		"version": 1,
+		"asset": "diana-shikimori-v1.fantome",
+		"size": 11885028,
+		"sha256": "fa919214f5ebacac868b77c5b32cd6e528c2944daafdf05df37edb99d1833e0a"
+	},
+	"chromas": []
+}
