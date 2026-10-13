@@ -1,0 +1,24 @@
+{
+	"id": "tohsakarin-katarina",
+	"name": "TohsakaRin Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : TohsakaRin Katarina\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/tohsakarin-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tohsakarin-katarina/thumb.webp?v=d45040ae",
+	"file": {
+		"version": 1,
+		"asset": "tohsakarin-katarina-v1.fantome",
+		"size": 2388856,
+		"sha256": "34d7f3279500596929ac4ac0756da5818653b8a419131f5bf77834bf7d5add73"
+	},
+	"chromas": []
+}

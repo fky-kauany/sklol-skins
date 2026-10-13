@@ -1,0 +1,26 @@
+{
+	"id": "toga-himiko-katarina",
+	"name": "Toga Himiko - Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "kesa",
+	"description": "# **DISCORD: @hanmada**\n\n### **DM IF SOMETHING BREAKS**\n**(or if you wanna commision)**\n\n#\n\nThis custom skin transforms **Katarina** into **Toga Himiko** from **My hero academia**, fully reimagined with a complete visual and audio overhaul while maintaining perfect gameplay clarity.\n#\n- ? Features\n\n- **Custom Model**\n\nHigh-quality Toga Himiko Model\n\n\n\n- **Custom VFX**\n\nFully replaced spell effects for all abilities\n\n\n- **Custom SFX**\n\nCustom Voice Lines\n\nToga Himiko inspired voice lines\n\n\n\n- **Skin Compatibility-**\n\n**WORKS ON ALL KATARINA SKINS**\n\nFeel free to dm me on discord for any type of thing (suggestions,ideas,bugs etc...) @hanmada\n\n---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/toga-himiko-katarina\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/toga-himiko-katarina/thumb.webp?v=fd5efb10",
+	"file": {
+		"version": 1,
+		"asset": "toga-himiko-katarina-v1.fantome",
+		"size": 6568195,
+		"sha256": "95bb00c0377dde70d8ae27231b8cdd2fdd2364f86cb0e61680ff151545622819"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "thorfinn-talon",
+	"name": "Thorfinn Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/thorfinn-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/thorfinn-talon/thumb.webp?v=0d92ccff",
+	"file": {
+		"version": 1,
+		"asset": "thorfinn-talon-v1.fantome",
+		"size": 8784726,
+		"sha256": "67261cb1c5ca4259546ada88648de26f96ba5b69008df4b6660c70cf03cdc692"
+	},
+	"chromas": []
+}

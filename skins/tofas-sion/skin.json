@@ -1,0 +1,24 @@
+{
+	"id": "tofas-sion",
+	"name": "Tofas Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Sion\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/tofas-sion\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tofas-sion/thumb.webp?v=bac147bc",
+	"file": {
+		"version": 1,
+		"asset": "tofas-sion-v1.fantome",
+		"size": 2717984,
+		"sha256": "5eedda064f01d875bba90aa92e5a6ea8abbdd57c12ec43635ee2a815563a9b0f"
+	},
+	"chromas": []
+}

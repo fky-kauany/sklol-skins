@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:53:25.751Z",
+	"generatedAt": "2026-10-13T06:56:40.764Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -18795,6 +18795,259 @@
 				"asset": "the-warden-rek-sai-v1.fantome",
 				"size": 8828859,
 				"sha256": "0f3fd9a8ab0550c757f18feaa71c5f9d87235d1638bf72eec7a0c6e1da0704ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-weapon-master-vindicator-draven",
+			"name": "The Weapon Master Vindicator Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-weapon-master-vindicator-draven/thumb.webp?v=7d498e29",
+			"file": {
+				"version": 1,
+				"asset": "the-weapon-master-vindicator-draven-v1.fantome",
+				"size": 10532634,
+				"sha256": "0433ac41d2d67a6a6139291627d6cb1879071773efd783d50bbcd6e9df05665d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-weeknd-twisted-fate",
+			"name": "The Weeknd Twisted Fate",
+			"champion": 4,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-weeknd-twisted-fate/thumb.webp?v=01a526ce",
+			"file": {
+				"version": 1,
+				"asset": "the-weeknd-twisted-fate-v1.fantome",
+				"size": 13410884,
+				"sha256": "b6d6c5a47b59bd2967b0ffe2e4561f1da18602a23efd8ff7a33ed979b14782a4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-wither-hunter-akshan",
+			"name": "The Wither Hunter (Akshan)",
+			"champion": 166,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-wither-hunter-akshan/thumb.webp?v=5fc7a85e",
+			"file": {
+				"version": 1,
+				"asset": "the-wither-hunter-akshan-v1.fantome",
+				"size": 70621031,
+				"sha256": "ef0f922010bca01ade728c5de8d4308c20d10473a54f569c31665a84e0205d9f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "thorfinn-talon",
+			"name": "Thorfinn Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/thorfinn-talon/thumb.webp?v=0d92ccff",
+			"file": {
+				"version": 1,
+				"asset": "thorfinn-talon-v1.fantome",
+				"size": 8784726,
+				"sha256": "67261cb1c5ca4259546ada88648de26f96ba5b69008df4b6660c70cf03cdc692"
+			},
+			"chromas": []
+		},
+		{
+			"id": "thragg-sett",
+			"name": "Thragg Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/thragg-sett/thumb.webp?v=5db8697c",
+			"file": {
+				"version": 1,
+				"asset": "thragg-sett-v1.fantome",
+				"size": 18061768,
+				"sha256": "3cc32e3c96f779da4784f1623e3ed22f79264d7922dd7389da47307bf44674e6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tifa-vi",
+			"name": "Tifa Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tifa-vi/thumb.webp?v=e9b80c68",
+			"file": {
+				"version": 1,
+				"asset": "tifa-vi-v1.fantome",
+				"size": 14256447,
+				"sha256": "189cd1c0e911ca52451e7f3bcb08b600a27616ba22a352f1309dbf6f01841377"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tofas-rammus",
+			"name": "Tofas Rammus",
+			"champion": 33,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tofas-rammus/thumb.webp?v=fec818c0",
+			"file": {
+				"version": 1,
+				"asset": "tofas-rammus-v1.fantome",
+				"size": 7671318,
+				"sha256": "7f5484eda31f77f37dfbf8220d45afc0705c52b42f602a08d23a64f9fc381fa2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tofas-sion",
+			"name": "Tofas Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tofas-sion/thumb.webp?v=bac147bc",
+			"file": {
+				"version": 1,
+				"asset": "tofas-sion-v1.fantome",
+				"size": 2717984,
+				"sha256": "5eedda064f01d875bba90aa92e5a6ea8abbdd57c12ec43635ee2a815563a9b0f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toga-himiko-katarina",
+			"name": "Toga Himiko - Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/toga-himiko-katarina/thumb.webp?v=fd5efb10",
+			"file": {
+				"version": 1,
+				"asset": "toga-himiko-katarina-v1.fantome",
+				"size": 6568195,
+				"sha256": "95bb00c0377dde70d8ae27231b8cdd2fdd2364f86cb0e61680ff151545622819"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tohsakarin-katarina",
+			"name": "TohsakaRin Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tohsakarin-katarina/thumb.webp?v=d45040ae",
+			"file": {
+				"version": 1,
+				"asset": "tohsakarin-katarina-v1.fantome",
+				"size": 2388856,
+				"sha256": "34d7f3279500596929ac4ac0756da5818653b8a419131f5bf77834bf7d5add73"
 			},
 			"chromas": []
 		},

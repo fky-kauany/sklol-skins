@@ -1,0 +1,25 @@
+{
+	"id": "the-weeknd-twisted-fate",
+	"name": "The Weeknd Twisted Fate",
+	"champion": 4,
+	"base": 0,
+	"creator": "frog",
+	"description": "asdasdasdasdasdasdasdasdasdsadsadsadsaXDDDDDDDDDDDDDDDD\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/the-weeknd-twisted-fate\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-weeknd-twisted-fate/thumb.webp?v=01a526ce",
+	"file": {
+		"version": 1,
+		"asset": "the-weeknd-twisted-fate-v1.fantome",
+		"size": 13410884,
+		"sha256": "b6d6c5a47b59bd2967b0ffe2e4561f1da18602a23efd8ff7a33ed979b14782a4"
+	},
+	"chromas": []
+}
