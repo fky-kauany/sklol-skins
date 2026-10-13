@@ -1,0 +1,25 @@
+{
+	"id": "lee-zed",
+	"name": "Lee Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "ramo",
+	"description": "---\n\n**Created by** [ramo](https://www.divineskins.gg/ramo)\n\n**Original:** https://www.divineskins.gg/ramo/lee-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lee-zed/thumb.webp?v=379dd798",
+	"file": {
+		"version": 1,
+		"asset": "lee-zed-v1.fantome",
+		"size": 1233074,
+		"sha256": "91d40faee0474d8c25df01fb74e19ffaee2ce92bf0f0483c96f36eacafdaa2a1"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:17:46.354Z",
+	"generatedAt": "2026-10-13T04:21:11.088Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -440,6 +440,10 @@
 				"site": "https://i.imgur.com/FAR3dg6.png",
 				"x": "https://x.com/p1mek"
 			}
+		},
+		"ramo": {
+			"name": "ramo",
+			"links": {}
 		},
 		"rorotea1": {
 			"name": "rorotea1",
@@ -6666,6 +6670,263 @@
 				"asset": "leblanc-makima-v1.fantome",
 				"size": 32799424,
 				"sha256": "7c024055e80331901ee3ae524aadb928d85fccf0e2d2d35c2770661a4679130e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-akaza",
+			"name": "Lee Sin Akaza",
+			"champion": 64,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-akaza/thumb.webp?v=aa430664",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-akaza-v1.fantome",
+				"size": 12814990,
+				"sha256": "84f04ca1123130fa174c3238b53299dd75c8ef23952c55977b8e323b64379854"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-beesin",
+			"name": "BeeSin",
+			"champion": 64,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-beesin/thumb.webp?v=a7871e39",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-beesin-v1.fantome",
+				"size": 20492125,
+				"sha256": "e2a1a0e90227fab86a9dd6501c7387a453b6cae034fca4ec393cd0dbd3c3f034"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-gojo",
+			"name": "Gojo",
+			"champion": 64,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-gojo/thumb.webp?v=fe4e109a",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-gojo-v1.fantome",
+				"size": 11275411,
+				"sha256": "f79142d5de927c3dd3a2876b636ca595114027972e5c38eadf85790d60e92ae3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-kiyotaka-ayanokoji",
+			"name": "Lee Sin Kiyotaka Ayanokoji",
+			"champion": 64,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-kiyotaka-ayanokoji/thumb.webp?v=5757d54a",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-kiyotaka-ayanokoji-v1.fantome",
+				"size": 25906313,
+				"sha256": "3d186fce036df014d0f0a3e206a0406d9dcf09c7d841b950a44ba612118a1666"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-mikey",
+			"name": "Lee Sin Mikey",
+			"champion": 64,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-mikey/thumb.webp?v=dc97f2b7",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-mikey-v1.fantome",
+				"size": 11559551,
+				"sha256": "baeec754158502ebbb36a1a3eba18199dec5503ed3c3bac16219f3c76f2b2d37"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-silverwolf-leesin",
+			"name": "SilverWolf LeeSin",
+			"champion": 64,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-silverwolf-leesin/thumb.webp?v=2ff9d9e4",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-silverwolf-leesin-v1.fantome",
+				"size": 58482705,
+				"sha256": "8b99ea9c9e6dcdf2c1e25de7663ec1e2944ac368b06ec33d7dd24ec6d4bc05f0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-yoruichi",
+			"name": "Yoruichi",
+			"champion": 64,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-yoruichi/thumb.webp?v=5585d952",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-yoruichi-v1.fantome",
+				"size": 15618460,
+				"sha256": "8856ea6bd41a5d48c2a7783b9c599e0e605d5fb52af98310dcbd009503fbc98d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-yuji",
+			"name": "Yuji",
+			"champion": 64,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-yuji/thumb.webp?v=9443f533",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-yuji-v1.fantome",
+				"size": 15978504,
+				"sha256": "3d9dde99d5fdde0bef51d16b6be1ff590887ec45b4fb2e9af02fa2b030308e90"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-zed",
+			"name": "Lee Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "ramo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lee-zed/thumb.webp?v=379dd798",
+			"file": {
+				"version": 1,
+				"asset": "lee-zed-v1.fantome",
+				"size": 1233074,
+				"sha256": "91d40faee0474d8c25df01fb74e19ffaee2ce92bf0f0483c96f36eacafdaa2a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "legion-naval-commander-gangplank",
+			"name": "Legion Naval Commander Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/legion-naval-commander-gangplank/thumb.webp?v=1b25e7f7",
+			"file": {
+				"version": 1,
+				"asset": "legion-naval-commander-gangplank-v1.fantome",
+				"size": 36216117,
+				"sha256": "b4642a49b1667ae7951f284aa8843a63a57a43145a6c3a1400eba15c55b8ada0"
 			},
 			"chromas": []
 		},

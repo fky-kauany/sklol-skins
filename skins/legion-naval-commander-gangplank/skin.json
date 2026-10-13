@@ -1,0 +1,25 @@
+{
+	"id": "legion-naval-commander-gangplank",
+	"name": "Legion Naval Commander Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\n\n### DM IF SOMETHING BREAKS (or if you want to commission)\n# \n\n### Legion Naval Commander Gangplank from the old game AdventureQuestWorlds (AQW) \n#\nFEATURES:\n* NEW VFX\n* CUSTOM MODEL\n\nDare to pledge your soul to Dage?\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/legion-naval-commander-gangplank\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/legion-naval-commander-gangplank/thumb.webp?v=1b25e7f7",
+	"file": {
+		"version": 1,
+		"asset": "legion-naval-commander-gangplank-v1.fantome",
+		"size": 36216117,
+		"sha256": "b4642a49b1667ae7951f284aa8843a63a57a43145a6c3a1400eba15c55b8ada0"
+	},
+	"chromas": []
+}

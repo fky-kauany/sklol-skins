@@ -1,0 +1,25 @@
+{
+	"id": "lee-sin-beesin",
+	"name": "BeeSin",
+	"champion": 64,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2096280896420598033?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Lee Sin\n* Skin: All\n* BeeSin Concept Art/made into real skin in the game \n[Loadingscreen & Concept Author:https://www.artstation.com/artwork/mOzXZ8]\n\n# Features\n\n- Loadingscreen & HUD\n- VFX\n- Model\n\n# ![](https://i.imgur.com/NOCicxD.gif)\n\n# Bugs\n\n***\n\nno bugs yet\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/beesin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lee-sin-beesin/thumb.webp?v=a7871e39",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-beesin-v1.fantome",
+		"size": 20492125,
+		"sha256": "e2a1a0e90227fab86a9dd6501c7387a453b6cae034fca4ec393cd0dbd3c3f034"
+	},
+	"chromas": []
+}

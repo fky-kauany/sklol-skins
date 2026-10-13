@@ -1,0 +1,26 @@
+{
+	"id": "lee-sin-gojo",
+	"name": "Gojo",
+	"champion": 64,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gojo-lee-sin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lee-sin-gojo/thumb.webp?v=fe4e109a",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-gojo-v1.fantome",
+		"size": 11275411,
+		"sha256": "f79142d5de927c3dd3a2876b636ca595114027972e5c38eadf85790d60e92ae3"
+	},
+	"chromas": []
+}

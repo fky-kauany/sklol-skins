@@ -1,0 +1,25 @@
+{
+	"id": "lee-sin-yoruichi",
+	"name": "Yoruichi",
+	"champion": 64,
+	"base": 0,
+	"creator": "frog",
+	"description": "Yoruichi Lee Sin • Custom model • Custom Abilities • Works on every Lee Sin skin • Voiceover\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/yoruichi-lee-sin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lee-sin-yoruichi/thumb.webp?v=5585d952",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-yoruichi-v1.fantome",
+		"size": 15618460,
+		"sha256": "8856ea6bd41a5d48c2a7783b9c599e0e605d5fb52af98310dcbd009503fbc98d"
+	},
+	"chromas": []
+}

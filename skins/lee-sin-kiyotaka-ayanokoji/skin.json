@@ -1,0 +1,26 @@
+{
+	"id": "lee-sin-kiyotaka-ayanokoji",
+	"name": "Lee Sin Kiyotaka Ayanokoji",
+	"champion": 64,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KIYOTAKA AYANOKOJI 」\n### *Replaces Lee Sin*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/lee-sin-kiyotaka-ayanokoji\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lee-sin-kiyotaka-ayanokoji/thumb.webp?v=5757d54a",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-kiyotaka-ayanokoji-v1.fantome",
+		"size": 25906313,
+		"sha256": "3d186fce036df014d0f0a3e206a0406d9dcf09c7d841b950a44ba612118a1666"
+	},
+	"chromas": []
+}

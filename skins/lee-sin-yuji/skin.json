@@ -1,0 +1,26 @@
+{
+	"id": "lee-sin-yuji",
+	"name": "Yuji",
+	"champion": 64,
+	"base": 0,
+	"creator": "frog",
+	"description": "Yuji Lee Sin\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Lee Sin skin\r\n• Custom Voiceover of Yuji\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/yuji-lee-sin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lee-sin-yuji/thumb.webp?v=9443f533",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-yuji-v1.fantome",
+		"size": 15978504,
+		"sha256": "3d9dde99d5fdde0bef51d16b6be1ff590887ec45b4fb2e9af02fa2b030308e90"
+	},
+	"chromas": []
+}
