@@ -1,0 +1,25 @@
+{
+	"id": "kayle-sukuna",
+	"name": "Sukuna",
+	"champion": 10,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Sukuna Kayle\r\n• Custom model\r\n• Custom Abilities\r\n• Custom Animations\r\n• Works on every Kayle skin\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/sukuna-kayle\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kayle-sukuna/thumb.webp?v=80dc7630",
+	"file": {
+		"version": 1,
+		"asset": "kayle-sukuna-v1.fantome",
+		"size": 7620818,
+		"sha256": "19600923b3af714bfda5458a40f7b73dc0c90a61a98081d4acfbd6caaae873c0"
+	},
+	"chromas": []
+}

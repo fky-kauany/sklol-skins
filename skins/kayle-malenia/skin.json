@@ -1,0 +1,25 @@
+{
+	"id": "kayle-malenia",
+	"name": "Malenia",
+	"champion": 10,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Malenia Kayle • Custom model • Custom Abilities • Works on every Kayle skin\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/malenia-kayle\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kayle-malenia/thumb.webp?v=bea7808f",
+	"file": {
+		"version": 1,
+		"asset": "kayle-malenia-v1.fantome",
+		"size": 11914808,
+		"sha256": "aeeddbf377f9eb95c7842956b3293cb757aa13420b710a780356a40545fbeaf1"
+	},
+	"chromas": []
+}

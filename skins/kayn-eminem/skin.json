@@ -1,0 +1,26 @@
+{
+	"id": "kayn-eminem",
+	"name": "Eminem",
+	"champion": 141,
+	"base": 0,
+	"creator": "frog",
+	"description": "Eminem Kayn\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Kayn skin\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/eminem-kayn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kayn-eminem/thumb.webp?v=76e47546",
+	"file": {
+		"version": 1,
+		"asset": "kayn-eminem-v1.fantome",
+		"size": 16839941,
+		"sha256": "264c6729753aed0479ade449672d39ef5ebbf4bdade99dbbbfbd514fcc6ad36f"
+	},
+	"chromas": []
+}

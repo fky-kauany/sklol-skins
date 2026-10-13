@@ -1,0 +1,25 @@
+{
+	"id": "kayn-travis-scott",
+	"name": "Travis Scott",
+	"champion": 141,
+	"base": 0,
+	"creator": "sirdexal",
+	"description": "- Travis Scott Kayn\r\n- 3 Forms\r\n- Custom model\r\n- Custom VFX\n\n---\n\n**Created by** [SirDexal](https://www.divineskins.gg/SirDexal)\n\n**Original:** https://www.divineskins.gg/SirDexal/travis-scott-kayn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kayn-travis-scott/thumb.webp?v=d51280e0",
+	"file": {
+		"version": 1,
+		"asset": "kayn-travis-scott-v1.fantome",
+		"size": 38486197,
+		"sha256": "11cb58195d4f5c577fc8556dc4ea995fe06de258c2d886d9983a07a96dd9e657"
+	},
+	"chromas": []
+}

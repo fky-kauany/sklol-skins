@@ -1,0 +1,24 @@
+{
+	"id": "keqing-riven",
+	"name": "Keqing Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Keqing Riven\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.0\r\n\r\nModify---\r\n\r\nNew VFX\r\n\r\nNew voice pack\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/keqing-riven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/keqing-riven/thumb.webp?v=77b4d740",
+	"file": {
+		"version": 1,
+		"asset": "keqing-riven-v1.fantome",
+		"size": 3524417,
+		"sha256": "0dd48d5f5705ab6dc76a6e6e5b5f394d6e81bbb3969406e11c6c135b90caffdd"
+	},
+	"chromas": []
+}

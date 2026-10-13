@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:04:28.194Z",
+	"generatedAt": "2026-10-13T04:07:40.803Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -5644,6 +5644,255 @@
 				"asset": "katarina-zenitsu-v1.fantome",
 				"size": 30272093,
 				"sha256": "03cc64aba07007ed999df3a88ac18974b576c8192387430d87a186ba09728dd6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayle-albedo",
+			"name": "Albedo",
+			"champion": 10,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kayle-albedo/thumb.webp?v=43aa909c",
+			"file": {
+				"version": 1,
+				"asset": "kayle-albedo-v1.fantome",
+				"size": 14665320,
+				"sha256": "9a4f44897d83ccc60db9ff1c953d3388c584a247938ea28b6c0693d02c83d46f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayle-malenia",
+			"name": "Malenia",
+			"champion": 10,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kayle-malenia/thumb.webp?v=bea7808f",
+			"file": {
+				"version": 1,
+				"asset": "kayle-malenia-v1.fantome",
+				"size": 11914808,
+				"sha256": "aeeddbf377f9eb95c7842956b3293cb757aa13420b710a780356a40545fbeaf1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayle-sukuna",
+			"name": "Sukuna",
+			"champion": 10,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kayle-sukuna/thumb.webp?v=80dc7630",
+			"file": {
+				"version": 1,
+				"asset": "kayle-sukuna-v1.fantome",
+				"size": 7620818,
+				"sha256": "19600923b3af714bfda5458a40f7b73dc0c90a61a98081d4acfbd6caaae873c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-eminem",
+			"name": "Eminem",
+			"champion": 141,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kayn-eminem/thumb.webp?v=76e47546",
+			"file": {
+				"version": 1,
+				"asset": "kayn-eminem-v1.fantome",
+				"size": 16839941,
+				"sha256": "264c6729753aed0479ade449672d39ef5ebbf4bdade99dbbbfbd514fcc6ad36f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-juuzo-suzuya",
+			"name": "Juuzo Suzuya",
+			"champion": 141,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kayn-juuzo-suzuya/thumb.webp?v=47751c72",
+			"file": {
+				"version": 1,
+				"asset": "kayn-juuzo-suzuya-v1.fantome",
+				"size": 6588641,
+				"sha256": "a4fd984162725484cc9ad8e851c1764e34d1bbf714d7fdb2bf91712c381423f8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-travis-scott",
+			"name": "Travis Scott",
+			"champion": 141,
+			"base": 0,
+			"creator": "sirdexal",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kayn-travis-scott/thumb.webp?v=d51280e0",
+			"file": {
+				"version": 1,
+				"asset": "kayn-travis-scott-v1.fantome",
+				"size": 38486197,
+				"sha256": "11cb58195d4f5c577fc8556dc4ea995fe06de258c2d886d9983a07a96dd9e657"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kento-nanami-sett",
+			"name": "Kento Nanami Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kento-nanami-sett/thumb.webp?v=a59c30bf",
+			"file": {
+				"version": 1,
+				"asset": "kento-nanami-sett-v1.fantome",
+				"size": 9428803,
+				"sha256": "1378ad3d3f90bed26c959f85c71a4e2997c6f6d3e298bc6e031fbbfe726d5032"
+			},
+			"chromas": []
+		},
+		{
+			"id": "keqing-karma",
+			"name": "Keqing Karma",
+			"champion": 43,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/keqing-karma/thumb.webp?v=6ced1a83",
+			"file": {
+				"version": 1,
+				"asset": "keqing-karma-v1.fantome",
+				"size": 4876072,
+				"sha256": "64a6945508f2cdc00b24a8f6fd7c2a3cf14909527d111d5772634b0a3deca2ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "keqing-riven",
+			"name": "Keqing Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/keqing-riven/thumb.webp?v=77b4d740",
+			"file": {
+				"version": 1,
+				"asset": "keqing-riven-v1.fantome",
+				"size": 3524417,
+				"sha256": "0dd48d5f5705ab6dc76a6e6e5b5f394d6e81bbb3969406e11c6c135b90caffdd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kha-zix-beru-khazix",
+			"name": "Beru Khazix",
+			"champion": 121,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kha-zix-beru-khazix/thumb.webp?v=bd15b376",
+			"file": {
+				"version": 1,
+				"asset": "kha-zix-beru-khazix-v1.fantome",
+				"size": 11405320,
+				"sha256": "107ceaf07735ae66095e3376b6a1007d48f5a8a537da9bc4d1f912867ef202cf"
 			},
 			"chromas": []
 		},

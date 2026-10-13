@@ -1,0 +1,24 @@
+{
+	"id": "kayn-juuzo-suzuya",
+	"name": "Juuzo Suzuya",
+	"champion": 141,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Juuzo Suzuya Kayn\r\n• Custom model \r\n• Custom Abilities \r\n• Works on every Kayn skin\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/juuzo-suzuya-kayn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kayn-juuzo-suzuya/thumb.webp?v=47751c72",
+	"file": {
+		"version": 1,
+		"asset": "kayn-juuzo-suzuya-v1.fantome",
+		"size": 6588641,
+		"sha256": "a4fd984162725484cc9ad8e851c1764e34d1bbf714d7fdb2bf91712c381423f8"
+	},
+	"chromas": []
+}
