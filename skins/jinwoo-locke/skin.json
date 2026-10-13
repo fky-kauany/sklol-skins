@@ -1,0 +1,26 @@
+{
+	"id": "jinwoo-locke",
+	"name": "Jinwoo Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "mava",
+	"description": "---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/jinwoo-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jinwoo-locke/thumb.webp?v=8c4ed81b",
+	"file": {
+		"version": 1,
+		"asset": "jinwoo-locke-v1.fantome",
+		"size": 20430061,
+		"sha256": "dd13c4277ef23a6334fe906daf5a4ef51312375101e7ebf40c9005bd2c5cc5fa"
+	},
+	"chromas": []
+}

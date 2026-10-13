@@ -1,0 +1,26 @@
+{
+	"id": "jill-valentine-re5-samira",
+	"name": "Jill valentine RE5 samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "***\n**COMMISSION ME ON DISCORD @Ceerel**\n\n\nChanged \n-\n**VO**\n**MODEL**\n**ICONS**\n\nworks on every skin\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/jill-valentine-re5-samira\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jill-valentine-re5-samira/thumb.webp?v=f8edc822",
+	"file": {
+		"version": 1,
+		"asset": "jill-valentine-re5-samira-v1.fantome",
+		"size": 20027803,
+		"sha256": "4ad98654e6e83364bd54ab942110250991ca48a4dbe3f243b04ddfb1c0153378"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:44:38.050Z",
+	"generatedAt": "2026-10-13T03:47:59.359Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -4092,6 +4092,263 @@
 				"asset": "jayce-adam-smasher-v1.fantome",
 				"size": 23969440,
 				"sha256": "7064c539ac941be6f9e49a4207fbf317ae90b0db943d442c3593d5248aacd149"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jebus-swain",
+			"name": "jebus swain",
+			"champion": 50,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jebus-swain/thumb.webp?v=442cd4f9",
+			"file": {
+				"version": 1,
+				"asset": "jebus-swain-v1.fantome",
+				"size": 22809252,
+				"sha256": "8069d1b8f2662abbff6ab1fa8523a6ca3781bd3e247bc3e3aa56db6c04bb3ce6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jetstream-sam-yasuo",
+			"name": "Jetstream Sam Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jetstream-sam-yasuo/thumb.webp?v=050a5323",
+			"file": {
+				"version": 1,
+				"asset": "jetstream-sam-yasuo-v1.fantome",
+				"size": 10024241,
+				"sha256": "319a339e2b893b2f0f15db3cee6f7f2770e987c6a2186904f418611ce461634a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jett-akali",
+			"name": "Jett Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jett-akali/thumb.webp?v=0e020aa6",
+			"file": {
+				"version": 1,
+				"asset": "jett-akali-v1.fantome",
+				"size": 11408655,
+				"sha256": "43e786d3730290053b71628aa74185bd72699f4006aae2de3b22e4e8db988624"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jhin-boothill",
+			"name": "Boothill",
+			"champion": 202,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jhin-boothill/thumb.webp?v=fbf9c7e0",
+			"file": {
+				"version": 1,
+				"asset": "jhin-boothill-v1.fantome",
+				"size": 44749518,
+				"sha256": "57778f04459e9706753c69c3d2c55b7fddbc4864a50c64b295d93d663882205f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jhin-mai-zenin",
+			"name": "Mai Zenin",
+			"champion": 202,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jhin-mai-zenin/thumb.webp?v=bf33f00f",
+			"file": {
+				"version": 1,
+				"asset": "jhin-mai-zenin-v1.fantome",
+				"size": 17006018,
+				"sha256": "8ac4473c7e006fd6853463595e63c3ecbdec366c67e012bbce85daa4ae6e8cf5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jill-from-va11-hall-a-irelia",
+			"name": "JILL FROM VA11 HALL-A IRELIA",
+			"champion": 39,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jill-from-va11-hall-a-irelia/thumb.webp?v=34875690",
+			"file": {
+				"version": 1,
+				"asset": "jill-from-va11-hall-a-irelia-v1.fantome",
+				"size": 38914062,
+				"sha256": "ff3c3c21eac1b9f7f5dbc6a9b49bf97820a472917a23041ee03a5cccb59dc8d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jill-valentine-re5-samira",
+			"name": "Jill valentine RE5 samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jill-valentine-re5-samira/thumb.webp?v=f8edc822",
+			"file": {
+				"version": 1,
+				"asset": "jill-valentine-re5-samira-v1.fantome",
+				"size": 20027803,
+				"sha256": "4ad98654e6e83364bd54ab942110250991ca48a4dbe3f243b04ddfb1c0153378"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jinwoo-locke",
+			"name": "Jinwoo Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jinwoo-locke/thumb.webp?v=8c4ed81b",
+			"file": {
+				"version": 1,
+				"asset": "jinwoo-locke-v1.fantome",
+				"size": 20430061,
+				"sha256": "dd13c4277ef23a6334fe906daf5a4ef51312375101e7ebf40c9005bd2c5cc5fa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jinx-fallen-star",
+			"name": "Fallen Star",
+			"champion": 222,
+			"base": 0,
+			"creator": "oyashxro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jinx-fallen-star/thumb.webp?v=d74a2043",
+			"file": {
+				"version": 1,
+				"asset": "jinx-fallen-star-v1.fantome",
+				"size": 11754709,
+				"sha256": "028ea6189b1f28d5efd5ad3571f4b6262b4792633334f6d318588960598eff3f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jinx-yuno-gasai",
+			"name": "Yuno Gasai",
+			"champion": 222,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jinx-yuno-gasai/thumb.webp?v=13319cc8",
+			"file": {
+				"version": 1,
+				"asset": "jinx-yuno-gasai-v1.fantome",
+				"size": 8652166,
+				"sha256": "0ba7ef809ade6d229f71be09b831c1332bd78b2c29566de40f66595cb70a02d5"
 			},
 			"chromas": []
 		},

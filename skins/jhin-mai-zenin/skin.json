@@ -1,0 +1,26 @@
+{
+	"id": "jhin-mai-zenin",
+	"name": "Mai Zenin",
+	"champion": 202,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": ".\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/mai-zenin-jhin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jhin-mai-zenin/thumb.webp?v=bf33f00f",
+	"file": {
+		"version": 1,
+		"asset": "jhin-mai-zenin-v1.fantome",
+		"size": 17006018,
+		"sha256": "8ac4473c7e006fd6853463595e63c3ecbdec366c67e012bbce85daa4ae6e8cf5"
+	},
+	"chromas": []
+}

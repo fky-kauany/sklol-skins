@@ -1,0 +1,25 @@
+{
+	"id": "jetstream-sam-yasuo",
+	"name": "Jetstream Sam Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Yasuo with Jetstream Sam from MGRR.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Yasuo.\n\n#\n\n### ✨ Credits\n\n- Credits to [Kingshound](https://www.youtube.com/@Kingshound \"kingshound's yt channel\") for creating the mod, I am only maintaining it\n\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for making the voiceover\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/jetstream-sam-yasuo\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jetstream-sam-yasuo/thumb.webp?v=050a5323",
+	"file": {
+		"version": 1,
+		"asset": "jetstream-sam-yasuo-v1.fantome",
+		"size": 10024241,
+		"sha256": "319a339e2b893b2f0f15db3cee6f7f2770e987c6a2186904f418611ce461634a"
+	},
+	"chromas": []
+}

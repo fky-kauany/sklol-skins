@@ -1,0 +1,26 @@
+{
+	"id": "jebus-swain",
+	"name": "jebus swain",
+	"champion": 50,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"**I shall be the instrument of Armageddon.** **the end has begun**\"\n\n***\n\n**Modified champion: Swain**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3d model made by:** [**Tottu-1280**](https://www.newgrounds.com/art/view/tottu-1280/just-a-nomal-day-in-nevada-vol2-model-pack-release)\n\n[Krinkels](https://twitter.com/MRKrinkels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) **is the creator of this madness**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/jebus-swain\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jebus-swain/thumb.webp?v=442cd4f9",
+	"file": {
+		"version": 1,
+		"asset": "jebus-swain-v1.fantome",
+		"size": 22809252,
+		"sha256": "8069d1b8f2662abbff6ab1fa8523a6ca3781bd3e247bc3e3aa56db6c04bb3ce6"
+	},
+	"chromas": []
+}

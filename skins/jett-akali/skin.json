@@ -1,0 +1,25 @@
+{
+	"id": "jett-akali",
+	"name": "Jett Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "frog",
+	"description": "The unseen blade meets the unseen wind. This custom skin transforms the Rogue Assassin into the fast-paced duelist, **Jett**. Get ready to dash through the battlefield with unparalleled speed, using her iconic knife skills and wind abilities. This skin combines Akali's lethal precision with Jett's unmatched agility, making you the deadliest force on the rift.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/jett-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jett-akali/thumb.webp?v=0e020aa6",
+	"file": {
+		"version": 1,
+		"asset": "jett-akali-v1.fantome",
+		"size": 11408655,
+		"sha256": "43e786d3730290053b71628aa74185bd72699f4006aae2de3b22e4e8db988624"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "jinx-fallen-star",
+	"name": "Fallen Star",
+	"champion": 222,
+	"base": 0,
+	"creator": "oyashxro",
+	"description": "Fallen star Jinx • Custom model • Custom Abilities • Works on every Jinx skin\n\n---\n\n**Created by** [oyashxro](https://www.divineskins.gg/oyashxro)\n\n**Original:** https://www.divineskins.gg/oyashxro/fallen-star-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jinx-fallen-star/thumb.webp?v=d74a2043",
+	"file": {
+		"version": 1,
+		"asset": "jinx-fallen-star-v1.fantome",
+		"size": 11754709,
+		"sha256": "028ea6189b1f28d5efd5ad3571f4b6262b4792633334f6d318588960598eff3f"
+	},
+	"chromas": []
+}
