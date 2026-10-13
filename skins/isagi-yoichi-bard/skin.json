@@ -1,0 +1,26 @@
+{
+	"id": "isagi-yoichi-bard",
+	"name": "Isagi Yoichi Bard",
+	"champion": 432,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Isagi Yoichi Bard\n\n### Features\n\n- **Custom 3D model** of Isagi Yoichi blended with Bard’s frame\n- **Custom abilities** with soccer-themed visuals and VFX\n- **Works across every Bard skin** for maximum compatibility\n- **Custom voiceover** capturing Isagi’s intensity from *Blue Lock*\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/isagi-yoichi-bard\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/isagi-yoichi-bard/thumb.webp?v=e058bc0d",
+	"file": {
+		"version": 1,
+		"asset": "isagi-yoichi-bard-v1.fantome",
+		"size": 17008131,
+		"sha256": "22c4b8c4dd4ff352d86395211976c6617d60fb49b1caac7fc3a493b8fe5922ee"
+	},
+	"chromas": []
+}

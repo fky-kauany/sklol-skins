@@ -1,0 +1,26 @@
+{
+	"id": "isaac-amumu",
+	"name": "isaac amumu",
+	"champion": 32,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "''You, who awaits God, do not fear, what is left, and he will give you strength\"\nInformation\n\n***\n\n**Modified champion: Amumu**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n\nthe 3d model is from: Crystal crisis\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/isaac-amumu\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/isaac-amumu/thumb.webp?v=2463e586",
+	"file": {
+		"version": 1,
+		"asset": "isaac-amumu-v1.fantome",
+		"size": 4603704,
+		"sha256": "8d64f1b7246f67dafa5beaff39585516883b0a026716da484d41be6e82ee99ea"
+	},
+	"chromas": []
+}

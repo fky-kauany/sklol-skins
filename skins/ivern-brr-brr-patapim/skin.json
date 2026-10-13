@@ -1,0 +1,26 @@
+{
+	"id": "ivern-brr-brr-patapim",
+	"name": "Brr Brr Patapim",
+	"champion": 427,
+	"base": 0,
+	"creator": "frog",
+	"description": "brr\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/brr-brr-patapim-ivern\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ivern-brr-brr-patapim/thumb.webp?v=78946681",
+	"file": {
+		"version": 1,
+		"asset": "ivern-brr-brr-patapim-v1.fantome",
+		"size": 46271343,
+		"sha256": "9d01043e4c659be7a38057b04af2dbab9ca521a2bebc339475e3caddd106eca6"
+	},
+	"chromas": []
+}

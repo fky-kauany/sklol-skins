@@ -1,0 +1,25 @@
+{
+	"id": "itachi-brand",
+	"name": "Itachi Brand",
+	"champion": 63,
+	"base": 0,
+	"creator": "emshu",
+	"description": "📌 Mod Info\nType: <Custom Skin / Audio / VFX-only\nModified Skin(s): All skins except Legendary-tier and above.\n\n🧾 Credits\nModel(s): Itachi\nCreator : Shu\n💬 Additional Info\nQuestions or requests? DM me on Discord or join the Divine Skins server.\nDiscord\n\nFan-made, not affiliated with Riot Games or any other company.\n\n---\n\n**Created by** [emShu](https://www.divineskins.gg/emShu)\n\n**Original:** https://www.divineskins.gg/emShu/itachi-brand\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/itachi-brand/thumb.webp?v=77378eb0",
+	"file": {
+		"version": 1,
+		"asset": "itachi-brand-v1.fantome",
+		"size": 8853660,
+		"sha256": "6163192a3b8646ecd5c1f55b1ee02b3ce81db48472114d6c0bbd8a221ed480de"
+	},
+	"chromas": []
+}

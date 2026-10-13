@@ -1,0 +1,26 @@
+{
+	"id": "isagi-ezreal",
+	"name": "Isagi Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Isagi Ezreal\n\n### Features\n\n- **Custom Model:** A brand-new model for Ezreal based on Yoichi Isagi's appearance in the *Blue Lock* anime.\n- **Custom Abilities:** All of Ezreal's abilities have fresh VFX, featuring the puzzle and aura motifs central to Isagi's character.\n- **Yoichi Isagi Voice Over:** The skin includes a custom voiceover featuring lines from the original character for maximum immersion.\n- **Special Kit Toggle:** By using the dance emote (Ctrl+2), you can toggle the model to Isagi's alternate white training kit.\n- **Universal Compatibility:** This mod works on every official Ezreal skin, including the base champion model.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/isagi-ezreal\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/isagi-ezreal/thumb.webp?v=8dfbe4d6",
+	"file": {
+		"version": 1,
+		"asset": "isagi-ezreal-v1.fantome",
+		"size": 13814728,
+		"sha256": "72e97c7489ddc858f0dea3c5ae1beac22fccd41274bd1c0d0e0658376eddc282"
+	},
+	"chromas": []
+}

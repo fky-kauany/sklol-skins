@@ -1,0 +1,26 @@
+{
+	"id": "ivern-stalker-of-the-woods",
+	"name": "Stalker of the Woods",
+	"champion": 427,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\n\n- Custom models and textures\n\n- Custom animations\n\n- Support for all quality settings\n\n- Custom VFX\n\n- Custom SFX\n\n- Custom Voice-over for all languages\n\n- Custom loading screen and in-game icons\n\n- A reanimated Daisy\n\n- Edgy one liners\n\n\n\n*\"My favourite colour is red\"*\n\n\nEver thought Ivern is too jolly of a character in all of his skins, even Old God? Well, Ivern Grandmaster and streamer IvernGott certainly did, because he commissioned me to make a much darker version of our beloved tree hugger. As such, I present you: Stalker of the Woods Ivern\n\n\nFeatures a custom model for Ivern, put together with existing League assets, a new model for Daisy, a full suite of new animations that would better suit the forest horror that Ivern has become (excluding the emotes), new vfx, more fitting sfx and a full voice-over, showing just how much of a twisted shadow of himself Ivern has become.\n\nAlso, I included a few chromas. Use only one version at a time!\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/stalker-of-the-woods\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ivern-stalker-of-the-woods/thumb.webp?v=5086de06",
+	"file": {
+		"version": 1,
+		"asset": "ivern-stalker-of-the-woods-v1.fantome",
+		"size": 25689715,
+		"sha256": "e87849ef77caa32980a04a92f1048bfc6429b44ce11af174fe065d5b1193a5c8"
+	},
+	"chromas": []
+}

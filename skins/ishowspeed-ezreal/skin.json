@@ -1,0 +1,26 @@
+{
+	"id": "ishowspeed-ezreal",
+	"name": "IShowSpeed Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "disco",
+	"description": "# Works on All skins enjoy\n\n3D Model from Fortnite\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/ishowspeed-ezreal\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ishowspeed-ezreal/thumb.webp?v=8ecd35b5",
+	"file": {
+		"version": 1,
+		"asset": "ishowspeed-ezreal-v1.fantome",
+		"size": 12874991,
+		"sha256": "e9ec526780c4e6c9a746ccb764fa3f11abe257fc8e889841da77f10da25da69f"
+	},
+	"chromas": []
+}

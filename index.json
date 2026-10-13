@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:37:59.399Z",
+	"generatedAt": "2026-10-13T03:41:17.374Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -3579,6 +3579,266 @@
 				"asset": "ironman-jayce-v1.fantome",
 				"size": 5425534,
 				"sha256": "11ee5ea06ed99c50c386d1f2f9a364ea3a4a375f3c46cbbf5cd92e0561658017"
+			},
+			"chromas": []
+		},
+		{
+			"id": "isaac-amumu",
+			"name": "isaac amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/isaac-amumu/thumb.webp?v=2463e586",
+			"file": {
+				"version": 1,
+				"asset": "isaac-amumu-v1.fantome",
+				"size": 4603704,
+				"sha256": "8d64f1b7246f67dafa5beaff39585516883b0a026716da484d41be6e82ee99ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "isagi-ezreal",
+			"name": "Isagi Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/isagi-ezreal/thumb.webp?v=8dfbe4d6",
+			"file": {
+				"version": 1,
+				"asset": "isagi-ezreal-v1.fantome",
+				"size": 13814728,
+				"sha256": "72e97c7489ddc858f0dea3c5ae1beac22fccd41274bd1c0d0e0658376eddc282"
+			},
+			"chromas": []
+		},
+		{
+			"id": "isagi-yoichi-bard",
+			"name": "Isagi Yoichi Bard",
+			"champion": 432,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/isagi-yoichi-bard/thumb.webp?v=e058bc0d",
+			"file": {
+				"version": 1,
+				"asset": "isagi-yoichi-bard-v1.fantome",
+				"size": 17008131,
+				"sha256": "22c4b8c4dd4ff352d86395211976c6617d60fb49b1caac7fc3a493b8fe5922ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "isagi-yoichi-viego-from-blue-lock",
+			"name": "Isagi Yoichi Viego from Blue Lock",
+			"champion": 234,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/isagi-yoichi-viego-from-blue-lock/thumb.webp?v=e33b727a",
+			"file": {
+				"version": 1,
+				"asset": "isagi-yoichi-viego-from-blue-lock-v1.fantome",
+				"size": 24862329,
+				"sha256": "82dec14790f233c5b63f360c89b0d76efd5a710f79c8d6f740c653b0f500e575"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ishowspeed-ezreal",
+			"name": "IShowSpeed Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ishowspeed-ezreal/thumb.webp?v=8ecd35b5",
+			"file": {
+				"version": 1,
+				"asset": "ishowspeed-ezreal-v1.fantome",
+				"size": 12874991,
+				"sha256": "e9ec526780c4e6c9a746ccb764fa3f11abe257fc8e889841da77f10da25da69f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "itachi-annie",
+			"name": "Itachi Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/itachi-annie/thumb.webp?v=8a7bae39",
+			"file": {
+				"version": 1,
+				"asset": "itachi-annie-v1.fantome",
+				"size": 16151013,
+				"sha256": "3bca84cc97dcc148b3c68bcc2dbc6cae1514ef9495035b7ca31697d364b7140e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "itachi-brand",
+			"name": "Itachi Brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "emshu",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/itachi-brand/thumb.webp?v=77378eb0",
+			"file": {
+				"version": 1,
+				"asset": "itachi-brand-v1.fantome",
+				"size": 8853660,
+				"sha256": "6163192a3b8646ecd5c1f55b1ee02b3ce81db48472114d6c0bbd8a221ed480de"
+			},
+			"chromas": []
+		},
+		{
+			"id": "itachi-talon",
+			"name": "Itachi Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/itachi-talon/thumb.webp?v=358bce91",
+			"file": {
+				"version": 1,
+				"asset": "itachi-talon-v1.fantome",
+				"size": 7805478,
+				"sha256": "4ad879a4d2fd4b2fc616bcd13c8c20b3decbd096bead9921949fa987a80f4dce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ivern-brr-brr-patapim",
+			"name": "Brr Brr Patapim",
+			"champion": 427,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ivern-brr-brr-patapim/thumb.webp?v=78946681",
+			"file": {
+				"version": 1,
+				"asset": "ivern-brr-brr-patapim-v1.fantome",
+				"size": 46271343,
+				"sha256": "9d01043e4c659be7a38057b04af2dbab9ca521a2bebc339475e3caddd106eca6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ivern-stalker-of-the-woods",
+			"name": "Stalker of the Woods",
+			"champion": 427,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ivern-stalker-of-the-woods/thumb.webp?v=5086de06",
+			"file": {
+				"version": 1,
+				"asset": "ivern-stalker-of-the-woods-v1.fantome",
+				"size": 25689715,
+				"sha256": "e87849ef77caa32980a04a92f1048bfc6429b44ce11af174fe065d5b1193a5c8"
 			},
 			"chromas": []
 		},
