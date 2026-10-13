@@ -1,0 +1,25 @@
+{
+	"id": "travis-scott-zeri",
+	"name": "Travis Scott Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "Change texture with CTRL 3/CTRL 2\n\n---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/travis-scott-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/travis-scott-zeri/thumb.webp?v=d1950574",
+	"file": {
+		"version": 1,
+		"asset": "travis-scott-zeri-v1.fantome",
+		"size": 28450952,
+		"sha256": "01a3fbd2deedbc6b558424475def52ad464edde3002a49b60394cbb0693795ad"
+	},
+	"chromas": []
+}

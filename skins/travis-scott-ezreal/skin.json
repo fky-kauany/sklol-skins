@@ -1,0 +1,26 @@
+{
+	"id": "travis-scott-ezreal",
+	"name": "Travis Scott Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/travis-scott-ezreal\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/travis-scott-ezreal/thumb.webp?v=2c35954d",
+	"file": {
+		"version": 1,
+		"asset": "travis-scott-ezreal-v1.fantome",
+		"size": 10034224,
+		"sha256": "bb5f5c6d1eb5020c88ccad035a9a8a7401643b4dadde6d78a84752c7fcbae979"
+	},
+	"chromas": []
+}

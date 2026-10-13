@@ -1,0 +1,25 @@
+{
+	"id": "travis-scott-ekko",
+	"name": "Travis Scott Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Travis Scott Ekko\n\n### Features\n\n- **Custom model** giving Ekko a full Travis Scott makeover\n- **Custom abilities** with glowing, concert-style effects\n- **Works on every Ekko skin** for max compatibility\n- **FE!N plays while recalling** for the ultimate flex\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/travis-scott-ekko\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/travis-scott-ekko/thumb.webp?v=02c34e93",
+	"file": {
+		"version": 1,
+		"asset": "travis-scott-ekko-v1.fantome",
+		"size": 14859369,
+		"sha256": "ebc9439dc761a831ad74747acb45a90b2d0824b6365ea8cd9e81a18332ef8e08"
+	},
+	"chromas": []
+}

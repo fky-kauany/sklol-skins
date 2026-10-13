@@ -1,0 +1,25 @@
+{
+	"id": "tung-tung-sahur-trundle",
+	"name": "Tung Tung Sahur Trundle",
+	"champion": 48,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Made by Frog\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/tung-tung-sahur-trundle\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tung-tung-sahur-trundle/thumb.webp?v=f3ba2cf0",
+	"file": {
+		"version": 1,
+		"asset": "tung-tung-sahur-trundle-v1.fantome",
+		"size": 9522014,
+		"sha256": "bef12704f83eb6b4a2001f7c90893f4043da64fec7d9f1366fcbb0946f801bf8"
+	},
+	"chromas": []
+}

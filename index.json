@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:59:58.191Z",
+	"generatedAt": "2026-10-13T07:03:14.656Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -29,6 +29,10 @@
 		"agavuurha": {
 			"name": "AGAVUURHA",
 			"avatar": "creators/agavuurha.jpg?v=974746b3",
+			"links": {}
+		},
+		"anakin025": {
+			"name": "anakin025",
 			"links": {}
 		},
 		"antton": {
@@ -19303,6 +19307,257 @@
 				"asset": "tralalero-tralala-naafiri-v1.fantome",
 				"size": 8079128,
 				"sha256": "c033e8fb89862b1f53c1f3375d12da3fd37db464f92b7bbc49f5921e8436e0ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "travis-scott-draven",
+			"name": "Travis Scott Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/travis-scott-draven/thumb.webp?v=77623d96",
+			"file": {
+				"version": 1,
+				"asset": "travis-scott-draven-v1.fantome",
+				"size": 21290847,
+				"sha256": "aed49d6ce250dbc5ba6bde60234aceb2074c9d1487f153f7eba92b8498eefd41"
+			},
+			"chromas": []
+		},
+		{
+			"id": "travis-scott-ekko",
+			"name": "Travis Scott Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/travis-scott-ekko/thumb.webp?v=02c34e93",
+			"file": {
+				"version": 1,
+				"asset": "travis-scott-ekko-v1.fantome",
+				"size": 14859369,
+				"sha256": "ebc9439dc761a831ad74747acb45a90b2d0824b6365ea8cd9e81a18332ef8e08"
+			},
+			"chromas": []
+		},
+		{
+			"id": "travis-scott-ezreal",
+			"name": "Travis Scott Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/travis-scott-ezreal/thumb.webp?v=2c35954d",
+			"file": {
+				"version": 1,
+				"asset": "travis-scott-ezreal-v1.fantome",
+				"size": 10034224,
+				"sha256": "bb5f5c6d1eb5020c88ccad035a9a8a7401643b4dadde6d78a84752c7fcbae979"
+			},
+			"chromas": []
+		},
+		{
+			"id": "travis-scott-zeri",
+			"name": "Travis Scott Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/travis-scott-zeri/thumb.webp?v=d1950574",
+			"file": {
+				"version": 1,
+				"asset": "travis-scott-zeri-v1.fantome",
+				"size": 28450952,
+				"sha256": "01a3fbd2deedbc6b558424475def52ad464edde3002a49b60394cbb0693795ad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "truth-dragon-yasuo-red",
+			"name": "Truth Dragon Yasuo - Red",
+			"champion": 157,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/truth-dragon-yasuo-red/thumb.webp?v=6768a0a1",
+			"file": {
+				"version": 1,
+				"asset": "truth-dragon-yasuo-red-v1.fantome",
+				"size": 12933450,
+				"sha256": "e1722687f05e7db26aeff4ef50c955e44628874607f891a5dccc689ba810baba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tryndamere-s-asu",
+			"name": "Tryndamere's ASU",
+			"champion": 23,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tryndamere-s-asu/thumb.webp?v=b05ca56c",
+			"file": {
+				"version": 1,
+				"asset": "tryndamere-s-asu-v1.fantome",
+				"size": 46317015,
+				"sha256": "121b0e52761e24d7aa498d3ef50ce874afc77384c16e34f9fb8c6cf93f729d38"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tsunade-sett",
+			"name": "Tsunade Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tsunade-sett/thumb.webp?v=6c9a5708",
+			"file": {
+				"version": 1,
+				"asset": "tsunade-sett-v1.fantome",
+				"size": 7729734,
+				"sha256": "23b9e16193926213bbe0592e71daf5e6b6de34bfa0db7b404e269162f98cd9db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tung-tung-sahur-darius",
+			"name": "Tung Tung Sahur Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "anakin025",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tung-tung-sahur-darius/thumb.webp?v=0595fc0a",
+			"file": {
+				"version": 1,
+				"asset": "tung-tung-sahur-darius-v1.fantome",
+				"size": 2601486,
+				"sha256": "b9a7c9e95bcdcdae5c4febcf079d621de134f1939da2c76a079979ff3e492022"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tung-tung-sahur-nasus",
+			"name": "Tung Tung Sahur Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tung-tung-sahur-nasus/thumb.webp?v=7a9f6653",
+			"file": {
+				"version": 1,
+				"asset": "tung-tung-sahur-nasus-v1.fantome",
+				"size": 8912766,
+				"sha256": "0116be35eea36c502d263e3ea91f677309788d7b26f6a3e0a6cf450a204d93d4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tung-tung-sahur-trundle",
+			"name": "Tung Tung Sahur Trundle",
+			"champion": 48,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tung-tung-sahur-trundle/thumb.webp?v=f3ba2cf0",
+			"file": {
+				"version": 1,
+				"asset": "tung-tung-sahur-trundle-v1.fantome",
+				"size": 9522014,
+				"sha256": "bef12704f83eb6b4a2001f7c90893f4043da64fec7d9f1366fcbb0946f801bf8"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "tsunade-sett",
+	"name": "Tsunade Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Tsunade Sett\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/tsunade-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tsunade-sett/thumb.webp?v=6c9a5708",
+	"file": {
+		"version": 1,
+		"asset": "tsunade-sett-v1.fantome",
+		"size": 7729734,
+		"sha256": "23b9e16193926213bbe0592e71daf5e6b6de34bfa0db7b404e269162f98cd9db"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "truth-dragon-yasuo-red",
+	"name": "Truth Dragon Yasuo - Red",
+	"champion": 157,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Truth Dragon Yasuo\r\n\r\n╰┈➤ _The idea for this mod was to make Truth Dragon Yasuo with a red chroma_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here**](https://1gem1.straw.page/customskinsquestions), or message me on discord (1gem1), or here is [**more info**](https://1gem1.straw.page/) for anything else!\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/truth-dragon-yasuo-red\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/truth-dragon-yasuo-red/thumb.webp?v=6768a0a1",
+	"file": {
+		"version": 1,
+		"asset": "truth-dragon-yasuo-red-v1.fantome",
+		"size": 12933450,
+		"sha256": "e1722687f05e7db26aeff4ef50c955e44628874607f891a5dccc689ba810baba"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "tung-tung-sahur-nasus",
+	"name": "Tung Tung Sahur Nasus",
+	"champion": 75,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/tung-tung-sahur-nasus\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tung-tung-sahur-nasus/thumb.webp?v=7a9f6653",
+	"file": {
+		"version": 1,
+		"asset": "tung-tung-sahur-nasus-v1.fantome",
+		"size": 8912766,
+		"sha256": "0116be35eea36c502d263e3ea91f677309788d7b26f6a3e0a6cf450a204d93d4"
+	},
+	"chromas": []
+}

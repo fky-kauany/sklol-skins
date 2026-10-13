@@ -1,0 +1,26 @@
+{
+	"id": "tryndamere-s-asu",
+	"name": "Tryndamere's ASU",
+	"champion": 23,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "### **Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n- Massively expanded Voice-over\r\n- New VFX\r\n- New SFX\r\n- Custom loading screen and in-game icons\r\n- A lot of strength in your right arm\r\n- 3 crits in a row with 10% crit chance\r\n\r\n\r\nWe can all agree Tryndamere is one of the champions in dire in need of some sort of a visual update. Since, especially after falling in love with the Still Here cinematic (to which you'll see a lot of references here), I couldn't wait for an official ASU, I made my own.\r\n\r\n\r\n\r\n\r\n**New, shiny model!** - The main model is from Wild Rift, but the textures have been adjusted for PC League, ditched the helmet in favour of his fabulous hair (but there is a helmet version too), and implemented a metallic shader to the armour and sword.\r\n\r\n**Full animation overhaul!** - Where Trynda originally had like 16 functioning animations, he now has 40. New animations for everything, some kept similar, some I've taken some liberty with, like the walk animation. Don't worry, though, the sword dragging is still here, now exclusive to activating your Ultimate.\r\n\r\n**New VFX and SFX!** - Of course, Trynda was also in need of new effects. I didn't go too hard on the VFX, but the new autos look way better with them, and R makes a little more sense in my eyes - instead of just fire, it's more of a darkin blood aura. Of course, changing the sounds for it was also needed, as was adding new sounds, like for a brand new recall and emotes.\r\n\r\n**Expanded Voice-over** - So you know how Trynda had like 10 voice lines total? Now he has over 60, including special interactions with e.g. Ashe, Sejuani, Freljordian and Noxian champs etc.\r\n\r\n**Compatibility** - Since it was work enough to make the default skin, and since that skin includes very in-depth changes, I've made it so no matter which skin you pick, you will always get the default one.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/tryndameres-asu\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tryndamere-s-asu/thumb.webp?v=b05ca56c",
+	"file": {
+		"version": 1,
+		"asset": "tryndamere-s-asu-v1.fantome",
+		"size": 46317015,
+		"sha256": "121b0e52761e24d7aa498d3ef50ce874afc77384c16e34f9fb8c6cf93f729d38"
+	},
+	"chromas": []
+}

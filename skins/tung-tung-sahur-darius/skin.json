@@ -1,0 +1,23 @@
+{
+	"id": "tung-tung-sahur-darius",
+	"name": "Tung Tung Sahur Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "anakin025",
+	"description": "Darius didn't have any funny skins that i liked so I ported Frog's Tung Tung Sahur Nasus skin: https://www.divineskins.gg/Frog/tung-tung-sahur-nasus\n\nand combined it with the tf2 axe from Yigit Vercetti's Demoman Skin:https://www.divineskins.gg/yigitvercetti/team-fortress-2-darius\n\nbecause I liked it better than the bat.\n\nW is kinda bugged but it's mainly for personal use and I don't mind it.\n\n---\n\n**Created by** [anakin025](https://www.divineskins.gg/anakin025)\n\n**Original:** https://www.divineskins.gg/anakin025/tung-tung-sahur-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tung-tung-sahur-darius/thumb.webp?v=0595fc0a",
+	"file": {
+		"version": 1,
+		"asset": "tung-tung-sahur-darius-v1.fantome",
+		"size": 2601486,
+		"sha256": "b9a7c9e95bcdcdae5c4febcf079d621de134f1939da2c76a079979ff3e492022"
+	},
+	"chromas": []
+}
