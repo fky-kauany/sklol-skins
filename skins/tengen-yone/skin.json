@@ -1,0 +1,26 @@
+{
+	"id": "tengen-yone",
+	"name": "Tengen Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/tengen-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tengen-yone/thumb.webp?v=bbfb15d5",
+	"file": {
+		"version": 1,
+		"asset": "tengen-yone-v1.fantome",
+		"size": 27931004,
+		"sha256": "1e4358287c85e2dd3dc49ad18b6bff6bc637c6b6dde9e1a5d560d3f74cd5e15e"
+	},
+	"chromas": []
+}

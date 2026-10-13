@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:46:50.444Z",
+	"generatedAt": "2026-10-13T06:50:04.453Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -18286,6 +18286,258 @@
 				"asset": "team-fortress-2-darius-v1.fantome",
 				"size": 2502304,
 				"sha256": "28a6bec5b8d7c9956f8a4722791810b44fdec128b5864853dc3df15ddf983b4b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "team-fortress-2-jinx",
+			"name": "Team Fortress 2 Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/team-fortress-2-jinx/thumb.webp?v=60e63224",
+			"file": {
+				"version": 1,
+				"asset": "team-fortress-2-jinx-v1.fantome",
+				"size": 3263888,
+				"sha256": "141293d2ef23a6fe2508dde5dd05cfbd0c523150d714daa228ade86d8cda2fd0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "team-fortress-2-lucian",
+			"name": "Team Fortress 2 Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/team-fortress-2-lucian/thumb.webp?v=8620a1cb",
+			"file": {
+				"version": 1,
+				"asset": "team-fortress-2-lucian-v1.fantome",
+				"size": 12797860,
+				"sha256": "75fc8210870ff5a91f97bde6c3af3c625b0704120e9479204e1e5d1cc0093fd8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "team-fortress-2-nasus",
+			"name": "Team Fortress 2 Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/team-fortress-2-nasus/thumb.webp?v=453e5726",
+			"file": {
+				"version": 1,
+				"asset": "team-fortress-2-nasus-v1.fantome",
+				"size": 1048878,
+				"sha256": "2858dcda22d51d077d3292107632df6be3189b2c005ffafcff5f6d2d39e3d923"
+			},
+			"chromas": []
+		},
+		{
+			"id": "teemo-mineta",
+			"name": "Teemo Mineta",
+			"champion": 17,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/teemo-mineta/thumb.webp?v=ec3f04a5",
+			"file": {
+				"version": 1,
+				"asset": "teemo-mineta-v1.fantome",
+				"size": 23949669,
+				"sha256": "75242e35330b121c6bfb590801b4ad1dc68c81972e8c1c5d12e77b39967b064c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "teemo-nugget",
+			"name": "Nugget",
+			"champion": 17,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/teemo-nugget/thumb.webp?v=a5bf35a5",
+			"file": {
+				"version": 1,
+				"asset": "teemo-nugget-v1.fantome",
+				"size": 10547489,
+				"sha256": "f264abdc8a0c202011a2c30c42480bc3563b2be831326bccf94ad6eb90032eda"
+			},
+			"chromas": []
+		},
+		{
+			"id": "temple-guard-diana",
+			"name": "Temple Guard Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/temple-guard-diana/thumb.webp?v=2082079d",
+			"file": {
+				"version": 1,
+				"asset": "temple-guard-diana-v1.fantome",
+				"size": 28970509,
+				"sha256": "a1fcbf18c6ee2c5ab6b934b543238468f765236a069490922292d6504cb5844a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tengen-yone",
+			"name": "Tengen Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tengen-yone/thumb.webp?v=bbfb15d5",
+			"file": {
+				"version": 1,
+				"asset": "tengen-yone-v1.fantome",
+				"size": 27931004,
+				"sha256": "1e4358287c85e2dd3dc49ad18b6bff6bc637c6b6dde9e1a5d560d3f74cd5e15e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tenshi-cho-gath",
+			"name": "Tenshi Cho'Gath",
+			"champion": 31,
+			"base": 0,
+			"creator": "lita",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tenshi-cho-gath/thumb.webp?v=82db058f",
+			"file": {
+				"version": 1,
+				"asset": "tenshi-cho-gath-v1.fantome",
+				"size": 11073159,
+				"sha256": "244cede5ba5a23dee50c52b0b0061e2ae73d5d360484fe504af18aeba93a5d9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "terrifier-shaco",
+			"name": "Terrifier Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/terrifier-shaco/thumb.webp?v=ca736516",
+			"file": {
+				"version": 1,
+				"asset": "terrifier-shaco-v1.fantome",
+				"size": 11140001,
+				"sha256": "47ede45b797a40592f81bef4bc0050f04510f63f559be4f4c0086843b108467c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-batter-ekko",
+			"name": "The batter ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/the-batter-ekko/thumb.webp?v=a7f2bdc0",
+			"file": {
+				"version": 1,
+				"asset": "the-batter-ekko-v1.fantome",
+				"size": 10500919,
+				"sha256": "53826c45d12c14a3edff2daba5523349338c072ccf3382b4fa4bcd2458ef8b95"
 			},
 			"chromas": []
 		},

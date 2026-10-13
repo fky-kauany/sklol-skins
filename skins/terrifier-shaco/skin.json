@@ -1,0 +1,25 @@
+{
+	"id": "terrifier-shaco",
+	"name": "Terrifier Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "frog",
+	"description": "Prepare for the ultimate horror show. This custom **Terrifier Shaco** skin transforms the Demon Jester into **Art the Clown**, the silent harbinger of pure malice. With a bag full of gruesome tricks and a bone-chilling grin, you'll stalk your enemies from the shadows, leaving a trail of dread and dismembered foes. This isn't just a skin; it's a descent into pure, unadulterated terror.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/terrifier-shaco\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/terrifier-shaco/thumb.webp?v=ca736516",
+	"file": {
+		"version": 1,
+		"asset": "terrifier-shaco-v1.fantome",
+		"size": 11140001,
+		"sha256": "47ede45b797a40592f81bef4bc0050f04510f63f559be4f4c0086843b108467c"
+	},
+	"chromas": []
+}

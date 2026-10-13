@@ -1,0 +1,26 @@
+{
+	"id": "the-batter-ekko",
+	"name": "The batter ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "*\"Purification in progress....\"*\n\n***\n\n**Modified champion: Ekko**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3d model made by: [Aeon](https://sketchfab.com/3d-models/the-batter-off-3b530238cc1e4c3fafa1f7a05fd1d76f)\n\nfrom the game: OFF\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/the-batter-ekko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/the-batter-ekko/thumb.webp?v=a7f2bdc0",
+	"file": {
+		"version": 1,
+		"asset": "the-batter-ekko-v1.fantome",
+		"size": 10500919,
+		"sha256": "53826c45d12c14a3edff2daba5523349338c072ccf3382b4fa4bcd2458ef8b95"
+	},
+	"chromas": []
+}

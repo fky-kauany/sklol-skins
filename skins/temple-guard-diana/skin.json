@@ -1,0 +1,26 @@
+{
+	"id": "temple-guard-diana",
+	"name": "Temple Guard Diana",
+	"champion": 131,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### Temple Guard from the star wars world as Diana\n\nWant a commission?? DM me on Discord - zzzzzzz2930 (CZ in every server)\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/temple-guard-diana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/temple-guard-diana/thumb.webp?v=2082079d",
+	"file": {
+		"version": 1,
+		"asset": "temple-guard-diana-v1.fantome",
+		"size": 28970509,
+		"sha256": "a1fcbf18c6ee2c5ab6b934b543238468f765236a069490922292d6504cb5844a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "teemo-mineta",
+	"name": "Teemo Mineta",
+	"champion": 17,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MINORU MINETA 」\r\n### *Replaces Teemo*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/teemo-mineta\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/teemo-mineta/thumb.webp?v=ec3f04a5",
+	"file": {
+		"version": 1,
+		"asset": "teemo-mineta-v1.fantome",
+		"size": 23949669,
+		"sha256": "75242e35330b121c6bfb590801b4ad1dc68c81972e8c1c5d12e77b39967b064c"
+	},
+	"chromas": []
+}
