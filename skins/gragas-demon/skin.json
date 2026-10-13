@@ -1,0 +1,25 @@
+{
+	"id": "gragas-demon",
+	"name": "Demon",
+	"champion": 79,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/demon-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gragas-demon/thumb.webp?v=fb1050b8",
+	"file": {
+		"version": 1,
+		"asset": "gragas-demon-v1.fantome",
+		"size": 6513160,
+		"sha256": "aeb1d52ee7d7a75afe1b3c06144444e3639baec1e98bc9cab57b61e20f28554e"
+	},
+	"chromas": []
+}

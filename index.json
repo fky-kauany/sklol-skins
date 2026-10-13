@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:02:13.854Z",
+	"generatedAt": "2026-10-13T03:05:26.201Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -480,6 +480,16 @@
 			"bio": "I do my best.thats all",
 			"links": {}
 		},
+		"tor-lol": {
+			"name": "tor.lol",
+			"avatar": "creators/tor-lol.webp?v=254b6187",
+			"bio": "Dear SoloQ Bronze Donkeys,\n\nI’m torlol, new to the community and always open to ideas, commissions, and fun mods.\n\nFree Gaza type sht.\n\nGot an idea for a mod or UI change? Feel free to reach out.\n\nDiscord & TikTok: tor.lol\n\nREPORT MY MODS VIA DISCORD SO I CAN FIX THEM\nI DONT DO SHT ABOUT IT WITHOUT FOOTAGE OR PROOF!",
+			"links": {
+				"discord": "https://discord.com/users/1025295287461347388",
+				"tiktok": "https://tiktok.com/@tor.lol",
+				"youtube": "https://youtu.be/IxX_QHay02M"
+			}
+		},
 		"valfren": {
 			"name": "valfren",
 			"bio": "draven draven draven draven draven draven draven draven draven draven draven",
@@ -720,6 +730,259 @@
 				"asset": "gordon-freeman-aphelios-v1.fantome",
 				"size": 7081021,
 				"sha256": "277e13ac227270d996e37791f2942b4ad4a53eb210fc7ad6487c5dc97a580c91"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gotenks-naafiri",
+			"name": "Gotenks Naafiri",
+			"champion": 950,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gotenks-naafiri/thumb.webp?v=afaa3b42",
+			"file": {
+				"version": 1,
+				"asset": "gotenks-naafiri-v1.fantome",
+				"size": 25584043,
+				"sha256": "9833343abae4c88cb71d31c4627efa5d92410e0a29a5cc54c2115bac7642b519"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-akali",
+			"name": "Goth Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "tor-lol",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/goth-akali/thumb.webp?v=9a7307d2",
+			"file": {
+				"version": 1,
+				"asset": "goth-akali-v1.fantome",
+				"size": 9297387,
+				"sha256": "d9990d998e28f3b6beb574dc6e9d1df700ab38ebe9724ea2ebf24c16abc7ec0f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-cuties-jinx",
+			"name": "Goth Cuties Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/goth-cuties-jinx/thumb.webp?v=77021389",
+			"file": {
+				"version": 1,
+				"asset": "goth-cuties-jinx-v1.fantome",
+				"size": 19072035,
+				"sha256": "986f16a81b0d5ad84455727c26c7982ae0852dadfaa58ff6e8d5783ec52116bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-demon-locke",
+			"name": "Goth Demon Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/goth-demon-locke/thumb.webp?v=2f5b6be7",
+			"file": {
+				"version": 1,
+				"asset": "goth-demon-locke-v1.fantome",
+				"size": 11014432,
+				"sha256": "1da97e3ffc019e3e30dd2e1421db6fddd0dc87b508e3e15e8d09cdbd6d811165"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-beemo",
+			"name": "Beemo",
+			"champion": 79,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gragas-beemo/thumb.webp?v=c983d162",
+			"file": {
+				"version": 1,
+				"asset": "gragas-beemo-v1.fantome",
+				"size": 22654173,
+				"sha256": "231bdab3023a6fa1e570edc1978843b903b5067117ac88be4cb3a5f341cb25da"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-demon",
+			"name": "Demon",
+			"champion": 79,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gragas-demon/thumb.webp?v=fb1050b8",
+			"file": {
+				"version": 1,
+				"asset": "gragas-demon-v1.fantome",
+				"size": 6513160,
+				"sha256": "aeb1d52ee7d7a75afe1b3c06144444e3639baec1e98bc9cab57b61e20f28554e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-malphite",
+			"name": "Gragas Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gragas-malphite/thumb.webp?v=ba243c21",
+			"file": {
+				"version": 1,
+				"asset": "gragas-malphite-v1.fantome",
+				"size": 221004,
+				"sha256": "599a1068db81d95ba667b13e485b3972587eef39db446030ee6af5f9d965e1c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-olaf",
+			"name": "Gragas Olaf",
+			"champion": 2,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gragas-olaf/thumb.webp?v=255d0bfa",
+			"file": {
+				"version": 1,
+				"asset": "gragas-olaf-v1.fantome",
+				"size": 763385,
+				"sha256": "e014808605058bc674d5a142bcfccac32de4b6a67f38f5c720a30028210ee26a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-pengu",
+			"name": "Pengu",
+			"champion": 79,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gragas-pengu/thumb.webp?v=35d8200a",
+			"file": {
+				"version": 1,
+				"asset": "gragas-pengu-v1.fantome",
+				"size": 28600271,
+				"sha256": "cb9e2795358333f0721a9af01eb705351f3f19dc2dbf2a4f109e964e0a179165"
+			},
+			"chromas": []
+		},
+		{
+			"id": "graves-cable",
+			"name": "Graves Cable",
+			"champion": 104,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/graves-cable/thumb.webp?v=09cf8541",
+			"file": {
+				"version": 1,
+				"asset": "graves-cable-v1.fantome",
+				"size": 12471053,
+				"sha256": "9cc0c281f840a87e280f8e67472e7906f09bd04ae7f8ca29040462d1dcde9ec8"
 			},
 			"chromas": []
 		},

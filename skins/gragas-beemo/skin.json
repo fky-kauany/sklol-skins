@@ -1,0 +1,26 @@
+{
+	"id": "gragas-beemo",
+	"name": "Beemo",
+	"champion": 79,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/beemo-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gragas-beemo/thumb.webp?v=c983d162",
+	"file": {
+		"version": 1,
+		"asset": "gragas-beemo-v1.fantome",
+		"size": 22654173,
+		"sha256": "231bdab3023a6fa1e570edc1978843b903b5067117ac88be4cb3a5f341cb25da"
+	},
+	"chromas": []
+}

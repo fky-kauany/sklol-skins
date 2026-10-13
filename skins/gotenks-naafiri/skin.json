@@ -1,0 +1,26 @@
+{
+	"id": "gotenks-naafiri",
+	"name": "Gotenks Naafiri",
+	"champion": 950,
+	"base": 0,
+	"creator": "frog",
+	"description": "Unleash the ultimate fusion! This custom skin reimagines **Naafiri** as the playful yet powerful **Gotenks**. Get ready to dive into the action with Super Ghost Kamikaze Attacks and a head full of wild, spiky hair. This skin combines the mischievous energy of Gotenks with the swift, deadly precision of Naafiri's pack. Get ready to have some fun while you hunt!\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gotenks-naafiri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gotenks-naafiri/thumb.webp?v=afaa3b42",
+	"file": {
+		"version": 1,
+		"asset": "gotenks-naafiri-v1.fantome",
+		"size": 25584043,
+		"sha256": "9833343abae4c88cb71d31c4627efa5d92410e0a29a5cc54c2115bac7642b519"
+	},
+	"chromas": []
+}

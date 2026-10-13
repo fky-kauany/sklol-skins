@@ -1,0 +1,26 @@
+{
+	"id": "goth-cuties-jinx",
+	"name": "Goth Cuties Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "frog",
+	"description": "ONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\nONLY APPLIES TO CAFE CUTIES JINX\n\nThis custom skin includes assets created with the assistance of **Artificial Intelligence (AI)**. This content is for novelty use only and is **not intended to mimic, attack, or diminish the work of any real-world human artist.** We respect the work of all creators.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/goth-cuties-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/goth-cuties-jinx/thumb.webp?v=77021389",
+	"file": {
+		"version": 1,
+		"asset": "goth-cuties-jinx-v1.fantome",
+		"size": 19072035,
+		"sha256": "986f16a81b0d5ad84455727c26c7982ae0852dadfaa58ff6e8d5783ec52116bd"
+	},
+	"chromas": []
+}

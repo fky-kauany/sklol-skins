@@ -1,0 +1,26 @@
+{
+	"id": "gragas-pengu",
+	"name": "Pengu",
+	"champion": 79,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/pengu-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gragas-pengu/thumb.webp?v=35d8200a",
+	"file": {
+		"version": 1,
+		"asset": "gragas-pengu-v1.fantome",
+		"size": 28600271,
+		"sha256": "cb9e2795358333f0721a9af01eb705351f3f19dc2dbf2a4f109e964e0a179165"
+	},
+	"chromas": []
+}

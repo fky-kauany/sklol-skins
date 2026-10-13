@@ -1,0 +1,25 @@
+{
+	"id": "goth-demon-locke",
+	"name": "Goth Demon Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/goth-demon-locke\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/goth-demon-locke/thumb.webp?v=2f5b6be7",
+	"file": {
+		"version": 1,
+		"asset": "goth-demon-locke-v1.fantome",
+		"size": 11014432,
+		"sha256": "1da97e3ffc019e3e30dd2e1421db6fddd0dc87b508e3e15e8d09cdbd6d811165"
+	},
+	"chromas": []
+}

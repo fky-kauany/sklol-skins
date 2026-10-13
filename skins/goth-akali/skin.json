@@ -1,0 +1,25 @@
+{
+	"id": "goth-akali",
+	"name": "Goth Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "tor-lol",
+	"description": "## Goth Akali\n\nA custom **Goth Akali skin** for League of Legends. Features a custom Akali model with recolored **black and bone-white textures** and a dark goth-inspired visual theme.\n\nAkali’s original animations and gameplay remain intact.\n\n**SFW.**\n\n## Features\n\n- Custom Goth Akali model & textures\n- Black and bone-white color palette\n- Custom ability VFX and particles\n- Custom ability icons\n- Custom HUD icons\n- Custom loading screen splash art\n\n## Support\n\nIf you enjoy the skin, consider following me on TikTok.\n\n**TikTok:** `@tor.lol`\\\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/goth-akali\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/goth-akali/thumb.webp?v=9a7307d2",
+	"file": {
+		"version": 1,
+		"asset": "goth-akali-v1.fantome",
+		"size": 9297387,
+		"sha256": "d9990d998e28f3b6beb574dc6e9d1df700ab38ebe9724ea2ebf24c16abc7ec0f"
+	},
+	"chromas": []
+}
