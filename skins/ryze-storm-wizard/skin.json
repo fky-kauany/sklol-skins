@@ -1,0 +1,26 @@
+{
+	"id": "ryze-storm-wizard",
+	"name": "Storm Wizard",
+	"champion": 13,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Wizard101)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/storm-wizard\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ryze-storm-wizard/thumb.webp?v=ba48bf12",
+	"file": {
+		"version": 1,
+		"asset": "ryze-storm-wizard-v1.fantome",
+		"size": 7259558,
+		"sha256": "8750bcd1390939aec456ada18fd74f16bc767008e68d6894a932f3b88a2adfa6"
+	},
+	"chromas": []
+}

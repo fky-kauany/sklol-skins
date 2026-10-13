@@ -1,0 +1,26 @@
+{
+	"id": "sadako-briar",
+	"name": "Sadako Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/sadako-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sadako-briar/thumb.webp?v=47cb3ac5",
+	"file": {
+		"version": 1,
+		"asset": "sadako-briar-v1.fantome",
+		"size": 10452478,
+		"sha256": "40784a83de2bcef866f28319754f595903b57077b615b6eda8162fddbac9a16f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "ryze-light",
+	"name": "Ryze Light",
+	"champion": 13,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 LIGHT YAGAMI 」\r\n### *Replaces Ryze*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ryze-light\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ryze-light/thumb.webp?v=1e45ff60",
+	"file": {
+		"version": 1,
+		"asset": "ryze-light-v1.fantome",
+		"size": 13796249,
+		"sha256": "cda7b9c5b6a6597ef6452e579fe0e6ab6a3f44dc0ebe3ff041dcea9378c14766"
+	},
+	"chromas": []
+}

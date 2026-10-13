@@ -1,0 +1,26 @@
+{
+	"id": "sabrina-carpenter-miss-fortune",
+	"name": "Sabrina Carpenter Miss Fortune",
+	"champion": 21,
+	"base": 0,
+	"creator": "disco",
+	"description": "---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/sabrina-carpenter-miss-fortune\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sabrina-carpenter-miss-fortune/thumb.webp?v=ae02e327",
+	"file": {
+		"version": 1,
+		"asset": "sabrina-carpenter-miss-fortune-v1.fantome",
+		"size": 12183929,
+		"sha256": "d235e7ef87891ad6cb467e996fa9311bbdc85b031d2447e6176b9d2a3b33e7d2"
+	},
+	"chromas": []
+}

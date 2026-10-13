@@ -1,0 +1,26 @@
+{
+	"id": "saber-artoria-alter-talon",
+	"name": "Saber Artoria Alter Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "saber alter talon skin commissioned by the talon goat [Kaostanza](https://www.twitch.tv/kaos_angel)\n\n### mod changes: ###\n\n- animations\n- vo\n- vfx\n- champion model\n- yes\n\n\n\n*has screen-slashing emote on ctrl 3*\n\n\n\n\n\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/saber-artoria-alter-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/saber-artoria-alter-talon/thumb.webp?v=c968873a",
+	"file": {
+		"version": 1,
+		"asset": "saber-artoria-alter-talon-v1.fantome",
+		"size": 9188846,
+		"sha256": "1eacff33274cd3560782a64bc8049d6a7580d287299a14b8f8e81911dc68152a"
+	},
+	"chromas": []
+}

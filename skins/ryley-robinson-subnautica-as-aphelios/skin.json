@@ -1,0 +1,26 @@
+{
+	"id": "ryley-robinson-subnautica-as-aphelios",
+	"name": "Ryley Robinson (Subnautica) as Aphelios",
+	"champion": 523,
+	"base": 0,
+	"creator": "frehlty",
+	"description": "## Info\n\nThis mod changes the VFX, SFX and models of the og Aphelios into the themes of the Main character from Subnautica Ryley Robinson. Voice lines are changed to PDA and The Sea Emperor Leviathan.\n\n## Weapons\n\nCalibrum - Stasis Gun\nSeverum - Heat Knife\nGravitum - Propulsion Gun\nInfernum - Gasopod\nCrescendum - Boomerang (Fish)\n\n\n*Enjoy :)*\n\n---\n\n**Created by** [Frehlty](https://www.divineskins.gg/Frehlty)\n\n**Original:** https://www.divineskins.gg/Frehlty/ryley-robinson-subnautica-as-aphelios\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ryley-robinson-subnautica-as-aphelios/thumb.webp?v=c4ab468f",
+	"file": {
+		"version": 1,
+		"asset": "ryley-robinson-subnautica-as-aphelios-v1.fantome",
+		"size": 141444041,
+		"sha256": "8bcd2504fb352dffd43222bed19c71b229095441392c8dcdaf8c8d11e4275fd9"
+	},
+	"chromas": []
+}

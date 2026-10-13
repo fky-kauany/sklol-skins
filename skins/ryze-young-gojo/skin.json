@@ -1,0 +1,26 @@
+{
+	"id": "ryze-young-gojo",
+	"name": "Ryze Young Gojo",
+	"champion": 13,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "♾️ Ryze Young Gojo (The Limitless Prodigy)\r\n\"Throughout Heaven and Earth, I alone am the honored one.\" The teenage genius of the Gojo Clan has arrived on the Rift! Before he was the strongest teacher, he was the untouchable student of Jujutsu High.\r\n\r\n✨ Main Features\r\n🏫 Custom 3D Model: Ryze is transformed into Young Satoru Gojo from the Hidden Inventory arc. He sports his classic Jujutsu High dark blue uniform and his iconic round dark sunglasses, radiating an air of effortless arrogance.\r\n\r\n🔵 Cursed Technique Lapse: Blue (Q): His Overload is replaced by Blue. Ryze fires a high-velocity orb of attractive cursed energy that implodes upon impact, shredding anyone in its path with the power of the Limitless.\r\n\r\n🔴 Cursed Technique Reversal: Red (W): His Rune Prison is transformed into Red. Instead of a snare, he manifests a repulsive force that halts the enemy's momentum instantly, locking them in a cage of intense gravitational pressure.\r\n\r\n🟣 Hollow Purple Resonance (E): His Spell Flux marks enemies with Purple Cursed Energy. When his abilities bounce, the air ripples with the distortion of non-existence, preparing the targets for a devastating erasure.\r\n\r\n🌀 Infinity Warp (R): His Ultimate (Realm Warp) is replaced by a massive Blue/Red ritual circle. As the portal opens, the ground distorts with the power of the Six Eyes, teleporting his team through folded space with a flash of cursed light!\r\n\r\nThis skin is part of my 100+ Custom Skins Collection and it is available for FREE!\r\n\r\n🚀 Join our Discord to download: 👉 https://discord.com/invite/AKCjefCcMK\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ryze-young-gojo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ryze-young-gojo/thumb.webp?v=a6215d88",
+	"file": {
+		"version": 1,
+		"asset": "ryze-young-gojo-v1.fantome",
+		"size": 11783404,
+		"sha256": "a9891af40ed95cc16204f5b147fd4c6a037d64920d9df9218c5b17ed0183811b"
+	},
+	"chromas": []
+}

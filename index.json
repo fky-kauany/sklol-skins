@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:46:37.083Z",
+	"generatedAt": "2026-10-13T05:50:01.267Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -272,6 +272,13 @@
 				"kofi": "https://ko-fi.com/fitzca",
 				"tiktok": "https://www.tiktok.com/@darckr",
 				"youtube": "https://www.youtube.com/@HectorCalister"
+			}
+		},
+		"frehlty": {
+			"name": "Frehlty",
+			"avatar": "creators/frehlty.png?v=dce8cf98",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=_wu1ywvc2c8"
 			}
 		},
 		"frog": {
@@ -13639,6 +13646,265 @@
 				"asset": "ruined-samira-v1.fantome",
 				"size": 24900998,
 				"sha256": "e527493549e6da6be2eaea8acd0433e5da2c5afb23414a438a914c99e7d4943e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rwby-yang-xiao-long-sett",
+			"name": "RWBY Yang Xiao Long Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/rwby-yang-xiao-long-sett/thumb.webp?v=acdcd8f3",
+			"file": {
+				"version": 1,
+				"asset": "rwby-yang-xiao-long-sett-v1.fantome",
+				"size": 20087218,
+				"sha256": "46b3f26fc034318183cf548bc0a4e51aaf2b7c0c85ed5dccd935545234946a8c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ryley-robinson-subnautica-as-aphelios",
+			"name": "Ryley Robinson (Subnautica) as Aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "frehlty",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ryley-robinson-subnautica-as-aphelios/thumb.webp?v=c4ab468f",
+			"file": {
+				"version": 1,
+				"asset": "ryley-robinson-subnautica-as-aphelios-v1.fantome",
+				"size": 141444041,
+				"sha256": "8bcd2504fb352dffd43222bed19c71b229095441392c8dcdaf8c8d11e4275fd9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ryuko-yone",
+			"name": "Ryuko Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ryuko-yone/thumb.webp?v=e3d9626a",
+			"file": {
+				"version": 1,
+				"asset": "ryuko-yone-v1.fantome",
+				"size": 14640413,
+				"sha256": "a889681160891bc8ddbbc4a46acda7872cc17979866c9f4871aaac41640f25c1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ryze-light",
+			"name": "Ryze Light",
+			"champion": 13,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ryze-light/thumb.webp?v=1e45ff60",
+			"file": {
+				"version": 1,
+				"asset": "ryze-light-v1.fantome",
+				"size": 13796249,
+				"sha256": "cda7b9c5b6a6597ef6452e579fe0e6ab6a3f44dc0ebe3ff041dcea9378c14766"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ryze-storm-wizard",
+			"name": "Storm Wizard",
+			"champion": 13,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ryze-storm-wizard/thumb.webp?v=ba48bf12",
+			"file": {
+				"version": 1,
+				"asset": "ryze-storm-wizard-v1.fantome",
+				"size": 7259558,
+				"sha256": "8750bcd1390939aec456ada18fd74f16bc767008e68d6894a932f3b88a2adfa6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ryze-young-gojo",
+			"name": "Ryze Young Gojo",
+			"champion": 13,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/ryze-young-gojo/thumb.webp?v=a6215d88",
+			"file": {
+				"version": 1,
+				"asset": "ryze-young-gojo-v1.fantome",
+				"size": 11783404,
+				"sha256": "a9891af40ed95cc16204f5b147fd4c6a037d64920d9df9218c5b17ed0183811b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "saber-artoria-alter-talon",
+			"name": "Saber Artoria Alter Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/saber-artoria-alter-talon/thumb.webp?v=c968873a",
+			"file": {
+				"version": 1,
+				"asset": "saber-artoria-alter-talon-v1.fantome",
+				"size": 9188846,
+				"sha256": "1eacff33274cd3560782a64bc8049d6a7580d287299a14b8f8e81911dc68152a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "saber-riven",
+			"name": "Saber Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/saber-riven/thumb.webp?v=30a2618e",
+			"file": {
+				"version": 1,
+				"asset": "saber-riven-v1.fantome",
+				"size": 4559418,
+				"sha256": "2dc8be262f26a969ba4c160a43ecfa106f7cec4b634cdb01d0fbedcd3a81aaa1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sabrina-carpenter-miss-fortune",
+			"name": "Sabrina Carpenter Miss Fortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sabrina-carpenter-miss-fortune/thumb.webp?v=ae02e327",
+			"file": {
+				"version": 1,
+				"asset": "sabrina-carpenter-miss-fortune-v1.fantome",
+				"size": 12183929,
+				"sha256": "d235e7ef87891ad6cb467e996fa9311bbdc85b031d2447e6176b9d2a3b33e7d2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sadako-briar",
+			"name": "Sadako Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sadako-briar/thumb.webp?v=47cb3ac5",
+			"file": {
+				"version": 1,
+				"asset": "sadako-briar-v1.fantome",
+				"size": 10452478,
+				"sha256": "40784a83de2bcef866f28319754f595903b57077b615b6eda8162fddbac9a16f"
 			},
 			"chromas": []
 		},

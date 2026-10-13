@@ -1,0 +1,25 @@
+{
+	"id": "ryuko-yone",
+	"name": "Ryuko Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "frog",
+	"description": "The blade that cuts through life fibers has arrived in Runeterra. This custom **Ryuko Yone** skin transforms the Unforgotten into the determined student warrior, ready to slice through any opposition. With her signature Scissor Blade in hand, you'll feel the raw power of **Ryuko Matoi**'s combat style as you dash through enemies and unleash the fury of a full-powered life-fiber synch.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/ryuko-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/ryuko-yone/thumb.webp?v=e3d9626a",
+	"file": {
+		"version": 1,
+		"asset": "ryuko-yone-v1.fantome",
+		"size": 14640413,
+		"sha256": "a889681160891bc8ddbbc4a46acda7872cc17979866c9f4871aaac41640f25c1"
+	},
+	"chromas": []
+}
