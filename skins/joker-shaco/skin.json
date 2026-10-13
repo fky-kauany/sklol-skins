@@ -1,0 +1,26 @@
+{
+	"id": "joker-shaco",
+	"name": "Joker Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "disco",
+	"description": "One of my first skins I made fixed and reuploaded\n\n**Change outfit with ctrl 2/4**\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/joker-shaco\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/joker-shaco/thumb.webp?v=37c17259",
+	"file": {
+		"version": 1,
+		"asset": "joker-shaco-v1.fantome",
+		"size": 16011342,
+		"sha256": "f7b20e695c01d1482db74a2ff7ed7013c1b8839527a49b305d3bec5017931ef1"
+	},
+	"chromas": []
+}

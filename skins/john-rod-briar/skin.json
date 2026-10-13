@@ -1,0 +1,25 @@
+{
+	"id": "john-rod-briar",
+	"name": "John Rod Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "lita",
+	"description": "---\n\n**Created by** [lita](https://www.divineskins.gg/lita)\n\n**Original:** https://www.divineskins.gg/lita/john-rod-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/john-rod-briar/thumb.webp?v=4cbfd99e",
+	"file": {
+		"version": 1,
+		"asset": "john-rod-briar-v1.fantome",
+		"size": 14494209,
+		"sha256": "073119d11f477c684265d29789ea223e3b05d8783527a6451cd34b0b4e8d02f4"
+	},
+	"chromas": []
+}

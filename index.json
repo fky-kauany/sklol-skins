@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:47:59.359Z",
+	"generatedAt": "2026-10-13T03:51:20.427Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -4349,6 +4349,264 @@
 				"asset": "jinx-yuno-gasai-v1.fantome",
 				"size": 8652166,
 				"sha256": "0ba7ef809ade6d229f71be09b831c1332bd78b2c29566de40f66595cb70a02d5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "john-rod-briar",
+			"name": "John Rod Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "lita",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/john-rod-briar/thumb.webp?v=4cbfd99e",
+			"file": {
+				"version": 1,
+				"asset": "john-rod-briar-v1.fantome",
+				"size": 14494209,
+				"sha256": "073119d11f477c684265d29789ea223e3b05d8783527a6451cd34b0b4e8d02f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "john-wick-akshan",
+			"name": "John Wick Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/john-wick-akshan/thumb.webp?v=236145b0",
+			"file": {
+				"version": 1,
+				"asset": "john-wick-akshan-v1.fantome",
+				"size": 16337976,
+				"sha256": "91e891e69e9599c6a2a8bee56a51ae04f737b6695d622b9b239ce88156f95ec6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "johnny-silverhand-vayne",
+			"name": "JOHNNY SILVERHAND VAYNE",
+			"champion": 67,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/johnny-silverhand-vayne/thumb.webp?v=272c4c53",
+			"file": {
+				"version": 1,
+				"asset": "johnny-silverhand-vayne-v1.fantome",
+				"size": 48093862,
+				"sha256": "19585d4baf2a12ea780b4874cd3524f80bf23164420f672b56843a35ed549ce1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "joker-shaco",
+			"name": "Joker Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/joker-shaco/thumb.webp?v=37c17259",
+			"file": {
+				"version": 1,
+				"asset": "joker-shaco-v1.fantome",
+				"size": 16011342,
+				"sha256": "f7b20e695c01d1482db74a2ff7ed7013c1b8839527a49b305d3bec5017931ef1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jolly-ahri",
+			"name": "Jolly Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jolly-ahri/thumb.webp?v=0c2eda37",
+			"file": {
+				"version": 1,
+				"asset": "jolly-ahri-v1.fantome",
+				"size": 18540751,
+				"sha256": "8efb7fdb9239af0c40b352a63e79bb013ca444873cc447a06bd6b65347584b52"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jotaro-kujo-sett",
+			"name": "Jotaro Kujo Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jotaro-kujo-sett/thumb.webp?v=119efb75",
+			"file": {
+				"version": 1,
+				"asset": "jotaro-kujo-sett-v1.fantome",
+				"size": 12091670,
+				"sha256": "42b0bc9c85876293f7a10db885188bdabda1c10ff39c7bc849c9db5e14b3c166"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jungle-pocket-zeri-from-uma-musume-pretty-derby",
+			"name": "Jungle Pocket Zeri from Uma Musume Pretty Derby",
+			"champion": 221,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/jungle-pocket-zeri-from-uma-musume-pretty-derby/thumb.webp?v=36b28e53",
+			"file": {
+				"version": 1,
+				"asset": "jungle-pocket-zeri-from-uma-musume-pretty-derby-v1.fantome",
+				"size": 27352623,
+				"sha256": "17af00dea5fc4f6d2992ec6d532b5f842675dfd5aa38904409fcb4cb4e0c7fc4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-sante-broly",
+			"name": "Broly",
+			"champion": 897,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/k-sante-broly/thumb.webp?v=13a86c52",
+			"file": {
+				"version": 1,
+				"asset": "k-sante-broly-v1.fantome",
+				"size": 16664345,
+				"sha256": "69eb5cc8e2016b24ab555b4047c0c68aaf52d1dc53c6a9c43fff9ef993409bce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-sante-denji-ksante",
+			"name": "Denji Ksante",
+			"champion": 897,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/k-sante-denji-ksante/thumb.webp?v=c70b2192",
+			"file": {
+				"version": 1,
+				"asset": "k-sante-denji-ksante-v1.fantome",
+				"size": 46810680,
+				"sha256": "efabcde9a628bbdc67567152dbb54368c20174fc03a4968a2d9ad31aeccbed6a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kafka-hsr-talon",
+			"name": "Kafka HSR Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kafka-hsr-talon/thumb.webp?v=bab5b17d",
+			"file": {
+				"version": 1,
+				"asset": "kafka-hsr-talon-v1.fantome",
+				"size": 12756389,
+				"sha256": "cabe94a4ed72871ea24c4456c282005f0b67c45b6f41af91ddb9aa0761557ae8"
 			},
 			"chromas": []
 		},

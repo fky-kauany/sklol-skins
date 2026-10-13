@@ -1,0 +1,26 @@
+{
+	"id": "k-sante-denji-ksante",
+	"name": "Denji Ksante",
+	"champion": 897,
+	"base": 0,
+	"creator": "disco",
+	"description": "Enjoy ^^\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/denji-ksante\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/k-sante-denji-ksante/thumb.webp?v=c70b2192",
+	"file": {
+		"version": 1,
+		"asset": "k-sante-denji-ksante-v1.fantome",
+		"size": 46810680,
+		"sha256": "efabcde9a628bbdc67567152dbb54368c20174fc03a4968a2d9ad31aeccbed6a"
+	},
+	"chromas": []
+}

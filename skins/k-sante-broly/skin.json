@@ -1,0 +1,26 @@
+{
+	"id": "k-sante-broly",
+	"name": "Broly",
+	"champion": 897,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/broly-ksante\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/k-sante-broly/thumb.webp?v=13a86c52",
+	"file": {
+		"version": 1,
+		"asset": "k-sante-broly-v1.fantome",
+		"size": 16664345,
+		"sha256": "69eb5cc8e2016b24ab555b4047c0c68aaf52d1dc53c6a9c43fff9ef993409bce"
+	},
+	"chromas": []
+}

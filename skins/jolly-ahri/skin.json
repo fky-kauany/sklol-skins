@@ -1,0 +1,26 @@
+{
+	"id": "jolly-ahri",
+	"name": "Jolly Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "### ? Mod Info\n\n**Type:**  etc.\n**Modified Skin(s):** All skins except Legendary-tier and above.\n*(Delete rows you don't need.)*\n\n### ? Credits\n\n**Model(s):**\n**Special Thanks:**\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n[Discord](#) • [X / Twitter](#)\n\n### ? Support Me\n\nEnjoyed the mod? Help fuel future projects: [Donate](#)\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/jolly-ahri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/jolly-ahri/thumb.webp?v=0c2eda37",
+	"file": {
+		"version": 1,
+		"asset": "jolly-ahri-v1.fantome",
+		"size": 18540751,
+		"sha256": "8efb7fdb9239af0c40b352a63e79bb013ca444873cc447a06bd6b65347584b52"
+	},
+	"chromas": []
+}

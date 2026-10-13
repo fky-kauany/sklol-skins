@@ -1,0 +1,26 @@
+{
+	"id": "johnny-silverhand-vayne",
+	"name": "JOHNNY SILVERHAND VAYNE",
+	"champion": 67,
+	"base": 0,
+	"creator": "hatstore",
+	"description": "### **DISCORD: @economic_crisis** \r\n\r\n### **DM IF SOMETHING BREAKS**\r\n(or if you want to commission)\r\n***\r\n\r\n## MOD INFORMATION:\r\n\r\n***\r\n\r\nChampion: Vayne\r\n\r\nModified skin: Default\r\n\r\nAuthor: me\r\n\r\n## FEATURES:\r\n\r\n***\r\n\r\n* JOHN SILVER IN LEAGUE OF LEGENDS\r\n* NEW ANIMATIONS\r\n* NEW ABILITY SOUNDS\r\n* NEW LOADING SCREEN PIC\r\n* CHANGED VFX\r\n* FULL VO\n\n---\n\n**Created by** [hatstore](https://www.divineskins.gg/hatstore)\n\n**Original:** https://www.divineskins.gg/hatstore/johnny-silverhand-vayne-2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/johnny-silverhand-vayne/thumb.webp?v=272c4c53",
+	"file": {
+		"version": 1,
+		"asset": "johnny-silverhand-vayne-v1.fantome",
+		"size": 48093862,
+		"sha256": "19585d4baf2a12ea780b4874cd3524f80bf23164420f672b56843a35ed549ce1"
+	},
+	"chromas": []
+}

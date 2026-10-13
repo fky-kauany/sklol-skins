@@ -1,0 +1,25 @@
+{
+	"id": "john-wick-akshan",
+	"name": "John Wick Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "disco",
+	"description": "## John Wick Akshan\n\n### Features\n\n- **Custom model**: Akshan styled as John Wick in his black suit and tie\n- **Custom abilities**: Tactical gunplay VFX, assassin’s flair, and cinematic animations\n- **Works on every Akshan skin** — base, Cyber Pop, and more\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/john-wick-akshan\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/john-wick-akshan/thumb.webp?v=236145b0",
+	"file": {
+		"version": 1,
+		"asset": "john-wick-akshan-v1.fantome",
+		"size": 16337976,
+		"sha256": "91e891e69e9599c6a2a8bee56a51ae04f737b6695d622b9b239ce88156f95ec6"
+	},
+	"chromas": []
+}

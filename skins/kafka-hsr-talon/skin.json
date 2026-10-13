@@ -1,0 +1,26 @@
+{
+	"id": "kafka-hsr-talon",
+	"name": "Kafka HSR Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover Kafka from Honkai: Star Rail, **imagined and commissioned by Yuni.**\r\n\r\nThis custom skin reimagines Talon as Kafka, the iconic **Stellaron Hunter from Honkai: Star Rail**, while preserving the speed, precision, and deadly assassin identity of the original champion.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/kafka-hsr-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kafka-hsr-talon/thumb.webp?v=bab5b17d",
+	"file": {
+		"version": 1,
+		"asset": "kafka-hsr-talon-v1.fantome",
+		"size": 12756389,
+		"sha256": "cabe94a4ed72871ea24c4456c282005f0b67c45b6f41af91ddb9aa0761557ae8"
+	},
+	"chromas": []
+}
