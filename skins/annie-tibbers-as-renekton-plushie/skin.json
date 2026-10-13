@@ -1,0 +1,24 @@
+{
+	"id": "annie-tibbers-as-renekton-plushie",
+	"name": "Tibbers as Renekton Plushie",
+	"champion": 1,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### Renekton Plushie as Tibbers\n\n*chill mod that makes tibbers be renekton plushie, meme*\n\ni miss her\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/tibbers-as-renekton-plushie-annie\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/annie-tibbers-as-renekton-plushie/thumb.webp?v=38201e82",
+	"file": {
+		"version": 1,
+		"asset": "annie-tibbers-as-renekton-plushie-v1.fantome",
+		"size": 18231838,
+		"sha256": "1ee0585e37fcdb26aaeaeb7e880ee6ba29282d69c24061a4b97452424192f5b5"
+	},
+	"chromas": []
+}

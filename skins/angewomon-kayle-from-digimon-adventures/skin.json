@@ -1,0 +1,26 @@
+{
+	"id": "angewomon-kayle-from-digimon-adventures",
+	"name": "Angewomon Kayle from Digimon Adventures",
+	"champion": 10,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# 🪽Angewomon Kayle🪽 Skin:\r\n---\r\n\r\n> *\"🪽Say Hello to Angewomon from Digimon Adventures!🪽\"*\r\n\r\n• Skin: All   \r\n• Character Quality: All   \r\n\r\n**If you are interested in commissioning a skin, feel free to send me a DM on Discord! :D**\r\n\r\n## 💫Features:\r\n---\r\n- ✨ New Custom Model\r\n- 🎨 New Custom Textures\r\n- 💥 New Custom VFX\r\n- 👤 New Champion Icons\r\n- 🖼️ New Loading Screen\r\n\r\n**If you find any bug please ping me in the discord server or dm me: davex45a.**\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/angewomon-kayle-from-digimon-adventures\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angewomon-kayle-from-digimon-adventures/thumb.webp?v=1ab06a1c",
+	"file": {
+		"version": 1,
+		"asset": "angewomon-kayle-from-digimon-adventures-v1.fantome",
+		"size": 18293872,
+		"sha256": "81b4b5cb4eba85db6402f2c6d18721ace6271334d423863349822b5a259af49b"
+	},
+	"chromas": []
+}

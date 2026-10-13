@@ -1,0 +1,24 @@
+{
+	"id": "ani-syndra",
+	"name": "Ani Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Ani Syndra\n\n### Features\n\n- **Elegant Anime Model:** A complete custom model for Syndra, featuring a brand-new, high-quality design with a unique outfit and hairstyle inspired by modern anime aesthetics.\n- **Vibrant & Clean Abilities:** All of Syndra's abilities, including her Dark Spheres and Unleashed Power, have been updated with new, bright, and impactful visual effects.\n- **Universal Compatibility:** This mod is designed to work as a base, meaning it functions with every official Syndra skin you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/ani-syndra\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ani-syndra/thumb.webp?v=c43fabd2",
+	"file": {
+		"version": 1,
+		"asset": "ani-syndra-v1.fantome",
+		"size": 8549398,
+		"sha256": "1ca602f0677c1701c482f51301e9bd0375f160964b8fcc7553bc02c32d877176"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "annie-jax-as-tibbers",
+	"name": "Jax as Tibbers",
+	"champion": 1,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Tibbers with pre-ASU Jax.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Annie's Tibbers.\n\n#\n\n### ✨ Credits\n\n- Credits to [Basedkov (aka Bishop)](https://www.youtube.com/channel/UCg4KwDV2k2R2h4ULtIM3CtQ \"basedkov's yt channel\") for creating the mod, I am only maintaining it\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/jax-as-tibbers\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/annie-jax-as-tibbers/thumb.webp?v=d451d79d",
+	"file": {
+		"version": 1,
+		"asset": "annie-jax-as-tibbers-v1.fantome",
+		"size": 1686412,
+		"sha256": "0d65064c02ea633079f180bf049ac8ca42790119d7a8efeda83a98c0445110c2"
+	},
+	"chromas": []
+}

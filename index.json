@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:32:05.559Z",
+	"generatedAt": "2026-10-13T00:37:47.407Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -53,6 +53,18 @@
 			"name": "daka",
 			"avatar": "creators/daka.webp?v=90c8597e",
 			"links": {}
+		},
+		"davexfn": {
+			"name": "davexFN",
+			"avatar": "creators/davexfn.webp?v=9b0cb8a1",
+			"bio": "# 💫Welcome to my profile! 💫\n\nHi! I'm **Davex**, I create custom content and skins for the community. I love bringing new visuals to the rift and sharing them with all of you.\n\n---\n\n### 💼 Custom Commissions\nIf you want a personalized skin, feel free to reach out:\n\n[![Discord](https://img.shields.io/badge/Contact_me_on_Discord-davex45a-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XDF5Xma456)\n\n---\n\n### ☕ Support my work\nIf you enjoy my creations and want to help m",
+			"links": {
+				"discord": "https://discord.gg/XDF5Xma456",
+				"kofi": "https://ko-fi.com/davex45",
+				"site": "https://runeforge.dev/users/davex",
+				"tiktok": "https://www.tiktok.com/@davexskins",
+				"youtube": "https://www.youtube.com/@davexFN"
+			}
 		},
 		"disco": {
 			"name": "DISCO",
@@ -2143,6 +2155,255 @@
 				"asset": "angel-yorick-v1.fantome",
 				"size": 8094881,
 				"sha256": "188e60d0b749d9c2fbd70930ebf27d9814de45b75295f9db1b426f7765620990"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-zaahen",
+			"name": "Angel Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-zaahen/thumb.webp?v=effb8694",
+			"file": {
+				"version": 1,
+				"asset": "angel-zaahen-v1.fantome",
+				"size": 10411110,
+				"sha256": "1f1bf113021b8d97b8d02f6061d91a3901e7a04aeeff2ee01970e1df26a607ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angel-zed",
+			"name": "Angel Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angel-zed/thumb.webp?v=5c0abe70",
+			"file": {
+				"version": 1,
+				"asset": "angel-zed-v1.fantome",
+				"size": 27062987,
+				"sha256": "d3e0620970372b16de474971c9d0f84f0ac292fb88f8a6b628d88d74538986ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angelic-locke",
+			"name": "Angelic Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angelic-locke/thumb.webp?v=f0aa2979",
+			"file": {
+				"version": 1,
+				"asset": "angelic-locke-v1.fantome",
+				"size": 12123250,
+				"sha256": "559e3e700c9a7ce017dcc5cffb30c78f2d763952b5b981f73f2c76c542e106df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angewomon-kayle-from-digimon-adventures",
+			"name": "Angewomon Kayle from Digimon Adventures",
+			"champion": 10,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/angewomon-kayle-from-digimon-adventures/thumb.webp?v=1ab06a1c",
+			"file": {
+				"version": 1,
+				"asset": "angewomon-kayle-from-digimon-adventures-v1.fantome",
+				"size": 18293872,
+				"sha256": "81b4b5cb4eba85db6402f2c6d18721ace6271334d423863349822b5a259af49b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ani-syndra",
+			"name": "Ani Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ani-syndra/thumb.webp?v=c43fabd2",
+			"file": {
+				"version": 1,
+				"asset": "ani-syndra-v1.fantome",
+				"size": 8549398,
+				"sha256": "1ca602f0677c1701c482f51301e9bd0375f160964b8fcc7553bc02c32d877176"
+			},
+			"chromas": []
+		},
+		{
+			"id": "annie-demon",
+			"name": "Demon",
+			"champion": 1,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/annie-demon/thumb.webp?v=1ca8d65e",
+			"file": {
+				"version": 1,
+				"asset": "annie-demon-v1.fantome",
+				"size": 6246147,
+				"sha256": "8d452a6a3f9c4052026f717c4ec8a97a3b1b4a0c3f7a039cb74a47af9f5aef32"
+			},
+			"chromas": []
+		},
+		{
+			"id": "annie-jax-as-tibbers",
+			"name": "Jax as Tibbers",
+			"champion": 1,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/annie-jax-as-tibbers/thumb.webp?v=d451d79d",
+			"file": {
+				"version": 1,
+				"asset": "annie-jax-as-tibbers-v1.fantome",
+				"size": 1686412,
+				"sha256": "0d65064c02ea633079f180bf049ac8ca42790119d7a8efeda83a98c0445110c2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "annie-sugar",
+			"name": "Annie Sugar",
+			"champion": 1,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/annie-sugar/thumb.webp?v=df2fabb4",
+			"file": {
+				"version": 1,
+				"asset": "annie-sugar-v1.fantome",
+				"size": 7490668,
+				"sha256": "0d6ea094381d3ba89b06bf466f885e6c8c338c37bd9274461d1751cb879c6135"
+			},
+			"chromas": []
+		},
+		{
+			"id": "annie-tibbers-as-renekton-plushie",
+			"name": "Tibbers as Renekton Plushie",
+			"champion": 1,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/annie-tibbers-as-renekton-plushie/thumb.webp?v=38201e82",
+			"file": {
+				"version": 1,
+				"asset": "annie-tibbers-as-renekton-plushie-v1.fantome",
+				"size": 18231838,
+				"sha256": "1ee0585e37fcdb26aaeaeb7e880ee6ba29282d69c24061a4b97452424192f5b5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "anya-forger-annie",
+			"name": "Anya Forger Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/anya-forger-annie/thumb.webp?v=6a183090",
+			"file": {
+				"version": 1,
+				"asset": "anya-forger-annie-v1.fantome",
+				"size": 9739074,
+				"sha256": "0485bde2631bf65e38d64edcff2f1105a303428408f5f535b519db97e4c00ce1"
 			},
 			"chromas": []
 		},

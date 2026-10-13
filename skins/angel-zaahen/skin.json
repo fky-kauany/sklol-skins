@@ -1,0 +1,26 @@
+{
+	"id": "angel-zaahen",
+	"name": "Angel Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/angel-zaahan\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/angel-zaahen/thumb.webp?v=effb8694",
+	"file": {
+		"version": 1,
+		"asset": "angel-zaahen-v1.fantome",
+		"size": 10411110,
+		"sha256": "1f1bf113021b8d97b8d02f6061d91a3901e7a04aeeff2ee01970e1df26a607ee"
+	},
+	"chromas": []
+}
