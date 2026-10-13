@@ -1,0 +1,23 @@
+{
+	"id": "elise-demon",
+	"name": "Demon",
+	"champion": 60,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Demon Elise\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/demon-elise\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/elise-demon/thumb.webp?v=722e7d3f",
+	"file": {
+		"version": 1,
+		"asset": "elise-demon-v1.fantome",
+		"size": 11520442,
+		"sha256": "26382090b9e50b500810f5b1df6f2f78db39a7b9d1af75819afd2bf8ac31e72f"
+	},
+	"chromas": []
+}

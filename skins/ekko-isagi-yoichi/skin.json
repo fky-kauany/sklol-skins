@@ -1,0 +1,26 @@
+{
+	"id": "ekko-isagi-yoichi",
+	"name": "Ekko Isagi Yoichi",
+	"champion": 245,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ISAGI YOICHI 」\r\n### *Replaces Ekko*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ekko-isagi-yoichi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ekko-isagi-yoichi/thumb.webp?v=7d9c6092",
+	"file": {
+		"version": 1,
+		"asset": "ekko-isagi-yoichi-v1.fantome",
+		"size": 11267299,
+		"sha256": "8e4f83c8044497adf86b67743bdb6826ec81f0b2545c450d4f3edfe8887df684"
+	},
+	"chromas": []
+}

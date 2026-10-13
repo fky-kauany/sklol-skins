@@ -1,0 +1,25 @@
+{
+	"id": "eclipse-venom-hecarim",
+	"name": "Eclipse Venom Hecarim",
+	"champion": 120,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Eclipse Venom Hecarim\n\n### Features\n\n- **Complete Visual Overhaul:** A fully custom model and texture set for Hecarim, drenched in a menacing purple and black color scheme.\n- **Corrupted Ability VFX:** All of Hecarim's abilities, from his Rampage (Q) to his Onslaught of Shadows (R), have been redesigned with custom dark-energy and eclipse-themed visual effects.\n- **Universal Compatibility:** This mod is designed to work as a base, meaning it functions with every official Hecarim skin you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/eclipse-venom-hecarim\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/eclipse-venom-hecarim/thumb.webp?v=5041740e",
+	"file": {
+		"version": 1,
+		"asset": "eclipse-venom-hecarim-v1.fantome",
+		"size": 11737211,
+		"sha256": "729f1317416b41bf49a4034dde260ebe417e98599807395f36a3329b00db99de"
+	},
+	"chromas": []
+}

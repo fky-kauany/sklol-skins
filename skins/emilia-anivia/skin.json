@@ -1,0 +1,26 @@
+{
+	"id": "emilia-anivia",
+	"name": "Emilia Anivia",
+	"champion": 34,
+	"base": 0,
+	"creator": "frog",
+	"description": "Emilia Anivia\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Anivia skin\r\n• Custom Voiceover of Emilia\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/emilia-anivia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/emilia-anivia/thumb.webp?v=a9cd249e",
+	"file": {
+		"version": 1,
+		"asset": "emilia-anivia-v1.fantome",
+		"size": 10837707,
+		"sha256": "8dd214123977784e7fef9a27b7cf03b8a9729840e1aefab66c4a214a29b910ee"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:21:41.448Z",
+	"generatedAt": "2026-10-13T02:26:23.937Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -9306,6 +9306,258 @@
 				"asset": "echidna-leblanc-v1.fantome",
 				"size": 13806135,
 				"sha256": "1fa6469492385723a997b596b430c07f96610e48a34ad6fda1d038d081706454"
+			},
+			"chromas": []
+		},
+		{
+			"id": "echidna-morgana",
+			"name": "Echidna Morgana",
+			"champion": 25,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/echidna-morgana/thumb.webp?v=630dc5e7",
+			"file": {
+				"version": 1,
+				"asset": "echidna-morgana-v1.modpkg",
+				"size": 32647329,
+				"sha256": "9c384967534e1b651a4c09cfbe0bfea162342b5612027b658d2ff12ab9505f14"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eclipse-venom-hecarim",
+			"name": "Eclipse Venom Hecarim",
+			"champion": 120,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/eclipse-venom-hecarim/thumb.webp?v=5041740e",
+			"file": {
+				"version": 1,
+				"asset": "eclipse-venom-hecarim-v1.fantome",
+				"size": 11737211,
+				"sha256": "729f1317416b41bf49a4034dde260ebe417e98599807395f36a3329b00db99de"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ekko-isagi-yoichi",
+			"name": "Ekko Isagi Yoichi",
+			"champion": 245,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ekko-isagi-yoichi/thumb.webp?v=7d9c6092",
+			"file": {
+				"version": 1,
+				"asset": "ekko-isagi-yoichi-v1.fantome",
+				"size": 11267299,
+				"sha256": "8e4f83c8044497adf86b67743bdb6826ec81f0b2545c450d4f3edfe8887df684"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ekko-ringo-roadagain",
+			"name": "Ekko Ringo Roadagain",
+			"champion": 245,
+			"base": 0,
+			"creator": "lita",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ekko-ringo-roadagain/thumb.webp?v=7f025c43",
+			"file": {
+				"version": 1,
+				"asset": "ekko-ringo-roadagain-v1.fantome",
+				"size": 24897898,
+				"sha256": "61a3ec63feac8c368155fec47f171752f3c458ab49a6e7ad55fddbad061e5d59"
+			},
+			"chromas": []
+		},
+		{
+			"id": "elise-demon",
+			"name": "Demon",
+			"champion": 60,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/elise-demon/thumb.webp?v=722e7d3f",
+			"file": {
+				"version": 1,
+				"asset": "elise-demon-v1.fantome",
+				"size": 11520442,
+				"sha256": "26382090b9e50b500810f5b1df6f2f78db39a7b9d1af75819afd2bf8ac31e72f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ellen-joe-samira",
+			"name": "Ellen Joe Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ellen-joe-samira/thumb.webp?v=a3ada904",
+			"file": {
+				"version": 1,
+				"asset": "ellen-joe-samira-v1.fantome",
+				"size": 7436794,
+				"sha256": "3d5f554cff713b2edd7058eefd59df0c93e81dc02c3f0d6c681cea4588e777ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "elsa-katarina",
+			"name": "Elsa Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/elsa-katarina/thumb.webp?v=245cc4f2",
+			"file": {
+				"version": 1,
+				"asset": "elsa-katarina-v1.fantome",
+				"size": 13272683,
+				"sha256": "a0776d5d937d6d39a4ba37478d72ef8b8cf6661f4766b6d166bdd8645b1329f3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "elysia-orianna",
+			"name": "Elysia Orianna",
+			"champion": 61,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/elysia-orianna/thumb.webp?v=343de85b",
+			"file": {
+				"version": 1,
+				"asset": "elysia-orianna-v1.fantome",
+				"size": 3875958,
+				"sha256": "49b924029d588db3ca7ae72df6a4d3653f8cdb08a8aff7512fbe1c5306f47f67"
+			},
+			"chromas": []
+		},
+		{
+			"id": "emilia-anivia",
+			"name": "Emilia Anivia",
+			"champion": 34,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/emilia-anivia/thumb.webp?v=a9cd249e",
+			"file": {
+				"version": 1,
+				"asset": "emilia-anivia-v1.fantome",
+				"size": 10837707,
+				"sha256": "8dd214123977784e7fef9a27b7cf03b8a9729840e1aefab66c4a214a29b910ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "emilia-annie",
+			"name": "Emilia Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/emilia-annie/thumb.webp?v=9fbd9c13",
+			"file": {
+				"version": 1,
+				"asset": "emilia-annie-v1.fantome",
+				"size": 8171414,
+				"sha256": "6cb3be0a29d6720024d93ab0aed6d9f81da83783c6bcb2b707c47bc4251e1983"
 			},
 			"chromas": []
 		},

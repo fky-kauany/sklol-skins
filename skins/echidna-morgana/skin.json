@@ -1,0 +1,26 @@
+{
+	"id": "echidna-morgana",
+	"name": "Echidna Morgana",
+	"champion": 25,
+	"base": 0,
+	"creator": "disco",
+	"description": "The mod reuses a lot of assets from my previous mod - https://www.divineskins.gg/disco/echidna-leblanc\n\nModel swap into academy uniform on ctrl 1/2\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/echidna-morgana\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/echidna-morgana/thumb.webp?v=630dc5e7",
+	"file": {
+		"version": 1,
+		"asset": "echidna-morgana-v1.modpkg",
+		"size": 32647329,
+		"sha256": "9c384967534e1b651a4c09cfbe0bfea162342b5612027b658d2ff12ab9505f14"
+	},
+	"chromas": []
+}

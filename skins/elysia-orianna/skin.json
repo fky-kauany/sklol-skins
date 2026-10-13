@@ -1,0 +1,24 @@
+{
+	"id": "elysia-orianna",
+	"name": "Elysia Orianna",
+	"champion": 61,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Elysia Orianna\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/elysia-orianna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/elysia-orianna/thumb.webp?v=343de85b",
+	"file": {
+		"version": 1,
+		"asset": "elysia-orianna-v1.fantome",
+		"size": 3875958,
+		"sha256": "49b924029d588db3ca7ae72df6a4d3653f8cdb08a8aff7512fbe1c5306f47f67"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "emilia-annie",
+	"name": "Emilia Annie",
+	"champion": 1,
+	"base": 0,
+	"creator": "frog",
+	"description": "Emilia Annie • Custom model • Custom Abilities • Works on every Annie skin • Voiceover • New Animations\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/emilia-annie\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/emilia-annie/thumb.webp?v=9fbd9c13",
+	"file": {
+		"version": 1,
+		"asset": "emilia-annie-v1.fantome",
+		"size": 8171414,
+		"sha256": "6cb3be0a29d6720024d93ab0aed6d9f81da83783c6bcb2b707c47bc4251e1983"
+	},
+	"chromas": []
+}

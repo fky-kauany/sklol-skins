@@ -1,0 +1,25 @@
+{
+	"id": "ekko-ringo-roadagain",
+	"name": "Ekko Ringo Roadagain",
+	"champion": 245,
+	"base": 0,
+	"creator": "lita",
+	"description": "---\n\n**Created by** [lita](https://www.divineskins.gg/lita)\n\n**Original:** https://www.divineskins.gg/lita/ekko-ringo-roadagain\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ekko-ringo-roadagain/thumb.webp?v=7f025c43",
+	"file": {
+		"version": 1,
+		"asset": "ekko-ringo-roadagain-v1.fantome",
+		"size": 24897898,
+		"sha256": "61a3ec63feac8c368155fec47f171752f3c458ab49a6e7ad55fddbad061e5d59"
+	},
+	"chromas": []
+}
