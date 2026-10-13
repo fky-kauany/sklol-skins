@@ -1,0 +1,26 @@
+{
+	"id": "gojo-zeri",
+	"name": "Gojo - Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/gojo-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gojo-zeri/thumb.webp?v=53f620f0",
+	"file": {
+		"version": 1,
+		"asset": "gojo-zeri-v1.fantome",
+		"size": 8227568,
+		"sha256": "83fc6a1fefe7723a375210c028196c3202ca02f84d9a70fad7cbd52c0efbef2d"
+	},
+	"chromas": []
+}

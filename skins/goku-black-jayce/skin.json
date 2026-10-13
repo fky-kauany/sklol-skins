@@ -1,0 +1,26 @@
+{
+	"id": "goku-black-jayce",
+	"name": "Goku Black Jayce",
+	"champion": 126,
+	"base": 0,
+	"creator": "mava",
+	"description": "Goku Black Jayce | Custom Skin Overview\nThis total conversion skin brings the Divine Justice to the Rift. Transforming Jayce into the iconic antagonist from Dragon Ball Super, this mod features high-quality assets and a unique stance-switching mechanic that mirrors Goku Black’s power progression.\n\nCore Features\nNew 3D Models: Highly detailed models for both Base Form and Super Saiyan Rosé.\n\nCustom Animations: Smooth, hand-crafted animations for attacks, abilities, and recalls.\n\nVFX Overhaul: All-new visual effects using the signature dark purple and pink \"Divine Ki\" aesthetic.\n\nImmersive SFX: Authentic sound effects from the anime, including the iconic ki blade hum and hit sounds.\n\nThe Two Faces of a God\nThe highlight of this skin is how it utilizes Jayce's stance-switching to represent Goku Black’s forms:\n\n1. Melee Stance (Hammer): Super Saiyan Rosé\nWhen switching to melee, Goku Black ascends to his Super Saiyan Rosé form.\n\nThe Weapon: Instead of a hammer, he wields the Scythe of Sorrow (the pink ki scythe).\n\nCombat: Every strike leaves trails of pink energy. His \"To the Skies!\" (Q) becomes a devastating leap with the scythe.\n\n2. Ranged Stance (Cannon): Base Form\nIn ranged mode, he reverts to his Base Form (Black Gi).\n\nThe Weapon: He uses his hands and the Time Ring to channel dark ki blasts.\n\nCombat: His \"Shock Blast\" (Q) is replaced by a Black Power Ball. When fired through the \"Acceleration Gate\" (E), it turns into a massive, high-speed energy wave.\n\n---\n\n**Created by** [MAVA](https://www.divineskins.gg/MAVA)\n\n**Original:** https://www.divineskins.gg/MAVA/goku-black-jayce\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/goku-black-jayce/thumb.webp?v=ab147a92",
+	"file": {
+		"version": 1,
+		"asset": "goku-black-jayce-v1.fantome",
+		"size": 13670340,
+		"sha256": "3d12e35e910762cc45814a5bb9ec15dbb903ee930f11fc573f2835b0d831f364"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "gojo-sett",
+	"name": "Gojo Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "zestydaimon",
+	"description": "**Gojo Satoru as Sett**\n*Basic Recolor Of VFX*\n\n---\n\n**Created by** [ZestyDaimon](https://www.divineskins.gg/ZestyDaimon)\n\n**Original:** https://www.divineskins.gg/ZestyDaimon/gojo-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gojo-sett/thumb.webp?v=2b68448b",
+	"file": {
+		"version": 1,
+		"asset": "gojo-sett-v1.fantome",
+		"size": 12544155,
+		"sha256": "7d4db08203964da021946c00a9c1e535cc8042654827bfdffa5d6423dfb71361"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "gol-d-roger-viego",
+	"name": "Gol D Roger Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "frog",
+	"description": "## Comprehensive Mod Copyright and Asset Disclaimer\n\nThis modification (mod) is a fan-made project and is **not affiliated with or endorsed by Riot Games, Inc. or the official creators/rights holders of One Piece (Eiichiro Oda, Shueisha, Toei Animation, etc.).**\n\n### Third-Party Asset Ownership\n\nThis mod utilizes assets (such as models, textures, art, or sounds) derived from games published by **Riot Games, Inc.** and/or from the **One Piece** franchise.\n\n- **Riot Games Assets:** All intellectual property, copyrights, and trademarks for the Riot Games assets (e.g., from *League of Legends, VALORANT*, etc.) are the exclusive property of **Riot Games, Inc.**\n- **One Piece Assets:** All intellectual property, copyrights, and trademarks for the One Piece assets are the exclusive property of **Eiichiro Oda / Shueisha, Toei Animation**, and their associated rights holders.\n\n**No other person or entity is permitted to claim ownership or copyright over these specific third-party assets.**\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gol-d-roger-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gol-d-roger-viego/thumb.webp?v=c54f4901",
+	"file": {
+		"version": 1,
+		"asset": "gol-d-roger-viego-v1.fantome",
+		"size": 21471849,
+		"sha256": "1abc8614fbfb61ab60c9ed1644d30f5c48559234c75f9c1a6c62bc228fc2bcd1"
+	},
+	"chromas": []
+}

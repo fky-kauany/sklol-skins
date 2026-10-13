@@ -1,0 +1,26 @@
+{
+	"id": "gojo-xerath",
+	"name": "Gojo Xerath",
+	"champion": 101,
+	"base": 0,
+	"creator": "disco",
+	"description": "Commissioned by bossminion.\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/gojo-xerath\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/gojo-xerath/thumb.webp?v=35f3e5f6",
+	"file": {
+		"version": 1,
+		"asset": "gojo-xerath-v1.fantome",
+		"size": 20828648,
+		"sha256": "90333a2b83c372cd992ca67718cf1adb0eaa2518cc8f8e12ba0a1c733aff3e3b"
+	},
+	"chromas": []
+}

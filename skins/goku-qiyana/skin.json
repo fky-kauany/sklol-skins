@@ -1,0 +1,26 @@
+{
+	"id": "goku-qiyana",
+	"name": "Goku Qiyana",
+	"champion": 246,
+	"base": 0,
+	"creator": "frog",
+	"description": "YESYES GUGUGUGUGUGUGUGUGUGUGGUGUGGU GAGAGAGAGAGAGA\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/goku-qiyana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/goku-qiyana/thumb.webp?v=23ba3400",
+	"file": {
+		"version": 1,
+		"asset": "goku-qiyana-v1.fantome",
+		"size": 20447139,
+		"sha256": "810b9904e5636accb7f9d2ae06d75fa3336ef189abf52cb39b7fce5dcc3227bf"
+	},
+	"chromas": []
+}

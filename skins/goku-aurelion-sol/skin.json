@@ -1,0 +1,26 @@
+{
+	"id": "goku-aurelion-sol",
+	"name": "Goku Aurelion Sol",
+	"champion": 136,
+	"base": 0,
+	"creator": "frog",
+	"description": "Ready to level up your game? We've fixed the most epic crossover in existence. Our custom skin mod brings the legendary **Goku** and the cosmic creator **Aurelion Sol** together, making your favorite champion stronger than ever. Download our high-quality **Goku-themed Aurelion Sol skin** and unleash the power of a Saiyan and a Star Forger.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/goku-aurelion-sol\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/goku-aurelion-sol/thumb.webp?v=ffa71907",
+	"file": {
+		"version": 1,
+		"asset": "goku-aurelion-sol-v1.fantome",
+		"size": 19623118,
+		"sha256": "9c5339a5d4ec2b387b94cf28537b4c1d8b27217b517cc678186977de95b6080e"
+	},
+	"chromas": []
+}

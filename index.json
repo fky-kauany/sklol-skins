@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:59:00.474Z",
+	"generatedAt": "2026-10-13T03:02:13.854Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -536,9 +536,193 @@
 			"links": {
 				"discord": "https://discord.com/invite/AKCjefCcMK"
 			}
+		},
+		"zestydaimon": {
+			"name": "ZestyDaimon",
+			"links": {}
 		}
 	},
 	"skins": [
+		{
+			"id": "goku-aurelion-sol",
+			"name": "Goku Aurelion Sol",
+			"champion": 136,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/goku-aurelion-sol/thumb.webp?v=ffa71907",
+			"file": {
+				"version": 1,
+				"asset": "goku-aurelion-sol-v1.fantome",
+				"size": 19623118,
+				"sha256": "9c5339a5d4ec2b387b94cf28537b4c1d8b27217b517cc678186977de95b6080e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goku-black-jayce",
+			"name": "Goku Black Jayce",
+			"champion": 126,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/goku-black-jayce/thumb.webp?v=ab147a92",
+			"file": {
+				"version": 1,
+				"asset": "goku-black-jayce-v1.fantome",
+				"size": 13670340,
+				"sha256": "3d12e35e910762cc45814a5bb9ec15dbb903ee930f11fc573f2835b0d831f364"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goku-ezreal",
+			"name": "Goku Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/goku-ezreal/thumb.webp?v=ad9dbd46",
+			"file": {
+				"version": 1,
+				"asset": "goku-ezreal-v1.fantome",
+				"size": 18594986,
+				"sha256": "c0a4e792c5631e644d005064036b402c0aa2a07d45a605042514edd37876c94b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goku-qiyana",
+			"name": "Goku Qiyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/goku-qiyana/thumb.webp?v=23ba3400",
+			"file": {
+				"version": 1,
+				"asset": "goku-qiyana-v1.fantome",
+				"size": 20447139,
+				"sha256": "810b9904e5636accb7f9d2ae06d75fa3336ef189abf52cb39b7fce5dcc3227bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gol-d-roger-viego",
+			"name": "Gol D Roger Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gol-d-roger-viego/thumb.webp?v=c54f4901",
+			"file": {
+				"version": 1,
+				"asset": "gol-d-roger-viego-v1.fantome",
+				"size": 21471849,
+				"sha256": "1abc8614fbfb61ab60c9ed1644d30f5c48559234c75f9c1a6c62bc228fc2bcd1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gold-white-pantheon",
+			"name": "Gold White Pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gold-white-pantheon/thumb.webp?v=13eac114",
+			"file": {
+				"version": 1,
+				"asset": "gold-white-pantheon-v1.fantome",
+				"size": 16180691,
+				"sha256": "d1b6f72524305bfcb77d1eb8d4d217815e7f41ba62276f9f93236aabf46ea18e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gordon-freeman-aphelios",
+			"name": "Gordon Freeman Aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gordon-freeman-aphelios/thumb.webp?v=3ccd7510",
+			"file": {
+				"version": 1,
+				"asset": "gordon-freeman-aphelios-v1.fantome",
+				"size": 7081021,
+				"sha256": "277e13ac227270d996e37791f2942b4ad4a53eb210fc7ad6487c5dc97a580c91"
+			},
+			"chromas": []
+		},
 		{
 			"id": "1997-dude-graves",
 			"name": "1997 dude graves",
@@ -11930,6 +12114,84 @@
 				"asset": "gojo-satoru-smolder-ultimate-skin-v1.fantome",
 				"size": 13229139,
 				"sha256": "c66ac7b92b9ec605db3154c4501540cd3523e57a7c9774638bd7b4ec7dc99097"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-sett",
+			"name": "Gojo Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "zestydaimon",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-sett/thumb.webp?v=2b68448b",
+			"file": {
+				"version": 1,
+				"asset": "gojo-sett-v1.fantome",
+				"size": 12544155,
+				"sha256": "7d4db08203964da021946c00a9c1e535cc8042654827bfdffa5d6423dfb71361"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-xerath",
+			"name": "Gojo Xerath",
+			"champion": 101,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-xerath/thumb.webp?v=35f3e5f6",
+			"file": {
+				"version": 1,
+				"asset": "gojo-xerath-v1.fantome",
+				"size": 20828648,
+				"sha256": "90333a2b83c372cd992ca67718cf1adb0eaa2518cc8f8e12ba0a1c733aff3e3b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gojo-zeri",
+			"name": "Gojo - Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/gojo-zeri/thumb.webp?v=53f620f0",
+			"file": {
+				"version": 1,
+				"asset": "gojo-zeri-v1.fantome",
+				"size": 8227568,
+				"sha256": "83fc6a1fefe7723a375210c028196c3202ca02f84d9a70fad7cbd52c0efbef2d"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "gold-white-pantheon",
+	"name": "Gold White Pantheon",
+	"champion": 80,
+	"base": 0,
+	"creator": "frog",
+	"description": "asddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gold-white-pantheon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gold-white-pantheon/thumb.webp?v=13eac114",
+	"file": {
+		"version": 1,
+		"asset": "gold-white-pantheon-v1.fantome",
+		"size": 16180691,
+		"sha256": "d1b6f72524305bfcb77d1eb8d4d217815e7f41ba62276f9f93236aabf46ea18e"
+	},
+	"chromas": []
+}
