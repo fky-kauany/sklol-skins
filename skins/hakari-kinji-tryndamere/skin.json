@@ -1,0 +1,26 @@
+{
+	"id": "hakari-kinji-tryndamere",
+	"name": "Hakari Kinji - Tryndamere",
+	"champion": 23,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/hakari-kinji-tryndamere\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hakari-kinji-tryndamere/thumb.webp?v=84bc3986",
+	"file": {
+		"version": 1,
+		"asset": "hakari-kinji-tryndamere-v1.fantome",
+		"size": 7526098,
+		"sha256": "737d2cbbfcb600ba5f922501d27c4be5fec12948810a431f01e6880a7b3f374e"
+	},
+	"chromas": []
+}

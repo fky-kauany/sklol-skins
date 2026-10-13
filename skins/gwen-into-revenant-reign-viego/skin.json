@@ -1,0 +1,25 @@
+{
+	"id": "gwen-into-revenant-reign-viego",
+	"name": "GWEN INTO revenant reign viego",
+	"champion": 887,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "> COMMISION ME ON DISCORD FOR MORE@CEEREL\n\n\n\n\n# THIS MOD INCLUDES \n\n\n**REVENANT REIGN VIEGOS MODEL**\n**HIS ANIMS**\n**SWORDS AND VFX**\n\n\n\ngwen needed FTM surgery apperntly\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/gwen-into-revenant-reign-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gwen-into-revenant-reign-viego/thumb.webp?v=6fd2101e",
+	"file": {
+		"version": 1,
+		"asset": "gwen-into-revenant-reign-viego-v1.fantome",
+		"size": 12129741,
+		"sha256": "e95d5d79680dfd5113138d14ff3c2b075796f26498178026829ec015d54e78a6"
+	},
+	"chromas": []
+}

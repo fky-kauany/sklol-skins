@@ -97,6 +97,11 @@
 		"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
 		"links": {}
 	},
+	"comasquash": {
+		"name": "ComaSquash",
+		"avatar": "creators/comasquash.png?v=7903d54b",
+		"links": {}
+	},
 	"czcz": {
 		"name": "czcz",
 		"avatar": "creators/czcz.webp?v=d8cb95e7",
@@ -377,6 +382,10 @@
 			"discord": "https://discord.gg/vXHXVgv7qy",
 			"x": "https://x.com/Nyxns0"
 		}
+	},
+	"oyashxro": {
+		"name": "oyashxro",
+		"links": {}
 	},
 	"percyyw": {
 		"name": "Percyyw",

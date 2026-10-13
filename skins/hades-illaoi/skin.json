@@ -1,0 +1,26 @@
+{
+	"id": "hades-illaoi",
+	"name": "Hades Illaoi",
+	"champion": 420,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/hades-illaoi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hades-illaoi/thumb.webp?v=24081475",
+	"file": {
+		"version": 1,
+		"asset": "hades-illaoi-v1.fantome",
+		"size": 11447380,
+		"sha256": "ad15a4b5ccf394bc83a91b2073347ad6e98d10168cd14cda92053b0a8c9e9a03"
+	},
+	"chromas": []
+}

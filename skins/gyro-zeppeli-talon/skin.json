@@ -1,0 +1,26 @@
+{
+	"id": "gyro-zeppeli-talon",
+	"name": "Gyro Zeppeli Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "comasquash",
+	"description": "Hello, this is my 1st custom skin. I'll keep updating it. If you have any suggestion, you can add me on discord: comasquash\n\n---\n\n**Created by** [ComaSquash](https://www.divineskins.gg/ComaSquash)\n\n**Original:** https://www.divineskins.gg/ComaSquash/gyro-zeppeli\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gyro-zeppeli-talon/thumb.webp?v=c19f262c",
+	"file": {
+		"version": 1,
+		"asset": "gyro-zeppeli-talon-v1.fantome",
+		"size": 10409737,
+		"sha256": "7bb2cb57fdf168433d8fc8facca03833645da70394cf428868bb66579968ad44"
+	},
+	"chromas": []
+}

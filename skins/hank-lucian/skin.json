@@ -1,0 +1,23 @@
+{
+	"id": "hank-lucian",
+	"name": "Hank lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "*\"i hate clowns\"*\n\n***\n\n**Modified champion: Lucian**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n[**Mind chamber**](https://sketchfab.com/3d-models/hank-79RiBbK2d9JtF3O5VSLsQnTNHQg) **was the first one i did cook in game**\n\n[**Tottu-1280**](https://www.newgrounds.com/art/view/tottu-1280/just-a-nomal-day-in-nevada-vol2-model-pack-release) **was the second one**\n\n[Krinkels](https://twitter.com/MRKrinkels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) **is the creator of this madness**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/hank-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hank-lucian/thumb.webp?v=872a8e1b",
+	"file": {
+		"version": 1,
+		"asset": "hank-lucian-v1.fantome",
+		"size": 1218765,
+		"sha256": "d7413d7b48a84150d2675d66384eb0d0b3f712b8898120a04cb2b9d9ad0a0ff7"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "gwen-ruby-hoshino",
+	"name": "Ruby Hoshino",
+	"champion": 887,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Ruby Hoshino Gwen • Custom model • Custom Abilities • Works on every Gwen skin\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/ruby-hoshino-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gwen-ruby-hoshino/thumb.webp?v=63230906",
+	"file": {
+		"version": 1,
+		"asset": "gwen-ruby-hoshino-v1.fantome",
+		"size": 19934939,
+		"sha256": "05c29de7938ea3bef311105c6a55b13bd7f8025ea97936f66095821c2b50ba88"
+	},
+	"chromas": []
+}

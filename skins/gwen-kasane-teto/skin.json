@@ -1,0 +1,25 @@
+{
+	"id": "gwen-kasane-teto",
+	"name": "Kasane Teto",
+	"champion": 887,
+	"base": 0,
+	"creator": "oyashxro",
+	"description": "Kasane Teto Gwen • Custom model • Custom Abilities • Works on every Gwen skin • Te-te-te-te teto while recalling\n\n---\n\n**Created by** [oyashxro](https://www.divineskins.gg/oyashxro)\n\n**Original:** https://www.divineskins.gg/oyashxro/kasane-teto-gwen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/gwen-kasane-teto/thumb.webp?v=2f116e80",
+	"file": {
+		"version": 1,
+		"asset": "gwen-kasane-teto-v1.fantome",
+		"size": 16221218,
+		"sha256": "0e1b4ad319b205bd5d99b7a4a8f3f66e69fdfc5b76cef8795a0331d43af3eec9"
+	},
+	"chromas": []
+}

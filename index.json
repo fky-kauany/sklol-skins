@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:08:41.928Z",
+	"generatedAt": "2026-10-13T03:11:52.821Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -98,6 +98,11 @@
 			"name": "celestia-mod-recovery",
 			"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
 			"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+			"links": {}
+		},
+		"comasquash": {
+			"name": "ComaSquash",
+			"avatar": "creators/comasquash.png?v=7903d54b",
 			"links": {}
 		},
 		"czcz": {
@@ -380,6 +385,10 @@
 				"discord": "https://discord.gg/vXHXVgv7qy",
 				"x": "https://x.com/Nyxns0"
 			}
+		},
+		"oyashxro": {
+			"name": "oyashxro",
+			"links": {}
 		},
 		"percyyw": {
 			"name": "Percyyw",
@@ -1245,6 +1254,260 @@
 				"asset": "gwen-chroma-v1.fantome",
 				"size": 16322465,
 				"sha256": "e249bbd88597c2598dd3d598a8d5cf65a5b371cdfd9c08714d3cf585dca50775"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-hatsune-miku",
+			"name": "Hatsune Miku",
+			"champion": 887,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-hatsune-miku/thumb.webp?v=60cf4f94",
+			"file": {
+				"version": 1,
+				"asset": "gwen-hatsune-miku-v1.fantome",
+				"size": 12889028,
+				"sha256": "000c1274bd72350946f9e23bdc60e8ac4dc29892a90af615f543a2120f24ef12"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-into-revenant-reign-viego",
+			"name": "GWEN INTO revenant reign viego",
+			"champion": 887,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-into-revenant-reign-viego/thumb.webp?v=6fd2101e",
+			"file": {
+				"version": 1,
+				"asset": "gwen-into-revenant-reign-viego-v1.fantome",
+				"size": 12129741,
+				"sha256": "e95d5d79680dfd5113138d14ff3c2b075796f26498178026829ec015d54e78a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-kasane-teto",
+			"name": "Kasane Teto",
+			"champion": 887,
+			"base": 0,
+			"creator": "oyashxro",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-kasane-teto/thumb.webp?v=2f116e80",
+			"file": {
+				"version": 1,
+				"asset": "gwen-kasane-teto-v1.fantome",
+				"size": 16221218,
+				"sha256": "0e1b4ad319b205bd5d99b7a4a8f3f66e69fdfc5b76cef8795a0331d43af3eec9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-mita",
+			"name": "Gwen Mita",
+			"champion": 887,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-mita/thumb.webp?v=ad155cd0",
+			"file": {
+				"version": 1,
+				"asset": "gwen-mita-v1.fantome",
+				"size": 16529257,
+				"sha256": "8069c94116ddf3d6c0907f4b71b866af444134a98669d17ebb89b3cb45697db4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-ruby-hoshino",
+			"name": "Ruby Hoshino",
+			"champion": 887,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gwen-ruby-hoshino/thumb.webp?v=63230906",
+			"file": {
+				"version": 1,
+				"asset": "gwen-ruby-hoshino-v1.fantome",
+				"size": 19934939,
+				"sha256": "05c29de7938ea3bef311105c6a55b13bd7f8025ea97936f66095821c2b50ba88"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gyro-zeppeli-talon",
+			"name": "Gyro Zeppeli Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "comasquash",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/gyro-zeppeli-talon/thumb.webp?v=c19f262c",
+			"file": {
+				"version": 1,
+				"asset": "gyro-zeppeli-talon-v1.fantome",
+				"size": 10409737,
+				"sha256": "7bb2cb57fdf168433d8fc8facca03833645da70394cf428868bb66579968ad44"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hades-illaoi",
+			"name": "Hades Illaoi",
+			"champion": 420,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hades-illaoi/thumb.webp?v=24081475",
+			"file": {
+				"version": 1,
+				"asset": "hades-illaoi-v1.fantome",
+				"size": 11447380,
+				"sha256": "ad15a4b5ccf394bc83a91b2073347ad6e98d10168cd14cda92053b0a8c9e9a03"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hakari-kinji-tryndamere",
+			"name": "Hakari Kinji - Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hakari-kinji-tryndamere/thumb.webp?v=84bc3986",
+			"file": {
+				"version": 1,
+				"asset": "hakari-kinji-tryndamere-v1.fantome",
+				"size": 7526098,
+				"sha256": "737d2cbbfcb600ba5f922501d27c4be5fec12948810a431f01e6880a7b3f374e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hakari-sett",
+			"name": "Hakari Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hakari-sett/thumb.webp?v=1157eb9c",
+			"file": {
+				"version": 1,
+				"asset": "hakari-sett-v1.fantome",
+				"size": 16065407,
+				"sha256": "466324d6c7dccb343f4ed46aca51c63fa1c63b6cb94ec7e37b790b3ec2437578"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hank-lucian",
+			"name": "Hank lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hank-lucian/thumb.webp?v=872a8e1b",
+			"file": {
+				"version": 1,
+				"asset": "hank-lucian-v1.fantome",
+				"size": 1218765,
+				"sha256": "d7413d7b48a84150d2675d66384eb0d0b3f712b8898120a04cb2b9d9ad0a0ff7"
 			},
 			"chromas": []
 		},
