@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:43:35.789Z",
+	"generatedAt": "2026-10-13T06:46:50.444Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -18032,6 +18032,260 @@
 				"asset": "talon-ryota-kise-v1.fantome",
 				"size": 8140762,
 				"sha256": "b851c19271965247eb5326b3680ff45e9ccf7ae6bc3855e0979cfeb6136dd677"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-seishir-nagi-blue-lock",
+			"name": "Seishirō Nagi Blue Lock",
+			"champion": 91,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-seishir-nagi-blue-lock/thumb.webp?v=9b2d1352",
+			"file": {
+				"version": 1,
+				"asset": "talon-seishir-nagi-blue-lock-v1.fantome",
+				"size": 7350509,
+				"sha256": "d6c0ca9eff5fc1f4cf4b3808c6f93818dd7f35c84c48101dc02e1405c0bd5a43"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-shadow-igris",
+			"name": "Shadow Igris",
+			"champion": 91,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-shadow-igris/thumb.webp?v=692d943f",
+			"file": {
+				"version": 1,
+				"asset": "talon-shadow-igris-v1.fantome",
+				"size": 26310573,
+				"sha256": "203dbbb084be9597d8b6a43c2e454cd0a6f81dc7f214c0d0b2562d7ec23d6ff2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-shintaro-midorima",
+			"name": "Talon - Shintaro Midorima",
+			"champion": 91,
+			"base": 0,
+			"creator": "stritzzz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-shintaro-midorima/thumb.webp?v=3266b6eb",
+			"file": {
+				"version": 1,
+				"asset": "talon-shintaro-midorima-v1.fantome",
+				"size": 8214001,
+				"sha256": "1f47a52768cb615a25fc83ccd2513e57d1ad8e827b3badee1fdc7d2e88b3cd9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-taiga-kagami",
+			"name": "Talon - Taiga Kagami",
+			"champion": 91,
+			"base": 0,
+			"creator": "stritzzz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-taiga-kagami/thumb.webp?v=de6e542f",
+			"file": {
+				"version": 1,
+				"asset": "talon-taiga-kagami-v1.fantome",
+				"size": 8156552,
+				"sha256": "018cab385fc9b4fa404c16fcaecd9f977426300e2e0c8aaa920eb2237e0422ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-tetsuya-kuroko",
+			"name": "Talon - Tetsuya Kuroko",
+			"champion": 91,
+			"base": 0,
+			"creator": "stritzzz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-tetsuya-kuroko/thumb.webp?v=a3b32b78",
+			"file": {
+				"version": 1,
+				"asset": "talon-tetsuya-kuroko-v1.fantome",
+				"size": 8218666,
+				"sha256": "450ac76dc13f3bd62372bd1c3adc66743fe9d17f4562585d310c9c23a0189487"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tangtang-samira-a9-endfield",
+			"name": "TangTang Samira ( A9: Endfield )",
+			"champion": 360,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tangtang-samira-a9-endfield/thumb.webp?v=1109d18e",
+			"file": {
+				"version": 1,
+				"asset": "tangtang-samira-a9-endfield-v1.fantome",
+				"size": 37547215,
+				"sha256": "e86241239d31851a1634932f5a6cc1fcf3c5cf5c9de6338cfd29608b1772f9cb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tanjiro-yasuo",
+			"name": "Tanjiro Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tanjiro-yasuo/thumb.webp?v=deb16f99",
+			"file": {
+				"version": 1,
+				"asset": "tanjiro-yasuo-v1.fantome",
+				"size": 24521251,
+				"sha256": "552ee31931b40fcb54690491c7ba493294877d723b4e0609af8f6c4107486711"
+			},
+			"chromas": []
+		},
+		{
+			"id": "taric-usopp",
+			"name": "Taric Usopp",
+			"champion": 44,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/taric-usopp/thumb.webp?v=db6acf67",
+			"file": {
+				"version": 1,
+				"asset": "taric-usopp-v1.fantome",
+				"size": 18629138,
+				"sha256": "c735e70ebbe6ba6ef08782b193276733de6d5e6824d7a3bc48024fc71d7be4db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tatsumaki-syndra",
+			"name": "Tatsumaki Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tatsumaki-syndra/thumb.webp?v=d862e83f",
+			"file": {
+				"version": 1,
+				"asset": "tatsumaki-syndra-v1.fantome",
+				"size": 6771764,
+				"sha256": "5ee453a9753b71971aad9375afb9a5116052e2081efe0a24cae2ad85e14a5576"
+			},
+			"chromas": []
+		},
+		{
+			"id": "team-fortress-2-darius",
+			"name": "Team Fortress 2 Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/team-fortress-2-darius/thumb.webp?v=6f3e7110",
+			"file": {
+				"version": 1,
+				"asset": "team-fortress-2-darius-v1.fantome",
+				"size": 2502304,
+				"sha256": "28a6bec5b8d7c9956f8a4722791810b44fdec128b5864853dc3df15ddf983b4b"
 			},
 			"chromas": []
 		},

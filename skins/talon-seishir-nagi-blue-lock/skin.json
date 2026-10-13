@@ -1,0 +1,26 @@
+{
+	"id": "talon-seishir-nagi-blue-lock",
+	"name": "Seishirō Nagi Blue Lock",
+	"champion": 91,
+	"base": 0,
+	"creator": "antton",
+	"description": "Discover Seishirō Nagi Blue Lock, **imagined and commissioned by h**.\r\n\r\nThis custom skin reimagines Talon with the calm and effortless genius of Seishirō Nagi from Blue Lock, featuring an anime-inspired model while preserving the champion’s speed, precision, and deadly assassin presence.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/seishir-nagi-blue-lock\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-seishir-nagi-blue-lock/thumb.webp?v=9b2d1352",
+	"file": {
+		"version": 1,
+		"asset": "talon-seishir-nagi-blue-lock-v1.fantome",
+		"size": 7350509,
+		"sha256": "d6c0ca9eff5fc1f4cf4b3808c6f93818dd7f35c84c48101dc02e1405c0bd5a43"
+	},
+	"chromas": []
+}

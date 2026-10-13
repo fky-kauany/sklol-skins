@@ -1,0 +1,26 @@
+{
+	"id": "taric-usopp",
+	"name": "Taric Usopp",
+	"champion": 44,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 USOPP 」\r\n### *Replaces Taric*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/taric-usopp\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/taric-usopp/thumb.webp?v=db6acf67",
+	"file": {
+		"version": 1,
+		"asset": "taric-usopp-v1.fantome",
+		"size": 18629138,
+		"sha256": "c735e70ebbe6ba6ef08782b193276733de6d5e6824d7a3bc48024fc71d7be4db"
+	},
+	"chromas": []
+}

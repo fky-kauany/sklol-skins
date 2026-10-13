@@ -1,0 +1,26 @@
+{
+	"id": "tanjiro-yasuo",
+	"name": "Tanjiro Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "frog",
+	"description": "The way of the wind is a path of both fury and kindness. This custom skin transforms the Unforgiven into **Tanjiro Kamado**, the Demon Slayer. Wield a Nichirin Blade and master the arts of Water Breathing and Hinokami Kagura as you dash through enemies and protect your allies. This skin is not just about power, but about the unwavering resolve to fight for those you love.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/tanjiro-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tanjiro-yasuo/thumb.webp?v=deb16f99",
+	"file": {
+		"version": 1,
+		"asset": "tanjiro-yasuo-v1.fantome",
+		"size": 24521251,
+		"sha256": "552ee31931b40fcb54690491c7ba493294877d723b4e0609af8f6c4107486711"
+	},
+	"chromas": []
+}

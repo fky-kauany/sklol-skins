@@ -1,0 +1,26 @@
+{
+	"id": "tatsumaki-syndra",
+	"name": "Tatsumaki Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Tatsumaki Syndra\n\n### Features\n\n- **Custom model**: Syndra redesigned as Tatsumaki with green hair + levitation\n- **Custom abilities**: Telekinetic orb effects, psychic energy VFX, and tornado-inspired animations\n- **Works on every Syndra skin** — Star Guardian, Justicar, Pool Party, and more\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/tatsumaki-syndra\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tatsumaki-syndra/thumb.webp?v=d862e83f",
+	"file": {
+		"version": 1,
+		"asset": "tatsumaki-syndra-v1.fantome",
+		"size": 6771764,
+		"sha256": "5ee453a9753b71971aad9375afb9a5116052e2081efe0a24cae2ad85e14a5576"
+	},
+	"chromas": []
+}

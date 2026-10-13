@@ -1,0 +1,23 @@
+{
+	"id": "team-fortress-2-darius",
+	"name": "Team Fortress 2 Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Darius\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/team-fortress-2-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/team-fortress-2-darius/thumb.webp?v=6f3e7110",
+	"file": {
+		"version": 1,
+		"asset": "team-fortress-2-darius-v1.fantome",
+		"size": 2502304,
+		"sha256": "28a6bec5b8d7c9956f8a4722791810b44fdec128b5864853dc3df15ddf983b4b"
+	},
+	"chromas": []
+}

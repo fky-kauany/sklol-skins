@@ -1,0 +1,25 @@
+{
+	"id": "talon-taiga-kagami",
+	"name": "Talon - Taiga Kagami",
+	"champion": 91,
+	"base": 0,
+	"creator": "stritzzz",
+	"description": "### 🧾 Credits\n\n**Special Thanks:** [gyeinjik](https://linktr.ee/gyeinjik)\n\n\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: [Donate](https://ko-fi.com/stritzzz) [YT](https://ko-fi.com/stritzzz)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Stritzzz](https://www.divineskins.gg/Stritzzz)\n\n**Original:** https://www.divineskins.gg/Stritzzz/talon-taiga-kagami\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-taiga-kagami/thumb.webp?v=de6e542f",
+	"file": {
+		"version": 1,
+		"asset": "talon-taiga-kagami-v1.fantome",
+		"size": 8156552,
+		"sha256": "018cab385fc9b4fa404c16fcaecd9f977426300e2e0c8aaa920eb2237e0422ab"
+	},
+	"chromas": []
+}
