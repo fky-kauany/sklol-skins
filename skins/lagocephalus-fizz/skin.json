@@ -1,0 +1,26 @@
+{
+	"id": "lagocephalus-fizz",
+	"name": "Lagocephalus Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "### 📌 Mod Info\nMod changes Fizz's fish bait and shark (R) into **Lagocephalus sceleratus**.\n\n***Lagocephalus sceleratus** - gotronus (Gmelin, 1789), commonly known as the silver-cheeked toadfish, or Sennin-fugu, or Gotronu (Japanese: 仙人河豚), is an extremely poisonous marine bony fish in the family Tetraodontidae (puffer fishes).*\n\n#λαγοκεφαλος\n\n### 💬 Additional Info\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: \n\nhttps://ko-fi.com/s0jaku\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/lagocephalus-fizz\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lagocephalus-fizz/thumb.webp?v=5cc4858c",
+	"file": {
+		"version": 1,
+		"asset": "lagocephalus-fizz-v1.fantome",
+		"size": 14968845,
+		"sha256": "a02f9bf8dd89eb0c4716f41f0f53e82e9a74179f504031d90a49032101b2aefd"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "lappland-katarina",
+	"name": "Lappland Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "Katarina as Lappland from Arknights.\n\nSkin Features:\nCustom Model\nCustom VFX\nCustom Icon and Banner\n\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins Discord Server.\n\nMy Discord: @nyxns0\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/lappland-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lappland-katarina/thumb.webp?v=ff383155",
+	"file": {
+		"version": 1,
+		"asset": "lappland-katarina-v1.fantome",
+		"size": 5665338,
+		"sha256": "18fd2bbf648b7c569fc2e7550ac941283c63cbb0297c7b9224c02edc5244483e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "leblanc-frieren",
+	"name": "LeBlanc Frieren",
+	"champion": 7,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 FRIEREN 」\r\n### *Replaces LeBlanc*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/leblanc-frieren\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/leblanc-frieren/thumb.webp?v=894494e1",
+	"file": {
+		"version": 1,
+		"asset": "leblanc-frieren-v1.fantome",
+		"size": 29645847,
+		"sha256": "cf5676f8e8422f0d45bf09d70ac391502349325557ea89732de9f2675137962d"
+	},
+	"chromas": []
+}

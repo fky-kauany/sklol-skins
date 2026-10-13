@@ -1,0 +1,26 @@
+{
+	"id": "kuki-shinobu-locke",
+	"name": "Kuki Shinobu Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "seweski",
+	"description": "My electro healer can't be this cute\r\n\r\n**Works on every skin**\r\n\r\n**this mod changes:**\r\nmodel\r\neffects\r\nvoiceover\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/kuki-shinobu-locke\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kuki-shinobu-locke/thumb.webp?v=a960e4fd",
+	"file": {
+		"version": 1,
+		"asset": "kuki-shinobu-locke-v1.fantome",
+		"size": 14315677,
+		"sha256": "5659c7c2568c5ea2c9e9891f5bdb3224bbc48a74e54645dee82868fa3db0a8cf"
+	},
+	"chromas": []
+}

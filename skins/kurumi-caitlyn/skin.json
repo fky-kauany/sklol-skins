@@ -1,0 +1,26 @@
+{
+	"id": "kurumi-caitlyn",
+	"name": "Kurumi Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Kurumi Caitlyn\n\n### Features\n\n- **Custom Model** – Caitlyn fully redesigned in Kurumi Tokisaki’s gothic style.\n- **Custom Abilities** – New ability visuals to match Kurumi’s supernatural theme.\n- **Custom Voiceover** – Full Kurumi audio lines for authentic immersion.\n- **Custom SFX** – Dark, anime-inspired sound design.\n- **Universal Compatibility** – Works across **all Caitlyn skins** with Celestial Launcher.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/kurumi-caitlyn\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kurumi-caitlyn/thumb.webp?v=08db5932",
+	"file": {
+		"version": 1,
+		"asset": "kurumi-caitlyn-v1.fantome",
+		"size": 6789741,
+		"sha256": "883b45c8badc58b43286d676fbfd11076f43bebab61c585af1213afa24a60390"
+	},
+	"chromas": []
+}

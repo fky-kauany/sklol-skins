@@ -1,0 +1,26 @@
+{
+	"id": "kratos-pantheon-fixed",
+	"name": "Kratos - Pantheon (fixed)",
+	"champion": 80,
+	"base": 0,
+	"creator": "magnaplayer",
+	"description": "Not my best mod, but it still turned out looking pretty cool.\n\nIt includes a few custom animations designed to fit the Blades of Chaos. Some of them might look a bit janky, but they help match the weapon’s style and feel more natural in motion.\n\nOverall, it’s a fun result and I’m happy with how it came together.\n\n---\n\n**Created by** [MagnaPlayer](https://www.divineskins.gg/MagnaPlayer)\n\n**Original:** https://www.divineskins.gg/MagnaPlayer/pantheon-kratos\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kratos-pantheon-fixed/thumb.webp?v=a8c5b4ef",
+	"file": {
+		"version": 1,
+		"asset": "kratos-pantheon-fixed-v1.fantome",
+		"size": 13103407,
+		"sha256": "3651195bfaddf8a63f69e2b879c3849897648a7acb1dd7b32efcc7bc27908246"
+	},
+	"chromas": []
+}

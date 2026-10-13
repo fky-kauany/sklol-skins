@@ -1,0 +1,26 @@
+{
+	"id": "laevatain-talon-from-arknights-endfield",
+	"name": "Laevatain Talon from Arknights Endfield",
+	"champion": 91,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# Laevatain Talon from Arknights Endfield :\n---\n\n> *\"From Arknights Endfield directly to your screen, get ready for Laevatain!\"*\n\n## ⚙️ Skin Information\n\n* **Modified Skin:** All\n* **Character Quality**: All\n* **Language**: en_US\n* **Author:** Davex\n\n---\n\n## 💫 Features:\n\n- ✨ New Custom Model\n- 🎨 New Custom Textures\n- 💥 New Custom VFX\n- 🔊 New Custom SFX\n- 🏃🏻‍♀️ New Custom Animations\n- 👤 New Champion Icons\n- 🖼️ New Loading Screen\n\n---\n\n## 💬 Contact & Support\n\nAny suggestions, ideas, questions, or bug reports? Send them over!\n* **Discord:** davex45a **[Come join my server!](https://discord.gg/XDF5Xma456)**\n* **YouTube Preview:** [Watch here!](https://www.youtube.com/watch?v=fNqDn5nlbJY)\n**If you are interested in commissioning a skin, feel free to send me a DM on Discord! :D**\n\n💖 *If you like my work and want to keep my creativity flowing, consider supporting me!*\n\n[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davex45)\n\n*Originally created by Davex.*\n\n---\n\n## 🙏🏻 Credits:\n\nHuuuge thanks to KhemaraSam <3 :D\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/laevatain-talon-from-arknights-endfield\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/laevatain-talon-from-arknights-endfield/thumb.webp?v=cfe46695",
+	"file": {
+		"version": 1,
+		"asset": "laevatain-talon-from-arknights-endfield-v1.fantome",
+		"size": 43294659,
+		"sha256": "0553018046f18595ee44b678a964f010c9b00a7d3a8ef6d84e325107f67e97b6"
+	},
+	"chromas": []
+}

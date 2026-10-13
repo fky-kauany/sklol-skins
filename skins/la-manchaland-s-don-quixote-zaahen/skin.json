@@ -1,0 +1,25 @@
+{
+	"id": "la-manchaland-s-don-quixote-zaahen",
+	"name": "La Manchaland's Don Quixote Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "lita",
+	"description": "---\n\n**Created by** [lita](https://www.divineskins.gg/lita)\n\n**Original:** https://www.divineskins.gg/lita/la-manchalands-don-quixote-zaahen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/la-manchaland-s-don-quixote-zaahen/thumb.webp?v=bd8b17d2",
+	"file": {
+		"version": 1,
+		"asset": "la-manchaland-s-don-quixote-zaahen-v1.fantome",
+		"size": 21398416,
+		"sha256": "eaa55c1739d0eb3faa873502f9ca102ca1853017a1868e8587ff31099621a441"
+	},
+	"chromas": []
+}

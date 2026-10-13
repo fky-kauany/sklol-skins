@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:14:25.124Z",
+	"generatedAt": "2026-10-13T04:17:46.354Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -6407,6 +6407,265 @@
 				"asset": "kratos-k-sante-v1.fantome",
 				"size": 5500358,
 				"sha256": "bb2a5a92e8186581e080990ca014a61126effca888e1e4edc0f8e54cdb2900b0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kratos-pantheon-fixed",
+			"name": "Kratos - Pantheon (fixed)",
+			"champion": 80,
+			"base": 0,
+			"creator": "magnaplayer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kratos-pantheon-fixed/thumb.webp?v=a8c5b4ef",
+			"file": {
+				"version": 1,
+				"asset": "kratos-pantheon-fixed-v1.fantome",
+				"size": 13103407,
+				"sha256": "3651195bfaddf8a63f69e2b879c3849897648a7acb1dd7b32efcc7bc27908246"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kuki-shinobu-locke",
+			"name": "Kuki Shinobu Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kuki-shinobu-locke/thumb.webp?v=a960e4fd",
+			"file": {
+				"version": 1,
+				"asset": "kuki-shinobu-locke-v1.fantome",
+				"size": 14315677,
+				"sha256": "5659c7c2568c5ea2c9e9891f5bdb3224bbc48a74e54645dee82868fa3db0a8cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kurumi-caitlyn",
+			"name": "Kurumi Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kurumi-caitlyn/thumb.webp?v=08db5932",
+			"file": {
+				"version": 1,
+				"asset": "kurumi-caitlyn-v1.fantome",
+				"size": 6789741,
+				"sha256": "883b45c8badc58b43286d676fbfd11076f43bebab61c585af1213afa24a60390"
+			},
+			"chromas": []
+		},
+		{
+			"id": "l9-cho-gath",
+			"name": "L9 Cho Gath",
+			"champion": 31,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/l9-cho-gath/thumb.webp?v=54612e50",
+			"file": {
+				"version": 1,
+				"asset": "l9-cho-gath-v1.fantome",
+				"size": 4669612,
+				"sha256": "e3602a9f8d4090040b183b917aaa3fb8654d8d65d44692d4379641e6bbeafb60"
+			},
+			"chromas": []
+		},
+		{
+			"id": "la-manchaland-s-don-quixote-zaahen",
+			"name": "La Manchaland's Don Quixote Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "lita",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/la-manchaland-s-don-quixote-zaahen/thumb.webp?v=bd8b17d2",
+			"file": {
+				"version": 1,
+				"asset": "la-manchaland-s-don-quixote-zaahen-v1.fantome",
+				"size": 21398416,
+				"sha256": "eaa55c1739d0eb3faa873502f9ca102ca1853017a1868e8587ff31099621a441"
+			},
+			"chromas": []
+		},
+		{
+			"id": "laevatain-talon-from-arknights-endfield",
+			"name": "Laevatain Talon from Arknights Endfield",
+			"champion": 91,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/laevatain-talon-from-arknights-endfield/thumb.webp?v=cfe46695",
+			"file": {
+				"version": 1,
+				"asset": "laevatain-talon-from-arknights-endfield-v1.fantome",
+				"size": 43294659,
+				"sha256": "0553018046f18595ee44b678a964f010c9b00a7d3a8ef6d84e325107f67e97b6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lagocephalus-fizz",
+			"name": "Lagocephalus Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lagocephalus-fizz/thumb.webp?v=5cc4858c",
+			"file": {
+				"version": 1,
+				"asset": "lagocephalus-fizz-v1.fantome",
+				"size": 14968845,
+				"sha256": "a02f9bf8dd89eb0c4716f41f0f53e82e9a74179f504031d90a49032101b2aefd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lappland-katarina",
+			"name": "Lappland Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lappland-katarina/thumb.webp?v=ff383155",
+			"file": {
+				"version": 1,
+				"asset": "lappland-katarina-v1.fantome",
+				"size": 5665338,
+				"sha256": "18fd2bbf648b7c569fc2e7550ac941283c63cbb0297c7b9224c02edc5244483e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leblanc-frieren",
+			"name": "LeBlanc Frieren",
+			"champion": 7,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/leblanc-frieren/thumb.webp?v=894494e1",
+			"file": {
+				"version": 1,
+				"asset": "leblanc-frieren-v1.fantome",
+				"size": 29645847,
+				"sha256": "cf5676f8e8422f0d45bf09d70ac391502349325557ea89732de9f2675137962d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leblanc-makima",
+			"name": "LeBlanc Makima",
+			"champion": 7,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/leblanc-makima/thumb.webp?v=6a5ab8d4",
+			"file": {
+				"version": 1,
+				"asset": "leblanc-makima-v1.fantome",
+				"size": 32799424,
+				"sha256": "7c024055e80331901ee3ae524aadb928d85fccf0e2d2d35c2770661a4679130e"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "l9-cho-gath",
+	"name": "L9 Cho Gath",
+	"champion": 31,
+	"base": 0,
+	"creator": "frog",
+	"description": "ONLY APPLIES TO BASE CHOGATH\nyeahhhhhhhhhhhhhhhhhhhhhh\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/l9-cho-gath-chogath\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/l9-cho-gath/thumb.webp?v=54612e50",
+	"file": {
+		"version": 1,
+		"asset": "l9-cho-gath-v1.fantome",
+		"size": 4669612,
+		"sha256": "e3602a9f8d4090040b183b917aaa3fb8654d8d65d44692d4379641e6bbeafb60"
+	},
+	"chromas": []
+}
