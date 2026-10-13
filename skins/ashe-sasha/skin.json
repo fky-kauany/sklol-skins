@@ -1,0 +1,26 @@
+{
+	"id": "ashe-sasha",
+	"name": "Ashe Sasha",
+	"champion": 22,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 SASHA BRAUS 」\r\n### *Replaces Ashe*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ashe-sasha\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ashe-sasha/thumb.webp?v=86c39c07",
+	"file": {
+		"version": 1,
+		"asset": "ashe-sasha-v1.fantome",
+		"size": 6732225,
+		"sha256": "c743b23a63a82e75d8c3095987345ef10add229cf7abff426d6da9c7f137571d"
+	},
+	"chromas": []
+}

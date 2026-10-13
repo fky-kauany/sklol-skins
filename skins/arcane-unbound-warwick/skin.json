@@ -1,0 +1,26 @@
+{
+	"id": "arcane-unbound-warwick",
+	"name": "Arcane unbound warwick",
+	"champion": 19,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "COMMISION ME ON DISCORD @CEEREL\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel), [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/ceerel/arcane-unbound-warwick\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/arcane-unbound-warwick/thumb.webp?v=593613c9",
+	"file": {
+		"version": 1,
+		"asset": "arcane-unbound-warwick-v1.fantome",
+		"size": 42163139,
+		"sha256": "6e5a8e443aa5576b985d1389a606e3b40ad6f17e9c0c0d03c80acf6ea8b89d4d"
+	},
+	"chromas": []
+}

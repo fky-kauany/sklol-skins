@@ -1,0 +1,26 @@
+{
+	"id": "ashe-beta",
+	"name": "Ashe Beta",
+	"champion": 22,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 BETA 」\r\n### *Replaces Ashe*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ashe-beta\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ashe-beta/thumb.webp?v=7c6db79b",
+	"file": {
+		"version": 1,
+		"asset": "ashe-beta-v1.fantome",
+		"size": 8115120,
+		"sha256": "6fcd2adfed42d5ba073c583ee80ca30d67a8f81c1bf62def9fba41da71d09e73"
+	},
+	"chromas": []
+}

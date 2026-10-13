@@ -1,0 +1,26 @@
+{
+	"id": "arcana-kassadin",
+	"name": "Arcana Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "## 📌 Mod Info\n\n**Type:** Custom Skin\n\n**Modified Skin(s):** All Kassadin Skins\n\n\n\n##### Features:\n- New custom model\n- New VFX\n\n\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/arcana-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/arcana-kassadin/thumb.webp?v=f0017a79",
+	"file": {
+		"version": 1,
+		"asset": "arcana-kassadin-v1.fantome",
+		"size": 9459648,
+		"sha256": "2fe955436b63f50394f9423d8420a274bd4fffc71bd65dea67db06d8a5f3a098"
+	},
+	"chromas": []
+}

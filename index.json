@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T00:37:47.407Z",
+	"generatedAt": "2026-10-13T00:42:55.634Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -168,6 +168,14 @@
 			"avatar": "creators/rorotea1.png?v=56a27670",
 			"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
 			"links": {}
+		},
+		"sirdexal": {
+			"name": "SirDexal",
+			"avatar": "creators/sirdexal.webp?v=048128ae",
+			"bio": "I can show you...\nThat Ultraground music, ridin' in the Urus with a chopper and I'll use it\nPut your title up, you'll lose it, I'll prove it\nMatter fact, I stamped, and approved it\nStraight Ultraground makes all them haters get down\nYou understand what I'm sayin'?",
+			"links": {
+				"youtube": "https://www.youtube.com/@SirDexal"
+			}
 		},
 		"stritzzz": {
 			"name": "Stritzzz",
@@ -2404,6 +2412,265 @@
 				"asset": "anya-forger-annie-v1.fantome",
 				"size": 9739074,
 				"sha256": "0485bde2631bf65e38d64edcff2f1105a303428408f5f535b519db97e4c00ce1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aphelios-project",
+			"name": "Project",
+			"champion": 523,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/aphelios-project/thumb.webp?v=acc58b94",
+			"file": {
+				"version": 1,
+				"asset": "aphelios-project-v1.fantome",
+				"size": 26649755,
+				"sha256": "1d5418bafc784c9821c08600ed02903c0cd85b2c9987b559c4edb7bdecad017c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "arbok-cassiopeia",
+			"name": "Arbok Cassiopeia",
+			"champion": 69,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/arbok-cassiopeia/thumb.webp?v=646da6ad",
+			"file": {
+				"version": 1,
+				"asset": "arbok-cassiopeia-v1.fantome",
+				"size": 9746147,
+				"sha256": "b652f200e099c6532a69102eb9387ceed38fd69ec2df8aa897da7b2bb5bddc41"
+			},
+			"chromas": []
+		},
+		{
+			"id": "arcade-yuumi",
+			"name": "Arcade Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/arcade-yuumi/thumb.webp?v=7488efe4",
+			"file": {
+				"version": 1,
+				"asset": "arcade-yuumi-v1.fantome",
+				"size": 23879667,
+				"sha256": "ada534c40726a7df96aab6633d6a438834560745f17b404b7f99fe00ae75a836"
+			},
+			"chromas": []
+		},
+		{
+			"id": "arcana-kassadin",
+			"name": "Arcana Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/arcana-kassadin/thumb.webp?v=f0017a79",
+			"file": {
+				"version": 1,
+				"asset": "arcana-kassadin-v1.fantome",
+				"size": 9459648,
+				"sha256": "2fe955436b63f50394f9423d8420a274bd4fffc71bd65dea67db06d8a5f3a098"
+			},
+			"chromas": []
+		},
+		{
+			"id": "arcane-unbound-warwick",
+			"name": "Arcane unbound warwick",
+			"champion": 19,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/arcane-unbound-warwick/thumb.webp?v=593613c9",
+			"file": {
+				"version": 1,
+				"asset": "arcane-unbound-warwick-v1.fantome",
+				"size": 42163139,
+				"sha256": "6e5a8e443aa5576b985d1389a606e3b40ad6f17e9c0c0d03c80acf6ea8b89d4d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "archer-ashe",
+			"name": "Archer Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/archer-ashe/thumb.webp?v=c12b5b06",
+			"file": {
+				"version": 1,
+				"asset": "archer-ashe-v1.fantome",
+				"size": 5730862,
+				"sha256": "9600be105dbe2183e247025fa096761f2e6504fafd0089f7dc9426516841109c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "arlecchino-kayn",
+			"name": "Arlecchino Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/arlecchino-kayn/thumb.webp?v=bd384f75",
+			"file": {
+				"version": 1,
+				"asset": "arlecchino-kayn-v1.fantome",
+				"size": 33679650,
+				"sha256": "942e938049cbf830d1d7077d61e0049ab8b209b57b9f5a1bedf89702cb9a8039"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashe-archer",
+			"name": "Archer",
+			"champion": 22,
+			"base": 0,
+			"creator": "sirdexal",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ashe-archer/thumb.webp?v=d9a928dd",
+			"file": {
+				"version": 1,
+				"asset": "ashe-archer-v1.fantome",
+				"size": 49346378,
+				"sha256": "13abf23ce2f2c665262742f915f3d589fd0148589f620c22abe70065e4fb8ef1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashe-beta",
+			"name": "Ashe Beta",
+			"champion": 22,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ashe-beta/thumb.webp?v=7c6db79b",
+			"file": {
+				"version": 1,
+				"asset": "ashe-beta-v1.fantome",
+				"size": 8115120,
+				"sha256": "6fcd2adfed42d5ba073c583ee80ca30d67a8f81c1bf62def9fba41da71d09e73"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashe-sasha",
+			"name": "Ashe Sasha",
+			"champion": 22,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ashe-sasha/thumb.webp?v=86c39c07",
+			"file": {
+				"version": 1,
+				"asset": "ashe-sasha-v1.fantome",
+				"size": 6732225,
+				"sha256": "c743b23a63a82e75d8c3095987345ef10add229cf7abff426d6da9c7f137571d"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "arbok-cassiopeia",
+	"name": "Arbok Cassiopeia",
+	"champion": 69,
+	"base": 0,
+	"creator": "daka",
+	"description": "### DISCORD: sxrmss\n\n### DM IF SOMETHING BREAKS (or if you want to commission)\n# \n\n### Arbok as Cassiopeia from Pokemon\n#\nFEATURES:\n* Custom Animations\n* Custom VFX\n* CUSTOM Model\n* CUSTOM Icons\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/arbok-cassiopeia\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/arbok-cassiopeia/thumb.webp?v=646da6ad",
+	"file": {
+		"version": 1,
+		"asset": "arbok-cassiopeia-v1.fantome",
+		"size": 9746147,
+		"sha256": "b652f200e099c6532a69102eb9387ceed38fd69ec2df8aa897da7b2bb5bddc41"
+	},
+	"chromas": []
+}

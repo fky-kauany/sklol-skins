@@ -1,0 +1,26 @@
+{
+	"id": "arlecchino-kayn",
+	"name": "Arlecchino Kayn",
+	"champion": 141,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/arlecchino-kayn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/arlecchino-kayn/thumb.webp?v=bd384f75",
+	"file": {
+		"version": 1,
+		"asset": "arlecchino-kayn-v1.fantome",
+		"size": 33679650,
+		"sha256": "942e938049cbf830d1d7077d61e0049ab8b209b57b9f5a1bedf89702cb9a8039"
+	},
+	"chromas": []
+}

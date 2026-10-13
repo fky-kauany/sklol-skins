@@ -1,0 +1,26 @@
+{
+	"id": "arcade-yuumi",
+	"name": "Arcade Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### ARCADE YUUMI\nCustom skin for all the yuumi mains that has :\n- Custom Model\n- Custom VFX\n- Custom sounds\n- other few changes\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/arcade-yuumi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/arcade-yuumi/thumb.webp?v=7488efe4",
+	"file": {
+		"version": 1,
+		"asset": "arcade-yuumi-v1.fantome",
+		"size": 23879667,
+		"sha256": "ada534c40726a7df96aab6633d6a438834560745f17b404b7f99fe00ae75a836"
+	},
+	"chromas": []
+}

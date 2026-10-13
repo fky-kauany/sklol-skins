@@ -1,0 +1,26 @@
+{
+	"id": "aphelios-project",
+	"name": "Project",
+	"champion": 523,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Project Aphelios\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Aphelios skin\r\n• Custom Project Voiceover \r\n• Project SFX\r\n• Collab skin with Rose Alune\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/project-aphelios\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/aphelios-project/thumb.webp?v=acc58b94",
+	"file": {
+		"version": 1,
+		"asset": "aphelios-project-v1.fantome",
+		"size": 26649755,
+		"sha256": "1d5418bafc784c9821c08600ed02903c0cd85b2c9987b559c4edb7bdecad017c"
+	},
+	"chromas": []
+}

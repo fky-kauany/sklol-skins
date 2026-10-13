@@ -1,0 +1,26 @@
+{
+	"id": "ashe-archer",
+	"name": "Archer",
+	"champion": 22,
+	"base": 0,
+	"creator": "sirdexal",
+	"description": "Archer Ashe • Custom model • Custom Abilities\n\n---\n\n**Created by** [SirDexal](https://www.divineskins.gg/SirDexal)\n\n**Original:** https://www.divineskins.gg/SirDexal/archer-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ashe-archer/thumb.webp?v=d9a928dd",
+	"file": {
+		"version": 1,
+		"asset": "ashe-archer-v1.fantome",
+		"size": 49346378,
+		"sha256": "13abf23ce2f2c665262742f915f3d589fd0148589f620c22abe70065e4fb8ef1"
+	},
+	"chromas": []
+}
