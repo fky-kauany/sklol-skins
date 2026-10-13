@@ -1,0 +1,25 @@
+{
+	"id": "taliyah-toph",
+	"name": "Toph",
+	"champion": 163,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/toph-taliyah\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/taliyah-toph/thumb.webp?v=8802a869",
+	"file": {
+		"version": 1,
+		"asset": "taliyah-toph-v1.fantome",
+		"size": 7462385,
+		"sha256": "ad3e7f22754d23518ed513efe0cc982c570ab7279fdf8c091e0bae08f84563f7"
+	},
+	"chromas": []
+}

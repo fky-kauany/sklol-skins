@@ -1,0 +1,26 @@
+{
+	"id": "tainted-lost-zilean",
+	"name": "Tainted Lost Zilean",
+	"champion": 26,
+	"base": 0,
+	"creator": "drinfinito",
+	"description": "Turns Zilean into a soul who seems to be missing his Holy Mantle. (A card is close enough.)\n\nThis mod contains:\n- New model!\n- New SFX!\n- New HUD Icons!\n- (Kind of) New VO!\n\nCredits:\n- Isaac head from: https://models.spriters-resource.com/nintendo_switch/crystalcrisis/asset/322209/\n- Tail from: https://models.spriters-resource.com/browser_games/scoobydoogreatchase/asset/324366/\n\n---\n\n**Created by** [DrInfinito](https://www.divineskins.gg/DrInfinito)\n\n**Original:** https://www.divineskins.gg/DrInfinito/tainted-lost-zilean\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tainted-lost-zilean/thumb.webp?v=f9106ecb",
+	"file": {
+		"version": 1,
+		"asset": "tainted-lost-zilean-v1.fantome",
+		"size": 7776620,
+		"sha256": "ffe50a069a910b0774cf9a0766cab93a22998d266d8cee930fbf0399da791998"
+	},
+	"chromas": []
+}

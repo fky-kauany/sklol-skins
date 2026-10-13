@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:37:00.598Z",
+	"generatedAt": "2026-10-13T06:40:23.434Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -17523,6 +17523,260 @@
 				"asset": "syndra-yoshino-christmas-edition-v1.fantome",
 				"size": 10316304,
 				"sha256": "ab9cd4ac8e6f55a5b382e5aaee638e05ec09b48c5f8ee6e944bd8a1980062be0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "t1-ahri-hall-of-legends",
+			"name": "T1-Ahri Hall of Legends",
+			"champion": 103,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/t1-ahri-hall-of-legends/thumb.webp?v=bd03c355",
+			"file": {
+				"version": 1,
+				"asset": "t1-ahri-hall-of-legends-v1.fantome",
+				"size": 31395971,
+				"sha256": "58a7941728495817d72efac8662e3abf2b91051890df5e6aa57a408402acdee2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "t1-katarina",
+			"name": "T1 Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/t1-katarina/thumb.webp?v=8293ff5a",
+			"file": {
+				"version": 1,
+				"asset": "t1-katarina-v1.fantome",
+				"size": 44802559,
+				"sha256": "26881a360f43fb4d3d6e1ba1c35b507d60872f37724803b838e0b8c51e36b930"
+			},
+			"chromas": []
+		},
+		{
+			"id": "t1-talon-faker",
+			"name": "T1 Talon - Faker",
+			"champion": 91,
+			"base": 12,
+			"creator": "percyyw",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/t1-talon-faker/thumb.webp?v=460b24f7",
+			"file": {
+				"version": 1,
+				"asset": "t1-talon-faker-v1.modpkg",
+				"size": 11001802,
+				"sha256": "e8107a6f0e7550d4579c1a95483ded8e33fa4b718ebce2c69844674ac2aef93e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "taiki-shuttle-gangplank-from-uma-musume-pretty-d",
+			"name": "Taiki Shuttle Gangplank from Uma Musume Pretty Derby",
+			"champion": 41,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/taiki-shuttle-gangplank-from-uma-musume-pretty-d/thumb.webp?v=c1a3ac97",
+			"file": {
+				"version": 1,
+				"asset": "taiki-shuttle-gangplank-from-uma-musume-pretty-d-v1.fantome",
+				"size": 16337346,
+				"sha256": "7a69f86128f9537555dd6ff49316033f83e34e3b8a83ccc8c59f1c645393fdbf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "taiki-shuttle-samira-from-uma-musume",
+			"name": "Taiki Shuttle Samira from Uma Musume",
+			"champion": 360,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/taiki-shuttle-samira-from-uma-musume/thumb.webp?v=b75f485f",
+			"file": {
+				"version": 1,
+				"asset": "taiki-shuttle-samira-from-uma-musume-v1.fantome",
+				"size": 11525097,
+				"sha256": "0707d08b753c53edc3b083be611c4ae1806965be12e1e01c6472c99419c91ce1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tainted-lost-zilean",
+			"name": "Tainted Lost Zilean",
+			"champion": 26,
+			"base": 0,
+			"creator": "drinfinito",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tainted-lost-zilean/thumb.webp?v=f9106ecb",
+			"file": {
+				"version": 1,
+				"asset": "tainted-lost-zilean-v1.fantome",
+				"size": 7776620,
+				"sha256": "ffe50a069a910b0774cf9a0766cab93a22998d266d8cee930fbf0399da791998"
+			},
+			"chromas": []
+		},
+		{
+			"id": "taliyah-gaara",
+			"name": "Gaara",
+			"champion": 163,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/taliyah-gaara/thumb.webp?v=8cd8b2ef",
+			"file": {
+				"version": 1,
+				"asset": "taliyah-gaara-v1.fantome",
+				"size": 8545466,
+				"sha256": "cb15f7a382b73798e7c270594a08043be8ca3dca2229f2ec32862bf3884fca85"
+			},
+			"chromas": []
+		},
+		{
+			"id": "taliyah-setsuna",
+			"name": "Taliyah Setsuna",
+			"champion": 163,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/taliyah-setsuna/thumb.webp?v=2bbaa44d",
+			"file": {
+				"version": 1,
+				"asset": "taliyah-setsuna-v1.fantome",
+				"size": 25045962,
+				"sha256": "a6dd8ff7008f25ad31f44324fd5fb737496c6f75e4ba703e541fee473a0def84"
+			},
+			"chromas": []
+		},
+		{
+			"id": "taliyah-toph",
+			"name": "Toph",
+			"champion": 163,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/taliyah-toph/thumb.webp?v=8802a869",
+			"file": {
+				"version": 1,
+				"asset": "taliyah-toph-v1.fantome",
+				"size": 7462385,
+				"sha256": "ad3e7f22754d23518ed513efe0cc982c570ab7279fdf8c091e0bae08f84563f7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-adidas",
+			"name": "Adidas",
+			"champion": 91,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/talon-adidas/thumb.webp?v=951bf917",
+			"file": {
+				"version": 1,
+				"asset": "talon-adidas-v1.fantome",
+				"size": 4073754,
+				"sha256": "0e0515ffb3bbc3bca6d1655edb0ad6264bac92d8694ddc960437de9c3d8a63a3"
 			},
 			"chromas": []
 		},

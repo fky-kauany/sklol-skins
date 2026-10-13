@@ -1,0 +1,25 @@
+{
+	"id": "t1-katarina",
+	"name": "T1 Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2070006641412432299?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Katarina\n* Skin: Default/Chosen of the Wolf Katarina\n* Description: Model Swap from T1 MissFortune to Katarina + Custom VFX\n\n# Features\n\n* Recolored Abilities to golden\n* Custom Model\n* Custom VFX\n\n# ![](https://i.imgur.com/uPPSWQm.gif)\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/t1-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/t1-katarina/thumb.webp?v=8293ff5a",
+	"file": {
+		"version": 1,
+		"asset": "t1-katarina-v1.fantome",
+		"size": 44802559,
+		"sha256": "26881a360f43fb4d3d6e1ba1c35b507d60872f37724803b838e0b8c51e36b930"
+	},
+	"chromas": []
+}

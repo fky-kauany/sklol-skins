@@ -1,0 +1,23 @@
+{
+	"id": "talon-adidas",
+	"name": "Adidas",
+	"champion": 91,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": ".\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/adidas-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/talon-adidas/thumb.webp?v=951bf917",
+	"file": {
+		"version": 1,
+		"asset": "talon-adidas-v1.fantome",
+		"size": 4073754,
+		"sha256": "0e0515ffb3bbc3bca6d1655edb0ad6264bac92d8694ddc960437de9c3d8a63a3"
+	},
+	"chromas": []
+}

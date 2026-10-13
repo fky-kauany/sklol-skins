@@ -1,0 +1,26 @@
+{
+	"id": "t1-talon-faker",
+	"name": "T1 Talon - Faker",
+	"champion": 91,
+	"base": 12,
+	"creator": "percyyw",
+	"description": "- Modified Skin = Enduring Sword Talon\r\n\r\n- Author = Perseus\r\n\r\n- Features:\r\n\r\n   Custom Ability Icons\r\n\r\n   Custom Loading Screen Banner\r\n\r\n   Custom VFX And More\r\n\r\n- If any bug or error happens you can contact me on discord = percyyw\n\n---\n\n**Created by** [Percyyw](https://www.divineskins.gg/Percyyw)\n\n**Original:** https://www.divineskins.gg/Percyyw/t1-talon-faker\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/t1-talon-faker/thumb.webp?v=460b24f7",
+	"file": {
+		"version": 1,
+		"asset": "t1-talon-faker-v1.modpkg",
+		"size": 11001802,
+		"sha256": "e8107a6f0e7550d4579c1a95483ded8e33fa4b718ebce2c69844674ac2aef93e"
+	},
+	"chromas": []
+}

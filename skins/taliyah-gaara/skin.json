@@ -1,0 +1,25 @@
+{
+	"id": "taliyah-gaara",
+	"name": "Gaara",
+	"champion": 163,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gaara-taliyah\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/taliyah-gaara/thumb.webp?v=8cd8b2ef",
+	"file": {
+		"version": 1,
+		"asset": "taliyah-gaara-v1.fantome",
+		"size": 8545466,
+		"sha256": "cb15f7a382b73798e7c270594a08043be8ca3dca2229f2ec32862bf3884fca85"
+	},
+	"chromas": []
+}

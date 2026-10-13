@@ -1,0 +1,26 @@
+{
+	"id": "taliyah-setsuna",
+	"name": "Taliyah Setsuna",
+	"champion": 163,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 SETSUNA 」\n### *Replaces Taliyah*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/taliyah-setsuna\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/taliyah-setsuna/thumb.webp?v=2bbaa44d",
+	"file": {
+		"version": 1,
+		"asset": "taliyah-setsuna-v1.fantome",
+		"size": 25045962,
+		"sha256": "a6dd8ff7008f25ad31f44324fd5fb737496c6f75e4ba703e541fee473a0def84"
+	},
+	"chromas": []
+}

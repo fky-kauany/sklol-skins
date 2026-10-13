@@ -1,0 +1,26 @@
+{
+	"id": "t1-ahri-hall-of-legends",
+	"name": "T1-Ahri Hall of Legends",
+	"champion": 103,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/t1-ahri-hall-of-legends\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/t1-ahri-hall-of-legends/thumb.webp?v=bd03c355",
+	"file": {
+		"version": 1,
+		"asset": "t1-ahri-hall-of-legends-v1.fantome",
+		"size": 31395971,
+		"sha256": "58a7941728495817d72efac8662e3abf2b91051890df5e6aa57a408402acdee2"
+	},
+	"chromas": []
+}
