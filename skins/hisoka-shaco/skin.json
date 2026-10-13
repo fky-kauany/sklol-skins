@@ -1,0 +1,26 @@
+{
+	"id": "hisoka-shaco",
+	"name": "Hisoka Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "disco",
+	"description": "2nd skin I ever made reupload\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/hisoka-shaco\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hisoka-shaco/thumb.webp?v=d498cbc3",
+	"file": {
+		"version": 1,
+		"asset": "hisoka-shaco-v1.fantome",
+		"size": 9172245,
+		"sha256": "7a18fc0c4bc92029dcf8e034fc301c82a51c3f6c1a223e3d1f1b0549f12d517d"
+	},
+	"chromas": []
+}

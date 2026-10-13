@@ -1,0 +1,26 @@
+{
+	"id": "houndoom-naafiri",
+	"name": "Houndoom Naafiri",
+	"champion": 950,
+	"base": 0,
+	"creator": "thicario",
+	"description": "## Houndoom Naafiri Features\r\n- New Model (Naafiri as Houndoom and Packmates as Houndour)\r\n- Custom VFX\r\n- Custom SFX\r\n- **Mega Evolve on W**\r\n\r\n\r\n\r\n### !!Disclaimer!!\r\nThis is still a somewhat unfinished skin, the model clipping issues will be addressed in future updates once I have the time. Until then, i hope you can still enjoy the skin.\n\n---\n\n**Created by** [Thicario](https://www.divineskins.gg/Thicario)\n\n**Original:** https://www.divineskins.gg/Thicario/houndoom-naafiri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/houndoom-naafiri/thumb.webp?v=d00b6542",
+	"file": {
+		"version": 1,
+		"asset": "houndoom-naafiri-v1.fantome",
+		"size": 11045490,
+		"sha256": "886475e6933a6cd6804825a77fc5ca8758baf70b309684a1e4e2b9c580009e37"
+	},
+	"chromas": []
+}

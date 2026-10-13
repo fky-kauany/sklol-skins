@@ -1,0 +1,26 @@
+{
+	"id": "hololive-mori-calliope-darius",
+	"name": "Hololive Mori Calliope - Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "kesa",
+	"description": "---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/hololive-mori-calliope-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hololive-mori-calliope-darius/thumb.webp?v=7d810d1f",
+	"file": {
+		"version": 1,
+		"asset": "hololive-mori-calliope-darius-v1.fantome",
+		"size": 10917701,
+		"sha256": "a97ecb62e0693c67c261feed743a8ec925918b4ca81ab253a84385f35f9a3ae9"
+	},
+	"chromas": []
+}

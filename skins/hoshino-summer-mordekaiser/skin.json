@@ -1,0 +1,26 @@
+{
+	"id": "hoshino-summer-mordekaiser",
+	"name": "Hoshino Summer Mordekaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Author is lazy to add hud and loading screen icon so wait idk a day a week or smt\n\n---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/hoshino-summer-mordekaiser\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hoshino-summer-mordekaiser/thumb.webp?v=3c002e07",
+	"file": {
+		"version": 1,
+		"asset": "hoshino-summer-mordekaiser-v1.fantome",
+		"size": 72925930,
+		"sha256": "23f5ede982e301872071353823a10c509667b8423c8ee057e4c5735dd8e54fdb"
+	},
+	"chromas": []
+}

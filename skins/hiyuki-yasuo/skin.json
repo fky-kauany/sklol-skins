@@ -1,0 +1,26 @@
+{
+	"id": "hiyuki-yasuo",
+	"name": "Hiyuki Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Note\r\n\r\n* There's also a version without the snowfall effect after using the Ultimate. You can find it in the Download section\r\n\r\n\r\n## Skin information\r\n\r\n* Champion: Yasuo\r\n* Modified skin: Default\r\n* Author: Konari Lab Ch. 白夜こなり\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* New voiceover\r\n\r\n## Credits\r\n\r\n* Special Thanks 是黑夜鸭, [-Shinon-](https://www.youtube.com/channel/UCMjGbk98oZ9xUFbcDZGNY9A) for new version of VO.\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari](https://www.divineskins.gg/Konari)\n\n**Original:** https://www.divineskins.gg/Konari/hiyuki-yasuo\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hiyuki-yasuo/thumb.webp?v=421c926f",
+	"file": {
+		"version": 1,
+		"asset": "hiyuki-yasuo-v1.fantome",
+		"size": 30098268,
+		"sha256": "e859ab2e642b6f1c1f4c58d973898166dbad009892e7d1d18147ed47eb1a5025"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T03:21:29.884Z",
+	"generatedAt": "2026-10-13T03:24:52.573Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -516,6 +516,11 @@
 			"name": "Tanaa",
 			"avatar": "creators/tanaa.webp?v=a5946f9b",
 			"bio": "COMMISSIONS: @tanaaxd on discord",
+			"links": {}
+		},
+		"thicario": {
+			"name": "Thicario",
+			"avatar": "creators/thicario.webp?v=79dfe51d",
 			"links": {}
 		},
 		"thoxainn": {
@@ -2298,6 +2303,264 @@
 				"asset": "hina-yone-blue-archive-v1.fantome",
 				"size": 26747339,
 				"sha256": "d0eb896719ea474b43d57cde1c99c7b2328f0278f948a46d90207a2d71699ee5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hisoka-shaco",
+			"name": "Hisoka Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hisoka-shaco/thumb.webp?v=d498cbc3",
+			"file": {
+				"version": 1,
+				"asset": "hisoka-shaco-v1.fantome",
+				"size": 9172245,
+				"sha256": "7a18fc0c4bc92029dcf8e034fc301c82a51c3f6c1a223e3d1f1b0549f12d517d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hitsugaya-toshiro-talon-from-bleach",
+			"name": "Hitsugaya Toshiro Talon from Bleach",
+			"champion": 91,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hitsugaya-toshiro-talon-from-bleach/thumb.webp?v=18244a95",
+			"file": {
+				"version": 1,
+				"asset": "hitsugaya-toshiro-talon-from-bleach-v1.fantome",
+				"size": 15381565,
+				"sha256": "9f8fbe4e18f37e25a1e69ee487ee1225ae716f70eb0befe607687f4b84de37c4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hiyuki-yasuo",
+			"name": "Hiyuki Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hiyuki-yasuo/thumb.webp?v=421c926f",
+			"file": {
+				"version": 1,
+				"asset": "hiyuki-yasuo-v1.fantome",
+				"size": 30098268,
+				"sha256": "e859ab2e642b6f1c1f4c58d973898166dbad009892e7d1d18147ed47eb1a5025"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hollow-knight-yone",
+			"name": "Hollow Knight Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hollow-knight-yone/thumb.webp?v=897de265",
+			"file": {
+				"version": 1,
+				"asset": "hollow-knight-yone-v1.fantome",
+				"size": 26980161,
+				"sha256": "89e99995d0316475d265ba247a70803a00259364fc97c91b58911ab1978f933b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-mori-calliope-darius",
+			"name": "Hololive Mori Calliope - Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hololive-mori-calliope-darius/thumb.webp?v=7d810d1f",
+			"file": {
+				"version": 1,
+				"asset": "hololive-mori-calliope-darius-v1.fantome",
+				"size": 10917701,
+				"sha256": "a97ecb62e0693c67c261feed743a8ec925918b4ca81ab253a84385f35f9a3ae9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "holy-rengar",
+			"name": "Holy Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/holy-rengar/thumb.webp?v=180049d1",
+			"file": {
+				"version": 1,
+				"asset": "holy-rengar-v1.fantome",
+				"size": 10979070,
+				"sha256": "91429dc51acd411a3022a6d2c9d38b57f9a9e6aba6fee2a662b4ed8b2f7fa9e5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "holy-yone",
+			"name": "Holy Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/holy-yone/thumb.webp?v=d0d16574",
+			"file": {
+				"version": 1,
+				"asset": "holy-yone-v1.fantome",
+				"size": 16536238,
+				"sha256": "5d582d4a3126feaf215fcd95a4e8c257597e933b74e1eee4b5afcbffc9730d7f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hoshimimiyabi-irelia",
+			"name": "HoshimiMiyabi Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hoshimimiyabi-irelia/thumb.webp?v=58ce9839",
+			"file": {
+				"version": 1,
+				"asset": "hoshimimiyabi-irelia-v1.fantome",
+				"size": 25291190,
+				"sha256": "5065a3808a66f58ac493a28b81836727db10b3912c6c818c3986bb0ef9af101d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hoshino-summer-mordekaiser",
+			"name": "Hoshino Summer Mordekaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/hoshino-summer-mordekaiser/thumb.webp?v=3c002e07",
+			"file": {
+				"version": 1,
+				"asset": "hoshino-summer-mordekaiser-v1.fantome",
+				"size": 72925930,
+				"sha256": "23f5ede982e301872071353823a10c509667b8423c8ee057e4c5735dd8e54fdb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "houndoom-naafiri",
+			"name": "Houndoom Naafiri",
+			"champion": 950,
+			"base": 0,
+			"creator": "thicario",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/houndoom-naafiri/thumb.webp?v=d00b6542",
+			"file": {
+				"version": 1,
+				"asset": "houndoom-naafiri-v1.fantome",
+				"size": 11045490,
+				"sha256": "886475e6933a6cd6804825a77fc5ca8758baf70b309684a1e4e2b9c580009e37"
 			},
 			"chromas": []
 		},

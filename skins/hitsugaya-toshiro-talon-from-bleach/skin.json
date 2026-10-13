@@ -1,0 +1,26 @@
+{
+	"id": "hitsugaya-toshiro-talon-from-bleach",
+	"name": "Hitsugaya Toshiro Talon from Bleach",
+	"champion": 91,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# Hitsugaya Toshiro Talon from Bleach :\n---\n\n> *\"Daiguren Hyorinmaru!\"*\n\n## ⚙️ Skin Information\n\n* **Modified Skin:** All\n* **Character Quality**: All\n* **Language**: en_US\n* **Author:** Davex\n\n---\n\n## 💫 Features:\n\n- ✨ New Custom Model\n- 🎨 New Custom Textures\n- 💥 New Custom VFX\n- 🔊 New Custom SFX\n- 🏃🏻‍♀️ New Custom Animations\n- 👤 New Champion Icons\n- 🖼️ New Loading Screen\n\n---\n\n## 💬 Contact & Support\n\nAny suggestions, ideas, questions, or bug reports? Send them over!\n* **Discord:** davex45a **[Come join my server!](https://discord.gg/XDF5Xma456)**\n* **YouTube Preview:** [Watch here!](https://www.youtube.com/watch?v=1nXvaxSM27Q)\n**If you are interested in commissioning a skin, feel free to send me a DM on Discord! :D**\n\n💖 *If you like my work and want to keep my creativity flowing, consider supporting me!*\n\n[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davex45)\n\n*Originally created by Davex.*\n\n---\n\n## 🙏🏻 Credits:\n\nBig thanks to Dekia for commissioning <3\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/hitsugaya-toshiro-talon-from-bleach\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hitsugaya-toshiro-talon-from-bleach/thumb.webp?v=18244a95",
+	"file": {
+		"version": 1,
+		"asset": "hitsugaya-toshiro-talon-from-bleach-v1.fantome",
+		"size": 15381565,
+		"sha256": "9f8fbe4e18f37e25a1e69ee487ee1225ae716f70eb0befe607687f4b84de37c4"
+	},
+	"chromas": []
+}

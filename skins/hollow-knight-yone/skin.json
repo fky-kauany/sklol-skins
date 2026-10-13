@@ -1,0 +1,25 @@
+{
+	"id": "hollow-knight-yone",
+	"name": "Hollow Knight Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "I made this one a long while ago but never posted here, and since I'm slightly more active here now that I'm getting used to the new tool I'm posting (some) of my mods here\n\nThis one has:\n- \n- Custom model\n- Custom VO (muted + changed death line)\n- Custom VFX\n- Custom SFX\n- Custom Dance Music\n\nWill maybe do some more HK later, kinda on a Deltarune/Isaac streak for now but who knows maybe a certain team of cherry comes arround with a DLC and I dive back there to mod some more champs.\n\nHope you have fun with the lanky bug thing I did xd\n\n---\n\n**Created by** [ShrimpBack](https://www.divineskins.gg/ShrimpBack)\n\n**Original:** https://www.divineskins.gg/ShrimpBack/hollow-knight-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hollow-knight-yone/thumb.webp?v=897de265",
+	"file": {
+		"version": 1,
+		"asset": "hollow-knight-yone-v1.fantome",
+		"size": 26980161,
+		"sha256": "89e99995d0316475d265ba247a70803a00259364fc97c91b58911ab1978f933b"
+	},
+	"chromas": []
+}

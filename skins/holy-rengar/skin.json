@@ -1,0 +1,25 @@
+{
+	"id": "holy-rengar",
+	"name": "Holy Rengar",
+	"champion": 107,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:** Champion Mod\n**Modified Skin(s):** All Rengar Skins\n\n### ? Credits\n\n**Model(s):** Thanks to aryas for letting me take high noon rengar remodel\n**Special Thanks:**\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord\n\n### ? Support Me\n\nEnjoyed the mod?\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/holy-rengar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/holy-rengar/thumb.webp?v=180049d1",
+	"file": {
+		"version": 1,
+		"asset": "holy-rengar-v1.fantome",
+		"size": 10979070,
+		"sha256": "91429dc51acd411a3022a6d2c9d38b57f9a9e6aba6fee2a662b4ed8b2f7fa9e5"
+	},
+	"chromas": []
+}
