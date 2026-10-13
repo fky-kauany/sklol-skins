@@ -1,0 +1,26 @@
+{
+	"id": "draven-goku-black",
+	"name": "Goku Black",
+	"champion": 119,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/goku-black-draven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/draven-goku-black/thumb.webp?v=ca5222cc",
+	"file": {
+		"version": 1,
+		"asset": "draven-goku-black-v1.fantome",
+		"size": 27285055,
+		"sha256": "4d2220318c13396d073181e4739a76a8542e8c6260694203accbcf3fc3158dd4"
+	},
+	"chromas": []
+}

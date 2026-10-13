@@ -1,0 +1,26 @@
+{
+	"id": "dunkmaster-draven",
+	"name": "Dunkmaster Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "adm1",
+	"description": "Dunkmaster Draven\n\nFeatures:\n- Custom made model\n- Custom 20+ animations\n- Custom splash art ( I tried )\n\n\n*no ai*\n\n---\n\n**Created by** [adm1](https://www.divineskins.gg/adm1)\n\n**Original:** https://www.divineskins.gg/adm1/dunkmaster-draven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dunkmaster-draven/thumb.webp?v=dd016dcf",
+	"file": {
+		"version": 1,
+		"asset": "dunkmaster-draven-v1.fantome",
+		"size": 6380693,
+		"sha256": "1c60a81eda24cc35df13c94da6265ef343af1bff4f5cf787a8f879575f58314a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "dva-lucian",
+	"name": "DVa Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : DVa Lucian\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.2.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/dva-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/dva-lucian/thumb.webp?v=0442ddaf",
+	"file": {
+		"version": 1,
+		"asset": "dva-lucian-v1.fantome",
+		"size": 30229876,
+		"sha256": "474457c530b3aebc3825ba0d451f8d6636305175d625fc72da03fc318a57c94c"
+	},
+	"chromas": []
+}

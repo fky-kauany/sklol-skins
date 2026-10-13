@@ -1,0 +1,24 @@
+{
+	"id": "durandal-leona",
+	"name": "Durandal Leona",
+	"champion": 89,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Durandal Leona\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/durandal-leona\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/durandal-leona/thumb.webp?v=651fa29f",
+	"file": {
+		"version": 1,
+		"asset": "durandal-leona-v1.fantome",
+		"size": 7770540,
+		"sha256": "342cd2bc0f639f764ae32cbd394741241ec3472010e7bf258d439753bf783075"
+	},
+	"chromas": []
+}

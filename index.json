@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:16:51.157Z",
+	"generatedAt": "2026-10-13T02:21:41.448Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16,6 +16,14 @@
 			"bio": "hello everyone! im rachel (or 1gem1 depending on what you wanna call me) and i love making custom skins!\n\nyou can find me via: (most active to least)\n\n• discord - 1gem1\n• my custom skins discord\n• runeforge over here\n• twitter/x - here\n• kofi - here\n• league (EUW) - 1gem1#EUW\n\nif anything breaks, you wanna ask me any questions, or you'd like info on commissioning me, hmu on any of these !!",
 			"links": {
 				"discord": "https://discord.gg/6MTrrVbwgm"
+			}
+		},
+		"adm1": {
+			"name": "adm1",
+			"avatar": "creators/adm1.webp?v=994caa81",
+			"bio": "Making skins, games, music.",
+			"links": {
+				"x": "https://x.com/3dd3v"
 			}
 		},
 		"agavuurha": {
@@ -9041,6 +9049,263 @@
 				"asset": "dr-mundo-push-sfx-v1.fantome",
 				"size": 2397395,
 				"sha256": "ea4779e2b9c12335a4dd8c93af3a3ac020e4349abd914701d6c826f88a594ca8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "draven-frat-leader",
+			"name": "Draven Frat leader",
+			"champion": 119,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/draven-frat-leader/thumb.webp?v=d6deb357",
+			"file": {
+				"version": 1,
+				"asset": "draven-frat-leader-v1.fantome",
+				"size": 5934314,
+				"sha256": "9d919c6363f4b0daf6ad0631c3c0dff8ffd4293c1bcfdb5bac8ef62221c1dea8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "draven-goku-black",
+			"name": "Goku Black",
+			"champion": 119,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/draven-goku-black/thumb.webp?v=ca5222cc",
+			"file": {
+				"version": 1,
+				"asset": "draven-goku-black-v1.fantome",
+				"size": 27285055,
+				"sha256": "4d2220318c13396d073181e4739a76a8542e8c6260694203accbcf3fc3158dd4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "draven-jinx",
+			"name": "Jinx",
+			"champion": 119,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/draven-jinx/thumb.webp?v=cdeca482",
+			"file": {
+				"version": 1,
+				"asset": "draven-jinx-v1.fantome",
+				"size": 14974219,
+				"sha256": "73af9fe2dd6e0a9b622a8401ec7424edf1c9c3c11b3a89069719228cca839eb3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "draven-sukuna-cyan",
+			"name": "Sukuna Cyan",
+			"champion": 119,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/draven-sukuna-cyan/thumb.webp?v=8e475d35",
+			"file": {
+				"version": 1,
+				"asset": "draven-sukuna-cyan-v1.fantome",
+				"size": 12929140,
+				"sha256": "5409783e3b4a7b126c34973fabb59d07e59b7a787d536201ac765a9121a9f305"
+			},
+			"chromas": []
+		},
+		{
+			"id": "drx-twisted-fate-female",
+			"name": "DRX Twisted Fate (female)",
+			"champion": 4,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/drx-twisted-fate-female/thumb.webp?v=ed6fccfd",
+			"file": {
+				"version": 1,
+				"asset": "drx-twisted-fate-female-v1.fantome",
+				"size": 10108154,
+				"sha256": "eed3ef7f73697dc195ae39f2b8c28a0b1b76b52db8d65b1b4efd8b9a74d9a340"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dunkmaster-draven",
+			"name": "Dunkmaster Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "adm1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dunkmaster-draven/thumb.webp?v=dd016dcf",
+			"file": {
+				"version": 1,
+				"asset": "dunkmaster-draven-v1.fantome",
+				"size": 6380693,
+				"sha256": "1c60a81eda24cc35df13c94da6265ef343af1bff4f5cf787a8f879575f58314a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "durandal-leona",
+			"name": "Durandal Leona",
+			"champion": 89,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/durandal-leona/thumb.webp?v=651fa29f",
+			"file": {
+				"version": 1,
+				"asset": "durandal-leona-v1.fantome",
+				"size": 7770540,
+				"sha256": "342cd2bc0f639f764ae32cbd394741241ec3472010e7bf258d439753bf783075"
+			},
+			"chromas": []
+		},
+		{
+			"id": "durandal-rell",
+			"name": "Durandal‌ Rell",
+			"champion": 526,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/durandal-rell/thumb.webp?v=60769f9a",
+			"file": {
+				"version": 1,
+				"asset": "durandal-rell-v1.fantome",
+				"size": 19216531,
+				"sha256": "243c39ac271d4d57db746d4015122870d33c843a419b0bd3723c4c00f0b38597"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dva-lucian",
+			"name": "DVa Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/dva-lucian/thumb.webp?v=0442ddaf",
+			"file": {
+				"version": 1,
+				"asset": "dva-lucian-v1.fantome",
+				"size": 30229876,
+				"sha256": "474457c530b3aebc3825ba0d451f8d6636305175d625fc72da03fc318a57c94c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "echidna-leblanc",
+			"name": "Echidna LeBlanc",
+			"champion": 7,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/echidna-leblanc/thumb.webp?v=68d67ba2",
+			"file": {
+				"version": 1,
+				"asset": "echidna-leblanc-v1.fantome",
+				"size": 13806135,
+				"sha256": "1fa6469492385723a997b596b430c07f96610e48a34ad6fda1d038d081706454"
 			},
 			"chromas": []
 		},

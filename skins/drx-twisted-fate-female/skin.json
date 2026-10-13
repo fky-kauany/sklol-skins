@@ -1,0 +1,26 @@
+{
+	"id": "drx-twisted-fate-female",
+	"name": "DRX Twisted Fate (female)",
+	"champion": 4,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/drx-twisted-fate-female\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/drx-twisted-fate-female/thumb.webp?v=ed6fccfd",
+	"file": {
+		"version": 1,
+		"asset": "drx-twisted-fate-female-v1.fantome",
+		"size": 10108154,
+		"sha256": "eed3ef7f73697dc195ae39f2b8c28a0b1b76b52db8d65b1b4efd8b9a74d9a340"
+	},
+	"chromas": []
+}

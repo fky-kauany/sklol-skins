@@ -1,0 +1,26 @@
+{
+	"id": "draven-frat-leader",
+	"name": "Draven Frat leader",
+	"champion": 119,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "Frat leader Draven is a skin from the looksmaxxing community for Chad Draven players who arent afraid to 1v5\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/draven-frat-leader\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/draven-frat-leader/thumb.webp?v=d6deb357",
+	"file": {
+		"version": 1,
+		"asset": "draven-frat-leader-v1.fantome",
+		"size": 5934314,
+		"sha256": "9d919c6363f4b0daf6ad0631c3c0dff8ffd4293c1bcfdb5bac8ef62221c1dea8"
+	},
+	"chromas": []
+}

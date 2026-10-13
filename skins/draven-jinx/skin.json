@@ -1,0 +1,26 @@
+{
+	"id": "draven-jinx",
+	"name": "Jinx",
+	"champion": 119,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/jinx-draven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/draven-jinx/thumb.webp?v=cdeca482",
+	"file": {
+		"version": 1,
+		"asset": "draven-jinx-v1.fantome",
+		"size": 14974219,
+		"sha256": "73af9fe2dd6e0a9b622a8401ec7424edf1c9c3c11b3a89069719228cca839eb3"
+	},
+	"chromas": []
+}
