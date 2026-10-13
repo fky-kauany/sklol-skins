@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:09:45.420Z",
+	"generatedAt": "2026-10-13T07:13:03.972Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -20065,6 +20065,263 @@
 				"asset": "usopp-caitlyn-v1.fantome",
 				"size": 23099337,
 				"sha256": "9e60def89d1fd6059bc0a8fbaaa357bc890042b0eecb8ea29e135cdaad950661"
+			},
+			"chromas": []
+		},
+		{
+			"id": "va11-hall-a-dana-vayne",
+			"name": "VA11 HALL-A DANA VAYNE",
+			"champion": 67,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/va11-hall-a-dana-vayne/thumb.webp?v=a542b61e",
+			"file": {
+				"version": 1,
+				"asset": "va11-hall-a-dana-vayne-v1.fantome",
+				"size": 12066181,
+				"sha256": "460d83d697a5ea950bab152e9938b81614bc7e5776e1677717b015ee72ee8dbb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "valiant-yamakaze-yone",
+			"name": "Valiant Yamakaze Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/valiant-yamakaze-yone/thumb.webp?v=aa6c2c70",
+			"file": {
+				"version": 1,
+				"asset": "valiant-yamakaze-yone-v1.fantome",
+				"size": 7810404,
+				"sha256": "16edbaeadadad96b438c725944a7d595f50b5971394688427206bd6e896773cc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "valkyrie-boltstorm-helia-lucian",
+			"name": "Valkyrie Boltstorm Helia - Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "s0jaku",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/valkyrie-boltstorm-helia-lucian/thumb.webp?v=5d2c3596",
+			"file": {
+				"version": 1,
+				"asset": "valkyrie-boltstorm-helia-lucian-v1.fantome",
+				"size": 13928729,
+				"sha256": "a4d94eb2071ab150a8e90a07d2771107f67706eadfe77ce61c9381c8eac54ae9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "valkyrie-corki",
+			"name": "Valkyrie Corki",
+			"champion": 42,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/valkyrie-corki/thumb.webp?v=63e38db3",
+			"file": {
+				"version": 1,
+				"asset": "valkyrie-corki-v1.fantome",
+				"size": 6970952,
+				"sha256": "a7fdcf21d30f6e6c0cacada6f7e701b0d658447941c9586b1a92389ec2d4b826"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vash-stampede-lucian",
+			"name": "Vash Stampede Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vash-stampede-lucian/thumb.webp?v=1955cd4f",
+			"file": {
+				"version": 1,
+				"asset": "vash-stampede-lucian-v1.fantome",
+				"size": 26346071,
+				"sha256": "25e29263c8e5b11e6a27e61d7f2a08dc7b127a693e65868b0aeef59d2de65e92"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vayne-stormtrooper",
+			"name": "Stormtrooper",
+			"champion": 67,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vayne-stormtrooper/thumb.webp?v=87be77a1",
+			"file": {
+				"version": 1,
+				"asset": "vayne-stormtrooper-v1.fantome",
+				"size": 34313740,
+				"sha256": "306e8ec48f8156f7daee5e3a02feafa55b346eedcfd87771998c4aaa904bce5b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vayne-vampire-demon-hunter",
+			"name": "Vayne Vampire Demon Hunter",
+			"champion": 67,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vayne-vampire-demon-hunter/thumb.webp?v=1402da9f",
+			"file": {
+				"version": 1,
+				"asset": "vayne-vampire-demon-hunter-v1.fantome",
+				"size": 28146609,
+				"sha256": "9a83af605db685443e1c005a9ad505f9d4ef62d9a6945dc1aac5fcc5548f82ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vector-man-ezreal",
+			"name": "Vector man ezreal",
+			"champion": 81,
+			"base": 74,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vector-man-ezreal/thumb.webp?v=252bd807",
+			"file": {
+				"version": 1,
+				"asset": "vector-man-ezreal-v1.fantome",
+				"size": 1461449,
+				"sha256": "3393deaebd8a58532d92b73d66e46bfc28f2c7076e854f2d1ae8f41d29c8310f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "veigar-vegeta",
+			"name": "Vegeta",
+			"champion": 45,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/veigar-vegeta/thumb.webp?v=9a820a5f",
+			"file": {
+				"version": 1,
+				"asset": "veigar-vegeta-v1.fantome",
+				"size": 18177809,
+				"sha256": "d031678c60d76ff89f7d48d958fa204c785cc29e95767792d1d1fe30d0d5f3c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vel-koz-choso",
+			"name": "Choso",
+			"champion": 161,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/vel-koz-choso/thumb.webp?v=3b1dfb91",
+			"file": {
+				"version": 1,
+				"asset": "vel-koz-choso-v1.fantome",
+				"size": 8039484,
+				"sha256": "f8351d77b91bc95943a1cfcab8214aad0968f1b20fd448d88f6d4662ad5e5020"
 			},
 			"chromas": []
 		},

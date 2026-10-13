@@ -1,0 +1,24 @@
+{
+	"id": "vector-man-ezreal",
+	"name": "Vector man ezreal",
+	"champion": 81,
+	"base": 74,
+	"creator": "mojkqueira",
+	"description": "\"all right :D\"\n\n***\n\n**Modified champion: Ezreal**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n**the other 3d model made by:** CaliKingz01\n\n3d model made by: [Vipes](https://steamcommunity.com/sharedfiles/filedetails/?id=291531764)\n\nctrl+1 of the model: [Suroguner](https://steamcommunity.com/sharedfiles/filedetails/?id=139817395\\&searchtext=vectorman)\n\nSEGA is the creators\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/vector-man-ezreal\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vector-man-ezreal/thumb.webp?v=252bd807",
+	"file": {
+		"version": 1,
+		"asset": "vector-man-ezreal-v1.fantome",
+		"size": 1461449,
+		"sha256": "3393deaebd8a58532d92b73d66e46bfc28f2c7076e854f2d1ae8f41d29c8310f"
+	},
+	"chromas": []
+}

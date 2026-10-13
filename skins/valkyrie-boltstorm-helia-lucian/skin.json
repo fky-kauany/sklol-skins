@@ -1,0 +1,26 @@
+{
+	"id": "valkyrie-boltstorm-helia-lucian",
+	"name": "Valkyrie Boltstorm Helia - Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "### 📌 Mod Info\n\n- Model : Valkyrie Boltstorm Helia from Honkai Impact 3rd\n- Champion : Lucian \n- Works On : Default\n- Voice Over : No\n\n![Erdős Helia](https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a2/%E8%B5%AB%E4%B8%BD%E5%A8%85-%E5%8F%AF%E9%9D%A0_%28Miyoushe%29.png/revision/latest?cb=20240706190941)\n\n### 💬 Additional Info\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\n\n### 💖 Support Me\nEnjoyed the mod? Help fuel future projects: \n\nhttps://ko-fi.com/s0jaku\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/helia-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/valkyrie-boltstorm-helia-lucian/thumb.webp?v=5d2c3596",
+	"file": {
+		"version": 1,
+		"asset": "valkyrie-boltstorm-helia-lucian-v1.fantome",
+		"size": 13928729,
+		"sha256": "a4d94eb2071ab150a8e90a07d2771107f67706eadfe77ce61c9381c8eac54ae9"
+	},
+	"chromas": []
+}

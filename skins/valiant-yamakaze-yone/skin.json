@@ -1,0 +1,25 @@
+{
+	"id": "valiant-yamakaze-yone",
+	"name": "Valiant Yamakaze Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\n\n* Champion: Yone\n* Modified skin: Default\n* Author: Konari Lab Ch. 白夜こなり\n\n## Specifications\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n\n\n## Known issues\n\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\n---\n💬 **Join Moonlit Night!**\nClick the banner below to join. Report bugs directly, and hang out with other players!\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\n---\n\n---\n\n**Created by** [Konari](https://www.divineskins.gg/Konari)\n\n**Original:** https://www.divineskins.gg/Konari/valiant-yamakaze-yone\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/valiant-yamakaze-yone/thumb.webp?v=aa6c2c70",
+	"file": {
+		"version": 1,
+		"asset": "valiant-yamakaze-yone-v1.fantome",
+		"size": 7810404,
+		"sha256": "16edbaeadadad96b438c725944a7d595f50b5971394688427206bd6e896773cc"
+	},
+	"chromas": []
+}

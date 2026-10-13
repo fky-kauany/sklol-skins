@@ -1,0 +1,26 @@
+{
+	"id": "va11-hall-a-dana-vayne",
+	"name": "VA11 HALL-A DANA VAYNE",
+	"champion": 67,
+	"base": 0,
+	"creator": "hatstore",
+	"description": "### **DISCORD: @economic_crisis** \r\n### **DM IF SOMETHING BREAKS** (or if you want to commission) \r\n*** \r\n## MOD INFORMATION: \r\nChampion: Vayne\r\nModified skin: base \r\nAuthor: me \r\n## \r\nFEATURES: \r\n* THE GAME\r\n* YOUR BREATHING IS MANUAL\r\n* YOUR BLINKING IS ALSO MANUAL\r\n* YOUR IMMUNE SYSTEM HAS FOUND YOUR EYES\r\n* THERE ARE BUGS UNDER YOUR SKIN\r\n* THERE ARE BUMS LIVING IN YOUR ATTIC\n\n---\n\n**Created by** [hatstore](https://www.divineskins.gg/hatstore)\n\n**Original:** https://www.divineskins.gg/hatstore/va11-hall-a-dana-vayne\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/va11-hall-a-dana-vayne/thumb.webp?v=a542b61e",
+	"file": {
+		"version": 1,
+		"asset": "va11-hall-a-dana-vayne-v1.fantome",
+		"size": 12066181,
+		"sha256": "460d83d697a5ea950bab152e9938b81614bc7e5776e1677717b015ee72ee8dbb"
+	},
+	"chromas": []
+}

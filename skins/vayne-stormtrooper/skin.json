@@ -1,0 +1,26 @@
+{
+	"id": "vayne-stormtrooper",
+	"name": "Stormtrooper",
+	"champion": 67,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/stormtrooper-vayne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vayne-stormtrooper/thumb.webp?v=87be77a1",
+	"file": {
+		"version": 1,
+		"asset": "vayne-stormtrooper-v1.fantome",
+		"size": 34313740,
+		"sha256": "306e8ec48f8156f7daee5e3a02feafa55b346eedcfd87771998c4aaa904bce5b"
+	},
+	"chromas": []
+}

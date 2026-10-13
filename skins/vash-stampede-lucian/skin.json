@@ -1,0 +1,26 @@
+{
+	"id": "vash-stampede-lucian",
+	"name": "Vash Stampede Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### ? Mod Info\r\n**Type:** Vash Stampede as Lucian\r\n**Modified Skin(s):** All skins except Legendary-tier and above.\r\n*(Delete rows you don't need.)*\r\n\r\n### ? Credits\r\n**Special Thanks:** Dcook33 for commissioning the skin.\r\n\r\n### ? Additional Info\r\nQuestions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n### ? Support Me\r\nEnjoyed the mod? Help fuel future projects: [Donate](ko-fi.com/czkostumli)\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/vash-stampede-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vash-stampede-lucian/thumb.webp?v=1955cd4f",
+	"file": {
+		"version": 1,
+		"asset": "vash-stampede-lucian-v1.fantome",
+		"size": 26346071,
+		"sha256": "25e29263c8e5b11e6a27e61d7f2a08dc7b127a693e65868b0aeef59d2de65e92"
+	},
+	"chromas": []
+}

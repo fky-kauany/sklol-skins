@@ -1,0 +1,26 @@
+{
+	"id": "vel-koz-choso",
+	"name": "Choso",
+	"champion": 161,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "Choso Velkoz\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Velkoz skin\r\n• Custom Voiceover of Choso(only for en_US league version)\n\n---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/choso-velkoz\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/vel-koz-choso/thumb.webp?v=3b1dfb91",
+	"file": {
+		"version": 1,
+		"asset": "vel-koz-choso-v1.fantome",
+		"size": 8039484,
+		"sha256": "f8351d77b91bc95943a1cfcab8214aad0968f1b20fd448d88f6d4662ad5e5020"
+	},
+	"chromas": []
+}

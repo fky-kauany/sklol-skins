@@ -1,0 +1,26 @@
+{
+	"id": "veigar-vegeta",
+	"name": "Vegeta",
+	"champion": 45,
+	"base": 0,
+	"creator": "frog",
+	"description": "Vegeta Veigar\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Vegeta skin\r\n• Custom Voiceover of Vegeta\r\n• Model swap with emotes\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/vegeta-veigar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/veigar-vegeta/thumb.webp?v=9a820a5f",
+	"file": {
+		"version": 1,
+		"asset": "veigar-vegeta-v1.fantome",
+		"size": 18177809,
+		"sha256": "d031678c60d76ff89f7d48d958fa204c785cc29e95767792d1d1fe30d0d5f3c8"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "valkyrie-corki",
+	"name": "Valkyrie Corki",
+	"champion": 42,
+	"base": 0,
+	"creator": "valfren",
+	"description": "### SKIN INFORMATION\n* Champion: Corki\n* Modified skin: Base\n* Author: Valfren\n* Version: 1.0.1\n* Description: Custom model, VFX, and SFX\n\nCHECK OUT THE SKIN SHOWCASE HERE: https://youtu.be/mwgCLA7huSY\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/valkyrie-corki\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/valkyrie-corki/thumb.webp?v=63e38db3",
+	"file": {
+		"version": 1,
+		"asset": "valkyrie-corki-v1.fantome",
+		"size": 6970952,
+		"sha256": "a7fdcf21d30f6e6c0cacada6f7e701b0d658447941c9586b1a92389ec2d4b826"
+	},
+	"chromas": []
+}
