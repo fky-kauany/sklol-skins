@@ -1,0 +1,26 @@
+{
+	"id": "youmu-yone",
+	"name": "Youmu Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Youmu Yone\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.2\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/youmu-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/youmu-yone/thumb.webp?v=2bb3a622",
+	"file": {
+		"version": 1,
+		"asset": "youmu-yone-v1.fantome",
+		"size": 46536755,
+		"sha256": "c98242fe4c167c4a3f6aba4ee512ed0297487de708b642a95695178e20fa81ef"
+	},
+	"chromas": []
+}

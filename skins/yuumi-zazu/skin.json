@@ -1,0 +1,26 @@
+{
+	"id": "yuumi-zazu",
+	"name": "Zazu",
+	"champion": 350,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/zazu-yuumi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yuumi-zazu/thumb.webp?v=12e97c29",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-zazu-v1.fantome",
+		"size": 20480077,
+		"sha256": "0379c47cd78f338de004bc2dbbd77fdf4cbe99d238132dcf3c27a5fbffae355b"
+	},
+	"chromas": []
+}

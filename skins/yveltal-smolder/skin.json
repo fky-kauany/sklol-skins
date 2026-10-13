@@ -1,0 +1,26 @@
+{
+	"id": "yveltal-smolder",
+	"name": "Yveltal Smolder",
+	"champion": 901,
+	"base": 0,
+	"creator": "daka",
+	"description": "Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Pokemon Unite)\n- Custom Icons\n\nCredits:\n- Nyth (the Pokemon goat) for his guidance\n- Wiko for making the thumbnail\n- Cereel for recording the video\n- Tanaaxd for being TAAA NA\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/yveltal-smolder\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yveltal-smolder/thumb.webp?v=e91f2f0d",
+	"file": {
+		"version": 1,
+		"asset": "yveltal-smolder-v1.fantome",
+		"size": 8177361,
+		"sha256": "b2c77e8bd8584f8b8a832cd58bacf6ffdfcdb9d006102fffe192db8dfa22e5b4"
+	},
+	"chromas": []
+}

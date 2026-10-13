@@ -1,0 +1,26 @@
+{
+	"id": "yunara-apple-cutie",
+	"name": "Apple Cutie",
+	"champion": 804,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/apple-cutie-yunara\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yunara-apple-cutie/thumb.webp?v=0b4db076",
+	"file": {
+		"version": 1,
+		"asset": "yunara-apple-cutie-v1.fantome",
+		"size": 11066592,
+		"sha256": "87d0b8555c2fb42debb6064db2983d330835ad40c0e0bd3f2589a40bdbc51149"
+	},
+	"chromas": []
+}

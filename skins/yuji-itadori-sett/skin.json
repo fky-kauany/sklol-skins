@@ -1,0 +1,26 @@
+{
+	"id": "yuji-itadori-sett",
+	"name": "Yuji Itadori Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "seweski",
+	"description": "**She tung me till i sahur...**\n\n**Works on every skin**\n\n**this mod changes:**\nmodel\neffects\nvoiceover\n\n---\n\n**Created by** [Seweski](https://www.divineskins.gg/Seweski)\n\n**Original:** https://www.divineskins.gg/Seweski/yuji-itadori-sett\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yuji-itadori-sett/thumb.webp?v=3510edd3",
+	"file": {
+		"version": 1,
+		"asset": "yuji-itadori-sett-v1.fantome",
+		"size": 12175397,
+		"sha256": "0bc6371f41c1ef55d16e5dfbea3db75cd4a5d4d458272178e7dcddd7a4d08288"
+	},
+	"chromas": []
+}

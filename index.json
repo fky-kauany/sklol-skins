@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:46:34.325Z",
+	"generatedAt": "2026-10-13T07:49:51.483Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -22887,6 +22887,267 @@
 				"asset": "yoruichi-zeri-v1.fantome",
 				"size": 12912951,
 				"sha256": "b36d9062a0f1efc6d7f95634fc3eef59251246e25614d4a876b8f124495360a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "youmu-yone",
+			"name": "Youmu Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/youmu-yone/thumb.webp?v=2bb3a622",
+			"file": {
+				"version": 1,
+				"asset": "youmu-yone-v1.fantome",
+				"size": 46536755,
+				"sha256": "c98242fe4c167c4a3f6aba4ee512ed0297487de708b642a95695178e20fa81ef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuji-itadori-sett",
+			"name": "Yuji Itadori Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "seweski",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yuji-itadori-sett/thumb.webp?v=3510edd3",
+			"file": {
+				"version": 1,
+				"asset": "yuji-itadori-sett-v1.fantome",
+				"size": 12175397,
+				"sha256": "0bc6371f41c1ef55d16e5dfbea3db75cd4a5d4d458272178e7dcddd7a4d08288"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yunara-apple-cutie",
+			"name": "Apple Cutie",
+			"champion": 804,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yunara-apple-cutie/thumb.webp?v=0b4db076",
+			"file": {
+				"version": 1,
+				"asset": "yunara-apple-cutie-v1.fantome",
+				"size": 11066592,
+				"sha256": "87d0b8555c2fb42debb6064db2983d330835ad40c0e0bd3f2589a40bdbc51149"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yunara-lebron-james",
+			"name": "Lebron James",
+			"champion": 804,
+			"base": 0,
+			"creator": "sirdexal",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yunara-lebron-james/thumb.webp?v=d757df1c",
+			"file": {
+				"version": 1,
+				"asset": "yunara-lebron-james-v1.fantome",
+				"size": 14536668,
+				"sha256": "c17e434b0c1b4deabc6c31159da676785e491bf20bcf36939ac059e371a59a48"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuta-jjk-viego",
+			"name": "YUTA JJK VIEGO",
+			"champion": 234,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yuta-jjk-viego/thumb.webp?v=d0d20b68",
+			"file": {
+				"version": 1,
+				"asset": "yuta-jjk-viego-v1.fantome",
+				"size": 13637518,
+				"sha256": "7a49f115c3061105da593c7b9f7e6e611669a609f3bc0540d6d6e72853b79073"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuta-okkotsu-yasuo",
+			"name": "Yuta Okkotsu Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yuta-okkotsu-yasuo/thumb.webp?v=5f72f4b9",
+			"file": {
+				"version": 1,
+				"asset": "yuta-okkotsu-yasuo-v1.fantome",
+				"size": 19101090,
+				"sha256": "94cff35578e2b2b8c4950f28227ae9759b62d4dc23a2fc6243fd255a4bfbbe74"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-puck",
+			"name": "Yuumi Puck",
+			"champion": 350,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yuumi-puck/thumb.webp?v=95cc4bb9",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-puck-v1.fantome",
+				"size": 11892730,
+				"sha256": "5b79cbbf147ed0a1c6242c8e47f47520c5b4b4988e56814088632d8a9171c8be"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-zazu",
+			"name": "Zazu",
+			"champion": 350,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yuumi-zazu/thumb.webp?v=12e97c29",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-zazu-v1.fantome",
+				"size": 20480077,
+				"sha256": "0379c47cd78f338de004bc2dbbd77fdf4cbe99d238132dcf3c27a5fbffae355b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuzuha-viego",
+			"name": "Yuzuha Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yuzuha-viego/thumb.webp?v=03bf844f",
+			"file": {
+				"version": 1,
+				"asset": "yuzuha-viego-v1.fantome",
+				"size": 26291102,
+				"sha256": "b939b3ee75387e515fb5f525bbce01e1816e3770efa37cbeef6bff99a1bdec22"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yveltal-smolder",
+			"name": "Yveltal Smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yveltal-smolder/thumb.webp?v=e91f2f0d",
+			"file": {
+				"version": 1,
+				"asset": "yveltal-smolder-v1.fantome",
+				"size": 8177361,
+				"sha256": "b2c77e8bd8584f8b8a832cd58bacf6ffdfcdb9d006102fffe192db8dfa22e5b4"
 			},
 			"chromas": []
 		},

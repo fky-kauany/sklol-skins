@@ -1,0 +1,26 @@
+{
+	"id": "yuta-okkotsu-yasuo",
+	"name": "Yuta Okkotsu Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "updated by dazashu\n\n---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/yuta-okkotsu-yasuo\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yuta-okkotsu-yasuo/thumb.webp?v=5f72f4b9",
+	"file": {
+		"version": 1,
+		"asset": "yuta-okkotsu-yasuo-v1.fantome",
+		"size": 19101090,
+		"sha256": "94cff35578e2b2b8c4950f28227ae9759b62d4dc23a2fc6243fd255a4bfbbe74"
+	},
+	"chromas": []
+}

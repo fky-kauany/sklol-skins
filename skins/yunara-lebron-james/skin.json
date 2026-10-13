@@ -1,0 +1,26 @@
+{
+	"id": "yunara-lebron-james",
+	"name": "Lebron James",
+	"champion": 804,
+	"base": 0,
+	"creator": "sirdexal",
+	"description": "Lebron Yunara • Custom Model • Custom Abilities • Works on every Yunara Skin • Voiceover\n\n---\n\n**Created by** [SirDexal](https://www.divineskins.gg/SirDexal)\n\n**Original:** https://www.divineskins.gg/SirDexal/lebron-james-yunara\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yunara-lebron-james/thumb.webp?v=d757df1c",
+	"file": {
+		"version": 1,
+		"asset": "yunara-lebron-james-v1.fantome",
+		"size": 14536668,
+		"sha256": "c17e434b0c1b4deabc6c31159da676785e491bf20bcf36939ac059e371a59a48"
+	},
+	"chromas": []
+}
