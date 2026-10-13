@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T06:03:24.564Z",
+	"generatedAt": "2026-10-13T06:06:41.244Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14926,6 +14926,264 @@
 				"asset": "sett-toji-v1.fantome",
 				"size": 10141704,
 				"sha256": "7e36cb3f92bad24422b7edd928cca89dc7b6044165cdd87af4b4af026e9eee95"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sh3-heather-mason-vayne",
+			"name": "SH3 HEATHER MASON VAYNE",
+			"champion": 67,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/sh3-heather-mason-vayne/thumb.webp?v=9c030247",
+			"file": {
+				"version": 1,
+				"asset": "sh3-heather-mason-vayne-v1.fantome",
+				"size": 11831041,
+				"sha256": "793925ea546797c8d2b94a8e4e5bb74566968dbbd74ff35790c9a745ba438229"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shaco-pengu",
+			"name": "Pengu",
+			"champion": 35,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shaco-pengu/thumb.webp?v=4f25d488",
+			"file": {
+				"version": 1,
+				"asset": "shaco-pengu-v1.fantome",
+				"size": 11570273,
+				"sha256": "ae3cb63792159832159f66d464894a5847ebe2b9ecca178571ab1350b8f57b1b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shaco-zora",
+			"name": "Shaco Zora",
+			"champion": 35,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shaco-zora/thumb.webp?v=e9133116",
+			"file": {
+				"version": 1,
+				"asset": "shaco-zora-v1.fantome",
+				"size": 7352017,
+				"sha256": "22c874f4ced52fba06da6d9cb839a635a243254e29e464ac5e308a6199282855"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shadow-talon",
+			"name": "Shadow Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shadow-talon/thumb.webp?v=8f431460",
+			"file": {
+				"version": 1,
+				"asset": "shadow-talon-v1.fantome",
+				"size": 8271600,
+				"sha256": "65a336b72e5b7b5dbb5b643db6435d6855991c89ace087bd5d504e21e894ae44"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shadow-the-hedgehog-ekko",
+			"name": "Shadow The Hedgehog (Ekko)",
+			"champion": 245,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shadow-the-hedgehog-ekko/thumb.webp?v=15cb210e",
+			"file": {
+				"version": 1,
+				"asset": "shadow-the-hedgehog-ekko-v1.fantome",
+				"size": 43996631,
+				"sha256": "0c6b04e9f5973b20a2442bc8882937670c208620182babb2f3917a8fae11fc26"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shadow-wizard-money-gang-brand",
+			"name": "Shadow wizard money gang brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shadow-wizard-money-gang-brand/thumb.webp?v=ee795654",
+			"file": {
+				"version": 1,
+				"asset": "shadow-wizard-money-gang-brand-v1.fantome",
+				"size": 6851708,
+				"sha256": "0d23fed3aff43c6ffbf02be5b082ca5f217c82b47c21cf7130488b7175f46f69"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shego-katarina",
+			"name": "Shego Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shego-katarina/thumb.webp?v=ee2ac731",
+			"file": {
+				"version": 1,
+				"asset": "shego-katarina-v1.fantome",
+				"size": 13105611,
+				"sha256": "a0880239f0bcf95da2891e8bcb3129fcac1377c3f3815139107a888fd7bb1450"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shelly-graves",
+			"name": "Shelly Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shelly-graves/thumb.webp?v=45d73574",
+			"file": {
+				"version": 1,
+				"asset": "shelly-graves-v1.fantome",
+				"size": 8386913,
+				"sha256": "ed9dda1202ecd385396745c32913af5ac80740f524d643f29f35fc7e8970e301"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shen-scorpion-sub-zero",
+			"name": "Scorpion & Sub-Zero",
+			"champion": 98,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shen-scorpion-sub-zero/thumb.webp?v=c9912932",
+			"file": {
+				"version": 1,
+				"asset": "shen-scorpion-sub-zero-v1.fantome",
+				"size": 13964238,
+				"sha256": "7ce57ed6e49b93a248c416825fec0ac1467a81187f5e1986522d7f048977fe60"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shield-hero-braum",
+			"name": "Shield Hero Braum",
+			"champion": 201,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/shield-hero-braum/thumb.webp?v=a12ecdc9",
+			"file": {
+				"version": 1,
+				"asset": "shield-hero-braum-v1.fantome",
+				"size": 18918631,
+				"sha256": "c17bd9cca61e3d8f364f6cc763d8912db04cf6eae0d95c96bef8a4e118d809b8"
 			},
 			"chromas": []
 		},

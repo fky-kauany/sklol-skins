@@ -1,0 +1,26 @@
+{
+	"id": "shadow-wizard-money-gang-brand",
+	"name": "Shadow wizard money gang brand",
+	"champion": 63,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"This mod is sponsored by the shadow government\"\n\n***\n\n**Modified champion: Brand**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3D made by: [Dynamic and April](https://steamcommunity.com/sharedfiles/filedetails/?id=2992215271)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/shadow-wizard-money-gang-brand\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shadow-wizard-money-gang-brand/thumb.webp?v=ee795654",
+	"file": {
+		"version": 1,
+		"asset": "shadow-wizard-money-gang-brand-v1.fantome",
+		"size": 6851708,
+		"sha256": "0d23fed3aff43c6ffbf02be5b082ca5f217c82b47c21cf7130488b7175f46f69"
+	},
+	"chromas": []
+}

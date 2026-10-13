@@ -1,0 +1,26 @@
+{
+	"id": "shadow-the-hedgehog-ekko",
+	"name": "Shadow The Hedgehog (Ekko)",
+	"champion": 245,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Ekko\n\nSkin:  Default\n\nAuthor: Sauronkaiser\n\nDescription: Shadow from the Sonic franchise\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-included voiceover.\n\n-Ultimate edgy liveform.\n\n-Guns and motorbike also included.\n\nSources:\n\n-All animations made by me\n\n-Rig and model extracted from sonic forces, then adapted.\n\n-Voices from Sonic Boom.\n\n-Fireweapons extracted from Counter Strike Source.\n\n-Motorbike extracted from a Final Fantasy game\n\n-The joke emote references the Ugandan Knuckles meme from VRchat\n\n-The taunt emote references the Shadow face meme from the Archie comics.\n\n-The Dance emote music is All Hail Shadow by Crush 40.\n\n-The laugh emote references the Sanic meme. Also its music is Live and Learn by Crush 40.\n\n-The recall music is All of Me by Crush 40.\n\nlegacy Changelog:\n\n-29/09/2024: First official release\n\n-07/02/2025: Fixed for new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n-the rest of versions are just patch fixes\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/shadow-the-hedgehog-ekko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shadow-the-hedgehog-ekko/thumb.webp?v=15cb210e",
+	"file": {
+		"version": 1,
+		"asset": "shadow-the-hedgehog-ekko-v1.fantome",
+		"size": 43996631,
+		"sha256": "0c6b04e9f5973b20a2442bc8882937670c208620182babb2f3917a8fae11fc26"
+	},
+	"chromas": []
+}

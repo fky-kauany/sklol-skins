@@ -1,0 +1,27 @@
+{
+	"id": "shield-hero-braum",
+	"name": "Shield Hero Braum",
+	"champion": 201,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/shieldhero-braum\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shield-hero-braum/thumb.webp?v=a12ecdc9",
+	"file": {
+		"version": 1,
+		"asset": "shield-hero-braum-v1.fantome",
+		"size": 18918631,
+		"sha256": "c17bd9cca61e3d8f364f6cc763d8912db04cf6eae0d95c96bef8a4e118d809b8"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "shego-katarina",
+	"name": "Shego Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "frog",
+	"description": "The ultimate anti-hero has arrived. This custom **Shego Katarina** skin transforms the Sinister Blade into Dr. Drakken's formidable partner in crime. With her iconic green flame powers and deadly agility, you'll feel the ruthless precision of **Shego** as you blink through enemies and leave a trail of chaos and sass. This is the ultimate skin for players who want to dominate with style and a touch of mischief.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/shego-katarina\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shego-katarina/thumb.webp?v=ee2ac731",
+	"file": {
+		"version": 1,
+		"asset": "shego-katarina-v1.fantome",
+		"size": 13105611,
+		"sha256": "a0880239f0bcf95da2891e8bcb3129fcac1377c3f3815139107a888fd7bb1450"
+	},
+	"chromas": []
+}

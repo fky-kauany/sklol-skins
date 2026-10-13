@@ -1,0 +1,26 @@
+{
+	"id": "shen-scorpion-sub-zero",
+	"name": "Scorpion & Sub-Zero",
+	"champion": 98,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\n- Two versions to choose from - fight as either Scorpion or Sub-Zero!\n\n- Custom model and textures\n\n- Support for all quality settings\n\n- Custom loading screen\n\n- Custom VO\n\n- Custom VFX\n\n- The full support of Lin Kuei and Shirai Ryu\n\n\nAnother 3 year old skin remastered! New textures and VFX for both Ninjas, and now Scorpion is no longer locked behind a skin. Simply pick the version with the ninja you prefer and you are good to go!\nDo bear in mind, however, that I haven't touched anything model and weights-wise, so you'll still see some stretching or holes in the mesh. Not really visible during gameplay tho. Enjoy!\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/scorpion-sub-zero\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shen-scorpion-sub-zero/thumb.webp?v=c9912932",
+	"file": {
+		"version": 1,
+		"asset": "shen-scorpion-sub-zero-v1.fantome",
+		"size": 13964238,
+		"sha256": "7ce57ed6e49b93a248c416825fec0ac1467a81187f5e1986522d7f048977fe60"
+	},
+	"chromas": []
+}

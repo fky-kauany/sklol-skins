@@ -1,0 +1,26 @@
+{
+	"id": "sh3-heather-mason-vayne",
+	"name": "SH3 HEATHER MASON VAYNE",
+	"champion": 67,
+	"base": 0,
+	"creator": "hatstore",
+	"description": "### **DISCORD: @economic_crisis** \r\n\r\n### **DM IF SOMETHING BREAKS**\r\n(or if you want to commission)\r\n***\r\n\r\n## MOD INFORMATION:\r\n\r\n***\r\n\r\n###### Champion: Vayne\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: hatostore\r\n\r\n## FEATURES:\r\n\r\n***\r\n\r\n* HEATHER FROM SILENT HILL 3 IN LEAGUE OF LEGENDS\r\n* WITH MODIFIED VFX\r\n* NEW VOICEOVER\r\n* NEW ABILILITY SOUNDS\r\n* NEW SKILL ICONS\r\n* NEW LOADING SCREEN\r\n* NEW ANIMATIONS\n\n---\n\n**Created by** [hatstore](https://www.divineskins.gg/hatstore)\n\n**Original:** https://www.divineskins.gg/hatstore/sh3-heather-mason-vayne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/sh3-heather-mason-vayne/thumb.webp?v=9c030247",
+	"file": {
+		"version": 1,
+		"asset": "sh3-heather-mason-vayne-v1.fantome",
+		"size": 11831041,
+		"sha256": "793925ea546797c8d2b94a8e4e5bb74566968dbbd74ff35790c9a745ba438229"
+	},
+	"chromas": []
+}

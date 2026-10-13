@@ -1,0 +1,25 @@
+{
+	"id": "shadow-talon",
+	"name": "Shadow Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "updated by dazashu\n\n---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/shadow-talon\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/shadow-talon/thumb.webp?v=8f431460",
+	"file": {
+		"version": 1,
+		"asset": "shadow-talon-v1.fantome",
+		"size": 8271600,
+		"sha256": "65a336b72e5b7b5dbb5b643db6435d6855991c89ace087bd5d504e21e894ae44"
+	},
+	"chromas": []
+}
