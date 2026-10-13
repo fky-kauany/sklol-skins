@@ -1,0 +1,26 @@
+{
+	"id": "flowery-sett",
+	"name": "flowery sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "# **COMMISION ME ON DISCORD FOR MORE @CEEREL**\n\n\n\n\n\nChanged the \n\n- VOICE OVERS\n- MODEL\n- VISUAL EFFECTS\n- SOUND EFFECTS \n- ICONS\n- all love\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/flowery-sett\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/flowery-sett/thumb.webp?v=237f0e54",
+	"file": {
+		"version": 1,
+		"asset": "flowery-sett-v1.fantome",
+		"size": 41910259,
+		"sha256": "e06c0ce8ce2f777a701c29f0f0cb5782d59be73336361786fd7c63f4c422877f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "foot-soldier-jinx",
+	"name": "Foot Soldier Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "drinfinito",
+	"description": "\"Brains\"\nTurns Jinx into a brainless but brain-loving soldier!\n\nReplaces the default skin.\n\nThis mod contains:\n- New Model!\n- New VO!\n- New SFX!\n- New HUD!\n\nCredits\n- Foot Soldier model from: https://models.spriters-resource.com/pc_computer/plantsvszombiesgardenwarfare2/asset/345708/\n- Foot Soldier sounds from: https://sounds.spriters-resource.com/pc_computer/plantsvszombiesgardenwarfare/asset/398276/\n- E Model from: https://models.spriters-resource.com/pc_computer/plantsvszombiesgardenwarfare2/asset/346791/\n\n---\n\n**Created by** [DrInfinito](https://www.divineskins.gg/DrInfinito)\n\n**Original:** https://www.divineskins.gg/DrInfinito/foot-soldier-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/foot-soldier-jinx/thumb.webp?v=0b18a7ed",
+	"file": {
+		"version": 1,
+		"asset": "foot-soldier-jinx-v1.fantome",
+		"size": 30516538,
+		"sha256": "69c885751d8054fe967b9d0c37073cd2dd676b2e718d41236758bda7ee4c34d4"
+	},
+	"chromas": []
+}

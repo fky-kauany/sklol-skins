@@ -1,0 +1,23 @@
+{
+	"id": "four-arms-sett",
+	"name": "Four Arms Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Sett\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/four-arms-sett\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/four-arms-sett/thumb.webp?v=55836d91",
+	"file": {
+		"version": 1,
+		"asset": "four-arms-sett-v1.fantome",
+		"size": 720710,
+		"sha256": "48a9081c8ba6b4a785272b0ad0c679f158ddf12088f1cc968ce3dd0886ad6b41"
+	},
+	"chromas": []
+}

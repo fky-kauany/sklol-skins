@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:42:40.925Z",
+	"generatedAt": "2026-10-13T02:46:01.706Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -367,6 +367,11 @@
 				"x": "https://x.com/Nyxns0"
 			}
 		},
+		"percyyw": {
+			"name": "Percyyw",
+			"bio": "just a newbie learning how to make custom skins",
+			"links": {}
+		},
 		"pimek": {
 			"name": "pimek",
 			"bio": "# Making RIOTlike edgy and meme mods\n\n* All skins here all my best one\n\nthe other mods can be found on discord",
@@ -419,6 +424,17 @@
 			"name": "Shelzy",
 			"avatar": "creators/shelzy.png?v=45784fd0",
 			"links": {}
+		},
+		"shrimpback": {
+			"name": "ShrimpBack",
+			"avatar": "creators/shrimpback.png?v=766e6fae",
+			"bio": "My back hurts a bunch from time to time but as long as it doesn't kill me I'll keep posting I guess xd\n\nThough I do like to do some concepts of the \"X champion but in Y skinline\", the kinda mod that I like most doing most of the times is just putting characters from other games I like into LoL (HK/Silksong, Isaac, UT/DR, etc). If you do like any of the work I post here or on Runeforge, consider commissioning me over Discord. Just tell me your project and I think we can sort something out!\n\nIf no",
+			"links": {
+				"discord": "https://discord.com/users/527558149587075083",
+				"twitch": "https://www.twitch.tv/thatshrimpbackguy",
+				"x": "https://x.com/ShrimpBackpain",
+				"youtube": "https://www.youtube.com/@ShrimpBackpain"
+			}
 		},
 		"sirdexal": {
 			"name": "SirDexal",
@@ -10608,6 +10624,260 @@
 				"asset": "flins-zaahen-v1.fantome",
 				"size": 14091944,
 				"sha256": "2f1d98696513f0175ce4720774821f1031c53eef5506e393c4708309a052938b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "flowery-sett",
+			"name": "flowery sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/flowery-sett/thumb.webp?v=237f0e54",
+			"file": {
+				"version": 1,
+				"asset": "flowery-sett-v1.fantome",
+				"size": 41910259,
+				"sha256": "e06c0ce8ce2f777a701c29f0f0cb5782d59be73336361786fd7c63f4c422877f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "flowery-zaahen",
+			"name": "Flowery Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/flowery-zaahen/thumb.webp?v=18751b5d",
+			"file": {
+				"version": 1,
+				"asset": "flowery-zaahen-v1.fantome",
+				"size": 25437558,
+				"sha256": "c1040fb25f5f780b9a87d99b7b97d792df8d72e0f19c98169c6b6bbfc4a57285"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fnatic-rengar-rebirth",
+			"name": "Fnatic Rengar [Rebirth]",
+			"champion": 107,
+			"base": 0,
+			"creator": "backstab",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/fnatic-rengar-rebirth/thumb.webp?v=db2f2583",
+			"file": {
+				"version": 1,
+				"asset": "fnatic-rengar-rebirth-v1.fantome",
+				"size": 6357971,
+				"sha256": "2fab3f4333d760d79988b882feaf56b6ba989443e5034ec37fb847f805569dcb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "foot-soldier-jinx",
+			"name": "Foot Soldier Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "drinfinito",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/foot-soldier-jinx/thumb.webp?v=0b18a7ed",
+			"file": {
+				"version": 1,
+				"asset": "foot-soldier-jinx-v1.fantome",
+				"size": 30516538,
+				"sha256": "69c885751d8054fe967b9d0c37073cd2dd676b2e718d41236758bda7ee4c34d4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "forsaken-matriarch-bel-veth",
+			"name": "Forsaken Matriarch - Bel'Veth",
+			"champion": 200,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/forsaken-matriarch-bel-veth/thumb.webp?v=709eaf72",
+			"file": {
+				"version": 1,
+				"asset": "forsaken-matriarch-bel-veth-v1.fantome",
+				"size": 22660545,
+				"sha256": "4af264e1b977b17c6f526a702d3af0da56c89627bd65803d13d5a38c944c1096"
+			},
+			"chromas": []
+		},
+		{
+			"id": "four-arms-sett",
+			"name": "Four Arms Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/four-arms-sett/thumb.webp?v=55836d91",
+			"file": {
+				"version": 1,
+				"asset": "four-arms-sett-v1.fantome",
+				"size": 720710,
+				"sha256": "48a9081c8ba6b4a785272b0ad0c679f158ddf12088f1cc968ce3dd0886ad6b41"
+			},
+			"chromas": []
+		},
+		{
+			"id": "foxy-warwick",
+			"name": "Foxy Warwick",
+			"champion": 19,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/foxy-warwick/thumb.webp?v=202c57ee",
+			"file": {
+				"version": 1,
+				"asset": "foxy-warwick-v1.fantome",
+				"size": 4273666,
+				"sha256": "8c35edde545cea1657c761a3c3aebcc7b463ea396e68d8955c85526975c5a715"
+			},
+			"chromas": []
+		},
+		{
+			"id": "freddy-fazbear-volibear",
+			"name": "Freddy Fazbear Volibear",
+			"champion": 106,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/freddy-fazbear-volibear/thumb.webp?v=5d0ffdac",
+			"file": {
+				"version": 1,
+				"asset": "freddy-fazbear-volibear-v1.fantome",
+				"size": 16354955,
+				"sha256": "4c47d728d64147044584feb390eb0059e99fc32f29079315348a54097580a7e3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "frieren-mel",
+			"name": "Frieren Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/frieren-mel/thumb.webp?v=9b40f529",
+			"file": {
+				"version": 1,
+				"asset": "frieren-mel-v1.fantome",
+				"size": 14384273,
+				"sha256": "d9217b1cbb36d3f92e6a0a020b0796ba7b9b27047de8e86126f6fc937391ac94"
+			},
+			"chromas": []
+		},
+		{
+			"id": "frostblade-talon-enduring-sword-talon",
+			"name": "Frostblade Talon - Enduring Sword Talon",
+			"champion": 91,
+			"base": 12,
+			"creator": "percyyw",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/frostblade-talon-enduring-sword-talon/thumb.webp?v=677aa78d",
+			"file": {
+				"version": 1,
+				"asset": "frostblade-talon-enduring-sword-talon-v1.modpkg",
+				"size": 9280764,
+				"sha256": "d6a749cf9ca4a447dcc09b9383a7758c5606690603d34eb4fa8b36bc445cdbdf"
 			},
 			"chromas": []
 		},

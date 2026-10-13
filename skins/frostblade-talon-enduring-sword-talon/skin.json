@@ -1,0 +1,26 @@
+{
+	"id": "frostblade-talon-enduring-sword-talon",
+	"name": "Frostblade Talon - Enduring Sword Talon",
+	"champion": 91,
+	"base": 12,
+	"creator": "percyyw",
+	"description": "Author = Percyyw\r\n\r\nif any bug or error happens you can contact me on discord = percyyw\n\n---\n\n**Created by** [Percyyw](https://www.divineskins.gg/Percyyw)\n\n**Original:** https://www.divineskins.gg/Percyyw/frostblade-talon-enduring-sword-talon\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/frostblade-talon-enduring-sword-talon/thumb.webp?v=677aa78d",
+	"file": {
+		"version": 1,
+		"asset": "frostblade-talon-enduring-sword-talon-v1.modpkg",
+		"size": 9280764,
+		"sha256": "d6a749cf9ca4a447dcc09b9383a7758c5606690603d34eb4fa8b36bc445cdbdf"
+	},
+	"chromas": []
+}

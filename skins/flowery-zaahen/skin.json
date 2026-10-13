@@ -1,0 +1,26 @@
+{
+	"id": "flowery-zaahen",
+	"name": "Flowery Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "It was one hell of a project with a LOT of work put into it, but also a ton of fun to make!! With the new set of tools we have now I think I will probably be posting more often (which is not to say REGULARLY but yk, more than biyearly xd)\n\nWith that said, I hope you enjoy this one! A lot of the cool stuff you see would not be nearly as good without the people that made it possible, so big shoutout to everyone that made this possible!\n\n## - CREDITS -\n\n## ShrimpBack (that's me!!)\nVisual Effects: Edited most of the textures to have a pixel-art look to better the UTDR feel of the skin\nSound Effects: Replaced all sounds in the kit for UTDR sound effects (some made by combining multiple of them)\nVoice Over: Edited all voice lines to be Flowery Voice Clips from Deltarune (jaboner)\nModel work: Edited some parts of the models used and then weighted it to Zaahen's skeleton\nOther stuff: some more work arround all these areas, with the help and/or assets from other creators\n\n## dazashu\nGave me a LOT of help and advise regarding materials/meshes and the new tools for modding he helped to develop\n\n## Nyth\nHelped me learn how to make the dance music loop properly\n\n## snowtenkey\nMade the Flowery 3D model I used in this mod\n\n## 1_clicks_\nUsed the hair from their Goku-ssj-blue model to make the Omega Form's hair\n\n## Zavemann\nFlowery sprite sheet I used for some images in the mod\n\n## CodeCraftr\nThe star from the Q buff (made by editing their 3D Model of the SAVE button from Undertale)\n\n## IMarv | League of Legends\nFirst background of spotlight video intro (made by editing one of the shots from their \"Summoners Rift Edit\" video)\n\n## Drututt\nGave me some feedback on areas where the skin could be improved (and showcased my stuff on stream/youtube! that was pretty cool)\n\n---\n\n**Created by** [ShrimpBack](https://www.divineskins.gg/ShrimpBack), [dazashu](https://www.divineskins.gg/dazashu)\n\n**Original:** https://www.divineskins.gg/ShrimpBack/flowery-zaahen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/flowery-zaahen/thumb.webp?v=18751b5d",
+	"file": {
+		"version": 1,
+		"asset": "flowery-zaahen-v1.fantome",
+		"size": 25437558,
+		"sha256": "c1040fb25f5f780b9a87d99b7b97d792df8d72e0f19c98169c6b6bbfc4a57285"
+	},
+	"chromas": []
+}

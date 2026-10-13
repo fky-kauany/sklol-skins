@@ -1,0 +1,26 @@
+{
+	"id": "fnatic-rengar-rebirth",
+	"name": "Fnatic Rengar [Rebirth]",
+	"champion": 107,
+	"base": 0,
+	"creator": "backstab",
+	"description": "+ Bringing back some of Rengar's OG custom skins, from S2-S6 era. Based on [Old Rengar Rebirth](https://divineskins.gg/BACKSTAB/old-rengar-rebirth).\n\n### SKIN INFORMATION\n+ Champion: Rengar\n+ Modified skin: Base and SSW\n+ Author: MrMadSheep\n+ Description: Restored with Rengar's old Season 6 assets (SFX, VFX and Animations).\n\n### DISCLAIMER \n+ I'm not the original author of this skin. If any of the authors have a problem with me posting their skin feel free to message me on Twitter and I'll take it down.\n\n---\n\n**Created by** [BACKSTAB](https://www.divineskins.gg/BACKSTAB)\n\n**Original:** https://www.divineskins.gg/BACKSTAB/fnatic-rengar-rebirth\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/fnatic-rengar-rebirth/thumb.webp?v=db2f2583",
+	"file": {
+		"version": 1,
+		"asset": "fnatic-rengar-rebirth-v1.fantome",
+		"size": 6357971,
+		"sha256": "2fab3f4333d760d79988b882feaf56b6ba989443e5034ec37fb847f805569dcb"
+	},
+	"chromas": []
+}

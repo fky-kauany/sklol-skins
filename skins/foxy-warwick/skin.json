@@ -1,0 +1,24 @@
+{
+	"id": "foxy-warwick",
+	"name": "Foxy Warwick",
+	"champion": 19,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Warwick with Foxy from Five Nights at Freddy's.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces Base Warwick.\n\n#\n\n### ✨ Credits\n\n- Credits to [Kingshound](https://www.youtube.com/@Kingshound \"kingshound's yt channel\") for creating the mod, I am only maintaining it\n\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for making the sfx\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/foxy-warwick\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/foxy-warwick/thumb.webp?v=202c57ee",
+	"file": {
+		"version": 1,
+		"asset": "foxy-warwick-v1.fantome",
+		"size": 4273666,
+		"sha256": "8c35edde545cea1657c761a3c3aebcc7b463ea396e68d8955c85526975c5a715"
+	},
+	"chromas": []
+}
