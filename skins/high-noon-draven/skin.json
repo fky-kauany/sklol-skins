@@ -1,0 +1,26 @@
+{
+	"id": "high-noon-draven",
+	"name": "High Noon Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "valfren",
+	"description": "### SKIN INFORMATION \r\nChampion: Draven \r\nModified skin: Base \r\nAuthor: Valfren \r\nVersion: 1.0.2 \r\nDescription: Custom model, animations, VFX, and SFX \r\n\r\nCHECK OUT THE SKIN SHOWCASE HERE: https://youtu.be/H1Swgf-oEqs\r\n\r\n- Animations created by the GOAT Sauronkaiser\r\n- Cape physics created by Froggles\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/high-noon-draven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/high-noon-draven/thumb.webp?v=153d7266",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-draven-v1.fantome",
+		"size": 11318858,
+		"sha256": "6737f4af11f116096ad1e2bdeef8456f76bccaad0a93827208a8274defa05ca7"
+	},
+	"chromas": []
+}

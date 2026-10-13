@@ -1,0 +1,25 @@
+{
+	"id": "hellfire-shaco",
+	"name": "Hellfire Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Hellfire Shaco\n\n### Features\n\n- **Visual motif:** Black-and-red infernal armor, glowing eyes, demonic styling\n- **Custom abilities:** Fiery Q/W/E/R effects themed around hellfire and shadow\n- **Compatibility:** Works on every Shaco skin; install with **Celestial Launcher**\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/hellfire-shaco\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hellfire-shaco/thumb.webp?v=f54cb630",
+	"file": {
+		"version": 1,
+		"asset": "hellfire-shaco-v1.fantome",
+		"size": 7053208,
+		"sha256": "c3ebd7d6df2d64a92c4c84f9332f968ef5e9d6364401b79d72e1eb8ad0a885ac"
+	},
+	"chromas": []
+}

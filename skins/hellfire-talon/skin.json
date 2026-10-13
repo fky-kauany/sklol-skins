@@ -1,0 +1,25 @@
+{
+	"id": "hellfire-talon",
+	"name": "Hellfire Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "defaulti",
+	"description": "High Noon Talon with added custom VFX\r\n\r\n***Needs to own and equip High Noon Talon for the mod to work!***\n\n---\n\n**Created by** [Defaulti](https://www.divineskins.gg/Defaulti)\n\n**Original:** https://www.divineskins.gg/Defaulti/hellfire-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hellfire-talon/thumb.webp?v=502647a8",
+	"file": {
+		"version": 1,
+		"asset": "hellfire-talon-v1.fantome",
+		"size": 18645398,
+		"sha256": "e50558cfd70388ba545615f6a906e158823f60b949fbdc7b1e4f0329e234864b"
+	},
+	"chromas": []
+}

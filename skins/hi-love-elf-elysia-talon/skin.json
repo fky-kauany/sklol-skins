@@ -1,0 +1,26 @@
+{
+	"id": "hi-love-elf-elysia-talon",
+	"name": "Hi♪ Love Elf♥ Elysia - Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "s0jaku",
+	"description": "*The most romantic skin like none that has come before♪~*\r\n\r\n### 📌 Mod Info\r\n**Voice Over** : Japanese\r\n### 🧾 Credits\r\n**Model:** Hi♪ Love Elf♥ Elysia  from Honkai Impact the 3rd.\r\n\r\n### 💬 Additional Info\r\nQuestions or requests? DM me on Discord (@s0jaku) or join the Divine Skins server.\r\n\r\n### 💖 Support Me\r\nEnjoyed the mod? Help fuel future projects: \r\n\r\nhttps://ko-fi.com/s0jaku\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [s0jaku](https://www.divineskins.gg/s0jaku)\n\n**Original:** https://www.divineskins.gg/s0jaku/hi-love-elf-elysia-talon\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/hi-love-elf-elysia-talon/thumb.webp?v=6818d771",
+	"file": {
+		"version": 1,
+		"asset": "hi-love-elf-elysia-talon-v1.fantome",
+		"size": 18969650,
+		"sha256": "346e20525fd8c64502a1823e7792b8823849134d37ad46e1e41bc8655154fc21"
+	},
+	"chromas": []
+}

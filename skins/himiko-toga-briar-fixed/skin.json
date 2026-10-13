@@ -1,0 +1,26 @@
+{
+	"id": "himiko-toga-briar-fixed",
+	"name": "Himiko Toga - Briar (fixed)",
+	"champion": 233,
+	"base": 0,
+	"creator": "magnaplayer",
+	"description": "---\n\n**Created by** [MagnaPlayer](https://www.divineskins.gg/MagnaPlayer)\n\n**Original:** https://www.divineskins.gg/MagnaPlayer/himiko-toga-briar\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/himiko-toga-briar-fixed/thumb.webp?v=7a3169cd",
+	"file": {
+		"version": 1,
+		"asset": "himiko-toga-briar-fixed-v1.fantome",
+		"size": 9974500,
+		"sha256": "47e7940ce7976a4e9e017d1d64087c76747a1db7a8b2ae512b5de3ff630a8a12"
+	},
+	"chromas": []
+}

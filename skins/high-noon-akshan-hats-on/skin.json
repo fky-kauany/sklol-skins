@@ -1,0 +1,23 @@
+{
+	"id": "high-noon-akshan-hats-on",
+	"name": "High noon Akshan hats on",
+	"champion": 166,
+	"base": 21,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/high-noon-akshan-hats-on\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/high-noon-akshan-hats-on/thumb.webp?v=a0ad2daa",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-akshan-hats-on-v1.fantome",
+		"size": 1966779,
+		"sha256": "7b4a88d4b27f0e26cbe666aa53588c12746dd4d1fd90d2303fcdb450f625f1bd"
+	},
+	"chromas": []
+}
