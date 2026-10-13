@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:50:14.339Z",
+	"generatedAt": "2026-10-13T04:53:33.896Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -339,6 +339,13 @@
 			"links": {
 				"discord": "https://discord.gg/EEjd7DHj5r",
 				"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png"
+			}
+		},
+		"konradosj": {
+			"name": "konradosj",
+			"avatar": "creators/konradosj.webp?v=9282a6d3",
+			"links": {
+				"discord": "https://discord.gg/qS4hsN5NrJ"
 			}
 		},
 		"lexa2209": {
@@ -9215,6 +9222,265 @@
 				"asset": "mgrr-raiden-yone-v1.fantome",
 				"size": 6669385,
 				"sha256": "4f4f25746274a3b5c45ce72adcea45ac585e401f840a784af28139ecb2d26618"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mickey-mouse-hwei",
+			"name": "Mickey Mouse Hwei",
+			"champion": 910,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mickey-mouse-hwei/thumb.webp?v=b7d5fe7c",
+			"file": {
+				"version": 1,
+				"asset": "mickey-mouse-hwei-v1.fantome",
+				"size": 30625219,
+				"sha256": "82134398ea182eaafd87c94c04e447be322e0d722493d161ff46a48f5c96ed22"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mihawk-viego",
+			"name": "Mihawk - Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mihawk-viego/thumb.webp?v=d5fd5366",
+			"file": {
+				"version": 1,
+				"asset": "mihawk-viego-v1.fantome",
+				"size": 17478060,
+				"sha256": "e2771a9fabb8393243cdef159f4f9dcded6e9469161ceeb068b86b3987abea25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miku-jinx",
+			"name": "Miku Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/miku-jinx/thumb.webp?v=792b9fb1",
+			"file": {
+				"version": 1,
+				"asset": "miku-jinx-v1.fantome",
+				"size": 41379506,
+				"sha256": "175e8eb99dceb5d3660a881f5f5f55bbea8c03863f3eadb96a436a595c6637ff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miles-morales-ekko",
+			"name": "Miles Morales Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/miles-morales-ekko/thumb.webp?v=8b87ddb5",
+			"file": {
+				"version": 1,
+				"asset": "miles-morales-ekko-v1.fantome",
+				"size": 32403693,
+				"sha256": "c8f381d310d167ce3fccbca298085a2547e617cba9ef8f2596ec71ad809b6c7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "milim-nava-vi",
+			"name": "Milim Nava VI",
+			"champion": 254,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/milim-nava-vi/thumb.webp?v=503fd33e",
+			"file": {
+				"version": 1,
+				"asset": "milim-nava-vi-v1.fantome",
+				"size": 15964548,
+				"sha256": "c89519c253416ff6c92419a8764760e97325b9a8565465c60838e98a028b9d79"
+			},
+			"chromas": []
+		},
+		{
+			"id": "milio-angel",
+			"name": "Angel",
+			"champion": 902,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/milio-angel/thumb.webp?v=70f76246",
+			"file": {
+				"version": 1,
+				"asset": "milio-angel-v1.fantome",
+				"size": 8069627,
+				"sha256": "503bd5fc9bb7e8d4007b3c9bff0c55511f7c7c3249332ef932fc67577109d0c4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "milio-anya-christmas-edition",
+			"name": "Milio Anya (Christmas Edition)",
+			"champion": 902,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/milio-anya-christmas-edition/thumb.webp?v=af7e97ef",
+			"file": {
+				"version": 1,
+				"asset": "milio-anya-christmas-edition-v1.fantome",
+				"size": 12899736,
+				"sha256": "092086bea1c0cb9972809a9014b2d0f004438cd4a0341b1a415aefc6d2c08e83"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minato-aqua-yasuo",
+			"name": "Minato Aqua Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/minato-aqua-yasuo/thumb.webp?v=49d73f48",
+			"file": {
+				"version": 1,
+				"asset": "minato-aqua-yasuo-v1.fantome",
+				"size": 26869933,
+				"sha256": "ec552ea6c6bec507b6a8d3136b6ff2f4a5cc8eb09990e0512f35390187dde443"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minato-zed",
+			"name": "Minato Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "emshu",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/minato-zed/thumb.webp?v=6fdcb59c",
+			"file": {
+				"version": 1,
+				"asset": "minato-zed-v1.fantome",
+				"size": 6528742,
+				"sha256": "361d4a2d8c262669949656c5dbd6a226c3bdd901d3c0a1ef095de994f2de0d9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minecraft-ornn",
+			"name": "Minecraft Ornn",
+			"champion": 516,
+			"base": 0,
+			"creator": "konradosj",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/minecraft-ornn/thumb.webp?v=62dab246",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-ornn-v1.fantome",
+				"size": 3268823,
+				"sha256": "e10792c02b5a8e9fba3375915f8f45736cc8bcd8136fbeb3f111ce7d05e35726"
 			},
 			"chromas": []
 		},

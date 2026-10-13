@@ -1,0 +1,26 @@
+{
+	"id": "miku-jinx",
+	"name": "Miku Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Miku Jinx\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 2.1.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/miku-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/miku-jinx/thumb.webp?v=792b9fb1",
+	"file": {
+		"version": 1,
+		"asset": "miku-jinx-v1.fantome",
+		"size": 41379506,
+		"sha256": "175e8eb99dceb5d3660a881f5f5f55bbea8c03863f3eadb96a436a595c6637ff"
+	},
+	"chromas": []
+}

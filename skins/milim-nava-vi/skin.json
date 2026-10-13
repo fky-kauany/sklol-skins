@@ -1,0 +1,26 @@
+{
+	"id": "milim-nava-vi",
+	"name": "Milim Nava VI",
+	"champion": 254,
+	"base": 0,
+	"creator": "daka",
+	"description": "## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Arena of Valor)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/milim-nava-vi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/milim-nava-vi/thumb.webp?v=503fd33e",
+	"file": {
+		"version": 1,
+		"asset": "milim-nava-vi-v1.fantome",
+		"size": 15964548,
+		"sha256": "c89519c253416ff6c92419a8764760e97325b9a8565465c60838e98a028b9d79"
+	},
+	"chromas": []
+}

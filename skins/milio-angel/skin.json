@@ -1,0 +1,26 @@
+{
+	"id": "milio-angel",
+	"name": "Angel",
+	"champion": 902,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/angel-milio\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/milio-angel/thumb.webp?v=70f76246",
+	"file": {
+		"version": 1,
+		"asset": "milio-angel-v1.fantome",
+		"size": 8069627,
+		"sha256": "503bd5fc9bb7e8d4007b3c9bff0c55511f7c7c3249332ef932fc67577109d0c4"
+	},
+	"chromas": []
+}

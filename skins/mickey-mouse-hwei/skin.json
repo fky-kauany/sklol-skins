@@ -1,0 +1,26 @@
+{
+	"id": "mickey-mouse-hwei",
+	"name": "Mickey Mouse Hwei",
+	"champion": 910,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\r\n### DM IF SOMETHING BREAKS (or if you want to commission)\r\n#\r\n### HWEI MICKEY MOUSE FROM EPIC MICKEY MOUSE REBRUSHED \r\n\r\nWorks on: default skin\r\n\r\nFEATURES:\r\n\r\n* NEW VFX\r\n* CUSTOM MODEL\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/mickey-mouse-hwei\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mickey-mouse-hwei/thumb.webp?v=b7d5fe7c",
+	"file": {
+		"version": 1,
+		"asset": "mickey-mouse-hwei-v1.fantome",
+		"size": 30625219,
+		"sha256": "82134398ea182eaafd87c94c04e447be322e0d722493d161ff46a48f5c96ed22"
+	},
+	"chromas": []
+}

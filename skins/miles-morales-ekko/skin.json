@@ -1,0 +1,26 @@
+{
+	"id": "miles-morales-ekko",
+	"name": "Miles Morales Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "by lexa\n\n---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/miles-morales-ekko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/miles-morales-ekko/thumb.webp?v=8b87ddb5",
+	"file": {
+		"version": 1,
+		"asset": "miles-morales-ekko-v1.fantome",
+		"size": 32403693,
+		"sha256": "c8f381d310d167ce3fccbca298085a2547e617cba9ef8f2596ec71ad809b6c7c"
+	},
+	"chromas": []
+}

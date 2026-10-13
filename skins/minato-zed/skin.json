@@ -1,0 +1,25 @@
+{
+	"id": "minato-zed",
+	"name": "Minato Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "emshu",
+	"description": "✦ FEATURES\n- Custom VFX (●'◡'●)\n- Custom 3D Model ╰(*°▽°*)╯\n- Custom Loading Screen (*/ω＼*)\n\n✦ CREDITS\n© Skin made by Shu\n\n---\n\n**Created by** [emShu](https://www.divineskins.gg/emShu)\n\n**Original:** https://www.divineskins.gg/emShu/minato-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/minato-zed/thumb.webp?v=6fdcb59c",
+	"file": {
+		"version": 1,
+		"asset": "minato-zed-v1.fantome",
+		"size": 6528742,
+		"sha256": "361d4a2d8c262669949656c5dbd6a226c3bdd901d3c0a1ef095de994f2de0d9c"
+	},
+	"chromas": []
+}

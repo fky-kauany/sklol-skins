@@ -1,0 +1,26 @@
+{
+	"id": "minecraft-ornn",
+	"name": "Minecraft Ornn",
+	"champion": 516,
+	"base": 0,
+	"creator": "konradosj",
+	"description": "This mod replaces Ornn with Mincraft Ornn.\n\nThe mod replaces Base Ornn.\n\nMy discord  https://discord.gg/qS4hsN5NrJ\n\n---\n\n**Created by** [konradosj](https://www.divineskins.gg/konradosj)\n\n**Original:** https://www.divineskins.gg/konradosj/minecraft-ornn\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/minecraft-ornn/thumb.webp?v=62dab246",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-ornn-v1.fantome",
+		"size": 3268823,
+		"sha256": "e10792c02b5a8e9fba3375915f8f45736cc8bcd8136fbeb3f111ce7d05e35726"
+	},
+	"chromas": []
+}
