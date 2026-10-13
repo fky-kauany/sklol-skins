@@ -1,0 +1,26 @@
+{
+	"id": "ezreal-ezrael-subaru",
+	"name": "Ezrael Subaru",
+	"champion": 81,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 SUBARU NATSUKI 」\r\n### *Replaces Ezreal*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/ezrael-subaru\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ezreal-ezrael-subaru/thumb.webp?v=ea355fac",
+	"file": {
+		"version": 1,
+		"asset": "ezreal-ezrael-subaru-v1.fantome",
+		"size": 14286592,
+		"sha256": "e709050c9d67f21a3680da356817ebd7f17cee3028ffd34a1ac7a4153267ff5b"
+	},
+	"chromas": []
+}

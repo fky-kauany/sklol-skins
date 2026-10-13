@@ -1,0 +1,26 @@
+{
+	"id": "ezreal-gojo-satoru-shinjuku-showdown-outfit",
+	"name": "Ezreal Gojo Satoru (Shinjuku Showdown Outfit)",
+	"champion": 81,
+	"base": 0,
+	"creator": "megaomg",
+	"description": "## Gojo Satoru Ezreal v2\n\nI know the model is a bit rough but please enjoy!\nSkin was not made by me, paid for it long ago and giving it now for free :)\nCredits to Sara!\n*discord*: megaomg\n\n---\n\n**Created by** [megaomg](https://www.divineskins.gg/megaomg)\n\n**Original:** https://www.divineskins.gg/megaomg/ezreal-gojo-satoru-shinjuku-showdown-outfit\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ezreal-gojo-satoru-shinjuku-showdown-outfit/thumb.webp?v=070867e3",
+	"file": {
+		"version": 1,
+		"asset": "ezreal-gojo-satoru-shinjuku-showdown-outfit-v1.fantome",
+		"size": 24659822,
+		"sha256": "64fc0a30cde2adde001eedfa4fa48d022595b22c8516a1f6c26ea5e358d0b4a8"
+	},
+	"chromas": []
+}

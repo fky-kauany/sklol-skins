@@ -1,0 +1,26 @@
+{
+	"id": "ezreal-gojo",
+	"name": "Gojo",
+	"champion": 81,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/gojo-ezreal\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ezreal-gojo/thumb.webp?v=9496df15",
+	"file": {
+		"version": 1,
+		"asset": "ezreal-gojo-v1.fantome",
+		"size": 35271071,
+		"sha256": "135cf92879b9d53571e778ef18b6991f7810e5bea039a3989f181194dcbb2768"
+	},
+	"chromas": []
+}

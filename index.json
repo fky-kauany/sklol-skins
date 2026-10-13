@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:29:55.099Z",
+	"generatedAt": "2026-10-13T02:36:07.709Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -319,6 +319,14 @@
 			"links": {
 				"kofi": "https://ko-fi.com/mava_06",
 				"youtube": "https://youtu.be/YKvNNoDdvu4"
+			}
+		},
+		"megaomg": {
+			"name": "megaomg",
+			"bio": "just a gojo fan",
+			"links": {
+				"discord": "https://discord.com/invite/megaomg",
+				"x": "https://x.com/megaomg_"
 			}
 		},
 		"mojkqueira": {
@@ -9831,6 +9839,264 @@
 				"asset": "evelynn-elysian-angel-v1.fantome",
 				"size": 15186619,
 				"sha256": "09a65bb84131b70d62e69ad57ebef5dc3e7536cf0af8e16d34a1488a53bbbb37"
+			},
+			"chromas": []
+		},
+		{
+			"id": "evelynn-kaneki",
+			"name": "Kaneki",
+			"champion": 28,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/evelynn-kaneki/thumb.webp?v=45438b3d",
+			"file": {
+				"version": 1,
+				"asset": "evelynn-kaneki-v1.fantome",
+				"size": 13044750,
+				"sha256": "45cc3cad5b3ba73f403ed28ece34730ed2a507d01295403aa655387901e2b314"
+			},
+			"chromas": []
+		},
+		{
+			"id": "evelynn-saya",
+			"name": "Saya",
+			"champion": 28,
+			"base": 0,
+			"creator": "sirdexal",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/evelynn-saya/thumb.webp?v=9a466f2e",
+			"file": {
+				"version": 1,
+				"asset": "evelynn-saya-v1.fantome",
+				"size": 37664382,
+				"sha256": "500fbeae33a3b4d4218bf5e83ab30f6b71f912d9999f5df9c154cd3265c7cbf9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "evernight-talon",
+			"name": "Evernight Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/evernight-talon/thumb.webp?v=571c8890",
+			"file": {
+				"version": 1,
+				"asset": "evernight-talon-v1.fantome",
+				"size": 17422218,
+				"sha256": "6a5e116031dcb646383fda41097e744263193107e1bd73dab24c00f4d2fa6058"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ezreal-beezreal",
+			"name": "Beezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ezreal-beezreal/thumb.webp?v=e3682432",
+			"file": {
+				"version": 1,
+				"asset": "ezreal-beezreal-v1.fantome",
+				"size": 31523448,
+				"sha256": "e92386c077610190cc8792d111a6f0b052906ece078ade4018086866538b013f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ezreal-ezrael-finger-bearer",
+			"name": "Ezrael Finger Bearer",
+			"champion": 81,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ezreal-ezrael-finger-bearer/thumb.webp?v=ca964920",
+			"file": {
+				"version": 1,
+				"asset": "ezreal-ezrael-finger-bearer-v1.fantome",
+				"size": 6521015,
+				"sha256": "ae904dabc628f0c168973dea7a4060a0f50911dd87f14669c1fd1ccc889a6299"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ezreal-ezrael-subaru",
+			"name": "Ezrael Subaru",
+			"champion": 81,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ezreal-ezrael-subaru/thumb.webp?v=ea355fac",
+			"file": {
+				"version": 1,
+				"asset": "ezreal-ezrael-subaru-v1.fantome",
+				"size": 14286592,
+				"sha256": "e709050c9d67f21a3680da356817ebd7f17cee3028ffd34a1ac7a4153267ff5b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ezreal-frieza",
+			"name": "Frieza",
+			"champion": 81,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ezreal-frieza/thumb.webp?v=4d203351",
+			"file": {
+				"version": 1,
+				"asset": "ezreal-frieza-v1.fantome",
+				"size": 40012581,
+				"sha256": "64a7886372ecc3987f32716ba4b33e335675fcf4f1255a76617197ba4c3611e6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ezreal-gojo",
+			"name": "Gojo",
+			"champion": 81,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ezreal-gojo/thumb.webp?v=9496df15",
+			"file": {
+				"version": 1,
+				"asset": "ezreal-gojo-v1.fantome",
+				"size": 35271071,
+				"sha256": "135cf92879b9d53571e778ef18b6991f7810e5bea039a3989f181194dcbb2768"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ezreal-gojo-satoru-shinjuku-showdown-outfit",
+			"name": "Ezreal Gojo Satoru (Shinjuku Showdown Outfit)",
+			"champion": 81,
+			"base": 0,
+			"creator": "megaomg",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ezreal-gojo-satoru-shinjuku-showdown-outfit/thumb.webp?v=070867e3",
+			"file": {
+				"version": 1,
+				"asset": "ezreal-gojo-satoru-shinjuku-showdown-outfit-v1.fantome",
+				"size": 24659822,
+				"sha256": "64fc0a30cde2adde001eedfa4fa48d022595b22c8516a1f6c26ea5e358d0b4a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ezreal-regulus",
+			"name": "Ezreal Regulus",
+			"champion": 81,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/ezreal-regulus/thumb.webp?v=4fe0ad75",
+			"file": {
+				"version": 1,
+				"asset": "ezreal-regulus-v1.fantome",
+				"size": 21797176,
+				"sha256": "2e44f362a22c560e538dbdcc56346ac41b1cda52d6d9c8c824b85b00cf27c497"
 			},
 			"chromas": []
 		},

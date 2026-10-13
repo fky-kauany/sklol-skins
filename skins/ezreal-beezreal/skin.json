@@ -1,0 +1,26 @@
+{
+	"id": "ezreal-beezreal",
+	"name": "Beezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "frog",
+	"description": "Model taken from Malzahar\n\n### ? Support Me\n\nEnjoyed the mod? Cool*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/beezreal\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/ezreal-beezreal/thumb.webp?v=e3682432",
+	"file": {
+		"version": 1,
+		"asset": "ezreal-beezreal-v1.fantome",
+		"size": 31523448,
+		"sha256": "e92386c077610190cc8792d111a6f0b052906ece078ade4018086866538b013f"
+	},
+	"chromas": []
+}
