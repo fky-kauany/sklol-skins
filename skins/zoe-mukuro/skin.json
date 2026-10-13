@@ -1,0 +1,26 @@
+{
+	"id": "zoe-mukuro",
+	"name": "Zoé Mukuro",
+	"champion": 142,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MUKURO HOSHIMIYA 」\n### *Replaces Zoe*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/zoe-mukuro\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zoe-mukuro/thumb.webp?v=9748e0e6",
+	"file": {
+		"version": 1,
+		"asset": "zoe-mukuro-v1.fantome",
+		"size": 42671730,
+		"sha256": "3e596af6210c701f15a99e36e563775c1ec7f193cdad69fc913d0f1a73ec341f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "zoro-yone",
+	"name": "Zoro Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "frog",
+	"description": "Master of three swords, master of the battlefield. This custom skin transforms **Yone** into the ultimate swordsman, **Zoro**. Wield your blades with unparalleled skill and become the world's strongest fighter. Your enemies won't stand a chance against your resolve.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/zorro-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zoro-yone/thumb.webp?v=4504a308",
+	"file": {
+		"version": 1,
+		"asset": "zoro-yone-v1.fantome",
+		"size": 17619496,
+		"sha256": "da7be6519ed15ef01dd71a489246df0402ee59696374d00e40aabdfd3cbd80b8"
+	},
+	"chromas": []
+}

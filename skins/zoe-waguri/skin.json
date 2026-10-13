@@ -1,0 +1,26 @@
+{
+	"id": "zoe-waguri",
+	"name": "Zoe Waguri",
+	"champion": 142,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KAORUKO WAGURI 」\r\n### *Replaces Zoe*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/zoe-waguri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zoe-waguri/thumb.webp?v=7eee5119",
+	"file": {
+		"version": 1,
+		"asset": "zoe-waguri-v1.fantome",
+		"size": 40460255,
+		"sha256": "3549b182d3d4dea2ef146acd2718dfe7e8252d33b84486059ec0dcddf0474516"
+	},
+	"chromas": []
+}
