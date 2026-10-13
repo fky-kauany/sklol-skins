@@ -1,0 +1,26 @@
+{
+	"id": "zed-funny-valentine",
+	"name": "Zed Funny Valentine",
+	"champion": 238,
+	"base": 0,
+	"creator": "lita",
+	"description": "\"My heart and actions are utterly unclouded. They are all those of 'Justice'.\"\nI tried my best to recreate an old skin that I loved, though I can’t remember the creator’s name. I used the original design as a foundation to “restore” it, and for the parts I couldn’t restore, I created them myself. I hope you’ll enjoy this skin—which I loved so much—in its new, revamped form!\n\n---\n\n**Created by** [lita](https://www.divineskins.gg/lita)\n\n**Original:** https://www.divineskins.gg/lita/zed-funny-valentine\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zed-funny-valentine/thumb.webp?v=d5c53fa6",
+	"file": {
+		"version": 1,
+		"asset": "zed-funny-valentine-v1.fantome",
+		"size": 18534232,
+		"sha256": "aab837bddd3017950274baca4d5f85716b516012cb10a8870ab6e660bfb164af"
+	},
+	"chromas": []
+}

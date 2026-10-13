@@ -1,0 +1,26 @@
+{
+	"id": "zed-eclipse-venom",
+	"name": "Eclipse Venom",
+	"champion": 238,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Eclipse Venom Zed\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/eclipse-venom-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zed-eclipse-venom/thumb.webp?v=78113550",
+	"file": {
+		"version": 1,
+		"asset": "zed-eclipse-venom-v1.fantome",
+		"size": 15669889,
+		"sha256": "0b09b429f5850798ca18503c993ca4af77eb8637bd664d9068cecd6b524bc6ea"
+	},
+	"chromas": []
+}

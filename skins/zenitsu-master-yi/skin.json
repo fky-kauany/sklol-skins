@@ -1,0 +1,25 @@
+{
+	"id": "zenitsu-master-yi",
+	"name": "Zenitsu Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "frog",
+	"description": "https://www.youtube.com/shorts/9FyyYsH2tRw\n\n### ? Mod Info\n\n**Type:** Anime Mod\n**Modified Skin(s):** All Yi Skins\n\n### ? Credits\n\n**Model(s):** Eh Demon Slayer\n**Special Thanks: **Demon Slayer\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord\n\n### ? Support Me\n\nEnjoyed the mod? Cool\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/zenitsu-master-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zenitsu-master-yi/thumb.webp?v=d2a84e85",
+	"file": {
+		"version": 1,
+		"asset": "zenitsu-master-yi-v1.fantome",
+		"size": 5180017,
+		"sha256": "dc2945e31403c56adde47cf84241fb7c30920904e9fc5642baeadacc14a072f8"
+	},
+	"chromas": []
+}

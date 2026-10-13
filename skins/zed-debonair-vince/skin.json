@@ -1,0 +1,25 @@
+{
+	"id": "zed-debonair-vince",
+	"name": "Zed Debonair Vince",
+	"champion": 238,
+	"base": 0,
+	"creator": "vincealucard",
+	"description": "---\n\n**Created by** [VinceAlucard](https://www.divineskins.gg/VinceAlucard)\n\n**Original:** https://www.divineskins.gg/VinceAlucard/zed-debonair-vince\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zed-debonair-vince/thumb.webp?v=ee1898f7",
+	"file": {
+		"version": 1,
+		"asset": "zed-debonair-vince-v1.fantome",
+		"size": 9161333,
+		"sha256": "36392fce1b0c6ef616f76a1f7004cbd12d3fd5e7121d9dbeaa1595be03ba9eff"
+	},
+	"chromas": []
+}

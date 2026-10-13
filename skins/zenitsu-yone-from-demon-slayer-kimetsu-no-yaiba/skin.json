@@ -1,0 +1,26 @@
+{
+	"id": "zenitsu-yone-from-demon-slayer-kimetsu-no-yaiba",
+	"name": "Zenitsu Yone from Demon Slayer / Kimetsu no Yaiba",
+	"champion": 777,
+	"base": 0,
+	"creator": "davexfn",
+	"description": "# Zenitsu Yone from Demon Slayer / Kimetsu no Yaiba :\r\n---\r\n\r\n> *\"The Rift will never be the same. Zenitsu has arrived!\"*\r\n\r\n## ⚙️ Skin Information\r\n\r\n* **Modified Skin:** All\r\n* **Character Quality**: All\r\n* **Language**: en_US\r\n* **Author:** Davex\r\n\r\n---\r\n\r\n## 💫 Features:\r\n\r\n- ✨ New Custom Model\r\n- 🎨 New Custom Textures\r\n- 💥 New Custom VFX\r\n- 🔊 New Custom SFX\r\n- 🏃🏻‍♀️ New Custom Animations\r\n- 👤 New Champion Icons\r\n- 🖼️ New Loading Screen\r\n\r\n---\r\n\r\n## 💬 Contact & Support\r\n\r\nAny suggestions, ideas, questions, or bug reports? Send them over!\r\n* **Discord:** davex45a **[Come join my server!](https://discord.gg/XDF5Xma456)**\r\n* **YouTube Preview:** [Watch here!](https://www.youtube.com/watch?v=7LPyTAaU_P8)\r\n**If you are interested in commissioning a skin, feel free to send me a DM on Discord! :D**\r\n\r\n💖 *If you like my work and want to keep my creativity flowing, consider supporting me!*\r\n\r\n[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davex45)\r\n\r\n*Originally created by Davex.*\r\n\r\n---\r\n\r\n## 🙏🏻 Credits:\r\n\r\nHuuge thanks to the goat DjakDawid for commissioning and providing the assets <3<3\n\n---\n\n**Created by** [davexFN](https://www.divineskins.gg/davexFN)\n\n**Original:** https://www.divineskins.gg/davexFN/zenitsu-yone-from-demon-slayer-kimetsu-no-yaiba\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zenitsu-yone-from-demon-slayer-kimetsu-no-yaiba/thumb.webp?v=bcfa3c4e",
+	"file": {
+		"version": 1,
+		"asset": "zenitsu-yone-from-demon-slayer-kimetsu-no-yaiba-v1.fantome",
+		"size": 37940575,
+		"sha256": "c4c910609125eb53f7bbf61d8590f842b10d91f0cec74010bcd1ca3c761ce22c"
+	},
+	"chromas": []
+}

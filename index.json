@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:53:08.705Z",
+	"generatedAt": "2026-10-13T07:56:29.592Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -453,6 +453,11 @@
 			"links": {
 				"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
 			}
+		},
+		"mustafa-zkaya": {
+			"name": "Mustafa_zkaya",
+			"avatar": "creators/mustafa-zkaya.jpg?v=2dfb00b6",
+			"links": {}
 		},
 		"mxdjid": {
 			"name": "mxdjid",
@@ -23406,6 +23411,264 @@
 				"asset": "zed-death-sworn-demon-v1.fantome",
 				"size": 6842813,
 				"sha256": "3ec8fcf05a1b73717cc73df10ff3d01a11c4eed315927552641ace1c3e883de5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-debonair-vince",
+			"name": "Zed Debonair Vince",
+			"champion": 238,
+			"base": 0,
+			"creator": "vincealucard",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zed-debonair-vince/thumb.webp?v=ee1898f7",
+			"file": {
+				"version": 1,
+				"asset": "zed-debonair-vince-v1.fantome",
+				"size": 9161333,
+				"sha256": "36392fce1b0c6ef616f76a1f7004cbd12d3fd5e7121d9dbeaa1595be03ba9eff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-eclipse-venom",
+			"name": "Eclipse Venom",
+			"champion": 238,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zed-eclipse-venom/thumb.webp?v=78113550",
+			"file": {
+				"version": 1,
+				"asset": "zed-eclipse-venom-v1.fantome",
+				"size": 15669889,
+				"sha256": "0b09b429f5850798ca18503c993ca4af77eb8637bd664d9068cecd6b524bc6ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-funny-valentine",
+			"name": "Zed Funny Valentine",
+			"champion": 238,
+			"base": 0,
+			"creator": "lita",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zed-funny-valentine/thumb.webp?v=d5c53fa6",
+			"file": {
+				"version": 1,
+				"asset": "zed-funny-valentine-v1.fantome",
+				"size": 18534232,
+				"sha256": "aab837bddd3017950274baca4d5f85716b516012cb10a8870ab6e660bfb164af"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-noob-saibot",
+			"name": "Noob Saibot",
+			"champion": 238,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zed-noob-saibot/thumb.webp?v=38445fa3",
+			"file": {
+				"version": 1,
+				"asset": "zed-noob-saibot-v1.fantome",
+				"size": 13595573,
+				"sha256": "96731bb460b64b366e213126399f5d61fb67cefcea912a9fd7d8265b188d88f8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-sasuke",
+			"name": "Sasuke",
+			"champion": 238,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zed-sasuke/thumb.webp?v=43ddb0b9",
+			"file": {
+				"version": 1,
+				"asset": "zed-sasuke-v1.fantome",
+				"size": 74725212,
+				"sha256": "8b988669acdb29fe0dce741f71350191dca7e51974a969a396e750a0e29b296d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zenitsu-master-yi",
+			"name": "Zenitsu Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zenitsu-master-yi/thumb.webp?v=d2a84e85",
+			"file": {
+				"version": 1,
+				"asset": "zenitsu-master-yi-v1.fantome",
+				"size": 5180017,
+				"sha256": "dc2945e31403c56adde47cf84241fb7c30920904e9fc5642baeadacc14a072f8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zenitsu-talon",
+			"name": "Zenitsu Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zenitsu-talon/thumb.webp?v=34ef1a3a",
+			"file": {
+				"version": 1,
+				"asset": "zenitsu-talon-v1.fantome",
+				"size": 6254160,
+				"sha256": "eb2c766f109a0431d7f79810dde4786d43673aa1d3afac3e24c86466e9afa4bb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zenitsu-yone-from-demon-slayer-kimetsu-no-yaiba",
+			"name": "Zenitsu Yone from Demon Slayer / Kimetsu no Yaiba",
+			"champion": 777,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zenitsu-yone-from-demon-slayer-kimetsu-no-yaiba/thumb.webp?v=bcfa3c4e",
+			"file": {
+				"version": 1,
+				"asset": "zenitsu-yone-from-demon-slayer-kimetsu-no-yaiba-v1.fantome",
+				"size": 37940575,
+				"sha256": "c4c910609125eb53f7bbf61d8590f842b10d91f0cec74010bcd1ca3c761ce22c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zephyr-dragon-master-yi",
+			"name": "Zephyr Dragon Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "mustafa-zkaya",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zephyr-dragon-master-yi/thumb.webp?v=cb8e92b8",
+			"file": {
+				"version": 1,
+				"asset": "zephyr-dragon-master-yi-v1.fantome",
+				"size": 15376104,
+				"sha256": "e9d0ef269ed77e446929b7f581628436484551ef041b6a36bbc9b15565f6d4c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeraora-master-yi",
+			"name": "Zeraora Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/zeraora-master-yi/thumb.webp?v=5a5d25ee",
+			"file": {
+				"version": 1,
+				"asset": "zeraora-master-yi-v1.fantome",
+				"size": 12258575,
+				"sha256": "e18142663c03920de7af06dbf16b22d8dc6a076d048b917ac86feb4981751f04"
 			},
 			"chromas": []
 		},

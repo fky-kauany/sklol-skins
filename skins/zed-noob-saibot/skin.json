@@ -1,0 +1,26 @@
+{
+	"id": "zed-noob-saibot",
+	"name": "Noob Saibot",
+	"champion": 238,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "Bringing back one of my old mods, thanks to the ease of use of Divine's modding tools!\n\nThis is an up-to-date version of Zed Saibot, swapping Zed's model and voice for that of Noob Saibot. \n\n### **Disclaimer!**\nThis is, by all means, still a very old mod of mine. It's jank and it's pretty ugly (but I did update the textures). So don't expect anything special! But people asked me for it so here it is.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/noob-saibot\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zed-noob-saibot/thumb.webp?v=38445fa3",
+	"file": {
+		"version": 1,
+		"asset": "zed-noob-saibot-v1.fantome",
+		"size": 13595573,
+		"sha256": "96731bb460b64b366e213126399f5d61fb67cefcea912a9fd7d8265b188d88f8"
+	},
+	"chromas": []
+}

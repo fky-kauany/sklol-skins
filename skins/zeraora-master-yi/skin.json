@@ -1,0 +1,26 @@
+{
+	"id": "zeraora-master-yi",
+	"name": "Zeraora Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "nyht",
+	"description": "## ⚡ CHAMPION\n**Master Yi — Zeraora**\n\n**Skin Replacement:** Base Skin\n\n---\n\n## ✨ Unique Features\n\n- **Mega Evolution** activates upon casting Ultimate  \n- There is also a **1% chance to spawn as a Shiny variant** at the start of each game  \n\n---\n\n## 🎨 Custom VFX\n\n- Q Ability  \n- W Ability  \n- E Ability  \n- R Ability  \n- Shiny Zeraora features unique recolored VFX  \n\n---\n\n## 🎬 Custom Animations\n\n- Idle  \n- Attack  \n- Abilities  \n- Recall  \n- Emotes  \n- Death & Respawn  \n\n---\n\n## 🔊 Custom SFX\n\n- Abilities  \n- Emotes  \n- Recall  \n- Death & Respawn  \n- Mega Evolution  \n- Devolution  \n\n---\n\n## 🧩 Custom Models & Textures\n\n- **Zeraora model** taken from *Pokémon Ultra Sun & Ultra Moon*  \n- **Mega Zeraora model** taken from *Pokémon Legends: Z-A*  \n\n---\n\n## 👤 Credits\n\n**Modded by:** Nyht  \n\n**Recall Music:**  \nRefi Sleep Music — *Pokémon Center Theme | Slow & Peaceful Sleep Music*  \n\n**Dance Music:**  \nLofi Lia — *Pokémon Original Series Theme Song (Lofi Lia Remix)*\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/zeraora-master-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zeraora-master-yi/thumb.webp?v=5a5d25ee",
+	"file": {
+		"version": 1,
+		"asset": "zeraora-master-yi-v1.fantome",
+		"size": 12258575,
+		"sha256": "e18142663c03920de7af06dbf16b22d8dc6a076d048b917ac86feb4981751f04"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "zed-sasuke",
+	"name": "Sasuke",
+	"champion": 238,
+	"base": 0,
+	"creator": "frog",
+	"description": "Sasuke Zed\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Zed skin\r\n• Custom Voiceover of Sasuke\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/sasuke-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zed-sasuke/thumb.webp?v=43ddb0b9",
+	"file": {
+		"version": 1,
+		"asset": "zed-sasuke-v1.fantome",
+		"size": 74725212,
+		"sha256": "8b988669acdb29fe0dce741f71350191dca7e51974a969a396e750a0e29b296d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "zephyr-dragon-master-yi",
+	"name": "Zephyr Dragon Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "mustafa-zkaya",
+	"description": "ZEPHYR DRAGON MASTER YI – CUSTOM SKIN\r\n\r\nZephyr Dragon Master Yi is a custom skin created for League of Legends, featuring a unique visual style and custom in-game assets.\r\n\r\nFEATURES\r\n• Custom model and textures\r\n• In-game visual changes\r\n• Custom skin assets\r\n• Designed for use with Celestial Launcher\r\n\r\nINSTALLATION\r\n\r\n1. Download the skin from the link provided above.\r\n2. Open Celestial Launcher.\r\n3. Import or add the downloaded skin to Celestial Launcher.\r\n4. Save the skin/mod.\r\n5. Click START to launch League of Legends with the custom skin enabled.\r\n\r\nFor the best experience, make sure Celestial Launcher and League of Legends are up to date.\r\n\r\nIMPORTANT\r\n\r\nThis is a fan-made custom skin and is not affiliated with or endorsed by Riot Games.\r\n\r\nThe skin is intended for personal use and showcase purposes only.\r\n\r\nIf you enjoy the skin, consider subscribing for more League of Legends custom skins and showcases.\r\n\r\nZEHPYR DRAGON MASTER YI\r\nLeague of Legends Custom Skin\r\nCustom Skin Showcase\r\nMaster Yi Skin Mod\r\nLeague of Legends Mod\r\n\r\n#LeagueOfLegends #MasterYi #CustomSkin #SkinMod\n\n---\n\n**Created by** [Mustafa_zkaya](https://www.divineskins.gg/Mustafa_zkaya)\n\n**Original:** https://www.divineskins.gg/Mustafa_zkaya/zephyr-master-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/zephyr-dragon-master-yi/thumb.webp?v=cb8e92b8",
+	"file": {
+		"version": 1,
+		"asset": "zephyr-dragon-master-yi-v1.fantome",
+		"size": 15376104,
+		"sha256": "e9d0ef269ed77e446929b7f581628436484551ef041b6a36bbc9b15565f6d4c0"
+	},
+	"chromas": []
+}
