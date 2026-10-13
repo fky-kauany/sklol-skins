@@ -1,0 +1,26 @@
+{
+	"id": "kizaru-kassadin",
+	"name": "Kizaru Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "frog",
+	"description": "## ⚡ Kizaru: The Yellow Monkey\r\n\r\nThe embodiment of \"Unclear Justice\" has descended upon Summoner's Rift. This mod replaces Kassadin with Borsalino, better known as Marine Admiral Kizaru. Harnessing the power of the Pika Pika no Mi, the Void Walker is transformed into a Glint-Glint Human. Why walk when you can travel at the speed of light?\r\n\r\n> *\"Speed is weight. Have you ever been kicked at the speed of light?\"*\r\n\r\n---\r\n\r\n### 🛡️ Skin Information\r\n\r\n* **Modified Champion:** Kassadin\r\n* **Modified Skin:** All Kassadin Skins\r\n* **Character:** Admiral Kizaru (*One Piece*)\r\n* **Author:** Frog\r\n\r\n---\r\n\r\n### ✨ Ability Reimagining\r\n\r\n* **Q - Null Sphere:** Kizaru fires a Yasakani no Magatama light bead, silencing the enemy's momentum.\r\n* **W - Nether Blade:** Kizaru manifests the Ama no Murakumo (Sword of Gathering Clouds) for a high-velocity strike.\r\n* **E - Force Pulse:** A concentrated burst of light energy that slows enemies as if they're caught in a daze.\r\n* **R - Riftwalk:** The iconic Yata no Kagami. Kizaru transforms into pure light, instantly repositioning to kick his target.\r\n\r\n---\r\n\r\n### ⚖️ Disclaimer & Credits\r\n\r\n* **Copyright:** The character Kizaru (Borsalino) and the *One Piece* franchise are the property of Eiichiro Oda, Shueisha, and Toei Animation.\r\n* **Mod Ownership:** The copyright for these specific modifications belongs to Frog.\r\n* **Affiliation:** This fan-made modification is not affiliated with or endorsed by Riot Games or any of the aforementioned copyright holders.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/kizaru-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kizaru-kassadin/thumb.webp?v=9c8025b1",
+	"file": {
+		"version": 1,
+		"asset": "kizaru-kassadin-v1.fantome",
+		"size": 5295730,
+		"sha256": "1999089f601c023deb1edc90397074327e5eb16ae0cd908df38958e84fc86bdf"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:07:40.803Z",
+	"generatedAt": "2026-10-13T04:11:00.924Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -5893,6 +5893,267 @@
 				"asset": "kha-zix-beru-khazix-v1.fantome",
 				"size": 11405320,
 				"sha256": "107ceaf07735ae66095e3376b6a1007d48f5a8a537da9bc4d1f912867ef202cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kha-zix-kars-zix",
+			"name": "Kars'Zix",
+			"champion": 121,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kha-zix-kars-zix/thumb.webp?v=58fd122b",
+			"file": {
+				"version": 1,
+				"asset": "kha-zix-kars-zix-v1.fantome",
+				"size": 15889551,
+				"sha256": "9dfac0c98d8b01139ea59d8907cd7f4d2dd87a1a2ab50c7fa2186cc33aca3d42"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kha-zix-the-predator",
+			"name": "The Predator",
+			"champion": 121,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kha-zix-the-predator/thumb.webp?v=ba0647bc",
+			"file": {
+				"version": 1,
+				"asset": "kha-zix-the-predator-v1.fantome",
+				"size": 18743551,
+				"sha256": "ef03e427b325052799ad7ede8184ae2364f4243b5e9f04fa7e5a1c594cf50275"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kiana-samira",
+			"name": "Kiana Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kiana-samira/thumb.webp?v=8269437d",
+			"file": {
+				"version": 1,
+				"asset": "kiana-samira-v1.fantome",
+				"size": 13540225,
+				"sha256": "4e698b273046028a609c65b75e532b60d3a695f7d2475cd4859180ba3848e7df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "king-fleshpound-sett",
+			"name": "King Fleshpound (Sett)",
+			"champion": 875,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/king-fleshpound-sett/thumb.webp?v=93121fae",
+			"file": {
+				"version": 1,
+				"asset": "king-fleshpound-sett-v1.fantome",
+				"size": 17906601,
+				"sha256": "ed39b7e6669dff7ad0045cc1a57bb723e3d9230429abb34915e643952c6f762b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "king-nassir-ekko",
+			"name": "king nassir ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/king-nassir-ekko/thumb.webp?v=85656ba7",
+			"file": {
+				"version": 1,
+				"asset": "king-nassir-ekko-v1.fantome",
+				"size": 6805801,
+				"sha256": "484662e2569cb594d0bc3ba117fcb7cf38a09846b610dc4f1178bbfe72d5a1f2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "king-sett",
+			"name": "King Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/king-sett/thumb.webp?v=85353444",
+			"file": {
+				"version": 1,
+				"asset": "king-sett-v1.fantome",
+				"size": 27084223,
+				"sha256": "85bc39af5be9fa85a4cedb4544768ea71478cb1cdfdb19232209f43a58dd7132"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kirara-darius",
+			"name": "Kirara Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kirara-darius/thumb.webp?v=2d974d1e",
+			"file": {
+				"version": 1,
+				"asset": "kirara-darius-v1.fantome",
+				"size": 9978331,
+				"sha256": "e0733d0cf93aa0dc5c1460e279f946023e58f501f680081b50da8ddecd706a87"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kirito-yone",
+			"name": "Kirito yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "aphex",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kirito-yone/thumb.webp?v=3ff2b258",
+			"file": {
+				"version": 1,
+				"asset": "kirito-yone-v1.fantome",
+				"size": 37537011,
+				"sha256": "c283a1e70a2b3faec5131c254f70c38f38af42dfd95d89e7aa437cd0a7963a90"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kiss-shot-ambessa",
+			"name": "Kiss-shot Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "gockar",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kiss-shot-ambessa/thumb.webp?v=2ca1b279",
+			"file": {
+				"version": 1,
+				"asset": "kiss-shot-ambessa-v1.fantome",
+				"size": 28339090,
+				"sha256": "ea036962c457cf2ea690f2ce3fc3be9ee5bd2b3ac3e1c42c4ca66ef276b715e1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kizaru-kassadin",
+			"name": "Kizaru Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/kizaru-kassadin/thumb.webp?v=9c8025b1",
+			"file": {
+				"version": 1,
+				"asset": "kizaru-kassadin-v1.fantome",
+				"size": 5295730,
+				"sha256": "1999089f601c023deb1edc90397074327e5eb16ae0cd908df38958e84fc86bdf"
 			},
 			"chromas": []
 		},

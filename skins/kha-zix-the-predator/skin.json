@@ -1,0 +1,26 @@
+{
+	"id": "kha-zix-the-predator",
+	"name": "The Predator",
+	"champion": 121,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n- Custom animations\r\n- Custom Voice-over for all languages\r\n- New VFX\r\n- New SFX\r\n- Custom Evolutions\r\n- Custom loading screen and in-game icons\r\n- A skull trophy from the enemy jungler\r\n\r\n\r\nThe Predator, a member of the alien species of Yautja, is here to hunt. Take the jungle as your own and let none live.\r\n\r\n\r\nIt's a total overhaul, turning Kha'Zix into the fearsome Predator. Comes with fully custom animations, unique evolutions (Q for wristblades, W for shoulder cannon, E for the mask and R for mask and skin colour), bloody VFX, satisfying SFX and plenty of the Predator's grunts and growls as the voice-over.\r\nThis mod overrides every skin, meaning, no matter which Kha'Zix skin you or the enemy picks in champ select, you will always see the Predator.\r\n\r\nCREDITS:\r\nThank you to NeoXstyles for greatly enhancing the textures, and making new ones for the R evolution.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/the-predator\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kha-zix-the-predator/thumb.webp?v=ba0647bc",
+	"file": {
+		"version": 1,
+		"asset": "kha-zix-the-predator-v1.fantome",
+		"size": 18743551,
+		"sha256": "ef03e427b325052799ad7ede8184ae2364f4243b5e9f04fa7e5a1c594cf50275"
+	},
+	"chromas": []
+}

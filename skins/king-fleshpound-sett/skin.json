@@ -1,0 +1,26 @@
+{
+	"id": "king-fleshpound-sett",
+	"name": "King Fleshpound (Sett)",
+	"champion": 875,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Sett\n\nSkin: Any (only tested in default)\n\nAuthor: Sauronkaiser\n\nDescription: King Fleshpound, from Killing Floor 2\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New animations added to the set.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-British humor included.\n\n-Quarterpounds also included.\n\n-A decent third game not included.\n\nCredits and references:\n\n-Most animations made by me, some extracted from KF2 and modified.\n\n-Models extracted from Killing floor 1 and 2.\n\n-The joke emote references the Pillar Men music from JoJo's bizarre adventure.\n\n-The taunt emote has a cameo to Top Gear.\n\n-The dance emote features \"Spike Grinder\", which is the theme of King Fleshpound in Killing Floor 2.\n\n-The laugh emote references one of the episodes of Rick Stein Long Weekends (a british gastronomy series) in Cadiz, Spain. This is the exact moment referenced: https://www.youtube.com/watch?v=1-PxXUjJ_iw\n\n-The respawn emote references the Trader from Killing Floor 1.\n\n-Special thanks to HarpyQueen for helping with the textures.\n\n-Special thanks to Aurecueil for the repathing.\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/king-fleshpound-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/king-fleshpound-sett/thumb.webp?v=93121fae",
+	"file": {
+		"version": 1,
+		"asset": "king-fleshpound-sett-v1.fantome",
+		"size": 17906601,
+		"sha256": "ed39b7e6669dff7ad0045cc1a57bb723e3d9230429abb34915e643952c6f762b"
+	},
+	"chromas": []
+}

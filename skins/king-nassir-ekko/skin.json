@@ -1,0 +1,26 @@
+{
+	"id": "king-nassir-ekko",
+	"name": "king nassir ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/king-nassir-ekko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/king-nassir-ekko/thumb.webp?v=85656ba7",
+	"file": {
+		"version": 1,
+		"asset": "king-nassir-ekko-v1.fantome",
+		"size": 6805801,
+		"sha256": "484662e2569cb594d0bc3ba117fcb7cf38a09846b610dc4f1178bbfe72d5a1f2"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "kirito-yone",
+	"name": "Kirito yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "aphex",
+	"description": "## COMMISION ME ON DISCORD @4phex.\n\n\n\n- model\n\n- voice line\n- vfx\n- HUD\n\n---\n\n**Created by** [Aphex](https://www.divineskins.gg/Aphex), [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/Aphex/kirito-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kirito-yone/thumb.webp?v=3ff2b258",
+	"file": {
+		"version": 1,
+		"asset": "kirito-yone-v1.fantome",
+		"size": 37537011,
+		"sha256": "c283a1e70a2b3faec5131c254f70c38f38af42dfd95d89e7aa437cd0a7963a90"
+	},
+	"chromas": []
+}

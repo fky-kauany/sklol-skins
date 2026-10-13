@@ -1,0 +1,27 @@
+{
+	"id": "kiss-shot-ambessa",
+	"name": "Kiss-shot Ambessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "gockar",
+	"description": "Ambessa as Kiss-shot from Monogatari\n\nCustom model\nCustom voices\nCustom vfx\nCustom sfx\n\n---\n\n**Created by** [Gockar](https://www.divineskins.gg/Gockar)\n\n**Original:** https://www.divineskins.gg/Gockar/kiss-shot-ambessa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/kiss-shot-ambessa/thumb.webp?v=2ca1b279",
+	"file": {
+		"version": 1,
+		"asset": "kiss-shot-ambessa-v1.fantome",
+		"size": 28339090,
+		"sha256": "ea036962c457cf2ea690f2ce3fc3be9ee5bd2b3ac3e1c42c4ca66ef276b715e1"
+	},
+	"chromas": []
+}
