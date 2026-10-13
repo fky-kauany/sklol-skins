@@ -1,0 +1,26 @@
+{
+	"id": "magtorture-yorick",
+	"name": "magtorture yorick",
+	"champion": 83,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "Modified champion: Yorick Modified skin: Default Author: Mojkqueira Discord: serrandoafimose [Krinkels](https://twitter.com/MRKrinkels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) creator of this madness [tottu](https://www.newgrounds.com/art/view/tottu-1280/happy-madness-day-2021-model-release-page) made the 3d model of the zombies\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/magtorture-yorick\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/magtorture-yorick/thumb.webp?v=a7de57f3",
+	"file": {
+		"version": 1,
+		"asset": "magtorture-yorick-v1.fantome",
+		"size": 14578928,
+		"sha256": "61b11583efcd14d1224dd4ef7649a8e82ba9a6593bf9e0056028c12fccbfddf4"
+	},
+	"chromas": []
+}

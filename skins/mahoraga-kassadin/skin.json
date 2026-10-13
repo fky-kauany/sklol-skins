@@ -1,0 +1,26 @@
+{
+	"id": "mahoraga-kassadin",
+	"name": "Mahoraga Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### ? Mod Info\n**Type:** Mahoraga As Kassadin\n**Modified Skin(s):** All skins except Legendary-tier and above.\n\n### ? Credits\n**Special Thanks:** tanaaxd for commissioning the skin : P\n\n### ? Additional Info\nQuestions or requests? DM me on Discord or join the Divine Skins server.\n\n### ? Support Me\nEnjoyed the mod? Help fuel future projects: [Donate](ko-fi.com/czkostumli)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/mahoraga-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mahoraga-kassadin/thumb.webp?v=f7e1c507",
+	"file": {
+		"version": 1,
+		"asset": "mahoraga-kassadin-v1.fantome",
+		"size": 12718289,
+		"sha256": "b48ed8d7707b8af49e4aba38b27d341bf74ae1136f8e3cf8dd8a267aa8404f9c"
+	},
+	"chromas": []
+}

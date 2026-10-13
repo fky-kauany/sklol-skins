@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:31:03.591Z",
+	"generatedAt": "2026-10-13T04:34:23.475Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -7705,6 +7705,264 @@
 				"asset": "lux-nami-v1.fantome",
 				"size": 10497856,
 				"sha256": "c9a4d10f59f2bfb8bb0b1ca95f03bbe7d6f9a8d9908d119d3324e1ca4ae71753"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lux-yuta",
+			"name": "Yuta",
+			"champion": 99,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lux-yuta/thumb.webp?v=1696db05",
+			"file": {
+				"version": 1,
+				"asset": "lux-yuta-v1.fantome",
+				"size": 38774628,
+				"sha256": "4f71c0aa48a36cdbffae0d3adce147e3b9f46766208f1257b96f6075ffe3b199"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lynae-zeri",
+			"name": "Lynae Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lynae-zeri/thumb.webp?v=c6c8e1e3",
+			"file": {
+				"version": 1,
+				"asset": "lynae-zeri-v1.fantome",
+				"size": 14153387,
+				"sha256": "7ac3222da9183cc4041521d8bf749530547d6ca897fc8b7ec3d41a191e9329c6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "maddelena-aurora",
+			"name": "Maddelena Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/maddelena-aurora/thumb.webp?v=f92ff533",
+			"file": {
+				"version": 1,
+				"asset": "maddelena-aurora-v1.fantome",
+				"size": 10516034,
+				"sha256": "ba2792575e6e8221de0256e7743ce7644be3e275848cd448a2e725514b44a267"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mafia-vayne",
+			"name": "Mafia Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mafia-vayne/thumb.webp?v=35660aad",
+			"file": {
+				"version": 1,
+				"asset": "mafia-vayne-v1.fantome",
+				"size": 7602231,
+				"sha256": "9f73fd33e1d2bc49596e630898846fbe68927df43b8d0d5ff5a248cc60421e4c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mafia-zeri",
+			"name": "Mafia Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mafia-zeri/thumb.webp?v=572de5ad",
+			"file": {
+				"version": 1,
+				"asset": "mafia-zeri-v1.fantome",
+				"size": 18314417,
+				"sha256": "cdc3e15f0eec930343c93aedb222baa1500d0e9d7d85fa634d983e3388d06171"
+			},
+			"chromas": []
+		},
+		{
+			"id": "magneto-viktor",
+			"name": "Magneto Viktor",
+			"champion": 112,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/magneto-viktor/thumb.webp?v=7ede539c",
+			"file": {
+				"version": 1,
+				"asset": "magneto-viktor-v1.fantome",
+				"size": 59996134,
+				"sha256": "3905028ea1fc089599909ea74e1b97b6b725c8fbe8860f6315ad21206268cc2b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "magtorture-yorick",
+			"name": "magtorture yorick",
+			"champion": 83,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/magtorture-yorick/thumb.webp?v=a7de57f3",
+			"file": {
+				"version": 1,
+				"asset": "magtorture-yorick-v1.fantome",
+				"size": 14578928,
+				"sha256": "61b11583efcd14d1224dd4ef7649a8e82ba9a6593bf9e0056028c12fccbfddf4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mahito-shaco",
+			"name": "Mahito Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mahito-shaco/thumb.webp?v=7c4bf715",
+			"file": {
+				"version": 1,
+				"asset": "mahito-shaco-v1.modpkg",
+				"size": 5403279,
+				"sha256": "396d2a96cd34176bedfb5ac5485b17dbfa25bc1aa52e74206aa7e1860fadf3ac"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mahoraga-kassadin",
+			"name": "Mahoraga Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mahoraga-kassadin/thumb.webp?v=f7e1c507",
+			"file": {
+				"version": 1,
+				"asset": "mahoraga-kassadin-v1.fantome",
+				"size": 12718289,
+				"sha256": "b48ed8d7707b8af49e4aba38b27d341bf74ae1136f8e3cf8dd8a267aa8404f9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mahoraga-malphite",
+			"name": "Mahoraga Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mahoraga-malphite/thumb.webp?v=c903ed54",
+			"file": {
+				"version": 1,
+				"asset": "mahoraga-malphite-v1.fantome",
+				"size": 5755714,
+				"sha256": "44e5846587c2463e8beea9e9f961ba30737974c4eb53bfe608084c0fbee65049"
 			},
 			"chromas": []
 		},

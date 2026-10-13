@@ -1,0 +1,26 @@
+{
+	"id": "lux-yuta",
+	"name": "Yuta",
+	"champion": 99,
+	"base": 0,
+	"creator": "frog",
+	"description": ".\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/yuta-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lux-yuta/thumb.webp?v=1696db05",
+	"file": {
+		"version": 1,
+		"asset": "lux-yuta-v1.fantome",
+		"size": 38774628,
+		"sha256": "4f71c0aa48a36cdbffae0d3adce147e3b9f46766208f1257b96f6075ffe3b199"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "mafia-zeri",
+	"name": "Mafia Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "valfren",
+	"description": "## GUN THEM DOWN IN STYLE WITH THIS HOT NEW ZERI  SKIN\n\n**What's included**\nCustom Model, SFX, VFX\n**Works on:** All skins except Legendary and above\n\n*Fan-made. Not affiliated with Riot Games.*\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/mafia-zeri\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mafia-zeri/thumb.webp?v=572de5ad",
+	"file": {
+		"version": 1,
+		"asset": "mafia-zeri-v1.fantome",
+		"size": 18314417,
+		"sha256": "cdc3e15f0eec930343c93aedb222baa1500d0e9d7d85fa634d983e3388d06171"
+	},
+	"chromas": []
+}

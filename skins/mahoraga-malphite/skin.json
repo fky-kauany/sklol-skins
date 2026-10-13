@@ -1,0 +1,25 @@
+{
+	"id": "mahoraga-malphite",
+	"name": "Mahoraga Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Mahoraga Malphite\n\n### Features\n\n- **Custom model**: Malphite reimagined with Mahoraga’s skeletal armor + divine wheel\n- **Custom abilities**: Cursed energy VFX and adaptive shockwave-themed animations\n- **Works on every Malphite skin** — from base to legendary chromas\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/mahoraga-malphite\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mahoraga-malphite/thumb.webp?v=c903ed54",
+	"file": {
+		"version": 1,
+		"asset": "mahoraga-malphite-v1.fantome",
+		"size": 5755714,
+		"sha256": "44e5846587c2463e8beea9e9f961ba30737974c4eb53bfe608084c0fbee65049"
+	},
+	"chromas": []
+}

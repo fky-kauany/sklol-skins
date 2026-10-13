@@ -1,0 +1,26 @@
+{
+	"id": "lynae-zeri",
+	"name": "Lynae Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "Zeri as Lynae from Wuthering Waves.\r\n\r\nSkin Features:\r\nCustom Model\r\nCustom VFX\r\nCustom Icon and Banner\r\nVoice Over\r\n\r\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins or [My](https://discord.gg/vXHXVgv7qy) Discord server.\r\n\r\nMy Discord: @nyxns0 | https://discord.gg/vXHXVgv7qy\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/lynae-zeri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lynae-zeri/thumb.webp?v=c6c8e1e3",
+	"file": {
+		"version": 1,
+		"asset": "lynae-zeri-v1.fantome",
+		"size": 14153387,
+		"sha256": "7ac3222da9183cc4041521d8bf749530547d6ca897fc8b7ec3d41a191e9329c6"
+	},
+	"chromas": []
+}

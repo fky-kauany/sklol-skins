@@ -1,0 +1,26 @@
+{
+	"id": "mafia-vayne",
+	"name": "Mafia Vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "valfren",
+	"description": "### SKIN INFORMATION\r\n* Champion: Vayne\r\n* Modified skin: Base\r\n* Author: Valfren\r\n* Version: 1.0.3\r\n* Description: Custom model,VFX, and SFX\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/mafia-vayne\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mafia-vayne/thumb.webp?v=35660aad",
+	"file": {
+		"version": 1,
+		"asset": "mafia-vayne-v1.fantome",
+		"size": 7602231,
+		"sha256": "9f73fd33e1d2bc49596e630898846fbe68927df43b8d0d5ff5a248cc60421e4c"
+	},
+	"chromas": []
+}
