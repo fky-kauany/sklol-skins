@@ -1,0 +1,26 @@
+{
+	"id": "pentakill-superfan-gnar",
+	"name": "Pentakill Superfan Gnar",
+	"champion": 150,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/pentakill-superfan-gnar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pentakill-superfan-gnar/thumb.webp?v=c1e19361",
+	"file": {
+		"version": 1,
+		"asset": "pentakill-superfan-gnar-v1.fantome",
+		"size": 10897246,
+		"sha256": "924cc8f13ae0ec0e790b7698ad261d60d75739c0e0bd5908b493b3ebd417cdab"
+	},
+	"chromas": []
+}

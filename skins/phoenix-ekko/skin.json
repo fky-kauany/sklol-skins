@@ -1,0 +1,26 @@
+{
+	"id": "phoenix-ekko",
+	"name": "Phoenix Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Phoenix Ekko\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.1.0\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/phoenix-ekko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/phoenix-ekko/thumb.webp?v=bb8d04f7",
+	"file": {
+		"version": 1,
+		"asset": "phoenix-ekko-v1.fantome",
+		"size": 7692844,
+		"sha256": "b3022ef31537add410eaf8721d654f32f106655c36495a70506985b179581d19"
+	},
+	"chromas": []
+}

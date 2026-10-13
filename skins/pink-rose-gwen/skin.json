@@ -1,0 +1,25 @@
+{
+	"id": "pink-rose-gwen",
+	"name": "Pink Rose Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Pink Rose Gwen\n\n### Features\n\n- **Custom model**: Gwen dressed in a rose-inspired outfit with floral details\n- **Custom abilities**: Petal-filled Q/W/E/R effects with pink and white highlights\n- **Works on every Gwen skin** — base, Space Groove, Café Cuties, and more\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/pink-rose-gwen\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pink-rose-gwen/thumb.webp?v=ce6eb786",
+	"file": {
+		"version": 1,
+		"asset": "pink-rose-gwen-v1.fantome",
+		"size": 8866513,
+		"sha256": "a5a97671f444acee289b333206d1c38fe3fd46ae1c564b3e72ce3065cae139b3"
+	},
+	"chromas": []
+}

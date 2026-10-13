@@ -1,0 +1,26 @@
+{
+	"id": "pig-at-arms-braum",
+	"name": "Pig-at-arms (Braum)",
+	"champion": 201,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champion: Braum\r\n\r\nSkin:  Default\r\n\r\nAuthor: Sauronkaiser\r\n\r\nFeatures:\r\n\r\n-New model and textures.\r\n\r\n-New full set of animations.\r\n\r\n-New sounds.\r\n\r\n-New particles\r\n\r\n-New Splashart loading screen.\r\n\r\n-New Ability icons and HUD.\r\n\r\n-Shield that transforms!\r\n\r\n-Absolutely not references to Darkest Dunegon.\r\n\r\n-The prior feature is a lie.\r\n\r\n\r\n__________\r\n\r\nLegacy changelog:\r\n1.0.0; 3-02-2025\r\nFirst release of the mod.\r\n\r\n1.1.0; 30-09-2026\r\n-Fixed voiceover (tested only in english language).\r\n-Fixed sound in emotes.\r\n-Fixed homeguard animation not showing up unless the back-to-base animation is completed before moving.\r\n__________\r\n\r\nLore:\r\n\r\nWhen the Vindicator brothers arrived to the Nether, they realized they had commited a terrible mistake: no one of them knew a sh*t about that dimension. They were supposed to search for a place called \"The Darkest Fortress\" and retrieve a dangerous artifact from it, but even finding the fortress would be impossible. Luckily for them, they met a friendly piglin that knows the place and loves traveling in groups of four while exploring dungeons!\r\n\r\n__________\r\n\r\nSources and references:\r\n\r\n-Rig and model made mostly by me (some specific parts are extracted from Minecraft).\r\n\r\n-All animations made by me.\r\n\r\n-Particle effects mostly made by me.\r\n\r\n-The dance emote references campings in Darkest Dungeon, with the same music (\"A Brief Respite\" from its OST).\r\n\r\n-The laugh emote references the old video \"Cacamod\" by the spanish youtuber Alexelcapo.\r\n\r\n-The voiceover uses the voice of Wayne June, who played The Ancestor in Darkest Dungeon, and sadly passed away in january of 2025. I considered making a specific emote as a tribute, but all emote sockets were already occupied when this was revealed.\r\n\r\n-Special Thanks to Bud for helping with the render (this has become a tradition by now).\r\n\r\n__________\r\n\r\ndiscord: sauronkaiser\r\n\r\nMy twitter: https://twitter.com/Sauronkaiser\r\n\r\nMy Youtube channel: https://www.youtube.com/@Sauronkaiser/featured\n\n---\n\n**Created by** [Sauronkaiser](https://www.divineskins.gg/Sauronkaiser)\n\n**Original:** https://www.divineskins.gg/Sauronkaiser/pig-at-arms-braum\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pig-at-arms-braum/thumb.webp?v=4a2a73d8",
+	"file": {
+		"version": 1,
+		"asset": "pig-at-arms-braum-v1.fantome",
+		"size": 55959750,
+		"sha256": "74f4732ebd596ea725b9d4c78e7d92679701522666bd7d63597fc83ba8e011bd"
+	},
+	"chromas": []
+}

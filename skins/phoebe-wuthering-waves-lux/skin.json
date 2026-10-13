@@ -1,0 +1,26 @@
+{
+	"id": "phoebe-wuthering-waves-lux",
+	"name": "Phoebe Wuthering Waves Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "antton",
+	"description": "**Phoebe Lux**\r\n\r\nThis custom skin brings Phoebe from Wuthering Waves into League of Legends.\r\n\r\nTake control of Phoebe on the Rift and experience Lux through a full visual rework based on Wuthering Waves.\r\n\r\nThis skin delivers a luminous Phoebe-themed version of Lux with a complete visual identity, redesigned spell effects, and a custom static loading screen.\r\n\r\n**Features**\r\n- Reworked 3D model\r\n- Custom Loading screen\r\n- Modified ability icons\r\n- Reworked ability VFX\r\n- Official Japanese Wuthering Waves voicelines\r\n- Custom animation adjustments\r\n\r\nThe skin will continue to evolve through future updates, so stay tuned.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/phoebe-wuthering-waves-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/phoebe-wuthering-waves-lux/thumb.webp?v=63527c96",
+	"file": {
+		"version": 1,
+		"asset": "phoebe-wuthering-waves-lux-v1.fantome",
+		"size": 14625266,
+		"sha256": "e25800d7230a05e8730ae61dc8a5fc765e21a7b10d48dc6fd6471638205ca656"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:19:56.050Z",
+	"generatedAt": "2026-10-13T05:23:16.900Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -95,6 +95,15 @@
 				"site": "https://www.reddit.com/user/Ryo_Marufuji/",
 				"x": "https://x.com/BACKSTAB44",
 				"youtube": "https://www.youtube.com/@BACKSTAB44"
+			}
+		},
+		"budlibu500": {
+			"name": "budlibu500",
+			"avatar": "creators/budlibu500.webp?v=0253c060",
+			"bio": "It felt good to be out of the rain",
+			"links": {
+				"x": "https://x.com/budlibu500",
+				"youtube": "https://www.youtube.com/@budlibu500"
 			}
 		},
 		"ceerel": {
@@ -11564,6 +11573,262 @@
 				"asset": "pelageya-sylas-v1.fantome",
 				"size": 8528991,
 				"sha256": "730e82f4a49e29b46ea86725492c7d9502569cd51c85b3f6c986798f047fec07"
+			},
+			"chromas": []
+		},
+		{
+			"id": "penny-tristana",
+			"name": "Penny Tristana",
+			"champion": 18,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/penny-tristana/thumb.webp?v=c69c09ea",
+			"file": {
+				"version": 1,
+				"asset": "penny-tristana-v1.fantome",
+				"size": 8580387,
+				"sha256": "005c01fc81dae0fe068cb57f8b20a8b51d35cc1168111f16fe47aa82c7484d36"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pentakill-superfan-gnar",
+			"name": "Pentakill Superfan Gnar",
+			"champion": 150,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pentakill-superfan-gnar/thumb.webp?v=c1e19361",
+			"file": {
+				"version": 1,
+				"asset": "pentakill-superfan-gnar-v1.fantome",
+				"size": 10897246,
+				"sha256": "924cc8f13ae0ec0e790b7698ad261d60d75739c0e0bd5908b493b3ebd417cdab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pepsi-fridge-gragas",
+			"name": "Pepsi Fridge Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "budlibu500",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pepsi-fridge-gragas/thumb.webp?v=f91e96bd",
+			"file": {
+				"version": 1,
+				"asset": "pepsi-fridge-gragas-v1.fantome",
+				"size": 7308260,
+				"sha256": "0da8969e634666901b49e694f65d2941825e913773f37bf7fde5ac1d9a15f1e4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "phoebe-wuthering-waves-lux",
+			"name": "Phoebe Wuthering Waves Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/phoebe-wuthering-waves-lux/thumb.webp?v=63527c96",
+			"file": {
+				"version": 1,
+				"asset": "phoebe-wuthering-waves-lux-v1.fantome",
+				"size": 14625266,
+				"sha256": "e25800d7230a05e8730ae61dc8a5fc765e21a7b10d48dc6fd6471638205ca656"
+			},
+			"chromas": []
+		},
+		{
+			"id": "phoenix-ekko",
+			"name": "Phoenix Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/phoenix-ekko/thumb.webp?v=bb8d04f7",
+			"file": {
+				"version": 1,
+				"asset": "phoenix-ekko-v1.fantome",
+				"size": 7692844,
+				"sha256": "b3022ef31537add410eaf8721d654f32f106655c36495a70506985b179581d19"
+			},
+			"chromas": []
+		},
+		{
+			"id": "phrolova-aurora",
+			"name": "Phrolova Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "12371234asd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/phrolova-aurora/thumb.webp?v=e25171cb",
+			"file": {
+				"version": 1,
+				"asset": "phrolova-aurora-v1.fantome",
+				"size": 16401383,
+				"sha256": "dbd9ea47c56d022586fd0767a1397f62f72d9ece93dd68a562dfb0dfd6e736b8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pig-at-arms-braum",
+			"name": "Pig-at-arms (Braum)",
+			"champion": 201,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pig-at-arms-braum/thumb.webp?v=4a2a73d8",
+			"file": {
+				"version": 1,
+				"asset": "pig-at-arms-braum-v1.fantome",
+				"size": 55959750,
+				"sha256": "74f4732ebd596ea725b9d4c78e7d92679701522666bd7d63597fc83ba8e011bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pikachu-kennen",
+			"name": "Pikachu Kennen",
+			"champion": 85,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pikachu-kennen/thumb.webp?v=832bcd03",
+			"file": {
+				"version": 1,
+				"asset": "pikachu-kennen-v1.fantome",
+				"size": 47779409,
+				"sha256": "da6136711ad2af4ce2f915e3e30e19b2225012f23ed1e6555cfe563e9590a889"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pink-rose-gwen",
+			"name": "Pink Rose Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pink-rose-gwen/thumb.webp?v=ce6eb786",
+			"file": {
+				"version": 1,
+				"asset": "pink-rose-gwen-v1.fantome",
+				"size": 8866513,
+				"sha256": "a5a97671f444acee289b333206d1c38fe3fd46ae1c564b3e72ce3065cae139b3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pink-thunder-shockblade-zed",
+			"name": "Pink Thunder | Shockblade Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/pink-thunder-shockblade-zed/thumb.webp?v=2d3c2f47",
+			"file": {
+				"version": 1,
+				"asset": "pink-thunder-shockblade-zed-v1.fantome",
+				"size": 2782122,
+				"sha256": "984c27488dc5e60a1ff4ea8b9e10e1ed821f3a51cfe49eb017d29e926bef84ba"
 			},
 			"chromas": []
 		},

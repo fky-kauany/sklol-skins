@@ -1,0 +1,26 @@
+{
+	"id": "penny-tristana",
+	"name": "Penny Tristana",
+	"champion": 18,
+	"base": 0,
+	"creator": "daka",
+	"description": "# Overview\n\nThis mod is distributed as `.modpkg` which contains all skins of Penny as well.\n\n## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (Brawl Stars)\n- Custom Icons\n\n### How to activate other skins\n\n- When you install the skin on Celestial, click on the layers icon and select the skin you want to play with, otherwise you play with default Penny.\n- Only 1 works at a time!\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/penny-tristana\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/penny-tristana/thumb.webp?v=c69c09ea",
+	"file": {
+		"version": 1,
+		"asset": "penny-tristana-v1.fantome",
+		"size": 8580387,
+		"sha256": "005c01fc81dae0fe068cb57f8b20a8b51d35cc1168111f16fe47aa82c7484d36"
+	},
+	"chromas": []
+}

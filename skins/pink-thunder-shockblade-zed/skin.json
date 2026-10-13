@@ -1,0 +1,23 @@
+{
+	"id": "pink-thunder-shockblade-zed",
+	"name": "Pink Thunder | Shockblade Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by traumwah from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/pink-thunder-shockblade-zed\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pink-thunder-shockblade-zed/thumb.webp?v=2d3c2f47",
+	"file": {
+		"version": 1,
+		"asset": "pink-thunder-shockblade-zed-v1.fantome",
+		"size": 2782122,
+		"sha256": "984c27488dc5e60a1ff4ea8b9e10e1ed821f3a51cfe49eb017d29e926bef84ba"
+	},
+	"chromas": []
+}

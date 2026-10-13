@@ -1,0 +1,26 @@
+{
+	"id": "pikachu-kennen",
+	"name": "Pikachu Kennen",
+	"champion": 85,
+	"base": 0,
+	"creator": "nyht",
+	"description": "## ⚡ CHAMPION\n**Kennen**\n\n**Skin Replacement:** Base Skin\n\n---\n\n## ✨ Unique Features\n\n**Toggle Emote (Ctrl + 5)**  \nPikachu will wear **Ash’s hat**, and a Pokémon-themed track will play.  \n*(Music can be toggled off through the scoreboard.)*\n\n**Spawn Music**  \nAt the start of each game, **one of 20 tracks from Pokémon: Let’s Go!** will play and continue throughout the match.  \nYou can switch back to League’s default BGM using the **Tab key**.\n\nThere is also a **1% chance to spawn as a Shiny variant** at the start of each game.\n\n---\n\n## 🎨 Custom VFX\n\n- Abilities  \n- Basic Attacks  \n\n---\n\n## 🎬 Custom Animations\n\n- Idle  \n- Attack  \n- Abilities  \n- Recall  \n- Emotes  \n- Death & Respawn  \n- Toggle \n\n---\n\n## 🔊 Custom SFX\n\n- Emotes  \n- Ability R  \n- Recall  \n- Death & Respawn  \n\n---\n\n## 🧩 Custom Model & Textures\n\n- **Pikachu model** taken from *Pokémon X & Y*\n\n---\n\n## 👤 Credits\n\n**Modded by:** Nyht Seven  \n\n**Recall Music:**  \nRefi Sleep Music — *Pokémon Center Theme | Slow & Peaceful Sleep Music*  \n\n**Dance Music:**  \nLofi Lia — *Pokémon Original Series Theme Song (Lofi Remix)*\n\n---\n\n**Created by** [nyht](https://www.divineskins.gg/nyht)\n\n**Original:** https://www.divineskins.gg/nyht/pikachu-kennen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pikachu-kennen/thumb.webp?v=832bcd03",
+	"file": {
+		"version": 1,
+		"asset": "pikachu-kennen-v1.fantome",
+		"size": 47779409,
+		"sha256": "da6136711ad2af4ce2f915e3e30e19b2225012f23ed1e6555cfe563e9590a889"
+	},
+	"chromas": []
+}

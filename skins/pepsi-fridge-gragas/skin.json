@@ -1,0 +1,26 @@
+{
+	"id": "pepsi-fridge-gragas",
+	"name": "Pepsi Fridge Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "budlibu500",
+	"description": "### INFO\n\n- Modified skin: Base\n- Authors: Bud\n- Mod version: 1.0.0\n\n### CONTENT\n\n- Custom Gragas model of a Pepsi fridge\n- Custom barrel model of a Pepsi can\n- Custom Splash art and HUD icons\n- Custom ability icons\n- Pepsi visual effects\n\n### ADDITIONAL INFO\n\nThis skin was commissioned by totalgriller, huge thanks!\nIf you'd like a commission or have any questions/request about the mod you can contact me through Discord dms or the Divine Skins server.[My Discord](http://discordapp.com/users/464506365402939402)\n\n---\n\n**Created by** [budlibu500](https://www.divineskins.gg/budlibu500)\n\n**Original:** https://www.divineskins.gg/budlibu500/pepsi-fridge-gragas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/pepsi-fridge-gragas/thumb.webp?v=f91e96bd",
+	"file": {
+		"version": 1,
+		"asset": "pepsi-fridge-gragas-v1.fantome",
+		"size": 7308260,
+		"sha256": "0da8969e634666901b49e694f65d2941825e913773f37bf7fde5ac1d9a15f1e4"
+	},
+	"chromas": []
+}
