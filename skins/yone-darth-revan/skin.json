@@ -1,0 +1,26 @@
+{
+	"id": "yone-darth-revan",
+	"name": "Darth Revan",
+	"champion": 777,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\n\n- Custom model and textures\n\n- Support for all quality settings (might not be compatible with DX9 Legacy Mode)\n\n- Custom Voice-over for all languages\n\n- Custom loading screen and in-game icons\n\n- Custom SFX\n\n- Modified animations\n\n- Animated Cape\n- Cancelled KOTOR remake (I wish)\n\n\nToday I've got a lightweight mod for you. There used to be a skin called Darth Revan Yone, but sadly the creator removed the files from being downloaded in any way. So, to compensate, I've decided to make my own version of Revan Yone, from scratch. It doesn't have new animations, but I've modified them all to allow for an animated cape and retractable lightsabers. Features a new model with reflective armour and glowing lightsabers, and an extensive sound effect overhaul. I've also replaced all the voice lines, and changed some vfx to match the purple lightsaber's colour. Hope you like it!\n\nCREDITS:\nThe Force Theme, performed on a violin on the Ctrl+3 Emote was made by Marie Leloup\n\nSome of the Ability icons are from SiRME's Darth Revan Mod for SWBF2\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/darth-revan\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yone-darth-revan/thumb.webp?v=43415b57",
+	"file": {
+		"version": 1,
+		"asset": "yone-darth-revan-v1.fantome",
+		"size": 17494808,
+		"sha256": "f9e75d4edce71e94cd6753aa7280f9275c0f62ee7a261f542af25afe0b663502"
+	},
+	"chromas": []
+}

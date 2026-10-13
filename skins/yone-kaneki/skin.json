@@ -1,0 +1,26 @@
+{
+	"id": "yone-kaneki",
+	"name": "Yone Kaneki",
+	"champion": 777,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 KEN KANEKI 」\n### *Replaces Yone*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/yone-kaneki\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yone-kaneki/thumb.webp?v=b9732ee9",
+	"file": {
+		"version": 1,
+		"asset": "yone-kaneki-v1.fantome",
+		"size": 12557547,
+		"sha256": "5118773c3b1e90905937c98b45e18bbd3928a51ac74708163ac617063e92fdcc"
+	},
+	"chromas": []
+}

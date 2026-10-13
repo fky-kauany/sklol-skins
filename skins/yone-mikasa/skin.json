@@ -1,0 +1,26 @@
+{
+	"id": "yone-mikasa",
+	"name": "Yone Mikasa",
+	"champion": 777,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 MIKASA ACKERMAN 」\n### *Replaces Yone*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/yone-mikasa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yone-mikasa/thumb.webp?v=1df69d22",
+	"file": {
+		"version": 1,
+		"asset": "yone-mikasa-v1.fantome",
+		"size": 12041209,
+		"sha256": "1994bc0e41082b83617b2539e1eed7a31e1b2acb56d52fa1e9fdede748c4440f"
+	},
+	"chromas": []
+}

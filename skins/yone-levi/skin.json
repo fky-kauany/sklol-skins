@@ -1,0 +1,24 @@
+{
+	"id": "yone-levi",
+	"name": "Levi",
+	"champion": 777,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Levi Ackerman Yone • Custom model • Custom Abilities • Works on every Yone skin\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/levi-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yone-levi/thumb.webp?v=706bfe10",
+	"file": {
+		"version": 1,
+		"asset": "yone-levi-v1.fantome",
+		"size": 13886865,
+		"sha256": "defe7bcea26cf5f62e731b3e59bd236b77b4259ed3dbb5db762759f621f8ed54"
+	},
+	"chromas": []
+}

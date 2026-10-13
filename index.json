@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:39:58.473Z",
+	"generatedAt": "2026-10-13T07:43:19.305Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -22374,6 +22374,262 @@
 				"asset": "yixuan-over-yunara-v1.fantome",
 				"size": 24529727,
 				"sha256": "ed763bb31621721329703d49c5e6515eb6683b12eeed6f00e1127d9314dc4f78"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yixuan-zzz-lee-sin",
+			"name": "YiXuan (ZZZ) Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yixuan-zzz-lee-sin/thumb.webp?v=4a5b8ee7",
+			"file": {
+				"version": 1,
+				"asset": "yixuan-zzz-lee-sin-v1.fantome",
+				"size": 29207440,
+				"sha256": "ae3e373230f2c18bb576881a16b0bddf818e81d50eeef65c0fd0753bd8ee9bdf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-arlott",
+			"name": "Arlott",
+			"champion": 777,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-arlott/thumb.webp?v=975bbe0d",
+			"file": {
+				"version": 1,
+				"asset": "yone-arlott-v1.fantome",
+				"size": 14635373,
+				"sha256": "de61517081a4875ca80c069035b41e58920f0dc1ff9499592316e8396ec39fa5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-darth-revan",
+			"name": "Darth Revan",
+			"champion": 777,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-darth-revan/thumb.webp?v=43415b57",
+			"file": {
+				"version": 1,
+				"asset": "yone-darth-revan-v1.fantome",
+				"size": 17494808,
+				"sha256": "f9e75d4edce71e94cd6753aa7280f9275c0f62ee7a261f542af25afe0b663502"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-gragas-tryndamere",
+			"name": "Gragas Tryndamere",
+			"champion": 777,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-gragas-tryndamere/thumb.webp?v=1c971663",
+			"file": {
+				"version": 1,
+				"asset": "yone-gragas-tryndamere-v1.fantome",
+				"size": 22525956,
+				"sha256": "280ac0db8be5ba4bcc554def8e9c46e2fbf076add82a8ed4ef658e91e108c7ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-inosuke",
+			"name": "Inosuke",
+			"champion": 777,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-inosuke/thumb.webp?v=d700782b",
+			"file": {
+				"version": 1,
+				"asset": "yone-inosuke-v1.fantome",
+				"size": 16257187,
+				"sha256": "54a4db5e3c15966021a31b2760e0be00804a9282cd4b1554aa93254a736abd2b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-kanao-tsuyuri",
+			"name": "Kanao Tsuyuri",
+			"champion": 777,
+			"base": 0,
+			"creator": "gockar",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-kanao-tsuyuri/thumb.webp?v=6d8a019e",
+			"file": {
+				"version": 1,
+				"asset": "yone-kanao-tsuyuri-v1.fantome",
+				"size": 17909206,
+				"sha256": "d28b5edc3f2e18dc0f109ba470d0093a63ba0dd490e3a083bea7411c86c58bed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-kaneki",
+			"name": "Yone Kaneki",
+			"champion": 777,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-kaneki/thumb.webp?v=b9732ee9",
+			"file": {
+				"version": 1,
+				"asset": "yone-kaneki-v1.fantome",
+				"size": 12557547,
+				"sha256": "5118773c3b1e90905937c98b45e18bbd3928a51ac74708163ac617063e92fdcc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-levi",
+			"name": "Levi",
+			"champion": 777,
+			"base": 0,
+			"creator": "keduox",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-levi/thumb.webp?v=706bfe10",
+			"file": {
+				"version": 1,
+				"asset": "yone-levi-v1.fantome",
+				"size": 13886865,
+				"sha256": "defe7bcea26cf5f62e731b3e59bd236b77b4259ed3dbb5db762759f621f8ed54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-mikasa",
+			"name": "Yone Mikasa",
+			"champion": 777,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-mikasa/thumb.webp?v=1df69d22",
+			"file": {
+				"version": 1,
+				"asset": "yone-mikasa-v1.fantome",
+				"size": 12041209,
+				"sha256": "1994bc0e41082b83617b2539e1eed7a31e1b2acb56d52fa1e9fdede748c4440f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yone-roronoa-zoro",
+			"name": "Yone Roronoa Zoro",
+			"champion": 777,
+			"base": 0,
+			"creator": "azerkan67",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/yone-roronoa-zoro/thumb.webp?v=495cc798",
+			"file": {
+				"version": 1,
+				"asset": "yone-roronoa-zoro-v1.fantome",
+				"size": 41041426,
+				"sha256": "5ca699e1e6e2dd8c1a6ea774a57a34ec522f328ea9b73fc44973085eb119038b"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "yone-roronoa-zoro",
+	"name": "Yone Roronoa Zoro",
+	"champion": 777,
+	"base": 0,
+	"creator": "azerkan67",
+	"description": "• Replaced for all SKIN/Chromas\n\n• Custom Model\n• Custom Abilities\n• Custom Animations\n• Custom Sounds\n• Custom VoiceOver\n• Custom FX\n\n---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/yone-roronoa-zoro\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yone-roronoa-zoro/thumb.webp?v=495cc798",
+	"file": {
+		"version": 1,
+		"asset": "yone-roronoa-zoro-v1.fantome",
+		"size": 41041426,
+		"sha256": "5ca699e1e6e2dd8c1a6ea774a57a34ec522f328ea9b73fc44973085eb119038b"
+	},
+	"chromas": []
+}

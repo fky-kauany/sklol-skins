@@ -1,0 +1,25 @@
+{
+	"id": "yone-arlott",
+	"name": "Arlott",
+	"champion": 777,
+	"base": 0,
+	"creator": "keduox",
+	"description": "Arlott Yone • Custom model • Custom Abilities • Works on every Yone skin\n\n---\n\n**Created by** [Keduox](https://www.divineskins.gg/Keduox)\n\n**Original:** https://www.divineskins.gg/Keduox/arlott-yone\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/yone-arlott/thumb.webp?v=975bbe0d",
+	"file": {
+		"version": 1,
+		"asset": "yone-arlott-v1.fantome",
+		"size": 14635373,
+		"sha256": "de61517081a4875ca80c069035b41e58920f0dc1ff9499592316e8396ec39fa5"
+	},
+	"chromas": []
+}
