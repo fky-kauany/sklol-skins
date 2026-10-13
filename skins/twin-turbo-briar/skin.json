@@ -1,0 +1,26 @@
+{
+	"id": "twin-turbo-briar",
+	"name": "Twin Turbo Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "nyxns0",
+	"description": "Briar as Twin Turbo from Umamusume: Pretty Derby.\n\nSkin Features:\nCustom Model\nCustom Icon and Banner\n\nIf you are having any issues with the skin feel free to DM or Ping me in the Divine Skins Discord Server.\n\nMy Discord: @nyxns0\n\n---\n\n**Created by** [nyxns0](https://www.divineskins.gg/nyxns0)\n\n**Original:** https://www.divineskins.gg/nyxns0/twin-turbo-briar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/twin-turbo-briar/thumb.webp?v=a9dcbff6",
+	"file": {
+		"version": 1,
+		"asset": "twin-turbo-briar-v1.fantome",
+		"size": 18221977,
+		"sha256": "1ecb1d0be750a4261b5deaffde56dff0f7d4aaff822ca1311b76b1a685ccd833"
+	},
+	"chromas": []
+}

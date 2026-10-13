@@ -1,0 +1,26 @@
+{
+	"id": "twisted-fate-sir",
+	"name": "Twisted Fate Sir",
+	"champion": 4,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 SIR NIGHTEYE 」\n### *Replaces Twisted Fate*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/twisted-fate-sir\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/twisted-fate-sir/thumb.webp?v=0f1857dd",
+	"file": {
+		"version": 1,
+		"asset": "twisted-fate-sir-v1.fantome",
+		"size": 11855116,
+		"sha256": "a53736509c6f2686950fa557deda1e5fc56e168f8667cc39f3966de62bc28c94"
+	},
+	"chromas": []
+}

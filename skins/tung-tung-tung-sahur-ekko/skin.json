@@ -1,0 +1,26 @@
+{
+	"id": "tung-tung-tung-sahur-ekko",
+	"name": "tung tung tung sahur ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "czcz",
+	"description": "### TUNG TUNG TUNG SAHUR\nWant a commission?? DM me on Discord - zzzzzzz2930 (CZ in every server)\n\n---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/tung-tung-tung-sahur-ekko\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/tung-tung-tung-sahur-ekko/thumb.webp?v=40f68d9b",
+	"file": {
+		"version": 1,
+		"asset": "tung-tung-tung-sahur-ekko-v1.fantome",
+		"size": 10243970,
+		"sha256": "2380a68e3e8f8a73dec83b25edd6b7aad73407ba4fe6aaf52e0b31b5feb17a1a"
+	},
+	"chromas": []
+}

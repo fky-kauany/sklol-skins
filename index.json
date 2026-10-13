@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T07:03:14.656Z",
+	"generatedAt": "2026-10-13T07:06:27.479Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -19558,6 +19558,259 @@
 				"asset": "tung-tung-sahur-trundle-v1.fantome",
 				"size": 9522014,
 				"sha256": "bef12704f83eb6b4a2001f7c90893f4043da64fec7d9f1366fcbb0946f801bf8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tung-tung-tung-sahur-ekko",
+			"name": "tung tung tung sahur ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tung-tung-tung-sahur-ekko/thumb.webp?v=40f68d9b",
+			"file": {
+				"version": 1,
+				"asset": "tung-tung-tung-sahur-ekko-v1.fantome",
+				"size": 10243970,
+				"sha256": "2380a68e3e8f8a73dec83b25edd6b7aad73407ba4fe6aaf52e0b31b5feb17a1a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tusk-karthus",
+			"name": "Tusk Karthus",
+			"champion": 30,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/tusk-karthus/thumb.webp?v=79bb0332",
+			"file": {
+				"version": 1,
+				"asset": "tusk-karthus-v1.fantome",
+				"size": 17472995,
+				"sha256": "50a1644832b14662264fa693b678ac759461f78da80022040eee6eceef305b61"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twice-shaco",
+			"name": "Twice - Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twice-shaco/thumb.webp?v=8743e7da",
+			"file": {
+				"version": 1,
+				"asset": "twice-shaco-v1.fantome",
+				"size": 4981114,
+				"sha256": "f8d4bd0ae816b91ad33e8a41da68e0422d6534d93cf38b0894fcd6a66fd4fa5e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twin-turbo-briar",
+			"name": "Twin Turbo Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "nyxns0",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twin-turbo-briar/thumb.webp?v=a9dcbff6",
+			"file": {
+				"version": 1,
+				"asset": "twin-turbo-briar-v1.fantome",
+				"size": 18221977,
+				"sha256": "1ecb1d0be750a4261b5deaffde56dff0f7d4aaff822ca1311b76b1a685ccd833"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twisted-fate-d-arby-the-elder",
+			"name": "D'Arby the Elder",
+			"champion": 4,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twisted-fate-d-arby-the-elder/thumb.webp?v=7fdfcc28",
+			"file": {
+				"version": 1,
+				"asset": "twisted-fate-d-arby-the-elder-v1.fantome",
+				"size": 7439682,
+				"sha256": "55a3b1b3f2a9927cf6be8e595ffdc7bcd82dc991b6521063e3adac34e3824b43"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twisted-fate-hisoka",
+			"name": "Twisted Fate Hisoka",
+			"champion": 4,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twisted-fate-hisoka/thumb.webp?v=5f5053c5",
+			"file": {
+				"version": 1,
+				"asset": "twisted-fate-hisoka-v1.fantome",
+				"size": 12034987,
+				"sha256": "b04a23dc53da9ecba05954e901d3f5671d4d392eb549c417025342c84359ed51"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twisted-fate-no-hat",
+			"name": "Twisted Fate NO HAT",
+			"champion": 4,
+			"base": 0,
+			"creator": "neoritch",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twisted-fate-no-hat/thumb.webp?v=144ac7bb",
+			"file": {
+				"version": 1,
+				"asset": "twisted-fate-no-hat-v1.fantome",
+				"size": 3376491,
+				"sha256": "59fc8206d0efdf6c2a3be0909649bdf7598bf850f3e207ceab3056c7f4d2be2d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twisted-fate-sir",
+			"name": "Twisted Fate Sir",
+			"champion": 4,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twisted-fate-sir/thumb.webp?v=0f1857dd",
+			"file": {
+				"version": 1,
+				"asset": "twisted-fate-sir-v1.fantome",
+				"size": 11855116,
+				"sha256": "a53736509c6f2686950fa557deda1e5fc56e168f8667cc39f3966de62bc28c94"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twitch-demonic-angel",
+			"name": "Demonic Angel",
+			"champion": 29,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twitch-demonic-angel/thumb.webp?v=adabae78",
+			"file": {
+				"version": 1,
+				"asset": "twitch-demonic-angel-v1.fantome",
+				"size": 9522797,
+				"sha256": "88fa854155f6be26258b679b7701afe90378b75b4209efe675ab9da6ac2aa583"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twitch-demonic-angel-bw",
+			"name": "Demonic Angel BW",
+			"champion": 29,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/twitch-demonic-angel-bw/thumb.webp?v=0440479a",
+			"file": {
+				"version": 1,
+				"asset": "twitch-demonic-angel-bw-v1.fantome",
+				"size": 9023083,
+				"sha256": "06efd9f242f55504ab98413f7db97bbc36a2293eae5e150065d4e0e64d0ed654"
 			},
 			"chromas": []
 		},

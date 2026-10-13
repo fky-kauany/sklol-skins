@@ -1,0 +1,26 @@
+{
+	"id": "twisted-fate-d-arby-the-elder",
+	"name": "D'Arby the Elder",
+	"champion": 4,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "Bringing back one of my old mods, thanks to the ease of use of Divine's modding tools!\n\nThis is an up-to-date version of D'Arby Twisted Fate, swapping TF's model and voice for that of D'Arby the Elder. \n\n### **Disclaimer!**\nThis is, by all means, still a very old mod of mine. It's jank and it's pretty ugly (but I did update the textures). So don't expect anything special! But people asked me for it so here it is.\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/darby-the-elder\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/twisted-fate-d-arby-the-elder/thumb.webp?v=7fdfcc28",
+	"file": {
+		"version": 1,
+		"asset": "twisted-fate-d-arby-the-elder-v1.fantome",
+		"size": 7439682,
+		"sha256": "55a3b1b3f2a9927cf6be8e595ffdc7bcd82dc991b6521063e3adac34e3824b43"
+	},
+	"chromas": []
+}

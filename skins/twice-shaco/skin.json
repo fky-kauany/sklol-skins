@@ -1,0 +1,26 @@
+{
+	"id": "twice-shaco",
+	"name": "Twice - Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "kesa",
+	"description": "# **DISCORD: hanmada**\r\n\r\n### **DM IF SOMETHING BREAKS**\r\n**(or if you wanna commision)**\r\n\r\n#\r\n\r\n\r\n**? Features**\r\n\r\n- **Shaco** fully reimagined as **Jin Bubaigawara** (**Twice**) from **My Hero Academia** \r\n\r\n**Custom Model**\r\n\r\n- High-quality Twice character model replacing Shaco \r\n\r\n- Accurate outfit, mask, and proportions from MHA \r\n\r\n- Shaco’s hitbox and silhouette fully preserved \r\n\r\n**Custom Voice Lines**\r\n\r\nFull custom voice pack inspired by Jin Bubaigawara \r\n\r\nIncludes:\r\n\r\n- Taunts, jokes, and maniacal laughs \r\n\r\n- Ability casts & attacks ?️\r\n\r\n#\r\n- **✅ Usable on ALL Shaco skins (base + every skin)**\n\n---\n\n**Created by** [kesa](https://www.divineskins.gg/kesa)\n\n**Original:** https://www.divineskins.gg/kesa/twice-shaco\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/twice-shaco/thumb.webp?v=8743e7da",
+	"file": {
+		"version": 1,
+		"asset": "twice-shaco-v1.fantome",
+		"size": 4981114,
+		"sha256": "f8d4bd0ae816b91ad33e8a41da68e0422d6534d93cf38b0894fcd6a66fd4fa5e"
+	},
+	"chromas": []
+}
