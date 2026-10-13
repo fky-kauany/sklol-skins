@@ -1,0 +1,23 @@
+{
+	"id": "mt-foxtrot-caitlyn",
+	"name": "MT Foxtrot caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"hey it me. did i wake you up from your depression nap?\"\n\nInformation\n\n***\n\n**Modified champion: Caitlyn**\n\n**Modified skin: Default**\n\n\n\n**Author: Mojkqueira**\n\n\n**Discord: serrandoafimose**\n\n**extracted from the game: Cruelty Squad**\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/mt-foxtrot-caitlyn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mt-foxtrot-caitlyn/thumb.webp?v=c676c042",
+	"file": {
+		"version": 1,
+		"asset": "mt-foxtrot-caitlyn-v1.fantome",
+		"size": 1173339,
+		"sha256": "9efd70ac0035539e8c328b35487ddf56b21375f25b939a0eed2e03321d21b93b"
+	},
+	"chromas": []
+}

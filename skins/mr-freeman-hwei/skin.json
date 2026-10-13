@@ -1,0 +1,26 @@
+{
+	"id": "mr-freeman-hwei",
+	"name": "Mr.freeman hwei",
+	"champion": 910,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "**Modified champion: Hwei** **Modified skin: Default** **Author: Mojkqueira** **Discord: serrandoafimose** **from the game: russia serie** **3d model made by:** [foose](https://runeforge.dev/users/foose?search=foose)\n\n---\n\n**Created by** [mojkqueira](https://www.divineskins.gg/mojkqueira)\n\n**Original:** https://www.divineskins.gg/mojkqueira/mrfreeman-hwei\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mr-freeman-hwei/thumb.webp?v=6dde6829",
+	"file": {
+		"version": 1,
+		"asset": "mr-freeman-hwei-v1.fantome",
+		"size": 10371814,
+		"sha256": "a3993febc9038b1157cbf0ba13c85e29a02759d6e9d5117a4e81495f55d727ec"
+	},
+	"chromas": []
+}

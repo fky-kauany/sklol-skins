@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T05:00:01.054Z",
+	"generatedAt": "2026-10-13T05:03:23.335Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -10009,6 +10009,262 @@
 				"asset": "mordekaiser-atakhan-v1.fantome",
 				"size": 966008,
 				"sha256": "f6b751752d6bef6b2598a5c7b7fc71e7e1677e81de4e9e2fbebc90796c85b3bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-diavolo",
+			"name": "Diavolo",
+			"champion": 82,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-diavolo/thumb.webp?v=2ad1ba9b",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-diavolo-v1.fantome",
+				"size": 48997118,
+				"sha256": "a4abd7f1cbf155899bed1ba1c7ff6d076e8d9b7b441a0dd4ab18a06ebc14530c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-guts",
+			"name": "Guts",
+			"champion": 82,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-guts/thumb.webp?v=83a8d1ef",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-guts-v1.fantome",
+				"size": 46295024,
+				"sha256": "cb7355ea35a4c8d910aaab842b53d74e8bdcf07fd5409b202fa1a984b9f3a2dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-iso-mordekaise",
+			"name": "Iso Mordekaise",
+			"champion": 82,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-iso-mordekaise/thumb.webp?v=73ebe975",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-iso-mordekaise-v1.fantome",
+				"size": 8992537,
+				"sha256": "ca68caaafbed98f67d4ffacffd9d42181b33e5bcda98abb868bcbdc09a13d93a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-jax",
+			"name": "Mordekaiser Jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-jax/thumb.webp?v=6cbc9cd9",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-jax-v1.fantome",
+				"size": 4265896,
+				"sha256": "e3883149850ae1ba96f3184466d0e5b44f1d1bbf199fa4bd3406075e4b008c54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-sauron",
+			"name": "Sauron",
+			"champion": 82,
+			"base": 0,
+			"creator": "kaizen",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-sauron/thumb.webp?v=899f8171",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-sauron-v1.fantome",
+				"size": 25469030,
+				"sha256": "d11e34ea738cde677f26736616d438312b93205c773948aa3542b4582dee878c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-the-elden-lord",
+			"name": "Mordekaiser: The elden lord",
+			"champion": 82,
+			"base": 0,
+			"creator": "mxdjid",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-the-elden-lord/thumb.webp?v=53adcc13",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-the-elden-lord-v1.fantome",
+				"size": 7707234,
+				"sha256": "074f386296aa38e4970d2d5b060476c16753fd6f581e9ec2bcbe83cd25dafe5b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "morgana-albedo",
+			"name": "Morgana Albedo",
+			"champion": 25,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/morgana-albedo/thumb.webp?v=44e8fc2b",
+			"file": {
+				"version": 1,
+				"asset": "morgana-albedo-v1.fantome",
+				"size": 12397146,
+				"sha256": "4bf8c4b5aad5bf8f94a06a2782b8831adbcc4f6c6608e92d2430417713292438"
+			},
+			"chromas": []
+		},
+		{
+			"id": "morgana-bella",
+			"name": "Morgana Bella",
+			"champion": 25,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/morgana-bella/thumb.webp?v=9aede3fd",
+			"file": {
+				"version": 1,
+				"asset": "morgana-bella-v1.fantome",
+				"size": 35419910,
+				"sha256": "d261e0a593a4082e1eb766c8d40779b27902e729d3472688d4e0d611e25ceb71"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mr-freeman-hwei",
+			"name": "Mr.freeman hwei",
+			"champion": 910,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mr-freeman-hwei/thumb.webp?v=6dde6829",
+			"file": {
+				"version": 1,
+				"asset": "mr-freeman-hwei-v1.fantome",
+				"size": 10371814,
+				"sha256": "a3993febc9038b1157cbf0ba13c85e29a02759d6e9d5117a4e81495f55d727ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mt-foxtrot-caitlyn",
+			"name": "MT Foxtrot caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mt-foxtrot-caitlyn/thumb.webp?v=c676c042",
+			"file": {
+				"version": 1,
+				"asset": "mt-foxtrot-caitlyn-v1.fantome",
+				"size": 1173339,
+				"sha256": "9efd70ac0035539e8c328b35487ddf56b21375f25b939a0eed2e03321d21b93b"
 			},
 			"chromas": []
 		},

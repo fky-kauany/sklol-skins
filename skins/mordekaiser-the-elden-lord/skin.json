@@ -1,0 +1,26 @@
+{
+	"id": "mordekaiser-the-elden-lord",
+	"name": "Mordekaiser: The elden lord",
+	"champion": 82,
+	"base": 0,
+	"creator": "mxdjid",
+	"description": "Become the rift's new elden lord\n\n---\n\n**Created by** [mxdjid](https://www.divineskins.gg/mxdjid)\n\n**Original:** https://www.divineskins.gg/mxdjid/mordekaiser-the-elden-lord\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mordekaiser-the-elden-lord/thumb.webp?v=53adcc13",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-the-elden-lord-v1.fantome",
+		"size": 7707234,
+		"sha256": "074f386296aa38e4970d2d5b060476c16753fd6f581e9ec2bcbe83cd25dafe5b"
+	},
+	"chromas": []
+}

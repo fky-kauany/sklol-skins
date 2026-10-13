@@ -1,0 +1,26 @@
+{
+	"id": "morgana-albedo",
+	"name": "Morgana Albedo",
+	"champion": 25,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ALBEDO 」\r\n### *Replaces Morgana*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/morgana-albedo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/morgana-albedo/thumb.webp?v=44e8fc2b",
+	"file": {
+		"version": 1,
+		"asset": "morgana-albedo-v1.fantome",
+		"size": 12397146,
+		"sha256": "4bf8c4b5aad5bf8f94a06a2782b8831adbcc4f6c6608e92d2430417713292438"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "mordekaiser-sauron",
+	"name": "Sauron",
+	"champion": 82,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\r\n\r\n- Custom model and textures\r\n\r\n- Support for all quality settings\r\n\r\n- Custom loading screen and in-game icons\r\n\r\n- Custom SFX\r\n\r\n- Custom VFX\r\n\r\n- The Power of the One Ring\r\n\r\n\r\nEveryone keeps saying that Mordekaiser is essentially the Sauron of League. Around 3 years ago, I decided to take this idea and mold it into a custom skin. Being one of my earlier mods, it wasn't too great, and it was definitely deserving of an update. So here it is, 3.0 version with enhanced textures, weights, overhauled VFX and some changed animations. Enjoy!\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/sauron\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mordekaiser-sauron/thumb.webp?v=899f8171",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-sauron-v1.fantome",
+		"size": 25469030,
+		"sha256": "d11e34ea738cde677f26736616d438312b93205c773948aa3542b4582dee878c"
+	},
+	"chromas": []
+}

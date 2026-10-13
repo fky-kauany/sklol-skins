@@ -1,0 +1,26 @@
+{
+	"id": "mordekaiser-diavolo",
+	"name": "Diavolo",
+	"champion": 82,
+	"base": 0,
+	"creator": "kaizen",
+	"description": "**Features:**\n\n- Custom model and textures\n- Custom animations\n- Custom Voice-over for all languages\n- New VFX\n- New SFX\n- Custom loading screen and in-game icons\n- Custom anime shader\n- Custom screen overlay effects\n- A lot of bass\n- Time ski-\n\n\n*\"I, Diavolo, will be King, just like I always have been!\"*\n\n\n\nMy most feature-packed and most updated mod ever. My personal favourite. Here is what you can expect:\n\n- 4 Different models (Default Diavolo, Shadow Diavolo for Ult, King Crimson and Doppio)\n\n- A dynamic, anime shader for the characters\n\n- A full new suite of animations, utilizing both Diavolo and King Crimson\n\n- Overhauled VFX\n\n- A custom voice-over and SFX overhaul, with quite a lot of bass\n\n- Two stances, battle (with stand out) and idle (with stand hidden)\n\n- A lot of JoJo poses\n\n- And, of course time ski-\n\n- Works for EVERY SKIN, except Project and Sahn Uzal! If you pick any of those, you will just see those skins\n\n\n\n\nSPECIAL THANKS:\n\n- Sauronkaiser, for his general expertise in modding and letting me use his code for making the E ability look as it does\n\n- GuiSai, for his general vfx help and know-how\n\n\nCREDITS :\n\n- Passione Sound for their great collection of King Crimson sound effects\n\n- EDIPTUS for making the beautiful art I used for the loading screen\n\n---\n\n**Created by** [Kaizen](https://www.divineskins.gg/Kaizen)\n\n**Original:** https://www.divineskins.gg/Kaizen/diavolo\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mordekaiser-diavolo/thumb.webp?v=2ad1ba9b",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-diavolo-v1.fantome",
+		"size": 48997118,
+		"sha256": "a4abd7f1cbf155899bed1ba1c7ff6d076e8d9b7b441a0dd4ab18a06ebc14530c"
+	},
+	"chromas": []
+}
