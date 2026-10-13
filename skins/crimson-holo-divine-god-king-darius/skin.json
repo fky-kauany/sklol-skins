@@ -1,0 +1,25 @@
+{
+	"id": "crimson-holo-divine-god-king-darius",
+	"name": "Crimson Holo Divine God King Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\n\n* Champion: Darius \n* Modified skin: Divine God King Darius\n* Author: Konari Lab Ch. 白夜こなり\n* In order to use this skin, you need to own Divine God King Darius and select it in champion select.\n\n## Specifications\n\n* New texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified particles\n\n---\n💬 **Join Moonlit Night!**\nClick the banner below to join. Report bugs directly, and hang out with other players!\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\n---\n\n---\n\n**Created by** [Konari](https://www.divineskins.gg/Konari)\n\n**Original:** https://www.divineskins.gg/Konari/crimson-holo-divine-god-king-darius\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/crimson-holo-divine-god-king-darius/thumb.webp?v=03c481e3",
+	"file": {
+		"version": 1,
+		"asset": "crimson-holo-divine-god-king-darius-v1.fantome",
+		"size": 6762661,
+		"sha256": "d1036dd0260d8de08ebec454c6e36cc0470491beb10d796e3248131b9b2b354e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "crystal-rose-ashe",
+	"name": "Crystal Rose Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:**  etc.**Modified Skin(s):** All but not spirit blossom\n\n### ? Credits\n\n**Model(s):** WILD RIFT\n**Special Thanks:** WILD RIFT\n### ? Additional Info\n\nQuestions or requests? DM me on Discord\n### ? Support Me\n\nEnjoyed the mod? COOL*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/crystal-rose-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/crystal-rose-ashe/thumb.webp?v=1adb3247",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-ashe-v1.fantome",
+		"size": 23735462,
+		"sha256": "9dc574d43ae1aed7f686cbca7fea0a97f33d1cbaa66e2220648e9a27e87b2be1"
+	},
+	"chromas": []
+}

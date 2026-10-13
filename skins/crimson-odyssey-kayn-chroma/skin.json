@@ -1,0 +1,25 @@
+{
+	"id": "crimson-odyssey-kayn-chroma",
+	"name": "Crimson Odyssey Kayn Chroma",
+	"champion": 141,
+	"base": 0,
+	"creator": "shelzy",
+	"description": "### ? Mod Info\n\n- Champion: Kayn\n- Modified skin: Odyssey Kayn\n- Author: Shelzy\n\n### ? Please you NEED Odyssey Kayn for the mod.\n\n### ? Additional Info\n\nIf you find any bug or want to give some feedback contact me in discord\n\n- shelzymadara\n\n---\n\n**Created by** [Shelzy](https://www.divineskins.gg/Shelzy)\n\n**Original:** https://www.divineskins.gg/Shelzy/crimson-odyssey-kayn-chroma\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/crimson-odyssey-kayn-chroma/thumb.webp?v=878f4fb0",
+	"file": {
+		"version": 1,
+		"asset": "crimson-odyssey-kayn-chroma-v1.fantome",
+		"size": 5594545,
+		"sha256": "f557b6416a2c4b60595d29d17a3be9d60aac4699bbb8000ca7446f6e91395240"
+	},
+	"chromas": []
+}

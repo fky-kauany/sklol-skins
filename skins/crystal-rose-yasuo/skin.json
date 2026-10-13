@@ -1,0 +1,25 @@
+{
+	"id": "crystal-rose-yasuo",
+	"name": "Crystal Rose Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "emshu",
+	"description": "Mod by emShu\n\n---\n\n**Created by** [emShu](https://www.divineskins.gg/emShu)\n\n**Original:** https://www.divineskins.gg/emShu/crystal-rose-yasuo\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/crystal-rose-yasuo/thumb.webp?v=8867deb9",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-yasuo-v1.fantome",
+		"size": 24282492,
+		"sha256": "7a925a67ac7856e96c0a38741b17f565968d56ff345d761fd63119c84fe5b56b"
+	},
+	"chromas": []
+}

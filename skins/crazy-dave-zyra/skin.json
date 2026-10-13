@@ -1,0 +1,26 @@
+{
+	"id": "crazy-dave-zyra",
+	"name": "Crazy Dave Zyra",
+	"champion": 143,
+	"base": 0,
+	"creator": "drinfinito",
+	"description": "Turns Zyra into a Crazy Gardener!\n\nContains:\n- New Model!\n- New SFX!\n- New VO!\n- New HUD Icons!\n- New Loading Screen!\n\nCredits\n- Crazy Dave Model from: https://models.spriters-resource.com/pc_computer/plantsvszombiesgardenwarfare2/asset/346847/\n- Peashooter Model from: https://models.spriters-resource.com/mobile/plantsvszombies3prealpha/asset/348937/\n- Chomper Model from: https://models.spriters-resource.com/mobile/plantsvszombies3prealpha/asset/349955/\n- VO from https://sounds.spriters-resource.com/pc_computer/plantsvszombiesgardenwarfare/asset/398267/ and https://sounds.spriters-resource.com/pc_computer/plantsvszombies/asset/394987/\n\n---\n\n**Created by** [DrInfinito](https://www.divineskins.gg/DrInfinito)\n\n**Original:** https://www.divineskins.gg/DrInfinito/crazy-dave-zyra\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/crazy-dave-zyra/thumb.webp?v=933b884a",
+	"file": {
+		"version": 1,
+		"asset": "crazy-dave-zyra-v1.fantome",
+		"size": 10118954,
+		"sha256": "9e3bab10ba6cd9789fccd0abedaad684303b3bb4ad8fb23a73c52e0bd68e652d"
+	},
+	"chromas": []
+}

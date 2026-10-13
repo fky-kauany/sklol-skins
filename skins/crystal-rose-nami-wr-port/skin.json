@@ -1,0 +1,25 @@
+{
+	"id": "crystal-rose-nami-wr-port",
+	"name": "Crystal Rose Nami [WR Port]",
+	"champion": 267,
+	"base": 0,
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2091072476562206732?s=20 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Nami\n* Skin: All\n* Crystal Rose Nami Wild Rift Port\n\n# Features\n\n- Loadingscreen & HUD\n- VFX\n- Model\n\n# ![](https://i.imgur.com/q3rG3zO.png)\n\n# Bugs\n\n***\n\nno bugs yet\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/crystal-rose-nami-wr-port\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/crystal-rose-nami-wr-port/thumb.webp?v=1a534088",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-nami-wr-port-v1.fantome",
+		"size": 17207207,
+		"sha256": "dd6f33abda064e36289da13f761fdac922f21bedfd5a07791b203fee25d5cc8b"
+	},
+	"chromas": []
+}

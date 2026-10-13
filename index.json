@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:44:36.719Z",
+	"generatedAt": "2026-10-13T01:48:44.579Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -150,6 +150,17 @@
 				"discord": "https://discord.com/users/440418268470312961",
 				"site": "https://github.com/DISCOCX",
 				"x": "https://x.com/DISCOXZ"
+			}
+		},
+		"drinfinito": {
+			"name": "DrInfinito",
+			"avatar": "creators/drinfinito.webp?v=40ef6384",
+			"bio": "Hello Hello, I make skins. Some better than others.\n\nIf you need any help regarding my skins, send me an email to drinfinito24@gmail.com, or send me a DM on Discord (I might not notice the Discord DM though)\n\nMy Linktree like all the cool kids: https://linktr.ee/ratpick24",
+			"links": {
+				"kofi": "https://ko-fi.com/drinfinito",
+				"site": "https://models.spriters-resource.com/pc_computer/plantsvszombiesgardenwarfare2/asset/346847/",
+				"x": "https://x.com/ratpick_24",
+				"youtube": "https://www.youtube.com/@drinfinito"
 			}
 		},
 		"emshu": {
@@ -6962,6 +6973,263 @@
 				"asset": "coven-nami-pristine-chroma-v1.fantome",
 				"size": 47996035,
 				"sha256": "abd4a810cc68ff1f894b9aa6f7c8718509061825eea28eb99ca0932b7fc9103c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crash-bandicoot-kled",
+			"name": "Crash Bandicoot Kled",
+			"champion": 240,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crash-bandicoot-kled/thumb.webp?v=3ccaf8cc",
+			"file": {
+				"version": 1,
+				"asset": "crash-bandicoot-kled-v1.fantome",
+				"size": 48183147,
+				"sha256": "92635334c7f184df902b552a8b81d80475e86730eaf5a1a2e7611e1f0d8a4ebc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crazy-dave-zyra",
+			"name": "Crazy Dave Zyra",
+			"champion": 143,
+			"base": 0,
+			"creator": "drinfinito",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crazy-dave-zyra/thumb.webp?v=933b884a",
+			"file": {
+				"version": 1,
+				"asset": "crazy-dave-zyra-v1.fantome",
+				"size": 10118954,
+				"sha256": "9e3bab10ba6cd9789fccd0abedaad684303b3bb4ad8fb23a73c52e0bd68e652d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-holo-divine-god-king-darius",
+			"name": "Crimson Holo Divine God King Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crimson-holo-divine-god-king-darius/thumb.webp?v=03c481e3",
+			"file": {
+				"version": 1,
+				"asset": "crimson-holo-divine-god-king-darius-v1.fantome",
+				"size": 6762661,
+				"sha256": "d1036dd0260d8de08ebec454c6e36cc0470491beb10d796e3248131b9b2b354e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-odyssey-kayn-chroma",
+			"name": "Crimson Odyssey Kayn Chroma",
+			"champion": 141,
+			"base": 0,
+			"creator": "shelzy",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crimson-odyssey-kayn-chroma/thumb.webp?v=878f4fb0",
+			"file": {
+				"version": 1,
+				"asset": "crimson-odyssey-kayn-chroma-v1.fantome",
+				"size": 5594545,
+				"sha256": "f557b6416a2c4b60595d29d17a3be9d60aac4699bbb8000ca7446f6e91395240"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-ashe",
+			"name": "Crystal Rose Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-ashe/thumb.webp?v=1adb3247",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-ashe-v1.fantome",
+				"size": 23735462,
+				"sha256": "9dc574d43ae1aed7f686cbca7fea0a97f33d1cbaa66e2220648e9a27e87b2be1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-kai-sa",
+			"name": "Crystal Rose Kai'Sa",
+			"champion": 145,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-kai-sa/thumb.webp?v=020bd4ca",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-kai-sa-v1.fantome",
+				"size": 30866160,
+				"sha256": "5bcefae9dff90d82b5b832318b6d4cf1d14f5aca2786bfc2d66e1509a7cd771f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-nami-wr-port",
+			"name": "Crystal Rose Nami [WR Port]",
+			"champion": 267,
+			"base": 0,
+			"creator": "pimek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-nami-wr-port/thumb.webp?v=1a534088",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-nami-wr-port-v1.fantome",
+				"size": 17207207,
+				"sha256": "dd6f33abda064e36289da13f761fdac922f21bedfd5a07791b203fee25d5cc8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-yasuo",
+			"name": "Crystal Rose Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "emshu",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-yasuo/thumb.webp?v=8867deb9",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-yasuo-v1.fantome",
+				"size": 24282492,
+				"sha256": "7a925a67ac7856e96c0a38741b17f565968d56ff345d761fd63119c84fe5b56b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cu-chulainn-xin-zhao",
+			"name": "CU CHULAINN XIN ZHAO",
+			"champion": 5,
+			"base": 0,
+			"creator": "czcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/cu-chulainn-xin-zhao/thumb.webp?v=b7772f38",
+			"file": {
+				"version": 1,
+				"asset": "cu-chulainn-xin-zhao-v1.fantome",
+				"size": 19866031,
+				"sha256": "0ab6dc8ff5e0e03288f15705cec935de09049b2a078ddc4ac1672df009b21b97"
+			},
+			"chromas": []
+		},
+		{
+			"id": "curren-chan-karma-from-uma-musume",
+			"name": "Curren Chan Karma from Uma Musume",
+			"champion": 43,
+			"base": 0,
+			"creator": "davexfn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/curren-chan-karma-from-uma-musume/thumb.webp?v=9787fcf5",
+			"file": {
+				"version": 1,
+				"asset": "curren-chan-karma-from-uma-musume-v1.fantome",
+				"size": 28600608,
+				"sha256": "5f186e0e59dcda3ce56e54b2eb91c7dabacb19e4b1d98a3dadb143d99cdf0a89"
 			},
 			"chromas": []
 		},

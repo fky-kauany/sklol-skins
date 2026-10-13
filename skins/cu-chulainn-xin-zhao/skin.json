@@ -1,0 +1,26 @@
+{
+	"id": "cu-chulainn-xin-zhao",
+	"name": "CU CHULAINN XIN ZHAO",
+	"champion": 5,
+	"base": 0,
+	"creator": "czcz",
+	"description": "---\n\n**Created by** [czcz](https://www.divineskins.gg/czcz)\n\n**Original:** https://www.divineskins.gg/czcz/cu-chulainn-xin-zhao\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/cu-chulainn-xin-zhao/thumb.webp?v=b7772f38",
+	"file": {
+		"version": 1,
+		"asset": "cu-chulainn-xin-zhao-v1.fantome",
+		"size": 19866031,
+		"sha256": "0ab6dc8ff5e0e03288f15705cec935de09049b2a078ddc4ac1672df009b21b97"
+	},
+	"chromas": []
+}

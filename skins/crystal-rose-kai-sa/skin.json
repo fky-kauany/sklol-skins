@@ -1,0 +1,26 @@
+{
+	"id": "crystal-rose-kai-sa",
+	"name": "Crystal Rose Kai'Sa",
+	"champion": 145,
+	"base": 0,
+	"creator": "frog",
+	"description": "### ? Mod Info\n\n**Type:**  etc.\n**Modified Skin(s):** All Kaisa Skins\n*(Delete rows you don't need.)*\n### ? Credits\n\n**Model(s):**  Wild Rift**Special Thanks:**  TO WILD RIFT LEAGUE OF LEGENDS\n\n### ? Additional Info\n\nQuestions or requests? DM me on Discord\n### ? Support Me\n\nEnjoyed the mod? Cool*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/crystal-rose-kaisa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/crystal-rose-kai-sa/thumb.webp?v=020bd4ca",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-kai-sa-v1.fantome",
+		"size": 30866160,
+		"sha256": "5bcefae9dff90d82b5b832318b6d4cf1d14f5aca2786bfc2d66e1509a7cd771f"
+	},
+	"chromas": []
+}
