@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T01:01:18.456Z",
+	"generatedAt": "2026-10-13T01:05:58.463Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -133,6 +133,12 @@
 				"x": "https://x.com/DISCOXZ"
 			}
 		},
+		"epel": {
+			"name": "epel",
+			"links": {
+				"kofi": "https://ko-fi.com/epellol"
+			}
+		},
 		"etherroot": {
 			"name": "etherroot_",
 			"avatar": "creators/etherroot.webp?v=01f937dc",
@@ -234,6 +240,14 @@
 			"avatar": "creators/mxdjid.webp?v=b8c43cbd",
 			"links": {}
 		},
+		"northoff": {
+			"name": "northoff",
+			"avatar": "creators/northoff.webp?v=f10d7df0",
+			"bio": "Free over 100+ Custom Skins for free and always updating.\n\nhttps://discord.gg/RxQWbrTyhs",
+			"links": {
+				"discord": "https://discord.gg/RxQWbrTyhs"
+			}
+		},
 		"nyxns0": {
 			"name": "nyxns0",
 			"avatar": "creators/nyxns0.webp?v=6c4c7142",
@@ -257,6 +271,11 @@
 				"youtube": "https://www.youtube.com/@Sauronkaiser"
 			}
 		},
+		"shelzy": {
+			"name": "Shelzy",
+			"avatar": "creators/shelzy.png?v=45784fd0",
+			"links": {}
+		},
 		"sirdexal": {
 			"name": "SirDexal",
 			"avatar": "creators/sirdexal.webp?v=048128ae",
@@ -274,6 +293,12 @@
 				"site": "https://linktr.ee/gyeinjik",
 				"youtube": "https://www.youtube.com/@StritzzzLoL"
 			}
+		},
+		"tanaa": {
+			"name": "Tanaa",
+			"avatar": "creators/tanaa.webp?v=a5946f9b",
+			"bio": "COMMISSIONS: @tanaaxd on discord",
+			"links": {}
 		},
 		"valfren": {
 			"name": "valfren",
@@ -4044,6 +4069,257 @@
 				"asset": "blaziken-lee-sin-v1.fantome",
 				"size": 10054695,
 				"sha256": "e28f6f788d18639d573843f3d1c12ff9e593065022212e9540b54b2c3845f175"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blitzcrank-garen-tryndamere",
+			"name": "Garen Tryndamere",
+			"champion": 53,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blitzcrank-garen-tryndamere/thumb.webp?v=01e68fbb",
+			"file": {
+				"version": 1,
+				"asset": "blitzcrank-garen-tryndamere-v1.fantome",
+				"size": 8116302,
+				"sha256": "c7ff77ee101221403d92c2af1cf431f86aa0f240a9b79e75a7c71f4b674ad581"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-king-jax",
+			"name": "Blood King Jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blood-king-jax/thumb.webp?v=1f634990",
+			"file": {
+				"version": 1,
+				"asset": "blood-king-jax-v1.fantome",
+				"size": 8953844,
+				"sha256": "ad6846446e07ee8863923ef4963ba73840902845b0010a18fc78e3f587d78cc4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-aatrox-frosted",
+			"name": "Blood Moon Aatrox - Frosted",
+			"champion": 266,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-aatrox-frosted/thumb.webp?v=0f86bc9f",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-aatrox-frosted-v1.fantome",
+				"size": 10461284,
+				"sha256": "af13f4b08dde6dc06968d50bd16b08cfff250e7a822cd1e0bb5cd5e5cb1b6aa1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-galaxy-slayer-zed",
+			"name": "Blood Moon | Galaxy Slayer Zed",
+			"champion": 238,
+			"base": 13,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-galaxy-slayer-zed/thumb.webp?v=3e75308f",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-galaxy-slayer-zed-v1.fantome",
+				"size": 2755556,
+				"sha256": "fef00c926d1c5132c153e29a6217b1d67c4c699534e56791a739499610f1bca7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-kayn-chroma",
+			"name": "Blood Moon Kayn Chroma",
+			"champion": 141,
+			"base": 0,
+			"creator": "shelzy",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-kayn-chroma/thumb.webp?v=01845c3c",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-kayn-chroma-v1.fantome",
+				"size": 5692085,
+				"sha256": "b729fab4ff95d47cf92bbb398da76ba9ebd92704e8dd3a1c51b21c6545c7bba8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-viego",
+			"name": "Blood Moon Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "epel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-viego/thumb.webp?v=9bf4a588",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-viego-v1.fantome",
+				"size": 15176811,
+				"sha256": "8d875e2113eccfdf5a21953bf6893e2d94763870f4ded1123e4cb724790358a0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-queen-ashe",
+			"name": "Blood Queen Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blood-queen-ashe/thumb.webp?v=e64a9a1b",
+			"file": {
+				"version": 1,
+				"asset": "blood-queen-ashe-v1.fantome",
+				"size": 5422434,
+				"sha256": "65550d68b12a806bed3d7d914eb1b4386eeb886c397d37c86a515ca6f4e3e7d0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-queen-diana",
+			"name": "Blood Queen Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/blood-queen-diana/thumb.webp?v=6604d381",
+			"file": {
+				"version": 1,
+				"asset": "blood-queen-diana-v1.fantome",
+				"size": 15437303,
+				"sha256": "da41fe094515a2499bb84c06be02ab9d51018bf0952b30708d5c473f1445b69a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bloodforged-majesty-battle-queen-katarina",
+			"name": "Bloodforged Majesty | Battle Queen Katarina",
+			"champion": 55,
+			"base": 29,
+			"creator": "northoff",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bloodforged-majesty-battle-queen-katarina/thumb.webp?v=65f1e0eb",
+			"file": {
+				"version": 1,
+				"asset": "bloodforged-majesty-battle-queen-katarina-v1.modpkg",
+				"size": 10059387,
+				"sha256": "ab2ffeabc84149a29b915a6e35fecd11b4e17892cc956dc76037b96e49349b21"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bloodmoon-kassadin",
+			"name": "Bloodmoon Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/bloodmoon-kassadin/thumb.webp?v=20c611de",
+			"file": {
+				"version": 1,
+				"asset": "bloodmoon-kassadin-v1.fantome",
+				"size": 22429113,
+				"sha256": "fc65c3791e224490b58323580fc1f64edcd5bbed327ca0c3ea01b45d92e0e159"
 			},
 			"chromas": []
 		},

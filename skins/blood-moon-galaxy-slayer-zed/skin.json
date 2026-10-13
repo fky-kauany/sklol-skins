@@ -1,0 +1,23 @@
+{
+	"id": "blood-moon-galaxy-slayer-zed",
+	"name": "Blood Moon | Galaxy Slayer Zed",
+	"champion": 238,
+	"base": 13,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Traumwah from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/blood-moon-galaxy-slayer-zed\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blood-moon-galaxy-slayer-zed/thumb.webp?v=3e75308f",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-galaxy-slayer-zed-v1.fantome",
+		"size": 2755556,
+		"sha256": "fef00c926d1c5132c153e29a6217b1d67c4c699534e56791a739499610f1bca7"
+	},
+	"chromas": []
+}

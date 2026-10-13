@@ -1,0 +1,26 @@
+{
+	"id": "blood-moon-aatrox-frosted",
+	"name": "Blood Moon Aatrox - Frosted",
+	"champion": 266,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Blood Moon Aatrox\n\n╰┈➤ _The idea for this mod was to give Aatrox a blue vibe, akin to snow moon_\n\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here (my discord server)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/blood-moon-aatrox-frosted\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blood-moon-aatrox-frosted/thumb.webp?v=0f86bc9f",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-aatrox-frosted-v1.fantome",
+		"size": 10461284,
+		"sha256": "af13f4b08dde6dc06968d50bd16b08cfff250e7a822cd1e0bb5cd5e5cb1b6aa1"
+	},
+	"chromas": []
+}

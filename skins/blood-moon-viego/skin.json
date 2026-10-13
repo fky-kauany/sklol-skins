@@ -1,0 +1,26 @@
+{
+	"id": "blood-moon-viego",
+	"name": "Blood Moon Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "epel",
+	"description": "Skin has custom animations, vfx, sounds, custom 3d model, banners and icons. Tried to go for a cool red and black theme, hope you guys like it as much as i do.\n\n---\n\n**Created by** [epel](https://www.divineskins.gg/epel)\n\n**Original:** https://www.divineskins.gg/epel/blood-moon-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blood-moon-viego/thumb.webp?v=9bf4a588",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-viego-v1.fantome",
+		"size": 15176811,
+		"sha256": "8d875e2113eccfdf5a21953bf6893e2d94763870f4ded1123e4cb724790358a0"
+	},
+	"chromas": []
+}

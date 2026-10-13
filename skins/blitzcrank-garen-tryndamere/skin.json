@@ -1,0 +1,26 @@
+{
+	"id": "blitzcrank-garen-tryndamere",
+	"name": "Garen Tryndamere",
+	"champion": 53,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\n- Champion: Tryndamere\n- Modified skin: Base\n- Author: Yigit Vercetti\n- Version: 1.0.0\n## SUPPORT ME ##\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [yigitvercetti](https://www.divineskins.gg/yigitvercetti)\n\n**Original:** https://www.divineskins.gg/yigitvercetti/garen-tryndamere\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blitzcrank-garen-tryndamere/thumb.webp?v=01e68fbb",
+	"file": {
+		"version": 1,
+		"asset": "blitzcrank-garen-tryndamere-v1.fantome",
+		"size": 8116302,
+		"sha256": "c7ff77ee101221403d92c2af1cf431f86aa0f240a9b79e75a7c71f4b674ad581"
+	},
+	"chromas": []
+}

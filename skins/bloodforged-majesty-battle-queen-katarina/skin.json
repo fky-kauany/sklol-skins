@@ -1,0 +1,25 @@
+{
+	"id": "bloodforged-majesty-battle-queen-katarina",
+	"name": "Bloodforged Majesty | Battle Queen Katarina",
+	"champion": 55,
+	"base": 29,
+	"creator": "northoff",
+	"description": "# Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Tezzed from our Discord server!.\r\n\r\n**https://discord.gg/leaguelab**\n\n---\n\n**Created by** [northoff](https://www.divineskins.gg/northoff)\n\n**Original:** https://www.divineskins.gg/northoff/bloodforged-majesty-battle-queen-katarina\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bloodforged-majesty-battle-queen-katarina/thumb.webp?v=65f1e0eb",
+	"file": {
+		"version": 1,
+		"asset": "bloodforged-majesty-battle-queen-katarina-v1.modpkg",
+		"size": 10059387,
+		"sha256": "ab2ffeabc84149a29b915a6e35fecd11b4e17892cc956dc76037b96e49349b21"
+	},
+	"chromas": []
+}

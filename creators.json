@@ -130,6 +130,12 @@
 			"x": "https://x.com/DISCOXZ"
 		}
 	},
+	"epel": {
+		"name": "epel",
+		"links": {
+			"kofi": "https://ko-fi.com/epellol"
+		}
+	},
 	"etherroot": {
 		"name": "etherroot_",
 		"avatar": "creators/etherroot.webp?v=01f937dc",
@@ -231,6 +237,14 @@
 		"avatar": "creators/mxdjid.webp?v=b8c43cbd",
 		"links": {}
 	},
+	"northoff": {
+		"name": "northoff",
+		"avatar": "creators/northoff.webp?v=f10d7df0",
+		"bio": "Free over 100+ Custom Skins for free and always updating.\n\nhttps://discord.gg/RxQWbrTyhs",
+		"links": {
+			"discord": "https://discord.gg/RxQWbrTyhs"
+		}
+	},
 	"nyxns0": {
 		"name": "nyxns0",
 		"avatar": "creators/nyxns0.webp?v=6c4c7142",
@@ -254,6 +268,11 @@
 			"youtube": "https://www.youtube.com/@Sauronkaiser"
 		}
 	},
+	"shelzy": {
+		"name": "Shelzy",
+		"avatar": "creators/shelzy.png?v=45784fd0",
+		"links": {}
+	},
 	"sirdexal": {
 		"name": "SirDexal",
 		"avatar": "creators/sirdexal.webp?v=048128ae",
@@ -271,6 +290,12 @@
 			"site": "https://linktr.ee/gyeinjik",
 			"youtube": "https://www.youtube.com/@StritzzzLoL"
 		}
+	},
+	"tanaa": {
+		"name": "Tanaa",
+		"avatar": "creators/tanaa.webp?v=a5946f9b",
+		"bio": "COMMISSIONS: @tanaaxd on discord",
+		"links": {}
 	},
 	"valfren": {
 		"name": "valfren",

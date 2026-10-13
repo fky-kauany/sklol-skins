@@ -1,0 +1,25 @@
+{
+	"id": "blood-queen-diana",
+	"name": "Blood Queen Diana",
+	"champion": 131,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Blood Queen Diana\n\n### Features\n\n- **Custom model**: Diana crowned as a vampiric monarch clad in crimson armor\n- **Custom abilities**: Blood-soaked VFX, crimson blades, and vampiric aura effects\n- **Works on every Diana skin** — Infernal, Sentinel, base, and more\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/blood-queen-diana\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blood-queen-diana/thumb.webp?v=6604d381",
+	"file": {
+		"version": 1,
+		"asset": "blood-queen-diana-v1.fantome",
+		"size": 15437303,
+		"sha256": "da41fe094515a2499bb84c06be02ab9d51018bf0952b30708d5c473f1445b69a"
+	},
+	"chromas": []
+}

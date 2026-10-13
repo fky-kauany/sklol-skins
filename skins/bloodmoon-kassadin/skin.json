@@ -1,0 +1,26 @@
+{
+	"id": "bloodmoon-kassadin",
+	"name": "Bloodmoon Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "tanaa",
+	"description": "### DISCORD: tanaaxd\n\n### DM IF SOMETHING BREAKS (or if you want to commission)\n# \n\n### Bloodmoon Kassadin from the Bloodmoon league of legends skinline \n#\nFEATURES:\n* NEW ABILITY SOUNDS\n* NEW VFX\n* CUSTOM MODEL\n\nblööööööööööö\n\nTODAY IS MY BORTHDAY\n\n---\n\n**Created by** [Tanaa](https://www.divineskins.gg/Tanaa)\n\n**Original:** https://www.divineskins.gg/Tanaa/bloodmoon-kassadin\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/bloodmoon-kassadin/thumb.webp?v=20c611de",
+	"file": {
+		"version": 1,
+		"asset": "bloodmoon-kassadin-v1.fantome",
+		"size": 22429113,
+		"sha256": "fc65c3791e224490b58323580fc1f64edcd5bbed327ca0c3ea01b45d92e0e159"
+	},
+	"chromas": []
+}

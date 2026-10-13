@@ -1,0 +1,24 @@
+{
+	"id": "blood-moon-kayn-chroma",
+	"name": "Blood Moon Kayn Chroma",
+	"champion": 141,
+	"base": 0,
+	"creator": "shelzy",
+	"description": "### ? Mod Info\n\n- Champion: Kayn\n- Modified skin: Snow Moon Kayn\n- Author: Shelzy\n\n### ? Please you NEED Snow Moon Kayn for the mod.\n\n### ? Additional Info\n\nIf you find any bug or want to give some feedback contact me in discord\n\n- shelzymadara\n\n---\n\n**Created by** [Shelzy](https://www.divineskins.gg/Shelzy)\n\n**Original:** https://www.divineskins.gg/Shelzy/blood-moon-kayn-chroma\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blood-moon-kayn-chroma/thumb.webp?v=01845c3c",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-kayn-chroma-v1.fantome",
+		"size": 5692085,
+		"sha256": "b729fab4ff95d47cf92bbb398da76ba9ebd92704e8dd3a1c51b21c6545c7bba8"
+	},
+	"chromas": []
+}

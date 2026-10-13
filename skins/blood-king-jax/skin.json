@@ -1,0 +1,25 @@
+{
+	"id": "blood-king-jax",
+	"name": "Blood King Jax",
+	"champion": 24,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Blood King Jax\n\n### Features\n\n- **Custom model**: Jax clad in crimson armor with a cursed blood-forged crown\n- **Custom abilities**: Blood-soaked slashes, crimson energy pulses, and regal dark-fantasy VFX\n- **Works on every Jax skin** — base, God Staff, Nemesis, and more\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/blood-king-jax\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/blood-king-jax/thumb.webp?v=1f634990",
+	"file": {
+		"version": 1,
+		"asset": "blood-king-jax-v1.fantome",
+		"size": 8953844,
+		"sha256": "ad6846446e07ee8863923ef4963ba73840902845b0010a18fc78e3f587d78cc4"
+	},
+	"chromas": []
+}
