@@ -1,0 +1,24 @@
+{
+	"id": "demon-rengar",
+	"name": "Demon Rengar",
+	"champion": 107,
+	"base": 0,
+	"creator": "frog",
+	"description": "![High-Res Image](https://i.postimg.cc/zBpmZcw4/image-2025-10-22-082008433.png)\r\n\r\n# ⚠️?GO TO VERSIONS!⚠️?\r\n\r\n\r\n## YOU MUST NAVIGATE TO THE \"VERSIONS\" SECTION OF THIS APPLICATION/SITE TO LOCATE AND SELECT THE SPECIFIC CHROMA FILE YOU WISH TO USE. THESE ARE TREATED AS SEPARATE DOWNLOADABLE PACKAGES OR VERSIONS.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/demon-rengar\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-rengar/thumb.webp?v=53ec0476",
+	"file": {
+		"version": 1,
+		"asset": "demon-rengar-v1.fantome",
+		"size": 8161493,
+		"sha256": "c9dc8282e4717902e83585a5419986c3eec9b298e6f13b0a1591741fb7261854"
+	},
+	"chromas": []
+}

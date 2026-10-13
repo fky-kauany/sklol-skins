@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T02:02:08.371Z",
+	"generatedAt": "2026-10-13T02:09:25.712Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8262,6 +8262,258 @@
 				"asset": "demon-draven-v1.fantome",
 				"size": 5569115,
 				"sha256": "4789224d4ea47f389dc75a10fd2b48711573ba58a2339575640a32870fcd6e53"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-evelynn",
+			"name": "Demon Evelynn",
+			"champion": 28,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-evelynn/thumb.webp?v=03e78ed0",
+			"file": {
+				"version": 1,
+				"asset": "demon-evelynn-v1.fantome",
+				"size": 11576512,
+				"sha256": "583efb3ed87c1cd4f351b048d6137e881917d43ece0b10a5f95a75c0bdb3032f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-hecarim",
+			"name": "Demon Hecarim",
+			"champion": 120,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-hecarim/thumb.webp?v=02657bbc",
+			"file": {
+				"version": 1,
+				"asset": "demon-hecarim-v1.fantome",
+				"size": 17578979,
+				"sha256": "9ac8c51cd3a784e314cf7369615d449402971e05a85e35ef77e8441b81f7b599"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-karma",
+			"name": "Demon Karma",
+			"champion": 43,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-karma/thumb.webp?v=3e3d7710",
+			"file": {
+				"version": 1,
+				"asset": "demon-karma-v1.fantome",
+				"size": 13527520,
+				"sha256": "76c4b91b8a418d4ce2633508136297ab9cbec8a9a002dc0382d29ff1f03c6c6c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-king-draven",
+			"name": "Demon King Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-king-draven/thumb.webp?v=ca858488",
+			"file": {
+				"version": 1,
+				"asset": "demon-king-draven-v1.fantome",
+				"size": 5999702,
+				"sha256": "64357840d92c570cba5354967f11497c45597e5931947191ff478e7d503a97ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-king-meliodas-zed",
+			"name": "Demon King Meliodas Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-king-meliodas-zed/thumb.webp?v=d1936264",
+			"file": {
+				"version": 1,
+				"asset": "demon-king-meliodas-zed-v1.fantome",
+				"size": 28266766,
+				"sha256": "434caa7c9e878d92b5825c64368af1936d9f843619a1d14f407931570647283f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-lillia",
+			"name": "Demon Lillia",
+			"champion": 876,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-lillia/thumb.webp?v=5baefd2c",
+			"file": {
+				"version": 1,
+				"asset": "demon-lillia-v1.fantome",
+				"size": 21816721,
+				"sha256": "6171ded65780f44c438c5cfd7a79f5a4947f9515b2f17bf62c80b9ca8afee800"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-of-lightning-talon",
+			"name": "Demon of Lightning Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-of-lightning-talon/thumb.webp?v=dc8eb81d",
+			"file": {
+				"version": 1,
+				"asset": "demon-of-lightning-talon-v1.fantome",
+				"size": 9718582,
+				"sha256": "9cde1c1ac775fa484c52f2e8dd26904c40b4bddbc97aa73b930ade7558a04ee3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-queen-aurora",
+			"name": "Demon Queen Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "antton",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-queen-aurora/thumb.webp?v=21a26923",
+			"file": {
+				"version": 1,
+				"asset": "demon-queen-aurora-v1.fantome",
+				"size": 11843165,
+				"sha256": "668605b9ac7d07546cb45ae13d60b8e31178e6e88ef1ec6ed125e5877cc0f8ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-rengar",
+			"name": "Demon Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-rengar/thumb.webp?v=53ec0476",
+			"file": {
+				"version": 1,
+				"asset": "demon-rengar-v1.fantome",
+				"size": 8161493,
+				"sha256": "c9dc8282e4717902e83585a5419986c3eec9b298e6f13b0a1591741fb7261854"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-talon",
+			"name": "Demon Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "lexa2209",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-12",
+			"updatedAt": "2026-10-12",
+			"downloads": 0,
+			"thumb": "skins/demon-talon/thumb.webp?v=8debaed7",
+			"file": {
+				"version": 1,
+				"asset": "demon-talon-v1.fantome",
+				"size": 16069964,
+				"sha256": "9efbabb68165aa4cc8bc6e9d845b1cf1af1ba51fb879579a3552fdb3448ffc8b"
 			},
 			"chromas": []
 		},

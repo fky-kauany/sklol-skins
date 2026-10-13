@@ -1,0 +1,26 @@
+{
+	"id": "demon-evelynn",
+	"name": "Demon Evelynn",
+	"champion": 28,
+	"base": 0,
+	"creator": "disco",
+	"description": "---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/demon-evelynn\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-evelynn/thumb.webp?v=03e78ed0",
+	"file": {
+		"version": 1,
+		"asset": "demon-evelynn-v1.fantome",
+		"size": 11576512,
+		"sha256": "583efb3ed87c1cd4f351b048d6137e881917d43ece0b10a5f95a75c0bdb3032f"
+	},
+	"chromas": []
+}

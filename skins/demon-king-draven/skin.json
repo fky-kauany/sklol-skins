@@ -1,0 +1,24 @@
+{
+	"id": "demon-king-draven",
+	"name": "Demon King Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Demon King Draven\n\n### Features\n\n- **Custom 3D model** with demonic black-and-red armor\n- **Custom abilities** infused with fire, blood, and infernal energy\n- **Works across every Draven skin**, keeping all your loadouts compatible\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/demon-king-draven\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-king-draven/thumb.webp?v=ca858488",
+	"file": {
+		"version": 1,
+		"asset": "demon-king-draven-v1.fantome",
+		"size": 5999702,
+		"sha256": "64357840d92c570cba5354967f11497c45597e5931947191ff478e7d503a97ab"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "demon-lillia",
+	"name": "Demon Lillia",
+	"champion": 876,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Demon Lillia\n\n### Features\n\n- **Custom 3D model** with demonic horns, black armor, and glowing crimson runes\n- **Custom abilities** with infernal red-and-black effects across her kit\n- **Works across every Lillia skin**, ensuring full compatibility\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/demon-lillia\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-lillia/thumb.webp?v=5baefd2c",
+	"file": {
+		"version": 1,
+		"asset": "demon-lillia-v1.fantome",
+		"size": 21816721,
+		"sha256": "6171ded65780f44c438c5cfd7a79f5a4947f9515b2f17bf62c80b9ca8afee800"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "demon-hecarim",
+	"name": "Demon Hecarim",
+	"champion": 120,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/demon-hecarim\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-hecarim/thumb.webp?v=02657bbc",
+	"file": {
+		"version": 1,
+		"asset": "demon-hecarim-v1.fantome",
+		"size": 17578979,
+		"sha256": "9ac8c51cd3a784e314cf7369615d449402971e05a85e35ef77e8441b81f7b599"
+	},
+	"chromas": []
+}

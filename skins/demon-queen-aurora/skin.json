@@ -1,0 +1,26 @@
+{
+	"id": "demon-queen-aurora",
+	"name": "Demon Queen Aurora",
+	"champion": 893,
+	"base": 0,
+	"creator": "antton",
+	"description": "Demon Queen – Aurora Custom Skin\r\n\r\nDive into the demonic abyss and embody Aurora’s Demon Queen form, wielder of hellfire flames, infernal portals, and corrupted magic. Spread darkness across all of Runeterra and unleash chaos throughout the Rift.\r\n\r\nThis custom skin delivers a complete visual rework of the champion with a dark fantasy atmosphere inspired by infernal flames, dark smoke, and demonic energy.\r\n\r\nFeatures\r\nReworked 3D model\r\nCustom loading screen\r\nModified ability icons\r\nFully reworked VFX\r\nDark fantasy / anime-inspired art direction\r\n\r\nThe skin will continue to evolve through future updates, so stay tuned.\r\n\r\nWant your own custom skin? Commission me on Discord: **antton_lol**\r\n\r\n☕ Support my custom skins & help me create more: https://ko-fi.com/antton_creator\n\n---\n\n**Created by** [Antton](https://www.divineskins.gg/Antton)\n\n**Original:** https://www.divineskins.gg/Antton/demon-queen-aurora\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-queen-aurora/thumb.webp?v=21a26923",
+	"file": {
+		"version": 1,
+		"asset": "demon-queen-aurora-v1.fantome",
+		"size": 11843165,
+		"sha256": "668605b9ac7d07546cb45ae13d60b8e31178e6e88ef1ec6ed125e5877cc0f8ee"
+	},
+	"chromas": []
+}

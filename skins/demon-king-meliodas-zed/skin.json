@@ -1,0 +1,26 @@
+{
+	"id": "demon-king-meliodas-zed",
+	"name": "Demon King Meliodas Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "daka",
+	"description": "# CTR+5 TO CHANGE THE FORM IN-GAME\n\n## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (The Seven Deadly Sins)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/demon-king-meliodas-zed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-king-meliodas-zed/thumb.webp?v=d1936264",
+	"file": {
+		"version": 1,
+		"asset": "demon-king-meliodas-zed-v1.fantome",
+		"size": 28266766,
+		"sha256": "434caa7c9e878d92b5825c64368af1936d9f843619a1d14f407931570647283f"
+	},
+	"chromas": []
+}

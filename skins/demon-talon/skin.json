@@ -1,0 +1,26 @@
+{
+	"id": "demon-talon",
+	"name": "Demon Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "lexa2209",
+	"description": "---\n\n**Created by** [lexa2209](https://www.divineskins.gg/lexa2209)\n\n**Original:** https://www.divineskins.gg/lexa2209/demon-talon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-12",
+	"updatedAt": "2026-10-12",
+	"thumb": "skins/demon-talon/thumb.webp?v=8debaed7",
+	"file": {
+		"version": 1,
+		"asset": "demon-talon-v1.fantome",
+		"size": 16069964,
+		"sha256": "9efbabb68165aa4cc8bc6e9d845b1cf1af1ba51fb879579a3552fdb3448ffc8b"
+	},
+	"chromas": []
+}
