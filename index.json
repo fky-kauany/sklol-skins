@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:24:26.964Z",
+	"generatedAt": "2026-10-13T04:27:48.233Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -7186,6 +7186,265 @@
 				"asset": "little-mac-lee-sin-v1.fantome",
 				"size": 1847764,
 				"sha256": "391ae90202c75fdc93c0bd07c763d30d6b3b91f4f2ca44c21e22497ead482d93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lobotomy-e-g-o-solemn-lament-lucian",
+			"name": "Lobotomy E.G.O::Solemn Lament Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "defaulti",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lobotomy-e-g-o-solemn-lament-lucian/thumb.webp?v=31cb74e4",
+			"file": {
+				"version": 1,
+				"asset": "lobotomy-e-g-o-solemn-lament-lucian-v1.fantome",
+				"size": 19292106,
+				"sha256": "de6231200eecb9c3d0f34d9e776eb3034b0d64818edbae0bcf98f5e57d1906cb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "locke-h-p-lockecraft",
+			"name": "H.P. Lockecraft",
+			"champion": 805,
+			"base": 0,
+			"creator": "deepd0wn",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/locke-h-p-lockecraft/thumb.webp?v=83732a2e",
+			"file": {
+				"version": 1,
+				"asset": "locke-h-p-lockecraft-v1.fantome",
+				"size": 11809276,
+				"sha256": "30beebea44f14fe422872f9c5a5de9bf2c0591b0963e6773f977a919142f681a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "locke-sukuna-jjk",
+			"name": "Locke Sukuna JJK",
+			"champion": 805,
+			"base": 0,
+			"creator": "tanaa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/locke-sukuna-jjk/thumb.webp?v=e6f01a44",
+			"file": {
+				"version": 1,
+				"asset": "locke-sukuna-jjk-v1.fantome",
+				"size": 22949955,
+				"sha256": "20d45d61b0008131b35e67692bcbc37dbada547d69b41c5a4bcf278b0dbbaebc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "locke-toji-fushiguro",
+			"name": "Locke Toji Fushiguro",
+			"champion": 805,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/locke-toji-fushiguro/thumb.webp?v=46bd92a4",
+			"file": {
+				"version": 1,
+				"asset": "locke-toji-fushiguro-v1.fantome",
+				"size": 32696286,
+				"sha256": "e08c06c9289158a37ba222a2df96eb533155ee532efb510148a674c5369cf685"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucian-alucard",
+			"name": "Alucard",
+			"champion": 236,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lucian-alucard/thumb.webp?v=96d59e48",
+			"file": {
+				"version": 1,
+				"asset": "lucian-alucard-v1.fantome",
+				"size": 13260973,
+				"sha256": "21828933c72f2d574670c8a44ed1913d0cfcfb3a21ea35d94d78921d5a6e3114"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucian-dante",
+			"name": "Lucian dante",
+			"champion": 236,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lucian-dante/thumb.webp?v=da9f5b69",
+			"file": {
+				"version": 1,
+				"asset": "lucian-dante-v1.fantome",
+				"size": 13348817,
+				"sha256": "1ac7d13fc67540342994d5be6d6de8c94b868250b363af9dc3ed0136d8cbdd4c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucian-happy-chaos",
+			"name": "Happy Chaos",
+			"champion": 236,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lucian-happy-chaos/thumb.webp?v=773c51ac",
+			"file": {
+				"version": 1,
+				"asset": "lucian-happy-chaos-v1.fantome",
+				"size": 32434797,
+				"sha256": "5f9504b62b5366b6969485688aa23fdf975a0d7a17f536cd8ed241b16ea8ddcf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucian-onyakopon",
+			"name": "Lucian Onyakopon",
+			"champion": 236,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lucian-onyakopon/thumb.webp?v=61eff1fb",
+			"file": {
+				"version": 1,
+				"asset": "lucian-onyakopon-v1.fantome",
+				"size": 8346227,
+				"sha256": "83c454f4e23511503f5db2a49f45cc3af6e143e26a6f42e93de1572f29d65b22"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucian-soul-fighter",
+			"name": "Soul Fighter",
+			"champion": 236,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lucian-soul-fighter/thumb.webp?v=91ec98ab",
+			"file": {
+				"version": 1,
+				"asset": "lucian-soul-fighter-v1.fantome",
+				"size": 19098885,
+				"sha256": "e9adc10e01e91e3c6b7d8c02767e9b0f106533629a959038048abf91bc325a2e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucy-cyberpunk-edgerunners-evelynn",
+			"name": "LUCY CYBERPUNK EDGERUNNERS EVELYNN",
+			"champion": 28,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/lucy-cyberpunk-edgerunners-evelynn/thumb.webp?v=d7f63b61",
+			"file": {
+				"version": 1,
+				"asset": "lucy-cyberpunk-edgerunners-evelynn-v1.fantome",
+				"size": 13107547,
+				"sha256": "e6886d9ac61c47b1cf7f417b053541fe2230c35a1b4e573bfa24e255c9d542d0"
 			},
 			"chromas": []
 		},

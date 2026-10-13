@@ -1,0 +1,26 @@
+{
+	"id": "lucian-dante",
+	"name": "Lucian dante",
+	"champion": 236,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "JACKPOTT\n(commmision me on discord @ceerel)\n\n\n\n**VO**\n**MODEL**\n**HUD**\n**VBLALBHALHBALHB**\n\neveyrthing basically\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/lucian-dante\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lucian-dante/thumb.webp?v=da9f5b69",
+	"file": {
+		"version": 1,
+		"asset": "lucian-dante-v1.fantome",
+		"size": 13348817,
+		"sha256": "1ac7d13fc67540342994d5be6d6de8c94b868250b363af9dc3ed0136d8cbdd4c"
+	},
+	"chromas": []
+}

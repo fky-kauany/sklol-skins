@@ -1,0 +1,26 @@
+{
+	"id": "locke-toji-fushiguro",
+	"name": "Locke Toji Fushiguro",
+	"champion": 805,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 TOJI FUSHIGURO 」\r\n### *Replaces Locke*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n**Custom Voice Lines**\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/locke-toji-fushiguro\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/locke-toji-fushiguro/thumb.webp?v=46bd92a4",
+	"file": {
+		"version": 1,
+		"asset": "locke-toji-fushiguro-v1.fantome",
+		"size": 32696286,
+		"sha256": "e08c06c9289158a37ba222a2df96eb533155ee532efb510148a674c5369cf685"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "locke-h-p-lockecraft",
+	"name": "H.P. Lockecraft",
+	"champion": 805,
+	"base": 0,
+	"creator": "deepd0wn",
+	"description": "# H. P. Lockecraft\n\nA fitting recolor of Locke - inspired by the Grandfather of Cosmic Horror. \n\nThe skin attempts to use visuals inspired by The Call of Cthulhu and Color Out of Space - two of my favorite works - such as the totem from Call of Cthulhu and the mysterious and hypnotizing hues of the \"color\" from \"Color Out of Space\"\n\nFeatures:\n\n- Cosmic horror themed VFX on all attacks/abilities and animations\n- H.P. featured loadscreen art and in game icon\n- Meticulously retouched weapon, character and totem model\n\nThis was a ton of fun to make, I hope you enjoy!\n\n---\n\n**Created by** [deepd0wn](https://www.divineskins.gg/deepd0wn)\n\n**Original:** https://www.divineskins.gg/deepd0wn/hp-lockecraft\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/locke-h-p-lockecraft/thumb.webp?v=83732a2e",
+	"file": {
+		"version": 1,
+		"asset": "locke-h-p-lockecraft-v1.fantome",
+		"size": 11809276,
+		"sha256": "30beebea44f14fe422872f9c5a5de9bf2c0591b0963e6773f977a919142f681a"
+	},
+	"chromas": []
+}

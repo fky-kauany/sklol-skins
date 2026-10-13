@@ -1,0 +1,26 @@
+{
+	"id": "lobotomy-e-g-o-solemn-lament-lucian",
+	"name": "Lobotomy E.G.O::Solemn Lament Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "defaulti",
+	"description": "Lucian as Lobotomy E.G.O::Solemn Lament Yi Sang from Limbus Company\r\n\r\n**Features:**\r\n\r\nCustom VFX\r\n\r\nCustom Model\r\n\r\nCustom Sound Effects\r\n\r\nCustom Voicelines\r\n\r\n--------------\r\nHas 2 versions:\r\n\r\nOne with coffin and one without coffin (Check versions)\r\n--------------\r\n\r\n*Model by Cursed XWT!*\n\n---\n\n**Created by** [Defaulti](https://www.divineskins.gg/Defaulti)\n\n**Original:** https://www.divineskins.gg/Defaulti/lobotomy-egosolemn-lament-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lobotomy-e-g-o-solemn-lament-lucian/thumb.webp?v=31cb74e4",
+	"file": {
+		"version": 1,
+		"asset": "lobotomy-e-g-o-solemn-lament-lucian-v1.fantome",
+		"size": 19292106,
+		"sha256": "de6231200eecb9c3d0f34d9e776eb3034b0d64818edbae0bcf98f5e57d1906cb"
+	},
+	"chromas": []
+}

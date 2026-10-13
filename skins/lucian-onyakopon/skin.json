@@ -1,0 +1,26 @@
+{
+	"id": "lucian-onyakopon",
+	"name": "Lucian Onyakopon",
+	"champion": 236,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 ONYAKOPON 」\n### *Replaces Lucian*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/lucian-onyakopon\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lucian-onyakopon/thumb.webp?v=61eff1fb",
+	"file": {
+		"version": 1,
+		"asset": "lucian-onyakopon-v1.fantome",
+		"size": 8346227,
+		"sha256": "83c454f4e23511503f5db2a49f45cc3af6e143e26a6f42e93de1572f29d65b22"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "lucian-happy-chaos",
+	"name": "Happy Chaos",
+	"champion": 236,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "Happy Chaos Lucian • Custom model • Custom Abilities\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/happy-chaos-lucian\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/lucian-happy-chaos/thumb.webp?v=773c51ac",
+	"file": {
+		"version": 1,
+		"asset": "lucian-happy-chaos-v1.fantome",
+		"size": 32434797,
+		"sha256": "5f9504b62b5366b6969485688aa23fdf975a0d7a17f536cd8ed241b16ea8ddcf"
+	},
+	"chromas": []
+}
