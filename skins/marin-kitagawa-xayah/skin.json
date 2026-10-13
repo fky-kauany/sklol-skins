@@ -1,0 +1,24 @@
+{
+	"id": "marin-kitagawa-xayah",
+	"name": "Marin Kitagawa Xayah",
+	"champion": 498,
+	"base": 0,
+	"creator": "disco",
+	"description": "## Marin Kitagawa Xayah\n\n### Features\n\n- **Iconic Gyaru Model:** A full custom model that gives Xayah a complete makeover in Marin Kitagawa's style, featuring her signature blonde/pink hair and a fashionable new outfit.\n- **Vibrant & Stylish Abilities:** Xayah's abilities and feathers have new custom visual effects with a brighter, more colorful palette that reflects Marin's energetic personality.\n- **Universal Compatibility:** This mod is designed to work as a base, meaning it functions with every official Xayah skin you own.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/marin-kitagawa-xayah\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/marin-kitagawa-xayah/thumb.webp?v=c04abf81",
+	"file": {
+		"version": 1,
+		"asset": "marin-kitagawa-xayah-v1.fantome",
+		"size": 11669845,
+		"sha256": "3fb24420a20ff30afd6c3a357d376cdb015e4123df0c8aa534e53d0eed2d97fb"
+	},
+	"chromas": []
+}

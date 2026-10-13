@@ -1,0 +1,26 @@
+{
+	"id": "marisa-lux",
+	"name": "Marisa Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "rorotea1",
+	"description": "Mod name : Marisa Lux\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.1\n\n---\n\n**Created by** [rorotea1](https://www.divineskins.gg/rorotea1)\n\n**Original:** https://www.divineskins.gg/rorotea1/marisa-lux\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/marisa-lux/thumb.webp?v=29a0fd0a",
+	"file": {
+		"version": 1,
+		"asset": "marisa-lux-v1.fantome",
+		"size": 6657615,
+		"sha256": "b0b7ce27a28b51b9d26461fcc9b7346e7a658009bfb122153c4a0a1d98c80a20"
+	},
+	"chromas": []
+}

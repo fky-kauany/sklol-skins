@@ -1,0 +1,26 @@
+{
+	"id": "master-yi-igris-yi",
+	"name": "Igris Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "ikiryou",
+	"description": "---\n\n**Created by** [ikiryou](https://www.divineskins.gg/ikiryou)\n\n**Original:** https://www.divineskins.gg/ikiryou/igris-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/master-yi-igris-yi/thumb.webp?v=3db89ff6",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-igris-yi-v1.fantome",
+		"size": 14058722,
+		"sha256": "133b0acf7df2030b75185d77aa109ccd84c8d43dce9e7f2940b4d38f00989574"
+	},
+	"chromas": []
+}

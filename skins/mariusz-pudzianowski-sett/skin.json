@@ -1,0 +1,26 @@
+{
+	"id": "mariusz-pudzianowski-sett",
+	"name": "Mariusz Pudzianowski Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "celestia-mod-recovery",
+	"description": "🇵🇱 ⛰️\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/mariusz-pudzianowski-sett\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mariusz-pudzianowski-sett/thumb.webp?v=cbbe966e",
+	"file": {
+		"version": 1,
+		"asset": "mariusz-pudzianowski-sett-v1.fantome",
+		"size": 10950392,
+		"sha256": "b602cd5bd3df65722ff41cabc3c0830ef80735c00aca627e5ad89d22dc92fec5"
+	},
+	"chromas": []
+}

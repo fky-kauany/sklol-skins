@@ -1,0 +1,26 @@
+{
+	"id": "master-of-madness-ashe",
+	"name": "Master of Madness Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "dear-agony",
+	"description": "### Overview\r\n\r\nAn alternative version of my custom Dread Retribution Ashe mod\r\n\r\nYou can also preview the [Cold of Heart](https://runeforge.dev/mods/71652a52-0f45-4e2b-8208-b9e8a51f8516) style\r\n\r\n---\r\n\r\n### Differences\r\n\r\nStyle: **Master of Madness**\r\n\r\nVisual Effects: Ashe Infernal\r\n\r\nCustom loading screen splash and original icon\r\n\r\n---\r\n\r\n### Compatibility\r\n\r\nWorks with Base Skin\r\n\r\n---\r\n\r\n### Credits\r\n\r\nAll Dota 2 assets used in this mod are property of Valve Corporation\r\n\r\nThis mod was created for entertainment purposes only\r\n\r\n---\r\n\r\n### Feedback\r\n\r\nIf you encounter issues, have suggestions, or want to share feedback, feel free to contact me on Discord\r\n\r\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://www.divineskins.gg/Dear_Agony)\n\n**Original:** https://www.divineskins.gg/Dear_Agony/master-of-madness-ashe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/master-of-madness-ashe/thumb.webp?v=aceb18e5",
+	"file": {
+		"version": 1,
+		"asset": "master-of-madness-ashe-v1.fantome",
+		"size": 28548975,
+		"sha256": "c2ecb4e42e45313b13701d291d01937d29766c556d11483ba93868c13247fa5d"
+	},
+	"chromas": []
+}

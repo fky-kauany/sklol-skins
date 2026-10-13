@@ -1,0 +1,26 @@
+{
+	"id": "master-chef-draven",
+	"name": "Master Chef Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "valfren",
+	"description": "## **CHEF UP THE BOT LANE WITH THIS HOT NEW DRAVEN SKIN**\r\n-\r\n\r\n**features:**\r\n- New VFX\r\n- New SFX, with help from [Shrimpback](https://x.com/shrimpbackpain)\r\n- New Model\r\n\r\n**Skin Showcase:**\r\nhttps://youtu.be/hqDtfdwfJTg\r\n\r\nDo you want the custom animations from my other Draven skins? Let me know in the comments\n\n---\n\n**Created by** [valfren](https://www.divineskins.gg/valfren)\n\n**Original:** https://www.divineskins.gg/valfren/master-chef-draven\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/master-chef-draven/thumb.webp?v=b1ea8015",
+	"file": {
+		"version": 1,
+		"asset": "master-chef-draven-v1.fantome",
+		"size": 6143306,
+		"sha256": "e4bce1e6c2c1b0b548d67f0aa90e14d4d790892d7417a2da299d940fb2d7ad36"
+	},
+	"chromas": []
+}

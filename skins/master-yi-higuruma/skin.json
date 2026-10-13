@@ -1,0 +1,26 @@
+{
+	"id": "master-yi-higuruma",
+	"name": "Master Yi Higuruma",
+	"champion": 11,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 HIROMI HIGURUMA 」\n### *Replaces Master Yi*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n**Custom Voice Lines**\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/master-yi-higuruma\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/master-yi-higuruma/thumb.webp?v=565ec73e",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-higuruma-v1.fantome",
+		"size": 34325870,
+		"sha256": "811ca4670322cef9b4f848c4a06b8c232fd8fc4a7e717b7c31b95f86c922897d"
+	},
+	"chromas": []
+}

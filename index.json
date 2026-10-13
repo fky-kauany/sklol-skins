@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:37:35.906Z",
+	"generatedAt": "2026-10-13T04:40:49.233Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8215,6 +8215,263 @@
 				"asset": "maokai-l9-boss-v1.fantome",
 				"size": 10524872,
 				"sha256": "9440fa19f14bc06c9c3e1b957f7d673d77f21bab26635eaa71eb60c182713a8a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "marin-kitagawa-xayah",
+			"name": "Marin Kitagawa Xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "disco",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/marin-kitagawa-xayah/thumb.webp?v=c04abf81",
+			"file": {
+				"version": 1,
+				"asset": "marin-kitagawa-xayah-v1.fantome",
+				"size": 11669845,
+				"sha256": "3fb24420a20ff30afd6c3a357d376cdb015e4123df0c8aa534e53d0eed2d97fb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "marine-graves",
+			"name": "Marine Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/marine-graves/thumb.webp?v=a19f45e4",
+			"file": {
+				"version": 1,
+				"asset": "marine-graves-v1.fantome",
+				"size": 8131209,
+				"sha256": "2d513adae47eb3acf1c9209c605be4437f1fdfdc7a62f056468f65d8513cc73e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "marisa-lux",
+			"name": "Marisa Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/marisa-lux/thumb.webp?v=29a0fd0a",
+			"file": {
+				"version": 1,
+				"asset": "marisa-lux-v1.fantome",
+				"size": 6657615,
+				"sha256": "b0b7ce27a28b51b9d26461fcc9b7346e7a658009bfb122153c4a0a1d98c80a20"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mariusz-pudzianowski-sett",
+			"name": "Mariusz Pudzianowski Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "celestia-mod-recovery",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mariusz-pudzianowski-sett/thumb.webp?v=cbbe966e",
+			"file": {
+				"version": 1,
+				"asset": "mariusz-pudzianowski-sett-v1.fantome",
+				"size": 10950392,
+				"sha256": "b602cd5bd3df65722ff41cabc3c0830ef80735c00aca627e5ad89d22dc92fec5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-chef-draven",
+			"name": "Master Chef Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-chef-draven/thumb.webp?v=b1ea8015",
+			"file": {
+				"version": 1,
+				"asset": "master-chef-draven-v1.fantome",
+				"size": 6143306,
+				"sha256": "e4bce1e6c2c1b0b548d67f0aa90e14d4d790892d7417a2da299d940fb2d7ad36"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-of-madness-ashe",
+			"name": "Master of Madness Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "dear-agony",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-of-madness-ashe/thumb.webp?v=aceb18e5",
+			"file": {
+				"version": 1,
+				"asset": "master-of-madness-ashe-v1.fantome",
+				"size": 28548975,
+				"sha256": "c2ecb4e42e45313b13701d291d01937d29766c556d11483ba93868c13247fa5d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-byakuya",
+			"name": "Byakuya",
+			"champion": 11,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-yi-byakuya/thumb.webp?v=e8bcc560",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-byakuya-v1.fantome",
+				"size": 8750582,
+				"sha256": "8e5cf088f722e0c50cdb86e4ba5a363436c58237c3ee576e4677f51ad2b10f15"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-furina-masteryi",
+			"name": "Furina MasterYi",
+			"champion": 11,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-yi-furina-masteryi/thumb.webp?v=b30d9b82",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-furina-masteryi-v1.fantome",
+				"size": 12933009,
+				"sha256": "0e906f931d247340f70026e6312d8881a5ec9f7fbeb67723c1c8b3bf9b2520e4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-higuruma",
+			"name": "Master Yi Higuruma",
+			"champion": 11,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-yi-higuruma/thumb.webp?v=565ec73e",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-higuruma-v1.fantome",
+				"size": 34325870,
+				"sha256": "811ca4670322cef9b4f848c4a06b8c232fd8fc4a7e717b7c31b95f86c922897d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-igris-yi",
+			"name": "Igris Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "ikiryou",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/master-yi-igris-yi/thumb.webp?v=3db89ff6",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-igris-yi-v1.fantome",
+				"size": 14058722,
+				"sha256": "133b0acf7df2030b75185d77aa109ccd84c8d43dce9e7f2940b4d38f00989574"
 			},
 			"chromas": []
 		},

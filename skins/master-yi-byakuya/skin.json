@@ -1,0 +1,25 @@
+{
+	"id": "master-yi-byakuya",
+	"name": "Byakuya",
+	"champion": 11,
+	"base": 0,
+	"creator": "frog",
+	"description": "Byakuya Yi\r\n• Custom model\r\n• Custom Abilities\r\n• Works on every Yi skin\r\n• Custom Voiceover of Byakuya\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/byakuya-masteri-yi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/master-yi-byakuya/thumb.webp?v=e8bcc560",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-byakuya-v1.fantome",
+		"size": 8750582,
+		"sha256": "8e5cf088f722e0c50cdb86e4ba5a363436c58237c3ee576e4677f51ad2b10f15"
+	},
+	"chromas": []
+}
