@@ -1,0 +1,26 @@
+{
+	"id": "mel-mai-sakurajima",
+	"name": "Mai Sakurajima",
+	"champion": 800,
+	"base": 0,
+	"creator": "frog",
+	"description": "Mai Mel\r\n• Custom model\r\n• Custom Abilities\r\n• Custom Voiceover of Mel\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/mai-sakurajima-mel\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/mel-mai-sakurajima/thumb.webp?v=c8bc1493",
+	"file": {
+		"version": 1,
+		"asset": "mel-mai-sakurajima-v1.fantome",
+		"size": 12937077,
+		"sha256": "4bb015c9576fb093626c66885d4bdfb75ac002ae97eb1a2f04a54c5cb8018d88"
+	},
+	"chromas": []
+}

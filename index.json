@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T04:44:00.638Z",
+	"generatedAt": "2026-10-13T04:47:10.001Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8730,6 +8730,251 @@
 				"asset": "mel-kitagawa-v1.fantome",
 				"size": 15172887,
 				"sha256": "c98be6da3abbd0d07a1cb66c18e47cfd603dfdfec6e15d588270a84ad0de709b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-mai-sakurajima",
+			"name": "Mai Sakurajima",
+			"champion": 800,
+			"base": 0,
+			"creator": "frog",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/mel-mai-sakurajima/thumb.webp?v=c8bc1493",
+			"file": {
+				"version": 1,
+				"asset": "mel-mai-sakurajima-v1.fantome",
+				"size": 12937077,
+				"sha256": "4bb015c9576fb093626c66885d4bdfb75ac002ae97eb1a2f04a54c5cb8018d88"
+			},
+			"chromas": []
+		},
+		{
+			"id": "meliodas-riven",
+			"name": "Meliodas Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/meliodas-riven/thumb.webp?v=56c9e1ce",
+			"file": {
+				"version": 1,
+				"asset": "meliodas-riven-v1.fantome",
+				"size": 18020460,
+				"sha256": "0420134ddb1dbbebfc5994f09f303120c214e6e9750af4830268947a8ad486fb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "meliodas-viego",
+			"name": "Meliodas Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "daka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/meliodas-viego/thumb.webp?v=04564e6b",
+			"file": {
+				"version": 1,
+				"asset": "meliodas-viego-v1.fantome",
+				"size": 14871207,
+				"sha256": "400736da82908be6f0b7ca0ebef21a1526e041beeddcfc366dec68608f0ccd06"
+			},
+			"chromas": []
+		},
+		{
+			"id": "meryl-samira",
+			"name": "Meryl Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "rorotea1",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/meryl-samira/thumb.webp?v=ed121455",
+			"file": {
+				"version": 1,
+				"asset": "meryl-samira-v1.fantome",
+				"size": 3303494,
+				"sha256": "b74ebbc64ecd6cf50e66175fdaf2ab27b6125dd1034a3d9b291e88f26afc77c6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "messi-milio",
+			"name": "Messi Milio",
+			"champion": 902,
+			"base": 0,
+			"creator": "wiko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/messi-milio/thumb.webp?v=537fe038",
+			"file": {
+				"version": 1,
+				"asset": "messi-milio-v1.fantome",
+				"size": 13995481,
+				"sha256": "e261a318a3eb835495da0aab1e9fab9008cc2808f1317a90a4f6c9021a5802a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-ahri",
+			"name": "Metin2 Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-ahri/thumb.webp?v=5e90cd33",
+			"file": {
+				"version": 1,
+				"asset": "metin2-ahri-v1.fantome",
+				"size": 1434985,
+				"sha256": "bad9d5843243c5dbf85a207fb6d93cd470a103038357f790ff2cd161db8a65f6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-garen",
+			"name": "Metin2 Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-garen/thumb.webp?v=65a8a19b",
+			"file": {
+				"version": 1,
+				"asset": "metin2-garen-v1.fantome",
+				"size": 1404060,
+				"sha256": "5c26cc50822f84645998c5435fa55e3e6118c493df88b062381c9f2949e43adb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-katarina",
+			"name": "Metin2 Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-katarina/thumb.webp?v=1a714b6c",
+			"file": {
+				"version": 1,
+				"asset": "metin2-katarina-v1.fantome",
+				"size": 2305799,
+				"sha256": "e964688252ea3e16183fa5b062283cd98ae8b204ad74f0ebdb5bcc535983f822"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-master-yi",
+			"name": "Metin2 Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-master-yi/thumb.webp?v=36429a0f",
+			"file": {
+				"version": 1,
+				"asset": "metin2-master-yi-v1.fantome",
+				"size": 1459555,
+				"sha256": "356dd0484c9683dc971a53d2a682e262d6e9f88a669dd7b01faaf5d0f621d7b0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-ornn",
+			"name": "Metin2 Ornn",
+			"champion": 516,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-13",
+			"updatedAt": "2026-10-13",
+			"downloads": 0,
+			"thumb": "skins/metin2-ornn/thumb.webp?v=bb3f6188",
+			"file": {
+				"version": 1,
+				"asset": "metin2-ornn-v1.fantome",
+				"size": 605665,
+				"sha256": "1a9241f9df5f0a5415be0ff72ab224e61c8630858c832442aa7ce73f6d40728e"
 			},
 			"chromas": []
 		},

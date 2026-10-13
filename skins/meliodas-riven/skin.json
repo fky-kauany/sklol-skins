@@ -1,0 +1,26 @@
+{
+	"id": "meliodas-riven",
+	"name": "Meliodas Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "daka",
+	"description": "# Berserker Mode on R\n\n## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (The Seven Deadly Sins)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/meliodas-riven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/meliodas-riven/thumb.webp?v=56c9e1ce",
+	"file": {
+		"version": 1,
+		"asset": "meliodas-riven-v1.fantome",
+		"size": 18020460,
+		"sha256": "0420134ddb1dbbebfc5994f09f303120c214e6e9750af4830268947a8ad486fb"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "meliodas-viego",
+	"name": "Meliodas Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "daka",
+	"description": "# CTR+5 TO CHANGE THE FORM IN-GAME\n\n## Features:\n- Custom Animations\n- Custom VFX\n- Custom Model (The Seven Deadly Sins)\n- Custom Icons\n- Custom Sfx/VO\n\n### Bugs / Suggestions / Commissions\n\nYou can contact me on Discord:\n- `sxrmss` / DAKA \n\n*Download at divineskins.gg*\n\n## Credits\nOldey - Thumbnail\nTaanaxd - for being Taa Na\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/meliodas-viego\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/meliodas-viego/thumb.webp?v=04564e6b",
+	"file": {
+		"version": 1,
+		"asset": "meliodas-viego-v1.fantome",
+		"size": 14871207,
+		"sha256": "400736da82908be6f0b7ca0ebef21a1526e041beeddcfc366dec68608f0ccd06"
+	},
+	"chromas": []
+}

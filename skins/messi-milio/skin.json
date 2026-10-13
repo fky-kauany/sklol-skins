@@ -1,0 +1,26 @@
+{
+	"id": "messi-milio",
+	"name": "Messi Milio",
+	"champion": 902,
+	"base": 0,
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces Milio with Lionel Messi.\n\n#\n\n### ✨ Additional information\n\nThe mod replaces the Base Milio skin.\n\n#\n\n### ✨ Features\n\n* New model and textures\n* New visual effects\n* New sound effects\n\n#\n\n### ✨ Credits\n\n- Credits to Konradosj (join [his Discord](https://discord.gg/AbJr22cCZG/ \"konradosj Super Server invite link\")!) for the original rig \n\n- Credits to [RoloRolla](https://www.youtube.com/@RoloRolla \"unpelo's yt channel\") for the sound effects\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/messi-milio\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-13",
+	"updatedAt": "2026-10-13",
+	"thumb": "skins/messi-milio/thumb.webp?v=537fe038",
+	"file": {
+		"version": 1,
+		"asset": "messi-milio-v1.fantome",
+		"size": 13995481,
+		"sha256": "e261a318a3eb835495da0aab1e9fab9008cc2808f1317a90a4f6c9021a5802a1"
+	},
+	"chromas": []
+}
