@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T15:12:33.849Z",
+	"generatedAt": "2026-10-15T15:12:35.982Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -35764,6 +35764,29 @@
 				"asset": "zoroark-neeko-v1.fantome",
 				"size": 6772575,
 				"sha256": "26f1a9381bca91aedd3dc1eabd76a9a6a7a10e8dd542052e263677c0429df933"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zulrah-cassiopeia",
+			"name": "Zulrah Cassiopeia",
+			"champion": 69,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zulrah-cassiopeia/thumb.webp?v=81820596",
+			"file": {
+				"version": 1,
+				"asset": "zulrah-cassiopeia-v1.fantome",
+				"size": 61830,
+				"sha256": "2768672495f589f96c5f9080a2cef85836dc811dc560b2aea44d87a63e414237"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,23 @@
+{
+	"id": "zulrah-cassiopeia",
+	"name": "Zulrah Cassiopeia",
+	"champion": 69,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Cassiopeia**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b1365fe7-f88b-4593-a7d3-f743210484a4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zulrah-cassiopeia/thumb.webp?v=81820596",
+	"file": {
+		"version": 1,
+		"asset": "zulrah-cassiopeia-v1.fantome",
+		"size": 61830,
+		"sha256": "2768672495f589f96c5f9080a2cef85836dc811dc560b2aea44d87a63e414237"
+	},
+	"chromas": []
+}
