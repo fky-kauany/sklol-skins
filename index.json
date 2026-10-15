@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:05:54.968Z",
+	"generatedAt": "2026-10-15T08:06:09.338Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -3224,6 +3224,31 @@
 				"asset": "battle-cat-gwen-wr-port-v1.fantome",
 				"size": 8080488,
 				"sha256": "c8688fec8ababf470b9543d3b220d959d360701c8d5066381cfae34b4d7cf0a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-cheetah-katarina",
+			"name": "Battle Cheetah Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-cheetah-katarina/thumb.webp?v=c738d73e",
+			"file": {
+				"version": 1,
+				"asset": "battle-cheetah-katarina-v1.fantome",
+				"size": 12300111,
+				"sha256": "9f5e9915ca2f710b3fca28dc49e50e5d3372e1be86498d498e5a19670b676189"
 			},
 			"chromas": []
 		},

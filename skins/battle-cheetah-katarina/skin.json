@@ -1,0 +1,25 @@
+{
+	"id": "battle-cheetah-katarina",
+	"name": "Battle Cheetah Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Katarina with a custom-made model after a Bearded Shepherd's original concept for Battle Cheetah Katarina.\n\n## CREDITS\n\n* **CONCEPT, MODELS, TEXTURES & VFX**: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)[ ](https://linktr.ee/BeardedShepherd)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n\nEnjoy!\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/06ff4592-b1fb-4f57-ae16-9722f45396fe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-cheetah-katarina/thumb.webp?v=c738d73e",
+	"file": {
+		"version": 1,
+		"asset": "battle-cheetah-katarina-v1.fantome",
+		"size": 12300111,
+		"sha256": "9f5e9915ca2f710b3fca28dc49e50e5d3372e1be86498d498e5a19670b676189"
+	},
+	"chromas": []
+}
