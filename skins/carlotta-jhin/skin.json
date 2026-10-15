@@ -1,0 +1,26 @@
+{
+	"id": "carlotta-jhin",
+	"name": "Carlotta Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Carlotta Jhin\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.1.2\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/929da692-9686-496a-bfb1-c0cd92818840\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/carlotta-jhin/thumb.webp?v=7791487b",
+	"file": {
+		"version": 1,
+		"asset": "carlotta-jhin-v1.fantome",
+		"size": 32225763,
+		"sha256": "a9ea2ea14b29fd985ce55d045e15b7e2c161235fbf2c99d62288ea68a7bfa0dc"
+	},
+	"chromas": []
+}

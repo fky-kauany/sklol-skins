@@ -1,0 +1,24 @@
+{
+	"id": "chainsaw-man-yone",
+	"name": "Chainsaw Man Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Yone\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/48d8f771-16ab-4b71-8caf-cbd58d1d1679\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chainsaw-man-yone/thumb.webp?v=a28af33d",
+	"file": {
+		"version": 1,
+		"asset": "chainsaw-man-yone-v1.fantome",
+		"size": 3991822,
+		"sha256": "9f956f9a9ebed06caad49cfcfd2a0559369ef2c4565db83d979b7bf8d075b0d3"
+	},
+	"chromas": []
+}

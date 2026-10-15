@@ -1,0 +1,26 @@
+{
+	"id": "castorice-kayn",
+	"name": "Castorice Kayn",
+	"champion": 141,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Castorice Kayn\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea 在下西门吹雪\r\n\r\nMod version : 2.0.2\r\n\r\nMany thanks to '在下西门吹雪' for creating the voice pack\r\n\r\n---\r\n\r\n2.0.0:\r\n\r\nTransforming equips a new outfit\r\n\r\nadds some new VFX\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/105ff8e6-4c33-45e4-9e32-e4d702a93e21\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/castorice-kayn/thumb.webp?v=a96fd334",
+	"file": {
+		"version": 1,
+		"asset": "castorice-kayn-v1.fantome",
+		"size": 33594283,
+		"sha256": "c728124bb1c6b7c09d284abe538d704b6fbe407ac5cfbf6cb544147fc6232545"
+	},
+	"chromas": []
+}

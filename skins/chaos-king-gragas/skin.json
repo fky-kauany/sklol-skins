@@ -1,0 +1,25 @@
+{
+	"id": "chaos-king-gragas",
+	"name": "Chaos king gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "abelerdus",
+	"description": "# Info\r\n**Modified champion:** Gragas\r\n\r\n**Modified skin:** Default\r\n\r\n**Author:** Abelerdus\r\n\r\n# Credits\r\nOriginal model by [VibaPop](https://sketchfab.com/VibaPop)\n\n---\n\n**Created by** [Abelerdus](https://runeforge.dev/users/Abelerdus)\n\n**Original:** https://runeforge.dev/mods/00084a04-30f2-4899-b6b0-c73cf71ee4f3\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chaos-king-gragas/thumb.webp?v=43051083",
+	"file": {
+		"version": 1,
+		"asset": "chaos-king-gragas-v1.fantome",
+		"size": 8702149,
+		"sha256": "6c38d290530ce59c4f4db8865cf3d2ed1e770ecce5d5e95620679150d5af9b3b"
+	},
+	"chromas": []
+}

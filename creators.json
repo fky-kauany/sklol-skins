@@ -15,6 +15,14 @@
 			"discord": "https://discord.gg/6MTrrVbwgm"
 		}
 	},
+	"abelerdus": {
+		"name": "Abelerdus",
+		"avatar": "creators/abelerdus.png?v=adf96380",
+		"links": {
+			"site": "https://sketchfab.com/VibaPop",
+			"youtube": "https://youtu.be/Wlrwh2paADs"
+		}
+	},
 	"adm1": {
 		"name": "adm1",
 		"avatar": "creators/adm1.webp?v=994caa81",
@@ -938,6 +946,16 @@
 		"links": {
 			"x": "https://x.com/PelotudoJugando",
 			"youtube": "https://youtu.be/35-mt5hv6J4"
+		}
+	},
+	"rorotea": {
+		"name": "rorotea",
+		"avatar": "creators/rorotea.png?v=f1894f3a",
+		"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：https://ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
+		"links": {
+			"discord": "https://discord.gg/YsqBJARw",
+			"kofi": "https://ko-fi.com/roroteaa",
+			"site": "https://paypal.me/rorotea1"
 		}
 	},
 	"rorotea1": {

@@ -1,0 +1,23 @@
+{
+	"id": "carmine-marauder-victorious-rengar",
+	"name": "Carmine Marauder | Victorious Rengar",
+	"champion": 107,
+	"base": 49,
+	"creator": "northoff",
+	"description": "Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Tezzed from our Discord server!.\n\nhttps://discord.gg/leaguelab\n\n---\n\n**Created by** [northoff](https://runeforge.dev/users/northoff)\n\n**Original:** https://runeforge.dev/mods/6fdf6515-0f04-431c-9ace-039e7b430642\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/carmine-marauder-victorious-rengar/thumb.webp?v=759e0c6d",
+	"file": {
+		"version": 1,
+		"asset": "carmine-marauder-victorious-rengar-v1.fantome",
+		"size": 3988914,
+		"sha256": "48b84b4a5ea376b38998b038f8da4620f65dd1d182589f3f067f59a55b9ae370"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "carl-johnson-darius",
+	"name": "Carl Johnson Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Darius\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/cc2bebf2-85b8-4f05-8b98-715ea03b1056\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/carl-johnson-darius/thumb.webp?v=202bb0b7",
+	"file": {
+		"version": 1,
+		"asset": "carl-johnson-darius-v1.fantome",
+		"size": 2388353,
+		"sha256": "bd2c9c69466412a89f113d30f1414c6cee5fa01f6f2cc4ad814f1d08398cf608"
+	},
+	"chromas": []
+}

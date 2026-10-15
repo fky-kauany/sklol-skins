@@ -1,0 +1,25 @@
+{
+	"id": "cartethyia-yone",
+	"name": "Cartethyia Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Cartethyia Yone\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/e97e0c0a-54a7-4152-acd2-dca79966daa4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cartethyia-yone/thumb.webp?v=d4ea8f82",
+	"file": {
+		"version": 1,
+		"asset": "cartethyia-yone-v1.fantome",
+		"size": 24134659,
+		"sha256": "9f969d33c05203ab83452d8707d13f73cf3cc93182a289cc39cd89f1ce432c77"
+	},
+	"chromas": []
+}

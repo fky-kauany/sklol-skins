@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:25:06.538Z",
+	"generatedAt": "2026-10-15T08:28:23.710Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16,6 +16,14 @@
 			"bio": "hello everyone! im rachel (or 1gem1 depending on what you wanna call me) and i love making custom skins!\n\nyou can find me via: (most active to least)\n\n• discord - 1gem1\n• my custom skins discord\n• runeforge over here\n• twitter/x - here\n• kofi - here\n• league (EUW) - 1gem1#EUW\n\nif anything breaks, you wanna ask me any questions, or you'd like info on commissioning me, hmu on any of these !!",
 			"links": {
 				"discord": "https://discord.gg/6MTrrVbwgm"
+			}
+		},
+		"abelerdus": {
+			"name": "Abelerdus",
+			"avatar": "creators/abelerdus.png?v=adf96380",
+			"links": {
+				"site": "https://sketchfab.com/VibaPop",
+				"youtube": "https://youtu.be/Wlrwh2paADs"
 			}
 		},
 		"adm1": {
@@ -941,6 +949,16 @@
 			"links": {
 				"x": "https://x.com/PelotudoJugando",
 				"youtube": "https://youtu.be/35-mt5hv6J4"
+			}
+		},
+		"rorotea": {
+			"name": "rorotea",
+			"avatar": "creators/rorotea.png?v=f1894f3a",
+			"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：https://ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
+			"links": {
+				"discord": "https://discord.gg/YsqBJARw",
+				"kofi": "https://ko-fi.com/roroteaa",
+				"site": "https://paypal.me/rorotea1"
 			}
 		},
 		"rorotea1": {
@@ -4993,6 +5011,250 @@
 				"asset": "carl-johnson-cj-lucian-v1.fantome",
 				"size": 2838156,
 				"sha256": "31c7902a089b16a045d0ebabf88f0ed546ec11db220f76a46ee3ff677b3f6d62"
+			},
+			"chromas": []
+		},
+		{
+			"id": "carl-johnson-darius",
+			"name": "Carl Johnson Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/carl-johnson-darius/thumb.webp?v=202bb0b7",
+			"file": {
+				"version": 1,
+				"asset": "carl-johnson-darius-v1.fantome",
+				"size": 2388353,
+				"sha256": "bd2c9c69466412a89f113d30f1414c6cee5fa01f6f2cc4ad814f1d08398cf608"
+			},
+			"chromas": []
+		},
+		{
+			"id": "carlotta-jhin",
+			"name": "Carlotta Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/carlotta-jhin/thumb.webp?v=7791487b",
+			"file": {
+				"version": 1,
+				"asset": "carlotta-jhin-v1.fantome",
+				"size": 32225763,
+				"sha256": "a9ea2ea14b29fd985ce55d045e15b7e2c161235fbf2c99d62288ea68a7bfa0dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "carmine-marauder-victorious-rengar",
+			"name": "Carmine Marauder | Victorious Rengar",
+			"champion": 107,
+			"base": 49,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/carmine-marauder-victorious-rengar/thumb.webp?v=759e0c6d",
+			"file": {
+				"version": 1,
+				"asset": "carmine-marauder-victorious-rengar-v1.fantome",
+				"size": 3988914,
+				"sha256": "48b84b4a5ea376b38998b038f8da4620f65dd1d182589f3f067f59a55b9ae370"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cartethyia-yone",
+			"name": "Cartethyia Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cartethyia-yone/thumb.webp?v=d4ea8f82",
+			"file": {
+				"version": 1,
+				"asset": "cartethyia-yone-v1.fantome",
+				"size": 24134659,
+				"sha256": "9f969d33c05203ab83452d8707d13f73cf3cc93182a289cc39cd89f1ce432c77"
+			},
+			"chromas": []
+		},
+		{
+			"id": "castorice-kayn",
+			"name": "Castorice Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/castorice-kayn/thumb.webp?v=a96fd334",
+			"file": {
+				"version": 1,
+				"asset": "castorice-kayn-v1.fantome",
+				"size": 33594283,
+				"sha256": "c728124bb1c6b7c09d284abe538d704b6fbe407ac5cfbf6cb544147fc6232545"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chaac-darius-default",
+			"name": "Chaac Darius (Default)",
+			"champion": 122,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chaac-darius-default/thumb.webp?v=aab143a9",
+			"file": {
+				"version": 1,
+				"asset": "chaac-darius-default-v1.fantome",
+				"size": 4842935,
+				"sha256": "958364237da834d03f5ea69257c16fb5ee9284f59102fec515e130aac7f549f0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chainsaw-man-ambessa",
+			"name": "Chainsaw Man Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chainsaw-man-ambessa/thumb.webp?v=7894b311",
+			"file": {
+				"version": 1,
+				"asset": "chainsaw-man-ambessa-v1.fantome",
+				"size": 84087581,
+				"sha256": "645b63b18e933ed369500f370bf79ecbdc784035277f2fa3c16e205130d7f0ae"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chainsaw-man-briar",
+			"name": "Chainsaw Man Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chainsaw-man-briar/thumb.webp?v=f290fc05",
+			"file": {
+				"version": 1,
+				"asset": "chainsaw-man-briar-v1.fantome",
+				"size": 1070851,
+				"sha256": "0d1185a255040926135a074bc97097d8a01418a6cba7b4bf9c64815dad499f9f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chainsaw-man-yone",
+			"name": "Chainsaw Man Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chainsaw-man-yone/thumb.webp?v=a28af33d",
+			"file": {
+				"version": 1,
+				"asset": "chainsaw-man-yone-v1.fantome",
+				"size": 3991822,
+				"sha256": "9f956f9a9ebed06caad49cfcfd2a0559369ef2c4565db83d979b7bf8d075b0d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chaos-king-gragas",
+			"name": "Chaos king gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "abelerdus",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chaos-king-gragas/thumb.webp?v=43051083",
+			"file": {
+				"version": 1,
+				"asset": "chaos-king-gragas-v1.fantome",
+				"size": 8702149,
+				"sha256": "6c38d290530ce59c4f4db8865cf3d2ed1e770ecce5d5e95620679150d5af9b3b"
 			},
 			"chromas": []
 		},

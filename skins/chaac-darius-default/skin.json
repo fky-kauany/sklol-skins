@@ -1,0 +1,24 @@
+{
+	"id": "chaac-darius-default",
+	"name": "Chaac Darius (Default)",
+	"champion": 122,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Chaac (Smite) mod for Default Darius. This mod also replaces his default ability icons.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/a2c5b02a-21e2-4211-b730-0117e833cc9c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chaac-darius-default/thumb.webp?v=aab143a9",
+	"file": {
+		"version": 1,
+		"asset": "chaac-darius-default-v1.fantome",
+		"size": 4842935,
+		"sha256": "958364237da834d03f5ea69257c16fb5ee9284f59102fec515e130aac7f549f0"
+	},
+	"chromas": []
+}
