@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:15:18.475Z",
+	"generatedAt": "2026-10-15T11:18:28.763Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -53,6 +53,13 @@
 			"links": {
 				"discord": "https://discord.gg/HEjuFmbm6g",
 				"site": "https://runeforge.dev/users/Moga"
+			}
+		},
+		"aki": {
+			"name": "aki",
+			"avatar": "creators/aki.jpg?v=ef4997dd",
+			"links": {
+				"discord": "https://discord.gg/403"
 			}
 		},
 		"aletuno": {
@@ -19098,6 +19105,55 @@
 			"chromas": []
 		},
 		{
+			"id": "l9-spirit-blossom-yone-bw-chroma-vfx",
+			"name": "L9 Spirit Blossom Yone BW Chroma VFX",
+			"champion": 777,
+			"base": 0,
+			"creator": "aki",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/l9-spirit-blossom-yone-bw-chroma-vfx/thumb.webp?v=69868353",
+			"file": {
+				"version": 1,
+				"asset": "l9-spirit-blossom-yone-bw-chroma-vfx-v1.fantome",
+				"size": 1125972,
+				"sha256": "b6b3fa6c02ce0228745952f2e85124f09f7917787e9ab695e9995e912388e48d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "la-ilusion-nidalee-green",
+			"name": "La Ilusion Nidalee - Green",
+			"champion": 76,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/la-ilusion-nidalee-green/thumb.webp?v=aa9c832c",
+			"file": {
+				"version": 1,
+				"asset": "la-ilusion-nidalee-green-v1.fantome",
+				"size": 8553890,
+				"sha256": "84dffab0b5fc498c4b8923b7eb6d030b438d3dd010ce4acc4018c98c5be9a2cd"
+			},
+			"chromas": []
+		},
+		{
 			"id": "lara-croft-gwen",
 			"name": "Lara Croft Gwen",
 			"champion": 887,
@@ -19120,6 +19176,201 @@
 				"asset": "lara-croft-gwen-v1.fantome",
 				"size": 11990392,
 				"sha256": "a858c884cec76264b779005c40719b02979b2d5799f4cd679810d10924bef6ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "laura-eternal-returns-evelynn",
+			"name": "Laura (Eternal Returns) Evelynn",
+			"champion": 28,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/laura-eternal-returns-evelynn/thumb.webp?v=1bdb60ce",
+			"file": {
+				"version": 1,
+				"asset": "laura-eternal-returns-evelynn-v1.fantome",
+				"size": 97036319,
+				"sha256": "da925371b1bc1244d61d1127504183d8a226c4bb64d9f5e9d6d6f93c432820c1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leafblower-yasuo",
+			"name": "Leafblower Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/leafblower-yasuo/thumb.webp?v=678b4891",
+			"file": {
+				"version": 1,
+				"asset": "leafblower-yasuo-v1.fantome",
+				"size": 6806705,
+				"sha256": "115fce0f3fe9d57651d910a332d931a0efe128f298ba7d8a128cb48e57c5affe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leblanc-without-the-cape-optifine-reference",
+			"name": "LeBlanc without the cape (OptiFine reference)",
+			"champion": 7,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/leblanc-without-the-cape-optifine-reference/thumb.webp?v=91ee3034",
+			"file": {
+				"version": 1,
+				"asset": "leblanc-without-the-cape-optifine-reference-v1.fantome",
+				"size": 360933,
+				"sha256": "0deb3e1f9f5084dd3e17ec7fad34f9fe601234b763b796cc9c020dd9470bb8d9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lebron-james-dunkmaster-darius",
+			"name": "Lebron James Dunkmaster Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lebron-james-dunkmaster-darius/thumb.webp?v=3fdcead5",
+			"file": {
+				"version": 1,
+				"asset": "lebron-james-dunkmaster-darius-v1.fantome",
+				"size": 5333996,
+				"sha256": "cfce3e138d6295ca31f5f161a136f85aad91283e5e0bbbecb38901465f59cb2e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-bang",
+			"name": "Lee Sin Bang",
+			"champion": 64,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-bang/thumb.webp?v=782c10c1",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-bang-v1.fantome",
+				"size": 13297530,
+				"sha256": "374b238f278683327d128088c13863cede0df33299178a77b0628901b2344dff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-spiderman",
+			"name": "Lee sin Spiderman",
+			"champion": 64,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-spiderman/thumb.webp?v=81813298",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-spiderman-v1.fantome",
+				"size": 5547342,
+				"sha256": "56200806590f976544b8dc1cf0f7919cb02bec34a4d98193d0db1de8cf9e2559"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-spiderman-symbiote",
+			"name": "Lee sin Spiderman Symbiote",
+			"champion": 64,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-spiderman-symbiote/thumb.webp?v=6e7429d7",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-spiderman-symbiote-v1.fantome",
+				"size": 6920773,
+				"sha256": "94e63e3f6e422371b3f34f4699d56f2e6dcbb610d15b65422a4413810babd911"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lee-sin-the-blind-monk",
+			"name": "Lee Sin the Blind Monk",
+			"champion": 64,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lee-sin-the-blind-monk/thumb.webp?v=1f46dfa8",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-the-blind-monk-v1.fantome",
+				"size": 3964852,
+				"sha256": "04a0b107abd19553c01db5f5234cf1af4abc678c4197884fa6ea8eb770909849"
 			},
 			"chromas": []
 		},

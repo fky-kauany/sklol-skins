@@ -1,0 +1,26 @@
+{
+	"id": "lee-sin-bang",
+	"name": "Lee Sin Bang",
+	"champion": 64,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/bd035054-eef5-4293-bbcc-f9a16b69a47a\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lee-sin-bang/thumb.webp?v=782c10c1",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-bang-v1.fantome",
+		"size": 13297530,
+		"sha256": "374b238f278683327d128088c13863cede0df33299178a77b0628901b2344dff"
+	},
+	"chromas": []
+}

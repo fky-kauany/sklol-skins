@@ -1,0 +1,24 @@
+{
+	"id": "lee-sin-the-blind-monk",
+	"name": "Lee Sin the Blind Monk",
+	"champion": 64,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "Made for April Fools 2025\n\n## Information\n\n**Modified champion:** Lee Sin\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord Name: aropatnik\n\nDiscord Server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/1dcc67d3-e879-47bf-abda-6201f8742b7c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lee-sin-the-blind-monk/thumb.webp?v=1f46dfa8",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-the-blind-monk-v1.fantome",
+		"size": 3964852,
+		"sha256": "04a0b107abd19553c01db5f5234cf1af4abc678c4197884fa6ea8eb770909849"
+	},
+	"chromas": []
+}

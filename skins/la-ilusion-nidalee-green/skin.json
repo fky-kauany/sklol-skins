@@ -1,0 +1,26 @@
+{
+	"id": "la-ilusion-nidalee-green",
+	"name": "La Ilusion Nidalee - Green",
+	"champion": 76,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - La Ilusion Nidalee\r\n\r\n╰┈➤ _The idea for this mod was to make a chroma akin to my own pfp! I can't believe it took this long lmfao_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/5e781dd1-ba65-4c10-95ef-10f34b28b656\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/la-ilusion-nidalee-green/thumb.webp?v=aa9c832c",
+	"file": {
+		"version": 1,
+		"asset": "la-ilusion-nidalee-green-v1.fantome",
+		"size": 8553890,
+		"sha256": "84dffab0b5fc498c4b8923b7eb6d030b438d3dd010ce4acc4018c98c5be9a2cd"
+	},
+	"chromas": []
+}

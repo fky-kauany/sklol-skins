@@ -1,0 +1,24 @@
+{
+	"id": "lee-sin-spiderman",
+	"name": "Lee sin Spiderman",
+	"champion": 64,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Lee sin\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the lee skills, in the future I will change the animations and audios of the model\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/eb5d5396-d192-4bd9-b803-ba6908d4be0d\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lee-sin-spiderman/thumb.webp?v=81813298",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-spiderman-v1.fantome",
+		"size": 5547342,
+		"sha256": "56200806590f976544b8dc1cf0f7919cb02bec34a4d98193d0db1de8cf9e2559"
+	},
+	"chromas": []
+}

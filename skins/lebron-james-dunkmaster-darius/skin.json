@@ -1,0 +1,24 @@
+{
+	"id": "lebron-james-dunkmaster-darius",
+	"name": "Lebron James Dunkmaster Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Darius\n\n**SKIN REPLACE:** Dunkmaster\n\n**CUSTOM MODEL AND TEXTURES**\n\n* Lebron James model taken from Multiversus\n\n**CREDITS**\n\n* Modded by Nyht Seven\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/a7a1a5a6-91e7-44ee-89e0-0bb913750e7a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lebron-james-dunkmaster-darius/thumb.webp?v=3fdcead5",
+	"file": {
+		"version": 1,
+		"asset": "lebron-james-dunkmaster-darius-v1.fantome",
+		"size": 5333996,
+		"sha256": "cfce3e138d6295ca31f5f161a136f85aad91283e5e0bbbecb38901465f59cb2e"
+	},
+	"chromas": []
+}

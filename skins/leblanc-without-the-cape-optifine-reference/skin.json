@@ -1,0 +1,22 @@
+{
+	"id": "leblanc-without-the-cape-optifine-reference",
+	"name": "LeBlanc without the cape (OptiFine reference)",
+	"champion": 7,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion:** LeBlanc\n\n**Modified skin:** Default\n\n**Author:** Aropatnik & Wiko\n\n## Modified stuff\n\n* Lebonk base skin model\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/fabf28ed-45b1-4407-8318-b492f09e4082\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/leblanc-without-the-cape-optifine-reference/thumb.webp?v=91ee3034",
+	"file": {
+		"version": 1,
+		"asset": "leblanc-without-the-cape-optifine-reference-v1.fantome",
+		"size": 360933,
+		"sha256": "0deb3e1f9f5084dd3e17ec7fad34f9fe601234b763b796cc9c020dd9470bb8d9"
+	},
+	"chromas": []
+}

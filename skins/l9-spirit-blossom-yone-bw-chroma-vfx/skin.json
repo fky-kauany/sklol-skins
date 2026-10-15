@@ -1,0 +1,23 @@
+{
+	"id": "l9-spirit-blossom-yone-bw-chroma-vfx",
+	"name": "L9 Spirit Blossom Yone BW Chroma VFX",
+	"champion": 777,
+	"base": 0,
+	"creator": "aki",
+	"description": "Required Skin: Spirit Blossom Yone (Only works on default chroma Spirit Blossom Yone Skin)\n\nModifled skin: Spirit Blossom Yone\n\nAuthor: aki\n\nSkin Version: 1.0.0\n\n---\n\n**Created by** [aki](https://runeforge.dev/users/aki)\n\n**Original:** https://runeforge.dev/mods/c2f54a3b-2033-47ef-b18e-4e5c491ee3c1\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/l9-spirit-blossom-yone-bw-chroma-vfx/thumb.webp?v=69868353",
+	"file": {
+		"version": 1,
+		"asset": "l9-spirit-blossom-yone-bw-chroma-vfx-v1.fantome",
+		"size": 1125972,
+		"sha256": "b6b3fa6c02ce0228745952f2e85124f09f7917787e9ab695e9995e912388e48d"
+	},
+	"chromas": []
+}

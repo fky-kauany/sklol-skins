@@ -1,0 +1,24 @@
+{
+	"id": "lee-sin-spiderman-symbiote",
+	"name": "Lee sin Spiderman Symbiote",
+	"champion": 64,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Lee sin\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the lee skills, in the future I will change the animations and audios of the model\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/ae4553a2-ed95-488d-8ec9-83a2f1f016d3\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lee-sin-spiderman-symbiote/thumb.webp?v=6e7429d7",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-spiderman-symbiote-v1.fantome",
+		"size": 6920773,
+		"sha256": "94e63e3f6e422371b3f34f4699d56f2e6dcbb610d15b65422a4413810babd911"
+	},
+	"chromas": []
+}

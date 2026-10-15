@@ -1,0 +1,25 @@
+{
+	"id": "leafblower-yasuo",
+	"name": "Leafblower Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/9881d105-3da0-496f-8548-a1d49f4d287e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/leafblower-yasuo/thumb.webp?v=678b4891",
+	"file": {
+		"version": 1,
+		"asset": "leafblower-yasuo-v1.fantome",
+		"size": 6806705,
+		"sha256": "115fce0f3fe9d57651d910a332d931a0efe128f298ba7d8a128cb48e57c5affe"
+	},
+	"chromas": []
+}
