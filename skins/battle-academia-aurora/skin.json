@@ -1,0 +1,23 @@
+{
+	"id": "battle-academia-aurora",
+	"name": "Battle Academia Aurora",
+	"champion": 893,
+	"base": 0,
+	"creator": "tet",
+	"description": "Battle Academia Aurora to go matching with your friends while Riot makes it\r\n\r\nFeel free to check my social medias for more content!\r\n\r\n🐧Twitter: https://x.com/Ranfringg\r\n🎵Tiktok:   / ranfring\r\n🦜Reddit:   / ranfringw\r\n🎨Pinterest: https://pin.it/4Hxg2uYhY\r\n☕Ko-Fi: https://ko-fi.com/ranfring\n\n---\n\n**Created by** [Ranfring](https://runeforge.dev/users/Tet)\n\n**Original:** https://runeforge.dev/mods/f9bbc136-0dd0-44f6-b826-6474261711c7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-academia-aurora/thumb.webp?v=442752e7",
+	"file": {
+		"version": 1,
+		"asset": "battle-academia-aurora-v1.fantome",
+		"size": 1291466,
+		"sha256": "9cfaabbbf556e650d3fc5e298ddd63c7b2f90da281f203bafc6e41960bcc5281"
+	},
+	"chromas": []
+}

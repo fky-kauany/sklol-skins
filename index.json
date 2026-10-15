@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:02:56.187Z",
+	"generatedAt": "2026-10-15T08:02:58.359Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -905,6 +905,16 @@
 			"avatar": "creators/tensyaa.webp?v=2aec291e",
 			"bio": "I don't know much about this, it's fun though. Hope you my skins!",
 			"links": {}
+		},
+		"tet": {
+			"name": "Ranfring",
+			"avatar": "creators/tet.png?v=737a7480",
+			"bio": "I'm just an ordinary girl. An ordinary girl with an infinite supply of death quills. ---> Otp Xayah as you could tell. \n\nHello there! I'm Ranfring but commonly known as Tet (23 / she-her / Ve / LAN-NA), I love creating cute and creative skins for my favorite champs although I'm willing to expand my selections for variety in the future.\n\nI have some exclusive skins which you can find them on my Ko-fi. However, I mostly post free skins just for fun.\n\nAny support is more welcome and appreciated ^u^",
+			"links": {
+				"kofi": "https://ko-fi.com/ranfring",
+				"site": "https://pin.it/4Hxg2uYhY",
+				"x": "https://x.com/Ranfringg"
+			}
 		},
 		"thicario": {
 			"name": "Thicario",
@@ -2934,6 +2944,29 @@
 				"asset": "battle-academia-ahri-v1.fantome",
 				"size": 32194063,
 				"sha256": "66a149b3b2742006569c1a44f3e0889d1d89fac9c45701b25839a5165c974486"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-academia-aurora",
+			"name": "Battle Academia Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "tet",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-academia-aurora/thumb.webp?v=442752e7",
+			"file": {
+				"version": 1,
+				"asset": "battle-academia-aurora-v1.fantome",
+				"size": 1291466,
+				"sha256": "9cfaabbbf556e650d3fc5e298ddd63c7b2f90da281f203bafc6e41960bcc5281"
 			},
 			"chromas": []
 		},
