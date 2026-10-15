@@ -1,0 +1,23 @@
+{
+	"id": "aatrox-pink",
+	"name": "Aatrox - Pink",
+	"champion": 266,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Aatrox - Pink\n\nSkin modified : Base\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/f33fa4c6-29d1-42dc-9379-241610b33042\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aatrox-pink/thumb.webp?v=0cc352df",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-pink-v1.fantome",
+		"size": 1329898,
+		"sha256": "ab0e279a6e1167d3e00451991a105b7367506804d5d2f83f955713a8c48707f2"
+	},
+	"chromas": []
+}

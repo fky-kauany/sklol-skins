@@ -473,6 +473,15 @@
 			"x": "https://x.com/megaomg_"
 		}
 	},
+	"moga": {
+		"name": "Moga",
+		"avatar": "creators/moga.jpg?v=e4fd0e11",
+		"bio": "### Mostly HUD and Quality of life improvement mods. They're uhhh... rly good n useful n stuff.\n\n* New mod suggestions for existing or new mods are welcome.\n\n* The website profiles' mod tabs are broken, so just type <code>Moga</code> or <code>Agom</code> into the website's search to see all mods easier.\n\n<a href=\"https://discord.gg/gSXbEmPQCA\">\n  <img src=\"https://i.postimg.cc/B6ktRr5K/500.webp\" width=\"500\" height=\"460\">\n</a>\n\n<!-- [![Discord Invite](https://i.postimg.cc/B6ktRr5K/500.webp)](http",
+		"links": {
+			"discord": "https://discord.gg/HEjuFmbm6g",
+			"site": "https://runeforge.dev/mods?search=agomsmoga"
+		}
+	},
 	"mojkqueira": {
 		"name": "mojkqueira",
 		"avatar": "creators/mojkqueira.webp?v=bc62ceb8",

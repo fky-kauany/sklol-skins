@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:42:01.775Z",
+	"generatedAt": "2026-10-15T07:43:14.474Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -474,6 +474,15 @@
 			"links": {
 				"discord": "https://discord.com/invite/megaomg",
 				"x": "https://x.com/megaomg_"
+			}
+		},
+		"moga": {
+			"name": "Moga",
+			"avatar": "creators/moga.jpg?v=e4fd0e11",
+			"bio": "### Mostly HUD and Quality of life improvement mods. They're uhhh... rly good n useful n stuff.\n\n* New mod suggestions for existing or new mods are welcome.\n\n* The website profiles' mod tabs are broken, so just type <code>Moga</code> or <code>Agom</code> into the website's search to see all mods easier.\n\n<a href=\"https://discord.gg/gSXbEmPQCA\">\n  <img src=\"https://i.postimg.cc/B6ktRr5K/500.webp\" width=\"500\" height=\"460\">\n</a>\n\n<!-- [![Discord Invite](https://i.postimg.cc/B6ktRr5K/500.webp)](http",
+			"links": {
+				"discord": "https://discord.gg/HEjuFmbm6g",
+				"site": "https://runeforge.dev/mods?search=agomsmoga"
 			}
 		},
 		"mojkqueira": {
@@ -1002,6 +1011,77 @@
 				"asset": "aatrox-light-blue-chroma-v1.fantome",
 				"size": 1365856,
 				"sha256": "29bb50a59f298d96fbc1eb796d12b8ed1e4bd79830241228b7c6fb50d2e529c7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-pink",
+			"name": "Aatrox - Pink",
+			"champion": 266,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-pink/thumb.webp?v=0cc352df",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-pink-v1.fantome",
+				"size": 1329898,
+				"sha256": "ab0e279a6e1167d3e00451991a105b7367506804d5d2f83f955713a8c48707f2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-riot-skin-disabler-noskin",
+			"name": "Riot Skin Disabler (NoSkin)",
+			"champion": 266,
+			"base": 0,
+			"creator": "moga",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-riot-skin-disabler-noskin/thumb.webp?v=15d74ebd",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-riot-skin-disabler-noskin-v1.fantome",
+				"size": 19149439,
+				"sha256": "d4005323617f030d4c522613f1db82902aad51e857ca9b5a938f8517cc1d9ab5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-trundox",
+			"name": "Trundox",
+			"champion": 266,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-trundox/thumb.webp?v=237f939d",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-trundox-v1.fantome",
+				"size": 516505,
+				"sha256": "83dd87a2a132cf5790c170f7c34945c3936de6d3f2630bb66a23a62035806a83"
 			},
 			"chromas": []
 		},

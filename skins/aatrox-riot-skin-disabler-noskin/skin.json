@@ -1,0 +1,25 @@
+{
+	"id": "aatrox-riot-skin-disabler-noskin",
+	"name": "Riot Skin Disabler (NoSkin)",
+	"champion": 266,
+	"base": 0,
+	"creator": "moga",
+	"description": "-\n\n###\nFor any funny/broken skin/etc, PLEASE notify me so I can fix it!\n\nUse the utility linked below to automatically whitelist entire Champions or specific skins!!\nhttps://github.com/inkyarev/SmallWhitelister4Noskin\n\n### Overview:\n\n**Sets ALL skins to the default skin, so you don't need to learn to dodge 999 different VFX per champ!**\n\n- This mod has to sort to the top (ie, load with the lowest priority) if you want to force a custom skin to load alongside it. The mod is preset to the minimum priority automatically if used with CSLoL-GO.\n- YOU **NEED** TO REDOWNLOAD THIS MOD EVERY PATCH! If there is no update for the first few hours of a patch, you are likely ok to use the previous version, but eventually, you will very probably run into broken VFX caused by Riot file changes, or a game crash caused by more important Riot file changes/new skins.\n- A ton of broken skins and misc crashes have been fixed since I remade the mod. Malfunctions should be nonexistent or very rare. (Still report anything if u see smth weird plz.)\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/278e13db-0ecd-46ef-8282-f0f8b07fc08b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aatrox-riot-skin-disabler-noskin/thumb.webp?v=15d74ebd",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-riot-skin-disabler-noskin-v1.fantome",
+		"size": 19149439,
+		"sha256": "d4005323617f030d4c522613f1db82902aad51e857ca9b5a938f8517cc1d9ab5"
+	},
+	"chromas": []
+}
