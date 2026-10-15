@@ -1,0 +1,26 @@
+{
+	"id": "old-pulsefire-ezreal",
+	"name": "Old Pulsefire Ezreal",
+	"champion": 81,
+	"base": 5,
+	"creator": "eko",
+	"description": "Champion: Ezreal\r\n\r\n\r\nModified skin: Pulsefire Ezreal\r\n\r\n\r\nAuthor: Eko\r\n\r\n\r\nMod features:\r\n\r\n\r\n• Old Model (All Forms)\r\n\r\n• Old Animations\r\n\r\n• Old Voice Over\r\n\r\n• Old Loading Screen and Champion/Scoreboard Icon\r\n\r\n• Evolving Abilities \r\n\r\n\r\nFor those who want to support me:\r\nhttps://ko-fi.com/ekofreezy\n\n---\n\n**Created by** [Eko](https://runeforge.dev/users/Eko)\n\n**Original:** https://runeforge.dev/mods/31179b84-ac29-4d15-9bf9-79484017f694\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-pulsefire-ezreal/thumb.webp?v=beb4bee8",
+	"file": {
+		"version": 1,
+		"asset": "old-pulsefire-ezreal-v1.fantome",
+		"size": 20918601,
+		"sha256": "ae2fc78ce1ca7ff2e44632dbe2bc9df220db1e6cab2a69aebe18200c98631ff0"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "old-spirit-guard-udyr",
+	"name": "Old Spirit Guard Udyr",
+	"champion": 77,
+	"base": 0,
+	"creator": "uygarexe",
+	"description": "We've decided to remake the old spirit guardian Udyr after 2024. After three months of work, the old Udyr is back, complete with all the old visual and sound effects. We're aware of some animation issues, but the new Udyr has completely different animations, and it was quite difficult to make it compatible with the old one. Enjoy!\r\nVFX/SFX/ANIMATION/VOICELINE by: UygarExe\r\nOLD MODEL by: ThisIsQuitter\r\nThanks to Lupa143 for the coloring and in-game testing.\n\n---\n\n**Created by** [ExeTheGreat](https://runeforge.dev/users/uygarexe)\n\n**Original:** https://runeforge.dev/mods/a1aed1a9-119f-421b-8039-1290439c49ce\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-spirit-guard-udyr/thumb.webp?v=897af18e",
+	"file": {
+		"version": 1,
+		"asset": "old-spirit-guard-udyr-v1.fantome",
+		"size": 21445639,
+		"sha256": "f78252fccdfb825eae13fd477899d25587e684ef779a97f7dff67e641a94dcba"
+	},
+	"chromas": []
+}

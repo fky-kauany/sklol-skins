@@ -1,0 +1,26 @@
+{
+	"id": "old-aatrox",
+	"name": "Old Aatrox",
+	"champion": 266,
+	"base": 0,
+	"creator": "lavei3",
+	"description": "SKIN INFORMATION\r\n\r\nChampion: Aatrox\r\n\r\nModified skin: Base, Justicar, Mecha + Chromas, Sea Hunter\r\n\r\nAuthor: Scrafty\r\n\r\nVersion: 1.0.0\r\n\r\nDescription: Old Aatrox Model, Old voice, Old animations, in all its old skins\r\n\r\nLanguages: English version, Spanish version\r\n\r\nThis mod was originally made by Scrafty. He gave me permission to update it for the new patches.\n\n---\n\n**Created by** [lavei3](https://runeforge.dev/users/lavei3)\n\n**Original:** https://runeforge.dev/mods/c894212b-2dcc-4bcb-b9b7-c5f651290788\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-aatrox/thumb.webp?v=ef777605",
+	"file": {
+		"version": 1,
+		"asset": "old-aatrox-v1.fantome",
+		"size": 104644430,
+		"sha256": "84bdfca7f7f31391f0dad7a3faed8ce256b7e568d434f45cda274bec13b13dc4"
+	},
+	"chromas": []
+}

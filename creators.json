@@ -822,6 +822,10 @@
 			"youtube": "https://www.youtube.com/@MordeKaizen"
 		}
 	},
+	"katarina2121": {
+		"name": "wandaskat",
+		"links": {}
+	},
 	"kayki-lessa": {
 		"name": "Kayki_Lessa",
 		"avatar": "creators/kayki-lessa.jpg?v=701b3e0f",
@@ -875,6 +879,12 @@
 		"name": "Laiker",
 		"avatar": "creators/laiker.jpg?v=4682a9a7",
 		"links": {}
+	},
+	"lavei3": {
+		"name": "lavei3",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=1CHkYXsDRPM"
+		}
 	},
 	"lemonsquare": {
 		"name": "LemonSquare",
@@ -1208,6 +1218,13 @@
 		"name": "Prinzz",
 		"avatar": "creators/prinzz.webp?v=7e2378fa",
 		"links": {}
+	},
+	"puls": {
+		"name": "Puls",
+		"avatar": "creators/puls.jpg?v=7289ad74",
+		"links": {
+			"youtube": "https://youtu.be/4rr1rOnscO8?si=2gXsBPhg26RY4qsT"
+		}
 	},
 	"r-e-z-a": {
 		"name": "R_e_Z_a",
@@ -1584,6 +1601,12 @@
 		"links": {
 			"youtube": "https://youtu.be/3nDtTH50bLI"
 		}
+	},
+	"uygarexe": {
+		"name": "ExeTheGreat",
+		"avatar": "creators/uygarexe.jpg?v=8e9583aa",
+		"bio": "Old Udyr Visual Effect / Sound Effect Developer",
+		"links": {}
 	},
 	"valfren": {
 		"name": "valfren",

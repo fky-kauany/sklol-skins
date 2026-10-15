@@ -1,0 +1,26 @@
+{
+	"id": "old-frosted-ezreal",
+	"name": "Old Frosted Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "eko",
+	"description": "For those who want to support me: https://ko-fi.com/ekofreezy\r\n\r\nTwitter: https://x.com/ecofreezy?t=VTW30x9zdLPMsfCphEUJig&s=09\r\n\r\nDiscord: https://discord.gg/runeforge\r\n\r\n\r\nI changed some vfx to make the skin more interesting.\n\n---\n\n**Created by** [Eko](https://runeforge.dev/users/Eko)\n\n**Original:** https://runeforge.dev/mods/eafbbcd5-ff93-4de7-8a0c-68a47e88a3bc\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-frosted-ezreal/thumb.webp?v=043c9b2d",
+	"file": {
+		"version": 1,
+		"asset": "old-frosted-ezreal-v1.fantome",
+		"size": 4156415,
+		"sha256": "77bbfcac69763187a0a4d0e850f1a560d85f09d9047b2d99e1e608c810e9a92c"
+	},
+	"chromas": []
+}

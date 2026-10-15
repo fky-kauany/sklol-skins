@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:12:13.177Z",
+	"generatedAt": "2026-10-15T12:15:37.675Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -825,6 +825,10 @@
 				"youtube": "https://www.youtube.com/@MordeKaizen"
 			}
 		},
+		"katarina2121": {
+			"name": "wandaskat",
+			"links": {}
+		},
 		"kayki-lessa": {
 			"name": "Kayki_Lessa",
 			"avatar": "creators/kayki-lessa.jpg?v=701b3e0f",
@@ -878,6 +882,12 @@
 			"name": "Laiker",
 			"avatar": "creators/laiker.jpg?v=4682a9a7",
 			"links": {}
+		},
+		"lavei3": {
+			"name": "lavei3",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=1CHkYXsDRPM"
+			}
 		},
 		"lemonsquare": {
 			"name": "LemonSquare",
@@ -1211,6 +1221,13 @@
 			"name": "Prinzz",
 			"avatar": "creators/prinzz.webp?v=7e2378fa",
 			"links": {}
+		},
+		"puls": {
+			"name": "Puls",
+			"avatar": "creators/puls.jpg?v=7289ad74",
+			"links": {
+				"youtube": "https://youtu.be/4rr1rOnscO8?si=2gXsBPhg26RY4qsT"
+			}
 		},
 		"r-e-z-a": {
 			"name": "R_e_Z_a",
@@ -1587,6 +1604,12 @@
 			"links": {
 				"youtube": "https://youtu.be/3nDtTH50bLI"
 			}
+		},
+		"uygarexe": {
+			"name": "ExeTheGreat",
+			"avatar": "creators/uygarexe.jpg?v=8e9583aa",
+			"bio": "Old Udyr Visual Effect / Sound Effect Developer",
+			"links": {}
 		},
 		"valfren": {
 			"name": "valfren",
@@ -23726,6 +23749,82 @@
 			"chromas": []
 		},
 		{
+			"id": "olaf-olarius",
+			"name": "Olarius",
+			"champion": 2,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/olaf-olarius/thumb.webp?v=c0f7112c",
+			"file": {
+				"version": 1,
+				"asset": "olaf-olarius-v1.fantome",
+				"size": 379748,
+				"sha256": "6ef302a559f111385021acdf61628736526333ae8f616f11ab5e673d584a69d6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-aatrox",
+			"name": "Old Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "lavei3",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-aatrox/thumb.webp?v=ef777605",
+			"file": {
+				"version": 1,
+				"asset": "old-aatrox-v1.fantome",
+				"size": 104644430,
+				"sha256": "84bdfca7f7f31391f0dad7a3faed8ce256b7e568d434f45cda274bec13b13dc4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-aatrox-viego",
+			"name": "Old Aatrox [Viego]",
+			"champion": 234,
+			"base": 0,
+			"creator": "puls",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-aatrox-viego/thumb.webp?v=8773f1a6",
+			"file": {
+				"version": 1,
+				"asset": "old-aatrox-viego-v1.fantome",
+				"size": 44996924,
+				"sha256": "9728420f1a8bb563c8d390b7704f79844cb00b88a7dc7d68baa178a5e1b53418"
+			},
+			"chromas": []
+		},
+		{
 			"id": "old-darius-assets",
 			"name": "Old Darius Assets",
 			"champion": 122,
@@ -23744,6 +23843,32 @@
 				"asset": "old-darius-assets-v1.fantome",
 				"size": 230448,
 				"sha256": "720598cb2b1c3da90eb724238b179b36cba4ba157a0ebfada50db952b72eb295"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-ezreal",
+			"name": "Old Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "eko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-ezreal/thumb.webp?v=6e44b6fe",
+			"file": {
+				"version": 1,
+				"asset": "old-ezreal-v1.fantome",
+				"size": 3466544,
+				"sha256": "03c1e11581a0544480ee8772476fcd2ca7a3fe557a6c36a58a97a338d2cd1543"
 			},
 			"chromas": []
 		},
@@ -23774,6 +23899,84 @@
 			"chromas": []
 		},
 		{
+			"id": "old-frosted-ezreal",
+			"name": "Old Frosted Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "eko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-frosted-ezreal/thumb.webp?v=043c9b2d",
+			"file": {
+				"version": 1,
+				"asset": "old-frosted-ezreal-v1.fantome",
+				"size": 4156415,
+				"sha256": "77bbfcac69763187a0a4d0e850f1a560d85f09d9047b2d99e1e608c810e9a92c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-project-katarina-vfx-for-classic",
+			"name": "old PROJECT katarina VFX FOR CLASSİC",
+			"champion": 55,
+			"base": 0,
+			"creator": "katarina2121",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-project-katarina-vfx-for-classic/thumb.webp?v=6a5d50a4",
+			"file": {
+				"version": 1,
+				"asset": "old-project-katarina-vfx-for-classic-v1.fantome",
+				"size": 8324200,
+				"sha256": "6a6b29f8a5b36f36a360045e50458d6311de341df37087d090761c1c96f85b46"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-pulsefire-ezreal",
+			"name": "Old Pulsefire Ezreal",
+			"champion": 81,
+			"base": 5,
+			"creator": "eko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-pulsefire-ezreal/thumb.webp?v=beb4bee8",
+			"file": {
+				"version": 1,
+				"asset": "old-pulsefire-ezreal-v1.fantome",
+				"size": 20918601,
+				"sha256": "ae2fc78ce1ca7ff2e44632dbe2bc9df220db1e6cab2a69aebe18200c98631ff0"
+			},
+			"chromas": []
+		},
+		{
 			"id": "old-sona-from-league-classic-only-for-live-leagu",
 			"name": "Old sona ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC",
 			"champion": 37,
@@ -23796,6 +23999,84 @@
 				"asset": "old-sona-from-league-classic-only-for-live-leagu-v1.fantome",
 				"size": 6276456,
 				"sha256": "aa9967dd1d3ee66d27765f7baba193eec8376ea1b35b696b64adef2935aa0292"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-spirit-guard-udyr",
+			"name": "Old Spirit Guard Udyr",
+			"champion": 77,
+			"base": 0,
+			"creator": "uygarexe",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-spirit-guard-udyr/thumb.webp?v=897af18e",
+			"file": {
+				"version": 1,
+				"asset": "old-spirit-guard-udyr-v1.fantome",
+				"size": 21445639,
+				"sha256": "f78252fccdfb825eae13fd477899d25587e684ef779a97f7dff67e641a94dcba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-spirit-guard-udyr-2013",
+			"name": "Old Spirit Guard Udyr 2013",
+			"champion": 77,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/old-spirit-guard-udyr-2013/thumb.webp?v=f79a0b9c",
+			"file": {
+				"version": 1,
+				"asset": "old-spirit-guard-udyr-2013-v1.fantome",
+				"size": 52121009,
+				"sha256": "2d2967633fd08b580f3b6e8b84f3e4effd4f58a23f430b32b3fe74ba212edda3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "omen-zed",
+			"name": "Omen Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/omen-zed/thumb.webp?v=26679ba2",
+			"file": {
+				"version": 1,
+				"asset": "omen-zed-v1.fantome",
+				"size": 4355104,
+				"sha256": "32601b91376fbeff053ea3e962469361bf969a9a6bf0198eb8b65eda9a8fb547"
 			},
 			"chromas": []
 		},

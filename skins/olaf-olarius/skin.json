@@ -1,0 +1,24 @@
+{
+	"id": "olaf-olarius",
+	"name": "Olarius",
+	"champion": 2,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "What if Darius had the Olaf's abilities?\n\n## Information\n\n**Modified champion: Olaf**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/fb8e16d9-505f-4a77-a8c6-c1534b9f7f9d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/olaf-olarius/thumb.webp?v=c0f7112c",
+	"file": {
+		"version": 1,
+		"asset": "olaf-olarius-v1.fantome",
+		"size": 379748,
+		"sha256": "6ef302a559f111385021acdf61628736526333ae8f616f11ab5e673d584a69d6"
+	},
+	"chromas": []
+}

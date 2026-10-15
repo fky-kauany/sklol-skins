@@ -1,0 +1,26 @@
+{
+	"id": "old-spirit-guard-udyr-2013",
+	"name": "Old Spirit Guard Udyr 2013",
+	"champion": 77,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## SKIN INFORMATION\n\n- This is a custom skin that requires you to own and select Spirit Guard Udyr skin in League of legends' champ select.\n- Champion: Udyr\n- Modified Skin: Spirit Guard (skin03)\n- Authors: AlexyGalaxy, UygarExe, ThisIsQuitter, and Lupa143\n- Description: Featuring Udyr's old model along with his VO, VFX, SFX and many other assets.\nFeatures VO interactions with Niddalee, Rammus, Volibear, Anivia, Elise, Dragon, and Baron.\nIncludes an original unused animation bound to the Ctrl + 5 Champion interation.\n\n## SKIN BACKSTORY\n\nThis skin was originally created by UygarExe ThisIsQuitter and Lupa143.\nWhen I first downloaded it in late 2024, I noticed that it had not been updated in over a year and had some issues that no one was willing to fix.\nAfter almost two years of constant tweaking I can say that the skin is about 99% done.\n\n## BUGS\n\n- Missing E/EE Activate Running/Walking Animation\n- Missing Correct Death Animation PreLvl4: Q, W, E, R\n- If the skin breaks, try to remove Phoenix FlameBreathe or wait for me to update the skin.\n\n## How to Remove Phoenix FlameBreathe\n\n- Using LtMAO, unzip the File OldSpiritGuardUdyr4.0.1.fantome\n- Open the File OldSpiritGuardUdyr4.0, Open the File WAD\n- Using LtMAO, Unpack the File udyr.wad.client to Folder\n- Delete the File udyr.wad.client\n- Rename the File udyr.wad to udyr.wad.client\n- Navigate to OldSpiritGuardUdyr4.0.1\\WAD\\Udyr.wad.client\\data\\characters\\udyr and Delete the File udyr.bin\n- Drag the File OldSpiritGuardUdyr4.0 into your Skin Launcher to use in game.\n\n## Add Turtle Bubble Shield\n\nNo. This VFX was added in 2016. Wait for the Old Spirit Guard Udyr 2016 Skin.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/55256409-4084-4fb7-bbe6-78a592d6029a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-spirit-guard-udyr-2013/thumb.webp?v=f79a0b9c",
+	"file": {
+		"version": 1,
+		"asset": "old-spirit-guard-udyr-2013-v1.fantome",
+		"size": 52121009,
+		"sha256": "2d2967633fd08b580f3b6e8b84f3e4effd4f58a23f430b32b3fe74ba212edda3"
+	},
+	"chromas": []
+}

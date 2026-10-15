@@ -1,0 +1,26 @@
+{
+	"id": "old-project-katarina-vfx-for-classic",
+	"name": "old PROJECT katarina VFX FOR CLASSİC",
+	"champion": 55,
+	"base": 0,
+	"creator": "katarina2121",
+	"description": "this mode includes her old run animatiton and old og vfx like she was in season 6 old particles efects etc\n\n---\n\n**Created by** [wandaskat](https://runeforge.dev/users/katarina2121)\n\n**Original:** https://runeforge.dev/mods/00056ce4-545e-448d-9c10-6051fd76e265\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-project-katarina-vfx-for-classic/thumb.webp?v=6a5d50a4",
+	"file": {
+		"version": 1,
+		"asset": "old-project-katarina-vfx-for-classic-v1.fantome",
+		"size": 8324200,
+		"sha256": "6a6b29f8a5b36f36a360045e50458d6311de341df37087d090761c1c96f85b46"
+	},
+	"chromas": []
+}
