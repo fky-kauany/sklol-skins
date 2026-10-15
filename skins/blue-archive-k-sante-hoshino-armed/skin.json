@@ -1,0 +1,24 @@
+{
+	"id": "blue-archive-k-sante-hoshino-armed",
+	"name": "(Blue Archive) K'Sante - Hoshino (Armed)",
+	"champion": 897,
+	"base": 0,
+	"creator": "demolishus",
+	"description": "Mod for K'Sante (Base Skin)\r\n\r\n* Replaces Skill Icons\r\n* Voicelines (NA)\n\n---\n\n**Created by** [demolishus](https://runeforge.dev/users/demolishus)\n\n**Original:** https://runeforge.dev/mods/4eda7662-10fe-4765-bed2-7436505119b0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blue-archive-k-sante-hoshino-armed/thumb.webp?v=58f07f0e",
+	"file": {
+		"version": 1,
+		"asset": "blue-archive-k-sante-hoshino-armed-v1.fantome",
+		"size": 6933137,
+		"sha256": "40940b2137f9c77894c1ad6c196c52d0eb77d17718de0731da7671a7d0d21f8b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "arcana-jhin-chroma-sfx",
+	"name": "Arcana Jhin Chroma & SFX",
+	"champion": 202,
+	"base": 55,
+	"creator": "babaenvo",
+	"description": "### Description:\r\n\r\n* Champion: Jhin\r\n* Modified skin: Arcana\r\n* Author: BABAENVO\r\n---\r\n#### Additional Notes\r\n\r\nI changed the sound effects of this skin almost entirely back to his base ones because riot loves to release plastic gun sounds in recent years for some reason. I kept the ult violins though, because they're just so beautiful. And the recall sfx obviously, to match the Arcana's animation. I also bring his original mask on HUD, because I can.\r\n\r\n[☕ **Buy Me a Coffee**](https://buymeacoffee.com/moonlightfinger)\n\n---\n\n**Created by** [BABAENVO](https://runeforge.dev/users/babaenvo)\n\n**Original:** https://runeforge.dev/mods/a2fadceb-e9fd-409f-9f45-9db323a2b3a4\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/arcana-jhin-chroma-sfx/thumb.webp?v=142271c3",
+	"file": {
+		"version": 1,
+		"asset": "arcana-jhin-chroma-sfx-v1.fantome",
+		"size": 4191750,
+		"sha256": "6028a55607e65f1a584f2245e5ea95ccc1eef7a3a02060894d531f1b61b1b1bd"
+	},
+	"chromas": []
+}

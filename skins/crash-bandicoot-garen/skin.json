@@ -1,0 +1,26 @@
+{
+	"id": "crash-bandicoot-garen",
+	"name": "Crash Bandicoot (Garen)",
+	"champion": 86,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Garen\n\nModified Skin: Default (no chromas!)\n\nAuthor: Sauronkaiser\n\nDescription: Crash Bandicoot from the game series of the same name. \n\nAku Aku included. Common sense not included.\n\nFeatures:\n\n-New model and textures.\n\n-New animations.\n\n-New sounds.\n\n-New voiceover\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-Full new Joke, Dance, Recall, Respawn, Taunt, Laugh and Death animations.\n\n-Lots of fun\n\n\n\nSources:\n\n-Loading screen from Crash Bandicoot 4.\n\n-Music from Crash Bandicoot 3.\n\n-Sound effects from Crash Bandicoot 1.\n\n-Model and textures extracted from the skylanders/Crash Bandicoot crossover.\n\n-Aku Aku extracted from Crash Bandicoot 4.\n-Animations completely hand-made.\n\n-The full support voiceover is possible thanks to Tarngaina and Nuitka.\n\n\nlegacy Changelog:\n\n\n-11/03/2023: First official release.\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-11/06/2024: Fixed voiceover and made global for all languages\n\n-10/09/2024: voiceover now included in main mod. Autos upgraded. New critical hit animation and sound. Fixed the bug that made some shields like Karma's go extremely big on Crash. \n\n-19/03/2025: Manually fixed for new patch\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/21daa67a-4913-48a3-8acd-355bffb828c5\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crash-bandicoot-garen/thumb.webp?v=0800e121",
+	"file": {
+		"version": 1,
+		"asset": "crash-bandicoot-garen-v1.fantome",
+		"size": 19026368,
+		"sha256": "55e8f069a6a8316ab1c65e10667c2134355e77de3f0702df07408c6022c7ef21"
+	},
+	"chromas": []
+}

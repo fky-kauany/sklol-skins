@@ -108,6 +108,15 @@
 			"youtube": "https://www.youtube.com/c/Xazerkan67X/"
 		}
 	},
+	"babaenvo": {
+		"name": "BABAENVO",
+		"avatar": "creators/babaenvo.png?v=56aef89c",
+		"bio": "Discord: moonlightfinger",
+		"links": {
+			"site": "https://buymeacoffee.com/moonlightfinger",
+			"youtube": "https://www.youtube.com/@envobaba"
+		}
+	},
 	"backstab": {
 		"name": "BACKSTAB",
 		"avatar": "creators/backstab.jpg?v=b9b07692",
@@ -116,6 +125,14 @@
 			"site": "https://www.reddit.com/user/Ryo_Marufuji/",
 			"x": "https://x.com/BACKSTAB44",
 			"youtube": "https://www.youtube.com/@BACKSTAB44"
+		}
+	},
+	"blaster": {
+		"name": "Blaster",
+		"avatar": "creators/blaster.png?v=5988ac73",
+		"bio": "If u have some questions you can dm me in discord \"potatosalad69420\"\n\ni am taking a break for some months always and not always consistent but will try to fix a buggy skin if i can",
+		"links": {
+			"youtube": "https://youtu.be/nmpiIzwtwUM"
 		}
 	},
 	"budlibu500": {
@@ -216,6 +233,11 @@
 		"name": "deliriumoverdose",
 		"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
 		"bio": "I do not exist.",
+		"links": {}
+	},
+	"demolishus": {
+		"name": "demolishus",
+		"avatar": "creators/demolishus.png?v=61615a35",
 		"links": {}
 	},
 	"demonxi": {
@@ -491,6 +513,14 @@
 		"name": "lita",
 		"avatar": "creators/lita.webp?v=7618fc10",
 		"links": {}
+	},
+	"lordksop": {
+		"name": "LordksOP",
+		"avatar": "creators/lordksop.jpg?v=730bb0f2",
+		"links": {
+			"site": "https://drive.google.com/drive/folders/10BPzynH8_8fnZbBCtHVeAke0NXb-euum?usp=sharing",
+			"youtube": "https://youtu.be/LjlzFnmRUFI?si=bFJfp1npERQV-UdZ"
+		}
 	},
 	"magnaplayer": {
 		"name": "MagnaPlayer",

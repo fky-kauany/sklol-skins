@@ -1,0 +1,24 @@
+{
+	"id": "amumu-marshadow",
+	"name": "Amumu Marshadow",
+	"champion": 32,
+	"base": 0,
+	"creator": "blaster",
+	"description": "---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/3f70a54d-838f-46cf-8459-33b1b852a148\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/amumu-marshadow/thumb.webp?v=6bbdba03",
+	"file": {
+		"version": 1,
+		"asset": "amumu-marshadow-v1.fantome",
+		"size": 6199986,
+		"sha256": "757c56a96c98dabdd869e443d3e5d77b747c90a51355e1dbd1c6d2f1000c5649"
+	},
+	"chromas": []
+}

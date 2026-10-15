@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:51:05.131Z",
+	"generatedAt": "2026-10-15T07:53:23.112Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -111,6 +111,15 @@
 				"youtube": "https://www.youtube.com/c/Xazerkan67X/"
 			}
 		},
+		"babaenvo": {
+			"name": "BABAENVO",
+			"avatar": "creators/babaenvo.png?v=56aef89c",
+			"bio": "Discord: moonlightfinger",
+			"links": {
+				"site": "https://buymeacoffee.com/moonlightfinger",
+				"youtube": "https://www.youtube.com/@envobaba"
+			}
+		},
 		"backstab": {
 			"name": "BACKSTAB",
 			"avatar": "creators/backstab.jpg?v=b9b07692",
@@ -119,6 +128,14 @@
 				"site": "https://www.reddit.com/user/Ryo_Marufuji/",
 				"x": "https://x.com/BACKSTAB44",
 				"youtube": "https://www.youtube.com/@BACKSTAB44"
+			}
+		},
+		"blaster": {
+			"name": "Blaster",
+			"avatar": "creators/blaster.png?v=5988ac73",
+			"bio": "If u have some questions you can dm me in discord \"potatosalad69420\"\n\ni am taking a break for some months always and not always consistent but will try to fix a buggy skin if i can",
+			"links": {
+				"youtube": "https://youtu.be/nmpiIzwtwUM"
 			}
 		},
 		"budlibu500": {
@@ -219,6 +236,11 @@
 			"name": "deliriumoverdose",
 			"avatar": "creators/deliriumoverdose.webp?v=cb42f274",
 			"bio": "I do not exist.",
+			"links": {}
+		},
+		"demolishus": {
+			"name": "demolishus",
+			"avatar": "creators/demolishus.png?v=61615a35",
 			"links": {}
 		},
 		"demonxi": {
@@ -494,6 +516,14 @@
 			"name": "lita",
 			"avatar": "creators/lita.webp?v=7618fc10",
 			"links": {}
+		},
+		"lordksop": {
+			"name": "LordksOP",
+			"avatar": "creators/lordksop.jpg?v=730bb0f2",
+			"links": {
+				"site": "https://drive.google.com/drive/folders/10BPzynH8_8fnZbBCtHVeAke0NXb-euum?usp=sharing",
+				"youtube": "https://youtu.be/LjlzFnmRUFI?si=bFJfp1npERQV-UdZ"
+			}
 		},
 		"magnaplayer": {
 			"name": "MagnaPlayer",
@@ -1812,6 +1842,204 @@
 			"chromas": []
 		},
 		{
+			"id": "amumu-marshadow",
+			"name": "Amumu Marshadow",
+			"champion": 32,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/amumu-marshadow/thumb.webp?v=6bbdba03",
+			"file": {
+				"version": 1,
+				"asset": "amumu-marshadow-v1.fantome",
+				"size": 6199986,
+				"sha256": "757c56a96c98dabdd869e443d3e5d77b747c90a51355e1dbd1c6d2f1000c5649"
+			},
+			"chromas": []
+		},
+		{
+			"id": "angela-soraka",
+			"name": "Angela Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/angela-soraka/thumb.webp?v=1bc43d2e",
+			"file": {
+				"version": 1,
+				"asset": "angela-soraka-v1.fantome",
+				"size": 34156404,
+				"sha256": "5265991c3116d629c01465869d06fbc3007a8af761505e251f2aa632c927e2dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "animal-crossing-katarina",
+			"name": "Animal Crossing Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/animal-crossing-katarina/thumb.webp?v=efe60797",
+			"file": {
+				"version": 1,
+				"asset": "animal-crossing-katarina-v1.fantome",
+				"size": 9457921,
+				"sha256": "4055ff15b16c3359235cbcf5bac1405010119206d9cb578b2f61581c73077d51"
+			},
+			"chromas": []
+		},
+		{
+			"id": "animal-crossing-teemo",
+			"name": "Animal Crossing Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/animal-crossing-teemo/thumb.webp?v=f8682b4d",
+			"file": {
+				"version": 1,
+				"asset": "animal-crossing-teemo-v1.fantome",
+				"size": 9673163,
+				"sha256": "ed2aba8377bb55aa55dc0316c12f3bd676a4536bc71f3fd92fec7cc5ceb3e918"
+			},
+			"chromas": []
+		},
+		{
+			"id": "annie-atomix-emil-chronicle-almannie",
+			"name": "Atomix Emil Chronicle - Almannie",
+			"champion": 1,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/annie-atomix-emil-chronicle-almannie/thumb.webp?v=da327193",
+			"file": {
+				"version": 1,
+				"asset": "annie-atomix-emil-chronicle-almannie-v1.fantome",
+				"size": 13791863,
+				"sha256": "55f528ec50da6cb1859207fefa5f67b2c7ec804c217f183975e56c30406ace4c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aoba-sion-blue-archive",
+			"name": "Aoba Sion (Blue Archive)",
+			"champion": 14,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aoba-sion-blue-archive/thumb.webp?v=c27ed379",
+			"file": {
+				"version": 1,
+				"asset": "aoba-sion-blue-archive-v1.fantome",
+				"size": 16590342,
+				"sha256": "1e3802773c4481efcd6fb57c881a1a808a79bda6d9e77850be50ee334746d269"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aquaman-zaahen",
+			"name": "Aquaman Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aquaman-zaahen/thumb.webp?v=e296d0a8",
+			"file": {
+				"version": 1,
+				"asset": "aquaman-zaahen-v1.fantome",
+				"size": 2069678,
+				"sha256": "4d747864b6bec6ec7e9543e07a36cf7ecd147374b1eed7aede0b23473bf189ca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "arcana-jhin-chroma-sfx",
+			"name": "Arcana Jhin Chroma & SFX",
+			"champion": 202,
+			"base": 55,
+			"creator": "babaenvo",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/arcana-jhin-chroma-sfx/thumb.webp?v=142271c3",
+			"file": {
+				"version": 1,
+				"asset": "arcana-jhin-chroma-sfx-v1.fantome",
+				"size": 4191750,
+				"sha256": "6028a55607e65f1a584f2245e5ea95ccc1eef7a3a02060894d531f1b61b1b1bd"
+			},
+			"chromas": []
+		},
+		{
 			"id": "aristocrat-vayne-gold-bolts",
 			"name": "Aristocrat Vayne - Gold Bolts",
 			"champion": 67,
@@ -1977,6 +2205,82 @@
 				"asset": "black-and-white-chroma-for-blood-moon-aatrox-v1.fantome",
 				"size": 1573388,
 				"sha256": "8a2c7153fd2a44a2682994c7289a065d54df6884ce2afe048178d3c97c4d249f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-zilean-brown",
+			"name": "Blood Moon Zilean - Brown",
+			"champion": 26,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-zilean-brown/thumb.webp?v=ff1e3e90",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-zilean-brown-v1.fantome",
+				"size": 4508558,
+				"sha256": "e06e2927d2da6e15ec155b14d3f0a4cd27c7bb6b89b583e2d063e79552147ffc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blue-archive-k-sante-hoshino-armed",
+			"name": "(Blue Archive) K'Sante - Hoshino (Armed)",
+			"champion": 897,
+			"base": 0,
+			"creator": "demolishus",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blue-archive-k-sante-hoshino-armed/thumb.webp?v=58f07f0e",
+			"file": {
+				"version": 1,
+				"asset": "blue-archive-k-sante-hoshino-armed-v1.fantome",
+				"size": 6933137,
+				"sha256": "40940b2137f9c77894c1ad6c196c52d0eb77d17718de0731da7671a7d0d21f8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crash-bandicoot-garen",
+			"name": "Crash Bandicoot (Garen)",
+			"champion": 86,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crash-bandicoot-garen/thumb.webp?v=0800e121",
+			"file": {
+				"version": 1,
+				"asset": "crash-bandicoot-garen-v1.fantome",
+				"size": 19026368,
+				"sha256": "55e8f069a6a8316ab1c65e10667c2134355e77de3f0702df07408c6022c7ef21"
 			},
 			"chromas": []
 		},

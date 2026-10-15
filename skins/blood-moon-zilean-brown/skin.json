@@ -1,0 +1,26 @@
+{
+	"id": "blood-moon-zilean-brown",
+	"name": "Blood Moon Zilean - Brown",
+	"champion": 26,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Blood Moon Zilean\r\n\r\n╰┈➤ _The idea for this mod was to make him Poo Moon. That's it._\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/12746878-db3f-4304-8b91-46b11ff6bc94\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blood-moon-zilean-brown/thumb.webp?v=ff1e3e90",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-zilean-brown-v1.fantome",
+		"size": 4508558,
+		"sha256": "e06e2927d2da6e15ec155b14d3f0a4cd27c7bb6b89b583e2d063e79552147ffc"
+	},
+	"chromas": []
+}

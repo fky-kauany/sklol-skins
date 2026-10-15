@@ -1,0 +1,26 @@
+{
+	"id": "animal-crossing-teemo",
+	"name": "Animal Crossing Teemo",
+	"champion": 17,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Teemo\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.3\n\n###### Description: Animal Crossing Teemo\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/f5ed2942-a7a3-40b3-ad9c-9da392ea4b45\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/animal-crossing-teemo/thumb.webp?v=f8682b4d",
+	"file": {
+		"version": 1,
+		"asset": "animal-crossing-teemo-v1.fantome",
+		"size": 9673163,
+		"sha256": "ed2aba8377bb55aa55dc0316c12f3bd676a4536bc71f3fd92fec7cc5ceb3e918"
+	},
+	"chromas": []
+}

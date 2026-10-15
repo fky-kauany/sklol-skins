@@ -1,0 +1,23 @@
+{
+	"id": "annie-atomix-emil-chronicle-almannie",
+	"name": "Atomix Emil Chronicle - Almannie",
+	"champion": 1,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion Replaced: Annie\r\n* Skin Replaced: Default\r\n* Original author: King Nyan Productions\r\n* Re-Uploaded by: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified particles\r\n\r\n## Disclaimer\r\n\r\nI am not the original author of this skin, I only updated it so it works again as a custom skin for League of Legends.\r\nThe original author is **King Nyan Productions**. You can find them here: [King Nyan Productions](https://www.youtube.com/channel/UCrnNFoRmxUG_omshyE6RXvQ),\r\n\r\nIf the original author wants this skin to be taken down, I will take it down again.\r\nYou can contact me here: Victorious#9216\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/feb383a1-3ab0-4f72-9138-36bdd5e2ea1b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/annie-atomix-emil-chronicle-almannie/thumb.webp?v=da327193",
+	"file": {
+		"version": 1,
+		"asset": "annie-atomix-emil-chronicle-almannie-v1.fantome",
+		"size": 13791863,
+		"sha256": "55f528ec50da6cb1859207fefa5f67b2c7ec804c217f183975e56c30406ace4c"
+	},
+	"chromas": []
+}
