@@ -1,0 +1,26 @@
+{
+	"id": "aurelion-sol-red-flame-divine-architect-porcelai",
+	"name": "Red Flame Divine Architect Porcelain Aurelion Sol Chroma",
+	"champion": 136,
+	"base": 0,
+	"creator": "viralcyclopes",
+	"description": "You need Divine Architect Porcelain Aurelion Sol skin for this to work(Duh) so this aint a free 125$ skin to clarify. It just modified the particles and textures to be more red and pink\r\n\r\nDoes the word Flame make any sense in the title? Nope, but it sounds cool.\r\n\r\nHere is the showcase video\r\nhttps://www.youtube.com/watch?v=6OKn9DjL9aQ\r\n\r\nAnyhow join the discord for any updates and what not!\r\nhttps://discord.gg/DhD73YZzZ5\n\n---\n\n**Created by** [ViraL Cyclopes](https://runeforge.dev/users/ViraLCyclopes)\n\n**Original:** https://runeforge.dev/mods/fd5f7453-278a-4fe8-aa19-00ac82a4f078\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aurelion-sol-red-flame-divine-architect-porcelai/thumb.webp?v=844dc40e",
+	"file": {
+		"version": 1,
+		"asset": "aurelion-sol-red-flame-divine-architect-porcelai-v1.fantome",
+		"size": 15345642,
+		"sha256": "d0804bc112d55372f4b02bfda0241ded453267a3353d86d4ba52e928e793404e"
+	},
+	"chromas": []
+}

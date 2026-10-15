@@ -255,6 +255,12 @@
 			"youtube": "https://www.youtube.com/@drinfinito"
 		}
 	},
+	"duduzzz": {
+		"name": "DuDuZZz",
+		"avatar": "creators/duduzzz.jpg?v=ce19fa23",
+		"bio": "Samira lover <3",
+		"links": {}
+	},
 	"eikori": {
 		"name": "Eikori",
 		"avatar": "creators/eikori.webp?v=4f0edcae",
@@ -378,6 +384,11 @@
 			"kofi": "https://ko-fi.com/ikiry0u"
 		}
 	},
+	"inaba24": {
+		"name": "inaba24",
+		"avatar": "creators/inaba24.png?v=b6be4137",
+		"links": {}
+	},
 	"itskazen": {
 		"name": "ItsKazen",
 		"avatar": "creators/itskazen.webp?v=bd38d87c",
@@ -484,6 +495,19 @@
 		"avatar": "creators/matamorosalex.jpg?v=ed035c8d",
 		"bio": "i like anime mods",
 		"links": {}
+	},
+	"matth": {
+		"name": "matth",
+		"avatar": "creators/matth.png?v=54bea520",
+		"bio": "Hello! I´m Matt Spotlight, hope you enjoy my mods💛",
+		"links": {
+			"discord": "https://discord.gg/JyTwT38x9",
+			"instagram": "https://www.instagram.com/matthilobo/",
+			"kofi": "https://ko-fi.com/matthspotlight",
+			"site": "https://www.nexusmods.com/profile/MatthSpotlight",
+			"tiktok": "https://www.tiktok.com/@matthspotlight",
+			"youtube": "https://www.youtube.com/@MatthSpotlight"
+		}
 	},
 	"mava": {
 		"name": "MAVA",
@@ -625,6 +649,13 @@
 			"youtube": "https://www.youtube.com/watch?v=3-v00NWrMpk"
 		}
 	},
+	"rolorolla": {
+		"name": "RoloRolla",
+		"links": {
+			"x": "https://x.com/PelotudoJugando",
+			"youtube": "https://youtu.be/35-mt5hv6J4"
+		}
+	},
 	"rorotea1": {
 		"name": "rorotea1",
 		"avatar": "creators/rorotea1.png?v=56a27670",
@@ -709,6 +740,14 @@
 			"youtube": "https://www.youtube.com/@StritzzzLoL"
 		}
 	},
+	"suriin": {
+		"name": "Suriin",
+		"avatar": "creators/suriin.jpg?v=63398f9b",
+		"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
+		"links": {
+			"kofi": "https://ko-fi.com/suriinruneforge"
+		}
+	},
 	"tanaa": {
 		"name": "Tanaa",
 		"avatar": "creators/tanaa.webp?v=a5946f9b",
@@ -767,6 +806,15 @@
 			"discord": "https://discord.gg/RG7KkwTZva",
 			"x": "https://x.com/VinceWhoLaughs",
 			"youtube": "https://www.youtube.com/@vincedesigns33"
+		}
+	},
+	"viralcyclopes": {
+		"name": "ViraL Cyclopes",
+		"avatar": "creators/viralcyclopes.png?v=c8c36ad7",
+		"bio": "I like dinosaurs(and reptiles) and league of legends. Primarily a Jurassic World Evolution modder but I like to dabble in other things.",
+		"links": {
+			"discord": "https://discord.gg/DhD73YZzZ5",
+			"youtube": "https://www.youtube.com/@ViraLCyclopes"
 		}
 	},
 	"vitusmmrc": {

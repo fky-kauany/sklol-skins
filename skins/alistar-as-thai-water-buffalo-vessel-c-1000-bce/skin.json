@@ -1,0 +1,23 @@
+{
+	"id": "alistar-as-thai-water-buffalo-vessel-c-1000-bce",
+	"name": "Alistar as Thai Water Buffalo Vessel c. 1000 BCE",
+	"champion": 12,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Alistar**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* New loading screen\n* New champ circle\n* Supports all texture qualities\n\n## Credits\n\nModel from: [https://sketchfab.com/3d-models/thai-water-buffalo-vessel-c-1000-bce-6865dfe0972f46f2ba133ebc9e993fd8](https://sketchfab.com/3d-models/thai-water-buffalo-vessel-c-1000-bce-6865dfe0972f46f2ba133ebc9e993fd8)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/11aec226-413a-459b-8072-7a82fde59aec\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/alistar-as-thai-water-buffalo-vessel-c-1000-bce/thumb.webp?v=fb3fdc66",
+	"file": {
+		"version": 1,
+		"asset": "alistar-as-thai-water-buffalo-vessel-c-1000-bce-v1.fantome",
+		"size": 1856064,
+		"sha256": "970413b90cdb4eaa7a6dc0ca2552462a77ee6e574399fcfb76ea922b47555925"
+	},
+	"chromas": []
+}

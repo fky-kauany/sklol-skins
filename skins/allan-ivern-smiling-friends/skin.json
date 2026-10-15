@@ -1,0 +1,26 @@
+{
+	"id": "allan-ivern-smiling-friends",
+	"name": "Allan Ivern (Smiling Friends)",
+	"champion": 427,
+	"base": 0,
+	"creator": "rolorolla",
+	"description": "This is a list of the features I added:\r\n\r\n185 new voicelines (watched the entire series to get all the clean voicelines I could)\r\nSmily face on Passive and E\r\n1/5 chance for Glep to do a cartwheel on Q\r\nBurnout Revenge's game cases on Daisy's knockup\r\nOutlines for all the models\r\nSmile jingle on E (forgot to add it in the showcase)\r\nThe mod is now unbreakable for future patches\r\n\r\nJust so you know, if you want to suggest a voiceline for one of his skills there is a 99% I already added it to the mod unless the voice had too much background noise so just try to find it on your own\n\n---\n\n**Created by** [RoloRolla](https://runeforge.dev/users/RoloRolla)\n\n**Original:** https://runeforge.dev/mods/7d67f42b-86e3-4620-8d4e-bb38a5a8eb92\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/allan-ivern-smiling-friends/thumb.webp?v=cd6ec89a",
+	"file": {
+		"version": 1,
+		"asset": "allan-ivern-smiling-friends-v1.fantome",
+		"size": 28623731,
+		"sha256": "c13ecf55935619fefa9319a5bd6f8e633c62c2edf6985b964dc8a9016633106c"
+	},
+	"chromas": []
+}

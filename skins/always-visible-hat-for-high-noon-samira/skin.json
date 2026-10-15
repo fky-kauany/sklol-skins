@@ -1,0 +1,22 @@
+{
+	"id": "always-visible-hat-for-high-noon-samira",
+	"name": "Always visible hat for High Noon Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "duduzzz",
+	"description": "# Mod info:\r\n* Author: DuDuZZz\r\n* Champion: Samira\r\n* Modified skin: High Noon\r\n* Mod version: 1.0.1\r\n# \r\n# Features:\r\n* Works for all chromas\r\n#\r\n# Contact me!\r\nIf you want to talk to me or report any issues with my mods, feel free to DM me on Discord: duduzzz_\n\n---\n\n**Created by** [DuDuZZz](https://runeforge.dev/users/DuDuZZz)\n\n**Original:** https://runeforge.dev/mods/66a8cab2-643a-43c4-a670-8c3549f758f4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/always-visible-hat-for-high-noon-samira/thumb.webp?v=ad3b6ecc",
+	"file": {
+		"version": 1,
+		"asset": "always-visible-hat-for-high-noon-samira-v1.fantome",
+		"size": 32700,
+		"sha256": "5b01c4d52c8236c6b81b546bffb80bcd4bf7d7acac9f90fe6a7a23a652fb1f2d"
+	},
+	"chromas": []
+}

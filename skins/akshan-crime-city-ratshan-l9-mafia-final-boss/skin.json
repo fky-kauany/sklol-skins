@@ -1,0 +1,23 @@
+{
+	"id": "akshan-crime-city-ratshan-l9-mafia-final-boss",
+	"name": "Crime city Ratshan (L9 mafia final boss)",
+	"champion": 166,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "icons and some champ vfx updated\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/57d7f8ae-4af1-4bac-9f2d-b2d232f3f3f2\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/akshan-crime-city-ratshan-l9-mafia-final-boss/thumb.webp?v=a7438a21",
+	"file": {
+		"version": 1,
+		"asset": "akshan-crime-city-ratshan-l9-mafia-final-boss-v1.fantome",
+		"size": 3769071,
+		"sha256": "3b1ac060bd8b99d79aa11c0b69b6d828cec0ec324b549088dfaa9fff8b2105e1"
+	},
+	"chromas": []
+}

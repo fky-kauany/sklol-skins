@@ -1,0 +1,26 @@
+{
+	"id": "allie-zaahen",
+	"name": "Allie Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/58ea390a-4f0a-4848-b2a7-2798e84e496e\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/allie-zaahen/thumb.webp?v=23a0f825",
+	"file": {
+		"version": 1,
+		"asset": "allie-zaahen-v1.fantome",
+		"size": 26318739,
+		"sha256": "df447d7e4e069bf0325020d9201ca183dcaf5d36a8623ea01f788651edd1e444"
+	},
+	"chromas": []
+}

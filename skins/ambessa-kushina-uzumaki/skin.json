@@ -1,0 +1,24 @@
+{
+	"id": "ambessa-kushina-uzumaki",
+	"name": "Ambessa Kushina Uzumaki",
+	"champion": 799,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (MatthSpotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n______________________________________________________________________________________________________\n\nMy Contacts:\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/9ea6e02f-8ada-46b8-815e-00052a38c256\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ambessa-kushina-uzumaki/thumb.webp?v=fd8f7ee9",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-kushina-uzumaki-v1.fantome",
+		"size": 2778338,
+		"sha256": "efc3a8843c3df2731f928c22d0a07e84d19dc5b0b737c6dbc1e6a0cf1fb86026"
+	},
+	"chromas": []
+}

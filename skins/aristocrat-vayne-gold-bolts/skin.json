@@ -1,0 +1,23 @@
+{
+	"id": "aristocrat-vayne-gold-bolts",
+	"name": "Aristocrat Vayne - Gold Bolts",
+	"champion": 67,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "# **➫ DETAILS:**\n\n**Skin modified: Aristocrat Vayne**\n\n**Premise: Golden VFX Bolts**\n\n# **➫ EXTRA INFO:**\n\n**MAKE SURE TO DISABLE WHEN USING ANY OTHER SKIN/CHROMA FOR THIS CHAMP !!**\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here**](https://secreto.site/a8rmu7), or message me on discord (1gem1), or here is [**My Linktree \\<3**](https://linktr.ee/1gem1) for anything else!\n\n### ***Originally created as a Commission and uploaded with permission from commissioner, thank you!! \\<3***\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/0e3945de-1ba2-461a-bef6-74d14801f8b8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aristocrat-vayne-gold-bolts/thumb.webp?v=14f56360",
+	"file": {
+		"version": 1,
+		"asset": "aristocrat-vayne-gold-bolts-v1.fantome",
+		"size": 566136,
+		"sha256": "52dec4ba0f59e17d7c58d98a61bb465b65f9feff349150456a0e9cf4e075f83a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "better-safecracker-evelynn",
+	"name": "Better Safecracker Evelynn",
+	"champion": 28,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Safecracker Evelynn. You must own the skin and choose it in champ select.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Safecracker Evelynn\r\n\r\n**Affects**: VFX colors\r\n\r\nMakes all particle colors silver to match the skin.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/ecf5a738-f462-42aa-abac-caf5c73bc23a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/better-safecracker-evelynn/thumb.webp?v=b8b25581",
+	"file": {
+		"version": 1,
+		"asset": "better-safecracker-evelynn-v1.fantome",
+		"size": 7396383,
+		"sha256": "2e16ccb7ad04b24c4351a977dbe106da21bd9e98afd560959d79cabc5fa3cfdb"
+	},
+	"chromas": []
+}

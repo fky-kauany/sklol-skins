@@ -1,0 +1,22 @@
+{
+	"id": "b-o-p-e-gangplank",
+	"name": "B.O.P.E Gangplank",
+	"champion": 41,
+	"base": 5,
+	"creator": "inaba24",
+	"description": "Champion: Gangplank\r\n\r\nModified skin: Special Forces\r\n\r\nAuthor: inaba24\r\n\r\nMod version: 1.0.0\r\n\r\nDescription: This mod changes the color and emblems to mimic the BOPE uniform which was the inspiration for the skin itself\n\n---\n\n**Created by** [inaba24](https://runeforge.dev/users/inaba24)\n\n**Original:** https://runeforge.dev/mods/2dfe0ca8-83c0-43e2-8605-f448ff67c5d0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/b-o-p-e-gangplank/thumb.webp?v=5ddf95f2",
+	"file": {
+		"version": 1,
+		"asset": "b-o-p-e-gangplank-v1.fantome",
+		"size": 115452,
+		"sha256": "be71d5cf56a7d3139674a4c65e88e97cd56b87f593228bd12c912386154e6b43"
+	},
+	"chromas": []
+}

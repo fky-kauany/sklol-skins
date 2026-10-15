@@ -1,0 +1,24 @@
+{
+	"id": "ambessa-carnage",
+	"name": "Ambessa Carnage",
+	"champion": 799,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Ambessa\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the ambessa skills, In the future I will add Carnage's voice lines if you like the skin :)\n\neddyyyy\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/28380acc-4609-4138-bc6e-e98d2b0bb110\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ambessa-carnage/thumb.webp?v=ab0b50bd",
+	"file": {
+		"version": 1,
+		"asset": "ambessa-carnage-v1.fantome",
+		"size": 4730272,
+		"sha256": "eba762a3a836c7cef1211b0beab4df5893cb39c3e849332746c19367ec939e9e"
+	},
+	"chromas": []
+}
