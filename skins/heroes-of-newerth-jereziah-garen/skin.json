@@ -1,0 +1,23 @@
+{
+	"id": "heroes-of-newerth-jereziah-garen",
+	"name": "Heroes of Newerth Jereziah Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "POG Jereziah skin from Heroes of Newerth for Default Garen\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/671b1d46-4665-4b90-8e43-b60f68ab729f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heroes-of-newerth-jereziah-garen/thumb.webp?v=c381e321",
+	"file": {
+		"version": 1,
+		"asset": "heroes-of-newerth-jereziah-garen-v1.fantome",
+		"size": 740441,
+		"sha256": "da016a99b0be5185bffac0e42d683e9566c6c618122d83609a4efb3d09f68b31"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "heavenly-warrior-pantheon-classic",
+	"name": "Heavenly Warrior Pantheon - Classic",
+	"champion": 80,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Myrmidon Pantheon in Classic ONLY\n\n## SPECIAL THANKS TO\n\nThornnn the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/827) and was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/a5be30fd-4b26-4f84-aae7-d903be01af59\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heavenly-warrior-pantheon-classic/thumb.webp?v=cfdef415",
+	"file": {
+		"version": 1,
+		"asset": "heavenly-warrior-pantheon-classic-v1.fantome",
+		"size": 8291319,
+		"sha256": "f80f594acb6d909c1ff093572392f1182cc88035c353608fe5b14219029445d3"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "heartsteel-yuumi",
+	"name": "Heartsteel Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "matthewchasm",
+	"description": "Yuumi was an ordinary house cat living a quiet live in a big city, until one day her owner Norra mysteriously went on a indefinite busniess trip. Hit the streets she decided, now on her own trip to find Norra. Then one night during their stroll, Heartsteel Ezreal passed by her asleep by the streets, without much thought he swooped her and skated off to their HQ. The band members were concerned when Ezreal showed up with her in his arm as this is not the first time he returns with something that's not his, often getting the band in trouble. Ezreal explained how he found her and wanted to keep her for awhile, but the crew wasn't too enthusiastic. He quickly \"blinks\" away for a moment and returns with the band's spare props with a cleaver grin. They knew where he's going with this, but being one of the better ideas he had in a bit they went with it, with each member pitching in their style to the makeover. By the time Yuumi woke up, she was met by flashing cameras, barraging autographs, a wild crew and even wilder adventures with them. Yuumi wasn't expecting this to derail her from her original quest but she doesn't seem to want to crash the party just yet, not when she's enjoying better food she's been getting from Ezreal sneaking from the producers, merch toys that look like him, and the new look she didn't realized she got until he took a selfie with her and showed her. Yuumi has definitely taken a liking to the crew and especially Ezreal, maybe a bit too much... Who's autograph book is she sitting on? And why are all the photos are of him?\n\n---\n\n**Created by** [MatthewChasm](https://runeforge.dev/users/MatthewChasm)\n\n**Original:** https://runeforge.dev/mods/7bc6624b-998e-46f5-98df-ce2a857bc782\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heartsteel-yuumi/thumb.webp?v=485c397c",
+	"file": {
+		"version": 1,
+		"asset": "heartsteel-yuumi-v1.fantome",
+		"size": 15345382,
+		"sha256": "01cd79ffbecd5cc82e08267a144aace80c5d50b1b57b0c4f75f83c37e80aeba6"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "heroes-of-newerth-legionnaire-darius",
+	"name": "Heroes of Newerth Legionnaire Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/0ada4a6c-af2f-4b3c-9171-714cbd2329d3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heroes-of-newerth-legionnaire-darius/thumb.webp?v=91894a36",
+	"file": {
+		"version": 1,
+		"asset": "heroes-of-newerth-legionnaire-darius-v1.fantome",
+		"size": 1085755,
+		"sha256": "a21954578b79fac8f47ab6d9b94f7b926328ccfd0d379a96841cd31dc74b2b5f"
+	},
+	"chromas": []
+}

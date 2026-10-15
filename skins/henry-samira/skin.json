@@ -1,0 +1,23 @@
+{
+	"id": "henry-samira",
+	"name": "Henry samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Stick man :v\"\n\n***\n\n**Modified champion: Samira**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose** 3d model made by: [rob](https://thunderstore.io/package/rob/HenryMod/) (thanks)\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/c4efb04f-87af-4b8c-b413-a34950f69bab\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/henry-samira/thumb.webp?v=068ee7fc",
+	"file": {
+		"version": 1,
+		"asset": "henry-samira-v1.fantome",
+		"size": 973610,
+		"sha256": "58d866a2f4736a1f12754846874a1d91d900041d5333038ded26e91e06bf5a69"
+	},
+	"chromas": []
+}

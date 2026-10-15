@@ -1,0 +1,24 @@
+{
+	"id": "heroes-of-newerth-devourer-dr-mundo",
+	"name": "Heroes of Newerth Devourer Dr. Mundo",
+	"champion": 36,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "Devourer from Heroes of Newerth as Dr. Mundo\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/d5b1a512-fa0b-44ec-b014-4fab03de4c0c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heroes-of-newerth-devourer-dr-mundo/thumb.webp?v=9b882dfd",
+	"file": {
+		"version": 1,
+		"asset": "heroes-of-newerth-devourer-dr-mundo-v1.fantome",
+		"size": 1631844,
+		"sha256": "79bb6cd49d2557f2ffa88a454fd4699db3e7c8da8ea59092e11364bca141515f"
+	},
+	"chromas": []
+}

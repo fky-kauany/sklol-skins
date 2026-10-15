@@ -1,0 +1,25 @@
+{
+	"id": "hecarim-dababy",
+	"name": "Hecarim DaBaby",
+	"champion": 120,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "## Description:\n\n* Skins Modified: Base\n\n## Mod information:\n\n* Author: ConDeebaModovete\n* Recovery: Moga\n* Mod Version: 15.11.1.1\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/dbdfde90-0958-4278-bed8-c9453072e548\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hecarim-dababy/thumb.webp?v=ff9074ac",
+	"file": {
+		"version": 1,
+		"asset": "hecarim-dababy-v1.fantome",
+		"size": 8237410,
+		"sha256": "7cc64cddcaf30db233f2c88587acfff2b573788b217596003dc9bcd6f625d472"
+	},
+	"chromas": []
+}

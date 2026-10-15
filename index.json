@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:56:21.447Z",
+	"generatedAt": "2026-10-15T09:59:26.407Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -879,6 +879,13 @@
 				"youtube": "https://www.youtube.com/@MatthSpotlight"
 			}
 		},
+		"matthewchasm": {
+			"name": "MatthewChasm",
+			"avatar": "creators/matthewchasm.jpg?v=00a0b2f1",
+			"links": {
+				"youtube": "https://youtu.be/m4s17gP9xys"
+			}
+		},
 		"mava": {
 			"name": "MAVA",
 			"bio": "i like to create anime mods\nIf you appreciate my work or like the skins and would consider donating, would be awesome <3",
@@ -898,6 +905,13 @@
 			"links": {
 				"discord": "https://discord.com/invite/megaomg",
 				"x": "https://x.com/megaomg_"
+			}
+		},
+		"menellove": {
+			"name": "menellove",
+			"avatar": "creators/menellove.png?v=d4423457",
+			"links": {
+				"youtube": "https://youtu.be/jkBQbNQm2v0"
 			}
 		},
 		"michaelmyers": {
@@ -12711,6 +12725,244 @@
 				"asset": "heartsteel-kayn-twilight-nemesis-v1.fantome",
 				"size": 3560832,
 				"sha256": "95e018e0098cfa7ea7bc25fc490f69cab471d4860fda303715dbd1faf742d33b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heartsteel-yuumi",
+			"name": "Heartsteel Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "matthewchasm",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heartsteel-yuumi/thumb.webp?v=485c397c",
+			"file": {
+				"version": 1,
+				"asset": "heartsteel-yuumi-v1.fantome",
+				"size": 15345382,
+				"sha256": "01cd79ffbecd5cc82e08267a144aace80c5d50b1b57b0c4f75f83c37e80aeba6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heavenly-warrior-pantheon-classic",
+			"name": "Heavenly Warrior Pantheon - Classic",
+			"champion": 80,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heavenly-warrior-pantheon-classic/thumb.webp?v=cfdef415",
+			"file": {
+				"version": 1,
+				"asset": "heavenly-warrior-pantheon-classic-v1.fantome",
+				"size": 8291319,
+				"sha256": "f80f594acb6d909c1ff093572392f1182cc88035c353608fe5b14219029445d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heavy-sion",
+			"name": "Heavy Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "elpibefixer",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heavy-sion/thumb.webp?v=946ed83d",
+			"file": {
+				"version": 1,
+				"asset": "heavy-sion-v1.fantome",
+				"size": 2382001,
+				"sha256": "763d9d3f501caca60cc9971c3bd7cd4ae657317848ca8f453cb8f71d9bb767f5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hecarim-dababy",
+			"name": "Hecarim DaBaby",
+			"champion": 120,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hecarim-dababy/thumb.webp?v=ff9074ac",
+			"file": {
+				"version": 1,
+				"asset": "hecarim-dababy-v1.fantome",
+				"size": 8237410,
+				"sha256": "7cc64cddcaf30db233f2c88587acfff2b573788b217596003dc9bcd6f625d472"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hellboy-gangplank",
+			"name": "HELLBOY GANGPLANK",
+			"champion": 41,
+			"base": 0,
+			"creator": "menellove",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hellboy-gangplank/thumb.webp?v=3147c111",
+			"file": {
+				"version": 1,
+				"asset": "hellboy-gangplank-v1.fantome",
+				"size": 5062975,
+				"sha256": "627bcdb328aaf820f4553c05639ed37e4fa7d1db49d5ac72e6ca8ab63a7b779e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "henry-samira",
+			"name": "Henry samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/henry-samira/thumb.webp?v=068ee7fc",
+			"file": {
+				"version": 1,
+				"asset": "henry-samira-v1.fantome",
+				"size": 973610,
+				"sha256": "58d866a2f4736a1f12754846874a1d91d900041d5333038ded26e91e06bf5a69"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heroes-of-newerth-devourer-dr-mundo",
+			"name": "Heroes of Newerth Devourer Dr. Mundo",
+			"champion": 36,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heroes-of-newerth-devourer-dr-mundo/thumb.webp?v=9b882dfd",
+			"file": {
+				"version": 1,
+				"asset": "heroes-of-newerth-devourer-dr-mundo-v1.fantome",
+				"size": 1631844,
+				"sha256": "79bb6cd49d2557f2ffa88a454fd4699db3e7c8da8ea59092e11364bca141515f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heroes-of-newerth-jereziah-garen",
+			"name": "Heroes of Newerth Jereziah Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heroes-of-newerth-jereziah-garen/thumb.webp?v=c381e321",
+			"file": {
+				"version": 1,
+				"asset": "heroes-of-newerth-jereziah-garen-v1.fantome",
+				"size": 740441,
+				"sha256": "da016a99b0be5185bffac0e42d683e9566c6c618122d83609a4efb3d09f68b31"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heroes-of-newerth-legionnaire-darius",
+			"name": "Heroes of Newerth Legionnaire Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heroes-of-newerth-legionnaire-darius/thumb.webp?v=91894a36",
+			"file": {
+				"version": 1,
+				"asset": "heroes-of-newerth-legionnaire-darius-v1.fantome",
+				"size": 1085755,
+				"sha256": "a21954578b79fac8f47ab6d9b94f7b926328ccfd0d379a96841cd31dc74b2b5f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "herrscher-of-sentience-darius",
+			"name": "Herrscher of Sentience Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/herrscher-of-sentience-darius/thumb.webp?v=90410138",
+			"file": {
+				"version": 1,
+				"asset": "herrscher-of-sentience-darius-v1.fantome",
+				"size": 3980161,
+				"sha256": "321f47bab816c80a2db0d1dbb770c39ff9288904d245425ea50ce52789c8b810"
 			},
 			"chromas": []
 		},

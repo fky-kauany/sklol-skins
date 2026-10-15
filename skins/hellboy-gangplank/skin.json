@@ -1,0 +1,24 @@
+{
+	"id": "hellboy-gangplank",
+	"name": "HELLBOY GANGPLANK",
+	"champion": 41,
+	"base": 0,
+	"creator": "menellove",
+	"description": "Mod name :HELLBOY GANGPLANK\r\n\r\nSkin modified : BASE GANGPLANK \r\nAuthor : menellove\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [menellove](https://runeforge.dev/users/menellove)\n\n**Original:** https://runeforge.dev/mods/7615f6ba-155f-4be8-9910-c04b545f6cc2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hellboy-gangplank/thumb.webp?v=3147c111",
+	"file": {
+		"version": 1,
+		"asset": "hellboy-gangplank-v1.fantome",
+		"size": 5062975,
+		"sha256": "627bcdb328aaf820f4553c05639ed37e4fa7d1db49d5ac72e6ca8ab63a7b779e"
+	},
+	"chromas": []
+}
