@@ -1,0 +1,23 @@
+{
+	"id": "bird-zaahen",
+	"name": "Bird Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "ceratophrys",
+	"description": "### Overview:\n\n* Champion: Zaahen\n* Modified skin: base\n* Author: CERATOPHRYS\n* Version: 1.3.2\n\nShowcase: https://youtu.be/QFxhPpEaYKk\n\nHuge shoutout to Racsaster for the insane support!\n\nTransparency disclaimer: The 3d model of the skin and the thumbnail for the video was AI generated.\n\nPlease report bugs.\n\n---\n\n**Created by** [CERATOPHRYS](https://runeforge.dev/users/CERATOPHRYS)\n\n**Original:** https://runeforge.dev/mods/0708e1e0-4a13-403b-b0c2-3a6f28d962b6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bird-zaahen/thumb.webp?v=041f4137",
+	"file": {
+		"version": 1,
+		"asset": "bird-zaahen-v1.fantome",
+		"size": 1862624,
+		"sha256": "1bdc93ea3d7cd9a07339fcc71f2857c0b6e0ad125145d5cf36cb5c7e71d8c477"
+	},
+	"chromas": []
+}

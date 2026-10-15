@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:10:10.730Z",
+	"generatedAt": "2026-10-15T08:12:42.384Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -210,6 +210,13 @@
 			"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
 			"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
 			"links": {}
+		},
+		"ceratophrys": {
+			"name": "CERATOPHRYS",
+			"avatar": "creators/ceratophrys.png?v=9fe3cbe2",
+			"links": {
+				"youtube": "https://youtu.be/QFxhPpEaYKk"
+			}
 		},
 		"charsles": {
 			"name": "Charsles",
@@ -785,6 +792,12 @@
 			"bio": "just a newbie learning how to make custom skins",
 			"links": {}
 		},
+		"perseus": {
+			"name": "Perseus",
+			"avatar": "creators/perseus.jpg?v=1cd8bee0",
+			"bio": "just a newbie learning how to make custom skins",
+			"links": {}
+		},
 		"pimek": {
 			"name": "pimek",
 			"bio": "# Making RIOTlike edgy and meme mods\n\n* All skins here all my best one\n\nthe other mods can be found on discord",
@@ -911,6 +924,13 @@
 				"twitch": "https://www.twitch.tv/thatshrimpbackguy",
 				"x": "https://x.com/ShrimpBackpain",
 				"youtube": "https://www.youtube.com/@ShrimpBackpain"
+			}
+		},
+		"sinister": {
+			"name": "Sinister",
+			"avatar": "creators/sinister.png?v=ae4ecebd",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=Fz05ggVGDtc"
 			}
 		},
 		"sirdexal": {
@@ -3590,6 +3610,31 @@
 			"chromas": []
 		},
 		{
+			"id": "better-karthus-ult-explosions",
+			"name": "Better Karthus Ult Explosions",
+			"champion": 30,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/better-karthus-ult-explosions/thumb.webp?v=ac97bbdc",
+			"file": {
+				"version": 1,
+				"asset": "better-karthus-ult-explosions-v1.fantome",
+				"size": 10899340,
+				"sha256": "75cee3451f771e2bbca7b1b7a6764d457c4ba5500dacf396ffefad678c45c0a5"
+			},
+			"chromas": []
+		},
+		{
 			"id": "better-masquerade-evelynn",
 			"name": "Better Masquerade Evelynn",
 			"champion": 28,
@@ -3665,6 +3710,53 @@
 			"chromas": []
 		},
 		{
+			"id": "bewitching-yuumi-fanmade",
+			"name": "Bewitching Yuumi (Fanmade)",
+			"champion": 350,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bewitching-yuumi-fanmade/thumb.webp?v=15562d33",
+			"file": {
+				"version": 1,
+				"asset": "bewitching-yuumi-fanmade-v1.fantome",
+				"size": 1552822,
+				"sha256": "6fdb9ce5e5920de2d9fef27398c4c0f179f0e1d88743da5dcd120359ca549252"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bird-zaahen",
+			"name": "Bird Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "ceratophrys",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bird-zaahen/thumb.webp?v=041f4137",
+			"file": {
+				"version": 1,
+				"asset": "bird-zaahen-v1.fantome",
+				"size": 1862624,
+				"sha256": "1bdc93ea3d7cd9a07339fcc71f2857c0b6e0ad125145d5cf36cb5c7e71d8c477"
+			},
+			"chromas": []
+		},
+		{
 			"id": "black-and-white-chroma-for-blood-moon-aatrox",
 			"name": "black and white chroma for blood moon aatrox",
 			"champion": 266,
@@ -3684,6 +3776,128 @@
 				"asset": "black-and-white-chroma-for-blood-moon-aatrox-v1.fantome",
 				"size": 1573388,
 				"sha256": "8a2c7153fd2a44a2682994c7289a065d54df6884ce2afe048178d3c97c4d249f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-and-white-dark-cosmic-lux",
+			"name": "Black and White - Dark Cosmic Lux",
+			"champion": 99,
+			"base": 17,
+			"creator": "sinister",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/black-and-white-dark-cosmic-lux/thumb.webp?v=bedef305",
+			"file": {
+				"version": 1,
+				"asset": "black-and-white-dark-cosmic-lux-v1.fantome",
+				"size": 4391261,
+				"sha256": "c898aa9d01fbb2060a18653579083d92d75c7e3daac1d8fe2437322e9e9c0d3d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-and-white-spirit-blossom-hwei",
+			"name": "Black and White - Spirit Blossom Hwei",
+			"champion": 910,
+			"base": 11,
+			"creator": "sinister",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/black-and-white-spirit-blossom-hwei/thumb.webp?v=5288fd4d",
+			"file": {
+				"version": 1,
+				"asset": "black-and-white-spirit-blossom-hwei-v1.fantome",
+				"size": 5744889,
+				"sha256": "9a52a164c69952e2055e2c84a0a15080c6dd91fec5517bf65840e393f1843960"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-cat-leblanc",
+			"name": "Black Cat LeBlanc",
+			"champion": 7,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/black-cat-leblanc/thumb.webp?v=f45c055e",
+			"file": {
+				"version": 1,
+				"asset": "black-cat-leblanc-v1.fantome",
+				"size": 234028239,
+				"sha256": "f99ad56679774115b84ec2e1efe709a37c36e7241d97862216093c8d06c44fca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-soul-fighter-samira",
+			"name": "Black Soul Fighter Samira",
+			"champion": 360,
+			"base": 30,
+			"creator": "duduzzz",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/black-soul-fighter-samira/thumb.webp?v=1b3d2144",
+			"file": {
+				"version": 1,
+				"asset": "black-soul-fighter-samira-v1.fantome",
+				"size": 1429969,
+				"sha256": "ca9677ff903c3895c1cd9898f24ca9d48820aea02301a724d281aba785b8c242"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-white-dragon-talon",
+			"name": "Black & White Dragon Talon",
+			"champion": 91,
+			"base": 12,
+			"creator": "perseus",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/black-white-dragon-talon/thumb.webp?v=2197c740",
+			"file": {
+				"version": 1,
+				"asset": "black-white-dragon-talon-v1.fantome",
+				"size": 13318583,
+				"sha256": "a69c698b1913d5c1d1cf0b54e42007209488ec7556b897d39f7f321d4f72723d"
 			},
 			"chromas": []
 		},

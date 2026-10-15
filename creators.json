@@ -208,6 +208,13 @@
 		"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
 		"links": {}
 	},
+	"ceratophrys": {
+		"name": "CERATOPHRYS",
+		"avatar": "creators/ceratophrys.png?v=9fe3cbe2",
+		"links": {
+			"youtube": "https://youtu.be/QFxhPpEaYKk"
+		}
+	},
 	"charsles": {
 		"name": "Charsles",
 		"avatar": "creators/charsles.jpg?v=615feff2",
@@ -782,6 +789,12 @@
 		"bio": "just a newbie learning how to make custom skins",
 		"links": {}
 	},
+	"perseus": {
+		"name": "Perseus",
+		"avatar": "creators/perseus.jpg?v=1cd8bee0",
+		"bio": "just a newbie learning how to make custom skins",
+		"links": {}
+	},
 	"pimek": {
 		"name": "pimek",
 		"bio": "# Making RIOTlike edgy and meme mods\n\n* All skins here all my best one\n\nthe other mods can be found on discord",
@@ -908,6 +921,13 @@
 			"twitch": "https://www.twitch.tv/thatshrimpbackguy",
 			"x": "https://x.com/ShrimpBackpain",
 			"youtube": "https://www.youtube.com/@ShrimpBackpain"
+		}
+	},
+	"sinister": {
+		"name": "Sinister",
+		"avatar": "creators/sinister.png?v=ae4ecebd",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=Fz05ggVGDtc"
 		}
 	},
 	"sirdexal": {

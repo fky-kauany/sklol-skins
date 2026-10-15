@@ -1,0 +1,25 @@
+{
+	"id": "better-karthus-ult-explosions",
+	"name": "Better Karthus Ult Explosions",
+	"champion": 30,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "Featuring particles stolen from Sett ult, Ziggs ult and Asol ult\n\n#\n\n### Information\n\n**Modified champion: Karthus**\n\n**Modified skin: Default, Arcana (No Chromas)**\n\n**Author: Aropatnik**\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/5c366d07-4f70-46c0-a41d-a0f5a78aa434\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/better-karthus-ult-explosions/thumb.webp?v=ac97bbdc",
+	"file": {
+		"version": 1,
+		"asset": "better-karthus-ult-explosions-v1.fantome",
+		"size": 10899340,
+		"sha256": "75cee3451f771e2bbca7b1b7a6764d457c4ba5500dacf396ffefad678c45c0a5"
+	},
+	"chromas": []
+}

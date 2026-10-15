@@ -1,0 +1,24 @@
+{
+	"id": "black-and-white-spirit-blossom-hwei",
+	"name": "Black and White - Spirit Blossom Hwei",
+	"champion": 910,
+	"base": 11,
+	"creator": "sinister",
+	"description": "UPDATE V1.0.1:\r\n\r\nSkin Updated for Patch 26.09\r\n\r\n\r\n\r\nABOUT ME:\r\n\r\nThis was my first project, inspired by other Black & WHite Chromas specifically from the BW Battle Queen Katarina Skin.\r\n\r\nI've put alot of effort into it making it possible. Starting from scratch with no knowledge on how to make a Custom Chroma or on how to even get started. \r\n\r\nNow, after finishing the last things it's ready.\r\n\r\nI'm happy to share it with yall and hope you'll like it!\r\n\r\n--------------------------------------------------------------------------------------------------\r\n\r\nSKIN INFORMATION\r\n\r\n\r\nChampion: Hwei\r\n\r\nModified skin: Spirit Blossom Hwei\r\n\r\nAuthor: Sinister\r\n\r\nVersion: 1.0.1\n\n---\n\n**Created by** [Sinister](https://runeforge.dev/users/Sinister)\n\n**Original:** https://runeforge.dev/mods/a7fa0744-38fb-49af-b9c3-63ded891abff\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/black-and-white-spirit-blossom-hwei/thumb.webp?v=5288fd4d",
+	"file": {
+		"version": 1,
+		"asset": "black-and-white-spirit-blossom-hwei-v1.fantome",
+		"size": 5744889,
+		"sha256": "9a52a164c69952e2055e2c84a0a15080c6dd91fec5517bf65840e393f1843960"
+	},
+	"chromas": []
+}

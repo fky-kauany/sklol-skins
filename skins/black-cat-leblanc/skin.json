@@ -1,0 +1,26 @@
+{
+	"id": "black-cat-leblanc",
+	"name": "Black Cat LeBlanc",
+	"champion": 7,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (Matth Spotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n____________________________________________________________________________________________________________________\n\nMy Contacts:\n\nDiscord server: https://discord.com/invite/bCk5DhDHY\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/3df6c649-a49c-453c-8ae9-d0b05b984368\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/black-cat-leblanc/thumb.webp?v=f45c055e",
+	"file": {
+		"version": 1,
+		"asset": "black-cat-leblanc-v1.fantome",
+		"size": 234028239,
+		"sha256": "f99ad56679774115b84ec2e1efe709a37c36e7241d97862216093c8d06c44fca"
+	},
+	"chromas": []
+}

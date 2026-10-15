@@ -1,0 +1,24 @@
+{
+	"id": "black-and-white-dark-cosmic-lux",
+	"name": "Black and White - Dark Cosmic Lux",
+	"champion": 99,
+	"base": 17,
+	"creator": "sinister",
+	"description": "IMPORTANT NOTE:\r\n\r\nSKIN UPDATE 2.0 | Featuring:\r\n\r\n-New Normal Skintone\r\n\r\n-New Recolored BW Abilites | Better Contrast\r\n\r\n-New Loading Screen Wallpaper\r\n\r\n-Fixed Distortion Bugs\r\n\r\n-Fixed broken Shader on Lux's Head\r\n\r\n-More Pictures for Preview\r\n\r\n\r\n\r\n\r\nExpect more satisfaction on the overall Chroma!\r\n\r\nSKIN INFORMATION\r\n\r\nChampion: Lux\r\n\r\nModified Skin: Dark Cosmic Lux\r\n\r\nAuthor: Sinister\r\n\r\nVersion: 2.0.0\n\n---\n\n**Created by** [Sinister](https://runeforge.dev/users/Sinister)\n\n**Original:** https://runeforge.dev/mods/76c3f6ad-df4d-4baf-a52f-8fca29d527de\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/black-and-white-dark-cosmic-lux/thumb.webp?v=bedef305",
+	"file": {
+		"version": 1,
+		"asset": "black-and-white-dark-cosmic-lux-v1.fantome",
+		"size": 4391261,
+		"sha256": "c898aa9d01fbb2060a18653579083d92d75c7e3daac1d8fe2437322e9e9c0d3d"
+	},
+	"chromas": []
+}

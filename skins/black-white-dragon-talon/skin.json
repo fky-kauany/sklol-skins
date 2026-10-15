@@ -1,0 +1,26 @@
+{
+	"id": "black-white-dragon-talon",
+	"name": "Black & White Dragon Talon",
+	"champion": 91,
+	"base": 12,
+	"creator": "perseus",
+	"description": "- Modified Skin = Enduring Sword Talon\n\n- Author = Perseus\n\n- Features:\n\n   Custom Ability Icons\n\n   Custom Loading Screen Banner\n\n   Custom VFX And More\n\n- This custom skin was made upon request.\n\n- If any bug or error happens you can contact me on discord = percyyw\n\n---\n\n**Created by** [Perseus](https://runeforge.dev/users/Perseus)\n\n**Original:** https://runeforge.dev/mods/4ff9fa76-d5dd-4a2f-8afe-69a694b1aaf4\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/black-white-dragon-talon/thumb.webp?v=2197c740",
+	"file": {
+		"version": 1,
+		"asset": "black-white-dragon-talon-v1.fantome",
+		"size": 13318583,
+		"sha256": "a69c698b1913d5c1d1cf0b54e42007209488ec7556b897d39f7f321d4f72723d"
+	},
+	"chromas": []
+}

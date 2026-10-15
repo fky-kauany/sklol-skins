@@ -1,0 +1,24 @@
+{
+	"id": "bewitching-yuumi-fanmade",
+	"name": "Bewitching Yuumi (Fanmade)",
+	"champion": 350,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "# Skin Info:\r\n\r\nChampion : Yuumi\r\n\r\n‎\r\n\r\nModified skin : Default\r\n\r\n‎\r\n\r\nOriginal Author : Yoru with help by Damonix\r\n\r\n‎\r\n\r\nRecovered by: Yuumi\r\n\r\n‎\r\n\r\nMod version: 1.1.0\r\n\r\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\r\n\r\nI did everything possible to make the skin as similar to the original as possible.\r\n\r\n‎\r\n\r\n‎\r\n\r\nIf it breaks or has problems contact me on discord: @fbsyuumi\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/72e6b07b-99ec-4120-8b92-357071fa19a9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bewitching-yuumi-fanmade/thumb.webp?v=15562d33",
+	"file": {
+		"version": 1,
+		"asset": "bewitching-yuumi-fanmade-v1.fantome",
+		"size": 1552822,
+		"sha256": "6fdb9ce5e5920de2d9fef27398c4c0f179f0e1d88743da5dcd120359ca549252"
+	},
+	"chromas": []
+}

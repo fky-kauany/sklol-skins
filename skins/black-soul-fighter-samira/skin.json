@@ -1,0 +1,22 @@
+{
+	"id": "black-soul-fighter-samira",
+	"name": "Black Soul Fighter Samira",
+	"champion": 360,
+	"base": 30,
+	"creator": "duduzzz",
+	"description": "### **Mod info:**\n\n* Author: DuDuZZz\n* Champion: Samira\n* Modified skin: Soul Fighter&#x20;\n* Mod version: 1.0.2\n\n\n***\n\n### Features:\n\n* Effects:  Adds a darker color to auto attack and ability effects including ultimate\n* New loading screen\n\n\n***\n\n\n\n## Due to my limited knowledge of skin modification, I wasn’t able to change the color of the weapons. Sorry about that! if you want to talk to me or report any issues with this mod feel free to DM me on Discord: duduzzz\\_\n\n---\n\n**Created by** [DuDuZZz](https://runeforge.dev/users/DuDuZZz)\n\n**Original:** https://runeforge.dev/mods/e63fdbe6-83b0-46dc-9660-e3668c48428f\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/black-soul-fighter-samira/thumb.webp?v=1b3d2144",
+	"file": {
+		"version": 1,
+		"asset": "black-soul-fighter-samira-v1.fantome",
+		"size": 1429969,
+		"sha256": "ca9677ff903c3895c1cd9898f24ca9d48820aea02301a724d281aba785b8c242"
+	},
+	"chromas": []
+}
