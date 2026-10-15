@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:53:23.112Z",
+	"generatedAt": "2026-10-15T07:53:54.245Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -688,6 +688,11 @@
 				"patreon": "https://www.patreon.com/cw/Revvn0",
 				"youtube": "https://www.youtube.com/watch?v=3-v00NWrMpk"
 			}
+		},
+		"reza": {
+			"name": "Reza",
+			"avatar": "creators/reza.jpg?v=cb17b4f1",
+			"links": {}
 		},
 		"rolorolla": {
 			"name": "RoloRolla",
@@ -2040,6 +2045,32 @@
 			"chromas": []
 		},
 		{
+			"id": "arclight-draven",
+			"name": "Arclight Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/arclight-draven/thumb.webp?v=81886188",
+			"file": {
+				"version": 1,
+				"asset": "arclight-draven-v1.fantome",
+				"size": 7237638,
+				"sha256": "84310428685c520611b00f2c67af499577ed050d7b922abf58e7f200a235aeae"
+			},
+			"chromas": []
+		},
+		{
 			"id": "aristocrat-vayne-gold-bolts",
 			"name": "Aristocrat Vayne - Gold Bolts",
 			"champion": 67,
@@ -2281,6 +2312,32 @@
 				"asset": "crash-bandicoot-garen-v1.fantome",
 				"size": 19026368,
 				"sha256": "55e8f069a6a8316ab1c65e10667c2134355e77de3f0702df07408c6022c7ef21"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-matter-sett",
+			"name": "Dark matter Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "reza",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dark-matter-sett/thumb.webp?v=d04dc280",
+			"file": {
+				"version": 1,
+				"asset": "dark-matter-sett-v1.fantome",
+				"size": 7549796,
+				"sha256": "02d071c9db6ad3c396881f84b625ff011b96b683db9a59c21366dd7cfb5b5c9c"
 			},
 			"chromas": []
 		},

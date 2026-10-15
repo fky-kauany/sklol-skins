@@ -1,0 +1,26 @@
+{
+	"id": "dark-matter-sett",
+	"name": "Dark matter Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "reza",
+	"description": "---\n\n**Created by** [Reza](https://runeforge.dev/users/Reza)\n\n**Original:** https://runeforge.dev/mods/91ddeb14-0e54-48a7-9474-c3cdcec1b53c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dark-matter-sett/thumb.webp?v=d04dc280",
+	"file": {
+		"version": 1,
+		"asset": "dark-matter-sett-v1.fantome",
+		"size": 7549796,
+		"sha256": "02d071c9db6ad3c396881f84b625ff011b96b683db9a59c21366dd7cfb5b5c9c"
+	},
+	"chromas": []
+}

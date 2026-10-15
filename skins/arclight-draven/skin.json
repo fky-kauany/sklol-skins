@@ -1,0 +1,26 @@
+{
+	"id": "arclight-draven",
+	"name": "Arclight Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "valfren",
+	"description": "### SKIN INFORMATION\r\n* Champion: Draven\r\n* Modified skin: Base\r\n* Author: Valfren\r\n* Version: 1.0.4\r\n* Description: Custom model, VFX, and SFX\r\n\r\nCheck out the video for a preview: https://youtu.be/aahkQvCZOLE\r\n\r\n**Animations made by the GOAT Sauronkaiser**\n\n---\n\n**Created by** [Valfren](https://runeforge.dev/users/Valfren)\n\n**Original:** https://runeforge.dev/mods/df16fa00-fedb-42e8-b007-7040a7f2fd46\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/arclight-draven/thumb.webp?v=81886188",
+	"file": {
+		"version": 1,
+		"asset": "arclight-draven-v1.fantome",
+		"size": 7237638,
+		"sha256": "84310428685c520611b00f2c67af499577ed050d7b922abf58e7f200a235aeae"
+	},
+	"chromas": []
+}
