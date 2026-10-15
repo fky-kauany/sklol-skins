@@ -1,0 +1,26 @@
+{
+	"id": "susie-deltarune-darius",
+	"name": "Susie Deltarune Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "Spent way longer than I should've with this one but it's finally out at least, credits for all down here so shoutout to everyone on here.\n\nCredits:\n- Character design, sound effects and voice over from Deltarune/Undertale by Toby Fox\n- Character model by VibaPop on SketchFab\n- Ability sound effect edits, voice over edit and custom visual effects by ShrimpBack (me lol)\n- Model Weighted by FingaMiro on Runeforge\n- Sound events edits by Aurecueil on Runeforge\n- Asset repathing by Moga on Runeforge\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/55494a8a-59f4-4b01-8bc6-b0240ac2a0fa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/susie-deltarune-darius/thumb.webp?v=b2d5b78c",
+	"file": {
+		"version": 1,
+		"asset": "susie-deltarune-darius-v1.fantome",
+		"size": 13155898,
+		"sha256": "dc655b74e5d6fe2014c6185ba096fb05a1fdcb67140dc4e17e8b9de02a3bc645"
+	},
+	"chromas": []
+}

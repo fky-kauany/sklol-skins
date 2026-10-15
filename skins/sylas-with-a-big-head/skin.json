@@ -1,0 +1,22 @@
+{
+	"id": "sylas-with-a-big-head",
+	"name": "Sylas with a big head",
+	"champion": 517,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\n**Modified champion:** Sylas\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n#\n\n### Features\n* Large head\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/c9b108ed-67e3-417d-b9a7-ee78631630bd\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sylas-with-a-big-head/thumb.webp?v=60d4bb53",
+	"file": {
+		"version": 1,
+		"asset": "sylas-with-a-big-head-v1.fantome",
+		"size": 371032,
+		"sha256": "bb772fdf4c3e419a579743d5e7713d7a58a468b39f9f6e365823ff2063899a12"
+	},
+	"chromas": []
+}

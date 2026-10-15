@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:58:20.780Z",
+	"generatedAt": "2026-10-15T14:04:02.173Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16,6 +16,13 @@
 			"bio": "hello everyone! im rachel (or 1gem1 depending on what you wanna call me) and i love making custom skins!\n\nyou can find me via: (most active to least)\n\n• discord - 1gem1\n• my custom skins discord\n• runeforge over here\n• twitter/x - here\n• kofi - here\n• league (EUW) - 1gem1#EUW\n\nif anything breaks, you wanna ask me any questions, or you'd like info on commissioning me, hmu on any of these !!",
 			"links": {
 				"discord": "https://discord.gg/6MTrrVbwgm"
+			}
+		},
+		"aaiopu": {
+			"name": "aaiopu",
+			"links": {
+				"site": "https://github.com/Amouty",
+				"youtube": "https://www.youtube.com/watch?v=t_OUzsg6uhw"
 			}
 		},
 		"abelerdus": {
@@ -31185,6 +31192,136 @@
 			"chromas": []
 		},
 		{
+			"id": "super-mario-gnar",
+			"name": "Super Mario Gnar",
+			"champion": 150,
+			"base": 0,
+			"creator": "jetrammer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/super-mario-gnar/thumb.webp?v=7ea2034e",
+			"file": {
+				"version": 1,
+				"asset": "super-mario-gnar-v1.fantome",
+				"size": 10072979,
+				"sha256": "319dd64d84376a969c55ddc22ba2141780bcae36f2d856dccdb3fc606a76dea4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "super-saiyan-4-goku-sett",
+			"name": "Super Saiyan 4 Goku Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "aaiopu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/super-saiyan-4-goku-sett/thumb.webp?v=9407d072",
+			"file": {
+				"version": 1,
+				"asset": "super-saiyan-4-goku-sett-v1.fantome",
+				"size": 12533947,
+				"sha256": "cfa9072c66ecfd47df48556a52dd4ca449992d7ac80755dd91fb9043847a71fa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "super-vegito-ambessa",
+			"name": "Super Vegito (Ambessa)",
+			"champion": 799,
+			"base": 0,
+			"creator": "instinct",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/super-vegito-ambessa/thumb.webp?v=993154fe",
+			"file": {
+				"version": 1,
+				"asset": "super-vegito-ambessa-v1.fantome",
+				"size": 12963861,
+				"sha256": "1c83f9da588a5623e2b9418a3e75c4c0746a82415faca334da1afad883e14aa1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "susie-deltarune-darius",
+			"name": "Susie Deltarune Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/susie-deltarune-darius/thumb.webp?v=b2d5b78c",
+			"file": {
+				"version": 1,
+				"asset": "susie-deltarune-darius-v1.fantome",
+				"size": 13155898,
+				"sha256": "dc655b74e5d6fe2014c6185ba096fb05a1fdcb67140dc4e17e8b9de02a3bc645"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sussie-darius",
+			"name": "Sussie Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "abelerdus",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sussie-darius/thumb.webp?v=04685fbf",
+			"file": {
+				"version": 1,
+				"asset": "sussie-darius-v1.fantome",
+				"size": 3250841,
+				"sha256": "334b756c7a7f99c65ff20025cc7d24e20595f949c7ebb49009d794c9f5e95ab4"
+			},
+			"chromas": []
+		},
+		{
 			"id": "sylas-kratos",
 			"name": "Sylas Kratos",
 			"champion": 517,
@@ -31205,6 +31342,122 @@
 				"asset": "sylas-kratos-v1.fantome",
 				"size": 5749752,
 				"sha256": "410fd128395978800492fdd4bdd00e40287483373bbd2e0f2af2e1b05d9a9f68"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-with-a-big-head",
+			"name": "Sylas with a big head",
+			"champion": 517,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sylas-with-a-big-head/thumb.webp?v=60d4bb53",
+			"file": {
+				"version": 1,
+				"asset": "sylas-with-a-big-head-v1.fantome",
+				"size": 371032,
+				"sha256": "bb772fdf4c3e419a579743d5e7713d7a58a468b39f9f6e365823ff2063899a12"
+			},
+			"chromas": []
+		},
+		{
+			"id": "t1-sett",
+			"name": "T1 Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/t1-sett/thumb.webp?v=d82c994b",
+			"file": {
+				"version": 1,
+				"asset": "t1-sett-v1.fantome",
+				"size": 46859146,
+				"sha256": "13869e278110a9ac3fb43ab84dd609aa708ed40e034da80d9d0b60ecc775a1cc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "t1-talon-base",
+			"name": "T1 Talon base",
+			"champion": 91,
+			"base": 0,
+			"creator": "gyeinjik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/t1-talon-base/thumb.webp?v=12df2ac6",
+			"file": {
+				"version": 1,
+				"asset": "t1-talon-base-v1.fantome",
+				"size": 5413560,
+				"sha256": "8a2a20eb212410994febaab852d44662d9e5017c611c29652b13d82d85917faf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "t1-varus-blue-chroma",
+			"name": "T1 Varus Blue Chroma",
+			"champion": 110,
+			"base": 0,
+			"creator": "michaelmyers",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/t1-varus-blue-chroma/thumb.webp?v=108177ea",
+			"file": {
+				"version": 1,
+				"asset": "t1-varus-blue-chroma-v1.fantome",
+				"size": 4687414,
+				"sha256": "7aa11a7b09abbf61e732537cb214e3a3a9b47a66083cd843a0149805c753b7dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tahm-kench-hat-edition",
+			"name": "Tahm Kench Hat Edition",
+			"champion": 223,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tahm-kench-hat-edition/thumb.webp?v=44cb1e3e",
+			"file": {
+				"version": 1,
+				"asset": "tahm-kench-hat-edition-v1.fantome",
+				"size": 26430,
+				"sha256": "423be5b55c087c2711b1cf471fb2ae91a0ceab9828e71e071ecbc44a158c7dbf"
 			},
 			"chromas": []
 		},

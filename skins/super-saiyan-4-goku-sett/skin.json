@@ -1,0 +1,26 @@
+{
+	"id": "super-saiyan-4-goku-sett",
+	"name": "Super Saiyan 4 Goku Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "aaiopu",
+	"description": "I'm back with another skin. this time it's Super Saiyan 4 Goku on Sett. I had lots of fun making this skin. Based on my Summoner name, you could tell this one was coming. I also saw lots of comments on my unlisted Vergil video. So this time I'll make the video public so I can check it more often.\r\nSkin includes:\r\n-Custom model\r\n-Custom textures\r\n-Custom visual effects\r\n-Custom voice lines\r\n-Custom sound effects\r\n-and some animations were changed as well\r\n\r\nGithub link - https://github.com/Amouty\n\n---\n\n**Created by** [aaiopu](https://runeforge.dev/users/aaiopu)\n\n**Original:** https://runeforge.dev/mods/25a44c29-08a4-4e86-9d62-9a85a53f7017\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/super-saiyan-4-goku-sett/thumb.webp?v=9407d072",
+	"file": {
+		"version": 1,
+		"asset": "super-saiyan-4-goku-sett-v1.fantome",
+		"size": 12533947,
+		"sha256": "cfa9072c66ecfd47df48556a52dd4ca449992d7ac80755dd91fb9043847a71fa"
+	},
+	"chromas": []
+}

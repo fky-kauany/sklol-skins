@@ -1,0 +1,23 @@
+{
+	"id": "t1-varus-blue-chroma",
+	"name": "T1 Varus Blue Chroma",
+	"champion": 110,
+	"base": 0,
+	"creator": "michaelmyers",
+	"description": "**MOD INFORMATION**\n\n* Champion: Varus\n* Modified skin: T1 Varus\n* Author: Michael Myers\n\n\n* **Features** \n\n* Blue & White textures\n* Blue & White particles\n* Modified loading screen\n\n---\n\n**Created by** [MichaelMyers](https://runeforge.dev/users/MichaelMyers)\n\n**Original:** https://runeforge.dev/mods/a13ac335-1b6c-4147-b318-166c6ef71b4f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/t1-varus-blue-chroma/thumb.webp?v=108177ea",
+	"file": {
+		"version": 1,
+		"asset": "t1-varus-blue-chroma-v1.fantome",
+		"size": 4687414,
+		"sha256": "7aa11a7b09abbf61e732537cb214e3a3a9b47a66083cd843a0149805c753b7dc"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "t1-talon-base",
+	"name": "T1 Talon base",
+	"champion": 91,
+	"base": 0,
+	"creator": "gyeinjik",
+	"description": "(Works with default talon skin)\r\nT1 skin effect with Faker's Signature vfx\n\n---\n\n**Created by** [gyeinjik](https://runeforge.dev/users/gyeinjik)\n\n**Original:** https://runeforge.dev/mods/017fa0f7-88d9-43e6-9cf6-f2d7e1f3c76a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/t1-talon-base/thumb.webp?v=12df2ac6",
+	"file": {
+		"version": 1,
+		"asset": "t1-talon-base-v1.fantome",
+		"size": 5413560,
+		"sha256": "8a2a20eb212410994febaab852d44662d9e5017c611c29652b13d82d85917faf"
+	},
+	"chromas": []
+}

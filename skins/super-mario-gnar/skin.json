@@ -1,0 +1,26 @@
+{
+	"id": "super-mario-gnar",
+	"name": "Super Mario Gnar",
+	"champion": 150,
+	"base": 0,
+	"creator": "jetrammer",
+	"description": "Super Mario Odyssey Gnar, made by konradosj & UnPeloudoJugando. Fixed and reuploaded.\r\n\r\nReplaces Gnar with Mario from Super Mario Odyssey, he transforms into Bowser when going Mega.\r\n\r\nChampion: Gnar\r\n\r\nSkin: Default\r\n\r\nFeatures: New Models, Splash Art, Spell effects, VO and SFX\n\n---\n\n**Created by** [Jetrammer](https://runeforge.dev/users/Jetrammer)\n\n**Original:** https://runeforge.dev/mods/2027da19-063e-4013-a6de-a906acad3e9a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/super-mario-gnar/thumb.webp?v=7ea2034e",
+	"file": {
+		"version": 1,
+		"asset": "super-mario-gnar-v1.fantome",
+		"size": 10072979,
+		"sha256": "319dd64d84376a969c55ddc22ba2141780bcae36f2d856dccdb3fc606a76dea4"
+	},
+	"chromas": []
+}

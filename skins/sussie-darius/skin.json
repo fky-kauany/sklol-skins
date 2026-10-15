@@ -1,0 +1,25 @@
+{
+	"id": "sussie-darius",
+	"name": "Sussie Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "abelerdus",
+	"description": "# Info\n**Modified champion:** Darius\n\n**Modified skin:** Default\n\n**Author:** Abelerdus\n\n# Credits\nOriginal model by [VibaPop](https://sketchfab.com/VibaPop)\n\n---\n\n**Created by** [Abelerdus](https://runeforge.dev/users/Abelerdus)\n\n**Original:** https://runeforge.dev/mods/13b46a77-4491-48c7-8f4e-69e5877f76d7\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sussie-darius/thumb.webp?v=04685fbf",
+	"file": {
+		"version": 1,
+		"asset": "sussie-darius-v1.fantome",
+		"size": 3250841,
+		"sha256": "334b756c7a7f99c65ff20025cc7d24e20595f949c7ebb49009d794c9f5e95ab4"
+	},
+	"chromas": []
+}

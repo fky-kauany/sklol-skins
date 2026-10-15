@@ -1,0 +1,26 @@
+{
+	"id": "t1-sett",
+	"name": "T1 Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "T1 Sett mod for default Sett skin. Skin includes custom VFX, SFX, Champion Icons/Loading Screen splash, Model and Texture.\r\n\r\nI like T1.\r\n\r\nPlease inform me if this mod breaks.\r\n\r\nDiscord: hyperizz_\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/96a1d136-3862-4263-bbc2-7f381fef28cb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/t1-sett/thumb.webp?v=d82c994b",
+	"file": {
+		"version": 1,
+		"asset": "t1-sett-v1.fantome",
+		"size": 46859146,
+		"sha256": "13869e278110a9ac3fb43ab84dd609aa708ed40e034da80d9d0b60ecc775a1cc"
+	},
+	"chromas": []
+}
