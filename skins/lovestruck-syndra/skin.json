@@ -1,0 +1,26 @@
+{
+	"id": "lovestruck-syndra",
+	"name": "Lovestruck Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Syndra\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Lovestruck Syndra\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/d78e43d2-72e1-4839-bfed-2565f307bbda\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lovestruck-syndra/thumb.webp?v=48cb76e5",
+	"file": {
+		"version": 1,
+		"asset": "lovestruck-syndra-v1.fantome",
+		"size": 22640336,
+		"sha256": "fce6c94b0c6a105a25242c88f386917f6c72d245f84464938b3b61dac8c3daa6"
+	},
+	"chromas": []
+}

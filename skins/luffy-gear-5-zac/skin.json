@@ -1,0 +1,26 @@
+{
+	"id": "luffy-gear-5-zac",
+	"name": "Luffy Gear 5 (Zac)",
+	"champion": 154,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Zac\n\nModified Skin: Default (no chromas!)\n\nAuthor: Sauronkaiser\n\nDescription: Luffy Gear 5 from the One Piece anime series.\n\nFeatures:\n\n-New model and textures.\n\n-New animations.\n\n-New sounds.\n\n-New voiceover\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-The most ridiculous power in the world.\n\nChangelog:\n\nThe original changelog was lost..!\n\n-Original version released around august 2023\n\n-Current version, 2.0.1, released 30 august 2025\n\nSources:\n\n-Animations made by me\n\n-Model made up by modifying a Luffy 3D model from a One piece game, before official Gear 5 models existed.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/7d95e41a-f3a7-4bd0-8b30-0f845aecd1da\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/luffy-gear-5-zac/thumb.webp?v=1acf1825",
+	"file": {
+		"version": 1,
+		"asset": "luffy-gear-5-zac-v1.fantome",
+		"size": 17732283,
+		"sha256": "62b269ca787054a08def423ac607e991fa52cfd8b08e4867b31330009e2c57d8"
+	},
+	"chromas": []
+}

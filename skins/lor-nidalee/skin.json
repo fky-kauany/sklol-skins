@@ -1,0 +1,25 @@
+{
+	"id": "lor-nidalee",
+	"name": "LoR Nidalee",
+	"champion": 76,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Nidalee with a custom model and texture after LoR's redesign.\n\nIt is a Nickyboi collaboration!\n\n## ABOUT THE MOD\n\n* This mod is created after Legends of Runeterra's redesign of Nidalee! Check out the original concept art here [https://www.artstation.com/artwork/Dvwmqo](https://www.artstation.com/artwork/Dvwmqo)\n* And if you'd like to check out Nidalee's model on my artstation, you can do so here as well: [https://www.artstation.com/artwork/8BbJlE](https://www.artstation.com/artwork/8BbJlE)\n\n## CREDITS\n\n* Concept Art: [Lisha Du](https://www.artstation.com/ishutani)\n* Splash Art: [Blade Byun](https://www.artstation.com/artwork/ao9Z6z)\n* Model, Texture, & VFX: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on Nidalee's model](https://www.artstation.com/artwork/8BbJlE) for a closer look.\n\nEnjoy!\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/414de9ee-15a7-4e89-a8aa-ae1165434ab3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lor-nidalee/thumb.webp?v=37a9ed5e",
+	"file": {
+		"version": 1,
+		"asset": "lor-nidalee-v1.fantome",
+		"size": 12287721,
+		"sha256": "d7d795d990ba2af0fef4489b595ca2c194eabe33d329863d4296e3d4c90477a7"
+	},
+	"chromas": []
+}

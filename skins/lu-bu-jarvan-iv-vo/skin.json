@@ -1,0 +1,23 @@
+{
+	"id": "lu-bu-jarvan-iv-vo",
+	"name": "Lu Bu Jarvan IV + VO",
+	"champion": 59,
+	"base": 0,
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\r\n##\r\n\r\n**Champion**: Jarvan IV / J4\r\n\r\n**Modified skin**: Default / Base\r\n\r\n**Author**: Zamius\r\n\r\n**Description**: Since Riot couldn’t make the Dynasty Warriors-series Lu Bu a real skin, I made it myself for all Lu Bu’s fans (like me).\r\n\r\n##\r\n\r\n**FEATURES**\r\n- New model and texture\r\n- Supports all champion texture quality settings\r\n- Modified loadingscreen\r\n- Modified in-game champion icon\r\n- New voiceover (Lu Bu Jarvan IV VO, optional)\r\n\r\n**CREDITS**\r\n- **mojkqueira** for finishing the model in Maya\r\n- **Aropatnik** for helping with final adjustments in the modeling\r\n- **CptAJR** for the original 3D model files\r\n\r\n##\r\n\r\n> *“Can anybody provide me a decent challenge?!“* -Lu bu\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/93cf231f-f2dd-4157-b56e-9ef971de2d84\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lu-bu-jarvan-iv-vo/thumb.webp?v=65046c49",
+	"file": {
+		"version": 1,
+		"asset": "lu-bu-jarvan-iv-vo-v1.fantome",
+		"size": 2040835,
+		"sha256": "68ba227cdaa0e2a0943a8e3a175459cc6fca99a4e6c2e2dbaea3627f584c50b0"
+	},
+	"chromas": []
+}

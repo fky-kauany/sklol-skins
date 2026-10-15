@@ -1,0 +1,24 @@
+{
+	"id": "love-sworn-garen",
+	"name": "Love Sworn Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "#### Overview:\r\n\r\n* Skins Modified: Base\r\n* Note: Bro gets white as FUCK on his recall, not rly sure why, but yeh, might be annoynig lol, otherwise heater skin.\r\n\r\n#### Mod information:\r\n\r\n* Author: RaYy\r\n* Recovery: Moga\r\n* Mod Version: 16.3.1.2\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/e59c14d2-3966-48da-a59b-e3ff2b5743db\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/love-sworn-garen/thumb.webp?v=3ed31d2d",
+	"file": {
+		"version": 1,
+		"asset": "love-sworn-garen-v1.fantome",
+		"size": 3167244,
+		"sha256": "9aadda2a6d84dcb8c1477bc8155d41b182b1612c5f0fa21c49c91b8a55fade51"
+	},
+	"chromas": []
+}

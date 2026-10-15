@@ -1,0 +1,25 @@
+{
+	"id": "lucy-nilah",
+	"name": "Lucy Nilah",
+	"champion": 895,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/d4044323-3dad-46d4-826c-6668beb1c72c\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lucy-nilah/thumb.webp?v=b932f933",
+	"file": {
+		"version": 1,
+		"asset": "lucy-nilah-v1.fantome",
+		"size": 39835843,
+		"sha256": "ef8fdc395efee1315a7c6da271022b201af0b435778c2b8344132ca3af2a37a2"
+	},
+	"chromas": []
+}

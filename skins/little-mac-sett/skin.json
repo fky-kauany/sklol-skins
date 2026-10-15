@@ -1,0 +1,26 @@
+{
+	"id": "little-mac-sett",
+	"name": "Little Mac - Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "igorcode",
+	"description": "Base Champion: Sett\n\nModified Skin: Default\n\nAuthor: Igorcode\n\nModel by: [Centrixe the Dodo](https://models.spriters-resource.com/nintendo_switch/supersmashbrosultimate/asset/314032/), extracted from Super Smash Bros. Ultimate\n\nFeatures:\n\n- New Model.\n- New ability and buff icons.\n- Fully charged \"W\" ability's sound and model animation changed to resemble Mac's iconic \"KO Uppercut\" move.\n\n---\n\n**Created by** [igorcode](https://runeforge.dev/users/igorcode)\n\n**Original:** https://runeforge.dev/mods/481af14a-17c4-4055-9a58-2b48583f19a9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/little-mac-sett/thumb.webp?v=2ab760d6",
+	"file": {
+		"version": 1,
+		"asset": "little-mac-sett-v1.fantome",
+		"size": 1933926,
+		"sha256": "3d8e4c7ed07966750631a27521dcc2d96b945d315ef9d89e0a75770c9e0946bb"
+	},
+	"chromas": []
+}

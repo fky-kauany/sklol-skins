@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:21:38.066Z",
+	"generatedAt": "2026-10-15T11:24:54.978Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -715,6 +715,13 @@
 			"avatar": "creators/icebreaker.jpg?v=1a4832da",
 			"links": {
 				"site": "https://sketchfab.com/3d-models/blunt-88ebacfc95c0442691d8590225421ee2"
+			}
+		},
+		"igorcode": {
+			"name": "igorcode",
+			"avatar": "creators/igorcode.jpg?v=c8b6b5c1",
+			"links": {
+				"site": "https://models.spriters-resource.com/nintendo_switch/supersmashbrosultimate/asset/314032/"
 			}
 		},
 		"ikiryou": {
@@ -19632,6 +19639,256 @@
 				"asset": "linux-xerath-v1.fantome",
 				"size": 878165,
 				"sha256": "1be5e1a16dfb6dba9b2f42424c3cb1d4536947cdcef379019cb97a73d62b972d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "little-mac-sett",
+			"name": "Little Mac - Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "igorcode",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/little-mac-sett/thumb.webp?v=2ab760d6",
+			"file": {
+				"version": 1,
+				"asset": "little-mac-sett-v1.fantome",
+				"size": 1933926,
+				"sha256": "3d8e4c7ed07966750631a27521dcc2d96b945d315ef9d89e0a75770c9e0946bb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lor-nidalee",
+			"name": "LoR Nidalee",
+			"champion": 76,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lor-nidalee/thumb.webp?v=37a9ed5e",
+			"file": {
+				"version": 1,
+				"asset": "lor-nidalee-v1.fantome",
+				"size": 12287721,
+				"sha256": "d7d795d990ba2af0fef4489b595ca2c194eabe33d329863d4296e3d4c90477a7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "love-sworn-garen",
+			"name": "Love Sworn Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/love-sworn-garen/thumb.webp?v=3ed31d2d",
+			"file": {
+				"version": 1,
+				"asset": "love-sworn-garen-v1.fantome",
+				"size": 3167244,
+				"sha256": "9aadda2a6d84dcb8c1477bc8155d41b182b1612c5f0fa21c49c91b8a55fade51"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lovestruck-syndra",
+			"name": "Lovestruck Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lovestruck-syndra/thumb.webp?v=48cb76e5",
+			"file": {
+				"version": 1,
+				"asset": "lovestruck-syndra-v1.fantome",
+				"size": 22640336,
+				"sha256": "fce6c94b0c6a105a25242c88f386917f6c72d245f84464938b3b61dac8c3daa6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lovestruck-zed",
+			"name": "Lovestruck Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lovestruck-zed/thumb.webp?v=d4a077d2",
+			"file": {
+				"version": 1,
+				"asset": "lovestruck-zed-v1.fantome",
+				"size": 16500426,
+				"sha256": "62e91a179c1186435fe5d42405f508ee83015cc2920b70662dcde13fcd811a0e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lu-bu-jarvan-iv-vo",
+			"name": "Lu Bu Jarvan IV + VO",
+			"champion": 59,
+			"base": 0,
+			"creator": "zamius",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lu-bu-jarvan-iv-vo/thumb.webp?v=65046c49",
+			"file": {
+				"version": 1,
+				"asset": "lu-bu-jarvan-iv-vo-v1.fantome",
+				"size": 2040835,
+				"sha256": "68ba227cdaa0e2a0943a8e3a175459cc6fca99a4e6c2e2dbaea3627f584c50b0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucy-nilah",
+			"name": "Lucy Nilah",
+			"champion": 895,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lucy-nilah/thumb.webp?v=b932f933",
+			"file": {
+				"version": 1,
+				"asset": "lucy-nilah-v1.fantome",
+				"size": 39835843,
+				"sha256": "ef8fdc395efee1315a7c6da271022b201af0b435778c2b8344132ca3af2a37a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lucy-samira",
+			"name": "Lucy Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lucy-samira/thumb.webp?v=044eefef",
+			"file": {
+				"version": 1,
+				"asset": "lucy-samira-v1.fantome",
+				"size": 93256594,
+				"sha256": "1de97f3d210e961e6e7bc7b1d0aa585ac7295e3f2a2d7f28171040f286338dc7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "luffy-gear-5-zac",
+			"name": "Luffy Gear 5 (Zac)",
+			"champion": 154,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/luffy-gear-5-zac/thumb.webp?v=1acf1825",
+			"file": {
+				"version": 1,
+				"asset": "luffy-gear-5-zac-v1.fantome",
+				"size": 17732283,
+				"sha256": "62b269ca787054a08def423ac607e991fa52cfd8b08e4867b31330009e2c57d8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "luigi-cosplay-ekko",
+			"name": "Luigi Cosplay Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/luigi-cosplay-ekko/thumb.webp?v=1dd7d203",
+			"file": {
+				"version": 1,
+				"asset": "luigi-cosplay-ekko-v1.fantome",
+				"size": 7089635,
+				"sha256": "aa68f2b7b8d92809662ec2cd01c66e9d1a219ca79a1fbe8c376da9f86a5616ab"
 			},
 			"chromas": []
 		},

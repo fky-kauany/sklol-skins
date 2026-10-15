@@ -1,0 +1,25 @@
+{
+	"id": "lovestruck-zed",
+	"name": "Lovestruck Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Zed\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: Lovestruck Zed\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/65fec58b-3681-4433-bc0a-c2c69bb93f6a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lovestruck-zed/thumb.webp?v=d4a077d2",
+	"file": {
+		"version": 1,
+		"asset": "lovestruck-zed-v1.fantome",
+		"size": 16500426,
+		"sha256": "62e91a179c1186435fe5d42405f508ee83015cc2920b70662dcde13fcd811a0e"
+	},
+	"chromas": []
+}

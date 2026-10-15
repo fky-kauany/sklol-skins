@@ -1,0 +1,26 @@
+{
+	"id": "luigi-cosplay-ekko",
+	"name": "Luigi Cosplay Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Ekko\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Luigi Cosplay Ekko\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/c73a1c24-1b0b-48ab-8ea8-5eb710dd93e7\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/luigi-cosplay-ekko/thumb.webp?v=1dd7d203",
+	"file": {
+		"version": 1,
+		"asset": "luigi-cosplay-ekko-v1.fantome",
+		"size": 7089635,
+		"sha256": "aa68f2b7b8d92809662ec2cd01c66e9d1a219ca79a1fbe8c376da9f86a5616ab"
+	},
+	"chromas": []
+}
