@@ -1,0 +1,27 @@
+{
+	"id": "saiba-momoi-maid-trundle",
+	"name": "Saiba Momoi (Maid) Trundle",
+	"champion": 48,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Trundle\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Trundle with Saiba Maidmoi from Blue Archive\r\n\r\nモモイちゃんのたまごっちぺろぺろしたい。。。ぺろぺろぺろぺろ\r\nニヤニヤどこ？\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations\r\n* Edited ability sounds\r\n* New voiceover\r\n\r\n### Credits\r\n* Model from Blue Archive\r\n* Particle effects, textures from Blue Archive\r\n* Visual assets from Blue Archive CGs\r\n* Voiceover from Blue Archive\r\n* W background music Pixel Time from Blue Archive\r\n* Dance background music わたしたちのクエスト from Blue Archive\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/eed5636b-c680-4871-bc96-1ddf43d5ed96\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/saiba-momoi-maid-trundle/thumb.webp?v=b88c4f2c",
+	"file": {
+		"version": 1,
+		"asset": "saiba-momoi-maid-trundle-v1.fantome",
+		"size": 9654276,
+		"sha256": "e4b0e1bafb97e23d9e224ea3e9c55af1e3de861d5063b583d5c5b461d8c38541"
+	},
+	"chromas": []
+}

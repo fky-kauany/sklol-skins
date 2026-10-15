@@ -1,0 +1,26 @@
+{
+	"id": "rubric-marine-garen",
+	"name": "Rubric Marine Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "totalgriller",
+	"description": "Garen as a Thousand Sons Rubric Marine from Warhammer40k. The model is from Space Marine 2.\n\n---\n\n**Created by** [TotalGriller](https://runeforge.dev/users/TotalGriller)\n\n**Original:** https://runeforge.dev/mods/3abb5962-18e5-47a2-8a1d-8ce9016454e4\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rubric-marine-garen/thumb.webp?v=0248812c",
+	"file": {
+		"version": 1,
+		"asset": "rubric-marine-garen-v1.fantome",
+		"size": 10036389,
+		"sha256": "6e047a21863834a3ebab305562b57e6a0918b690bfe3ac4f47b9617e6755ff9e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "royal-ambessa",
+	"name": "Royal Ambessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Ambessa Skin.\r\n\r\nAffects: Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Ambessa Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/c6b2da0c-40db-47d6-ae50-540de0c7a6b8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/royal-ambessa/thumb.webp?v=5a7f6d98",
+	"file": {
+		"version": 1,
+		"asset": "royal-ambessa-v1.fantome",
+		"size": 5320006,
+		"sha256": "f39602a5b9b288395f6614e5401bd0a57dcbc4b377e00b724f63f5809a34f455"
+	},
+	"chromas": []
+}

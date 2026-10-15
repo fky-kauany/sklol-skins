@@ -1,0 +1,26 @@
+{
+	"id": "saiba-momoi-maid-trundle-blue-archive",
+	"name": "Saiba Momoi (Maid) Trundle (Blue Archive)",
+	"champion": 48,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "# Skin Info:\r\n\r\nChampion : Trundle\r\n\r\n‎\r\n\r\nModified skin : Default\r\n\r\n‎\r\n\r\nOriginal Author : お兄ちゃんの苗床\r\n\r\n‎\r\n\r\nRecovered by: Yuumi\r\n\r\n‎\r\n\r\nMod version: 1.0.0\r\n\r\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\r\n\r\n‎\r\n\r\n‎\r\n\r\nIf it breaks or has problems contact me on discord: @fbsyuumi\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/876d8f59-7f88-4ba2-b825-27d9beddcaf0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/saiba-momoi-maid-trundle-blue-archive/thumb.webp?v=89db1eec",
+	"file": {
+		"version": 1,
+		"asset": "saiba-momoi-maid-trundle-blue-archive-v1.fantome",
+		"size": 7533148,
+		"sha256": "c02e4d5903e219e7623ba26671ca6b0b55342974514b02b162b050520002886d"
+	},
+	"chromas": []
+}

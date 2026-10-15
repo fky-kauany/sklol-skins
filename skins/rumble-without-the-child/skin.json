@@ -1,0 +1,22 @@
+{
+	"id": "rumble-without-the-child",
+	"name": "Rumble Without the Child",
+	"champion": 68,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Rumble**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/15c12d62-3bc7-462d-b5ad-29bb9405917c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rumble-without-the-child/thumb.webp?v=51adaab1",
+	"file": {
+		"version": 1,
+		"asset": "rumble-without-the-child-v1.fantome",
+		"size": 251055,
+		"sha256": "862e4b4e2c520295c50e65e09736972ff0a321a8309fa0a6fd2678eabd1c7e13"
+	},
+	"chromas": []
+}

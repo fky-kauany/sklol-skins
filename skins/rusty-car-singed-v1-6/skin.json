@@ -1,0 +1,26 @@
+{
+	"id": "rusty-car-singed-v1-6",
+	"name": "Rusty Car Singed V1.6",
+	"champion": 27,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "Champion: Singed\n\nSkins Replaced: Skin Base\n\nSounds Replaced: Sfx and Voice;\n\nGraphics Replaced: Splash Arts, Hud Icons and skill icons;\n\nVersion: V1.6 (07/07/2025)\n\nAuthor: Sirdy789\n\nCredits links:\n\nModel downloaded from the website:https://rigmodels.com/model.php?view=Old\\_Rusty\\_Car\\_(Remade)-3d-model\\_\\_UNN5R3NZ39KBAWDL0EA5ZFWDT\\&searchkeyword=rusty%20car\\&manualsearch=1#google\\_vignette, [https://rigmodels.com/model.php?view=Cartoon\\_Toy\\_AR\\_Racing\\_Car\\_03-3d-model\\_\\_029a919f4dd54401b976e2e9dfed6b48\\&searchkeyword=future%20car\\&manualsearch=1#google\\_vignette](https://rigmodels.com/model.php?view=Cartoon_Toy_AR_Racing_Car_03-3d-model__029a919f4dd54401b976e2e9dfed6b48\\&searchkeyword=future%20car\\&manualsearch=1#google_vignette)\n\nTools used: [https://go.overwolf.com/outplayed/](https://go.overwolf.com/outplayed/), [https://mokker.ai/](https://mokker.ai/), [https://letsenhance.io/](https://letsenhance.io/), [https://www.remove.bg/pt-br](https://www.remove.bg/pt-br),  [https://clipchamp.com/pt-br/video-editor/](https://clipchamp.com/pt-br/video-editor/), [https://www.gimp.org/](https://www.gimp.org/), [https://www.audacityteam.org/](https://www.audacityteam.org/), [https://www.audiokinetic.com/en/wwise/overview/](https://www.audiokinetic.com/en/wwise/overview/)\n\nSfx used: [https://www.youtube.com/watch?v=UcyEKFgDI4s](https://www.youtube.com/watch?v=UcyEKFgDI4s), [https://pixabay.com/sound-effects/search/diesel/](https://pixabay.com/sound-effects/search/diesel/), [https://pixabay.com/sound-effects/search/car-horn/](https://pixabay.com/sound-effects/search/car-horn/), [https://pixabay.com/sound-effects/search/la%20cucaracha/](https://pixabay.com/sound-effects/search/la%20cucaracha/)\n\nContact\n\n[sirdy789@gmail.com](mailto:sirdy789@gmail.com) Discord: Sirdy789\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/0af029d0-0768-4f27-9300-15064cfb8f11\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rusty-car-singed-v1-6/thumb.webp?v=9c874eb7",
+	"file": {
+		"version": 1,
+		"asset": "rusty-car-singed-v1-6-v1.fantome",
+		"size": 133156128,
+		"sha256": "85326ac04419ce59e6eddfb69c75dc95f9aff26f600a5fde72024b860b8155b8"
+	},
+	"chromas": []
+}

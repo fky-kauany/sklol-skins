@@ -1,0 +1,25 @@
+{
+	"id": "samira-k-da-all-out",
+	"name": "Samira K/DA ALL OUT",
+	"champion": 360,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "## Description:\n\n* Works on all skins.\n\n## Mod information:\n\n* Author: Ronni\n* Recovery: Moga\n* Mod Version: 15.14.1.3\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/3ad882d7-4ef4-4488-bd0f-cb490dcfa71d\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/samira-k-da-all-out/thumb.webp?v=dbc60e5e",
+	"file": {
+		"version": 1,
+		"asset": "samira-k-da-all-out-v1.fantome",
+		"size": 6009906,
+		"sha256": "d59b6af25a1e1dde638ce5b77299b4fbda4b8344e194c433906a3c1142e65fb7"
+	},
+	"chromas": []
+}

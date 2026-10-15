@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:03:04.384Z",
+	"generatedAt": "2026-10-15T13:06:17.771Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -28085,6 +28085,182 @@
 			"chromas": []
 		},
 		{
+			"id": "royal-ambessa",
+			"name": "Royal Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/royal-ambessa/thumb.webp?v=5a7f6d98",
+			"file": {
+				"version": 1,
+				"asset": "royal-ambessa-v1.fantome",
+				"size": 5320006,
+				"sha256": "f39602a5b9b288395f6614e5401bd0a57dcbc4b377e00b724f63f5809a34f455"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rubric-marine-garen",
+			"name": "Rubric Marine Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "totalgriller",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rubric-marine-garen/thumb.webp?v=0248812c",
+			"file": {
+				"version": 1,
+				"asset": "rubric-marine-garen-v1.fantome",
+				"size": 10036389,
+				"sha256": "6e047a21863834a3ebab305562b57e6a0918b690bfe3ac4f47b9617e6755ff9e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rumble-without-the-child",
+			"name": "Rumble Without the Child",
+			"champion": 68,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rumble-without-the-child/thumb.webp?v=51adaab1",
+			"file": {
+				"version": 1,
+				"asset": "rumble-without-the-child-v1.fantome",
+				"size": 251055,
+				"sha256": "862e4b4e2c520295c50e65e09736972ff0a321a8309fa0a6fd2678eabd1c7e13"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rusty-car-singed-v1-6",
+			"name": "Rusty Car Singed V1.6",
+			"champion": 27,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rusty-car-singed-v1-6/thumb.webp?v=9c874eb7",
+			"file": {
+				"version": 1,
+				"asset": "rusty-car-singed-v1-6-v1.fantome",
+				"size": 133156128,
+				"sha256": "85326ac04419ce59e6eddfb69c75dc95f9aff26f600a5fde72024b860b8155b8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ryze-grand-wizard-jayce",
+			"name": "Grand Wizard Jayce",
+			"champion": 13,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ryze-grand-wizard-jayce/thumb.webp?v=9d2e45b3",
+			"file": {
+				"version": 1,
+				"asset": "ryze-grand-wizard-jayce-v1.fantome",
+				"size": 14942973,
+				"sha256": "d6233c0f069dfb36c641553f37feb8c4efab68185a3e24239908c962ee24c1ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "saiba-momoi-maid-trundle",
+			"name": "Saiba Momoi (Maid) Trundle",
+			"champion": 48,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/saiba-momoi-maid-trundle/thumb.webp?v=b88c4f2c",
+			"file": {
+				"version": 1,
+				"asset": "saiba-momoi-maid-trundle-v1.fantome",
+				"size": 9654276,
+				"sha256": "e4b0e1bafb97e23d9e224ea3e9c55af1e3de861d5063b583d5c5b461d8c38541"
+			},
+			"chromas": []
+		},
+		{
+			"id": "saiba-momoi-maid-trundle-blue-archive",
+			"name": "Saiba Momoi (Maid) Trundle (Blue Archive)",
+			"champion": 48,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/saiba-momoi-maid-trundle-blue-archive/thumb.webp?v=89db1eec",
+			"file": {
+				"version": 1,
+				"asset": "saiba-momoi-maid-trundle-blue-archive-v1.fantome",
+				"size": 7533148,
+				"sha256": "c02e4d5903e219e7623ba26671ca6b0b55342974514b02b162b050520002886d"
+			},
+			"chromas": []
+		},
+		{
 			"id": "saitama-vi",
 			"name": "Saitama Vi",
 			"champion": 254,
@@ -28104,6 +28280,82 @@
 				"asset": "saitama-vi-v1.fantome",
 				"size": 1866009,
 				"sha256": "f95c6d5ffd4b4e0dee28e579e0abf5abe2e53c40b8f1264f4a536987f4c65267"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sakura-vi",
+			"name": "Sakura Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sakura-vi/thumb.webp?v=00062e94",
+			"file": {
+				"version": 1,
+				"asset": "sakura-vi-v1.fantome",
+				"size": 12515103,
+				"sha256": "2567151eae4082f0434ce9b14d5715c344a4653e2730d1946c767e723b9b6811"
+			},
+			"chromas": []
+		},
+		{
+			"id": "samira-k-da-all-out",
+			"name": "Samira K/DA ALL OUT",
+			"champion": 360,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/samira-k-da-all-out/thumb.webp?v=dbc60e5e",
+			"file": {
+				"version": 1,
+				"asset": "samira-k-da-all-out-v1.fantome",
+				"size": 6009906,
+				"sha256": "d59b6af25a1e1dde638ce5b77299b4fbda4b8344e194c433906a3c1142e65fb7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanrio-collection-katarina",
+			"name": "Sanrio Collection Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sanrio-collection-katarina/thumb.webp?v=94b8e9cd",
+			"file": {
+				"version": 1,
+				"asset": "sanrio-collection-katarina-v1.fantome",
+				"size": 13788493,
+				"sha256": "347843b40e76f0cd5c893e586efa9ce2cdb1107b71593eb5effff71b2fa9fcb4"
 			},
 			"chromas": []
 		},

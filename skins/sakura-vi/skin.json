@@ -1,0 +1,25 @@
+{
+	"id": "sakura-vi",
+	"name": "Sakura Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "matth",
+	"description": "---------------------------------------------VOICES---------------------------------------------------\r\n\r\nSkin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n____________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/4bfb2a89-9459-487d-b862-2f8af4c08b4c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sakura-vi/thumb.webp?v=00062e94",
+	"file": {
+		"version": 1,
+		"asset": "sakura-vi-v1.fantome",
+		"size": 12515103,
+		"sha256": "2567151eae4082f0434ce9b14d5715c344a4653e2730d1946c767e723b9b6811"
+	},
+	"chromas": []
+}
