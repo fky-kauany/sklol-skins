@@ -1,0 +1,23 @@
+{
+	"id": "god-king-garen-black-and-purple-chroma",
+	"name": "God king Garen black and purple Chroma",
+	"champion": 86,
+	"base": 0,
+	"creator": "sheogorath",
+	"description": "**Modified champion: Garen**\n\n**Modified skin: God king Garen**\n\n**Author: Sheogorath**\n\n---\n\n**Created by** [Sheogorath](https://runeforge.dev/users/Sheogorath)\n\n**Original:** https://runeforge.dev/mods/f57c2056-db14-45ef-8668-342e1da4c3e4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/god-king-garen-black-and-purple-chroma/thumb.webp?v=d955a0a9",
+	"file": {
+		"version": 1,
+		"asset": "god-king-garen-black-and-purple-chroma-v1.fantome",
+		"size": 967038,
+		"sha256": "994059faa32a92a75d012813da39e4ae971b726edec78e5356bc5a18cfb288a6"
+	},
+	"chromas": []
+}

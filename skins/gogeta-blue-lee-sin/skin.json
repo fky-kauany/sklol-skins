@@ -1,0 +1,26 @@
+{
+	"id": "gogeta-blue-lee-sin",
+	"name": "Gogeta Blue (Lee Sin)",
+	"champion": 64,
+	"base": 0,
+	"creator": "instinct",
+	"description": "* Gogeta Blue over Base Lee Sin Mod\r\n* Model and Voicelines from Dragon Ball Sparking Zero\r\n\r\n\r\n\r\nDiscord: instinct7753\r\n\r\nPlease message me if you find the mod is glitched or broken! Thank you!\n\n---\n\n**Created by** [Instinct](https://runeforge.dev/users/Instinct)\n\n**Original:** https://runeforge.dev/mods/b2974965-ef0d-4900-88db-84bfb9dae03f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gogeta-blue-lee-sin/thumb.webp?v=5f882ff3",
+	"file": {
+		"version": 1,
+		"asset": "gogeta-blue-lee-sin-v1.fantome",
+		"size": 8258057,
+		"sha256": "130e22f2263c2704ed38347d65f0f3db5f04fa52acdb6f388d7875e67c7cf655"
+	},
+	"chromas": []
+}

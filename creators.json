@@ -117,6 +117,13 @@
 			"youtube": "https://www.youtube.com/@Antton_Creator"
 		}
 	},
+	"aphell": {
+		"name": "Aphell",
+		"avatar": "creators/aphell.jpg?v=35823fd2",
+		"links": {
+			"youtube": "https://youtu.be/dd0cReDc4EI"
+		}
+	},
 	"aphex": {
 		"name": "Aphex",
 		"avatar": "creators/aphex.webp?v=f8ff7ffa",
@@ -681,6 +688,14 @@
 		"name": "inaba24",
 		"avatar": "creators/inaba24.png?v=b6be4137",
 		"links": {}
+	},
+	"instinct": {
+		"name": "Instinct",
+		"avatar": "creators/instinct.png?v=6fe9a43a",
+		"bio": "Yo! I do Dragon Ball Mods\n\n\nDiscord:  instinct7753\n\n\nYoutube: https://youtube.com/@instinct2259?si=xz-qXpXK_qLD6QjN\n\n(I've got other mods not here on my channel, so go check it out!)",
+		"links": {
+			"youtube": "https://youtu.be/bBOfiR7m6BE"
+		}
 	},
 	"istolehappymealfromkids": {
 		"name": "istolehappymealfromkids",

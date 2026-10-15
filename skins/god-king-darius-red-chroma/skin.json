@@ -1,0 +1,23 @@
+{
+	"id": "god-king-darius-red-chroma",
+	"name": "God-King Darius Red Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: God-King Darius\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/b8a8b736-149b-41c4-bf3b-cbacdb080b5b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/god-king-darius-red-chroma/thumb.webp?v=d0360e84",
+	"file": {
+		"version": 1,
+		"asset": "god-king-darius-red-chroma-v1.fantome",
+		"size": 1253168,
+		"sha256": "910217900739e7a0f17128ba7a9b637c1adc2ab00e38003265f7595cbb4e627d"
+	},
+	"chromas": []
+}

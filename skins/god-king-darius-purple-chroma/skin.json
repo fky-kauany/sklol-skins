@@ -1,0 +1,23 @@
+{
+	"id": "god-king-darius-purple-chroma",
+	"name": "God King Darius Purple Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: God-King Darius\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/758ce8b5-a2b7-4982-bc1a-4a419035bf33\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/god-king-darius-purple-chroma/thumb.webp?v=72e9510b",
+	"file": {
+		"version": 1,
+		"asset": "god-king-darius-purple-chroma-v1.fantome",
+		"size": 1303601,
+		"sha256": "d4f561c338b7823692ec47eb74425413c40cd1a7f76ef9ea775ed455ad48f98c"
+	},
+	"chromas": []
+}

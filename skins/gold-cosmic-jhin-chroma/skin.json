@@ -1,0 +1,22 @@
+{
+	"id": "gold-cosmic-jhin-chroma",
+	"name": "Gold Cosmic Jhin Chroma",
+	"champion": 202,
+	"base": 5,
+	"creator": "aphell",
+	"description": "Champion : Jhin\n\n\n\nSkin : dark cosmic Jhin\n\n\n\nA golden dark cosmic Jhin chroma to prove that you don't need 200$ for a mere chroma.\n\n---\n\n**Created by** [Aphell](https://runeforge.dev/users/Aphell)\n\n**Original:** https://runeforge.dev/mods/5f877107-1735-465e-a413-b1d1bd792825\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gold-cosmic-jhin-chroma/thumb.webp?v=fbca476c",
+	"file": {
+		"version": 1,
+		"asset": "gold-cosmic-jhin-chroma-v1.fantome",
+		"size": 1084326,
+		"sha256": "5667b51d84fa73941d54738ca19ce4a9f0d656a8fcc7effa30f6328a2de1259a"
+	},
+	"chromas": []
+}

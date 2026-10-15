@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:40:44.827Z",
+	"generatedAt": "2026-10-15T09:44:07.834Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -118,6 +118,13 @@
 				"kofi": "https://ko-fi.com/antton_creator",
 				"tiktok": "https://www.tiktok.com/@antton_lol",
 				"youtube": "https://www.youtube.com/@Antton_Creator"
+			}
+		},
+		"aphell": {
+			"name": "Aphell",
+			"avatar": "creators/aphell.jpg?v=35823fd2",
+			"links": {
+				"youtube": "https://youtu.be/dd0cReDc4EI"
 			}
 		},
 		"aphex": {
@@ -684,6 +691,14 @@
 			"name": "inaba24",
 			"avatar": "creators/inaba24.png?v=b6be4137",
 			"links": {}
+		},
+		"instinct": {
+			"name": "Instinct",
+			"avatar": "creators/instinct.png?v=6fe9a43a",
+			"bio": "Yo! I do Dragon Ball Mods\n\n\nDiscord:  instinct7753\n\n\nYoutube: https://youtube.com/@instinct2259?si=xz-qXpXK_qLD6QjN\n\n(I've got other mods not here on my channel, so go check it out!)",
+			"links": {
+				"youtube": "https://youtu.be/bBOfiR7m6BE"
+			}
 		},
 		"istolehappymealfromkids": {
 			"name": "istolehappymealfromkids",
@@ -11374,6 +11389,241 @@
 				"asset": "god-king-darius-black-white-chroma-v1.fantome",
 				"size": 1417376,
 				"sha256": "a121daad25f5595b2724953cf981007d7ca42edb3ebcecb92a30c74913170fd2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "god-king-darius-green-chroma",
+			"name": "God-King Darius Green Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/god-king-darius-green-chroma/thumb.webp?v=ec09ac5c",
+			"file": {
+				"version": 1,
+				"asset": "god-king-darius-green-chroma-v1.fantome",
+				"size": 1184129,
+				"sha256": "9bcc4117940ab2ab92480fc246b786f6daefa8f1f1ca9c0e09bf247490ffcfa7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "god-king-darius-purple-chroma",
+			"name": "God King Darius Purple Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/god-king-darius-purple-chroma/thumb.webp?v=72e9510b",
+			"file": {
+				"version": 1,
+				"asset": "god-king-darius-purple-chroma-v1.fantome",
+				"size": 1303601,
+				"sha256": "d4f561c338b7823692ec47eb74425413c40cd1a7f76ef9ea775ed455ad48f98c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "god-king-darius-red-chroma",
+			"name": "God-King Darius Red Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/god-king-darius-red-chroma/thumb.webp?v=d0360e84",
+			"file": {
+				"version": 1,
+				"asset": "god-king-darius-red-chroma-v1.fantome",
+				"size": 1253168,
+				"sha256": "910217900739e7a0f17128ba7a9b637c1adc2ab00e38003265f7595cbb4e627d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "god-king-garen-black-and-purple-chroma",
+			"name": "God king Garen black and purple Chroma",
+			"champion": 86,
+			"base": 0,
+			"creator": "sheogorath",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/god-king-garen-black-and-purple-chroma/thumb.webp?v=d955a0a9",
+			"file": {
+				"version": 1,
+				"asset": "god-king-garen-black-and-purple-chroma-v1.fantome",
+				"size": 967038,
+				"sha256": "994059faa32a92a75d012813da39e4ae971b726edec78e5356bc5a18cfb288a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "godking-garen-black-red-chroma",
+			"name": "GodKing Garen Black Red Chroma",
+			"champion": 86,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/godking-garen-black-red-chroma/thumb.webp?v=755e3745",
+			"file": {
+				"version": 1,
+				"asset": "godking-garen-black-red-chroma-v1.fantome",
+				"size": 1499466,
+				"sha256": "0f7106cba18692f723fe841b6cc47c50d33ee51826590f3404417feb5752efd7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "godking-garen-white-red-chroma",
+			"name": "GodKing Garen White Red Chroma",
+			"champion": 86,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/godking-garen-white-red-chroma/thumb.webp?v=87222f2f",
+			"file": {
+				"version": 1,
+				"asset": "godking-garen-white-red-chroma-v1.fantome",
+				"size": 1578807,
+				"sha256": "5c02ab106e3408e85ee0f99a0b0d69b1f78a8bb3f883ddf860bdd361c5d12b5b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gogeta-blue-lee-sin",
+			"name": "Gogeta Blue (Lee Sin)",
+			"champion": 64,
+			"base": 0,
+			"creator": "instinct",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gogeta-blue-lee-sin/thumb.webp?v=5f882ff3",
+			"file": {
+				"version": 1,
+				"asset": "gogeta-blue-lee-sin-v1.fantome",
+				"size": 8258057,
+				"sha256": "130e22f2263c2704ed38347d65f0f3db5f04fa52acdb6f388d7875e67c7cf655"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goku-nasus-dragon-ball-super",
+			"name": "Goku Nasus Dragon Ball Super",
+			"champion": 75,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goku-nasus-dragon-ball-super/thumb.webp?v=da4d770d",
+			"file": {
+				"version": 1,
+				"asset": "goku-nasus-dragon-ball-super-v1.fantome",
+				"size": 306069817,
+				"sha256": "ef8280fb08444a10c4b95bcea8def112f4bd9880162971a12221326227895653"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gold-black-gwen",
+			"name": "Gold/Black Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gold-black-gwen/thumb.webp?v=96873763",
+			"file": {
+				"version": 1,
+				"asset": "gold-black-gwen-v1.fantome",
+				"size": 4931027,
+				"sha256": "9f49a6fa5960aaf027e772bc13674d11dce0f1484b19d3f4bd485238f43cfca1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gold-cosmic-jhin-chroma",
+			"name": "Gold Cosmic Jhin Chroma",
+			"champion": 202,
+			"base": 5,
+			"creator": "aphell",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gold-cosmic-jhin-chroma/thumb.webp?v=fbca476c",
+			"file": {
+				"version": 1,
+				"asset": "gold-cosmic-jhin-chroma-v1.fantome",
+				"size": 1084326,
+				"sha256": "5667b51d84fa73941d54738ca19ce4a9f0d656a8fcc7effa30f6328a2de1259a"
 			},
 			"chromas": []
 		},

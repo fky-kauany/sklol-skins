@@ -1,0 +1,23 @@
+{
+	"id": "god-king-darius-green-chroma",
+	"name": "God-King Darius Green Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: God-King Darius\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/2e023888-8095-4422-bdff-de5c9605b2be\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/god-king-darius-green-chroma/thumb.webp?v=ec09ac5c",
+	"file": {
+		"version": 1,
+		"asset": "god-king-darius-green-chroma-v1.fantome",
+		"size": 1184129,
+		"sha256": "9bcc4117940ab2ab92480fc246b786f6daefa8f1f1ca9c0e09bf247490ffcfa7"
+	},
+	"chromas": []
+}

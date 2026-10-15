@@ -1,0 +1,23 @@
+{
+	"id": "godking-garen-black-red-chroma",
+	"name": "GodKing Garen Black Red Chroma",
+	"champion": 86,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : GodKing Garen Black Red\r\n\r\nSkin modified : GodKing Garen\r\n\r\nAuthor : Dempsey20\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/e9fa9890-823c-433b-a7c2-4147eb0d76ad\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/godking-garen-black-red-chroma/thumb.webp?v=755e3745",
+	"file": {
+		"version": 1,
+		"asset": "godking-garen-black-red-chroma-v1.fantome",
+		"size": 1499466,
+		"sha256": "0f7106cba18692f723fe841b6cc47c50d33ee51826590f3404417feb5752efd7"
+	},
+	"chromas": []
+}

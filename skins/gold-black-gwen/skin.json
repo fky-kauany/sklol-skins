@@ -1,0 +1,23 @@
+{
+	"id": "gold-black-gwen",
+	"name": "Gold/Black Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Gwen Skin.\r\n\r\nAffects: Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Gwen Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/4f562a74-aa30-4daf-8716-9642969aa102\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gold-black-gwen/thumb.webp?v=96873763",
+	"file": {
+		"version": 1,
+		"asset": "gold-black-gwen-v1.fantome",
+		"size": 4931027,
+		"sha256": "9f49a6fa5960aaf027e772bc13674d11dce0f1484b19d3f4bd485238f43cfca1"
+	},
+	"chromas": []
+}

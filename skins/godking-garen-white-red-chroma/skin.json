@@ -1,0 +1,23 @@
+{
+	"id": "godking-garen-white-red-chroma",
+	"name": "GodKing Garen White Red Chroma",
+	"champion": 86,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : GodKing Garen White Red\r\n\r\nSkin modified : GodKing Garen\r\n\r\nAuthor : Dempsey20\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/e130cde8-03fd-405f-bd32-db719d6b9b5e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/godking-garen-white-red-chroma/thumb.webp?v=87222f2f",
+	"file": {
+		"version": 1,
+		"asset": "godking-garen-white-red-chroma-v1.fantome",
+		"size": 1578807,
+		"sha256": "5c02ab106e3408e85ee0f99a0b0d69b1f78a8bb3f883ddf860bdd361c5d12b5b"
+	},
+	"chromas": []
+}

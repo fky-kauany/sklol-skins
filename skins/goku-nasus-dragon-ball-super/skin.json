@@ -1,0 +1,26 @@
+{
+	"id": "goku-nasus-dragon-ball-super",
+	"name": "Goku Nasus Dragon Ball Super",
+	"champion": 75,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "**[MOD INFO:]**\n\nChampion: Nasus (Base)\n\nVersion: 1.0\n\nAuthor: Sirdy\n\nChanges: Texture, Animations, Sfxs and Vfxs, VO, Icon and Loadscreen.\n\nVoice Languages: PT-BR, EN US. (Some voice lines were created using AI.)\n\n**[Description:]**\n\nNumber of stacks of the Siphoning Strike (Q) skill required for each transformation:\n\n| SSJ01 = 150\n\n| SSJ03 = 300\n\n| SSJ04 (DAIMA) = 450\n\n| SSJ GOD = 590\n\n| SSJ BLUE = 690\n\n| MUI = 1000\n\nManual Transformation Version -> Transform using /Taunt or Ctrl+2 when reaching the required number of Stacks for each form.\n\nAutomatic Transformation Version -> Transforms automatically when there are enough Stacks for each form; cannot be canceled. For each odd death (\"0/1, 0/3\"), receives an angel's halo; works correctly only in the automatic version.\n\n**[CREDITS:]**\n\n**MODELS:**\n\nhttps://models.spriters-resource.com/psp/dragonballzshinbudokaianotherroad/asset/308040/\n\nhttps://www.deviantart.com/nekopixil/art/FBX-Goku-SS-DB-Sparking-ZERO-3D-Model-DL-1111662896\n\nhttps://models.spriters-resource.com/psp/dragonballzshinbudokaianotherroad/asset/308041/\n\nhttps://sketchfab.com/3d-models/super-saiyan-4-goku-dragon-ball-daima-6cd3ad16ab3a4c23a597f66f2dcd90c6\n\n**MUSICS:**\n\nhttps://youtu.be/Lm9LO-tS6CM?si=9s_XyyKCnMh9WZBm - Z theme Cover | Kfir Ochaion\n\nhttps://www.youtube.com/watch?v=xQdokH7ApZE - Gt Theme Cover\n\n---------------------------------------------------------------\n\nhttps://youtu.be/1TLRmiKwZ3o?si=A3nhGBUg8k74jB8v - Super Theme\n\n**VOICE:**\n\nFish Audio Ai | Wendel Bezerra (pt-br) ->\nhttps://fish.audio/pt/m/08b7b75f610245beb865df67c822253c/\n\nSean Schemmel (en-us) ->\nhttps://fish.audio/pt/app/m/6c8645b95abb44e0b9095ae3b241e4cc/\n\n---------------\n\nDragon Ball Z: Budokai Tenkaichi 3 ->\nhttps://sounds.spriters-resource.com/playstation_2/dragonballzbudokaitenkaichi3/asset/425476/\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/5cdcbc27-915a-4518-b2aa-fc82bdfb58fd\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/goku-nasus-dragon-ball-super/thumb.webp?v=da4d770d",
+	"file": {
+		"version": 1,
+		"asset": "goku-nasus-dragon-ball-super-v1.fantome",
+		"size": 306069817,
+		"sha256": "ef8280fb08444a10c4b95bcea8def112f4bd9880162971a12221326227895653"
+	},
+	"chromas": []
+}
