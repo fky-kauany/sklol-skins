@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:37:53.550Z",
+	"generatedAt": "2026-10-15T08:41:03.846Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -6070,6 +6070,183 @@
 			"chromas": []
 		},
 		{
+			"id": "cottontail-lillia-wr-port",
+			"name": "Cottontail Lillia WR port",
+			"champion": 876,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cottontail-lillia-wr-port/thumb.webp?v=900cb9aa",
+			"file": {
+				"version": 1,
+				"asset": "cottontail-lillia-wr-port-v1.fantome",
+				"size": 2067203,
+				"sha256": "aaaba5293b266bed98f4c00959a563dd7bbfa15ee9e463748750b65b01d0ddd2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-diana",
+			"name": "Coven Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/coven-diana/thumb.webp?v=198338bb",
+			"file": {
+				"version": 1,
+				"asset": "coven-diana-v1.fantome",
+				"size": 49803960,
+				"sha256": "f1f901a64dc68b9deed6eb99fec25850a27b3ec20e711dbd8f22748fce7999aa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-lux",
+			"name": "Coven Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/coven-lux/thumb.webp?v=49125e57",
+			"file": {
+				"version": 1,
+				"asset": "coven-lux-v1.fantome",
+				"size": 22927163,
+				"sha256": "cbe446218e9c89a1efe357788695afbc161e0493dc0d0ed8f9743a55e08d9368"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-mel",
+			"name": "Coven Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/coven-mel/thumb.webp?v=5d31a362",
+			"file": {
+				"version": 1,
+				"asset": "coven-mel-v1.fantome",
+				"size": 22951626,
+				"sha256": "81423fbe09c4bc589ea8c02725abfa77558226e2c1198d50563dfae9adb1bfa9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-miss-fortune",
+			"name": "Coven Miss Fortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/coven-miss-fortune/thumb.webp?v=49df58a6",
+			"file": {
+				"version": 1,
+				"asset": "coven-miss-fortune-v1.fantome",
+				"size": 7402319,
+				"sha256": "7e72502873035f74227368f21c9c6745d5f0d584852ce3ff1842ffb4818a0680"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-qiyana-asu",
+			"name": "Coven Qiyana ASU",
+			"champion": 246,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/coven-qiyana-asu/thumb.webp?v=5c2ab8e7",
+			"file": {
+				"version": 1,
+				"asset": "coven-qiyana-asu-v1.fantome",
+				"size": 14507435,
+				"sha256": "9e665e6a0300124163cd766b81f5cc38559e3b708275bc32a75666269ac1ee13"
+			},
+			"chromas": []
+		},
+		{
+			"id": "coven-taliyah",
+			"name": "Coven Taliyah",
+			"champion": 163,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/coven-taliyah/thumb.webp?v=6a88b9a9",
+			"file": {
+				"version": 1,
+				"asset": "coven-taliyah-v1.fantome",
+				"size": 6829165,
+				"sha256": "aa4049abd014ebd166424d40abf852e8e53de7ef0e32dc52d229c83fef8a1e82"
+			},
+			"chromas": []
+		},
+		{
 			"id": "crash-bandicoot-garen",
 			"name": "Crash Bandicoot (Garen)",
 			"champion": 86,
@@ -6092,6 +6269,81 @@
 				"asset": "crash-bandicoot-garen-v1.fantome",
 				"size": 19026368,
 				"sha256": "55e8f069a6a8316ab1c65e10667c2134355e77de3f0702df07408c6022c7ef21"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crime-city-katarina",
+			"name": "Crime City Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crime-city-katarina/thumb.webp?v=04aa887c",
+			"file": {
+				"version": 1,
+				"asset": "crime-city-katarina-v1.fantome",
+				"size": 6957039,
+				"sha256": "7aaf6cd7feb01996231fc537dfb58dd57f951e511f81dabdd11ef46310d519fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crime-city-nightmare-darius-black-chroma",
+			"name": "Crime City Nightmare Darius Black Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crime-city-nightmare-darius-black-chroma/thumb.webp?v=a19ac363",
+			"file": {
+				"version": 1,
+				"asset": "crime-city-nightmare-darius-black-chroma-v1.fantome",
+				"size": 950848,
+				"sha256": "e748eceb2e8f9c6f7dbb690d8c931727592785e4b083e543d4fdf95c4dbc83ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crime-city-senna",
+			"name": "Crime City Senna",
+			"champion": 235,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crime-city-senna/thumb.webp?v=c70a9c07",
+			"file": {
+				"version": 1,
+				"asset": "crime-city-senna-v1.fantome",
+				"size": 8603057,
+				"sha256": "e6b2b4e1b5d73d18ff7bd57d213727f73d787c39087eb5d4b5729ade759237eb"
 			},
 			"chromas": []
 		},

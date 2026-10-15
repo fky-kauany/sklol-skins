@@ -1,0 +1,23 @@
+{
+	"id": "crime-city-nightmare-darius-black-chroma",
+	"name": "Crime City Nightmare Darius Black Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Crime City Nightmare Darius Black\r\n\r\nSkin modified : Crime City Nightmare Darius\r\n\r\nAuthor : Dempsey20\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/e7b08104-b64c-4ef6-998e-01eeb5075409\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crime-city-nightmare-darius-black-chroma/thumb.webp?v=a19ac363",
+	"file": {
+		"version": 1,
+		"asset": "crime-city-nightmare-darius-black-chroma-v1.fantome",
+		"size": 950848,
+		"sha256": "e748eceb2e8f9c6f7dbb690d8c931727592785e4b083e543d4fdf95c4dbc83ed"
+	},
+	"chromas": []
+}

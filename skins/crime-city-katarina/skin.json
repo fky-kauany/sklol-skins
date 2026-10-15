@@ -1,0 +1,26 @@
+{
+	"id": "crime-city-katarina",
+	"name": "Crime City Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Katarina\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: Crime City Katarina\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1hZayAoBDW9tfAlB-Wn_rMPb8BJdt06Nw?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/b41c79a4-1dae-413b-ba6d-437658d9380d\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crime-city-katarina/thumb.webp?v=04aa887c",
+	"file": {
+		"version": 1,
+		"asset": "crime-city-katarina-v1.fantome",
+		"size": 6957039,
+		"sha256": "7aaf6cd7feb01996231fc537dfb58dd57f951e511f81dabdd11ef46310d519fd"
+	},
+	"chromas": []
+}

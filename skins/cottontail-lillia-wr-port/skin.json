@@ -1,0 +1,23 @@
+{
+	"id": "cottontail-lillia-wr-port",
+	"name": "Cottontail Lillia WR port",
+	"champion": 876,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Cottontail Lillia WR port\n\nNew model, textures, loadscreen, champion square and circle images.\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/4c1eddc7-d11e-41ec-8f49-e94786da51cb\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cottontail-lillia-wr-port/thumb.webp?v=900cb9aa",
+	"file": {
+		"version": 1,
+		"asset": "cottontail-lillia-wr-port-v1.fantome",
+		"size": 2067203,
+		"sha256": "aaaba5293b266bed98f4c00959a563dd7bbfa15ee9e463748750b65b01d0ddd2"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "coven-lux",
+	"name": "Coven Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Lux\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.4\r\n\r\n###### Description: Coven Lux\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/e333771f-7eb7-4cbc-b36b-317dbd64abc7\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/coven-lux/thumb.webp?v=49125e57",
+	"file": {
+		"version": 1,
+		"asset": "coven-lux-v1.fantome",
+		"size": 22927163,
+		"sha256": "cbe446218e9c89a1efe357788695afbc161e0493dc0d0ed8f9743a55e08d9368"
+	},
+	"chromas": []
+}

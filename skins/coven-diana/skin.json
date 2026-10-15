@@ -1,0 +1,25 @@
+{
+	"id": "coven-diana",
+	"name": "Coven Diana",
+	"champion": 131,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2052672243319091323 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Diana\r\n* Skin: Default\r\n* Coven Diana [ConceptArt](https://i.imgur.com/GcYXRMG.png \"ConceptArt\")&#x20; made into real skin in the game\r\n\r\n# Features\r\n\r\n- Loadingscreen & HUD\r\n- VFX\r\n- Model + Weapon\r\n\r\n# ![](https://i.imgur.com/cUl5OTx.gif)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/0fa13cd1-8af4-47de-9f6f-2951000fa2ac\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/coven-diana/thumb.webp?v=198338bb",
+	"file": {
+		"version": 1,
+		"asset": "coven-diana-v1.fantome",
+		"size": 49803960,
+		"sha256": "f1f901a64dc68b9deed6eb99fec25850a27b3ec20e711dbd8f22748fce7999aa"
+	},
+	"chromas": []
+}

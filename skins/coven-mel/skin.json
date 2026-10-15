@@ -1,0 +1,26 @@
+{
+	"id": "coven-mel",
+	"name": "Coven Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Mel\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.1\r\n\r\n###### Description: Coven Mel\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/adf714df-17d2-4ec1-9967-f2441c8cb62d\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/coven-mel/thumb.webp?v=5d31a362",
+	"file": {
+		"version": 1,
+		"asset": "coven-mel-v1.fantome",
+		"size": 22951626,
+		"sha256": "81423fbe09c4bc589ea8c02725abfa77558226e2c1198d50563dfae9adb1bfa9"
+	},
+	"chromas": []
+}
