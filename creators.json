@@ -431,6 +431,13 @@
 		"avatar": "creators/defaulti.webp?v=8832ab44",
 		"links": {}
 	},
+	"defaultics": {
+		"name": "defaultics",
+		"avatar": "creators/defaultics.jpg?v=340777a2",
+		"links": {
+			"youtube": "https://youtu.be/1XGGHIBgmrY"
+		}
+	},
 	"deliriumoverdose": {
 		"name": "deliriumoverdose",
 		"avatar": "creators/deliriumoverdose.webp?v=cb42f274",

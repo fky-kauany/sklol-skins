@@ -1,0 +1,23 @@
+{
+	"id": "rougarou-naafiri",
+	"name": "Rougarou naafiri",
+	"champion": 950,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"that the dog\"\n\n***\n\n**Modified champion: Naafiri**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game:** Blood west\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/e502ad58-afdd-4fc4-865c-953e703265ed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rougarou-naafiri/thumb.webp?v=97a0eeb2",
+	"file": {
+		"version": 1,
+		"asset": "rougarou-naafiri-v1.fantome",
+		"size": 483402,
+		"sha256": "3de801170b8db9bdbc4b701c2f7a7576e3a191f95b20e935a214769ee0335ffb"
+	},
+	"chromas": []
+}

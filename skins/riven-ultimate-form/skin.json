@@ -1,0 +1,24 @@
+{
+	"id": "riven-ultimate-form",
+	"name": "Riven Ultimate Form",
+	"champion": 92,
+	"base": 55,
+	"creator": "matth",
+	"description": "Skin Modified: Broken Covenant\n\nAuthor: matthilobo (Matth Spotlight)\n\nVersion: 1.0\n\nAll chromas\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n____________________________________________________________________________________________________\n\nMy Contacts:\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/936a5396-a26b-4933-afe7-344fa153114d\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-ultimate-form/thumb.webp?v=d461bc68",
+	"file": {
+		"version": 1,
+		"asset": "riven-ultimate-form-v1.fantome",
+		"size": 11310996,
+		"sha256": "e4be0fd3f4ad353604b623263c31ab7323d3668dd96dfda942483f9a4defb07b"
+	},
+	"chromas": []
+}

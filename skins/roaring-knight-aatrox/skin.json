@@ -1,0 +1,26 @@
+{
+	"id": "roaring-knight-aatrox",
+	"name": "Roaring Knight Aatrox",
+	"champion": 266,
+	"base": 0,
+	"creator": "flandrespringtrap",
+	"description": "Roaring Knight from Deltarune as Aatrox\n\nComes with custom model, textures,sfx,vo,champion icons, spell icons and loading screen\n\nVFX/SFX by ShrimpBack\n\nR music - Black Knife - Deltarune Chapter 3+4 OST\n\nDeath music - Determination - Undertale\n\nModel from - NECROMON [https://sketchfab.com/3d-models/deltarune-the-roaring-knight-63449d3eaa6e4b3e8bc5d6872b074190](https://sketchfab.com/3d-models/deltarune-the-roaring-knight-63449d3eaa6e4b3e8bc5d6872b074190)&#x20;\n\nLoading screen and champion Icon from Deltarune Chapter 3\n\n---\n\n**Created by** [flandrespringtrap](https://runeforge.dev/users/flandrespringtrap)\n\n**Original:** https://runeforge.dev/mods/e0f7e133-95ae-47c4-b21a-e6c5417f2479\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/roaring-knight-aatrox/thumb.webp?v=17981110",
+	"file": {
+		"version": 1,
+		"asset": "roaring-knight-aatrox-v1.fantome",
+		"size": 36178017,
+		"sha256": "29b69b2ecc2b6b806df4b5518b9513bb29b5eb28077eac910ff919e33f6ebdc6"
+	},
+	"chromas": []
+}

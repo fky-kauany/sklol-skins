@@ -1,0 +1,24 @@
+{
+	"id": "rogue-fan-renekton",
+	"name": "Rogue Fan Renekton",
+	"champion": 58,
+	"base": 4,
+	"creator": "runeforgerecoveryteam",
+	"description": "## **Mod Information**\n\n***\n\n***\n\n* **Champion:** Renekton\n* **Modified Skin:** Default\n* **Author:** Roda\n* **Mod Version:** 1.0.0\n\n## **Features**\n\n***\n\n***\n\n* Uses elements from other champions (Aatrox's blade, Gnar's skull hat)\n\nThis mod was recovered by Vexrage.\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/59c3c4b8-f243-431d-90a3-9ab47e893eb3\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rogue-fan-renekton/thumb.webp?v=2658b7ab",
+	"file": {
+		"version": 1,
+		"asset": "rogue-fan-renekton-v1.fantome",
+		"size": 1379893,
+		"sha256": "57a500f71d838e4d5311c2576192b06d8b9c92b44a9f2e96204b144916e3d80d"
+	},
+	"chromas": []
+}

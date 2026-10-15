@@ -1,0 +1,25 @@
+{
+	"id": "roland-viego-library-of-ruina",
+	"name": "Roland Viego (Library of Ruina)",
+	"champion": 234,
+	"base": 0,
+	"creator": "defaultics",
+	"description": "Skin Modified: Default (Works with all skins)\r\n\r\nAuthor: bobohr, defaultics\r\n\r\nVersion: 1.0.1\r\n \r\nOriginal file by bobohr, given to me by a friend. Fixed and modified by defaultics\r\n\r\nwashed up grade 9 fixer (his wife is dead)\n\n---\n\n**Created by** [defaultics](https://runeforge.dev/users/defaultics)\n\n**Original:** https://runeforge.dev/mods/96ab17c9-0a4d-4e0c-bfd6-a1d502bbbb31\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/roland-viego-library-of-ruina/thumb.webp?v=4f39f7f1",
+	"file": {
+		"version": 1,
+		"asset": "roland-viego-library-of-ruina-v1.fantome",
+		"size": 10311193,
+		"sha256": "f44b7b99565bfeb7ccaacca072b85485d67fb84abd07b1ab853a3b53ee374622"
+	},
+	"chromas": []
+}

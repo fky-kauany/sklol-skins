@@ -1,0 +1,26 @@
+{
+	"id": "riyo-reaper-gwen",
+	"name": "Riyo Reaper Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "noice",
+	"description": "# Riyo Reaper Gwen made by NOICE/Paler. \r\n\r\n# [DISCORD FOR UPDATES](https://discord.gg/jFZEKXNFP4)\r\n\r\n# INFO\r\n\r\nWorks for all skins.\r\n\r\nChampion: Gwen\r\n\r\nSkin Version: 1.0.0\r\n\r\nDescription: Riyo Reaper from gachiakuta as gwen\r\n\r\n# FEATURES\r\n\r\n-New model and texture.\r\n\r\n-Modified loadingscreen.\r\n\r\n-Modified in-game icons.\r\n\r\n# [SUPPORT ME HERE](https://ko-fi.com/paler)\n\n---\n\n**Created by** [NOICE](https://runeforge.dev/users/NOICE)\n\n**Original:** https://runeforge.dev/mods/facae154-c005-4259-a4b0-eb4c9f6bea0b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riyo-reaper-gwen/thumb.webp?v=6278480e",
+	"file": {
+		"version": 1,
+		"asset": "riyo-reaper-gwen-v1.fantome",
+		"size": 10450704,
+		"sha256": "74b8f05b563e08d32b513f055118086cdb3c6b14527260203950c634941251a6"
+	},
+	"chromas": []
+}

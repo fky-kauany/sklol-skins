@@ -1,0 +1,22 @@
+{
+	"id": "riven-without-the-ugly-shoulder-pad",
+	"name": "Riven without the ugly shoulder pad",
+	"champion": 92,
+	"base": 0,
+	"creator": "glacierfrozzt",
+	"description": "This mod makes some textures transparent so the ugly shoulder pad isnt visible in game\r\n\r\nWorks on her base skin\n\n---\n\n**Created by** [GlacierFroZzt](https://runeforge.dev/users/GlacierFroZzt)\n\n**Original:** https://runeforge.dev/mods/0f18c0c6-c711-465a-97a0-f737b4a0dc73\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-without-the-ugly-shoulder-pad/thumb.webp?v=c4b636d5",
+	"file": {
+		"version": 1,
+		"asset": "riven-without-the-ugly-shoulder-pad-v1.fantome",
+		"size": 151820,
+		"sha256": "19d9b65c0d76ca1826d357fbf20425be951b8430d8f96467c25b90a12c00aef9"
+	},
+	"chromas": []
+}

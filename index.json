@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:59:53.468Z",
+	"generatedAt": "2026-10-15T13:03:04.384Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -433,6 +433,13 @@
 			"name": "Defaulti",
 			"avatar": "creators/defaulti.webp?v=8832ab44",
 			"links": {}
+		},
+		"defaultics": {
+			"name": "defaultics",
+			"avatar": "creators/defaultics.jpg?v=340777a2",
+			"links": {
+				"youtube": "https://youtu.be/1XGGHIBgmrY"
+			}
 		},
 		"deliriumoverdose": {
 			"name": "deliriumoverdose",
@@ -27808,6 +27815,227 @@
 			"chromas": []
 		},
 		{
+			"id": "riven-ultimate-form",
+			"name": "Riven Ultimate Form",
+			"champion": 92,
+			"base": 55,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-ultimate-form/thumb.webp?v=d461bc68",
+			"file": {
+				"version": 1,
+				"asset": "riven-ultimate-form-v1.fantome",
+				"size": 11310996,
+				"sha256": "e4be0fd3f4ad353604b623263c31ab7323d3668dd96dfda942483f9a4defb07b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-without-the-ugly-shoulder-pad",
+			"name": "Riven without the ugly shoulder pad",
+			"champion": 92,
+			"base": 0,
+			"creator": "glacierfrozzt",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-without-the-ugly-shoulder-pad/thumb.webp?v=c4b636d5",
+			"file": {
+				"version": 1,
+				"asset": "riven-without-the-ugly-shoulder-pad-v1.fantome",
+				"size": 151820,
+				"sha256": "19d9b65c0d76ca1826d357fbf20425be951b8430d8f96467c25b90a12c00aef9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-zero-two-v2",
+			"name": "Riven Zero Two V2",
+			"champion": 92,
+			"base": 55,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-zero-two-v2/thumb.webp?v=9479975b",
+			"file": {
+				"version": 1,
+				"asset": "riven-zero-two-v2-v1.fantome",
+				"size": 28006600,
+				"sha256": "9f10765db5f7e40401e517e527ea0aa612fcccd257c4e86d8f5619786e58f770"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riyo-reaper-gwen",
+			"name": "Riyo Reaper Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "noice",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riyo-reaper-gwen/thumb.webp?v=6278480e",
+			"file": {
+				"version": 1,
+				"asset": "riyo-reaper-gwen-v1.fantome",
+				"size": 10450704,
+				"sha256": "74b8f05b563e08d32b513f055118086cdb3c6b14527260203950c634941251a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "roaring-knight-aatrox",
+			"name": "Roaring Knight Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "flandrespringtrap",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/roaring-knight-aatrox/thumb.webp?v=17981110",
+			"file": {
+				"version": 1,
+				"asset": "roaring-knight-aatrox-v1.fantome",
+				"size": 36178017,
+				"sha256": "29b69b2ecc2b6b806df4b5518b9513bb29b5eb28077eac910ff919e33f6ebdc6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rogue-fan-renekton",
+			"name": "Rogue Fan Renekton",
+			"champion": 58,
+			"base": 4,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rogue-fan-renekton/thumb.webp?v=2658b7ab",
+			"file": {
+				"version": 1,
+				"asset": "rogue-fan-renekton-v1.fantome",
+				"size": 1379893,
+				"sha256": "57a500f71d838e4d5311c2576192b06d8b9c92b44a9f2e96204b144916e3d80d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "roland-viego-library-of-ruina",
+			"name": "Roland Viego (Library of Ruina)",
+			"champion": 234,
+			"base": 0,
+			"creator": "defaultics",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/roland-viego-library-of-ruina/thumb.webp?v=4f39f7f1",
+			"file": {
+				"version": 1,
+				"asset": "roland-viego-library-of-ruina-v1.fantome",
+				"size": 10311193,
+				"sha256": "f44b7b99565bfeb7ccaacca072b85485d67fb84abd07b1ab853a3b53ee374622"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ronald-with-a-shotgun-graves",
+			"name": "Ronald With a Shotgun Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "istolehappymealfromkids",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ronald-with-a-shotgun-graves/thumb.webp?v=84916d0c",
+			"file": {
+				"version": 1,
+				"asset": "ronald-with-a-shotgun-graves-v1.fantome",
+				"size": 5750853,
+				"sha256": "38afcb91b970a05eead123f57cc0ffd8b32603f44a7650c6558c68a2d292b9cd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rorschach-sett",
+			"name": "rorschach sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rorschach-sett/thumb.webp?v=8ee7f8a0",
+			"file": {
+				"version": 1,
+				"asset": "rorschach-sett-v1.fantome",
+				"size": 1993729,
+				"sha256": "2659f420e8297f13776fdce2681b277be40a2a67294c44dd7c910fe0dfce80ec"
+			},
+			"chromas": []
+		},
+		{
 			"id": "rosethorn-zeri",
 			"name": "Rosethorn Zeri",
 			"champion": 221,
@@ -27830,6 +28058,29 @@
 				"asset": "rosethorn-zeri-v1.fantome",
 				"size": 11141102,
 				"sha256": "542bc4940f90f3528af44113897e8f0ac731958016042375b6cd570cc3e0cd5a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rougarou-naafiri",
+			"name": "Rougarou naafiri",
+			"champion": 950,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rougarou-naafiri/thumb.webp?v=97a0eeb2",
+			"file": {
+				"version": 1,
+				"asset": "rougarou-naafiri-v1.fantome",
+				"size": 483402,
+				"sha256": "3de801170b8db9bdbc4b701c2f7a7576e3a191f95b20e935a214769ee0335ffb"
 			},
 			"chromas": []
 		},

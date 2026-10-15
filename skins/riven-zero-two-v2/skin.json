@@ -1,0 +1,26 @@
+{
+	"id": "riven-zero-two-v2",
+	"name": "Riven Zero Two V2",
+	"champion": 92,
+	"base": 55,
+	"creator": "matth",
+	"description": "> ***Mod Name: Riven Zero Two V2***\n\n> ***Skin Modified: Broken Covenant (Only)***\n\n> ***Author: matthilobo (Matth Spotlight)***\n\n> ***Version: 1.1***\n\n> ***Ctrl - 2 For Zero Two´s Emote***\n\n### Donations for commissions or something else: [*https://ko-fi.com/matthspotlight*](https://ko-fi.com/matthspotlight) ***💛***\n\n***\n\n* ***If you wanna contact me for questions or something:***\n* [***math (@matthilobo) • Fotos y videos de Instagram***](https://www.instagram.com/matthilobo/) ***/ Discord: matthilobo 💛***\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/86563741-2ebe-466a-b78f-65d120cf827c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-zero-two-v2/thumb.webp?v=9479975b",
+	"file": {
+		"version": 1,
+		"asset": "riven-zero-two-v2-v1.fantome",
+		"size": 28006600,
+		"sha256": "9f10765db5f7e40401e517e527ea0aa612fcccd257c4e86d8f5619786e58f770"
+	},
+	"chromas": []
+}

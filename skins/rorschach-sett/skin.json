@@ -1,0 +1,23 @@
+{
+	"id": "rorschach-sett",
+	"name": "rorschach sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\" diary of rorschach 9 october 1975 the city (or summoners rift) fears me\"\n\n***\n\n**Modified champion: Sett**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model extracted from: Watch men: The end is nigh**\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/3f56267f-432a-47d2-81ea-cd353bd88581\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rorschach-sett/thumb.webp?v=8ee7f8a0",
+	"file": {
+		"version": 1,
+		"asset": "rorschach-sett-v1.fantome",
+		"size": 1993729,
+		"sha256": "2659f420e8297f13776fdce2681b277be40a2a67294c44dd7c910fe0dfce80ec"
+	},
+	"chromas": []
+}

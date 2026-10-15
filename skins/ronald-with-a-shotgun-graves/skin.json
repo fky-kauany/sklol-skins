@@ -1,0 +1,25 @@
+{
+	"id": "ronald-with-a-shotgun-graves",
+	"name": "Ronald With a Shotgun Graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "istolehappymealfromkids",
+	"description": "### MOD INFORMATION\n\n* Champion: Graves\n* Modified skin: Default\n* Author: istonehappymealfromkids\n* Mod version: 1.3\n* Description: Hamburger\n\n### FEATURES\n\n* New model and texture\n* Modified loadingscreen\n* Modified particles\n* Edited ability sounds\n* New voiceover\n* Ctrl 2 can open loud music\n* long death sound\n\n### ABOUT THE MOD\n\n* Ronald from Mcdonald\n\n### CREDITS\n\n* thanks to Akatuni for ronald mc donald model\n* thanks to [Sr Pelo](https://www.youtube.com/@SrPelo) for Voice over\n\n---\n\n**Created by** [istolehappymealfromkids](https://runeforge.dev/users/istolehappymealfromkids)\n\n**Original:** https://runeforge.dev/mods/e09982f4-64c8-4afb-8d8a-013353294ddf\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ronald-with-a-shotgun-graves/thumb.webp?v=84916d0c",
+	"file": {
+		"version": 1,
+		"asset": "ronald-with-a-shotgun-graves-v1.fantome",
+		"size": 5750853,
+		"sha256": "38afcb91b970a05eead123f57cc0ffd8b32603f44a7650c6558c68a2d292b9cd"
+	},
+	"chromas": []
+}
