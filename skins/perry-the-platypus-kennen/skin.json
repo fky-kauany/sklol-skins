@@ -1,0 +1,24 @@
+{
+	"id": "perry-the-platypus-kennen",
+	"name": "Perry the Platypus Kennen",
+	"champion": 85,
+	"base": 0,
+	"creator": "annown",
+	"description": "### Mod Information-\n* Champion: Kennen\n* Modified Skin: Default\n* Author: Annown\n* Mod Version: 1.1.4\n* Model from \"Agent P: Doofendash\"\n\n### Features-\n* New Model and Texture\n* Supports all Quality settings\n* New Loading Screen\n\nJoin my [Discord](https://discord.com/invite/js3CDHe4tD \"Discord\") if any of my skins are out of order.\n\n---\n\n**Created by** [Annown](https://runeforge.dev/users/Annown)\n\n**Original:** https://runeforge.dev/mods/aca07d0b-8009-4dd2-920a-ec15acf3e140\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/perry-the-platypus-kennen/thumb.webp?v=de224d9f",
+	"file": {
+		"version": 1,
+		"asset": "perry-the-platypus-kennen-v1.fantome",
+		"size": 230783,
+		"sha256": "809505c0be76cdb82cfaca98e7b11998f6d98c0fdd7236753eea6e3364c4654c"
+	},
+	"chromas": []
+}

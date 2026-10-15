@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:18:43.361Z",
+	"generatedAt": "2026-10-15T12:21:51.516Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -794,6 +794,10 @@
 				"kofi": "https://ko-fi.com/jaku3",
 				"youtube": "https://www.youtube.com/@Jaku%C6%B7"
 			}
+		},
+		"jetrammer": {
+			"name": "Jetrammer",
+			"links": {}
 		},
 		"jioubin": {
 			"name": "Jioubin",
@@ -24357,6 +24361,255 @@
 				"asset": "pengu-garen-v1.fantome",
 				"size": 8001496,
 				"sha256": "0fd5c15ae5d210fdd8c9774c1924e821bebdfa1e03395d5a856dd52425368108"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pengu-varus",
+			"name": "Pengu Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "michaelmyers",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pengu-varus/thumb.webp?v=74180429",
+			"file": {
+				"version": 1,
+				"asset": "pengu-varus-v1.fantome",
+				"size": 15714985,
+				"sha256": "410a13fbc2c2bd3d7f4d4e827a57c929cbe19cbca3bace83986b1b6aed3e548b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pepsiman-singed",
+			"name": "Pepsiman Singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "notcz",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pepsiman-singed/thumb.webp?v=82a2888a",
+			"file": {
+				"version": 1,
+				"asset": "pepsiman-singed-v1.fantome",
+				"size": 8194541,
+				"sha256": "6f1abd0a1672f59388d67dc90955b3a8ac9c96e49ddfb65516fc79d8b4b4a107"
+			},
+			"chromas": []
+		},
+		{
+			"id": "perry-the-platypus-kennen",
+			"name": "Perry the Platypus Kennen",
+			"champion": 85,
+			"base": 0,
+			"creator": "annown",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/perry-the-platypus-kennen/thumb.webp?v=de224d9f",
+			"file": {
+				"version": 1,
+				"asset": "perry-the-platypus-kennen-v1.fantome",
+				"size": 230783,
+				"sha256": "809505c0be76cdb82cfaca98e7b11998f6d98c0fdd7236753eea6e3364c4654c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "petals-of-spring-katarina-vfx-fix",
+			"name": "Petals of Spring Katarina VFX Fix",
+			"champion": 55,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/petals-of-spring-katarina-vfx-fix/thumb.webp?v=a68285cc",
+			"file": {
+				"version": 1,
+				"asset": "petals-of-spring-katarina-vfx-fix-v1.fantome",
+				"size": 4453960,
+				"sha256": "0e6c8e0ff53ab7f8024bca88a3f3f0e4c1f4015c5cd8dc487d1d62433a01a466"
+			},
+			"chromas": []
+		},
+		{
+			"id": "petals-of-spring-seraphine-wr-port-vfx-added",
+			"name": "Petals of Spring - Seraphine (WR Port) VFX ADDED!",
+			"champion": 147,
+			"base": 0,
+			"creator": "beyonceknowles",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/petals-of-spring-seraphine-wr-port-vfx-added/thumb.webp?v=c74df490",
+			"file": {
+				"version": 1,
+				"asset": "petals-of-spring-seraphine-wr-port-vfx-added-v1.fantome",
+				"size": 28085615,
+				"sha256": "8cf5040d2acfe13bbbaa47748952137f779af4af38311fde09510468f353abc2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "peter-griffin-graves",
+			"name": "Peter Griffin Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "jetrammer",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/peter-griffin-graves/thumb.webp?v=d8866cbd",
+			"file": {
+				"version": 1,
+				"asset": "peter-griffin-graves-v1.fantome",
+				"size": 3260084,
+				"sha256": "9110e85101f7211656c6a981bd02834a405c8d1e2c3247a7221b240f8eddf995"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-katarina",
+			"name": "Pichi Pichi Pitch Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-katarina/thumb.webp?v=109dbc77",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-katarina-v1.fantome",
+				"size": 13867008,
+				"sha256": "33a0cb11de04e1b5c2b1f764a65daa3c0a85ee5e095eff4eeefc95ed91e1c5f3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-leona",
+			"name": "Pichi Pichi Pitch Leona",
+			"champion": 89,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-leona/thumb.webp?v=266ed10f",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-leona-v1.fantome",
+				"size": 10637249,
+				"sha256": "5feb898b158c4e07ce9768d1d74cb4d3c37b4792ad74a0f18e0be9a8e1ae43c7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-lux",
+			"name": "Pichi Pichi Pitch Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-lux/thumb.webp?v=5aa29adb",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-lux-v1.fantome",
+				"size": 19238633,
+				"sha256": "05d9be1a5341f4ff6dafc4bbcf7ba677b27c0fd00b4f6e4e4c7f8d07713c5b94"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-miss-fortune",
+			"name": "Pichi Pichi Pitch Miss Fortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-miss-fortune/thumb.webp?v=9bb743a0",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-miss-fortune-v1.fantome",
+				"size": 15173219,
+				"sha256": "8f50a6b0fe2abb05f71c94ffb928012fd1468345d559d27ad73a3dc9cb515b2c"
 			},
 			"chromas": []
 		},

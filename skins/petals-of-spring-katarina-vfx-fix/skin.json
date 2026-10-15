@@ -1,0 +1,23 @@
+{
+	"id": "petals-of-spring-katarina-vfx-fix",
+	"name": "Petals of Spring Katarina VFX Fix",
+	"champion": 55,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "In order to use the skin, you of course need to own AND equip it! This is not a replacement for base/default. \r\n- Added petals to all abilities \r\n- Added W symbol\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/29d4bcf0-b604-4dd5-90c5-7904ce16f803\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/petals-of-spring-katarina-vfx-fix/thumb.webp?v=a68285cc",
+	"file": {
+		"version": 1,
+		"asset": "petals-of-spring-katarina-vfx-fix-v1.fantome",
+		"size": 4453960,
+		"sha256": "0e6c8e0ff53ab7f8024bca88a3f3f0e4c1f4015c5cd8dc487d1d62433a01a466"
+	},
+	"chromas": []
+}

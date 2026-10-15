@@ -1,0 +1,26 @@
+{
+	"id": "pichi-pichi-pitch-leona",
+	"name": "Pichi Pichi Pitch Leona",
+	"champion": 89,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Leona\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Pichi Pichi Pitch Leona\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/ad6ad1f6-29a5-45fc-bbcc-9a36a5f63170\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pichi-pichi-pitch-leona/thumb.webp?v=266ed10f",
+	"file": {
+		"version": 1,
+		"asset": "pichi-pichi-pitch-leona-v1.fantome",
+		"size": 10637249,
+		"sha256": "5feb898b158c4e07ce9768d1d74cb4d3c37b4792ad74a0f18e0be9a8e1ae43c7"
+	},
+	"chromas": []
+}

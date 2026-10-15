@@ -1,0 +1,24 @@
+{
+	"id": "peter-griffin-graves",
+	"name": "Peter Griffin Graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "jetrammer",
+	"description": "Peter Griffin Graves by Scuttlecrab. Fixed and reuploaded.\r\n\r\nTurns Graves into the man that needs no introduction.\r\n\r\nChampion: Graves\r\n\r\nSkin: Default\r\n\r\nFeatures: Custom splashart, model, VO and SFX.\n\n---\n\n**Created by** [Jetrammer](https://runeforge.dev/users/Jetrammer)\n\n**Original:** https://runeforge.dev/mods/fe675d34-2770-4fd2-b8b3-80f54b566bee\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/peter-griffin-graves/thumb.webp?v=d8866cbd",
+	"file": {
+		"version": 1,
+		"asset": "peter-griffin-graves-v1.fantome",
+		"size": 3260084,
+		"sha256": "9110e85101f7211656c6a981bd02834a405c8d1e2c3247a7221b240f8eddf995"
+	},
+	"chromas": []
+}

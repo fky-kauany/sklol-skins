@@ -1,0 +1,25 @@
+{
+	"id": "petals-of-spring-seraphine-wr-port-vfx-added",
+	"name": "Petals of Spring - Seraphine (WR Port) VFX ADDED!",
+	"champion": 147,
+	"base": 0,
+	"creator": "beyonceknowles",
+	"description": "a port of seraphines wild rift chinese themed skin which i found TOOOO DAMN GORG to not be using awn pc!!! the chromas might be a bit garrish cos there were alot of them and i suck at recolours (but feel free to change/edit to ur hearts content!)\n\nreplaces:\n\nfirecracker seraphine (and chromas).\n\nmodifications:\n\nmodifications: models/textures, ui elements (loading screen, in-game), vfx.\n\n---\n\n**Created by** [beyonceknowles](https://runeforge.dev/users/beyonceknowles)\n\n**Original:** https://runeforge.dev/mods/f72df910-53cf-426f-a9f2-b165b64f666f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/petals-of-spring-seraphine-wr-port-vfx-added/thumb.webp?v=c74df490",
+	"file": {
+		"version": 1,
+		"asset": "petals-of-spring-seraphine-wr-port-vfx-added-v1.fantome",
+		"size": 28085615,
+		"sha256": "8cf5040d2acfe13bbbaa47748952137f779af4af38311fde09510468f353abc2"
+	},
+	"chromas": []
+}
