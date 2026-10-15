@@ -1,0 +1,23 @@
+{
+	"id": "nautilus-astronautilus-obsidian-gold",
+	"name": "Astronautilus | Obsidian Gold.",
+	"champion": 111,
+	"base": 3,
+	"creator": "neonalt9",
+	"description": "---\n\n**Created by** [NeonAlt9](https://runeforge.dev/users/NeonAlt9)\n\n**Original:** https://runeforge.dev/mods/3c75a746-d175-4c9c-8896-bdd27d237b72\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nautilus-astronautilus-obsidian-gold/thumb.webp?v=5f9ea922",
+	"file": {
+		"version": 1,
+		"asset": "nautilus-astronautilus-obsidian-gold-v1.fantome",
+		"size": 1176226,
+		"sha256": "c513df2a581304282360261c09efaaed36c9ff15f8e08e6ab7db39df26fce60e"
+	},
+	"chromas": []
+}

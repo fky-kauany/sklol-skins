@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:02:52.916Z",
+	"generatedAt": "2026-10-15T12:06:01.222Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1052,6 +1052,10 @@
 			"links": {
 				"site": "https://skfb.ly/pxGyt"
 			}
+		},
+		"neonalt9": {
+			"name": "NeonAlt9",
+			"links": {}
 		},
 		"neoritch": {
 			"name": "neoritch",
@@ -22956,6 +22960,248 @@
 				"asset": "naafiri-yuumi-v1.fantome",
 				"size": 912436,
 				"sha256": "44cc8bf1f8f3b126e426b706850e6f845a8c54a896902d0aee437a6ddfecd650"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naafiri-yuumi-2",
+			"name": "Naafiri Yuumi",
+			"champion": 950,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/naafiri-yuumi-2/thumb.webp?v=ee6d46d7",
+			"file": {
+				"version": 1,
+				"asset": "naafiri-yuumi-2-v1.fantome",
+				"size": 422534,
+				"sha256": "ac5cd6583ed54a81c401a4e99850f60ad1457ffbd3811f5c5955acc9588302f0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nami-nami",
+			"name": "Nami Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nami-nami/thumb.webp?v=59bbae82",
+			"file": {
+				"version": 1,
+				"asset": "nami-nami-v1.fantome",
+				"size": 317603,
+				"sha256": "d700206aa4dbcd9ce7b94ce24cc5710c0afe4644b28853ad5d21db02feebde91"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naoya-zen-in-hecarim-bubble-pop-electric",
+			"name": "Naoya Zen'in Hecarim (Bubble Pop Electric)",
+			"champion": 120,
+			"base": 0,
+			"creator": "jioubin",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/naoya-zen-in-hecarim-bubble-pop-electric/thumb.webp?v=7539c50a",
+			"file": {
+				"version": 1,
+				"asset": "naoya-zen-in-hecarim-bubble-pop-electric-v1.fantome",
+				"size": 11605321,
+				"sha256": "edbe71c5ad36ceb3f45e355fc14ac34b5c261797495ebae271ebdcba2a1183c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naruto-ezreal",
+			"name": "Naruto Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/naruto-ezreal/thumb.webp?v=f9bfa834",
+			"file": {
+				"version": 1,
+				"asset": "naruto-ezreal-v1.fantome",
+				"size": 75533584,
+				"sha256": "363fba339798edca5a7531e1813c3c89cfd0f0489b9cde3d484632b793eaf10d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "natsu-nasus-blue-archive",
+			"name": "Natsu Nasus (Blue Archive)",
+			"champion": 75,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/natsu-nasus-blue-archive/thumb.webp?v=056a24b8",
+			"file": {
+				"version": 1,
+				"asset": "natsu-nasus-blue-archive-v1.fantome",
+				"size": 10373209,
+				"sha256": "f0cdedcd3aa50002e96841e0302c43bdc827cce579fea75ece7b8125ca02596f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nautilus-astronautilus-obsidian-gold",
+			"name": "Astronautilus | Obsidian Gold.",
+			"champion": 111,
+			"base": 3,
+			"creator": "neonalt9",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nautilus-astronautilus-obsidian-gold/thumb.webp?v=5f9ea922",
+			"file": {
+				"version": 1,
+				"asset": "nautilus-astronautilus-obsidian-gold-v1.fantome",
+				"size": 1176226,
+				"sha256": "c513df2a581304282360261c09efaaed36c9ff15f8e08e6ab7db39df26fce60e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "navy-blue-odyssey-kayn",
+			"name": "Navy Blue Odyssey Kayn",
+			"champion": 141,
+			"base": 2,
+			"creator": "lkss",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/navy-blue-odyssey-kayn/thumb.webp?v=876c205d",
+			"file": {
+				"version": 1,
+				"asset": "navy-blue-odyssey-kayn-v1.fantome",
+				"size": 863497,
+				"sha256": "8b7afab0ba6b7eb9f4765b292a57e6a973dd89e163e179c1a050636a95aa3929"
+			},
+			"chromas": []
+		},
+		{
+			"id": "neeko-beeko",
+			"name": "Beeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/neeko-beeko/thumb.webp?v=3e6fc43b",
+			"file": {
+				"version": 1,
+				"asset": "neeko-beeko-v1.fantome",
+				"size": 24249751,
+				"sha256": "1784675a8403f64345dfdf1c82ade2b8d799d169711eba4ec576d49917a7a1fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "neeko-cannibal",
+			"name": "neeko_cannibal",
+			"champion": 518,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/neeko-cannibal/thumb.webp?v=c1702d04",
+			"file": {
+				"version": 1,
+				"asset": "neeko-cannibal-v1.fantome",
+				"size": 3371398,
+				"sha256": "5ddc1eeff75847036bb30487ccc403f0f346eee537cc55ceddec1793503d879d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nessa-samira",
+			"name": "Nessa Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "noctune",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nessa-samira/thumb.webp?v=e6551fec",
+			"file": {
+				"version": 1,
+				"asset": "nessa-samira-v1.fantome",
+				"size": 7802667,
+				"sha256": "c23da67f4a6e45f7f7cd9c25b53ac9e7ff303df46defd2304b276f36bc2ff9bc"
 			},
 			"chromas": []
 		},

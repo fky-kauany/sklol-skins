@@ -1,0 +1,23 @@
+{
+	"id": "naafiri-yuumi-2",
+	"name": "Naafiri Yuumi",
+	"champion": 950,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "Changes Naafiri to Yuumi and the packmates to Book\n\n## Information\n\n**Modified champion: Naafiri**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/8bc2aaf5-e280-48de-8c7b-b768018cc673\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/naafiri-yuumi-2/thumb.webp?v=ee6d46d7",
+	"file": {
+		"version": 1,
+		"asset": "naafiri-yuumi-2-v1.fantome",
+		"size": 422534,
+		"sha256": "ac5cd6583ed54a81c401a4e99850f60ad1457ffbd3811f5c5955acc9588302f0"
+	},
+	"chromas": []
+}

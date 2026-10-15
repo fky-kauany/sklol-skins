@@ -1,0 +1,26 @@
+{
+	"id": "natsu-nasus-blue-archive",
+	"name": "Natsu Nasus (Blue Archive)",
+	"champion": 75,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "replace nasus with yutori natsu from blue archive. in my record she doesnt have any audio, it should.\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/d05791ff-7c72-4971-9741-66cb254ce641\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/natsu-nasus-blue-archive/thumb.webp?v=056a24b8",
+	"file": {
+		"version": 1,
+		"asset": "natsu-nasus-blue-archive-v1.fantome",
+		"size": 10373209,
+		"sha256": "f0cdedcd3aa50002e96841e0302c43bdc827cce579fea75ece7b8125ca02596f"
+	},
+	"chromas": []
+}

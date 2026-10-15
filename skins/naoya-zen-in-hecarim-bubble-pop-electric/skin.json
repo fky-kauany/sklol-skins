@@ -1,0 +1,26 @@
+{
+	"id": "naoya-zen-in-hecarim-bubble-pop-electric",
+	"name": "Naoya Zen'in Hecarim (Bubble Pop Electric)",
+	"champion": 120,
+	"base": 0,
+	"creator": "jioubin",
+	"description": "Mod Information\r\n\r\nChampion : Hecarim\r\n\r\nModified Skin : Base\r\n\r\nAuthor : Jioubin\r\n\r\nMod Version : 1.0\r\n\r\nFeatures\r\n\r\n-New model and texture\r\n\r\n-New particles\r\n\r\n-Modified loading screen art\r\n\r\n-Modified champion icon\r\n\r\n-New VO\n\n---\n\n**Created by** [Jioubin](https://runeforge.dev/users/Jioubin)\n\n**Original:** https://runeforge.dev/mods/3c7a1405-cc0e-4ac5-900d-2a10a2487f04\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/naoya-zen-in-hecarim-bubble-pop-electric/thumb.webp?v=7539c50a",
+	"file": {
+		"version": 1,
+		"asset": "naoya-zen-in-hecarim-bubble-pop-electric-v1.fantome",
+		"size": 11605321,
+		"sha256": "edbe71c5ad36ceb3f45e355fc14ac34b5c261797495ebae271ebdcba2a1183c0"
+	},
+	"chromas": []
+}

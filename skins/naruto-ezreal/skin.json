@@ -1,0 +1,26 @@
+{
+	"id": "naruto-ezreal",
+	"name": "Naruto Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n____________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/ef51c080-8036-4fb3-afb2-cb1792507a7c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/naruto-ezreal/thumb.webp?v=f9bfa834",
+	"file": {
+		"version": 1,
+		"asset": "naruto-ezreal-v1.fantome",
+		"size": 75533584,
+		"sha256": "363fba339798edca5a7531e1813c3c89cfd0f0489b9cde3d484632b793eaf10d"
+	},
+	"chromas": []
+}

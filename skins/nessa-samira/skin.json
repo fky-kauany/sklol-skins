@@ -1,0 +1,26 @@
+{
+	"id": "nessa-samira",
+	"name": "Nessa Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "noctune",
+	"description": "### SKIN INFORMATION\r\n\r\nChampion: Samira\r\n\r\nModified skin: Base\r\n\r\nAuthor: Noctune\r\n\r\nVersion: 2.5\r\n\r\nDescription: changes samira to nessa from pokemon You can reach out to me through Discord(noctune.)\n\n---\n\n**Created by** [Noctune](https://runeforge.dev/users/Noctune)\n\n**Original:** https://runeforge.dev/mods/cad5c76b-becb-4dd1-ac6d-46c86256dbc2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nessa-samira/thumb.webp?v=e6551fec",
+	"file": {
+		"version": 1,
+		"asset": "nessa-samira-v1.fantome",
+		"size": 7802667,
+		"sha256": "c23da67f4a6e45f7f7cd9c25b53ac9e7ff303df46defd2304b276f36bc2ff9bc"
+	},
+	"chromas": []
+}

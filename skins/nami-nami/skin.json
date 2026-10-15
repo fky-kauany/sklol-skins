@@ -1,0 +1,22 @@
+{
+	"id": "nami-nami",
+	"name": "Nami Nami",
+	"champion": 267,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/deec13dd-5d91-475d-b640-6cb1428cd965\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nami-nami/thumb.webp?v=59bbae82",
+	"file": {
+		"version": 1,
+		"asset": "nami-nami-v1.fantome",
+		"size": 317603,
+		"sha256": "d700206aa4dbcd9ce7b94ce24cc5710c0afe4644b28853ad5d21db02feebde91"
+	},
+	"chromas": []
+}

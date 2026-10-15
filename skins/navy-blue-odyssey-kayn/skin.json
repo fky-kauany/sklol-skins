@@ -1,0 +1,22 @@
+{
+	"id": "navy-blue-odyssey-kayn",
+	"name": "Navy Blue Odyssey Kayn",
+	"champion": 141,
+	"base": 2,
+	"creator": "lkss",
+	"description": "**Champion: Kayn**\n\n**Required Skin: Odyssey Kayn** (Default Chroma, dont work with another chroma if its not default chroma)\n\nDiscord: lksswq\n\n---\n\n**Created by** [lkss](https://runeforge.dev/users/lkss)\n\n**Original:** https://runeforge.dev/mods/5da83378-0c1b-4393-8741-a9b7dd5e6a62\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/navy-blue-odyssey-kayn/thumb.webp?v=876c205d",
+	"file": {
+		"version": 1,
+		"asset": "navy-blue-odyssey-kayn-v1.fantome",
+		"size": 863497,
+		"sha256": "8b7afab0ba6b7eb9f4765b292a57e6a973dd89e163e179c1a050636a95aa3929"
+	},
+	"chromas": []
+}

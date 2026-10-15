@@ -1,0 +1,22 @@
+{
+	"id": "neeko-cannibal",
+	"name": "neeko_cannibal",
+	"champion": 518,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/09667f80-8f56-4852-a88f-6f6b49db9a17\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/neeko-cannibal/thumb.webp?v=c1702d04",
+	"file": {
+		"version": 1,
+		"asset": "neeko-cannibal-v1.fantome",
+		"size": 3371398,
+		"sha256": "5ddc1eeff75847036bb30487ccc403f0f346eee537cc55ceddec1793503d879d"
+	},
+	"chromas": []
+}
