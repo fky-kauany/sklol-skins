@@ -1,0 +1,23 @@
+{
+	"id": "mugetsu-yone",
+	"name": "Mugetsu Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "kaiokrr",
+	"description": "Mugetsu Ichigo skin on Yone\r\n(GO TO NIGHTSCAR YONE FOR ALTERNATIVE VER)\n\n---\n\n**Created by** [kaiokrr](https://runeforge.dev/users/kaiokrr)\n\n**Original:** https://runeforge.dev/mods/f141eee3-ffc6-4139-b945-01f84f3e5717\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mugetsu-yone/thumb.webp?v=e4f3a080",
+	"file": {
+		"version": 1,
+		"asset": "mugetsu-yone-v1.fantome",
+		"size": 1857215,
+		"sha256": "5d84cc7f90462d331252f2eb5bc5756eb798534048d1ccb996a213a7ef994115"
+	},
+	"chromas": []
+}

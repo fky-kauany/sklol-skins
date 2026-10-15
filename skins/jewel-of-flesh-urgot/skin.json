@@ -1,0 +1,26 @@
+{
+	"id": "jewel-of-flesh-urgot",
+	"name": "Jewel of Flesh Urgot",
+	"champion": 6,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/370277de-7bf1-477a-9b4e-497c860c93c6\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/jewel-of-flesh-urgot/thumb.webp?v=695efc89",
+	"file": {
+		"version": 1,
+		"asset": "jewel-of-flesh-urgot-v1.fantome",
+		"size": 10671786,
+		"sha256": "4d446a7873be1b3079764651a4f800edc16ef0735665f8d5270e7276f328fa4f"
+	},
+	"chromas": []
+}

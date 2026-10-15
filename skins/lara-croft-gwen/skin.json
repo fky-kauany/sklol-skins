@@ -1,0 +1,26 @@
+{
+	"id": "lara-croft-gwen",
+	"name": "Lara Croft Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "noice",
+	"description": "# Lara Kroft Gwen made by NOICE/Paler. \r\n\r\n# [DISCORD FOR UPDATES](https://discord.gg/jFZEKXNFP4)\r\n\r\n# INFO\r\n\r\nWorks for all skins.\r\n\r\nChampion: Gwen\r\n\r\nSkin Version: 1.0.9\r\n\r\nDescription: Lara Kroft Gwen\r\n\r\n# FEATURES\r\n\r\n-New model and textures\r\n\r\n-Modified loadingscreen.\r\n\r\n-Modified in-game icons.\r\n\r\n# [SUPPORT ME HERE](https://ko-fi.com/paler)\n\n---\n\n**Created by** [NOICE](https://runeforge.dev/users/NOICE)\n\n**Original:** https://runeforge.dev/mods/803bc57a-2874-497f-858b-86b7a9d05e42\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lara-croft-gwen/thumb.webp?v=0148d6ec",
+	"file": {
+		"version": 1,
+		"asset": "lara-croft-gwen-v1.fantome",
+		"size": 11990392,
+		"sha256": "a858c884cec76264b779005c40719b02979b2d5799f4cd679810d10924bef6ba"
+	},
+	"chromas": []
+}

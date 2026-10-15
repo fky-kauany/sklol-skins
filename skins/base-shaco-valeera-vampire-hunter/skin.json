@@ -1,0 +1,26 @@
+{
+	"id": "base-shaco-valeera-vampire-hunter",
+	"name": "Base Shaco - Valeera Vampire Hunter",
+	"champion": 35,
+	"base": 0,
+	"creator": "ravaanos-sarivur",
+	"description": "Valeera Vampire Hunter skin with my own \"Chroma\" ported to LoL, has custom animations including idle, VO, sfx, vfx, skill icons, spells, emotes, etc. Has small bugs with box for other shaco skins that use base box model. So if you are in elo where there are many shaco players and you are NOT playing shaco, probably disable it. Will fix when vanguard stops bsod-ing my PC. A bit late for Helloween, but still.\r\nREPLACES BASE SHACO, NO SKIN\n\n---\n\n**Created by** [Ravaanos_Sarivur](https://runeforge.dev/users/Ravaanos_Sarivur)\n\n**Original:** https://runeforge.dev/mods/ab0d8164-2067-4fba-bc6e-913642d34779\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/base-shaco-valeera-vampire-hunter/thumb.webp?v=d6b60e83",
+	"file": {
+		"version": 1,
+		"asset": "base-shaco-valeera-vampire-hunter-v1.fantome",
+		"size": 37177650,
+		"sha256": "be8377a5e81cd01719e1003ae154d6dea099a22c61717a34e6a3d58c82f8d81b"
+	},
+	"chromas": []
+}

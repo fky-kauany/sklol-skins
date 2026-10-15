@@ -1,0 +1,25 @@
+{
+	"id": "balatro-balatrez-twisted-fate",
+	"name": "Balatro Balatrez | Twisted Fate",
+	"champion": 4,
+	"base": 0,
+	"creator": "gloomytree",
+	"description": "Replaces Base Twisted Fate model, textures, SFX and VFX with some Balatro ones.\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/37e8fc17-6806-48a4-beb5-cde2482fabf8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/balatro-balatrez-twisted-fate/thumb.webp?v=efdd27f6",
+	"file": {
+		"version": 1,
+		"asset": "balatro-balatrez-twisted-fate-v1.fantome",
+		"size": 3695690,
+		"sha256": "7c7ab47ecaf18a60a7e9c423a88e0da96658b5bab0ed284449404db3c786929b"
+	},
+	"chromas": []
+}

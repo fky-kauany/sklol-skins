@@ -1,0 +1,24 @@
+{
+	"id": "baron-mordekaiser",
+	"name": "Baron Mordekaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Mordekaiser\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/a7a83ba4-d280-4fb6-8650-e64de92c36fc\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/baron-mordekaiser/thumb.webp?v=d5ccb530",
+	"file": {
+		"version": 1,
+		"asset": "baron-mordekaiser-v1.fantome",
+		"size": 5605182,
+		"sha256": "f7582986f7375469dbc28dba27b31d66952176a11357585dd3fdccf7a3dc5aa8"
+	},
+	"chromas": []
+}

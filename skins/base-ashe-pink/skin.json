@@ -1,0 +1,26 @@
+{
+	"id": "base-ashe-pink",
+	"name": "Base Ashe - Pink",
+	"champion": 22,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Base Ashe\r\n╰┈➤ _The idea for this mod was to make Ashe a girlypop chroma :3 I missed older champs not having base chromas, akin to Caitlyns so this is my version of that <3_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/3effdc83-6212-4fe6-a8cb-943fc8ce39fd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/base-ashe-pink/thumb.webp?v=12747056",
+	"file": {
+		"version": 1,
+		"asset": "base-ashe-pink-v1.fantome",
+		"size": 2406693,
+		"sha256": "8773f4f8cb9fbdbe5da94c83bf310ffa0e3af7943e48c9b7fca23c166d838c53"
+	},
+	"chromas": []
+}

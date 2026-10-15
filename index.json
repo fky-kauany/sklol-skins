@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:59:57.681Z",
+	"generatedAt": "2026-10-15T08:02:56.187Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -38,6 +38,15 @@
 			"links": {
 				"discord": "https://discord.gg/HEjuFmbm6g",
 				"site": "https://runeforge.dev/users/Moga"
+			}
+		},
+		"alexrogin123": {
+			"name": "alexrogin123",
+			"avatar": "creators/alexrogin123.jpg?v=4322abdb",
+			"bio": "I make custom chromas\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin",
+			"links": {
+				"site": "https://paypal.me/Rog04",
+				"youtube": "https://youtu.be/nlyEdu6eZvg"
 			}
 		},
 		"anakin025": {
@@ -258,6 +267,11 @@
 			"bio": "I do not exist.",
 			"links": {}
 		},
+		"demart": {
+			"name": "DEMART",
+			"avatar": "creators/demart.png?v=975141b3",
+			"links": {}
+		},
 		"demolishus": {
 			"name": "demolishus",
 			"avatar": "creators/demolishus.png?v=61615a35",
@@ -406,6 +420,14 @@
 			"avatar": "creators/gazor.webp?v=e4d83a29",
 			"links": {}
 		},
+		"gloomytree": {
+			"name": "Gloomy Tree",
+			"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
+			"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
+			"links": {
+				"youtube": "https://youtu.be/zmUGWKWTj7Q"
+			}
+		},
 		"gockar": {
 			"name": "Gockar",
 			"avatar": "creators/gockar.webp?v=5bed98c0",
@@ -468,6 +490,14 @@
 			"name": "JustV",
 			"avatar": "creators/justv.webp?v=af534d36",
 			"links": {}
+		},
+		"kaiokrr": {
+			"name": "kaiokrr",
+			"avatar": "creators/kaiokrr.jpg?v=fa6a545e",
+			"bio": "tw1nblades on discord",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=VkM7Xy1ZH7E"
+			}
 		},
 		"kaizen": {
 			"name": "Kaizen",
@@ -640,6 +670,15 @@
 			"avatar": "creators/neoritch.jpg?v=b937361e",
 			"links": {}
 		},
+		"noice": {
+			"name": "NOICE",
+			"avatar": "creators/noice.jpg?v=f3ee7820",
+			"bio": "I make gwen skins. Support me please (im broke) https://ko-fi.com/paler",
+			"links": {
+				"discord": "https://discord.gg/jFZEKXNFP4",
+				"kofi": "https://ko-fi.com/paler"
+			}
+		},
 		"northoff": {
 			"name": "northoff",
 			"avatar": "creators/northoff.webp?v=f10d7df0",
@@ -714,6 +753,11 @@
 		},
 		"ramo": {
 			"name": "ramo",
+			"links": {}
+		},
+		"ravaanos-sarivur": {
+			"name": "Ravaanos_Sarivur",
+			"avatar": "creators/ravaanos-sarivur.png?v=946e4cb0",
 			"links": {}
 		},
 		"rebels321": {
@@ -818,6 +862,12 @@
 			"links": {
 				"youtube": "https://www.youtube.com/@SirDexal"
 			}
+		},
+		"sofi9": {
+			"name": "Sofi9",
+			"avatar": "creators/sofi9.jpg?v=9a0354ea",
+			"bio": "Making custom skins for fun : )",
+			"links": {}
 		},
 		"spykeep": {
 			"name": "spykeep",
@@ -2664,6 +2714,230 @@
 			"chromas": []
 		},
 		{
+			"id": "baki-hanma-sett",
+			"name": "Baki Hanma Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/baki-hanma-sett/thumb.webp?v=88079b35",
+			"file": {
+				"version": 1,
+				"asset": "baki-hanma-sett-v1.fantome",
+				"size": 6285484,
+				"sha256": "fc64de826fcc3b116ffcf428928e4b8e74f2bbc70a1806a77751825d64fecf67"
+			},
+			"chromas": []
+		},
+		{
+			"id": "balatro-balatrez-twisted-fate",
+			"name": "Balatro Balatrez | Twisted Fate",
+			"champion": 4,
+			"base": 0,
+			"creator": "gloomytree",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/balatro-balatrez-twisted-fate/thumb.webp?v=efdd27f6",
+			"file": {
+				"version": 1,
+				"asset": "balatro-balatrez-twisted-fate-v1.fantome",
+				"size": 3695690,
+				"sha256": "7c7ab47ecaf18a60a7e9c423a88e0da96658b5bab0ed284449404db3c786929b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "baloon-dog-talon",
+			"name": "Baloon Dog Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/baloon-dog-talon/thumb.webp?v=19419511",
+			"file": {
+				"version": 1,
+				"asset": "baloon-dog-talon-v1.fantome",
+				"size": 1246001,
+				"sha256": "5d143d21fe2eafc78854d15a659dea25af3b9e7a931a64293eb4bf0176f43805"
+			},
+			"chromas": []
+		},
+		{
+			"id": "baron-mordekaiser",
+			"name": "Baron Mordekaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/baron-mordekaiser/thumb.webp?v=d5ccb530",
+			"file": {
+				"version": 1,
+				"asset": "baron-mordekaiser-v1.fantome",
+				"size": 5605182,
+				"sha256": "f7582986f7375469dbc28dba27b31d66952176a11357585dd3fdccf7a3dc5aa8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "barrel-rammus",
+			"name": "Barrel Rammus",
+			"champion": 33,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/barrel-rammus/thumb.webp?v=2f8cc415",
+			"file": {
+				"version": 1,
+				"asset": "barrel-rammus-v1.fantome",
+				"size": 78276,
+				"sha256": "799910c57b4c6bf1c4f4cd9aa03b712db27d05ce2e7c6859ff19e05c6ececfb7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "base-ashe-pink",
+			"name": "Base Ashe - Pink",
+			"champion": 22,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/base-ashe-pink/thumb.webp?v=12747056",
+			"file": {
+				"version": 1,
+				"asset": "base-ashe-pink-v1.fantome",
+				"size": 2406693,
+				"sha256": "8773f4f8cb9fbdbe5da94c83bf310ffa0e3af7943e48c9b7fca23c166d838c53"
+			},
+			"chromas": []
+		},
+		{
+			"id": "base-shaco-valeera-vampire-hunter",
+			"name": "Base Shaco - Valeera Vampire Hunter",
+			"champion": 35,
+			"base": 0,
+			"creator": "ravaanos-sarivur",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/base-shaco-valeera-vampire-hunter/thumb.webp?v=d6b60e83",
+			"file": {
+				"version": 1,
+				"asset": "base-shaco-valeera-vampire-hunter-v1.fantome",
+				"size": 37177650,
+				"sha256": "be8377a5e81cd01719e1003ae154d6dea099a22c61717a34e6a3d58c82f8d81b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "base-smolder-chemtech-drake",
+			"name": "Base Smolder - Chemtech Drake",
+			"champion": 901,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/base-smolder-chemtech-drake/thumb.webp?v=5853635b",
+			"file": {
+				"version": 1,
+				"asset": "base-smolder-chemtech-drake-v1.fantome",
+				"size": 7875061,
+				"sha256": "2a6d8d20ad57fac1fcd8c709704f5e79dcdcb1ecaa049b56b781550e01f6cf68"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-academia-ahri",
+			"name": "Battle Academia Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-academia-ahri/thumb.webp?v=acd28895",
+			"file": {
+				"version": 1,
+				"asset": "battle-academia-ahri-v1.fantome",
+				"size": 32194063,
+				"sha256": "66a149b3b2742006569c1a44f3e0889d1d89fac9c45701b25839a5165c974486"
+			},
+			"chromas": []
+		},
+		{
 			"id": "better-masquerade-evelynn",
 			"name": "Better Masquerade Evelynn",
 			"champion": 28,
@@ -3254,6 +3528,176 @@
 				"asset": "irelia-vasco-v1.fantome",
 				"size": 686854,
 				"sha256": "679109ef06688fd27c1f8aa5cf11060504294a6c5554cf8f5eae13e417f7941f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jewel-of-flesh-urgot",
+			"name": "Jewel of Flesh Urgot",
+			"champion": 6,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jewel-of-flesh-urgot/thumb.webp?v=695efc89",
+			"file": {
+				"version": 1,
+				"asset": "jewel-of-flesh-urgot-v1.fantome",
+				"size": 10671786,
+				"sha256": "4d446a7873be1b3079764651a4f800edc16ef0735665f8d5270e7276f328fa4f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-princess-kaisa",
+			"name": "Princess Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "sofi9",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-princess-kaisa/thumb.webp?v=f84be368",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-princess-kaisa-v1.fantome",
+				"size": 2554019,
+				"sha256": "4cd83f136c302ea417f9937624543d57a30395b7082602b48b4748fa74e12199"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lara-croft-gwen",
+			"name": "Lara Croft Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "noice",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lara-croft-gwen/thumb.webp?v=0148d6ec",
+			"file": {
+				"version": 1,
+				"asset": "lara-croft-gwen-v1.fantome",
+				"size": 11990392,
+				"sha256": "a858c884cec76264b779005c40719b02979b2d5799f4cd679810d10924bef6ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "leprous-sylas",
+			"name": "Leprous Sylas",
+			"champion": 517,
+			"base": 0,
+			"creator": "demart",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/leprous-sylas/thumb.webp?v=171c3d2b",
+			"file": {
+				"version": 1,
+				"asset": "leprous-sylas-v1.fantome",
+				"size": 223897,
+				"sha256": "86e8612ac705b12c2e854c20949a03a5a7417377fb8ff54c13a3f1e2ebb26c3a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "madara-zed",
+			"name": "Madara Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/madara-zed/thumb.webp?v=59375977",
+			"file": {
+				"version": 1,
+				"asset": "madara-zed-v1.fantome",
+				"size": 37410492,
+				"sha256": "a4eb8a12fe466e4250474270a3a81cfe3b34613eb3a7d240f57cdfd0a15c774b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-kingdoms-garen-purple-chroma",
+			"name": "Mecha Kingdoms Garen Purple Chroma",
+			"champion": 86,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-kingdoms-garen-purple-chroma/thumb.webp?v=e56b4327",
+			"file": {
+				"version": 1,
+				"asset": "mecha-kingdoms-garen-purple-chroma-v1.fantome",
+				"size": 3232742,
+				"sha256": "83164591fb7e34381d2c1e34cfd9da1c8732dbb623fdf2243e045fbcde33c6ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mugetsu-yone",
+			"name": "Mugetsu Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "kaiokrr",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mugetsu-yone/thumb.webp?v=e4f3a080",
+			"file": {
+				"version": 1,
+				"asset": "mugetsu-yone-v1.fantome",
+				"size": 1857215,
+				"sha256": "5d84cc7f90462d331252f2eb5bc5756eb798534048d1ccb996a213a7ef994115"
 			},
 			"chromas": []
 		},

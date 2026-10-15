@@ -1,0 +1,23 @@
+{
+	"id": "mecha-kingdoms-garen-purple-chroma",
+	"name": "Mecha Kingdoms Garen Purple Chroma",
+	"champion": 86,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: Mecha Kingdoms Garen\r\n\r\nAuthor: alexrogin123\r\n\r\nSkin Version: 1.0\r\n\r\nIf u wish to support my work u can do it here : https://paypal.me/Rog04\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/13ccd2f1-bdcf-4f0b-9630-bd93f8bfce6d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-kingdoms-garen-purple-chroma/thumb.webp?v=e56b4327",
+	"file": {
+		"version": 1,
+		"asset": "mecha-kingdoms-garen-purple-chroma-v1.fantome",
+		"size": 3232742,
+		"sha256": "83164591fb7e34381d2c1e34cfd9da1c8732dbb623fdf2243e045fbcde33c6ee"
+	},
+	"chromas": []
+}

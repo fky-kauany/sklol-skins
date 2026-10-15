@@ -1,0 +1,23 @@
+{
+	"id": "barrel-rammus",
+	"name": "Barrel Rammus",
+	"champion": 33,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\nGragas barrel but it's actually Rammus if you think about it\n\n**Modified champion: Rammus**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/d568bf40-c947-49b5-88a0-c611909eb8c0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/barrel-rammus/thumb.webp?v=2f8cc415",
+	"file": {
+		"version": 1,
+		"asset": "barrel-rammus-v1.fantome",
+		"size": 78276,
+		"sha256": "799910c57b4c6bf1c4f4cd9aa03b712db27d05ce2e7c6859ff19e05c6ececfb7"
+	},
+	"chromas": []
+}

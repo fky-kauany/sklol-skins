@@ -1,0 +1,24 @@
+{
+	"id": "kai-sa-princess-kaisa",
+	"name": "Princess Kaisa",
+	"champion": 145,
+	"base": 0,
+	"creator": "sofi9",
+	"description": "---\n\n**Created by** [Sofi9](https://runeforge.dev/users/Sofi9)\n\n**Original:** https://runeforge.dev/mods/874af700-b0b1-470e-8548-5844d8b189aa\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kai-sa-princess-kaisa/thumb.webp?v=f84be368",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-princess-kaisa-v1.fantome",
+		"size": 2554019,
+		"sha256": "4cd83f136c302ea417f9937624543d57a30395b7082602b48b4748fa74e12199"
+	},
+	"chromas": []
+}

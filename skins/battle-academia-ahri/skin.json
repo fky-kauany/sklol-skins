@@ -1,0 +1,26 @@
+{
+	"id": "battle-academia-ahri",
+	"name": "Battle Academia Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Ahri\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.7\n\n###### Description: Battle Academia Ahri\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1p9gw9sqCqObbfBPXxvF5vlO_M-KvIjnB?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/d55eb66d-b26d-4158-9f59-8c804da04b9b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-academia-ahri/thumb.webp?v=acd28895",
+	"file": {
+		"version": 1,
+		"asset": "battle-academia-ahri-v1.fantome",
+		"size": 32194063,
+		"sha256": "66a149b3b2742006569c1a44f3e0889d1d89fac9c45701b25839a5165c974486"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "baloon-dog-talon",
+	"name": "Baloon Dog Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "there's literally no context to this mod, it’s just a balloon dog on Talon and it walks somehow idfk how but it does walk, it’s really no secret, dogs can usually walk and baloon pop and people also can pop when you wqr them or maybe aaqraa them idk it seems goofy but i LOVE HAMBURGERS type goofy.\n\nMade by cam if it wasnt obvious\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/5ed98612-00fd-4e5e-91bb-e3ab66de9ebd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/baloon-dog-talon/thumb.webp?v=19419511",
+	"file": {
+		"version": 1,
+		"asset": "baloon-dog-talon-v1.fantome",
+		"size": 1246001,
+		"sha256": "5d143d21fe2eafc78854d15a659dea25af3b9e7a931a64293eb4bf0176f43805"
+	},
+	"chromas": []
+}

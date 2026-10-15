@@ -1,0 +1,22 @@
+{
+	"id": "leprous-sylas",
+	"name": "Leprous Sylas",
+	"champion": 517,
+	"base": 0,
+	"creator": "demart",
+	"description": "If you don’t have the opportunity to purchase an official skin (at its, of course, very fair and profitable price), I’m glad to offer you my own Sylas modification.\r\n\r\nThe chains, shackles, and the base skin have been replaced.\r\nPlease stay tuned for updates — I plan to continue improving it, or possibly rework it entirely.\r\n\r\nThis is my first mod, so I appreciate your understanding if you encounter any issues.\n\n---\n\n**Created by** [DEMART](https://runeforge.dev/users/DEMART)\n\n**Original:** https://runeforge.dev/mods/30f68819-c28f-4e2a-b70c-5e33435795a7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/leprous-sylas/thumb.webp?v=171c3d2b",
+	"file": {
+		"version": 1,
+		"asset": "leprous-sylas-v1.fantome",
+		"size": 223897,
+		"sha256": "86e8612ac705b12c2e854c20949a03a5a7417377fb8ff54c13a3f1e2ebb26c3a"
+	},
+	"chromas": []
+}

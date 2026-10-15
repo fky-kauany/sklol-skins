@@ -1,0 +1,25 @@
+{
+	"id": "baki-hanma-sett",
+	"name": "Baki Hanma Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Baki Hanma skin for Sett. Replaces the default skin.\n- Custom Model & Textures, VFX and icons.\n- Ensure that this mod is not enabled with other mods that also replaces the other ability icons. Otherwise it will result into different icons.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/12e329c3-91fe-4cde-9e95-6427648c4ced\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/baki-hanma-sett/thumb.webp?v=88079b35",
+	"file": {
+		"version": 1,
+		"asset": "baki-hanma-sett-v1.fantome",
+		"size": 6285484,
+		"sha256": "fc64de826fcc3b116ffcf428928e4b8e74f2bbc70a1806a77751825d64fecf67"
+	},
+	"chromas": []
+}

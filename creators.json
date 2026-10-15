@@ -37,6 +37,15 @@
 			"site": "https://runeforge.dev/users/Moga"
 		}
 	},
+	"alexrogin123": {
+		"name": "alexrogin123",
+		"avatar": "creators/alexrogin123.jpg?v=4322abdb",
+		"bio": "I make custom chromas\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin",
+		"links": {
+			"site": "https://paypal.me/Rog04",
+			"youtube": "https://youtu.be/nlyEdu6eZvg"
+		}
+	},
 	"anakin025": {
 		"name": "anakin025",
 		"links": {}
@@ -255,6 +264,11 @@
 		"bio": "I do not exist.",
 		"links": {}
 	},
+	"demart": {
+		"name": "DEMART",
+		"avatar": "creators/demart.png?v=975141b3",
+		"links": {}
+	},
 	"demolishus": {
 		"name": "demolishus",
 		"avatar": "creators/demolishus.png?v=61615a35",
@@ -403,6 +417,14 @@
 		"avatar": "creators/gazor.webp?v=e4d83a29",
 		"links": {}
 	},
+	"gloomytree": {
+		"name": "Gloomy Tree",
+		"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
+		"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
+		"links": {
+			"youtube": "https://youtu.be/zmUGWKWTj7Q"
+		}
+	},
 	"gockar": {
 		"name": "Gockar",
 		"avatar": "creators/gockar.webp?v=5bed98c0",
@@ -465,6 +487,14 @@
 		"name": "JustV",
 		"avatar": "creators/justv.webp?v=af534d36",
 		"links": {}
+	},
+	"kaiokrr": {
+		"name": "kaiokrr",
+		"avatar": "creators/kaiokrr.jpg?v=fa6a545e",
+		"bio": "tw1nblades on discord",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=VkM7Xy1ZH7E"
+		}
 	},
 	"kaizen": {
 		"name": "Kaizen",
@@ -637,6 +667,15 @@
 		"avatar": "creators/neoritch.jpg?v=b937361e",
 		"links": {}
 	},
+	"noice": {
+		"name": "NOICE",
+		"avatar": "creators/noice.jpg?v=f3ee7820",
+		"bio": "I make gwen skins. Support me please (im broke) https://ko-fi.com/paler",
+		"links": {
+			"discord": "https://discord.gg/jFZEKXNFP4",
+			"kofi": "https://ko-fi.com/paler"
+		}
+	},
 	"northoff": {
 		"name": "northoff",
 		"avatar": "creators/northoff.webp?v=f10d7df0",
@@ -711,6 +750,11 @@
 	},
 	"ramo": {
 		"name": "ramo",
+		"links": {}
+	},
+	"ravaanos-sarivur": {
+		"name": "Ravaanos_Sarivur",
+		"avatar": "creators/ravaanos-sarivur.png?v=946e4cb0",
 		"links": {}
 	},
 	"rebels321": {
@@ -815,6 +859,12 @@
 		"links": {
 			"youtube": "https://www.youtube.com/@SirDexal"
 		}
+	},
+	"sofi9": {
+		"name": "Sofi9",
+		"avatar": "creators/sofi9.jpg?v=9a0354ea",
+		"bio": "Making custom skins for fun : )",
+		"links": {}
 	},
 	"spykeep": {
 		"name": "spykeep",

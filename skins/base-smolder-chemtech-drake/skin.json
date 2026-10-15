@@ -1,0 +1,26 @@
+{
+	"id": "base-smolder-chemtech-drake",
+	"name": "Base Smolder - Chemtech Drake",
+	"champion": 901,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Base Smolder\r\n\r\n╰┈➤ _The idea for this mod was to make Smolder a chroma that old skins used to have - but making it so he's almost like a Chemtech Drake. If this gets enough love, I might make some based on other drakes!_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here (my discord server)**](https://discord.gg/6MTrrVbwgm), or here is [**more info**](https://1gem1.straw.page/) for anything else!\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/4776d2b1-ae01-46ad-bc4f-155f83c5aa11\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/base-smolder-chemtech-drake/thumb.webp?v=5853635b",
+	"file": {
+		"version": 1,
+		"asset": "base-smolder-chemtech-drake-v1.fantome",
+		"size": 7875061,
+		"sha256": "2a6d8d20ad57fac1fcd8c709704f5e79dcdcb1ecaa049b56b781550e01f6cf68"
+	},
+	"chromas": []
+}

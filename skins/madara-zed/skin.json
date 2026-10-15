@@ -1,0 +1,26 @@
+{
+	"id": "madara-zed",
+	"name": "Madara Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/5e7e9cb3-1779-45ea-926b-8bed90e811e6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/madara-zed/thumb.webp?v=59375977",
+	"file": {
+		"version": 1,
+		"asset": "madara-zed-v1.fantome",
+		"size": 37410492,
+		"sha256": "a4eb8a12fe466e4250474270a3a81cfe3b34613eb3a7d240f57cdfd0a15c774b"
+	},
+	"chromas": []
+}
