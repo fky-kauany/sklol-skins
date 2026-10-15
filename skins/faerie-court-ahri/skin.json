@@ -1,0 +1,23 @@
+{
+	"id": "faerie-court-ahri",
+	"name": "Faerie Court Ahri",
+	"champion": 103,
+	"base": 17,
+	"creator": "adrigowon",
+	"description": "PREVIEW\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n[https://www.tiktok.com/@adrigowon/video/7465314527203052822](https://www.tiktok.com/@adrigowon/video/7465314527203052822)\n\n\n\nINFO\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nReplaces Elderwood\n\nNew Model\n\n---\n\n**Created by** [adrigowon](https://runeforge.dev/users/adrigowon)\n\n**Original:** https://runeforge.dev/mods/6a661961-1fae-4206-af0d-59a01d2dc452\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/faerie-court-ahri/thumb.webp?v=03715a7b",
+	"file": {
+		"version": 1,
+		"asset": "faerie-court-ahri-v1.fantome",
+		"size": 3816822,
+		"sha256": "88441706f91d0ce6d55628f10c299a4ec447c4c5b0d680f9fa6d83a55f7557c6"
+	},
+	"chromas": []
+}

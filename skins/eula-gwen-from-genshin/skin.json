@@ -1,0 +1,25 @@
+{
+	"id": "eula-gwen-from-genshin",
+	"name": "Eula Gwen (from genshin)",
+	"champion": 887,
+	"base": 0,
+	"creator": "noice",
+	"description": "# Eula Gwen made by NOICE/Paler. \n\n# [DISCORD FOR UPDATES](https://discord.gg/jFZEKXNFP4)\n\n# INFO\n\nWorks for all skins.\n\nChampion: Gwen\n\nSkin Version: 1.0.0\n\nDescription: Eula from genshin impact as gwen.\n\n# FEATURES\n\n-New model and texture.\n\n-Modified loadingscreen.\n\n-Modified in-game icons.\n\n# [SUPPORT ME HERE](https://ko-fi.com/paler)\n\n---\n\n**Created by** [NOICE](https://runeforge.dev/users/NOICE)\n\n**Original:** https://runeforge.dev/mods/3d8c295f-c614-484a-94f9-af87b6b294e6\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eula-gwen-from-genshin/thumb.webp?v=14bd1265",
+	"file": {
+		"version": 1,
+		"asset": "eula-gwen-from-genshin-v1.fantome",
+		"size": 7984509,
+		"sha256": "338ce8cc63bdf7f2881e5ab85d85befd522f5267e05069ff59cbfab89fdead74"
+	},
+	"chromas": []
+}

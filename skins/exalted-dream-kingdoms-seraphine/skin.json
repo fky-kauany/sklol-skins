@@ -1,0 +1,26 @@
+{
+	"id": "exalted-dream-kingdoms-seraphine",
+	"name": "Exalted Dream Kingdoms Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Seraphine\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.0\r\n\r\n###### Description: Exalted Dream Kingdoms Seraphine\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\nSKIN MECHANICS:\r\n\r\nSeraphine has 7 states, the following states can be activated/deactivated within the game itself using Ctrl1:\r\n\r\n-Platform\r\n\r\n-Walking\r\n\r\n-Flying\r\n\r\n-Wheelchair\r\n\r\n-Skating\r\n\r\n-Magical Propellers\r\n\r\n-Unicorn\r\n\r\n\r\n*After using CTRL2 Seraphine will enter on the \"ENCHANTED MODE\" using her full potential and transforming almost all of her VFX into gold, that mode can be also toggled.\r\n\r\n\r\n\r\n*CTRL3- Will not be activated until the upcoming updates arrive so for now it doesn't do anything.\r\n\r\n\r\n\r\n*CTRL4- Seraphine performs a dynamic transformation in motion and uses her magic to switch between different speakers companions.\r\n\r\n\r\n\r\n*CTRL5- Main transformations, You can alternate Seraphine's look between the 4 main designs.\r\n\r\n\r\n\r\n*The transformations are independent, allowing for greater customization since you can choose the design you want of Seraphine, its platform, and its speakers.\r\n\r\n\r\n\r\n*IMPORTANT: The transformations on CTRL+1 were made to be used without moving, even so you can transform meanwhile Seraphine is running but some animations might be slightly bugged after it. However, Ctrl+4 can be used freely while moving around without causing any problems.\r\n\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/7d574b5a-18b4-487f-ad33-6f7d1b62f3d1\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/exalted-dream-kingdoms-seraphine/thumb.webp?v=2b0b8a08",
+	"file": {
+		"version": 1,
+		"asset": "exalted-dream-kingdoms-seraphine-v1.fantome",
+		"size": 99520040,
+		"sha256": "29ed8d52d6db82400522c2c4a839490c58a9e2f1ca1a9bf14b010d10f3de137f"
+	},
+	"chromas": []
+}

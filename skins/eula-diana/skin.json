@@ -1,0 +1,24 @@
+{
+	"id": "eula-diana",
+	"name": "Eula Diana",
+	"champion": 131,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Eula Diana\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.2.2\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/ec7684b7-4f53-46a2-8d24-63ae1d1c1d78\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eula-diana/thumb.webp?v=034edee8",
+	"file": {
+		"version": 1,
+		"asset": "eula-diana-v1.fantome",
+		"size": 7640945,
+		"sha256": "5bfb33d9769c0c31786c2a13ce00ef7d41b7eb662e7f5b2997969b89185b7aca"
+	},
+	"chromas": []
+}

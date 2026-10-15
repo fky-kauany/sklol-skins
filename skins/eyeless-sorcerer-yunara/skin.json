@@ -1,0 +1,25 @@
+{
+	"id": "eyeless-sorcerer-yunara",
+	"name": "Eyeless Sorcerer Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "froggles",
+	"description": "#### MOD INFORMATION\n\n* CHAMPION: Yunara\n* MODIFIED SKIN: Default\n* AUTHOR: Froggles\n\n#### FEATURES\n\n* New model & textures (Made from scratch)\n* Supports all champion quality settings\n* Recoloured Particles\n* Modified UI Icons\n* Animation Tweaks\n* Removed Voicelines\n\n---\n\n**Created by** [Froggles](https://runeforge.dev/users/Froggles)\n\n**Original:** https://runeforge.dev/mods/4cb02ef2-991d-4702-84c0-6f00f9ee5743\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eyeless-sorcerer-yunara/thumb.webp?v=202ce12b",
+	"file": {
+		"version": 1,
+		"asset": "eyeless-sorcerer-yunara-v1.fantome",
+		"size": 9925193,
+		"sha256": "999455df6a97b1102e314834aa938f48f523e69fb015c5880aedf8daba47216c"
+	},
+	"chromas": []
+}

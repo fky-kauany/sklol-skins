@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:12:41.778Z",
+	"generatedAt": "2026-10-15T09:15:57.878Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -32,6 +32,13 @@
 			"bio": "Making skins, games, music.",
 			"links": {
 				"x": "https://x.com/3dd3v"
+			}
+		},
+		"adrigowon": {
+			"name": "adrigowon",
+			"avatar": "creators/adrigowon.jpg?v=d7ebe59f",
+			"links": {
+				"tiktok": "https://www.tiktok.com/@adrigowon/video/7465314527203052822"
 			}
 		},
 		"agavuurha": {
@@ -1077,6 +1084,14 @@
 			"name": "Reza",
 			"avatar": "creators/reza.jpg?v=cb17b4f1",
 			"links": {}
+		},
+		"reznox": {
+			"name": "Rez",
+			"avatar": "creators/reznox.jpg?v=8fd33414",
+			"links": {
+				"instagram": "https://www.instagram.com/reznox.skins/",
+				"youtube": "https://www.youtube.com/@Reznoxskins"
+			}
 		},
 		"rolorolla": {
 			"name": "RoloRolla",
@@ -9074,6 +9089,30 @@
 			"chromas": []
 		},
 		{
+			"id": "esdeath-yunara",
+			"name": "Esdeath Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "reznox",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/esdeath-yunara/thumb.webp?v=679a05aa",
+			"file": {
+				"version": 1,
+				"asset": "esdeath-yunara-v1.fantome",
+				"size": 3166280,
+				"sha256": "08a15e6d778acdef1ef0ae89bc5edc394046dfcc80205dff59ff13fb28430b86"
+			},
+			"chromas": []
+		},
+		{
 			"id": "eternal-aspect-diana-form-change-tweak",
 			"name": "Eternal Aspect Diana form change tweak",
 			"champion": 131,
@@ -9095,6 +9134,228 @@
 				"asset": "eternal-aspect-diana-form-change-tweak-v1.fantome",
 				"size": 20623408,
 				"sha256": "ff6d24814f9ece8f05dd02f4df7c0d6c097be9029dad5b81c8d2480bd5bb6c59"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eula-diana",
+			"name": "Eula Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eula-diana/thumb.webp?v=034edee8",
+			"file": {
+				"version": 1,
+				"asset": "eula-diana-v1.fantome",
+				"size": 7640945,
+				"sha256": "5bfb33d9769c0c31786c2a13ce00ef7d41b7eb662e7f5b2997969b89185b7aca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eula-gwen-from-genshin",
+			"name": "Eula Gwen (from genshin)",
+			"champion": 887,
+			"base": 0,
+			"creator": "noice",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eula-gwen-from-genshin/thumb.webp?v=14bd1265",
+			"file": {
+				"version": 1,
+				"asset": "eula-gwen-from-genshin-v1.fantome",
+				"size": 7984509,
+				"sha256": "338ce8cc63bdf7f2881e5ab85d85befd522f5267e05069ff59cbfab89fdead74"
+			},
+			"chromas": []
+		},
+		{
+			"id": "exalted-dream-kingdoms-seraphine",
+			"name": "Exalted Dream Kingdoms Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/exalted-dream-kingdoms-seraphine/thumb.webp?v=2b0b8a08",
+			"file": {
+				"version": 1,
+				"asset": "exalted-dream-kingdoms-seraphine-v1.fantome",
+				"size": 99520040,
+				"sha256": "29ed8d52d6db82400522c2c4a839490c58a9e2f1ca1a9bf14b010d10f3de137f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "exorcist-syndra",
+			"name": "Exorcist Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/exorcist-syndra/thumb.webp?v=8fafc01b",
+			"file": {
+				"version": 1,
+				"asset": "exorcist-syndra-v1.fantome",
+				"size": 20396765,
+				"sha256": "828c604f2085b0c09333b2957a0df2745dfd9196f44898674f5babf33fefac64"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eyeless-sorcerer-yunara",
+			"name": "Eyeless Sorcerer Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "froggles",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eyeless-sorcerer-yunara/thumb.webp?v=202ce12b",
+			"file": {
+				"version": 1,
+				"asset": "eyeless-sorcerer-yunara-v1.fantome",
+				"size": 9925193,
+				"sha256": "999455df6a97b1102e314834aa938f48f523e69fb015c5880aedf8daba47216c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "faerie-court-ahri",
+			"name": "Faerie Court Ahri",
+			"champion": 103,
+			"base": 17,
+			"creator": "adrigowon",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/faerie-court-ahri/thumb.webp?v=03715a7b",
+			"file": {
+				"version": 1,
+				"asset": "faerie-court-ahri-v1.fantome",
+				"size": 3816822,
+				"sha256": "88441706f91d0ce6d55628f10c299a4ec447c4c5b0d680f9fa6d83a55f7557c6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "faerie-court-graves",
+			"name": "Faerie Court Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/faerie-court-graves/thumb.webp?v=52f49f1d",
+			"file": {
+				"version": 1,
+				"asset": "faerie-court-graves-v1.fantome",
+				"size": 17394300,
+				"sha256": "6c7ba329e0094698c4b32cc90c08f6babf796fc89e30400bb6542f2dbe665feb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "faerie-court-neeko",
+			"name": "Faerie Court Neeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/faerie-court-neeko/thumb.webp?v=bcbca512",
+			"file": {
+				"version": 1,
+				"asset": "faerie-court-neeko-v1.fantome",
+				"size": 27308026,
+				"sha256": "b79f65648c0416bcbcb3447095f36671765633b1037dbc6312f4dd4de4e96165"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fake-character-inking-blitzcrank",
+			"name": "Fake Character Inking Blitzcrank",
+			"champion": 53,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fake-character-inking-blitzcrank/thumb.webp?v=a9f7a643",
+			"file": {
+				"version": 1,
+				"asset": "fake-character-inking-blitzcrank-v1.fantome",
+				"size": 3531833,
+				"sha256": "fc0e85a6cfe2781559d7a0f6d20e1afefb92d0ea6b5de9fa727eaa79e7cae64d"
 			},
 			"chromas": []
 		},

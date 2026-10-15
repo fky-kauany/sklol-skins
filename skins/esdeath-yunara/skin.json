@@ -1,0 +1,24 @@
+{
+	"id": "esdeath-yunara",
+	"name": "Esdeath Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "reznox",
+	"description": "A simple Esdeath inspired remodel with custom aura effects that build up with Yunara’s stacks.\n\n---\n\n**Created by** [Rez](https://runeforge.dev/users/RezNox)\n\n**Original:** https://runeforge.dev/mods/9c9ae97b-e56d-492d-bf8d-2ce634a18be3\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/esdeath-yunara/thumb.webp?v=679a05aa",
+	"file": {
+		"version": 1,
+		"asset": "esdeath-yunara-v1.fantome",
+		"size": 3166280,
+		"sha256": "08a15e6d778acdef1ef0ae89bc5edc394046dfcc80205dff59ff13fb28430b86"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "faerie-court-graves",
+	"name": "Faerie Court Graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Graves with a custom-made model after Tesnuzzik‘s original concept for Faerie Court Graves, which you can find here: [https://tesnuzzik.artstation.com/projects/g0R928.](https://tesnuzzik.artstation.com/projects/g0R928.) Please check out the incredible work and support!\n\n## CREDITS\n\n* Model, Texture, & VFX: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n* Concept Art: [Tesnuzzik](https://x.com/Tesnuzzik)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on Faerie Court Graves's model](https://www.artstation.com/artwork/BX5Wo4) for a closer look.\n\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/b6820b57-425c-4812-900d-9adfafacd044\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/faerie-court-graves/thumb.webp?v=52f49f1d",
+	"file": {
+		"version": 1,
+		"asset": "faerie-court-graves-v1.fantome",
+		"size": 17394300,
+		"sha256": "6c7ba329e0094698c4b32cc90c08f6babf796fc89e30400bb6542f2dbe665feb"
+	},
+	"chromas": []
+}

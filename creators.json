@@ -31,6 +31,13 @@
 			"x": "https://x.com/3dd3v"
 		}
 	},
+	"adrigowon": {
+		"name": "adrigowon",
+		"avatar": "creators/adrigowon.jpg?v=d7ebe59f",
+		"links": {
+			"tiktok": "https://www.tiktok.com/@adrigowon/video/7465314527203052822"
+		}
+	},
 	"agavuurha": {
 		"name": "AGAVUURHA",
 		"avatar": "creators/agavuurha.jpg?v=974746b3",
@@ -1074,6 +1081,14 @@
 		"name": "Reza",
 		"avatar": "creators/reza.jpg?v=cb17b4f1",
 		"links": {}
+	},
+	"reznox": {
+		"name": "Rez",
+		"avatar": "creators/reznox.jpg?v=8fd33414",
+		"links": {
+			"instagram": "https://www.instagram.com/reznox.skins/",
+			"youtube": "https://www.youtube.com/@Reznoxskins"
+		}
 	},
 	"rolorolla": {
 		"name": "RoloRolla",

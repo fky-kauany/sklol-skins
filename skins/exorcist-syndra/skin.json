@@ -1,0 +1,24 @@
+{
+	"id": "exorcist-syndra",
+	"name": "Exorcist Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/ea50af9f-0607-42a7-8318-bc4faa466fff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/exorcist-syndra/thumb.webp?v=8fafc01b",
+	"file": {
+		"version": 1,
+		"asset": "exorcist-syndra-v1.fantome",
+		"size": 20396765,
+		"sha256": "828c604f2085b0c09333b2957a0df2745dfd9196f44898674f5babf33fefac64"
+	},
+	"chromas": []
+}
