@@ -1,0 +1,25 @@
+{
+	"id": "vexbloxiana-vex",
+	"name": "Vexbloxiana (Vex)",
+	"champion": 711,
+	"base": 0,
+	"creator": "beyonceknowles",
+	"description": "a mod made out of boredom and yaaaaaaa\n\n### VOICE IS FOR ENGLISH ONLY ATM!\n\nreplaces:\n\nbase vex.\n\nmodifications:\n\nmodels/textures, ui elements (loading screen, in-game), vfx, sfx.\n\n---\n\n**Created by** [beyonceknowles](https://runeforge.dev/users/beyonceknowles)\n\n**Original:** https://runeforge.dev/mods/d2f728da-8cbe-4c88-bf33-b6467d64d2e7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vexbloxiana-vex/thumb.webp?v=1a9c0939",
+	"file": {
+		"version": 1,
+		"asset": "vexbloxiana-vex-v1.fantome",
+		"size": 2264425,
+		"sha256": "08705b086b42f4cbd7d77bb46a0032c32e33c8e1bfb4022fe246a460917178f1"
+	},
+	"chromas": []
+}

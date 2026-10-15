@@ -1,0 +1,26 @@
+{
+	"id": "veigar-glep",
+	"name": "Veigar Glep",
+	"champion": 45,
+	"base": 0,
+	"creator": "alexd",
+	"description": "### Mod information\n\n***\n\n* Champion: Veigar\n* Modified skin: Base\n* Author: AleXD\n\n### Specifications\n\n***\n\n* New model\n* New VFX\n* Modified loadingscreen\n\n### Credits\n\n***\n\n* 3d Model: [https://sketchfab.com/3d-models/glep-from-smiling-friends-6dc1d9d7d2c948669bf97db92bfd3231](https://sketchfab.com/3d-models/glep-from-smiling-friends-6dc1d9d7d2c948669bf97db92bfd3231)\n* Rig + Animations by: me AleXD\n\n---\n\n**Created by** [AleXD](https://runeforge.dev/users/AleXD)\n\n**Original:** https://runeforge.dev/mods/5c6c6b9c-4227-473c-9953-644996d39bcd\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/veigar-glep/thumb.webp?v=6389a348",
+	"file": {
+		"version": 1,
+		"asset": "veigar-glep-v1.fantome",
+		"size": 7590410,
+		"sha256": "fdf1289754473c389643e1872929fefb37f92c19fe570a9ae1b21744086310fc"
+	},
+	"chromas": []
+}

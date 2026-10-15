@@ -1,0 +1,22 @@
+{
+	"id": "vi-without-the-boxer",
+	"name": "Vi Without the Boxer",
+	"champion": 254,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Vi**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/d0756644-11e8-442f-8d15-91e9210bfe6b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vi-without-the-boxer/thumb.webp?v=57ee88d5",
+	"file": {
+		"version": 1,
+		"asset": "vi-without-the-boxer-v1.fantome",
+		"size": 117108,
+		"sha256": "d3cb81ba1c2631437a2fa0a8eb8a7c9222a666d59db056e107c99ac3553d240f"
+	},
+	"chromas": []
+}

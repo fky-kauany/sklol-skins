@@ -1,0 +1,27 @@
+{
+	"id": "verity-gnar",
+	"name": "Verity Gnar",
+	"champion": 150,
+	"base": 0,
+	"creator": "mrpumpkin1243",
+	"description": "Verity Mod - MrPumpkin1243\r\nCustom Mini and Mega models\r\nRolling Mini Verity animation\r\nCrawling Evil Verity animation\r\nVerity voice lines\r\nCustom Evil Verity screeches\r\nMinecraft snowball auto attacks\r\nMinecraft iron ingot Q\r\nMinecraft grass block Mega Q\r\nMinecraft attack sound effects\r\nCustom jukebox recall\r\n\r\n\r\nThis is my first mod so let me know if you like it/ use it!!!\n\n---\n\n**Created by** [MrPumpkin1243](https://runeforge.dev/users/MrPumpkin1243)\n\n**Original:** https://runeforge.dev/mods/4801e04e-ff85-444e-8b6b-632837b6c72c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/verity-gnar/thumb.webp?v=ee9e42b9",
+	"file": {
+		"version": 1,
+		"asset": "verity-gnar-v1.fantome",
+		"size": 22381927,
+		"sha256": "acc20a91297f110bd86d44b2f88d1da2ff15313549df54c3ec2a77d8a59488e1"
+	},
+	"chromas": []
+}

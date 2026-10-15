@@ -1,0 +1,26 @@
+{
+	"id": "vergil-dmc3-for-yone",
+	"name": "Vergil DMC3 for Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "aaiopu",
+	"description": "First custom skin I made. Noticed the lack of Vergil in League and had to fix it.\nSkin replaces model, particles, sound effects, voice lines, and some animations.\nShoutout Runeforge wiki for basically teaching me everything and Yoru Queen of night for all the video tutorials.\n\nGithub page - https://github.com/Amouty/Lol-custom-made-skin\n\n---\n\n**Created by** [aaiopu](https://runeforge.dev/users/aaiopu)\n\n**Original:** https://runeforge.dev/mods/b5ae654c-921b-4a04-906f-d20e466761e3\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vergil-dmc3-for-yone/thumb.webp?v=1e856685",
+	"file": {
+		"version": 1,
+		"asset": "vergil-dmc3-for-yone-v1.fantome",
+		"size": 28155820,
+		"sha256": "60af53b5a430dc8710383f28692e08a62f0b3dedd55ad1dd8c09b020b006ecea"
+	},
+	"chromas": []
+}

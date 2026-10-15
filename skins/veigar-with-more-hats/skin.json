@@ -1,0 +1,24 @@
+{
+	"id": "veigar-with-more-hats",
+	"name": "Veigar with more hats",
+	"champion": 45,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\nEvery 25 stacks gives you a new hat\n\n**Modified champion: Veigar**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/da6543db-255e-4e07-be46-aa277a1e6d35\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/veigar-with-more-hats/thumb.webp?v=8bf529cb",
+	"file": {
+		"version": 1,
+		"asset": "veigar-with-more-hats-v1.fantome",
+		"size": 3689187,
+		"sha256": "47bbfce47b18c6236d55f1976906c3428e153e298cdaeede47cf93c25171a6fe"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "vex-pajama-guardian",
+	"name": "Vex Pajama Guardian",
+	"champion": 711,
+	"base": 0,
+	"creator": "gilgenas",
+	"description": "This mod change :\r\n- The model and texture of the base skin\r\n- The colours from most of the vfx\r\n- The icons for the skills\r\n- The splashart for the hud and loading game screen\n\n---\n\n**Created by** [Gilgenas](https://runeforge.dev/users/Gilgenas)\n\n**Original:** https://runeforge.dev/mods/b092a256-9ff5-4e35-b337-2570e4e39275\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vex-pajama-guardian/thumb.webp?v=e1102e22",
+	"file": {
+		"version": 1,
+		"asset": "vex-pajama-guardian-v1.fantome",
+		"size": 10541418,
+		"sha256": "75a3a8c2b4f898759440516c4932ff404df0f87545708feb6deafd38009e487f"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:35:54.187Z",
+	"generatedAt": "2026-10-15T14:38:50.579Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -716,6 +716,11 @@
 			"avatar": "creators/gehamond.png?v=e386811d",
 			"links": {}
 		},
+		"gilgenas": {
+			"name": "Gilgenas",
+			"avatar": "creators/gilgenas.jpg?v=4a15ebcb",
+			"links": {}
+		},
 		"glacierfrozzt": {
 			"name": "GlacierFroZzt",
 			"avatar": "creators/glacierfrozzt.jpg?v=f886fec2",
@@ -1130,6 +1135,10 @@
 			"links": {
 				"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
 			}
+		},
+		"mrpumpkin1243": {
+			"name": "MrPumpkin1243",
+			"links": {}
 		},
 		"mthx": {
 			"name": "mthx",
@@ -32962,6 +32971,229 @@
 				"asset": "vegito-blue-darius-v1.fantome",
 				"size": 7985995,
 				"sha256": "812387f434962a529bebec82ad69c3a8075860a3e80646a2e830faf95771002a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "veigar-glep",
+			"name": "Veigar Glep",
+			"champion": 45,
+			"base": 0,
+			"creator": "alexd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/veigar-glep/thumb.webp?v=6389a348",
+			"file": {
+				"version": 1,
+				"asset": "veigar-glep-v1.fantome",
+				"size": 7590410,
+				"sha256": "fdf1289754473c389643e1872929fefb37f92c19fe570a9ae1b21744086310fc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "veigar-with-more-hats",
+			"name": "Veigar with more hats",
+			"champion": 45,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/veigar-with-more-hats/thumb.webp?v=8bf529cb",
+			"file": {
+				"version": 1,
+				"asset": "veigar-with-more-hats-v1.fantome",
+				"size": 3689187,
+				"sha256": "47bbfce47b18c6236d55f1976906c3428e153e298cdaeede47cf93c25171a6fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vel-koz-velkoz-but-he-is-watching-the-entire-shr",
+			"name": "Velkoz but he is watching the entire Shrek movie",
+			"champion": 161,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vel-koz-velkoz-but-he-is-watching-the-entire-shr/thumb.webp?v=1cdf6dee",
+			"file": {
+				"version": 1,
+				"asset": "vel-koz-velkoz-but-he-is-watching-the-entire-shr-v1.fantome",
+				"size": 8631573,
+				"sha256": "3029449279447916fdcac82afc4d990a897cbc8ccde1e635f879b54228b78d38"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vergil-dmc3-for-yone",
+			"name": "Vergil DMC3 for Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "aaiopu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vergil-dmc3-for-yone/thumb.webp?v=1e856685",
+			"file": {
+				"version": 1,
+				"asset": "vergil-dmc3-for-yone-v1.fantome",
+				"size": 28155820,
+				"sha256": "60af53b5a430dc8710383f28692e08a62f0b3dedd55ad1dd8c09b020b006ecea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "verity-gnar",
+			"name": "Verity Gnar",
+			"champion": 150,
+			"base": 0,
+			"creator": "mrpumpkin1243",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/verity-gnar/thumb.webp?v=ee9e42b9",
+			"file": {
+				"version": 1,
+				"asset": "verity-gnar-v1.fantome",
+				"size": 22381927,
+				"sha256": "acc20a91297f110bd86d44b2f88d1da2ff15313549df54c3ec2a77d8a59488e1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vex-pajama-guardian",
+			"name": "Vex Pajama Guardian",
+			"champion": 711,
+			"base": 0,
+			"creator": "gilgenas",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vex-pajama-guardian/thumb.webp?v=e1102e22",
+			"file": {
+				"version": 1,
+				"asset": "vex-pajama-guardian-v1.fantome",
+				"size": 10541418,
+				"sha256": "75a3a8c2b4f898759440516c4932ff404df0f87545708feb6deafd38009e487f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vexbloxiana-vex",
+			"name": "Vexbloxiana (Vex)",
+			"champion": 711,
+			"base": 0,
+			"creator": "beyonceknowles",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vexbloxiana-vex/thumb.webp?v=1a9c0939",
+			"file": {
+				"version": 1,
+				"asset": "vexbloxiana-vex-v1.fantome",
+				"size": 2264425,
+				"sha256": "08705b086b42f4cbd7d77bb46a0032c32e33c8e1bfb4022fe246a460917178f1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vi-without-the-boxer",
+			"name": "Vi Without the Boxer",
+			"champion": 254,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vi-without-the-boxer/thumb.webp?v=57ee88d5",
+			"file": {
+				"version": 1,
+				"asset": "vi-without-the-boxer-v1.fantome",
+				"size": 117108,
+				"sha256": "d3cb81ba1c2631437a2fa0a8eb8a7c9222a666d59db056e107c99ac3553d240f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "viego-ctrl-5-toggle",
+			"name": "Viego ctrl+5 toggle",
+			"champion": 234,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/viego-ctrl-5-toggle/thumb.webp?v=5bc1e1a7",
+			"file": {
+				"version": 1,
+				"asset": "viego-ctrl-5-toggle-v1.fantome",
+				"size": 9066418,
+				"sha256": "18b95432e041d40a78ec639cb81969b533258b2f97b942c1cef4c57ca7c86b91"
 			},
 			"chromas": []
 		},

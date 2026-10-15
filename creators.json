@@ -713,6 +713,11 @@
 		"avatar": "creators/gehamond.png?v=e386811d",
 		"links": {}
 	},
+	"gilgenas": {
+		"name": "Gilgenas",
+		"avatar": "creators/gilgenas.jpg?v=4a15ebcb",
+		"links": {}
+	},
 	"glacierfrozzt": {
 		"name": "GlacierFroZzt",
 		"avatar": "creators/glacierfrozzt.jpg?v=f886fec2",
@@ -1127,6 +1132,10 @@
 		"links": {
 			"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
 		}
+	},
+	"mrpumpkin1243": {
+		"name": "MrPumpkin1243",
+		"links": {}
 	},
 	"mthx": {
 		"name": "mthx",
