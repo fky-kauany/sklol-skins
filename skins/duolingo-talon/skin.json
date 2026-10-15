@@ -1,0 +1,24 @@
+{
+	"id": "duolingo-talon",
+	"name": "Duolingo Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "Do NOT miss your spanish lesson!\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/343c7c0c-d7eb-4143-a58c-c0e3352681a8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/duolingo-talon/thumb.webp?v=99d010bb",
+	"file": {
+		"version": 1,
+		"asset": "duolingo-talon-v1.fantome",
+		"size": 1378488,
+		"sha256": "cddf6666f7a9982285a80361ebaf639c33a4ace6223908626ff15b38d7025ceb"
+	},
+	"chromas": []
+}

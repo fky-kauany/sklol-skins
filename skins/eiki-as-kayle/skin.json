@@ -1,0 +1,23 @@
+{
+	"id": "eiki-as-kayle",
+	"name": "Eiki as Kayle",
+	"champion": 10,
+	"base": 0,
+	"creator": "elbobbin",
+	"description": "---\n\n**Created by** [ElBobbin](https://runeforge.dev/users/ElBobbin)\n\n**Original:** https://runeforge.dev/mods/3f011978-eebe-417b-b292-21f02ddeab08\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eiki-as-kayle/thumb.webp?v=7d352135",
+	"file": {
+		"version": 1,
+		"asset": "eiki-as-kayle-v1.fantome",
+		"size": 4938302,
+		"sha256": "87f73b6f5a2ec538304c3c2b4150a1794576198d6dad6dc77bfae8f824352dea"
+	},
+	"chromas": []
+}

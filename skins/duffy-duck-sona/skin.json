@@ -1,0 +1,24 @@
+{
+	"id": "duffy-duck-sona",
+	"name": "Duffy Duck Sona",
+	"champion": 37,
+	"base": 0,
+	"creator": "cz",
+	"description": "Duffy Duck from Duck Dodgers as Sona\n\n---\n\n**Created by** [CZ](https://runeforge.dev/users/CZ)\n\n**Original:** https://runeforge.dev/mods/1e150618-e5bc-42d8-9d61-005bf5e94eff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/duffy-duck-sona/thumb.webp?v=7b2769da",
+	"file": {
+		"version": 1,
+		"asset": "duffy-duck-sona-v1.fantome",
+		"size": 939808,
+		"sha256": "696107217c48f6ec8655582a05cef3a66cb2e54bb90f126118566bd6a3b5f74d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "drx-caitlyn-pink-chroma",
+	"name": "DRX Caitlyn Pink Chroma",
+	"champion": 51,
+	"base": 0,
+	"creator": "hyperballad",
+	"description": "# Mod Info: #\r\n- Champion: Caitlyn\r\n- Modified Skin: DRX Caitlyn\r\n- Author: hyperballad\r\n\r\n### Features: ###\r\n- New all pink chroma\r\n- Pink VFX\r\n- Pink loading splashart\n\n---\n\n**Created by** [hyperballad](https://runeforge.dev/users/hyperballad)\n\n**Original:** https://runeforge.dev/mods/2cb66d55-f544-41b5-a46a-16fb4c3e2682\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/drx-caitlyn-pink-chroma/thumb.webp?v=682b8339",
+	"file": {
+		"version": 1,
+		"asset": "drx-caitlyn-pink-chroma-v1.fantome",
+		"size": 1119108,
+		"sha256": "eb6dcb9c187791a6f1529fbbc31e0845617f47726f8a2a9266814a710092e121"
+	},
+	"chromas": []
+}

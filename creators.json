@@ -456,6 +456,11 @@
 			"youtube": "https://www.youtube.com/@MOD_FORGE"
 		}
 	},
+	"elbobbin": {
+		"name": "ElBobbin",
+		"avatar": "creators/elbobbin.png?v=95899a33",
+		"links": {}
+	},
 	"elpibefixer": {
 		"name": "MarbixFixer",
 		"avatar": "creators/elpibefixer.jpg?v=b09a7194",
@@ -619,6 +624,13 @@
 	"hendrix21": {
 		"name": "hendrix21",
 		"links": {}
+	},
+	"hyperballad": {
+		"name": "hyperballad",
+		"avatar": "creators/hyperballad.jpg?v=7a4a621d",
+		"links": {
+			"youtube": "https://youtu.be/ni-0nLRdJvc"
+		}
 	},
 	"hyperios": {
 		"name": "HYPERIOS",

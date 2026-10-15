@@ -1,0 +1,26 @@
+{
+	"id": "edg-aphelios-ashen-knight",
+	"name": "EDG Aphelios - Ashen Knight",
+	"champion": 523,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - EDG Aphelios\r\n\r\n╰┈➤ _The idea for this mod was to make EDG Aphelios a chroma, but giving it a Ashen Knight esque chroma!_\r\n\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here**](https://1gem1.straw.page/customskinsquestions), or message me on discord (1gem1), or here is [**more info**](https://1gem1.straw.page/) for anything else!\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/9fa2e540-5fff-40ce-b609-ca77e372d4da\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/edg-aphelios-ashen-knight/thumb.webp?v=79bd252a",
+	"file": {
+		"version": 1,
+		"asset": "edg-aphelios-ashen-knight-v1.fantome",
+		"size": 10672652,
+		"sha256": "6deee3a157c382c71574538b36e990a27b30869109cac5b9960298d175d5a396"
+	},
+	"chromas": []
+}

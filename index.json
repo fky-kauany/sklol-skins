@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:06:30.661Z",
+	"generatedAt": "2026-10-15T09:09:34.180Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -459,6 +459,11 @@
 				"youtube": "https://www.youtube.com/@MOD_FORGE"
 			}
 		},
+		"elbobbin": {
+			"name": "ElBobbin",
+			"avatar": "creators/elbobbin.png?v=95899a33",
+			"links": {}
+		},
 		"elpibefixer": {
 			"name": "MarbixFixer",
 			"avatar": "creators/elpibefixer.jpg?v=b09a7194",
@@ -622,6 +627,13 @@
 		"hendrix21": {
 			"name": "hendrix21",
 			"links": {}
+		},
+		"hyperballad": {
+			"name": "hyperballad",
+			"avatar": "creators/hyperballad.jpg?v=7a4a621d",
+			"links": {
+				"youtube": "https://youtu.be/ni-0nLRdJvc"
+			}
 		},
 		"hyperios": {
 			"name": "HYPERIOS",
@@ -8535,6 +8547,148 @@
 			"chromas": []
 		},
 		{
+			"id": "dress-hina-syndra-blue-archive",
+			"name": "Dress Hina Syndra (Blue Archive)",
+			"champion": 134,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dress-hina-syndra-blue-archive/thumb.webp?v=5c9a8774",
+			"file": {
+				"version": 1,
+				"asset": "dress-hina-syndra-blue-archive-v1.fantome",
+				"size": 3577311,
+				"sha256": "ed6637fa8f4083c3e829b2274a8758b6162a7a3b4c1bae15f089fb9ef7c88f09"
+			},
+			"chromas": []
+		},
+		{
+			"id": "drx-caitlyn-pink-chroma",
+			"name": "DRX Caitlyn Pink Chroma",
+			"champion": 51,
+			"base": 0,
+			"creator": "hyperballad",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/drx-caitlyn-pink-chroma/thumb.webp?v=682b8339",
+			"file": {
+				"version": 1,
+				"asset": "drx-caitlyn-pink-chroma-v1.fantome",
+				"size": 1119108,
+				"sha256": "eb6dcb9c187791a6f1529fbbc31e0845617f47726f8a2a9266814a710092e121"
+			},
+			"chromas": []
+		},
+		{
+			"id": "duffy-duck-sona",
+			"name": "Duffy Duck Sona",
+			"champion": 37,
+			"base": 0,
+			"creator": "cz",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/duffy-duck-sona/thumb.webp?v=7b2769da",
+			"file": {
+				"version": 1,
+				"asset": "duffy-duck-sona-v1.fantome",
+				"size": 939808,
+				"sha256": "696107217c48f6ec8655582a05cef3a66cb2e54bb90f126118566bd6a3b5f74d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dunkmaster-darius-blue-chroma",
+			"name": "Dunkmaster Darius Blue Chroma",
+			"champion": 122,
+			"base": 53,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dunkmaster-darius-blue-chroma/thumb.webp?v=5fa71cab",
+			"file": {
+				"version": 1,
+				"asset": "dunkmaster-darius-blue-chroma-v1.fantome",
+				"size": 1519866,
+				"sha256": "e746b6a0b2f9abaeabfcd5e15a9a7c689cae0c10f173815a413464485336fee9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "duolingo-talon",
+			"name": "Duolingo Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/duolingo-talon/thumb.webp?v=99d010bb",
+			"file": {
+				"version": 1,
+				"asset": "duolingo-talon-v1.fantome",
+				"size": 1378488,
+				"sha256": "cddf6666f7a9982285a80361ebaf639c33a4ace6223908626ff15b38d7025ceb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dusknoir-malzahar",
+			"name": "Dusknoir Malzahar",
+			"champion": 90,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dusknoir-malzahar/thumb.webp?v=a50652fe",
+			"file": {
+				"version": 1,
+				"asset": "dusknoir-malzahar-v1.fantome",
+				"size": 3836402,
+				"sha256": "48cf9572d16b3c61c7cb5d4c06b92e45503415df8ba55f11b861984fce0504b2"
+			},
+			"chromas": []
+		},
+		{
 			"id": "eclipse-eternal-aspect-diana-form-change-tweak",
 			"name": "Eclipse Eternal Aspect Diana form change tweak",
 			"champion": 131,
@@ -8556,6 +8710,102 @@
 				"asset": "eclipse-eternal-aspect-diana-form-change-tweak-v1.fantome",
 				"size": 11056139,
 				"sha256": "533a4199423a5071b3a0dedb75dab5595e7e7fc66015d031c6078277523c93c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eclipse-locke",
+			"name": "Eclipse Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "epel",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eclipse-locke/thumb.webp?v=52613dfc",
+			"file": {
+				"version": 1,
+				"asset": "eclipse-locke-v1.fantome",
+				"size": 8778406,
+				"sha256": "3c0b3d483e9b090a6a6fe046026123003379eef844cabb8b9f7d8f786945ba73"
+			},
+			"chromas": []
+		},
+		{
+			"id": "edg-aphelios-ashen-knight",
+			"name": "EDG Aphelios - Ashen Knight",
+			"champion": 523,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/edg-aphelios-ashen-knight/thumb.webp?v=79bd252a",
+			"file": {
+				"version": 1,
+				"asset": "edg-aphelios-ashen-knight-v1.fantome",
+				"size": 10672652,
+				"sha256": "6deee3a157c382c71574538b36e990a27b30869109cac5b9960298d175d5a396"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eiki-as-kayle",
+			"name": "Eiki as Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "elbobbin",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eiki-as-kayle/thumb.webp?v=7d352135",
+			"file": {
+				"version": 1,
+				"asset": "eiki-as-kayle-v1.fantome",
+				"size": 4938302,
+				"sha256": "87f73b6f5a2ec538304c3c2b4150a1794576198d6dad6dc77bfae8f824352dea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ekko-hair-recolors",
+			"name": "Ekko Hair Recolors",
+			"champion": 245,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ekko-hair-recolors/thumb.webp?v=96fc78b5",
+			"file": {
+				"version": 1,
+				"asset": "ekko-hair-recolors-v1.fantome",
+				"size": 142817,
+				"sha256": "a36a6709da11656d9c5e67a85ee7d9018c92576bbc69acf3a6288700a2fcb2f8"
 			},
 			"chromas": []
 		},

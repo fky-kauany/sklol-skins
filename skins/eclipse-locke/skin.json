@@ -1,0 +1,25 @@
+{
+	"id": "eclipse-locke",
+	"name": "Eclipse Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "epel",
+	"description": "Custom skin made for Locke with a custom model, animations and sounds. Hope you guys enjoy it.\n\n---\n\n**Created by** [epel](https://runeforge.dev/users/epel)\n\n**Original:** https://runeforge.dev/mods/7dfc7e44-460b-47d5-a5f2-07f1fbe2bad6\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eclipse-locke/thumb.webp?v=52613dfc",
+	"file": {
+		"version": 1,
+		"asset": "eclipse-locke-v1.fantome",
+		"size": 8778406,
+		"sha256": "3c0b3d483e9b090a6a6fe046026123003379eef844cabb8b9f7d8f786945ba73"
+	},
+	"chromas": []
+}

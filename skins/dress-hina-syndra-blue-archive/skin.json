@@ -1,0 +1,24 @@
+{
+	"id": "dress-hina-syndra-blue-archive",
+	"name": "Dress Hina Syndra (Blue Archive)",
+	"champion": 134,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "skin uses: default\r\nmodel's author: mordecai\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/b2897a79-0696-414f-8c44-fbacc4c92948\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dress-hina-syndra-blue-archive/thumb.webp?v=5c9a8774",
+	"file": {
+		"version": 1,
+		"asset": "dress-hina-syndra-blue-archive-v1.fantome",
+		"size": 3577311,
+		"sha256": "ed6637fa8f4083c3e829b2274a8758b6162a7a3b4c1bae15f089fb9ef7c88f09"
+	},
+	"chromas": []
+}
