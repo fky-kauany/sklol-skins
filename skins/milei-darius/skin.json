@@ -1,0 +1,26 @@
+{
+	"id": "milei-darius",
+	"name": "Milei Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "estebang4mer",
+	"description": "**BASE CHAMPION**: Darius\r\n\r\n**MODIFIED SKIN**: Default\r\n\r\n**AUTHOR**: EstebanG4mer\r\n\r\n**MOD VERSION**: 1.2.0\r\n\r\n**FEATURES**:\r\n\r\n\\- New model and textures.\r\n\r\n\\- Modified loading screen.\r\n\r\n\\- New sounds.\r\n\r\n\\- New splashart loading screen.\r\n\r\n\\- New ability icons and HUD.\r\n\r\n**CREDITS**: Modded by EstebanG4mer\n\n---\n\n**Created by** [EstebanG4mer](https://runeforge.dev/users/EstebanG4mer)\n\n**Original:** https://runeforge.dev/mods/f5cbf224-79a4-4ec6-9b16-1bdaeed754d3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/milei-darius/thumb.webp?v=546c989a",
+	"file": {
+		"version": 1,
+		"asset": "milei-darius-v1.fantome",
+		"size": 29394890,
+		"sha256": "5da042c3c03262728d87a4df6cdb1d03f019234f80ca0aa8546394557d8afba5"
+	},
+	"chromas": []
+}

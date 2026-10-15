@@ -1,0 +1,23 @@
+{
+	"id": "midnight-ink-smolder",
+	"name": "Midnight ink - Smolder",
+	"champion": 901,
+	"base": 0,
+	"creator": "yuumadin",
+	"description": "[HAS]\r\nBase skin retextured.\r\nVFX rexcolor.\r\n\r\n[DOESNT HAVE]\r\ncustom splashart or icons.\n\n---\n\n**Created by** [Yuumadin](https://runeforge.dev/users/Yuumadin)\n\n**Original:** https://runeforge.dev/mods/372fac60-05c0-484a-99e8-4544cefa503f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/midnight-ink-smolder/thumb.webp?v=78066eb9",
+	"file": {
+		"version": 1,
+		"asset": "midnight-ink-smolder-v1.fantome",
+		"size": 558843,
+		"sha256": "6203cfdd9438ba385fe8ebf7b12437d1e5e7b4fd4cfde173e745887a8f4f7586"
+	},
+	"chromas": []
+}

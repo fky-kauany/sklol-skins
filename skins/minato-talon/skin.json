@@ -1,0 +1,26 @@
+{
+	"id": "minato-talon",
+	"name": "Minato Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/78184a71-42c0-40e9-a7d4-79b6f8795663\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/minato-talon/thumb.webp?v=29dea6fd",
+	"file": {
+		"version": 1,
+		"asset": "minato-talon-v1.fantome",
+		"size": 51943677,
+		"sha256": "83f3996432c096006a2b037bd59f782db2bfc57b3450c559f8a40ee6e7b8cc63"
+	},
+	"chromas": []
+}

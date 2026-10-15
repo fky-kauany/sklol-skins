@@ -1,0 +1,26 @@
+{
+	"id": "mimikyu-briar",
+	"name": "Mimikyu Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Briar\r\n\r\n**SKIN REPLACE:** Base Skin\r\n\r\n**UNIQUE FEATURE**\r\n\r\n* There is now a 1% chance to get a shiny variant at the start of each game.\r\n\r\n**CUSTOM VFX**\r\n\r\n* Abilities\r\n* Basic Attacks\r\n* Joke Emote\r\n\r\n**CUSTOM ANIMATIONS**\r\n\r\n* Idle\r\n* Attack\r\n* Abilities\r\n* Recall\r\n* Emotes\r\n* Death and Respawn\r\n\r\n**CUSTOM SFX**\r\n\r\n* Emotes\r\n* Ability W and E\r\n* Recall\r\n* Death and Respawn\r\n\r\n**CUSTOM VO**\r\n\r\n* First Encounter Interaction with Pikachu Kennen\r\n\r\n**CUSTOM MODEL AND TEXTURES**\r\n\r\n* Mimikyu model taken from Pokemon USUM\r\n\r\n**CREDITS**\r\n\r\n* Modded by Nyht&#x20;\r\n* Voiceover by Nyht&#x20;\r\n* Recall Music by Refi Sleep Music: [Pokémon Center Theme | Slow & Peaceful Sleep Music](https://www.youtube.com/watch?v=juZ6U3-hM0o)\r\n* Dance Music by Lofi Lia: [Pokémon Original Series - Theme Song (Lofi Lia Remix)](https://www.youtube.com/watch?v=H7awWKXT4T8)\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/4b24b35d-861c-4a86-a2d2-a98334322d55\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mimikyu-briar/thumb.webp?v=35a48d3c",
+	"file": {
+		"version": 1,
+		"asset": "mimikyu-briar-v1.fantome",
+		"size": 10180381,
+		"sha256": "8ded60baa86c98d5e5106b76f44a05a5c9dc76ed432b1533b4157f358504ca32"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "mike-wazowski-malphite",
+	"name": "Mike Wazowski Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Malphite\n\n**SKIN REPLACE:** Base Skin\n\n**CUSTOM MODEL AND TEXTURES**\n\n* &#x20;Mike Wazowski model taken from Disney Magic Kingdoms\n\n**CREDITS**\n\n* Modded by Nyht Seven\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/fd8a15a4-9a88-4a1d-9740-09c6dfe98952\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mike-wazowski-malphite/thumb.webp?v=1ff230ed",
+	"file": {
+		"version": 1,
+		"asset": "mike-wazowski-malphite-v1.fantome",
+		"size": 542956,
+		"sha256": "079a88c13a37f8056253970557c7d4d84c03dac0d2263f140db0ea17b42668d9"
+	},
+	"chromas": []
+}

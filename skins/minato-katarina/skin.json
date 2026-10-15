@@ -1,0 +1,26 @@
+{
+	"id": "minato-katarina",
+	"name": "Minato Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (Matth Spotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n____________________________________________________________________________________________________________________\n\nMy Contacts:\n\nDiscord server: https://discord.com/invite/JyTwT38x9\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/d9bf6e38-9345-457f-a6f1-363e5e9442c0\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/minato-katarina/thumb.webp?v=a404fb30",
+	"file": {
+		"version": 1,
+		"asset": "minato-katarina-v1.fantome",
+		"size": 97906021,
+		"sha256": "ee9f4afd7b35c59a3b802cd6f545bea0ee3960de4190a6bbacfa913519125c45"
+	},
+	"chromas": []
+}

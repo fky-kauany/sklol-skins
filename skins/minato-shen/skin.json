@@ -1,0 +1,26 @@
+{
+	"id": "minato-shen",
+	"name": "Minato Shen",
+	"champion": 98,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/f0bc96fe-9db1-42d6-b5ca-2b5488fab044\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/minato-shen/thumb.webp?v=38acb2c8",
+	"file": {
+		"version": 1,
+		"asset": "minato-shen-v1.fantome",
+		"size": 121895587,
+		"sha256": "7f9dfa85be9ba22dcc9069d063331365c30268be225553122d997b543e3d1fef"
+	},
+	"chromas": []
+}

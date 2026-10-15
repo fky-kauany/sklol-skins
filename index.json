@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:47:03.899Z",
+	"generatedAt": "2026-10-15T11:50:29.446Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -21665,6 +21665,256 @@
 				"asset": "microwave-udyr-v1.fantome",
 				"size": 7085244,
 				"sha256": "5a0a8104bc82127d106de96d0ce566a74167630f77518aa3668594957b8de565"
+			},
+			"chromas": []
+		},
+		{
+			"id": "midnight-ink-smolder",
+			"name": "Midnight ink - Smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "yuumadin",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/midnight-ink-smolder/thumb.webp?v=78066eb9",
+			"file": {
+				"version": 1,
+				"asset": "midnight-ink-smolder-v1.fantome",
+				"size": 558843,
+				"sha256": "6203cfdd9438ba385fe8ebf7b12437d1e5e7b4fd4cfde173e745887a8f4f7586"
+			},
+			"chromas": []
+		},
+		{
+			"id": "midori-ezreal-blue-archive",
+			"name": "Midori (Ezreal) [Blue Archive]",
+			"champion": 81,
+			"base": 0,
+			"creator": "azure",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/midori-ezreal-blue-archive/thumb.webp?v=82ce9e8a",
+			"file": {
+				"version": 1,
+				"asset": "midori-ezreal-blue-archive-v1.fantome",
+				"size": 24354443,
+				"sha256": "556bafce21419aa93cf471436c39a06e18076d5a6977cff7e6b5f6b758f1ca69"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mike-wazowski-malphite",
+			"name": "Mike Wazowski Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mike-wazowski-malphite/thumb.webp?v=1ff230ed",
+			"file": {
+				"version": 1,
+				"asset": "mike-wazowski-malphite-v1.fantome",
+				"size": 542956,
+				"sha256": "079a88c13a37f8056253970557c7d4d84c03dac0d2263f140db0ea17b42668d9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "milei-darius",
+			"name": "Milei Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "estebang4mer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/milei-darius/thumb.webp?v=546c989a",
+			"file": {
+				"version": 1,
+				"asset": "milei-darius-v1.fantome",
+				"size": 29394890,
+				"sha256": "5da042c3c03262728d87a4df6cdb1d03f019234f80ca0aa8546394557d8afba5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "milio-without-the-kid",
+			"name": "Milio Without the Kid",
+			"champion": 902,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/milio-without-the-kid/thumb.webp?v=c4751c60",
+			"file": {
+				"version": 1,
+				"asset": "milio-without-the-kid-v1.fantome",
+				"size": 87812,
+				"sha256": "10a0cdeb414f03f2ae93f78bf8b1878d7ddaf6b35c9453dcd29bb291479c5c8f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mimikyu-briar",
+			"name": "Mimikyu Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mimikyu-briar/thumb.webp?v=35a48d3c",
+			"file": {
+				"version": 1,
+				"asset": "mimikyu-briar-v1.fantome",
+				"size": 10180381,
+				"sha256": "8ded60baa86c98d5e5106b76f44a05a5c9dc76ed432b1533b4157f358504ca32"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minato-katarina",
+			"name": "Minato Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/minato-katarina/thumb.webp?v=a404fb30",
+			"file": {
+				"version": 1,
+				"asset": "minato-katarina-v1.fantome",
+				"size": 97906021,
+				"sha256": "ee9f4afd7b35c59a3b802cd6f545bea0ee3960de4190a6bbacfa913519125c45"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minato-shen",
+			"name": "Minato Shen",
+			"champion": 98,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/minato-shen/thumb.webp?v=38acb2c8",
+			"file": {
+				"version": 1,
+				"asset": "minato-shen-v1.fantome",
+				"size": 121895587,
+				"sha256": "7f9dfa85be9ba22dcc9069d063331365c30268be225553122d997b543e3d1fef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minato-talon",
+			"name": "Minato Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/minato-talon/thumb.webp?v=29dea6fd",
+			"file": {
+				"version": 1,
+				"asset": "minato-talon-v1.fantome",
+				"size": 51943677,
+				"sha256": "83f3996432c096006a2b037bd59f782db2bfc57b3450c559f8a40ee6e7b8cc63"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minecraft-aatrox",
+			"name": "Minecraft Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/minecraft-aatrox/thumb.webp?v=d487fc01",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-aatrox-v1.fantome",
+				"size": 1499595,
+				"sha256": "882a576170903a3bc0cf126b883364c03039578464d657743a08e64b44a538b7"
 			},
 			"chromas": []
 		},

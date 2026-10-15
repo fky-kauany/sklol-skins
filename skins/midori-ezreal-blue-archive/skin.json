@@ -1,0 +1,27 @@
+{
+	"id": "midori-ezreal-blue-archive",
+	"name": "Midori (Ezreal) [Blue Archive]",
+	"champion": 81,
+	"base": 0,
+	"creator": "azure",
+	"description": "Replaces Ezreal's base skin with Saiba Midori from Blue Archive.\n\n\n\nIf you need help with anything you can message me on Discord. My username is Azurne!!\n\n---\n\n**Created by** [Azure](https://runeforge.dev/users/Azure)\n\n**Original:** https://runeforge.dev/mods/2b69e7f1-db7f-40d5-b6ad-520352d1efa0\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/midori-ezreal-blue-archive/thumb.webp?v=82ce9e8a",
+	"file": {
+		"version": 1,
+		"asset": "midori-ezreal-blue-archive-v1.fantome",
+		"size": 24354443,
+		"sha256": "556bafce21419aa93cf471436c39a06e18076d5a6977cff7e6b5f6b758f1ca69"
+	},
+	"chromas": []
+}
