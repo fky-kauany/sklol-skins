@@ -1,0 +1,24 @@
+{
+	"id": "hololive-smol-ceres-fauna-lulu",
+	"name": "Hololive Smol Ceres Fauna Lulu",
+	"champion": 117,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Lulu\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n\n### SPECIFICATIONSNew model and texture****&#x20;\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Smol Ceres Fauna 3D moidel in this mod is from ( [https://sketchfab.com/3d-models/beegsmol-councilrys-hololive-en-5517f50fd178493fa29b075d870351bd](https://sketchfab.com/3d-models/beegsmol-councilrys-hololive-en-5517f50fd178493fa29b075d870351bd) )&#x20;\n* Loadscreen art by: ( [https://danbooru.donmai.us/posts/5491351?q=parent%3A5491351](https://danbooru.donmai.us/posts/5491351?q=parent%3A5491351) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/5e21c4e1-514f-4900-8b54-3bbf810804a7\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-smol-ceres-fauna-lulu/thumb.webp?v=1badc904",
+	"file": {
+		"version": 1,
+		"asset": "hololive-smol-ceres-fauna-lulu-v1.fantome",
+		"size": 5590526,
+		"sha256": "527cfca6f0ecc3e9927a1946f0e76efaa61fb0b8dcfdc0163f30b9735c10c491"
+	},
+	"chromas": []
+}

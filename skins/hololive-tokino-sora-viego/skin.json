@@ -1,0 +1,25 @@
+{
+	"id": "hololive-tokino-sora-viego",
+	"name": "Hololive Tokino Sora Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Viego\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.3\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Tokino Sora 3D model in this mod is from link: ( [https://3d.nicovideo.jp/works/td63641](https://3d.nicovideo.jp/works/td63641) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/9694eadb-b27d-4272-9381-b1f76f04c6fa\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-tokino-sora-viego/thumb.webp?v=ae8f6080",
+	"file": {
+		"version": 1,
+		"asset": "hololive-tokino-sora-viego-v1.fantome",
+		"size": 14774445,
+		"sha256": "d1c7b31a0d50644d2b3dc2310ce4f279174417a9dec1ac148d05d491afd4813c"
+	},
+	"chromas": []
+}

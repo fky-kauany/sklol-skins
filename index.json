@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:33:46.643Z",
+	"generatedAt": "2026-10-15T10:36:56.196Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -15658,6 +15658,252 @@
 				"asset": "hololive-shishiro-botan-samira-v1.fantome",
 				"size": 15731614,
 				"sha256": "2c152aa1ef5e26f5604200c54d90ea33100e88f984fa3836df4446c8b65bbb41"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-smol-ceres-fauna-lulu",
+			"name": "Hololive Smol Ceres Fauna Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-smol-ceres-fauna-lulu/thumb.webp?v=1badc904",
+			"file": {
+				"version": 1,
+				"asset": "hololive-smol-ceres-fauna-lulu-v1.fantome",
+				"size": 5590526,
+				"sha256": "527cfca6f0ecc3e9927a1946f0e76efaa61fb0b8dcfdc0163f30b9735c10c491"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-ssrb-yuumi",
+			"name": "Hololive SSRB Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-ssrb-yuumi/thumb.webp?v=b25e7e5f",
+			"file": {
+				"version": 1,
+				"asset": "hololive-ssrb-yuumi-v1.fantome",
+				"size": 4616287,
+				"sha256": "dc4706950e08c346044a0035617d4556f9c18cd619875a80bed7750cd3fe7e47"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-takane-lui-nilah",
+			"name": "Hololive Takane Lui Nilah",
+			"champion": 895,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-takane-lui-nilah/thumb.webp?v=b6f82561",
+			"file": {
+				"version": 1,
+				"asset": "hololive-takane-lui-nilah-v1.fantome",
+				"size": 9881098,
+				"sha256": "e403a90fca250f3190db14b78aaac2b5ae0258b7ea88fd7d9dd2caaf496d2554"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-tokino-sora-viego",
+			"name": "Hololive Tokino Sora Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-tokino-sora-viego/thumb.webp?v=ae8f6080",
+			"file": {
+				"version": 1,
+				"asset": "hololive-tokino-sora-viego-v1.fantome",
+				"size": 14774445,
+				"sha256": "d1c7b31a0d50644d2b3dc2310ce4f279174417a9dec1ac148d05d491afd4813c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-tokoyami-towa-kayle",
+			"name": "Hololive Tokoyami Towa Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-tokoyami-towa-kayle/thumb.webp?v=7ae4e7b7",
+			"file": {
+				"version": 1,
+				"asset": "hololive-tokoyami-towa-kayle-v1.fantome",
+				"size": 18050870,
+				"sha256": "d3b1020e078582b6f4e8a8c183069561bcfe64a8da608d61e1bdac9fdbeb1c36"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-tsunomaki-watame-bard",
+			"name": "Hololive Tsunomaki Watame Bard",
+			"champion": 432,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-tsunomaki-watame-bard/thumb.webp?v=2fffd0b3",
+			"file": {
+				"version": 1,
+				"asset": "hololive-tsunomaki-watame-bard-v1.fantome",
+				"size": 9187990,
+				"sha256": "13034315bc21a27e8cc65e5eb27150a02a033cd7af7a1c70d86393dadc8f1b1d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-tsunomaki-watame-ornn",
+			"name": "Hololive Tsunomaki Watame Ornn",
+			"champion": 516,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-tsunomaki-watame-ornn/thumb.webp?v=2c9c4076",
+			"file": {
+				"version": 1,
+				"asset": "hololive-tsunomaki-watame-ornn-v1.fantome",
+				"size": 52263972,
+				"sha256": "0f09d10dbf68d1f877b4ca2067ec26db15b81c0aa6a4d0cfc88068f29742f9c4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-uruha-rushia-gwen",
+			"name": "Hololive Uruha Rushia Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-uruha-rushia-gwen/thumb.webp?v=d3f707b7",
+			"file": {
+				"version": 1,
+				"asset": "hololive-uruha-rushia-gwen-v1.fantome",
+				"size": 8347793,
+				"sha256": "fe4c9c8c8061324dd732bed483965e615dcb44d34a66d0ad24807dcd8b350a55"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-uruha-rushia-thresh",
+			"name": "Hololive Uruha Rushia Thresh",
+			"champion": 412,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-uruha-rushia-thresh/thumb.webp?v=fe9c6d19",
+			"file": {
+				"version": 1,
+				"asset": "hololive-uruha-rushia-thresh-v1.fantome",
+				"size": 5371855,
+				"sha256": "1b8f2915c74b297e95f9c2e8dcf480ab0b3225b88c20d64bdc427552bee01869"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-usada-pekora-jinx",
+			"name": "Hololive Usada Pekora Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-usada-pekora-jinx/thumb.webp?v=a5dc8f4d",
+			"file": {
+				"version": 1,
+				"asset": "hololive-usada-pekora-jinx-v1.fantome",
+				"size": 8119149,
+				"sha256": "e91bc4e166ca5655eb23f837b0131754e9e9577844d3efa7b778cb2f0590ef3a"
 			},
 			"chromas": []
 		},

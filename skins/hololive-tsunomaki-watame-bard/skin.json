@@ -1,0 +1,25 @@
+{
+	"id": "hololive-tsunomaki-watame-bard",
+	"name": "Hololive Tsunomaki Watame Bard",
+	"champion": 432,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Bard\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n* Description: 吟遊詩人をしながらのんびり旅をしている羊。歌が大好き。もふもふ。とにかくもふもふ。草食系なのでポテチが好物。\n\n### SPECIFICATIONS\n\n* New model and texture\\*\\*\\*\\*&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n* Modified animations\n\n### CREDITS\n\n* Loadscreen art by: ([ https://youtu.be/SirMcRmSEB4](https://youtu.be/SirMcRmSEB4) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/8400d552-1844-429e-8a7a-da42401d8096\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-tsunomaki-watame-bard/thumb.webp?v=2fffd0b3",
+	"file": {
+		"version": 1,
+		"asset": "hololive-tsunomaki-watame-bard-v1.fantome",
+		"size": 9187990,
+		"sha256": "13034315bc21a27e8cc65e5eb27150a02a033cd7af7a1c70d86393dadc8f1b1d"
+	},
+	"chromas": []
+}

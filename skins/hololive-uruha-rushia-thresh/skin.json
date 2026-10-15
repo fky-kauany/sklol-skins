@@ -1,0 +1,26 @@
+{
+	"id": "hololive-uruha-rushia-thresh",
+	"name": "Hololive Uruha Rushia Thresh",
+	"champion": 412,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Thresh\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Uruha Rushia 3D model in this mod is from ( [https://sketchfab.com/3d-models/uruha-rushia-hololive-vtuber-99edec1aeb67428cb40113646428bf38](https://sketchfab.com/3d-models/uruha-rushia-hololive-vtuber-99edec1aeb67428cb40113646428bf38) )\n* Loadscreen art from : ( [https://x.com/eureka\\_yu\\_rika/status/1322465109009068032?s=20](https://x.com/eureka_yu_rika/status/1322465109009068032?s=20) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/f3db71c9-86bd-437e-ae42-c43d3a1ba1b9\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-uruha-rushia-thresh/thumb.webp?v=fe9c6d19",
+	"file": {
+		"version": 1,
+		"asset": "hololive-uruha-rushia-thresh-v1.fantome",
+		"size": 5371855,
+		"sha256": "1b8f2915c74b297e95f9c2e8dcf480ab0b3225b88c20d64bdc427552bee01869"
+	},
+	"chromas": []
+}
