@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:33:37.006Z",
+	"generatedAt": "2026-10-15T14:35:54.187Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -32767,6 +32767,201 @@
 				"asset": "updated-prestige-petals-of-spring-seraphine-wr-p-v1.fantome",
 				"size": 33833583,
 				"sha256": "13f0042bf1dd383923aa2f71b9daaf87ab70189ef7850f8e37e9e5aeb6b83df9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "upsy-daisy-mel",
+			"name": "Upsy Daisy Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/upsy-daisy-mel/thumb.webp?v=3f0215da",
+			"file": {
+				"version": 1,
+				"asset": "upsy-daisy-mel-v1.fantome",
+				"size": 9408896,
+				"sha256": "135a1fca369349d416a3e36bfdd51107a2cc7ad91c29b3033ae849baebe1bf6a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "urahara-yasuo",
+			"name": "Urahara - Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "kesa",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/urahara-yasuo/thumb.webp?v=c134d1a7",
+			"file": {
+				"version": 1,
+				"asset": "urahara-yasuo-v1.fantome",
+				"size": 20819433,
+				"sha256": "40e0c96f23a2976720b92e3a3a59d33a4e4e07d9a61b0cb37cfdcaee55ea5731"
+			},
+			"chromas": []
+		},
+		{
+			"id": "urgot-crabgot-chromas",
+			"name": "Crabgot chromas",
+			"champion": 6,
+			"base": 1,
+			"creator": "raka",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/urgot-crabgot-chromas/thumb.webp?v=24a24f5d",
+			"file": {
+				"version": 1,
+				"asset": "urgot-crabgot-chromas-v1.fantome",
+				"size": 1185678,
+				"sha256": "25c35d2f0211770ec099d777fc85a5b69c2e0191f2a9e8b8c37c8f41041ac18a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "utaha-heimerdinger-blue-archive",
+			"name": "Utaha Heimerdinger (Blue Archive)",
+			"champion": 74,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/utaha-heimerdinger-blue-archive/thumb.webp?v=5b9be34d",
+			"file": {
+				"version": 1,
+				"asset": "utaha-heimerdinger-blue-archive-v1.fantome",
+				"size": 6206221,
+				"sha256": "922fa9f235ff2769fd42404c553ca1488b9bd54506b5f63c667a7c62f2b6736e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "utensils-kayn",
+			"name": "Utensils Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/utensils-kayn/thumb.webp?v=0901d2ff",
+			"file": {
+				"version": 1,
+				"asset": "utensils-kayn-v1.fantome",
+				"size": 7144242,
+				"sha256": "54b065bff0364b036d30550f5d8d543ef9e62933408494e5ab71ac97ec9ae6eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "varus-vaarus-vaarus",
+			"name": "Vaarus Vaarus",
+			"champion": 110,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/varus-vaarus-vaarus/thumb.webp?v=4c60b32c",
+			"file": {
+				"version": 1,
+				"asset": "varus-vaarus-vaarus-v1.fantome",
+				"size": 355551,
+				"sha256": "f203cf8d478eadd834b2048db74e2a9c44ca8db59a16ed614bec456f50ba3f0c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vasto-lorde-ichigo-yone",
+			"name": "Vasto Lorde Ichigo Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "noctune",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vasto-lorde-ichigo-yone/thumb.webp?v=e2dfa44b",
+			"file": {
+				"version": 1,
+				"asset": "vasto-lorde-ichigo-yone-v1.fantome",
+				"size": 8716408,
+				"sha256": "b62d8f0f8fb6f02b2e147444cd3fc3f4221236cc07e377ae2ff466e4c047cc1f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vegito-blue-darius",
+			"name": "Vegito Blue (Darius)",
+			"champion": 122,
+			"base": 0,
+			"creator": "instinct",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vegito-blue-darius/thumb.webp?v=ae553cac",
+			"file": {
+				"version": 1,
+				"asset": "vegito-blue-darius-v1.fantome",
+				"size": 7985995,
+				"sha256": "812387f434962a529bebec82ad69c3a8075860a3e80646a2e830faf95771002a"
 			},
 			"chromas": []
 		},

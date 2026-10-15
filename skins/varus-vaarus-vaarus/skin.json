@@ -1,0 +1,22 @@
+{
+	"id": "varus-vaarus-vaarus",
+	"name": "Vaarus Vaarus",
+	"champion": 110,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/da98f78d-da0d-417e-b05c-25a6a9f77287\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/varus-vaarus-vaarus/thumb.webp?v=4c60b32c",
+	"file": {
+		"version": 1,
+		"asset": "varus-vaarus-vaarus-v1.fantome",
+		"size": 355551,
+		"sha256": "f203cf8d478eadd834b2048db74e2a9c44ca8db59a16ed614bec456f50ba3f0c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "vegito-blue-darius",
+	"name": "Vegito Blue (Darius)",
+	"champion": 122,
+	"base": 0,
+	"creator": "instinct",
+	"description": "* Vegito Blue over Base Darius Mod\n* Model and Voicelines from Dragon Ball FighterZ\n\n\n\nDiscord: instinct7753\n\nPlease message me if you find the mod is glitched or broken! Thank you!\n\n---\n\n**Created by** [Instinct](https://runeforge.dev/users/Instinct)\n\n**Original:** https://runeforge.dev/mods/1b60a20e-3645-4a10-8c8c-a2ef4ae2ef4e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vegito-blue-darius/thumb.webp?v=ae553cac",
+	"file": {
+		"version": 1,
+		"asset": "vegito-blue-darius-v1.fantome",
+		"size": 7985995,
+		"sha256": "812387f434962a529bebec82ad69c3a8075860a3e80646a2e830faf95771002a"
+	},
+	"chromas": []
+}

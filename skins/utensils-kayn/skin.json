@@ -1,0 +1,23 @@
+{
+	"id": "utensils-kayn",
+	"name": "Utensils Kayn",
+	"champion": 141,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/8e5fc9cc-4f98-41ec-9b90-a3c9e1febd4d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/utensils-kayn/thumb.webp?v=0901d2ff",
+	"file": {
+		"version": 1,
+		"asset": "utensils-kayn-v1.fantome",
+		"size": 7144242,
+		"sha256": "54b065bff0364b036d30550f5d8d543ef9e62933408494e5ab71ac97ec9ae6eb"
+	},
+	"chromas": []
+}

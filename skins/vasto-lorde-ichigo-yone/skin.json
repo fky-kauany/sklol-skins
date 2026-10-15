@@ -1,0 +1,26 @@
+{
+	"id": "vasto-lorde-ichigo-yone",
+	"name": "Vasto Lorde Ichigo Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "noctune",
+	"description": "### SKIN INFORMATION\r\n\r\nChampion: Yone\r\n\r\nModified skin: Base\r\n\r\nAuthor: Noctune\r\n\r\nVersion: 1.7\r\n\r\nDescription: changes yone to vasto lorde ichigo from bleach You can reach out to me through Discord(noctune.)\n\n---\n\n**Created by** [Noctune](https://runeforge.dev/users/Noctune)\n\n**Original:** https://runeforge.dev/mods/0746aebe-ca02-4ff4-906b-7a066813145b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vasto-lorde-ichigo-yone/thumb.webp?v=e2dfa44b",
+	"file": {
+		"version": 1,
+		"asset": "vasto-lorde-ichigo-yone-v1.fantome",
+		"size": 8716408,
+		"sha256": "b62d8f0f8fb6f02b2e147444cd3fc3f4221236cc07e377ae2ff466e4c047cc1f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "upsy-daisy-mel",
+	"name": "Upsy Daisy Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Mel\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: Upsy Daisy Mel\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/f80a9137-a94b-4689-9ae3-38e4d9b6211b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/upsy-daisy-mel/thumb.webp?v=3f0215da",
+	"file": {
+		"version": 1,
+		"asset": "upsy-daisy-mel-v1.fantome",
+		"size": 9408896,
+		"sha256": "135a1fca369349d416a3e36bfdd51107a2cc7ad91c29b3033ae849baebe1bf6a"
+	},
+	"chromas": []
+}
