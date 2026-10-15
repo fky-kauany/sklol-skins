@@ -1,0 +1,26 @@
+{
+	"id": "gatoulis-rakan",
+	"name": "Gatoulis Rakan",
+	"champion": 497,
+	"base": 0,
+	"creator": "oaed-skins",
+	"description": "Anergia goes brrr\r\n\r\nWorks on: Default Rakan\r\n\r\nGatoula Xayah: Soon\r\n\r\nInspired by the thumbnail image. This is an unofficial, non-commercial fan modification. It is not affiliated with Riot Games or the individual(s) depicted.\r\n\r\n\r\nCheckout other anerga skins:\r\n- [ChrisASMR Gragas](https://runeforge.dev/mods/59e24ccb-6f11-4ff8-88e3-8e1552ebb8aa)\r\n- [Red Dragon Lee Sin](https://runeforge.dev/mods/af3796be-9ccc-4137-a549-9ca62b6fc495)\r\n- [BooyahTeemo](https://runeforge.dev/mods/db46dfaa-59bb-4ae0-acd3-fb666be4bc6f)\n\n---\n\n**Created by** [OAED skins](https://runeforge.dev/users/oaed_skins)\n\n**Original:** https://runeforge.dev/mods/0462cc9a-29c0-40cc-b6ec-8cc41edc389e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gatoulis-rakan/thumb.webp?v=c307aca5",
+	"file": {
+		"version": 1,
+		"asset": "gatoulis-rakan-v1.fantome",
+		"size": 10486019,
+		"sha256": "0dc68b3608d8c8800f56d2700a8b99fbf78c2e538c0abba4fcf7d79ec1f5c51a"
+	},
+	"chromas": []
+}

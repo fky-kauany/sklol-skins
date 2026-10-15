@@ -1,0 +1,24 @@
+{
+	"id": "gladiator-draven-plus",
+	"name": "Gladiator Draven PLUS",
+	"champion": 119,
+	"base": 0,
+	"creator": "backstab",
+	"description": "# Gladiator Draven+\n\nThe way Gladiator's VFX are set up is that his model is being altered by something called `materialOverrideDefinitions` which drains way more FPS than regular VFX, and all his abilities use it. VFX such as glowing axes rely on this technique to swap their base model with the glowy one.\n#\nThis mod removes the performance-heavy `materialOverride` and replaces it with generic VFX while preserving the exact same ingame look. Additionally, it also fixes the bug where axes stop glowing after pressing W.\n\n---\n\n**Created by** [BACKSTAB](https://runeforge.dev/users/BACKSTAB)\n\n**Original:** https://runeforge.dev/mods/6912da57-94c2-43ec-8d85-8586628f8d81\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gladiator-draven-plus/thumb.webp?v=81fa9ef8",
+	"file": {
+		"version": 1,
+		"asset": "gladiator-draven-plus-v1.fantome",
+		"size": 1660869,
+		"sha256": "c699fc3f06551fdceb5407dcc70e96318469051fdfe5ea423cf8426d8dfa2e02"
+	},
+	"chromas": []
+}

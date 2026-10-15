@@ -1,0 +1,23 @@
+{
+	"id": "gigachad-k-sante",
+	"name": "Gigachad K'Sante",
+	"champion": 897,
+	"base": 0,
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.1\n* Modified champion: K'Sante\n* Modified sound: K'Sante's ultimate\n\n## **DESCRIPTION**\n\n* K'Sante has such a mewed up jaw that he now officially became a gigachad, making him black and white only and playing \"Can you feel my heart\" whenever he ults.\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/ebfca72e-59e9-4b33-bc8d-896bb8b189ce\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gigachad-k-sante/thumb.webp?v=58ef9f9d",
+	"file": {
+		"version": 1,
+		"asset": "gigachad-k-sante-v1.fantome",
+		"size": 3723624,
+		"sha256": "c9eca61dbcf0dd5eadf4afa7aa7a1c8a4470bafe5c5210cda1a088e5241b8865"
+	},
+	"chromas": []
+}

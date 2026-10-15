@@ -1,0 +1,22 @@
+{
+	"id": "george-w-bush-lee-sin",
+	"name": "George W Bush Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "cam",
+	"description": "War Crime of a skin.\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/0a115cc9-8afa-46af-a88f-f15d6357eaa4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/george-w-bush-lee-sin/thumb.webp?v=9895d898",
+	"file": {
+		"version": 1,
+		"asset": "george-w-bush-lee-sin-v1.fantome",
+		"size": 22804482,
+		"sha256": "2bc82769f52de6d140ff162600fd325d16c38ccbeddc0db39cf26b5e06c8f8b3"
+	},
+	"chromas": []
+}

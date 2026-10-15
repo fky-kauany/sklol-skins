@@ -1,0 +1,23 @@
+{
+	"id": "glamour-rell-chroma",
+	"name": "Glamour Rell Chroma",
+	"champion": 526,
+	"base": 0,
+	"creator": "zayara",
+	"description": "---\n\n**Created by** [Zayara](https://runeforge.dev/users/Zayara)\n\n**Original:** https://runeforge.dev/mods/fcb8e05a-8d99-4417-af06-a6d9ae412429\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glamour-rell-chroma/thumb.webp?v=93642b8f",
+	"file": {
+		"version": 1,
+		"asset": "glamour-rell-chroma-v1.fantome",
+		"size": 1831850,
+		"sha256": "837ebc54605f89fdff5d424021b8daef8bd403e478b6855498b384383b4d0ce9"
+	},
+	"chromas": []
+}

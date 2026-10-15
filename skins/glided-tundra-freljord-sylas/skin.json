@@ -1,0 +1,23 @@
+{
+	"id": "glided-tundra-freljord-sylas",
+	"name": "Glided Tundra | Freljord Sylas",
+	"champion": 517,
+	"base": 8,
+	"creator": "northoff",
+	"description": "Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Tezzed from our Discord server!.\n\nhttps://discord.gg/leaguelab\n\n---\n\n**Created by** [northoff](https://runeforge.dev/users/northoff)\n\n**Original:** https://runeforge.dev/mods/04fe2470-d4a2-4299-baa9-cf4be14d3448\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glided-tundra-freljord-sylas/thumb.webp?v=dff55b49",
+	"file": {
+		"version": 1,
+		"asset": "glided-tundra-freljord-sylas-v1.fantome",
+		"size": 10127881,
+		"sha256": "b32c34020f9f357008b5318395d7f6f9021cf4f331007df385e79013b57225ab"
+	},
+	"chromas": []
+}

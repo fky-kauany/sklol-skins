@@ -1,0 +1,26 @@
+{
+	"id": "ghostfreak-nocturne",
+	"name": "Ghostfreak Nocturne",
+	"champion": 56,
+	"base": 0,
+	"creator": "noctune",
+	"description": "### SKIN INFORMATION\r\n\r\nChampion: Nocturne\r\n\r\nModified skin: Base\r\n\r\nAuthor: Noctune\r\n\r\nVersion: 1.3\r\n\r\nDescription: changes nocturne to the ghostfreak from ben 10 series You can reach out to me through Discord(noctune.)\n\n---\n\n**Created by** [Noctune](https://runeforge.dev/users/Noctune)\n\n**Original:** https://runeforge.dev/mods/008579d2-1a04-475d-87f5-6e5e885156b7\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ghostfreak-nocturne/thumb.webp?v=d041d2b8",
+	"file": {
+		"version": 1,
+		"asset": "ghostfreak-nocturne-v1.fantome",
+		"size": 6047550,
+		"sha256": "8a83b4f5748a52c1ed9abfa514a8f4e03ddfc6b090d30f7874fe186369fe370b"
+	},
+	"chromas": []
+}

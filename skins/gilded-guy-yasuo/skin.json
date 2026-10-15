@@ -1,0 +1,23 @@
+{
+	"id": "gilded-guy-yasuo",
+	"name": "Gilded guy yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\" he just want peace \"\n\n***\n\n**Modified champion: Yasuo**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n[Orxata](https://steamcommunity.com/id/Orxata) **edited the texture**\n\n[bud](https://www.runeforge.io/profile/budlibu500/profile) extracted :v\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/f527138f-faf9-4958-a3f0-921b187d3ff0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gilded-guy-yasuo/thumb.webp?v=4a33ce4c",
+	"file": {
+		"version": 1,
+		"asset": "gilded-guy-yasuo-v1.fantome",
+		"size": 1569617,
+		"sha256": "58378fbb578992df290e447b8f555ce4d641da801c164eabbef4853b2f1f45c6"
+	},
+	"chromas": []
+}

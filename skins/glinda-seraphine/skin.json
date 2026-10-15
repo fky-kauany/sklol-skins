@@ -1,0 +1,26 @@
+{
+	"id": "glinda-seraphine",
+	"name": "Glinda Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Seraphine\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.1\r\n\r\n###### Description: Glinda Seraphine\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/06845fd5-2a89-4d23-873a-87080aeac99c\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glinda-seraphine/thumb.webp?v=568da1d0",
+	"file": {
+		"version": 1,
+		"asset": "glinda-seraphine-v1.fantome",
+		"size": 83208562,
+		"sha256": "ee43c6c80515a2888757073fa4dd4f7cf7c22f191513197694d3b74dc428fa35"
+	},
+	"chromas": []
+}

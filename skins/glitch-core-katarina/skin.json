@@ -1,0 +1,26 @@
+{
+	"id": "glitch-core-katarina",
+	"name": "Glitch Core Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Katarina\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Glitch Core Katarina\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1oLekm5OhTV9MhfuDQriYnkG2_teHfOaB?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/834a0fbc-dbf9-4aaf-bcde-a055c1dfcd14\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glitch-core-katarina/thumb.webp?v=a01a89d9",
+	"file": {
+		"version": 1,
+		"asset": "glitch-core-katarina-v1.fantome",
+		"size": 11858167,
+		"sha256": "af6f356d037a36688bd127af6874664557f0842521524b2ce4838c3e3ce0fa4f"
+	},
+	"chromas": []
+}

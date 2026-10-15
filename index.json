@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:34:27.398Z",
+	"generatedAt": "2026-10-15T09:37:36.331Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1544,6 +1544,11 @@
 			"links": {
 				"discord": "https://discord.gg/pqr9bQx238"
 			}
+		},
+		"zayara": {
+			"name": "Zayara",
+			"bio": "˚ʚ♡ɞ˚\n\n\nJust a tgirl artist ♡",
+			"links": {}
 		},
 		"zestydaimon": {
 			"name": "ZestyDaimon",
@@ -10868,6 +10873,248 @@
 				"asset": "garen-without-the-fella-v1.fantome",
 				"size": 15387,
 				"sha256": "949175b486bd0abe7cc6434f8d77b27573d53002cd3ca1cb1c80ed721791c2c2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gatoulis-rakan",
+			"name": "Gatoulis Rakan",
+			"champion": 497,
+			"base": 0,
+			"creator": "oaed-skins",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gatoulis-rakan/thumb.webp?v=c307aca5",
+			"file": {
+				"version": 1,
+				"asset": "gatoulis-rakan-v1.fantome",
+				"size": 10486019,
+				"sha256": "0dc68b3608d8c8800f56d2700a8b99fbf78c2e538c0abba4fcf7d79ec1f5c51a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "george-w-bush-lee-sin",
+			"name": "George W Bush Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/george-w-bush-lee-sin/thumb.webp?v=9895d898",
+			"file": {
+				"version": 1,
+				"asset": "george-w-bush-lee-sin-v1.fantome",
+				"size": 22804482,
+				"sha256": "2bc82769f52de6d140ff162600fd325d16c38ccbeddc0db39cf26b5e06c8f8b3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ghostfreak-nocturne",
+			"name": "Ghostfreak Nocturne",
+			"champion": 56,
+			"base": 0,
+			"creator": "noctune",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ghostfreak-nocturne/thumb.webp?v=d041d2b8",
+			"file": {
+				"version": 1,
+				"asset": "ghostfreak-nocturne-v1.fantome",
+				"size": 6047550,
+				"sha256": "8a83b4f5748a52c1ed9abfa514a8f4e03ddfc6b090d30f7874fe186369fe370b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gigachad-k-sante",
+			"name": "Gigachad K'Sante",
+			"champion": 897,
+			"base": 0,
+			"creator": "pico-senpai",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gigachad-k-sante/thumb.webp?v=58ef9f9d",
+			"file": {
+				"version": 1,
+				"asset": "gigachad-k-sante-v1.fantome",
+				"size": 3723624,
+				"sha256": "c9eca61dbcf0dd5eadf4afa7aa7a1c8a4470bafe5c5210cda1a088e5241b8865"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gilded-guy-yasuo",
+			"name": "Gilded guy yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gilded-guy-yasuo/thumb.webp?v=4a33ce4c",
+			"file": {
+				"version": 1,
+				"asset": "gilded-guy-yasuo-v1.fantome",
+				"size": 1569617,
+				"sha256": "58378fbb578992df290e447b8f555ce4d641da801c164eabbef4853b2f1f45c6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gladiator-draven-plus",
+			"name": "Gladiator Draven PLUS",
+			"champion": 119,
+			"base": 0,
+			"creator": "backstab",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gladiator-draven-plus/thumb.webp?v=81fa9ef8",
+			"file": {
+				"version": 1,
+				"asset": "gladiator-draven-plus-v1.fantome",
+				"size": 1660869,
+				"sha256": "c699fc3f06551fdceb5407dcc70e96318469051fdfe5ea423cf8426d8dfa2e02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glamour-rell-chroma",
+			"name": "Glamour Rell Chroma",
+			"champion": 526,
+			"base": 0,
+			"creator": "zayara",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glamour-rell-chroma/thumb.webp?v=93642b8f",
+			"file": {
+				"version": 1,
+				"asset": "glamour-rell-chroma-v1.fantome",
+				"size": 1831850,
+				"sha256": "837ebc54605f89fdff5d424021b8daef8bd403e478b6855498b384383b4d0ce9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glided-tundra-freljord-sylas",
+			"name": "Glided Tundra | Freljord Sylas",
+			"champion": 517,
+			"base": 8,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glided-tundra-freljord-sylas/thumb.webp?v=dff55b49",
+			"file": {
+				"version": 1,
+				"asset": "glided-tundra-freljord-sylas-v1.fantome",
+				"size": 10127881,
+				"sha256": "b32c34020f9f357008b5318395d7f6f9021cf4f331007df385e79013b57225ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glinda-seraphine",
+			"name": "Glinda Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glinda-seraphine/thumb.webp?v=568da1d0",
+			"file": {
+				"version": 1,
+				"asset": "glinda-seraphine-v1.fantome",
+				"size": 83208562,
+				"sha256": "ee43c6c80515a2888757073fa4dd4f7cf7c22f191513197694d3b74dc428fa35"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glitch-core-katarina",
+			"name": "Glitch Core Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glitch-core-katarina/thumb.webp?v=a01a89d9",
+			"file": {
+				"version": 1,
+				"asset": "glitch-core-katarina-v1.fantome",
+				"size": 11858167,
+				"sha256": "af6f356d037a36688bd127af6874664557f0842521524b2ce4838c3e3ce0fa4f"
 			},
 			"chromas": []
 		},
