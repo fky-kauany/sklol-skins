@@ -1,0 +1,24 @@
+{
+	"id": "freezer-talon",
+	"name": "Freezer Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "Very chill skin\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/d3f22dc3-83f5-4cb4-80ea-804d399066cb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/freezer-talon/thumb.webp?v=7eb2549b",
+	"file": {
+		"version": 1,
+		"asset": "freezer-talon-v1.fantome",
+		"size": 240563,
+		"sha256": "2ccfc463e17194241f6b8774ee8e2d91419697adf480b7e17cdb9caf0226d507"
+	},
+	"chromas": []
+}

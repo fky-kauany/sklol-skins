@@ -1,0 +1,25 @@
+{
+	"id": "forklift-blitzcrank",
+	"name": "Forklift Blitzcrank",
+	"champion": 53,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### *The release has only the model. Multiple mod downloads for one post has not yet been implemented into Runeforge v2.0. In the meantime if you wish to download the voiceover please use this mediafire link:* [https://www.mediafire.com/file/87cubx6n7npuwue/Blitzcrank\\_Forklift\\_VO\\_V1.1.0\\_by\\_Aropatnik.fantome/file](https://www.mediafire.com/file/87cubx6n7npuwue/Blitzcrank_Forklift_VO_V1.1.0_by_Aropatnik.fantome/file) VO fixed for patch 25.8\n\n## Information\n\n**Modified champion: Blitzcrank**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n## Credits\n\n\"Forklift low poly\" (https://skfb.ly/onxDM) by Ricardo Sanchez is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/6642e595-5c64-4323-bf31-a6fda89cfc16\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/forklift-blitzcrank/thumb.webp?v=29199b9a",
+	"file": {
+		"version": 1,
+		"asset": "forklift-blitzcrank-v1.fantome",
+		"size": 1106998,
+		"sha256": "e901a7c07e47770986b9942e71a92ebc47b0daf220084d3bb208c6b64a4da0fd"
+	},
+	"chromas": []
+}

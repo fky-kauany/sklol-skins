@@ -1,0 +1,26 @@
+{
+	"id": "frank-horrigan-sion",
+	"name": "Frank Horrigan Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "totalgriller",
+	"description": "Frank Horrigan model replacement for Sion. Includes Minigun as Axe and Replaces Sion Ult Voice line with \"Your ride's over\" line from game. Will update for more VO in future.\n\n---\n\n**Created by** [TotalGriller](https://runeforge.dev/users/TotalGriller)\n\n**Original:** https://runeforge.dev/mods/d975c819-245b-4820-aa13-a52073e03817\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/frank-horrigan-sion/thumb.webp?v=fa598a91",
+	"file": {
+		"version": 1,
+		"asset": "frank-horrigan-sion-v1.fantome",
+		"size": 14860906,
+		"sha256": "766c0ec0918ac931ec4ca13f191f02257fd24a80e001e2189475050e541b8633"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "fright-night-jinx",
+	"name": "Fright Night Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Jinx\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: Fright Night Jinx\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/33d36a7f-b0b9-4a7a-aa02-20de40962ddd\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fright-night-jinx/thumb.webp?v=77c31fdb",
+	"file": {
+		"version": 1,
+		"asset": "fright-night-jinx-v1.fantome",
+		"size": 9458151,
+		"sha256": "7a31e4d948b0f97fcb6407f395e0bc1584370d4a5a566da401f62c5bfd23e9d4"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "fnaf-udyr",
+	"name": "FNAF Udyr",
+	"champion": 77,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Udyr\n\n**SKIN REPLACE:** Base Skin\n\nCUSTOM VFX\n\n* Death\n* Joke Emote\n\n**CUSTOM SFX**\n\n* Ability R\n* Emotes (Joke, Taunt, and Dance)\n* Ability Voice lines\n\n**CUSTOM MODEL AND TEXTURES**\n\n* Endo Skeleton model taken from Five Nights at Freddy's: Help Wanted\n* Foxy model taken from Five Nights at Freddy's: Help Wanted\n* Bonnie model taken from Five Nights at Freddy's: Help Wanted\n* Freddy model taken from Five Nights at Freddy's: Help Wanted\n* Chica model taken from Five Nights at Freddy's: Help Wanted\n\n**CREDITS**\n\n* Modded by Nyht Seven\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/4ae9a4eb-66d0-42e8-b37f-22b39bcc0ca6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fnaf-udyr/thumb.webp?v=f3937052",
+	"file": {
+		"version": 1,
+		"asset": "fnaf-udyr-v1.fantome",
+		"size": 20769336,
+		"sha256": "f938d1f96a556572cb2bd271a4abe980779af5cf6cfaf14be40f1631a3a9285f"
+	},
+	"chromas": []
+}

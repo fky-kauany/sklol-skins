@@ -1,0 +1,26 @@
+{
+	"id": "flowery-lee-sin",
+	"name": "Flowery Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "totalgriller",
+	"description": "Flowery from Deltarune over Lee Sin. Includes overhauled VO, may do SFX at a later date. Also might update with a better model down the line.\n\n---\n\n**Created by** [TotalGriller](https://runeforge.dev/users/TotalGriller)\n\n**Original:** https://runeforge.dev/mods/e34c28a1-90e0-4f19-807d-d82e1429f878\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/flowery-lee-sin/thumb.webp?v=c8de5bfa",
+	"file": {
+		"version": 1,
+		"asset": "flowery-lee-sin-v1.fantome",
+		"size": 10089830,
+		"sha256": "4d7853b73f8222b97233cb1ed9257b76af19b2c8850a20eb25d5421e1c02a83c"
+	},
+	"chromas": []
+}

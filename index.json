@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:25:11.568Z",
+	"generatedAt": "2026-10-15T09:28:17.374Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1319,6 +1319,12 @@
 				"tiktok": "https://tiktok.com/@tor.lol",
 				"youtube": "https://youtu.be/IxX_QHay02M"
 			}
+		},
+		"totalgriller": {
+			"name": "TotalGriller",
+			"avatar": "creators/totalgriller.jpg?v=1b2a05f0",
+			"bio": "Yes i dont know how to paint weights",
+			"links": {}
 		},
 		"tur290": {
 			"name": "tur290",
@@ -10082,6 +10088,256 @@
 				"asset": "fizz-jizz-v1.fantome",
 				"size": 527486,
 				"sha256": "2e271ac1cb3aa475948805b4303d23beef47d852f60788e87bd1e261e8de0d23"
+			},
+			"chromas": []
+		},
+		{
+			"id": "flowery-lee-sin",
+			"name": "Flowery Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "totalgriller",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/flowery-lee-sin/thumb.webp?v=c8de5bfa",
+			"file": {
+				"version": 1,
+				"asset": "flowery-lee-sin-v1.fantome",
+				"size": 10089830,
+				"sha256": "4d7853b73f8222b97233cb1ed9257b76af19b2c8850a20eb25d5421e1c02a83c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "flowing-colors-neeko",
+			"name": "Flowing Colors Neeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/flowing-colors-neeko/thumb.webp?v=d2ac4360",
+			"file": {
+				"version": 1,
+				"asset": "flowing-colors-neeko-v1.fantome",
+				"size": 971299,
+				"sha256": "ed75dd43596e820a5dfabb8b3dce3d2ef9511d582ae3f036c2544ae0829210c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fnaf-udyr",
+			"name": "FNAF Udyr",
+			"champion": 77,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fnaf-udyr/thumb.webp?v=f3937052",
+			"file": {
+				"version": 1,
+				"asset": "fnaf-udyr-v1.fantome",
+				"size": 20769336,
+				"sha256": "f938d1f96a556572cb2bd271a4abe980779af5cf6cfaf14be40f1631a3a9285f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "food-spirits-yuumi-wr-port",
+			"name": "Food Spirits Yuumi WR Port",
+			"champion": 350,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/food-spirits-yuumi-wr-port/thumb.webp?v=69220ebe",
+			"file": {
+				"version": 1,
+				"asset": "food-spirits-yuumi-wr-port-v1.fantome",
+				"size": 5947397,
+				"sha256": "548cde1c7279929a8ecf1c30409a21411a03be3991529e80b6391f0475e10998"
+			},
+			"chromas": []
+		},
+		{
+			"id": "forklift-blitzcrank",
+			"name": "Forklift Blitzcrank",
+			"champion": 53,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/forklift-blitzcrank/thumb.webp?v=29199b9a",
+			"file": {
+				"version": 1,
+				"asset": "forklift-blitzcrank-v1.fantome",
+				"size": 1106998,
+				"sha256": "e901a7c07e47770986b9942e71a92ebc47b0daf220084d3bb208c6b64a4da0fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "frank-horrigan-sion",
+			"name": "Frank Horrigan Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "totalgriller",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/frank-horrigan-sion/thumb.webp?v=fa598a91",
+			"file": {
+				"version": 1,
+				"asset": "frank-horrigan-sion-v1.fantome",
+				"size": 14860906,
+				"sha256": "766c0ec0918ac931ec4ca13f191f02257fd24a80e001e2189475050e541b8633"
+			},
+			"chromas": []
+		},
+		{
+			"id": "freezer-talon",
+			"name": "Freezer Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/freezer-talon/thumb.webp?v=7eb2549b",
+			"file": {
+				"version": 1,
+				"asset": "freezer-talon-v1.fantome",
+				"size": 240563,
+				"sha256": "2ccfc463e17194241f6b8774ee8e2d91419697adf480b7e17cdb9caf0226d507"
+			},
+			"chromas": []
+		},
+		{
+			"id": "freja-akshan",
+			"name": "Freja Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "veenox",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/freja-akshan/thumb.webp?v=5dc1eb5d",
+			"file": {
+				"version": 1,
+				"asset": "freja-akshan-v1.fantome",
+				"size": 2131548,
+				"sha256": "b012549903f3fd05cdfa9babe579511d24d0986864e4c3969361d194e01e9a1d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fright-night-ahri",
+			"name": "Fright Night Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fright-night-ahri/thumb.webp?v=8f907ffd",
+			"file": {
+				"version": 1,
+				"asset": "fright-night-ahri-v1.fantome",
+				"size": 33277271,
+				"sha256": "5d5139867202466772799b8dfee27cd11eb66f2f2c2dec66fc2f718b98dea827"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fright-night-jinx",
+			"name": "Fright Night Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fright-night-jinx/thumb.webp?v=77c31fdb",
+			"file": {
+				"version": 1,
+				"asset": "fright-night-jinx-v1.fantome",
+				"size": 9458151,
+				"sha256": "7a31e4d948b0f97fcb6407f395e0bc1584370d4a5a566da401f62c5bfd23e9d4"
 			},
 			"chromas": []
 		},

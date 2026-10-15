@@ -1,0 +1,23 @@
+{
+	"id": "freja-akshan",
+	"name": "Freja Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "veenox",
+	"description": "Replaces base Akshan skin.&#x20;\n\n---\n\n**Created by** [Veenox](https://runeforge.dev/users/Veenox)\n\n**Original:** https://runeforge.dev/mods/46134480-d571-4aa6-a5d1-3f85cef9f8fc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/freja-akshan/thumb.webp?v=5dc1eb5d",
+	"file": {
+		"version": 1,
+		"asset": "freja-akshan-v1.fantome",
+		"size": 2131548,
+		"sha256": "b012549903f3fd05cdfa9babe579511d24d0986864e4c3969361d194e01e9a1d"
+	},
+	"chromas": []
+}
