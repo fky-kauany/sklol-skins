@@ -1,0 +1,25 @@
+{
+	"id": "sanrio-collection-syndra",
+	"name": "Sanrio Collection Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Syndra\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: Sanrio Collection Syndra\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/08b8aab7-1f69-44c5-ba7f-863001b47a29\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sanrio-collection-syndra/thumb.webp?v=d1f45276",
+	"file": {
+		"version": 1,
+		"asset": "sanrio-collection-syndra-v1.fantome",
+		"size": 15841582,
+		"sha256": "6806056cd249c7f9cde37ab1a407a009716f7e50aa2d5bb7bf4ac29b5d3884c5"
+	},
+	"chromas": []
+}

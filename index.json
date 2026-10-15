@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:06:17.771Z",
+	"generatedAt": "2026-10-15T13:09:43.921Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1008,6 +1008,11 @@
 				"site": "https://drive.google.com/drive/folders/10BPzynH8_8fnZbBCtHVeAke0NXb-euum?usp=sharing",
 				"youtube": "https://youtu.be/LjlzFnmRUFI?si=bFJfp1npERQV-UdZ"
 			}
+		},
+		"lylelazer": {
+			"name": "Lyle",
+			"avatar": "creators/lylelazer.png?v=295b7887",
+			"links": {}
 		},
 		"magnaplayer": {
 			"name": "MagnaPlayer",
@@ -28356,6 +28361,259 @@
 				"asset": "sanrio-collection-katarina-v1.fantome",
 				"size": 13788493,
 				"sha256": "347843b40e76f0cd5c893e586efa9ce2cdb1107b71593eb5effff71b2fa9fcb4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanrio-collection-katarina-signed-edition",
+			"name": "Sanrio Collection Katarina Signed Edition",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sanrio-collection-katarina-signed-edition/thumb.webp?v=f4efb40b",
+			"file": {
+				"version": 1,
+				"asset": "sanrio-collection-katarina-signed-edition-v1.fantome",
+				"size": 19635937,
+				"sha256": "8d8f2319945a886bbe97cbe55a2972bf14bcb6c3fa97f61ebac4aa54f4a4fee3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanrio-collection-lux",
+			"name": "Sanrio Collection Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sanrio-collection-lux/thumb.webp?v=1795a8f8",
+			"file": {
+				"version": 1,
+				"asset": "sanrio-collection-lux-v1.fantome",
+				"size": 13295749,
+				"sha256": "2bbbb934a6213099b1a1e4a03a3614a5586c290c49a7657e2bcdd3d65f8acbe7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanrio-collection-miss-fortune",
+			"name": "Sanrio Collection Miss Fortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sanrio-collection-miss-fortune/thumb.webp?v=7cd33c29",
+			"file": {
+				"version": 1,
+				"asset": "sanrio-collection-miss-fortune-v1.fantome",
+				"size": 16492118,
+				"sha256": "2aa5e3ab1abb77181ae8b27235b65f961594c7f0d4f0498ea62b15ede4122bf7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanrio-collection-seraphine",
+			"name": "Sanrio Collection Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sanrio-collection-seraphine/thumb.webp?v=56b07aa4",
+			"file": {
+				"version": 1,
+				"asset": "sanrio-collection-seraphine-v1.fantome",
+				"size": 10395628,
+				"sha256": "14ee3181d9a9264c5401a6acb2828784238eabc54ec981992dddda6fc9381c65"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanrio-collection-sona",
+			"name": "Sanrio Collection Sona",
+			"champion": 37,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sanrio-collection-sona/thumb.webp?v=ee976b9d",
+			"file": {
+				"version": 1,
+				"asset": "sanrio-collection-sona-v1.fantome",
+				"size": 17303568,
+				"sha256": "59b20a9bb708ca9eefa98a523cb401064741e3e6b92d2ece0465e76aa65c8f98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sanrio-collection-syndra",
+			"name": "Sanrio Collection Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sanrio-collection-syndra/thumb.webp?v=d1f45276",
+			"file": {
+				"version": 1,
+				"asset": "sanrio-collection-syndra-v1.fantome",
+				"size": 15841582,
+				"sha256": "6806056cd249c7f9cde37ab1a407a009716f7e50aa2d5bb7bf4ac29b5d3884c5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sapphire-faerie-tristana-splash-art-accurate",
+			"name": "Sapphire Faerie Tristana Splash Art Accurate",
+			"champion": 18,
+			"base": 0,
+			"creator": "lylelazer",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sapphire-faerie-tristana-splash-art-accurate/thumb.webp?v=7e8421b3",
+			"file": {
+				"version": 1,
+				"asset": "sapphire-faerie-tristana-splash-art-accurate-v1.fantome",
+				"size": 665545,
+				"sha256": "1f198dc77498c0d05e292cde3e202ed6980fc804a577032cb0044d61aaed455e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sasuke-kayn-skin",
+			"name": "Sasuke Kayn Skin",
+			"champion": 141,
+			"base": 0,
+			"creator": "lkss",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sasuke-kayn-skin/thumb.webp?v=59f9f3d1",
+			"file": {
+				"version": 1,
+				"asset": "sasuke-kayn-skin-v1.fantome",
+				"size": 1158730,
+				"sha256": "deee24238c4b73b0ba19e2ddc99f1f3103f09b9b730c470f4f194142f1435a44"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sasuke-uchiha-nasus",
+			"name": "Sasuke Uchiha Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sasuke-uchiha-nasus/thumb.webp?v=169c47aa",
+			"file": {
+				"version": 1,
+				"asset": "sasuke-uchiha-nasus-v1.fantome",
+				"size": 182481758,
+				"sha256": "4ad5e67b646ffd2fe846b682659f955334d21acfb2b3b3ec4d7e34a9d8a389fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "saul-goodman-ezreal",
+			"name": "Saul Goodman Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "drinfinito",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/saul-goodman-ezreal/thumb.webp?v=42ad8933",
+			"file": {
+				"version": 1,
+				"asset": "saul-goodman-ezreal-v1.fantome",
+				"size": 23787222,
+				"sha256": "707854d9acf2828c3161e9a2a0754affb3486337a4cf8cc4e9e62a85a6f12b1d"
 			},
 			"chromas": []
 		},

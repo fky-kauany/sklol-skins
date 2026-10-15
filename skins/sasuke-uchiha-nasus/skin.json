@@ -1,0 +1,26 @@
+{
+	"id": "sasuke-uchiha-nasus",
+	"name": "Sasuke Uchiha Nasus",
+	"champion": 75,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Nasus\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/f3ce5f3d-77c3-4a1e-b740-0387b1146ba6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sasuke-uchiha-nasus/thumb.webp?v=169c47aa",
+	"file": {
+		"version": 1,
+		"asset": "sasuke-uchiha-nasus-v1.fantome",
+		"size": 182481758,
+		"sha256": "4ad5e67b646ffd2fe846b682659f955334d21acfb2b3b3ec4d7e34a9d8a389fd"
+	},
+	"chromas": []
+}

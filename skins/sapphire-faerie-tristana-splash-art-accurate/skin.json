@@ -1,0 +1,22 @@
+{
+	"id": "sapphire-faerie-tristana-splash-art-accurate",
+	"name": "Sapphire Faerie Tristana Splash Art Accurate",
+	"champion": 18,
+	"base": 0,
+	"creator": "lylelazer",
+	"description": "# INFO\r\n\r\n***\r\n\r\n***\r\n\r\n***\r\n\r\n***\r\n\r\n***\r\n\r\n***\r\n\r\n1. Champion: Tristana&#x20;\r\n2. Modifies: Faerie Court Tristana Sapphire Chroma\r\n\r\n\r\n***\r\n\r\n1. this mod changes Faerie Trist Sapph chroma to match the splash art, it also includes the chroma Splash art + border\r\n\r\n\r\n***\r\n\r\n#### &#xA;Contact me via Discord: Lylelazer21\n\n---\n\n**Created by** [Lyle](https://runeforge.dev/users/Lylelazer)\n\n**Original:** https://runeforge.dev/mods/456dbaa9-c844-49ec-9ea8-599a7024084b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sapphire-faerie-tristana-splash-art-accurate/thumb.webp?v=7e8421b3",
+	"file": {
+		"version": 1,
+		"asset": "sapphire-faerie-tristana-splash-art-accurate-v1.fantome",
+		"size": 665545,
+		"sha256": "1f198dc77498c0d05e292cde3e202ed6980fc804a577032cb0044d61aaed455e"
+	},
+	"chromas": []
+}

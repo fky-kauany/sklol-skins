@@ -1,0 +1,26 @@
+{
+	"id": "sanrio-collection-seraphine",
+	"name": "Sanrio Collection Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Seraphine\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.3\n\n###### Description: Sanrio Collection Seraphine\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/85414ce7-9ad0-4fd5-b6fd-9ae408a6eb6c\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sanrio-collection-seraphine/thumb.webp?v=56b07aa4",
+	"file": {
+		"version": 1,
+		"asset": "sanrio-collection-seraphine-v1.fantome",
+		"size": 10395628,
+		"sha256": "14ee3181d9a9264c5401a6acb2828784238eabc54ec981992dddda6fc9381c65"
+	},
+	"chromas": []
+}

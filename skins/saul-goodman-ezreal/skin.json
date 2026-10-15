@@ -1,0 +1,26 @@
+{
+	"id": "saul-goodman-ezreal",
+	"name": "Saul Goodman Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "drinfinito",
+	"description": "This mod turns Ezreal into a lawyer who shoots lightning from his fingertips from Breaking Bad/Better Call Saul.\n\nUse the BASE Ezreal skin for this mod.\n\nFeatures:\n\n-New Model!\n\n-New SFX!\n\n-New VO!\n\n-New HUD Icons!\n\n-New Loading Screen!\n\n-\n\n--WARNING!--\n\nThe VO used for this mod may contain spoilers for Breaking Bad and Better Call Saul!\n\n-\n\nCredits:\n\nSaul Goodman model from https://sketchfab.com/3d-models/saul-goodman-531a84899eb44401a1ff5d8f735aa6ad\n\n\nChicken Bucket model from https://sketchfab.com/3d-models/kfc-e32c7ad2975c48bb8ef6472fdde829f4\n\n---\n\n**Created by** [DrInfinito](https://runeforge.dev/users/DrInfinito)\n\n**Original:** https://runeforge.dev/mods/b4a39452-3521-4084-9955-05d35ad0bff3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/saul-goodman-ezreal/thumb.webp?v=42ad8933",
+	"file": {
+		"version": 1,
+		"asset": "saul-goodman-ezreal-v1.fantome",
+		"size": 23787222,
+		"sha256": "707854d9acf2828c3161e9a2a0754affb3486337a4cf8cc4e9e62a85a6f12b1d"
+	},
+	"chromas": []
+}

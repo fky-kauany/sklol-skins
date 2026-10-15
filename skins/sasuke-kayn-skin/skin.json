@@ -1,0 +1,24 @@
+{
+	"id": "sasuke-kayn-skin",
+	"name": "Sasuke Kayn Skin",
+	"champion": 141,
+	"base": 0,
+	"creator": "lkss",
+	"description": "Sasuke Kayn\n\n**Champion: Kayn**\n\n**Required Skin: Base Kayn Skin**\n\nDiscord: lksswq\n\n---\n\n**Created by** [lkss](https://runeforge.dev/users/lkss)\n\n**Original:** https://runeforge.dev/mods/83492617-748a-4583-ae7f-8a9dc1d9aaeb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sasuke-kayn-skin/thumb.webp?v=59f9f3d1",
+	"file": {
+		"version": 1,
+		"asset": "sasuke-kayn-skin-v1.fantome",
+		"size": 1158730,
+		"sha256": "deee24238c4b73b0ba19e2ddc99f1f3103f09b9b730c470f4f194142f1435a44"
+	},
+	"chromas": []
+}
