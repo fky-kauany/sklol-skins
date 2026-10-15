@@ -1,0 +1,23 @@
+{
+	"id": "battle-bunny-caitlyn",
+	"name": "Battle Bunny Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "whattheheck",
+	"description": "Caitlyn in the original Riven only 'Battle Bunny' skin line.\n\n---\n\n**Created by** [WhatTheHeck](https://runeforge.dev/users/WhatTheHeck)\n\n**Original:** https://runeforge.dev/mods/4699651c-2370-446e-9d20-d64378b48cfa\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-bunny-caitlyn/thumb.webp?v=aedddcb4",
+	"file": {
+		"version": 1,
+		"asset": "battle-bunny-caitlyn-v1.fantome",
+		"size": 8184685,
+		"sha256": "dda2d75004bd29d606c74c9b3b07e34ea502b8116e6df3dcfb05f2600a666ddf"
+	},
+	"chromas": []
+}

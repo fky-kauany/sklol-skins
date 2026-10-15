@@ -1,0 +1,23 @@
+{
+	"id": "orange-primordian-aatrox-requires-primordian-aat",
+	"name": "orange primordian aatrox (requires primordian aatrox)",
+	"champion": 266,
+	"base": 0,
+	"creator": "eto",
+	"description": "new chroma!!! for any questions or commission requests u may have regarding this chroma or the other chromas i have made and will make in the future, contact me on discord! my tag is: hexaphobia.\n\n---\n\n**Created by** [eto](https://runeforge.dev/users/eto)\n\n**Original:** https://runeforge.dev/mods/2551b054-ef46-4853-b70a-55cb3650c43a\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/orange-primordian-aatrox-requires-primordian-aat/thumb.webp?v=922fa3bd",
+	"file": {
+		"version": 1,
+		"asset": "orange-primordian-aatrox-requires-primordian-aat-v1.fantome",
+		"size": 1864711,
+		"sha256": "bdc330b4afd7e1a6f0da1b89b4739502d63761831e4abfe2945e8e21fff30c6c"
+	},
+	"chromas": []
+}

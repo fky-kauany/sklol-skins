@@ -1,0 +1,26 @@
+{
+	"id": "old-sona-from-league-classic-only-for-live-leagu",
+	"name": "Old sona ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC",
+	"champion": 37,
+	"base": 0,
+	"creator": "muhfack",
+	"description": "## SUPPORT MY WORK : https://ko-fi.com/muhfack\n\n### DISCLAIMER : KNOWN ISSUE⚠️⚠️⚠️\nIf the mod ask for repair press **yes**\n\nThen the mod will show \"RED not repairable\" just try it in training it should be still working fine\n\n\n## Informations\nOld sona from league classic work on base only\n\n>* skin added later\n\nmight not have old sound files since riot didnt release them only sfx vfx I think , didnt even really check I did this in 5 min xd \n\n## Known issues \n#### False flag skin hack detection\nDisable it in the settings of ltk\n>* Settings => patching => Enforce anti-skinhack scan \n\n@ me on runeforge discord if issues @muhfack \n\n@ me or dm me if you want me to port one that didnt change the kit (from league classic)\n\n### Checkout also\nOld League mod :\n>* Checkout the old league hud too (item, spells, circles, squares etc)\n>* [Link](https://runeforge.dev/mods/4cc954e7-cad0-4e51-82f5-c153feee2a07)\n\nOld Lee Sin mod :\n>* Checkout the old Lee mod too (has VFX SFX VO SKINS CHROMAS HUD)\n>* vfx = spells, sfx = sound effects, vo = voice over, hud = spells icons loadings screens artwork etc\n>* Mod include all old skins and different version of them S1 S8, 2018 update, and even my custom made version\n>* [Link](https://runeforge.dev/mods/733b93d5-fb5d-4835-b485-2f686d3fee3c)\n## SUPPORT MY WORK : https://ko-fi.com/muhfack\n\n---\n\n**Created by** [muhfack](https://runeforge.dev/users/muhfack)\n\n**Original:** https://runeforge.dev/mods/7c33a084-c145-4d0f-9786-73f370c174ce\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-sona-from-league-classic-only-for-live-leagu/thumb.webp?v=15cbc2bd",
+	"file": {
+		"version": 1,
+		"asset": "old-sona-from-league-classic-only-for-live-leagu-v1.fantome",
+		"size": 6276456,
+		"sha256": "aa9967dd1d3ee66d27765f7baba193eec8376ea1b35b696b64adef2935aa0292"
+	},
+	"chromas": []
+}

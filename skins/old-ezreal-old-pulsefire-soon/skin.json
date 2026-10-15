@@ -1,0 +1,26 @@
+{
+	"id": "old-ezreal-old-pulsefire-soon",
+	"name": "Old ezreal Old pulsefire soon",
+	"champion": 81,
+	"base": 0,
+	"creator": "muhfack",
+	"description": "## SUPPORT MY WORK : https://ko-fi.com/muhfack\n\n### DISCLAIMER : KNOWN ISSUE⚠️⚠️⚠️\nIf the mod ask for repair press **yes**\n\nThen the mod will show \"RED not repairable\" just try it in training it should be still working fine\n\n## Informations\nOld ezreal from league classic work on base only\n\n>* Explorer\n>* Striker\n>* Debonair\n>* TPA IS A BETA SO TEST IT IN TRAINING FIRST\n>* other comming very soon\n\nmight not have old sound files since riot didnt release them only sfx vfx I think , didnt even really check I did this in 5 min xd  so if there are issues feel free to report them to me on discord\n\n## Known issues \n#### False flag skin hack detection\nDisable it in the settings of ltk\n>* Settings => patching => Enforce anti-skinhack scan \n\n@ me on runeforge discord if issues @muhfack \n\n@ me or dm me if you want me to port one that didnt change the kit (from league classic)\n\n### Checkout also\nOld League mod :\n>* Checkout the old league hud too (item, spells, circles, squares etc)\n>* [Link](https://runeforge.dev/mods/4cc954e7-cad0-4e51-82f5-c153feee2a07)\n\nOld Lee Sin mod :\n>* Checkout the old Lee mod too (has VFX SFX VO SKINS CHROMAS HUD)\n>* vfx = spells, sfx = sound effects, vo = voice over, hud = spells icons loadings screens artwork etc\n>* Mod include all old skins and different version of them S1 S8, 2018 update, and even my custom made version\n>* [Link](https://runeforge.dev/mods/733b93d5-fb5d-4835-b485-2f686d3fee3c)\n## SUPPORT MY WORK : https://ko-fi.com/muhfack\n\n---\n\n**Created by** [muhfack](https://runeforge.dev/users/muhfack)\n\n**Original:** https://runeforge.dev/mods/cb264a68-0d5a-458a-90c6-9f45da61d23f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/old-ezreal-old-pulsefire-soon/thumb.webp?v=06ece4ff",
+	"file": {
+		"version": 1,
+		"asset": "old-ezreal-old-pulsefire-soon-v1.fantome",
+		"size": 11306933,
+		"sha256": "b1ac68090d57c8f531c0a78c8b6d012a57ac200da13e8dcc576087a6bfeec29f"
+	},
+	"chromas": []
+}

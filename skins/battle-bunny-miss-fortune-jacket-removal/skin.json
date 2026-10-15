@@ -1,0 +1,23 @@
+{
+	"id": "battle-bunny-miss-fortune-jacket-removal",
+	"name": "Battle Bunny Miss Fortune Jacket Removal",
+	"champion": 21,
+	"base": 31,
+	"creator": "aropatnik",
+	"description": "# YOU NEED TO OWN BATTLE BUNNY MISS FORTUNE TO USE THIS MOD\n\n## Information\n\n**Modified champion: Miss Fortune**\n\n**Modified skin: Battle Bunny**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/3a87ff00-a7c1-47cc-bda0-a72869664903\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-bunny-miss-fortune-jacket-removal/thumb.webp?v=c1edc8f1",
+	"file": {
+		"version": 1,
+		"asset": "battle-bunny-miss-fortune-jacket-removal-v1.fantome",
+		"size": 1126791,
+		"sha256": "e79e8541a0e910cdd70415a9491e49dadb0943c60cef1755f105f8dd05a86ac5"
+	},
+	"chromas": []
+}

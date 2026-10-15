@@ -1,0 +1,25 @@
+{
+	"id": "battle-cat-gwen-wr-port",
+	"name": "Battle Cat Gwen WR Port",
+	"champion": 887,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "- Champion: Gwen\r\n- Skins Applied: All skins\r\n- Features: Wild Rift Model,New Textures, Modified Animations, VFX, SFX and Voiceover\r\n_________________________________________________________________\r\nMy Linktree (https://linktr.ee/FingaMiro)\r\n\r\nJoin my small community :3 (https://discord.com/invite/ZyqhFGne2B)\r\n\r\nWR Models (https://discord.gg/sHSFj8zP29)\r\n\r\nEnjoy :D\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/be8758bb-aa78-47a9-810e-c8e40a4d82df\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-cat-gwen-wr-port/thumb.webp?v=eae3de60",
+	"file": {
+		"version": 1,
+		"asset": "battle-cat-gwen-wr-port-v1.fantome",
+		"size": 8080488,
+		"sha256": "c8688fec8ababf470b9543d3b220d959d360701c8d5066381cfae34b4d7cf0a6"
+	},
+	"chromas": []
+}

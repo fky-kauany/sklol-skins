@@ -1,0 +1,23 @@
+{
+	"id": "prestige-obsidian-dragon-sett-rose",
+	"name": "Prestige Obsidian Dragon Sett rose",
+	"champion": 875,
+	"base": 9,
+	"creator": "gabe",
+	"description": "Modified champion: Sett \r\n\r\nModified skin: Prestige Obsidian Dragon Sett \r\n\r\nall the effects and particles for rose\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/46636e76-8153-42f3-9487-4d4196a15a1b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-obsidian-dragon-sett-rose/thumb.webp?v=16e6d8ce",
+	"file": {
+		"version": 1,
+		"asset": "prestige-obsidian-dragon-sett-rose-v1.fantome",
+		"size": 7694805,
+		"sha256": "1b7018f091bb8149c9fd02e51576dc7914b47b46f6837817de097b03d233fe98"
+	},
+	"chromas": []
+}

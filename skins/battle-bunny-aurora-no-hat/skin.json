@@ -1,0 +1,23 @@
+{
+	"id": "battle-bunny-aurora-no-hat",
+	"name": "Battle Bunny Aurora no hat",
+	"champion": 893,
+	"base": 1,
+	"creator": "inaba24",
+	"description": "Champion: Aurora\r\n\r\nModified skin: Battle Bunny\r\n\r\nAuthor: inaba24\r\n\r\nMod version: 1.0.1\r\n\r\nDescription: Battle Bunny Aurora without the hat + minor color tweaks\n\n---\n\n**Created by** [inaba24](https://runeforge.dev/users/inaba24)\n\n**Original:** https://runeforge.dev/mods/515627d1-9a0d-43bd-9705-c5f6e83521dd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-bunny-aurora-no-hat/thumb.webp?v=f6a5a5d4",
+	"file": {
+		"version": 1,
+		"asset": "battle-bunny-aurora-no-hat-v1.fantome",
+		"size": 900193,
+		"sha256": "c7ec13c7291cb8646777daf6972e76665603d0998c04070990dafac7000def04"
+	},
+	"chromas": []
+}

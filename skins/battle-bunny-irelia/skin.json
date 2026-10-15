@@ -1,0 +1,24 @@
+{
+	"id": "battle-bunny-irelia",
+	"name": "Battle Bunny Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "whattheheck",
+	"description": "Irelia in the famous, Riven-only original 'Battle Bunny' skin line!\r\n\r\nwhat do u want me to say here? U know u wanna see it. \r\nBare legs Texture file somewhere in the fantome if u preffer. Dont message me how to change it...\n\n---\n\n**Created by** [WhatTheHeck](https://runeforge.dev/users/WhatTheHeck)\n\n**Original:** https://runeforge.dev/mods/dac1c0ce-0035-44cd-8c0a-27855f4a86c3\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-bunny-irelia/thumb.webp?v=37b10af1",
+	"file": {
+		"version": 1,
+		"asset": "battle-bunny-irelia-v1.fantome",
+		"size": 4504641,
+		"sha256": "9a1ee568398e37997bb2dcc56c9e6baec8000a0aff561cf4e9ff16357d02d6f2"
+	},
+	"chromas": []
+}

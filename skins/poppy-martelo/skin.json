@@ -1,0 +1,25 @@
+{
+	"id": "poppy-martelo",
+	"name": "Poppy Martelo",
+	"champion": 78,
+	"base": 0,
+	"creator": "rahabani",
+	"description": "Ele troca todas as falas para martelo, porem tem uma versão sem\r\n\r\nQualquer duvida pode me mandar msg no discord: Rahabani\r\n ou entrar no meu servidor: https://discord.gg/r7BMv2xm\r\n\r\nSe o filipoppy nao gostar ou quiser que retire por favor entre em contato comigo via twitter ou discord\n\n---\n\n**Created by** [Rahabani](https://runeforge.dev/users/Rahabani)\n\n**Original:** https://runeforge.dev/mods/40924cc9-c7dd-4734-8747-17c8a9d2010f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/poppy-martelo/thumb.webp?v=5f8c31a8",
+	"file": {
+		"version": 1,
+		"asset": "poppy-martelo-v1.fantome",
+		"size": 664488,
+		"sha256": "1cb83a4aaa599e26b06b698a53ece6f737e8cb3281a344fd3b7a25da6e664fa4"
+	},
+	"chromas": []
+}

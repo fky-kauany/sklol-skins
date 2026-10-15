@@ -1,0 +1,23 @@
+{
+	"id": "battle-bunny-camille",
+	"name": "Battle Bunny Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "whattheheck",
+	"description": "Camille in the original Riven only 'Battle Bunny' skin line.\r\nI think maybe I should have made carrot ult effects or somthing but I don't play this champ.\n\n---\n\n**Created by** [WhatTheHeck](https://runeforge.dev/users/WhatTheHeck)\n\n**Original:** https://runeforge.dev/mods/75eab0b3-5f8e-4a09-960a-f2caff4e68f2\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-bunny-camille/thumb.webp?v=393b3c45",
+	"file": {
+		"version": 1,
+		"asset": "battle-bunny-camille-v1.fantome",
+		"size": 2484852,
+		"sha256": "49caa3e74d6015c9577bc3cd599aefc30f42ab6457af61cfe7dbad65cb91d6e3"
+	},
+	"chromas": []
+}

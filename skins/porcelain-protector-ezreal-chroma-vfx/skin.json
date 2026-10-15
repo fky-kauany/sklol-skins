@@ -1,0 +1,25 @@
+{
+	"id": "porcelain-protector-ezreal-chroma-vfx",
+	"name": "Porcelain Protector Ezreal chroma VFX",
+	"champion": 81,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Porcelain Protector Ezreal. 1 file for all chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Porcelain Protector Ezreal\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/6ba92df8-85b1-4141-84ff-7a02d5d2ae8b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/porcelain-protector-ezreal-chroma-vfx/thumb.webp?v=c5b8a3f7",
+	"file": {
+		"version": 1,
+		"asset": "porcelain-protector-ezreal-chroma-vfx-v1.fantome",
+		"size": 18657048,
+		"sha256": "28728948a7dcf79f6067090fa37d3518d861ce894f39d2c076e86eb60a1ad677"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "battle-bunny-poppy",
+	"name": "Battle Bunny Poppy",
+	"champion": 78,
+	"base": 0,
+	"creator": "whattheheck",
+	"description": "Poppy in the original Riven only 'Battle Bunny' skin line.\r\nA yordle is fine too.\n\n---\n\n**Created by** [WhatTheHeck](https://runeforge.dev/users/WhatTheHeck)\n\n**Original:** https://runeforge.dev/mods/067a7c1a-fada-4729-b9ce-c750cd98d011\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-bunny-poppy/thumb.webp?v=9121e7da",
+	"file": {
+		"version": 1,
+		"asset": "battle-bunny-poppy-v1.fantome",
+		"size": 1337634,
+		"sha256": "bc6869add451b894bd83bf265dac057b9189b5e56a01ed56976479f26717a4d9"
+	},
+	"chromas": []
+}

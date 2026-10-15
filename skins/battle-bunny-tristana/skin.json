@@ -1,0 +1,23 @@
+{
+	"id": "battle-bunny-tristana",
+	"name": "Battle Bunny Tristana",
+	"champion": 18,
+	"base": 0,
+	"creator": "whattheheck",
+	"description": "Tristana in the original Riven only 'Battle Bunny' skin line.\r\nIs that a carrot on your pocket?\n\n---\n\n**Created by** [WhatTheHeck](https://runeforge.dev/users/WhatTheHeck)\n\n**Original:** https://runeforge.dev/mods/f5b51826-3d19-468a-ad0c-c296cc07d918\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-bunny-tristana/thumb.webp?v=1c56c550",
+	"file": {
+		"version": 1,
+		"asset": "battle-bunny-tristana-v1.fantome",
+		"size": 640198,
+		"sha256": "4a4b4ef7b7e79bf97959bcc651b97e61119285f2f3bf96aa3ba350e1bd4d2c73"
+	},
+	"chromas": []
+}

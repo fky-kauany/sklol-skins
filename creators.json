@@ -156,6 +156,15 @@
 			"youtube": "https://www.youtube.com/@BACKSTAB44"
 		}
 	},
+	"beardedshepherd": {
+		"name": "Bearded Shepherd",
+		"avatar": "creators/beardedshepherd.jpg?v=108e8811",
+		"links": {
+			"site": "https://linktr.ee/BeardedShepherd",
+			"x": "https://twitter.com/lxver8",
+			"youtube": "https://www.youtube.com/c/HuselPusel"
+		}
+	},
 	"blaster": {
 		"name": "Blaster",
 		"avatar": "creators/blaster.png?v=5988ac73",
@@ -371,6 +380,16 @@
 		"avatar": "creators/eto.jpg?v=dbbf3e98",
 		"links": {
 			"youtube": "https://youtu.be/VT5gR_etr-o"
+		}
+	},
+	"fingamiro": {
+		"name": "FingaMiro",
+		"avatar": "creators/fingamiro.jpg?v=c7261b21",
+		"bio": "This is FingaMiro! I do WR Ports and custom skins that are suitable for league's main theme\n\nJoin my discord for support and more information about my mods (https://discord.gg/ZyqhFGne2B)\n\nMy Links (https://linktr.ee/FingaMiro)\n\nIf you faced any issues with one of my mods ping/DM me at Runeforge or my discord server (@FingaMiro)\n\nNOTE: Wild Rift Models are from \"https://discord.gg/sHSFj8zP29\"",
+		"links": {
+			"discord": "https://discord.gg/ZyqhFGne2B",
+			"site": "https://linktr.ee/FingaMiro",
+			"youtube": "https://youtu.be/SjfZodcLimg"
 		}
 	},
 	"fitz-gh": {
@@ -648,6 +667,14 @@
 			"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
 		}
 	},
+	"muhfack": {
+		"name": "muhfack",
+		"avatar": "creators/muhfack.jpg?v=0ba1b0c1",
+		"links": {
+			"kofi": "https://ko-fi.com/muhfack",
+			"site": "https://runeforge.dev/mods/4cc954e7-cad0-4e51-82f5-c153feee2a07"
+		}
+	},
 	"mustafa-zkaya": {
 		"name": "Mustafa_zkaya",
 		"avatar": "creators/mustafa-zkaya.jpg?v=2dfb00b6",
@@ -682,6 +709,14 @@
 		"bio": "Free over 100+ Custom Skins for free and always updating.\n\nhttps://discord.gg/RxQWbrTyhs",
 		"links": {
 			"discord": "https://discord.gg/RxQWbrTyhs"
+		}
+	},
+	"notcz": {
+		"name": "notCZ",
+		"avatar": "creators/notcz.jpg?v=9fa915bb",
+		"bio": "man i miss her",
+		"links": {
+			"youtube": "https://youtu.be/yLbS-bH1Wxw?si=GVcd5WSw5gH6cKVk"
 		}
 	},
 	"novaweb": {
@@ -983,6 +1018,14 @@
 		"name": "WastedWaffle",
 		"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 		"links": {}
+	},
+	"whattheheck": {
+		"name": "WhatTheHeck",
+		"avatar": "creators/whattheheck.png?v=62fedfe3",
+		"bio": "I make skins.\nMessage me if you want I'm also whattheheck on discord.\nI hate mel.",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=DLzxrzFCyOs"
+		}
 	},
 	"wiko": {
 		"name": "Wiko",
