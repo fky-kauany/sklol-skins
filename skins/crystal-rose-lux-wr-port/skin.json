@@ -1,0 +1,26 @@
+{
+	"id": "crystal-rose-lux-wr-port",
+	"name": "Crystal Rose Lux WR Port",
+	"champion": 99,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro\n\n##### Version: 1.0.2\n\n\n\nTexture editions done by Raka!\n\n\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro \"Linktree | FingaMiro\"))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n> WR Models: [https://discord.gg/sHSFj8zP29](https://discord.gg/sHSFj8zP29 \"DIscord | WR Modding Community\")\n\n> Ring Model: [Rings#2 Download by H-Y-P-N-O-T-I-C-S on DeviantArt](https://www.deviantart.com/h-y-p-n-o-t-i-c-s/art/Rings-2-Download-834005924 \"Devian Art | Rings\")\n\n> Gem Model: [:MMD GemStone Pack#2: Download by LilMissLillie on DeviantArt](https://www.deviantart.com/lilmisslillie/art/MMD-GemStone-Pack-2-Download-647481895)\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/2b2d3805-5f17-4a73-a7e2-9285e3e2db8c\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-rose-lux-wr-port/thumb.webp?v=d6783e4c",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-lux-wr-port-v1.fantome",
+		"size": 10857664,
+		"sha256": "b9ebb6ff6b5ae371a96ebe56ec6f2d17d868094cfbbccf289a07f24d75e26d73"
+	},
+	"chromas": []
+}

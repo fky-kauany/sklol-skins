@@ -1,0 +1,24 @@
+{
+	"id": "crystal-rose-evelynn",
+	"name": "Crystal Rose Evelynn",
+	"champion": 28,
+	"base": 0,
+	"creator": "ast3r11",
+	"description": "**INFO**\r\n\r\nReplaces: Base skin\r\n\r\n**Features**\r\n*New model*\r\n*New Textures*\r\n*New Vfx*\r\n\r\n**Next Update**\r\n*New Recall*\r\n*New Sfx*\r\n*Chromas?*\n\n---\n\n**Created by** [Aster](https://runeforge.dev/users/Ast3r11)\n\n**Original:** https://runeforge.dev/mods/457b0424-d186-4aad-b98c-79fa85443571\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-rose-evelynn/thumb.webp?v=7c13f0ae",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-evelynn-v1.fantome",
+		"size": 3972806,
+		"sha256": "418ba04eeb44b7b5092f1f3419adfb393fc1943671d150221181a7074217ef5b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "crystal-rose-gwen-wildrift-port",
+	"name": "Crystal Rose Gwen Wildrift Port",
+	"champion": 887,
+	"base": 0,
+	"creator": "froggles",
+	"description": "#### MOD INFORMATION\n\n* CHAMPION: Gwen\n* MODIFIED SKIN: Default\n* AUTHOR: Froggles\n\n#### FEATURES\n\n* New model & textures\n* Modified particles\n* Modified Loading Splash\n\n---\n\n**Created by** [Froggles](https://runeforge.dev/users/Froggles)\n\n**Original:** https://runeforge.dev/mods/b72eab50-3e3d-4ca3-883a-0e016299518a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-rose-gwen-wildrift-port/thumb.webp?v=bceafe23",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-gwen-wildrift-port-v1.fantome",
+		"size": 10762580,
+		"sha256": "87428e7a5c33021d617db9bd052ac0b21833c3ff8332e66088783d58d5aba01d"
+	},
+	"chromas": []
+}

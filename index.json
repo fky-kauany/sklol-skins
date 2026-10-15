@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:44:09.403Z",
+	"generatedAt": "2026-10-15T08:47:20.341Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -155,6 +155,16 @@
 			"name": "aruari",
 			"avatar": "creators/aruari.jpg?v=50090a89",
 			"links": {}
+		},
+		"ast3r11": {
+			"name": "Aster",
+			"avatar": "creators/ast3r11.png?v=823da5fb",
+			"bio": "Hiii im an artist making custom skin for the funzies :P",
+			"links": {
+				"discord": "https://discord.gg/Syx5RNDVSh",
+				"x": "https://x.com/JimmyYuh2",
+				"youtube": "https://www.youtube.com/@Ast3r11"
+			}
 		},
 		"aun0n": {
 			"name": "aun0n",
@@ -6600,6 +6610,258 @@
 				"asset": "crystal-rose-ahri-v1.fantome",
 				"size": 11220826,
 				"sha256": "e0fe4c602f19c45c9e4f9e8b794f258a7f36c3926e6b483fd745e9938abf20a9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-evelynn",
+			"name": "Crystal Rose Evelynn",
+			"champion": 28,
+			"base": 0,
+			"creator": "ast3r11",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-evelynn/thumb.webp?v=7c13f0ae",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-evelynn-v1.fantome",
+				"size": 3972806,
+				"sha256": "418ba04eeb44b7b5092f1f3419adfb393fc1943671d150221181a7074217ef5b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-gwen-prestige-wildrift-port",
+			"name": "Crystal Rose Gwen Prestige Wildrift Port",
+			"champion": 887,
+			"base": 0,
+			"creator": "froggles",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-gwen-prestige-wildrift-port/thumb.webp?v=034a4bad",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-gwen-prestige-wildrift-port-v1.fantome",
+				"size": 9296106,
+				"sha256": "b75c6c61f1417453699e65ed5bd5b819b6bdb6051aa29971972339551f8667b9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-gwen-wildrift-port",
+			"name": "Crystal Rose Gwen Wildrift Port",
+			"champion": 887,
+			"base": 0,
+			"creator": "froggles",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-gwen-wildrift-port/thumb.webp?v=bceafe23",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-gwen-wildrift-port-v1.fantome",
+				"size": 10762580,
+				"sha256": "87428e7a5c33021d617db9bd052ac0b21833c3ff8332e66088783d58d5aba01d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-lissandra",
+			"name": "Crystal Rose Lissandra",
+			"champion": 127,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-lissandra/thumb.webp?v=64a2224b",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-lissandra-v1.fantome",
+				"size": 20589572,
+				"sha256": "58d6418e40caa0b9fed3bd43cce72910fe0481b0d34d9c985214c4f38cb9b0b6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-lux-wr-port",
+			"name": "Crystal Rose Lux WR Port",
+			"champion": 99,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-lux-wr-port/thumb.webp?v=d6783e4c",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-lux-wr-port-v1.fantome",
+				"size": 10857664,
+				"sha256": "b9ebb6ff6b5ae371a96ebe56ec6f2d17d868094cfbbccf289a07f24d75e26d73"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-morgana",
+			"name": "Crystal Rose Morgana",
+			"champion": 25,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-morgana/thumb.webp?v=2c45e3ce",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-morgana-v1.fantome",
+				"size": 9998205,
+				"sha256": "4183fb2664d77383c36af33f259373f079424a58cf4a8595f5cb71fe0d15b73d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-nami",
+			"name": "Crystal Rose Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-nami/thumb.webp?v=096cb1fa",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-nami-v1.fantome",
+				"size": 17220950,
+				"sha256": "04723a529ab91014193e631f7333948869dcaf127bb79daaadf6852a7212746b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-vayne-wr-port",
+			"name": "Crystal Rose Vayne WR Port",
+			"champion": 67,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-vayne-wr-port/thumb.webp?v=aec0490c",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-vayne-wr-port-v1.fantome",
+				"size": 17349192,
+				"sha256": "ea2df4ee4cca4a22f638ea7931e10aa734e2465bdead5d3f1ef72937fbf566fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-vi-wr-port",
+			"name": "Crystal Rose Vi WR Port",
+			"champion": 254,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-vi-wr-port/thumb.webp?v=f07e0b45",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-vi-wr-port-v1.fantome",
+				"size": 13003122,
+				"sha256": "e44f07ec0061b5afa301d6bcfc0310f35bee35c1619961905220363f6e81a8af"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-viego-wr-port",
+			"name": "Crystal Rose Viego WR Port",
+			"champion": 234,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-viego-wr-port/thumb.webp?v=8cfed68c",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-viego-wr-port-v1.fantome",
+				"size": 20059763,
+				"sha256": "24826ed6cd4d27d0ab3cb06550154b94d25f50b354959808dd6771f69b0c8044"
 			},
 			"chromas": []
 		},

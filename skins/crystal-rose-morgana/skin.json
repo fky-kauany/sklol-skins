@@ -1,0 +1,26 @@
+{
+	"id": "crystal-rose-morgana",
+	"name": "Crystal Rose Morgana",
+	"champion": 25,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Morgana\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.2\r\n\r\n###### Description: Crystal Rose Morgana\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/4a8dc328-7b48-4d07-9feb-11a04a496ccf\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-rose-morgana/thumb.webp?v=2c45e3ce",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-morgana-v1.fantome",
+		"size": 9998205,
+		"sha256": "4183fb2664d77383c36af33f259373f079424a58cf4a8595f5cb71fe0d15b73d"
+	},
+	"chromas": []
+}

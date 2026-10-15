@@ -1,0 +1,25 @@
+{
+	"id": "crystal-rose-nami",
+	"name": "Crystal Rose Nami",
+	"champion": 267,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2091072476562206732?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Nami\r\n* Skin: All\r\n* Crystal Rose Nami Wild Rift Port\r\n\r\n# Features\r\n\r\n- Loadingscreen & HUD\r\n- VFX\r\n- Model\r\n\r\n# ![](https://i.imgur.com/q3rG3zO.png)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/96797743-7b1f-4c80-96b4-e70fdf24da93\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-rose-nami/thumb.webp?v=096cb1fa",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-nami-v1.fantome",
+		"size": 17220950,
+		"sha256": "04723a529ab91014193e631f7333948869dcaf127bb79daaadf6852a7212746b"
+	},
+	"chromas": []
+}

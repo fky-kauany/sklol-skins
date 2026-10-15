@@ -1,0 +1,25 @@
+{
+	"id": "crystal-rose-gwen-prestige-wildrift-port",
+	"name": "Crystal Rose Gwen Prestige Wildrift Port",
+	"champion": 887,
+	"base": 0,
+	"creator": "froggles",
+	"description": "#### MOD INFORMATION\n\n* CHAMPION: Gwen\n* MODIFIED SKIN: Default\n* AUTHOR: Froggles\n* DESCRIPTION: Gwen stuns in a gown that evokes thoughts of magic and romance in all who sees it.\n\n#### FEATURES\n\n* New model & textures\n* Supports all champion quality settings\n* Modified recall particles\n* Modified Loading Splash\n\n---\n\n**Created by** [Froggles](https://runeforge.dev/users/Froggles)\n\n**Original:** https://runeforge.dev/mods/237c807c-5299-4545-9f2a-2f12eef862d8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-rose-gwen-prestige-wildrift-port/thumb.webp?v=034a4bad",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-gwen-prestige-wildrift-port-v1.fantome",
+		"size": 9296106,
+		"sha256": "b75c6c61f1417453699e65ed5bd5b819b6bdb6051aa29971972339551f8667b9"
+	},
+	"chromas": []
+}
