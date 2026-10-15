@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:37:36.331Z",
+	"generatedAt": "2026-10-15T09:40:44.827Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -783,6 +783,13 @@
 			"avatar": "creators/laiker.jpg?v=4682a9a7",
 			"links": {}
 		},
+		"lensquik2003": {
+			"name": "Lensquik",
+			"avatar": "creators/lensquik2003.png?v=c38afe41",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=ThaK-4Ln0IM"
+			}
+		},
 		"leon135": {
 			"name": "Leon135",
 			"avatar": "creators/leon135.jpg?v=d74e10a5",
@@ -1165,6 +1172,12 @@
 				"youtube": "https://www.youtube.com/@s0jaku-lol"
 			}
 		},
+		"s10tiamat": {
+			"name": "tiamat",
+			"avatar": "creators/s10tiamat.jpg?v=095b464f",
+			"bio": "discord: s10tiamat",
+			"links": {}
+		},
 		"sabafutka": {
 			"name": "SabaFutka",
 			"avatar": "creators/sabafutka.webp?v=97ea8aca",
@@ -1209,6 +1222,11 @@
 		"shelzy": {
 			"name": "Shelzy",
 			"avatar": "creators/shelzy.png?v=45784fd0",
+			"links": {}
+		},
+		"sheogorath": {
+			"name": "Sheogorath",
+			"avatar": "creators/sheogorath.jpg?v=ebfcb867",
 			"links": {}
 		},
 		"shrimpback": {
@@ -11115,6 +11133,247 @@
 				"asset": "glitch-core-katarina-v1.fantome",
 				"size": 11858167,
 				"sha256": "af6f356d037a36688bd127af6874664557f0842521524b2ce4838c3e3ce0fa4f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glorious-crimson-fiora-wr-port",
+			"name": "Glorious Crimson Fiora WR Port",
+			"champion": 114,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glorious-crimson-fiora-wr-port/thumb.webp?v=fcac2a19",
+			"file": {
+				"version": 1,
+				"asset": "glorious-crimson-fiora-wr-port-v1.fantome",
+				"size": 3917890,
+				"sha256": "f138b8e96b47a23bd6507f809ef7ede8f1a2e863d9e8455b8849a6867e59fb32"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glorious-lulu-wr-port",
+			"name": "Glorious Lulu WR Port",
+			"champion": 117,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glorious-lulu-wr-port/thumb.webp?v=3765e7c3",
+			"file": {
+				"version": 1,
+				"asset": "glorious-lulu-wr-port-v1.fantome",
+				"size": 2050176,
+				"sha256": "96f1e4d1b0083d7c328d12a746f082913375efab3a17aa82b16ebe16350d71ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glorious-orianna-wr-port",
+			"name": "Glorious Orianna WR Port",
+			"champion": 61,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glorious-orianna-wr-port/thumb.webp?v=7c453c37",
+			"file": {
+				"version": 1,
+				"asset": "glorious-orianna-wr-port-v1.fantome",
+				"size": 4352971,
+				"sha256": "9c16d60a82aa1fa5266ea97f070755f5dafcf4f31a1f577d36fbccc9a5526b7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glorious-tryndamere-wr-port",
+			"name": "Glorious Tryndamere WR Port",
+			"champion": 23,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glorious-tryndamere-wr-port/thumb.webp?v=1831db97",
+			"file": {
+				"version": 1,
+				"asset": "glorious-tryndamere-wr-port-v1.fantome",
+				"size": 39185679,
+				"sha256": "9ad94831cd52611d67f9322c118914622464d6373bb6c3fbb67cc9ef067a822b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "glover-64-ezreal",
+			"name": "Glover 64 Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "lensquik2003",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/glover-64-ezreal/thumb.webp?v=2449408a",
+			"file": {
+				"version": 1,
+				"asset": "glover-64-ezreal-v1.fantome",
+				"size": 1225157,
+				"sha256": "f5a7f3f7cc00c681706d786f2b152d6f2141517d22dd350f6d61e9e71ec8da25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gnar-but-it-s-nasus-and-renekton",
+			"name": "Gnar but it's Nasus and Renekton",
+			"champion": 150,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gnar-but-it-s-nasus-and-renekton/thumb.webp?v=8ec66d6d",
+			"file": {
+				"version": 1,
+				"asset": "gnar-but-it-s-nasus-and-renekton-v1.fantome",
+				"size": 18513980,
+				"sha256": "d49fbaf86d2341147cc539c5e47b8f74d320fdb21dab9d76c3f1aa6f9f69926a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goalkeeper-blitzcrank-ugurcan-cakir-jersey",
+			"name": "Goalkeeper Blitzcrank - Ugurcan Cakir jersey",
+			"champion": 53,
+			"base": 2,
+			"creator": "s10tiamat",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goalkeeper-blitzcrank-ugurcan-cakir-jersey/thumb.webp?v=757881df",
+			"file": {
+				"version": 1,
+				"asset": "goalkeeper-blitzcrank-ugurcan-cakir-jersey-v1.fantome",
+				"size": 193101,
+				"sha256": "d905b9c41357f80c47c1061100af17bca7f844bf77443ca34af2f5fd6edaf6f1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goblin-slayer-pantheon",
+			"name": "Goblin Slayer Pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "istolehappymealfromkids",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goblin-slayer-pantheon/thumb.webp?v=dc5f8604",
+			"file": {
+				"version": 1,
+				"asset": "goblin-slayer-pantheon-v1.fantome",
+				"size": 3886138,
+				"sha256": "829f10365f56f98b17b5c8d64ccaf1837c4ca130500442da8d2c662ab05e39af"
+			},
+			"chromas": []
+		},
+		{
+			"id": "god-king-darius-black-and-red-chroma",
+			"name": "God king Darius Black and Red Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "sheogorath",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/god-king-darius-black-and-red-chroma/thumb.webp?v=f336e777",
+			"file": {
+				"version": 1,
+				"asset": "god-king-darius-black-and-red-chroma-v1.fantome",
+				"size": 4673281,
+				"sha256": "1d8dbbb318afda93e000bf7510c68a9e87a3a1b18cf8b81e9f67235eed1935b9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "god-king-darius-black-white-chroma",
+			"name": "God-King Darius Black&White Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/god-king-darius-black-white-chroma/thumb.webp?v=c9316870",
+			"file": {
+				"version": 1,
+				"asset": "god-king-darius-black-white-chroma-v1.fantome",
+				"size": 1417376,
+				"sha256": "a121daad25f5595b2724953cf981007d7ca42edb3ebcecb92a30c74913170fd2"
 			},
 			"chromas": []
 		},

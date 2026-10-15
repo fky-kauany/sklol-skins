@@ -1,0 +1,25 @@
+{
+	"id": "goblin-slayer-pantheon",
+	"name": "Goblin Slayer Pantheon",
+	"champion": 80,
+	"base": 0,
+	"creator": "istolehappymealfromkids",
+	"description": "### MOD INFORMATION\r\n\r\n* Champion: Pantheon\r\n* Modified skin: Default\r\n* Author: istonehappymealfromkids\r\n* Mod version: 1.2\r\n* Description: Goblin?\r\n\r\n### FEATURES\r\n\r\n* New model and texture\r\n* Modified loadingscreen\r\n* Modified particles\r\n* Edited ability sounds\r\n* New voiceover\r\n* Recall music Rightfully by Mili\r\n\r\n### ABOUT THE MOD\r\n\r\n* Goblinslayer from anime goblin slayer\r\n\r\n### CREDITS\r\n\r\n* Thumbnail by botsumoto\r\n* Model from: 300 Heroes\r\nModel and all rights belongs to: JUMP and Valve\n\n---\n\n**Created by** [istolehappymealfromkids](https://runeforge.dev/users/istolehappymealfromkids)\n\n**Original:** https://runeforge.dev/mods/3461324e-2bf9-49a2-b799-49da426f5cff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/goblin-slayer-pantheon/thumb.webp?v=dc5f8604",
+	"file": {
+		"version": 1,
+		"asset": "goblin-slayer-pantheon-v1.fantome",
+		"size": 3886138,
+		"sha256": "829f10365f56f98b17b5c8d64ccaf1837c4ca130500442da8d2c662ab05e39af"
+	},
+	"chromas": []
+}

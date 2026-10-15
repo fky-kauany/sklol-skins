@@ -1,0 +1,24 @@
+{
+	"id": "glorious-orianna-wr-port",
+	"name": "Glorious Orianna WR Port",
+	"champion": 61,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro\n\n##### Version: 1.0.1\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/438d7b0f-abb4-44a2-a1b4-4801ab1bd196\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glorious-orianna-wr-port/thumb.webp?v=7c453c37",
+	"file": {
+		"version": 1,
+		"asset": "glorious-orianna-wr-port-v1.fantome",
+		"size": 4352971,
+		"sha256": "9c16d60a82aa1fa5266ea97f070755f5dafcf4f31a1f577d36fbccc9a5526b7c"
+	},
+	"chromas": []
+}

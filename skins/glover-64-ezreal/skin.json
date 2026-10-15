@@ -1,0 +1,24 @@
+{
+	"id": "glover-64-ezreal",
+	"name": "Glover 64 Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "lensquik2003",
+	"description": "Ezreal with Glover and his SFX voices (optional).\r\n\r\n\r\nNote that the voices SFX is for Russian ezreal voice. You might need to rename the mod or reconstruct the .wpk for the voices to work on English.\r\n\r\nPreview: https://www.youtube.com/watch?v=ThaK-4Ln0IM\n\n---\n\n**Created by** [Lensquik](https://runeforge.dev/users/lensquik2003)\n\n**Original:** https://runeforge.dev/mods/3e0f6f1b-f59a-4717-bb12-b30f5d8208cf\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glover-64-ezreal/thumb.webp?v=2449408a",
+	"file": {
+		"version": 1,
+		"asset": "glover-64-ezreal-v1.fantome",
+		"size": 1225157,
+		"sha256": "f5a7f3f7cc00c681706d786f2b152d6f2141517d22dd350f6d61e9e71ec8da25"
+	},
+	"chromas": []
+}

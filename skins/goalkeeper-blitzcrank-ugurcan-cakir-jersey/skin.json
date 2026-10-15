@@ -1,0 +1,22 @@
+{
+	"id": "goalkeeper-blitzcrank-ugurcan-cakir-jersey",
+	"name": "Goalkeeper Blitzcrank - Ugurcan Cakir jersey",
+	"champion": 53,
+	"base": 2,
+	"creator": "s10tiamat",
+	"description": "Blitzy is now an Ugurcan Cakir fan! \r\nThis mod gives Ugurcan Cakir jersey to Goalkeeper Blitzcrank.\r\nreplaces Goalkeeper skin texture and loadscreen\n\n---\n\n**Created by** [tiamat](https://runeforge.dev/users/s10tiamat)\n\n**Original:** https://runeforge.dev/mods/d27579eb-6930-416f-a6f3-42dac50d1fe7\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/goalkeeper-blitzcrank-ugurcan-cakir-jersey/thumb.webp?v=757881df",
+	"file": {
+		"version": 1,
+		"asset": "goalkeeper-blitzcrank-ugurcan-cakir-jersey-v1.fantome",
+		"size": 193101,
+		"sha256": "d905b9c41357f80c47c1061100af17bca7f844bf77443ca34af2f5fd6edaf6f1"
+	},
+	"chromas": []
+}

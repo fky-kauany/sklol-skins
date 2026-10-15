@@ -1,0 +1,26 @@
+{
+	"id": "gnar-but-it-s-nasus-and-renekton",
+	"name": "Gnar but it's Nasus and Renekton",
+	"champion": 150,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Gnar**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* Nasus and Renekton\n* Particles on emotes\n* Build suggestions\n* Sivir's boomerang\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/f0f61f4d-ddc4-43b9-a11d-d901b069847c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gnar-but-it-s-nasus-and-renekton/thumb.webp?v=8ec66d6d",
+	"file": {
+		"version": 1,
+		"asset": "gnar-but-it-s-nasus-and-renekton-v1.fantome",
+		"size": 18513980,
+		"sha256": "d49fbaf86d2341147cc539c5e47b8f74d320fdb21dab9d76c3f1aa6f9f69926a"
+	},
+	"chromas": []
+}

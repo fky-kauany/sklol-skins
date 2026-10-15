@@ -1,0 +1,23 @@
+{
+	"id": "god-king-darius-black-and-red-chroma",
+	"name": "God king Darius Black and Red Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "sheogorath",
+	"description": "**Modified champion: Darius**\n\n**Modified skin: God king Darius**\n\n**Author: Sheogorath**\n\n---\n\n**Created by** [Sheogorath](https://runeforge.dev/users/Sheogorath)\n\n**Original:** https://runeforge.dev/mods/1e4bb3a8-eeaf-43ca-976f-b9c015672b4e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/god-king-darius-black-and-red-chroma/thumb.webp?v=f336e777",
+	"file": {
+		"version": 1,
+		"asset": "god-king-darius-black-and-red-chroma-v1.fantome",
+		"size": 4673281,
+		"sha256": "1d8dbbb318afda93e000bf7510c68a9e87a3a1b18cf8b81e9f67235eed1935b9"
+	},
+	"chromas": []
+}

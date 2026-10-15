@@ -1,0 +1,24 @@
+{
+	"id": "glorious-crimson-fiora-wr-port",
+	"name": "Glorious Crimson Fiora WR Port",
+	"champion": 114,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro\n\n##### Version: 1.0.2\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/e9931a86-5a58-43d1-adbf-d4d762a7692b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glorious-crimson-fiora-wr-port/thumb.webp?v=fcac2a19",
+	"file": {
+		"version": 1,
+		"asset": "glorious-crimson-fiora-wr-port-v1.fantome",
+		"size": 3917890,
+		"sha256": "f138b8e96b47a23bd6507f809ef7ede8f1a2e863d9e8455b8849a6867e59fb32"
+	},
+	"chromas": []
+}

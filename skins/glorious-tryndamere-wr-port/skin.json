@@ -1,0 +1,26 @@
+{
+	"id": "glorious-tryndamere-wr-port",
+	"name": "Glorious Tryndamere WR Port",
+	"champion": 23,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro\n\n##### Version: 1.0.1\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nThanks for Kaizen and his Tryndamere ASU that this skin is using its animations\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/e84b04a0-25e9-4325-aaec-b308009a295f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/glorious-tryndamere-wr-port/thumb.webp?v=1831db97",
+	"file": {
+		"version": 1,
+		"asset": "glorious-tryndamere-wr-port-v1.fantome",
+		"size": 39185679,
+		"sha256": "9ad94831cd52611d67f9322c118914622464d6373bb6c3fbb67cc9ef067a822b"
+	},
+	"chromas": []
+}

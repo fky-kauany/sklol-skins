@@ -1,0 +1,23 @@
+{
+	"id": "god-king-darius-black-white-chroma",
+	"name": "God-King Darius Black&White Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: God-King Darius\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/1a6736b3-95d4-41cf-b168-5b80e8c0531e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/god-king-darius-black-white-chroma/thumb.webp?v=c9316870",
+	"file": {
+		"version": 1,
+		"asset": "god-king-darius-black-white-chroma-v1.fantome",
+		"size": 1417376,
+		"sha256": "a121daad25f5595b2724953cf981007d7ca42edb3ebcecb92a30c74913170fd2"
+	},
+	"chromas": []
+}

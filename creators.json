@@ -780,6 +780,13 @@
 		"avatar": "creators/laiker.jpg?v=4682a9a7",
 		"links": {}
 	},
+	"lensquik2003": {
+		"name": "Lensquik",
+		"avatar": "creators/lensquik2003.png?v=c38afe41",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=ThaK-4Ln0IM"
+		}
+	},
 	"leon135": {
 		"name": "Leon135",
 		"avatar": "creators/leon135.jpg?v=d74e10a5",
@@ -1162,6 +1169,12 @@
 			"youtube": "https://www.youtube.com/@s0jaku-lol"
 		}
 	},
+	"s10tiamat": {
+		"name": "tiamat",
+		"avatar": "creators/s10tiamat.jpg?v=095b464f",
+		"bio": "discord: s10tiamat",
+		"links": {}
+	},
 	"sabafutka": {
 		"name": "SabaFutka",
 		"avatar": "creators/sabafutka.webp?v=97ea8aca",
@@ -1206,6 +1219,11 @@
 	"shelzy": {
 		"name": "Shelzy",
 		"avatar": "creators/shelzy.png?v=45784fd0",
+		"links": {}
+	},
+	"sheogorath": {
+		"name": "Sheogorath",
+		"avatar": "creators/sheogorath.jpg?v=ebfcb867",
 		"links": {}
 	},
 	"shrimpback": {
