@@ -1,0 +1,25 @@
+{
+	"id": "miyu-twitch-blue-archive",
+	"name": "Miyu Twitch (Blue Archive)",
+	"champion": 29,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "# Skin Info:\r\n\r\nChampion : Twitch\r\n\r\n‎\r\n\r\nModified skin : Default\r\n\r\n‎\r\n\r\nOriginal Author : Hops\r\n\r\n‎\r\n\r\nRecovered by: Yuumi\r\n\r\n‎\r\n\r\nMod version: 1.0.0\r\n\r\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\r\n\r\n‎\r\n\r\n‎\r\n\r\nIf it breaks or has problems contact me on discord: @fbsyuumi\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/404e7ed7-1d60-4661-a64b-cf35494a8890\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/miyu-twitch-blue-archive/thumb.webp?v=f24bbabd",
+	"file": {
+		"version": 1,
+		"asset": "miyu-twitch-blue-archive-v1.fantome",
+		"size": 5810844,
+		"sha256": "43daa0decf5be8c02fdc3dc2e49b3440d26c7697c87adeaf1148ede70d5de629"
+	},
+	"chromas": []
+}

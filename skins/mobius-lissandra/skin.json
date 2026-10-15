@@ -1,0 +1,26 @@
+{
+	"id": "mobius-lissandra",
+	"name": "Mobius Lissandra",
+	"champion": 127,
+	"base": 0,
+	"creator": "novaweb",
+	"description": "Works on all Lissandra skins.\n\n---\n\n**Created by** [novaweb](https://runeforge.dev/users/novaweb)\n\n**Original:** https://runeforge.dev/mods/ac9d70f3-7de7-41fa-b5f6-334f825edb8d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mobius-lissandra/thumb.webp?v=c4447dc4",
+	"file": {
+		"version": 1,
+		"asset": "mobius-lissandra-v1.fantome",
+		"size": 13261584,
+		"sha256": "08330801bdefd51e70aeff9433b36fcebb2f3c5e748b5b3a88d0eba33bfc5360"
+	},
+	"chromas": []
+}

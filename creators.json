@@ -1348,6 +1348,16 @@
 		"avatar": "creators/sayanox.png?v=965583c5",
 		"links": {}
 	},
+	"scuttlecrab": {
+		"name": "scuttlecrab",
+		"links": {}
+	},
+	"scuttlecrabshytpost": {
+		"name": "scuttlecrabshytpost",
+		"links": {
+			"youtube": "https://youtu.be/EDKCfsixrJQ"
+		}
+	},
 	"segil-mansay": {
 		"name": "Segil Mansay",
 		"avatar": "creators/segil-mansay.jpg?v=f2da5956",

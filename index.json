@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:53:33.424Z",
+	"generatedAt": "2026-10-15T11:56:39.133Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1350,6 +1350,16 @@
 			"name": "Sayanox",
 			"avatar": "creators/sayanox.png?v=965583c5",
 			"links": {}
+		},
+		"scuttlecrab": {
+			"name": "scuttlecrab",
+			"links": {}
+		},
+		"scuttlecrabshytpost": {
+			"name": "scuttlecrabshytpost",
+			"links": {
+				"youtube": "https://youtu.be/EDKCfsixrJQ"
+			}
 		},
 		"segil-mansay": {
 			"name": "Segil Mansay",
@@ -22180,6 +22190,260 @@
 				"asset": "miyu-teemo-blue-archive-v1.fantome",
 				"size": 15636475,
 				"sha256": "82d0c4cf1d46526b0765de1e42d23cc55fe726b9100c9603060049e6d7a00854"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miyu-twitch-blue-archive",
+			"name": "Miyu Twitch (Blue Archive)",
+			"champion": 29,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/miyu-twitch-blue-archive/thumb.webp?v=f24bbabd",
+			"file": {
+				"version": 1,
+				"asset": "miyu-twitch-blue-archive-v1.fantome",
+				"size": 5810844,
+				"sha256": "43daa0decf5be8c02fdc3dc2e49b3440d26c7697c87adeaf1148ede70d5de629"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mlg-empyrean-pyke",
+			"name": "MLG Empyrean Pyke",
+			"champion": 555,
+			"base": 45,
+			"creator": "spykeep",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mlg-empyrean-pyke/thumb.webp?v=3c17d265",
+			"file": {
+				"version": 1,
+				"asset": "mlg-empyrean-pyke-v1.fantome",
+				"size": 6813651,
+				"sha256": "80f23a636d5bd8afa3f8d12c300705c053a75fc12f872c8bafca5d0693a52f8f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "moai-gragas",
+			"name": "Moai Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "scuttlecrab",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/moai-gragas/thumb.webp?v=4052eb08",
+			"file": {
+				"version": 1,
+				"asset": "moai-gragas-v1.fantome",
+				"size": 6547735,
+				"sha256": "0ca54dace1f9d63080c2644313fa93c569976744a71fad08c08a57c14cf0e49d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "moai-zac",
+			"name": "Moai Zac",
+			"champion": 154,
+			"base": 0,
+			"creator": "scuttlecrabshytpost",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/moai-zac/thumb.webp?v=4313b106",
+			"file": {
+				"version": 1,
+				"asset": "moai-zac-v1.fantome",
+				"size": 4851957,
+				"sha256": "76246c2ffd6c10cf301a5a09ece36706fe6183de19e3dad64c830d378c720e7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mobius-lissandra",
+			"name": "Mobius Lissandra",
+			"champion": 127,
+			"base": 0,
+			"creator": "novaweb",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mobius-lissandra/thumb.webp?v=c4447dc4",
+			"file": {
+				"version": 1,
+				"asset": "mobius-lissandra-v1.fantome",
+				"size": 13261584,
+				"sha256": "08330801bdefd51e70aeff9433b36fcebb2f3c5e748b5b3a88d0eba33bfc5360"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mochi-pop-gwen",
+			"name": "Mochi Pop Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mochi-pop-gwen/thumb.webp?v=b0aea80f",
+			"file": {
+				"version": 1,
+				"asset": "mochi-pop-gwen-v1.fantome",
+				"size": 19488961,
+				"sha256": "37b64d825ebe6483deb080e92e234ed4bb0d430d80e42623e2d871de08b8911c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mochi-pop-jinx",
+			"name": "Mochi Pop Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mochi-pop-jinx/thumb.webp?v=f754c64b",
+			"file": {
+				"version": 1,
+				"asset": "mochi-pop-jinx-v1.fantome",
+				"size": 10978097,
+				"sha256": "e427e974d07fbb6b8fe5af99d10f925e24faefe2524d3d2431462cd207d409c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mochi-pop-katarina",
+			"name": "Mochi Pop Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mochi-pop-katarina/thumb.webp?v=d203a4ea",
+			"file": {
+				"version": 1,
+				"asset": "mochi-pop-katarina-v1.fantome",
+				"size": 9901487,
+				"sha256": "324a0c602b2f39b749301ba0f5b4e499c1fe0580de0c43338aebeaae492ff9a4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mochi-pop-lux",
+			"name": "Mochi Pop Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mochi-pop-lux/thumb.webp?v=facab510",
+			"file": {
+				"version": 1,
+				"asset": "mochi-pop-lux-v1.fantome",
+				"size": 10337443,
+				"sha256": "1c6accf601dc5212b4db595ca6561a584af7c70a9d46fe679d7c3c568e9ed488"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mochi-pop-seraphine",
+			"name": "Mochi Pop Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mochi-pop-seraphine/thumb.webp?v=6fa7139e",
+			"file": {
+				"version": 1,
+				"asset": "mochi-pop-seraphine-v1.fantome",
+				"size": 13917316,
+				"sha256": "3a1610a7d9e98207ddb3389793ebee589d435e9cdd2f0d2f4e579306f9b12a9d"
 			},
 			"chromas": []
 		},

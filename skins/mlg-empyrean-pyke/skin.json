@@ -1,0 +1,23 @@
+{
+	"id": "mlg-empyrean-pyke",
+	"name": "MLG Empyrean Pyke",
+	"champion": 555,
+	"base": 45,
+	"creator": "spykeep",
+	"description": "MOD INFORMATION\n\nChampion: Pyke\n\nModified skin: Empyrean\n\nChanges most sound effects to the epic gamer ones\n\nReplaces in-game icons\n\nReset available form changed\n\n---\n\n**Created by** [spykeep](https://runeforge.dev/users/spykeep)\n\n**Original:** https://runeforge.dev/mods/b224e848-ce2d-4dd1-af8c-26ec3c83a4c5\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mlg-empyrean-pyke/thumb.webp?v=3c17d265",
+	"file": {
+		"version": 1,
+		"asset": "mlg-empyrean-pyke-v1.fantome",
+		"size": 6813651,
+		"sha256": "80f23a636d5bd8afa3f8d12c300705c053a75fc12f872c8bafca5d0693a52f8f"
+	},
+	"chromas": []
+}

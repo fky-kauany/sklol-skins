@@ -1,0 +1,25 @@
+{
+	"id": "moai-zac",
+	"name": "Moai Zac",
+	"champion": 154,
+	"base": 0,
+	"creator": "scuttlecrabshytpost",
+	"description": "---\n\n**Created by** [scuttlecrabshytpost](https://runeforge.dev/users/scuttlecrabshytpost)\n\n**Original:** https://runeforge.dev/mods/e6108caa-db43-427c-abc0-7e8855391042\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/moai-zac/thumb.webp?v=4313b106",
+	"file": {
+		"version": 1,
+		"asset": "moai-zac-v1.fantome",
+		"size": 4851957,
+		"sha256": "76246c2ffd6c10cf301a5a09ece36706fe6183de19e3dad64c830d378c720e7c"
+	},
+	"chromas": []
+}
