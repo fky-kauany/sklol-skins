@@ -1,0 +1,24 @@
+{
+	"id": "smol-ame-ekko",
+	"name": "Smol Ame Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for Kingshound\n\nVO died unfortunately :c\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n* Champion: Ekko\n* Modified skin: Default\n* Author: Kingshound\n* Skin Version: 1.3.1\n* Updated for Patch 25.9\n\n### Specifications\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Edited Ability Sounds\n* Modified in-game icons\n\n### Credits\n\n* \"Smol Ame - Amelia Watson, HoloMyth\" ([https://skfb.ly/o799D](https://skfb.ly/o799D)) by [@seafoamboy](https://twitter.com/SeafoamBoi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) is licensed under Creative Commons Attribution-NonCommercial ([http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)).\n* Smol Ame portraits on loading screen, passive2, E, Champion portrait by [@Walfie](https://twitter.com/walfieee)\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/b05fa572-9331-4f25-bf78-d1dc083734f3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/smol-ame-ekko/thumb.webp?v=8f279854",
+	"file": {
+		"version": 1,
+		"asset": "smol-ame-ekko-v1.fantome",
+		"size": 3960255,
+		"sha256": "bd3e4b7b472da272921de251fae6a5d1196d46b7341b55bba00b67624fe72f49"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "skibidi-yuumi",
+	"name": "skibidi yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"yuumi it sus :o\"\n\n***\n\n**Modified champion: Yuumi**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3D model of the toilet is from: bud\naropatnik helped me out on texture\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/f567e259-eb5f-4099-bcc5-8b479ada32e9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/skibidi-yuumi/thumb.webp?v=ef2d3dab",
+	"file": {
+		"version": 1,
+		"asset": "skibidi-yuumi-v1.fantome",
+		"size": 764312,
+		"sha256": "bc6af869d6097a3ea4eafdb2c52562307b246b482fafaba590e0ef65b09e8f98"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "smite-megatron-jhin",
+	"name": "Smite Megatron Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Tried Making him into tank mode when he ults but it does not work and just change some of his animation that looks awkward\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/86fe2d96-c9f0-421d-8055-f2f0c1c58727\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/smite-megatron-jhin/thumb.webp?v=acfd4b45",
+	"file": {
+		"version": 1,
+		"asset": "smite-megatron-jhin-v1.fantome",
+		"size": 19186355,
+		"sha256": "88457888eff92018db7a93d8df913662d2aab71201602ca70902adc09da86d7c"
+	},
+	"chromas": []
+}

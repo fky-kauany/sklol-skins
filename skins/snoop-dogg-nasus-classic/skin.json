@@ -1,0 +1,25 @@
+{
+	"id": "snoop-dogg-nasus-classic",
+	"name": "Snoop Dogg Nasus - Classic",
+	"champion": 75,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Galatic Nasus in Classic & Base Nasus in Modern\n\n## SPECIAL THANKS TO\n\nIpawnproznetwork the creator of the skin and model for Modern.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on [http://leaguecraft.com](http://leaguecraft.com/skins/40713-p-i-m-p-snoop-dogg-nasus-by-ipawnproznetwork.xhtml) and was broken so I fixed it, made it work for classic, added textures for classic, and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/268f5314-63fa-412a-9646-983b41c2b366\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/snoop-dogg-nasus-classic/thumb.webp?v=5a975143",
+	"file": {
+		"version": 1,
+		"asset": "snoop-dogg-nasus-classic-v1.fantome",
+		"size": 20246161,
+		"sha256": "25848a01d42390397cc852b71bd24413aa35ad07defc05ce9c87b449a67eb428"
+	},
+	"chromas": []
+}

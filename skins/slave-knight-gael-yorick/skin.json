@@ -1,0 +1,26 @@
+{
+	"id": "slave-knight-gael-yorick",
+	"name": "Slave Knight Gael Yorick",
+	"champion": 83,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/1bd35562-bb2e-4864-afd5-92f42ee10227\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/slave-knight-gael-yorick/thumb.webp?v=ed5031de",
+	"file": {
+		"version": 1,
+		"asset": "slave-knight-gael-yorick-v1.fantome",
+		"size": 10270352,
+		"sha256": "8f8f03aeab1850b534717fdaea80938d1b195e0db4336d80978da7a9956939a5"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:22:48.389Z",
+	"generatedAt": "2026-10-15T13:26:02.825Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -29633,6 +29633,249 @@
 				"asset": "skibidi-briar-v1.fantome",
 				"size": 24688454,
 				"sha256": "07e52b0a85c70eb4b2248519f331d7678642a8769433dadde2a972db528f13ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "skibidi-yuumi",
+			"name": "skibidi yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/skibidi-yuumi/thumb.webp?v=ef2d3dab",
+			"file": {
+				"version": 1,
+				"asset": "skibidi-yuumi-v1.fantome",
+				"size": 764312,
+				"sha256": "bc6af869d6097a3ea4eafdb2c52562307b246b482fafaba590e0ef65b09e8f98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "slave-knight-gael-yorick",
+			"name": "Slave Knight Gael Yorick",
+			"champion": 83,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/slave-knight-gael-yorick/thumb.webp?v=ed5031de",
+			"file": {
+				"version": 1,
+				"asset": "slave-knight-gael-yorick-v1.fantome",
+				"size": 10270352,
+				"sha256": "8f8f03aeab1850b534717fdaea80938d1b195e0db4336d80978da7a9956939a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smite-megatron-jhin",
+			"name": "Smite Megatron Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/smite-megatron-jhin/thumb.webp?v=acfd4b45",
+			"file": {
+				"version": 1,
+				"asset": "smite-megatron-jhin-v1.fantome",
+				"size": 19186355,
+				"sha256": "88457888eff92018db7a93d8df913662d2aab71201602ca70902adc09da86d7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smol-ame-ekko",
+			"name": "Smol Ame Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/smol-ame-ekko/thumb.webp?v=8f279854",
+			"file": {
+				"version": 1,
+				"asset": "smol-ame-ekko-v1.fantome",
+				"size": 3960255,
+				"sha256": "bd3e4b7b472da272921de251fae6a5d1196d46b7341b55bba00b67624fe72f49"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smol-gura-fizz",
+			"name": "Smol Gura Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/smol-gura-fizz/thumb.webp?v=546c0d12",
+			"file": {
+				"version": 1,
+				"asset": "smol-gura-fizz-v1.fantome",
+				"size": 642032,
+				"sha256": "749449bb6cc3a565b56b322357895cb0ae537997860c9b66bf1f406ff1fb135f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smol-ina-malzahar",
+			"name": "Smol Ina Malzahar",
+			"champion": 90,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/smol-ina-malzahar/thumb.webp?v=83379a2d",
+			"file": {
+				"version": 1,
+				"asset": "smol-ina-malzahar-v1.fantome",
+				"size": 1652118,
+				"sha256": "dd53d718b0326e0e7c284b8574d442e6198bf53a30abcb7e902058e33ff4ec9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smol-inferno-ibaraki-douji-sett",
+			"name": "Smol Inferno Ibaraki Douji Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/smol-inferno-ibaraki-douji-sett/thumb.webp?v=ce3f2be6",
+			"file": {
+				"version": 1,
+				"asset": "smol-inferno-ibaraki-douji-sett-v1.fantome",
+				"size": 17161410,
+				"sha256": "3217feebf958b9ddd360b57937913f185f4e5e7bb0edc81e0f30639194c4acbf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smol-yae-miko-yasuo",
+			"name": "Smol Yae Miko Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/smol-yae-miko-yasuo/thumb.webp?v=0e1cf52d",
+			"file": {
+				"version": 1,
+				"asset": "smol-yae-miko-yasuo-v1.fantome",
+				"size": 8836834,
+				"sha256": "9f7fd9bede388253dbf8ab1c2289c78f6d488e8c8f2bf6b00171da1101ecdeb3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smolder-wr-port",
+			"name": "Smolder [WR Port]",
+			"champion": 901,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/smolder-wr-port/thumb.webp?v=2ab27a64",
+			"file": {
+				"version": 1,
+				"asset": "smolder-wr-port-v1.fantome",
+				"size": 3682380,
+				"sha256": "77220de72768e446850e6a901d42cb08dbcb08d2016c48c7b02bd6d6cbb431ef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "snoop-dogg-nasus-classic",
+			"name": "Snoop Dogg Nasus - Classic",
+			"champion": 75,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/snoop-dogg-nasus-classic/thumb.webp?v=5a975143",
+			"file": {
+				"version": 1,
+				"asset": "snoop-dogg-nasus-classic-v1.fantome",
+				"size": 20246161,
+				"sha256": "25848a01d42390397cc852b71bd24413aa35ad07defc05ce9c87b449a67eb428"
 			},
 			"chromas": []
 		},

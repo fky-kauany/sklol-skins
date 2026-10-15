@@ -1,0 +1,24 @@
+{
+	"id": "smolder-wr-port",
+	"name": "Smolder [WR Port]",
+	"champion": 901,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2013245747995504873?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Smolder\r\n* Skin: Default\r\n* Remodel to WR Version\r\n\r\n# Features\r\n\r\n- no features just remodel\r\n# ![](https://i.imgur.com/hnt18Xd.png)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/7891cbdf-5f82-4e2f-ad8f-12f63d57d374\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/smolder-wr-port/thumb.webp?v=2ab27a64",
+	"file": {
+		"version": 1,
+		"asset": "smolder-wr-port-v1.fantome",
+		"size": 3682380,
+		"sha256": "77220de72768e446850e6a901d42cb08dbcb08d2016c48c7b02bd6d6cbb431ef"
+	},
+	"chromas": []
+}

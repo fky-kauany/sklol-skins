@@ -1,0 +1,23 @@
+{
+	"id": "smol-gura-fizz",
+	"name": "Smol Gura Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for Kingshound\n\nVO died unfortunately :c\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n* Champion: Fizz\n* Modified skin: Default\n* Author: Kingshound\n* Updated for Patch 25.9\n\n### Specifications\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loading screen\n* New Chromas\n* Modified in-game icons\n\n### Credits\n\n* \"Smol(ler) Gura - Gawr Gura, HoloMyth\" (https://skfb.ly/o799I) by @seafoamboi is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).\n* Loading Screen Image + Champion Portrait by @gunawan\\_indar (https://twitter.com/gunawan\\_indar/status/1507290513191620610)\n* \"Low poly Gura\" (Trident Model) (https://skfb.ly/opuYM) by @Hasksoft is licensed under Creative Commons Attribution [(http://creativecommons.org/licenses/by/4.0/).](http://creativecommons.org/licenses/by/4.0/)\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/99a0e25e-47d5-4481-baec-5e6847bbf242\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/smol-gura-fizz/thumb.webp?v=546c0d12",
+	"file": {
+		"version": 1,
+		"asset": "smol-gura-fizz-v1.fantome",
+		"size": 642032,
+		"sha256": "749449bb6cc3a565b56b322357895cb0ae537997860c9b66bf1f406ff1fb135f"
+	},
+	"chromas": []
+}
