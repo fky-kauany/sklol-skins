@@ -1,0 +1,23 @@
+{
+	"id": "wild-rift-nami",
+	"name": "Wild Rift Nami",
+	"champion": 267,
+	"base": 0,
+	"creator": "fresh-fish",
+	"description": "It changes Nami's classic model to her updated wild rift one. This mod was created and uploaded by Fishbait on killerskins but since that website shut down this mod was lost.\n\n---\n\n**Created by** [Fresh_Fish](https://runeforge.dev/users/Fresh_Fish)\n\n**Original:** https://runeforge.dev/mods/c199a5ec-6acf-4cb3-87cf-1c4aa581a2a7\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wild-rift-nami/thumb.webp?v=7e9c69fd",
+	"file": {
+		"version": 1,
+		"asset": "wild-rift-nami-v1.fantome",
+		"size": 5242869,
+		"sha256": "1b01c96a14101931ea697957b2b9058cf0fec69fb77c6cf52fa60382872303e8"
+	},
+	"chromas": []
+}

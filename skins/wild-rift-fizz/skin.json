@@ -1,0 +1,23 @@
+{
+	"id": "wild-rift-fizz",
+	"name": "Wild Rift Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "imora",
+	"description": "Changes: W Icon. R and Fizz.&#x20;\n\nReplaced Skin: Base (Default without chroma)\n\nOther: Moved the texture format to .TEX&#x20;\n\nAuthors: Imora\n\n\n\n***\n\n\n\nCredits to the original creator of this mod (FishBait) for giving me the rights to upload this a long time ago.&#x20;\n\nthe W Icon change was added by myself for consistency with the design.\n\n---\n\n**Created by** [Imora](https://runeforge.dev/users/Imora)\n\n**Original:** https://runeforge.dev/mods/249ec7c3-c4ca-4ddf-8283-b76cd7c4250b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wild-rift-fizz/thumb.webp?v=943a38c7",
+	"file": {
+		"version": 1,
+		"asset": "wild-rift-fizz-v1.fantome",
+		"size": 2244968,
+		"sha256": "08a3a07923c7dedd4d2d10c8bad9a01f94dbe8333efc09d174735dad34f50f49"
+	},
+	"chromas": []
+}

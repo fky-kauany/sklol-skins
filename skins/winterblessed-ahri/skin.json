@@ -1,0 +1,26 @@
+{
+	"id": "winterblessed-ahri",
+	"name": "Winterblessed Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Ahri\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.2\r\n\r\n###### Description: Winterblessed Ahri\r\n\r\n## [Download Chromas here](https://drive.google.com/drive/folders/1I3A2CULEbrMOBZmqpEzVV-O4SmUzsD55?usp=drive_link)\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/1acb2edc-5d3c-4038-aa33-5b388dfc4380\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/winterblessed-ahri/thumb.webp?v=03997a6e",
+	"file": {
+		"version": 1,
+		"asset": "winterblessed-ahri-v1.fantome",
+		"size": 9312549,
+		"sha256": "be1acbc3036bea83173e14259744ef2b7af7ed7f38deb9fa9cf2d710c693743e"
+	},
+	"chromas": []
+}

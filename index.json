@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:45:17.223Z",
+	"generatedAt": "2026-10-15T14:48:26.600Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -658,6 +658,11 @@
 				"youtube": "https://www.youtube.com/watch?v=_wu1ywvc2c8"
 			}
 		},
+		"fresh-fish": {
+			"name": "Fresh_Fish",
+			"avatar": "creators/fresh-fish.jpg?v=f354a80f",
+			"links": {}
+		},
 		"fris-riven": {
 			"name": "Fris_riven",
 			"avatar": "creators/fris-riven.png?v=07028a36",
@@ -846,6 +851,11 @@
 			"name": "Illuso",
 			"avatar": "creators/illuso.jpg?v=47bc29ef",
 			"bio": "# No.1 Shyvana lover\n\n### Feel free to contact me on Discord **@Illus0**, you can find me in the official Runeforge server. \n\n![beautiful dragon lady dancing](https://runeforge.dev/cdn-cgi/image/width=1280,height=720,quality=85,format=webp,fit=scale-down/https://r2-images-prod.runeforge.dev/3d284b33-68ac-4e4f-843b-e2a65e3ec3f9.gif)",
+			"links": {}
+		},
+		"imora": {
+			"name": "Imora",
+			"avatar": "creators/imora.jpg?v=2b4b8574",
 			"links": {}
 		},
 		"inaba24": {
@@ -1633,6 +1643,11 @@
 			"name": "SkarnerCientista",
 			"avatar": "creators/skarnercientista.jpg?v=8960feba",
 			"bio": "Hello! I'm a youtuber and a beggining modder of league of legends, especifically Skarner!\n\n my channel:\nhttps://www.youtube.com/@SkarnerCientista",
+			"links": {}
+		},
+		"slyger": {
+			"name": "Slyger",
+			"avatar": "creators/slyger.jpg?v=c9e0de07",
 			"links": {}
 		},
 		"snorr": {
@@ -33718,6 +33733,252 @@
 				"asset": "whatsapp-darius-base-v1.fantome",
 				"size": 6322979,
 				"sha256": "83b9a0769f64c8783632211fd951d032d6396936e8558badf5481efd7429eff4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wheelchair-seraphine",
+			"name": "wheelchair seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "wuffsky",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wheelchair-seraphine/thumb.webp?v=4f001e1c",
+			"file": {
+				"version": 1,
+				"asset": "wheelchair-seraphine-v1.fantome",
+				"size": 928251,
+				"sha256": "a9665bc25d71b5eaeb57c2d5b15efb892cdd6d7819dd072ced4982675f418841"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wheelchair-yasuo",
+			"name": "Wheelchair Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wheelchair-yasuo/thumb.webp?v=cac5b415",
+			"file": {
+				"version": 1,
+				"asset": "wheelchair-yasuo-v1.fantome",
+				"size": 12584444,
+				"sha256": "7e35c35913fe58c98efbe36e2304c43364dd0bd5b19fc8261a12c681a67338a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "whisperain-soraka-arknights",
+			"name": "Whisperain Soraka (Arknights)",
+			"champion": 16,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/whisperain-soraka-arknights/thumb.webp?v=f2788912",
+			"file": {
+				"version": 1,
+				"asset": "whisperain-soraka-arknights-v1.fantome",
+				"size": 8110227,
+				"sha256": "891fabc4102e1a1767d7c9f33e68f77d21e8a619ef8740115c674eb3064e2d19"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wild-rift-fizz",
+			"name": "Wild Rift Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "imora",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wild-rift-fizz/thumb.webp?v=943a38c7",
+			"file": {
+				"version": 1,
+				"asset": "wild-rift-fizz-v1.fantome",
+				"size": 2244968,
+				"sha256": "08a3a07923c7dedd4d2d10c8bad9a01f94dbe8333efc09d174735dad34f50f49"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wild-rift-nami",
+			"name": "Wild Rift Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "fresh-fish",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wild-rift-nami/thumb.webp?v=7e9c69fd",
+			"file": {
+				"version": 1,
+				"asset": "wild-rift-nami-v1.fantome",
+				"size": 5242869,
+				"sha256": "1b01c96a14101931ea697957b2b9058cf0fec69fb77c6cf52fa60382872303e8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wild-rift-varus",
+			"name": "Wild Rift Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "michaelmyers",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wild-rift-varus/thumb.webp?v=7cd5aa69",
+			"file": {
+				"version": 1,
+				"asset": "wild-rift-varus-v1.fantome",
+				"size": 12122079,
+				"sha256": "098354311eb39f6682dba3f31f6aad9c40805407dfb99a46cdf71056f2522a11"
+			},
+			"chromas": []
+		},
+		{
+			"id": "winnie-the-pooh-gragas",
+			"name": "Winnie The Pooh Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "slyger",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/winnie-the-pooh-gragas/thumb.webp?v=98916499",
+			"file": {
+				"version": 1,
+				"asset": "winnie-the-pooh-gragas-v1.fantome",
+				"size": 4510983,
+				"sha256": "9be29a1f32dfbd8b4898249c97b2119e84a5b068176891520e7c80be8817e89d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "winterblessed-ahri",
+			"name": "Winterblessed Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/winterblessed-ahri/thumb.webp?v=03997a6e",
+			"file": {
+				"version": 1,
+				"asset": "winterblessed-ahri-v1.fantome",
+				"size": 9312549,
+				"sha256": "be1acbc3036bea83173e14259744ef2b7af7ed7f38deb9fa9cf2d710c693743e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "winterblessed-ashe",
+			"name": "Winterblessed Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/winterblessed-ashe/thumb.webp?v=af74343b",
+			"file": {
+				"version": 1,
+				"asset": "winterblessed-ashe-v1.fantome",
+				"size": 13284622,
+				"sha256": "59622e735f10e63a021c01738537fb953a7b6d7b587d657f95a8bcb652fc7938"
+			},
+			"chromas": []
+		},
+		{
+			"id": "winx-club-lux-2024-version",
+			"name": "Winx Club Lux (2024 version)",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/winx-club-lux-2024-version/thumb.webp?v=91e05982",
+			"file": {
+				"version": 1,
+				"asset": "winx-club-lux-2024-version-v1.fantome",
+				"size": 13569411,
+				"sha256": "7f4c69a4ba765002afc50442bbec54595c49eb89396bbf9634aa00edd178d740"
 			},
 			"chromas": []
 		},

@@ -655,6 +655,11 @@
 			"youtube": "https://www.youtube.com/watch?v=_wu1ywvc2c8"
 		}
 	},
+	"fresh-fish": {
+		"name": "Fresh_Fish",
+		"avatar": "creators/fresh-fish.jpg?v=f354a80f",
+		"links": {}
+	},
 	"fris-riven": {
 		"name": "Fris_riven",
 		"avatar": "creators/fris-riven.png?v=07028a36",
@@ -843,6 +848,11 @@
 		"name": "Illuso",
 		"avatar": "creators/illuso.jpg?v=47bc29ef",
 		"bio": "# No.1 Shyvana lover\n\n### Feel free to contact me on Discord **@Illus0**, you can find me in the official Runeforge server. \n\n![beautiful dragon lady dancing](https://runeforge.dev/cdn-cgi/image/width=1280,height=720,quality=85,format=webp,fit=scale-down/https://r2-images-prod.runeforge.dev/3d284b33-68ac-4e4f-843b-e2a65e3ec3f9.gif)",
+		"links": {}
+	},
+	"imora": {
+		"name": "Imora",
+		"avatar": "creators/imora.jpg?v=2b4b8574",
 		"links": {}
 	},
 	"inaba24": {
@@ -1630,6 +1640,11 @@
 		"name": "SkarnerCientista",
 		"avatar": "creators/skarnercientista.jpg?v=8960feba",
 		"bio": "Hello! I'm a youtuber and a beggining modder of league of legends, especifically Skarner!\n\n my channel:\nhttps://www.youtube.com/@SkarnerCientista",
+		"links": {}
+	},
+	"slyger": {
+		"name": "Slyger",
+		"avatar": "creators/slyger.jpg?v=c9e0de07",
 		"links": {}
 	},
 	"snorr": {

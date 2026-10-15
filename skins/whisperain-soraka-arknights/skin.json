@@ -1,0 +1,24 @@
+{
+	"id": "whisperain-soraka-arknights",
+	"name": "Whisperain Soraka (Arknights)",
+	"champion": 16,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "modeled by Joshu0a926_c\r\nreplacing default soraka, voice and recolored some skill effect\r\n\r\nHer staff was that of quercus on edited texture, because her waving umbrella doesnt really fit soraka animation that much, in case you may ask\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/f59580c3-ea79-4593-8d46-cf8f83fa5931\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/whisperain-soraka-arknights/thumb.webp?v=f2788912",
+	"file": {
+		"version": 1,
+		"asset": "whisperain-soraka-arknights-v1.fantome",
+		"size": 8110227,
+		"sha256": "891fabc4102e1a1767d7c9f33e68f77d21e8a619ef8740115c674eb3064e2d19"
+	},
+	"chromas": []
+}

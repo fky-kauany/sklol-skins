@@ -1,0 +1,26 @@
+{
+	"id": "winnie-the-pooh-gragas",
+	"name": "Winnie The Pooh Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "slyger",
+	"description": "---\n\n**Created by** [Slyger](https://runeforge.dev/users/Slyger)\n\n**Original:** https://runeforge.dev/mods/1892da5e-f78e-4d95-b376-20d018ad02cb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/winnie-the-pooh-gragas/thumb.webp?v=98916499",
+	"file": {
+		"version": 1,
+		"asset": "winnie-the-pooh-gragas-v1.fantome",
+		"size": 4510983,
+		"sha256": "9be29a1f32dfbd8b4898249c97b2119e84a5b068176891520e7c80be8817e89d"
+	},
+	"chromas": []
+}

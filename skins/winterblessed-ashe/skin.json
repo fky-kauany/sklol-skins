@@ -1,0 +1,26 @@
+{
+	"id": "winterblessed-ashe",
+	"name": "Winterblessed Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "yoruqueenofnight",
+	"description": "***\n\n* Champion: Ashe\n* Skins: Default, Freljord, Sherwood Forest\n\n## Features\n\n* New model and textures\n* High Noon Ashe animations\n* Supports all champion texture quality settings\n* Loadingscreen\n* In-game icon\n* VFX\n* SFX\n* Chromas for Freljord & Sherwood Forest\n\n## Completely optional: if you enjoy my work you can...\n\n[**Support me on Ko-Fi**](https://ko-fi.com/yoruqueenofnight) **or** [Become a Patreon](https://www.patreon.com/c/user?u=63840897)\n\n---\n\n**Created by** [YoruQueenOfNight](https://runeforge.dev/users/YoruQueenOfNight)\n\n**Original:** https://runeforge.dev/mods/be703a86-8dd1-4b24-9318-dca6f243f030\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/winterblessed-ashe/thumb.webp?v=af74343b",
+	"file": {
+		"version": 1,
+		"asset": "winterblessed-ashe-v1.fantome",
+		"size": 13284622,
+		"sha256": "59622e735f10e63a021c01738537fb953a7b6d7b587d657f95a8bcb652fc7938"
+	},
+	"chromas": []
+}

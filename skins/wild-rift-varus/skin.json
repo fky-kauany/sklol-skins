@@ -1,0 +1,23 @@
+{
+	"id": "wild-rift-varus",
+	"name": "Wild Rift Varus",
+	"champion": 110,
+	"base": 0,
+	"creator": "michaelmyers",
+	"description": "**MOD INFORMATION**\r\n\r\n* Champion: Varus\r\n* Modified skin: Base Varus\r\n* Author: Michael Myers\r\n* Version: 1.0.0\r\n* **Description**: Changes Varus into his Wild Rift version.\n\n---\n\n**Created by** [MichaelMyers](https://runeforge.dev/users/MichaelMyers)\n\n**Original:** https://runeforge.dev/mods/9e9b390c-9fa4-4722-a8c6-95eada7b5dbe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wild-rift-varus/thumb.webp?v=7cd5aa69",
+	"file": {
+		"version": 1,
+		"asset": "wild-rift-varus-v1.fantome",
+		"size": 12122079,
+		"sha256": "098354311eb39f6682dba3f31f6aad9c40805407dfb99a46cdf71056f2522a11"
+	},
+	"chromas": []
+}
