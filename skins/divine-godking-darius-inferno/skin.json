@@ -1,0 +1,23 @@
+{
+	"id": "divine-godking-darius-inferno",
+	"name": "Divine GodKing Darius Inferno",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Divine GodKing Darius Inferno V2\n\nSkin modified : Divine GodKing Darius\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\nExtra Feature: On recent versions i added Aurelion Sol's shockwave particle on Darius's R\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/3d1bc872-f42a-4c03-98c3-808861865f3c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/divine-godking-darius-inferno/thumb.webp?v=a66ba59b",
+	"file": {
+		"version": 1,
+		"asset": "divine-godking-darius-inferno-v1.fantome",
+		"size": 2124201,
+		"sha256": "f8f902fdc0ce85bf5d079d60f1ae873b4d94e2061f874117480f15590c77079d"
+	},
+	"chromas": []
+}

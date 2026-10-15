@@ -89,6 +89,17 @@
 		"avatar": "creators/aruari.jpg?v=50090a89",
 		"links": {}
 	},
+	"aun0n": {
+		"name": "aun0n",
+		"avatar": "creators/aun0n.jpg?v=73d50c50",
+		"links": {
+			"discord": "https://discord.gg/r4MvYph4vS",
+			"kofi": "https://ko-fi.com/aun0n",
+			"site": "https://drive.google.com/drive/folders/18niiAmLlu4apk9dxQavB8z8_9_F9W10X?usp=sharing",
+			"twitch": "https://www.twitch.tv/aun0n",
+			"youtube": "https://youtu.be/pnIOFl9S7VQ"
+		}
+	},
 	"aurecueil": {
 		"name": "aurecueil",
 		"avatar": "creators/aurecueil.webp?v=b8768957",
@@ -433,6 +444,14 @@
 			"youtube": "https://www.youtube.com/@Jaku%C6%B7"
 		}
 	},
+	"jioubin": {
+		"name": "Jioubin",
+		"avatar": "creators/jioubin.png?v=24939af0",
+		"bio": "Discord: chechbyn",
+		"links": {
+			"youtube": "https://youtu.be/Pug6GF3g7-g"
+		}
+	},
 	"justv": {
 		"name": "JustV",
 		"avatar": "creators/justv.webp?v=af534d36",
@@ -772,6 +791,13 @@
 			"youtube": "https://www.youtube.com/@SirDexal"
 		}
 	},
+	"spykeep": {
+		"name": "spykeep",
+		"avatar": "creators/spykeep.jpg?v=a08db4e9",
+		"links": {
+			"youtube": "https://youtu.be/srxLuS36qKk"
+		}
+	},
 	"stritzzz": {
 		"name": "Stritzzz",
 		"avatar": "creators/stritzzz.webp?v=f71e3842",
@@ -822,6 +848,10 @@
 			"tiktok": "https://tiktok.com/@tor.lol",
 			"youtube": "https://youtu.be/IxX_QHay02M"
 		}
+	},
+	"tur290": {
+		"name": "tur290",
+		"links": {}
 	},
 	"tyre-4770": {
 		"name": "Tyre 4770",
@@ -879,6 +909,12 @@
 			"twitch": "https://www.twitch.tv/zy0xxx",
 			"youtube": "https://www.youtube.com/@wikofiko"
 		}
+	},
+	"wronglane": {
+		"name": "WrongLane",
+		"avatar": "creators/wronglane.jpg?v=d439a0e0",
+		"bio": "Rell is a Toplaner don't believe the noxian Propaganda.",
+		"links": {}
 	},
 	"xellelux": {
 		"name": "Xellelux",

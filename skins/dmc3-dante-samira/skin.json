@@ -1,0 +1,26 @@
+{
+	"id": "dmc3-dante-samira",
+	"name": "DMC3 Dante Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for Kingshound\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n* Champion: Samira\n* Modified skin: Default\n* Author: Kingshound\n* Skin Version: 2.0.1\n* Updated for Patch 25.09 (If there are any issues with this mod @kingshound on runeforge discord)\n* Featuring Dante Samira from Drututt's streams (No DT)\n\n### Specifications\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Edited ability sounds\n* New voiceover\n\n### Credits\n\n* Model posted by [Sticklove](https://www.deviantart.com/sticklove) [https://www.deviantart.com/sticklove/art/Dante-default-738542744](https://www.deviantart.com/sticklove/art/Dante-default-738542744)\n* DT model posted by [Sticklove](https://www.deviantart.com/sticklove) [https://www.deviantart.com/sticklove/art/Dante-714112069](https://www.deviantart.com/sticklove/art/Dante-714112069)\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/2cc1ccce-bb89-417a-b2b6-44f1e20924ae\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dmc3-dante-samira/thumb.webp?v=bb7164d2",
+	"file": {
+		"version": 1,
+		"asset": "dmc3-dante-samira-v1.fantome",
+		"size": 36255115,
+		"sha256": "825561d95001a0397d9784dc69bd91d2a2b37fbf33760c665134aaf40a6bb7f4"
+	},
+	"chromas": []
+}

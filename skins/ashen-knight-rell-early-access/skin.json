@@ -1,0 +1,24 @@
+{
+	"id": "ashen-knight-rell-early-access",
+	"name": "Ashen Knight Rell (EARLY ACCESS)",
+	"champion": 526,
+	"base": 0,
+	"creator": "wronglane",
+	"description": "Modified skin: Star Guardian                                                                                \n\nTHIS IS AN EARLY ACCESS AND EVERYTHING IS STILL WIP\n\n---\n\n**Created by** [WrongLane](https://runeforge.dev/users/WrongLane)\n\n**Original:** https://runeforge.dev/mods/fc755ac0-1d58-468a-a728-0ddd2559ae01\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ashen-knight-rell-early-access/thumb.webp?v=23f26c2d",
+	"file": {
+		"version": 1,
+		"asset": "ashen-knight-rell-early-access-v1.fantome",
+		"size": 3569220,
+		"sha256": "fee87eed96f6ef005cafa4d2f9aab1e5c58333ef1552b84b9d0b98f4c1673397"
+	},
+	"chromas": []
+}

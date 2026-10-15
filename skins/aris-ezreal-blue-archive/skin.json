@@ -1,0 +1,24 @@
+{
+	"id": "aris-ezreal-blue-archive",
+	"name": "Aris Ezreal (Blue Archive)",
+	"champion": 81,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/ec422e13-6168-4312-827e-0959d755c84c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aris-ezreal-blue-archive/thumb.webp?v=43dbdc10",
+	"file": {
+		"version": 1,
+		"asset": "aris-ezreal-blue-archive-v1.fantome",
+		"size": 9458662,
+		"sha256": "a2cfaf710dd65bc7fa9e05d0105a2d568af81fcb71b5fa169dc0397e39645fcb"
+	},
+	"chromas": []
+}

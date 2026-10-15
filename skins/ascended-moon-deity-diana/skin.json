@@ -1,0 +1,24 @@
+{
+	"id": "ascended-moon-deity-diana",
+	"name": "Ascended Moon Deity Diana",
+	"champion": 131,
+	"base": 0,
+	"creator": "aun0n",
+	"description": "### 🌙 Ascended Moon Deity Diana\n\nRepresents Diana in her ultimate celestial form - radiating pure moonlight, piercing the darkness with divine energy, and embodying transcendence itself.\n\n---\n\n### ✨ Features\n\n- **Custom Base Model**  \n  Fully reimagined celestial form featuring luminous wings, flowing energy lines pulsing through her body, and a completely redesigned divine weapon\n\n- **Custom Weapon**  \n  A newly forged lunar blade containing a reactive inner moon that rotates with weapon movement - surrounded by a miniature galaxy with orbiting asteroids\n\n- **Custom VFX (All Spells)**  \n  Substantially upgraded visual effects to emphasize pure lunar energy far beyond the base model\n\n- **Custom Spell Icons / HUD**  \n  Redesigned spell icons that match the skin’s celestial identity\n\n- **Custom Loading Screen Artwork**  \n  Original graphic also used as the in-game loading screen\n\n- **Custom Effects Polish**  \n  Every detail refined for maximum cohesion and impact.  \n  Her ultimate ability now truly embodies divine judgment - descending like a celestial nuke upon the rift\n\n---\n\n### 🖼 Artwork\n\nIf you'd like to download the full 2K version of my graphic without the title text:\n\n**[Download Here](https://drive.google.com/drive/folders/18niiAmLlu4apk9dxQavB8z8_9_F9W10X?usp=sharing)**\n\n---\n\n### 📝 Additional Notes\n\nThis skin was created in collaboration with **@LILKi**, and together we pushed it as far as possible - from concept to final polish - to deliver something that feels truly special.\n\nFeedback / Contact: **aun0n** on Discord\n\n---\n\n**Created by** [aun0n](https://runeforge.dev/users/aun0n)\n\n**Original:** https://runeforge.dev/mods/b1c6b262-8755-4618-9afa-c441fbea44b7\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ascended-moon-deity-diana/thumb.webp?v=fd6c7e81",
+	"file": {
+		"version": 1,
+		"asset": "ascended-moon-deity-diana-v1.fantome",
+		"size": 8113068,
+		"sha256": "beeeeb7b754fb7044d4c7ca46e0ceb16ac9e8078c212202e6cc38e635cc85fcc"
+	},
+	"chromas": []
+}

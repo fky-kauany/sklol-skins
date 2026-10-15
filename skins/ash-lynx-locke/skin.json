@@ -1,0 +1,26 @@
+{
+	"id": "ash-lynx-locke",
+	"name": "Ash Lynx Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/fafeb097-9e0a-465c-b75e-e6fbe3efbcf8\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ash-lynx-locke/thumb.webp?v=5b3b873b",
+	"file": {
+		"version": 1,
+		"asset": "ash-lynx-locke-v1.fantome",
+		"size": 13744544,
+		"sha256": "6e51dc1bc73fec0d6a844259947c359904da7619c6aa03e99560d3432c4cf843"
+	},
+	"chromas": []
+}

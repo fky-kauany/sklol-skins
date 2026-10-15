@@ -1,0 +1,22 @@
+{
+	"id": "ashen-knight-pyke-goldgreen",
+	"name": "ashen knight pyke goldgreen",
+	"champion": 555,
+	"base": 44,
+	"creator": "spykeep",
+	"description": "It's not perfect but can be fun for a change. have fun with your pyke games!\n\n---\n\n**Created by** [spykeep](https://runeforge.dev/users/spykeep)\n\n**Original:** https://runeforge.dev/mods/661c720a-b625-4e3a-be29-2d872bca9629\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ashen-knight-pyke-goldgreen/thumb.webp?v=72fbb7ea",
+	"file": {
+		"version": 1,
+		"asset": "ashen-knight-pyke-goldgreen-v1.fantome",
+		"size": 1317752,
+		"sha256": "2937bbcb763baf3c11bc7cea5075497b04a3bbbcb2087c8ee1a0ded9e34be30b"
+	},
+	"chromas": []
+}

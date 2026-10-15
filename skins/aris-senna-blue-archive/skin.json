@@ -1,0 +1,25 @@
+{
+	"id": "aris-senna-blue-archive",
+	"name": "Aris Senna (Blue Archive)",
+	"champion": 235,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Original author: Tarngaina\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/1315ef33-6a13-4d75-ad7c-0b8a957c06b7\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aris-senna-blue-archive/thumb.webp?v=a9db4400",
+	"file": {
+		"version": 1,
+		"asset": "aris-senna-blue-archive-v1.fantome",
+		"size": 11387197,
+		"sha256": "2cb1fd60d80cdb8467181bb1dba67c44ad28edf5822e9bb6d0e8e8b91892f92b"
+	},
+	"chromas": []
+}

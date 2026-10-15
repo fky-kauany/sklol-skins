@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:53:54.245Z",
+	"generatedAt": "2026-10-15T07:56:42.368Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -91,6 +91,17 @@
 			"name": "aruari",
 			"avatar": "creators/aruari.jpg?v=50090a89",
 			"links": {}
+		},
+		"aun0n": {
+			"name": "aun0n",
+			"avatar": "creators/aun0n.jpg?v=73d50c50",
+			"links": {
+				"discord": "https://discord.gg/r4MvYph4vS",
+				"kofi": "https://ko-fi.com/aun0n",
+				"site": "https://drive.google.com/drive/folders/18niiAmLlu4apk9dxQavB8z8_9_F9W10X?usp=sharing",
+				"twitch": "https://www.twitch.tv/aun0n",
+				"youtube": "https://youtu.be/pnIOFl9S7VQ"
+			}
 		},
 		"aurecueil": {
 			"name": "aurecueil",
@@ -436,6 +447,14 @@
 				"youtube": "https://www.youtube.com/@Jaku%C6%B7"
 			}
 		},
+		"jioubin": {
+			"name": "Jioubin",
+			"avatar": "creators/jioubin.png?v=24939af0",
+			"bio": "Discord: chechbyn",
+			"links": {
+				"youtube": "https://youtu.be/Pug6GF3g7-g"
+			}
+		},
 		"justv": {
 			"name": "JustV",
 			"avatar": "creators/justv.webp?v=af534d36",
@@ -775,6 +794,13 @@
 				"youtube": "https://www.youtube.com/@SirDexal"
 			}
 		},
+		"spykeep": {
+			"name": "spykeep",
+			"avatar": "creators/spykeep.jpg?v=a08db4e9",
+			"links": {
+				"youtube": "https://youtu.be/srxLuS36qKk"
+			}
+		},
 		"stritzzz": {
 			"name": "Stritzzz",
 			"avatar": "creators/stritzzz.webp?v=f71e3842",
@@ -825,6 +851,10 @@
 				"tiktok": "https://tiktok.com/@tor.lol",
 				"youtube": "https://youtu.be/IxX_QHay02M"
 			}
+		},
+		"tur290": {
+			"name": "tur290",
+			"links": {}
 		},
 		"tyre-4770": {
 			"name": "Tyre 4770",
@@ -882,6 +912,12 @@
 				"twitch": "https://www.twitch.tv/zy0xxx",
 				"youtube": "https://www.youtube.com/@wikofiko"
 			}
+		},
+		"wronglane": {
+			"name": "WrongLane",
+			"avatar": "creators/wronglane.jpg?v=d439a0e0",
+			"bio": "Rell is a Toplaner don't believe the noxian Propaganda.",
+			"links": {}
 		},
 		"xellelux": {
 			"name": "Xellelux",
@@ -2071,6 +2107,55 @@
 			"chromas": []
 		},
 		{
+			"id": "aris-ezreal-blue-archive",
+			"name": "Aris Ezreal (Blue Archive)",
+			"champion": 81,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aris-ezreal-blue-archive/thumb.webp?v=43dbdc10",
+			"file": {
+				"version": 1,
+				"asset": "aris-ezreal-blue-archive-v1.fantome",
+				"size": 9458662,
+				"sha256": "a2cfaf710dd65bc7fa9e05d0105a2d568af81fcb71b5fa169dc0397e39645fcb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aris-senna-blue-archive",
+			"name": "Aris Senna (Blue Archive)",
+			"champion": 235,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aris-senna-blue-archive/thumb.webp?v=a9db4400",
+			"file": {
+				"version": 1,
+				"asset": "aris-senna-blue-archive-v1.fantome",
+				"size": 11387197,
+				"sha256": "2cb1fd60d80cdb8467181bb1dba67c44ad28edf5822e9bb6d0e8e8b91892f92b"
+			},
+			"chromas": []
+		},
+		{
 			"id": "aristocrat-vayne-gold-bolts",
 			"name": "Aristocrat Vayne - Gold Bolts",
 			"champion": 67,
@@ -2090,6 +2175,176 @@
 				"asset": "aristocrat-vayne-gold-bolts-v1.fantome",
 				"size": 566136,
 				"sha256": "52dec4ba0f59e17d7c58d98a61bb465b65f9feff349150456a0e9cf4e075f83a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ascended-moon-deity-diana",
+			"name": "Ascended Moon Deity Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "aun0n",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ascended-moon-deity-diana/thumb.webp?v=fd6c7e81",
+			"file": {
+				"version": 1,
+				"asset": "ascended-moon-deity-diana-v1.fantome",
+				"size": 8113068,
+				"sha256": "beeeeb7b754fb7044d4c7ca46e0ceb16ac9e8078c212202e6cc38e635cc85fcc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ascended-talon",
+			"name": "Ascended Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ascended-talon/thumb.webp?v=5f297379",
+			"file": {
+				"version": 1,
+				"asset": "ascended-talon-v1.fantome",
+				"size": 211916739,
+				"sha256": "6ec141326dcf4261780830c19e6ae739b8babe52c75a9ecc8cc740c7307ef1cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ash-lynx-locke",
+			"name": "Ash Lynx Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ash-lynx-locke/thumb.webp?v=5b3b873b",
+			"file": {
+				"version": 1,
+				"asset": "ash-lynx-locke-v1.fantome",
+				"size": 13744544,
+				"sha256": "6e51dc1bc73fec0d6a844259947c359904da7619c6aa03e99560d3432c4cf843"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashe-drx-as-elysia",
+			"name": "Ashe DRX as Elysia",
+			"champion": 22,
+			"base": 63,
+			"creator": "tur290",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ashe-drx-as-elysia/thumb.webp?v=52117e95",
+			"file": {
+				"version": 1,
+				"asset": "ashe-drx-as-elysia-v1.fantome",
+				"size": 4166328,
+				"sha256": "4eb76a9f4c1917893e401230a71e2e3143b6fbf3ca54c09a5405e782551d23a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashen-inquisitor-caitlyn",
+			"name": "Ashen Inquisitor Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ashen-inquisitor-caitlyn/thumb.webp?v=959103d3",
+			"file": {
+				"version": 1,
+				"asset": "ashen-inquisitor-caitlyn-v1.fantome",
+				"size": 12101329,
+				"sha256": "9d578805900b8171e90d8105fb7e2699ee0f05df6f88c52bfac0f442edd6d226"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashen-knight-pyke-goldgreen",
+			"name": "ashen knight pyke goldgreen",
+			"champion": 555,
+			"base": 44,
+			"creator": "spykeep",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ashen-knight-pyke-goldgreen/thumb.webp?v=72fbb7ea",
+			"file": {
+				"version": 1,
+				"asset": "ashen-knight-pyke-goldgreen-v1.fantome",
+				"size": 1317752,
+				"sha256": "2937bbcb763baf3c11bc7cea5075497b04a3bbbcb2087c8ee1a0ded9e34be30b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ashen-knight-rell-early-access",
+			"name": "Ashen Knight Rell (EARLY ACCESS)",
+			"champion": 526,
+			"base": 0,
+			"creator": "wronglane",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ashen-knight-rell-early-access/thumb.webp?v=23f26c2d",
+			"file": {
+				"version": 1,
+				"asset": "ashen-knight-rell-early-access-v1.fantome",
+				"size": 3569220,
+				"sha256": "fee87eed96f6ef005cafa4d2f9aab1e5c58333ef1552b84b9d0b98f4c1673397"
 			},
 			"chromas": []
 		},
@@ -2338,6 +2593,154 @@
 				"asset": "dark-matter-sett-v1.fantome",
 				"size": 7549796,
 				"sha256": "02d071c9db6ad3c396881f84b625ff011b96b683db9a59c21366dd7cfb5b5c9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dio-viego-road-roller-ult",
+			"name": "DIO Viego (Road Roller Ult)",
+			"champion": 234,
+			"base": 0,
+			"creator": "jioubin",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dio-viego-road-roller-ult/thumb.webp?v=bf68cad0",
+			"file": {
+				"version": 1,
+				"asset": "dio-viego-road-roller-ult-v1.fantome",
+				"size": 40358402,
+				"sha256": "c7037127f7f62d0fad423741afc12bafc69cede043943a5c9850655071f38a03"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-godking-darius-inferno",
+			"name": "Divine GodKing Darius Inferno",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-godking-darius-inferno/thumb.webp?v=a66ba59b",
+			"file": {
+				"version": 1,
+				"asset": "divine-godking-darius-inferno-v1.fantome",
+				"size": 2124201,
+				"sha256": "f8f902fdc0ce85bf5d079d60f1ae873b4d94e2061f874117480f15590c77079d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-godking-darius-watergreen-chroma",
+			"name": "Divine GodKing Darius WaterGreen Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-godking-darius-watergreen-chroma/thumb.webp?v=b6c84a08",
+			"file": {
+				"version": 1,
+				"asset": "divine-godking-darius-watergreen-chroma-v1.fantome",
+				"size": 3744748,
+				"sha256": "a04dc595e4d19f00be11c4f0ed92625e619be265ac46f79bd94ff85bcbe4811d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dmc3-dante-samira",
+			"name": "DMC3 Dante Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dmc3-dante-samira/thumb.webp?v=bb7164d2",
+			"file": {
+				"version": 1,
+				"asset": "dmc3-dante-samira-v1.fantome",
+				"size": 36255115,
+				"sha256": "825561d95001a0397d9784dc69bd91d2a2b37fbf33760c665134aaf40a6bb7f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eclipse-eternal-aspect-diana-form-change-tweak",
+			"name": "Eclipse Eternal Aspect Diana form change tweak",
+			"champion": 131,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eclipse-eternal-aspect-diana-form-change-tweak/thumb.webp?v=bb183d69",
+			"file": {
+				"version": 1,
+				"asset": "eclipse-eternal-aspect-diana-form-change-tweak-v1.fantome",
+				"size": 11056139,
+				"sha256": "533a4199423a5071b3a0dedb75dab5595e7e7fc66015d031c6078277523c93c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eternal-aspect-diana-form-change-tweak",
+			"name": "Eternal Aspect Diana form change tweak",
+			"champion": 131,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eternal-aspect-diana-form-change-tweak/thumb.webp?v=4600055b",
+			"file": {
+				"version": 1,
+				"asset": "eternal-aspect-diana-form-change-tweak-v1.fantome",
+				"size": 20623408,
+				"sha256": "ff6d24814f9ece8f05dd02f4df7c0d6c097be9029dad5b81c8d2480bd5bb6c59"
 			},
 			"chromas": []
 		},

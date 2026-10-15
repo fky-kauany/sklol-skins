@@ -1,0 +1,25 @@
+{
+	"id": "eternal-aspect-diana-form-change-tweak",
+	"name": "Eternal Aspect Diana form change tweak",
+	"champion": 131,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Eternal Aspect Diana + chromas. You must own the skin and choose it in champ select. [3 variants](https://runeforge.dev/mods/ac7224f0-fc12-4d34-8b3d-9464b0098192/releases).\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Eternal Aspect Diana + chromas\r\n\r\n**Affects**: Transformation logic\r\n\r\nMakes it so the ult transformation lasts until:\r\n- death\r\n- death or recall\r\n- death with the ability to toggle freely at any time\r\n\r\nGo to the [releases tab](https://runeforge.dev/mods/ac7224f0-fc12-4d34-8b3d-9464b0098192/releases) to download the variant you prefer. If you also want the chroma vfx mod go [here](https://runeforge.dev/mods/a1dab040-bc41-499f-8b4d-421f726786a1/releases).\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/ac7224f0-fc12-4d34-8b3d-9464b0098192\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eternal-aspect-diana-form-change-tweak/thumb.webp?v=4600055b",
+	"file": {
+		"version": 1,
+		"asset": "eternal-aspect-diana-form-change-tweak-v1.fantome",
+		"size": 20623408,
+		"sha256": "ff6d24814f9ece8f05dd02f4df7c0d6c097be9029dad5b81c8d2480bd5bb6c59"
+	},
+	"chromas": []
+}

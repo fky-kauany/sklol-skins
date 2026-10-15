@@ -1,0 +1,25 @@
+{
+	"id": "eclipse-eternal-aspect-diana-form-change-tweak",
+	"name": "Eclipse Eternal Aspect Diana form change tweak",
+	"champion": 131,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Eclipse Eternal Aspect Diana. You must own the skin and choose it in champ select.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Eclipse Eternal Aspect Diana\r\n\r\n**Affects**: Transformation logic\r\n\r\nMakes it so the ult transformation lasts until death with the ability to toggle freely at any time.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/ab6b512e-7262-4743-b912-c7689a0e0f86\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eclipse-eternal-aspect-diana-form-change-tweak/thumb.webp?v=bb183d69",
+	"file": {
+		"version": 1,
+		"asset": "eclipse-eternal-aspect-diana-form-change-tweak-v1.fantome",
+		"size": 11056139,
+		"sha256": "533a4199423a5071b3a0dedb75dab5595e7e7fc66015d031c6078277523c93c8"
+	},
+	"chromas": []
+}

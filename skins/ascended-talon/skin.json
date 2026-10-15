@@ -1,0 +1,26 @@
+{
+	"id": "ascended-talon",
+	"name": "Ascended Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "Winner of the 2024 Shurima Contest (Newbie)\n\nCustom skin line by Camembert and Cz\n\n**Voiceover by:** [**VocalSolace**](https://www.youtube.com/@Japanesebushbaby/videos)\n\n**Texture work by:** [**Fish**](https://fishyintrocard.carrd.co/)\n\nThanks to those creators for suggestions:\n\n* [Kaostanza](https://www.twitch.tv/kaos_angel)\n* [Talonted77](https://www.twitch.tv/talonted77)\n* [260bpm](https://www.twitch.tv/xtc260)\n* [Lurkz77](https://x.com/LuRkZ77/status/1783040674679448063)\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/3a2054cd-968c-471f-a48b-851a2eb8588a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ascended-talon/thumb.webp?v=5f297379",
+	"file": {
+		"version": 1,
+		"asset": "ascended-talon-v1.fantome",
+		"size": 211916739,
+		"sha256": "6ec141326dcf4261780830c19e6ae739b8babe52c75a9ecc8cc740c7307ef1cf"
+	},
+	"chromas": []
+}

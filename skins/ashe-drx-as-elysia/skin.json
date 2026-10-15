@@ -1,0 +1,23 @@
+{
+	"id": "ashe-drx-as-elysia",
+	"name": "Ashe DRX as Elysia",
+	"champion": 22,
+	"base": 63,
+	"creator": "tur290",
+	"description": "### MOD INFORMATION\n\n- Champion: Ashe\n- Modified skin: DRX Ashe\n- Author: Bunnycou\n- Skin Version: 1.2\n\n### SPECIFICATIONS\n\n- New model and texture\n- Supports all champion texture quality settings\n- Modified loadingscreen\n\n### CREDITS\nThanks to Bunnycou for made this skin, thanks to Walwii for fix this mod\n\n---\n\n**Created by** [tur290](https://runeforge.dev/users/tur290)\n\n**Original:** https://runeforge.dev/mods/f0c04cfc-d698-49d9-bbed-256048d966f4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ashe-drx-as-elysia/thumb.webp?v=52117e95",
+	"file": {
+		"version": 1,
+		"asset": "ashe-drx-as-elysia-v1.fantome",
+		"size": 4166328,
+		"sha256": "4eb76a9f4c1917893e401230a71e2e3143b6fbf3ca54c09a5405e782551d23a1"
+	},
+	"chromas": []
+}

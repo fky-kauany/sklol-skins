@@ -1,0 +1,25 @@
+{
+	"id": "ashen-inquisitor-caitlyn",
+	"name": "Ashen Inquisitor Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Snow Moon Caitlyn.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Snow Moon Caitlyn\r\n\r\n**Affects**: Textures, VFX\r\n\r\nDone as a commission. Supposed to make her look like a part of the Ashen Knights universe. Includes post-ult glow and idle particles (bottom right on the thumbnail). You can watch the skin preview [here](https://www.youtube.com/watch?v=GDeriis6eDU).\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/618b461e-bf34-49e7-a28f-0b81c328a23f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ashen-inquisitor-caitlyn/thumb.webp?v=959103d3",
+	"file": {
+		"version": 1,
+		"asset": "ashen-inquisitor-caitlyn-v1.fantome",
+		"size": 12101329,
+		"sha256": "9d578805900b8171e90d8105fb7e2699ee0f05df6f88c52bfac0f442edd6d226"
+	},
+	"chromas": []
+}
