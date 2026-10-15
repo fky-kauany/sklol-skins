@@ -1,0 +1,22 @@
+{
+	"id": "acid-trip-miss-fortune",
+	"name": "Acid Trip Miss Fortune",
+	"champion": 21,
+	"base": 7,
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n* Champion Replaced: Miss Fortune\n* Skin needed: Arcade\n* Author: Tyre 4770\n* Skin Version: 2.0\n* Description: Acid Trip MF is a chroma originally made back in Early 2016. The color combo inspired the name.\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n## ♥ Features ♥\n\n* Recolored textures\n* Replaces all champion texture quality settings\n* Recolored particles\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/f75dd3de-a851-4c20-9539-2410cdb210ea\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/acid-trip-miss-fortune/thumb.webp?v=bddcc386",
+	"file": {
+		"version": 1,
+		"asset": "acid-trip-miss-fortune-v1.fantome",
+		"size": 3080146,
+		"sha256": "5db15784ece96884eda5bf235d7b5b3da1d8cc4aa521917e921286abcc95738f"
+	},
+	"chromas": []
+}

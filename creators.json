@@ -84,6 +84,11 @@
 			"youtube": "https://www.youtube.com/@AropatnikCustoms"
 		}
 	},
+	"aruari": {
+		"name": "aruari",
+		"avatar": "creators/aruari.jpg?v=50090a89",
+		"links": {}
+	},
 	"aurecueil": {
 		"name": "aurecueil",
 		"avatar": "creators/aurecueil.webp?v=b8768957",
@@ -714,6 +719,16 @@
 			"discord": "https://discord.com/users/1025295287461347388",
 			"tiktok": "https://tiktok.com/@tor.lol",
 			"youtube": "https://youtu.be/IxX_QHay02M"
+		}
+	},
+	"tyre-4770": {
+		"name": "Tyre 4770",
+		"avatar": "creators/tyre-4770.png?v=207671a7",
+		"bio": "hi ! I'm Tyre 4770 or Wysteria. :) I fiddle with UI stuff mostly.\n\nI take comms for HUDs, Font Replacements, Loading Screens, and Recall Decals ! check out my ko-fi in my links !\n\npfp by x.com/feyral_",
+		"links": {
+			"kofi": "https://ko-fi.com/tyre_4770/commissions",
+			"site": "https://tyre4770.carrd.co/",
+			"youtube": "https://www.youtube.com/watch?v=-paHm135V88"
 		}
 	},
 	"valfren": {

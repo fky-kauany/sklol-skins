@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:44:12.632Z",
+	"generatedAt": "2026-10-15T07:45:04.968Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -86,6 +86,11 @@
 				"tiktok": "https://www.tiktok.com/@aropatnik",
 				"youtube": "https://www.youtube.com/@AropatnikCustoms"
 			}
+		},
+		"aruari": {
+			"name": "aruari",
+			"avatar": "creators/aruari.jpg?v=50090a89",
+			"links": {}
 		},
 		"aurecueil": {
 			"name": "aurecueil",
@@ -719,6 +724,16 @@
 				"youtube": "https://youtu.be/IxX_QHay02M"
 			}
 		},
+		"tyre-4770": {
+			"name": "Tyre 4770",
+			"avatar": "creators/tyre-4770.png?v=207671a7",
+			"bio": "hi ! I'm Tyre 4770 or Wysteria. :) I fiddle with UI stuff mostly.\n\nI take comms for HUDs, Font Replacements, Loading Screens, and Recall Decals ! check out my ko-fi in my links !\n\npfp by x.com/feyral_",
+			"links": {
+				"kofi": "https://ko-fi.com/tyre_4770/commissions",
+				"site": "https://tyre4770.carrd.co/",
+				"youtube": "https://www.youtube.com/watch?v=-paHm135V88"
+			}
+		},
 		"valfren": {
 			"name": "valfren",
 			"bio": "draven draven draven draven draven draven draven draven draven draven draven",
@@ -1195,6 +1210,72 @@
 				"asset": "achilles-pantheon-default-v1.fantome",
 				"size": 6824375,
 				"sha256": "f1a10b1ac7b46d254519c09c21d4964cf6b92b89c03fefa35f9b5a9b0ead2b06"
+			},
+			"chromas": []
+		},
+		{
+			"id": "acid-trip-miss-fortune",
+			"name": "Acid Trip Miss Fortune",
+			"champion": 21,
+			"base": 7,
+			"creator": "tyre-4770",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/acid-trip-miss-fortune/thumb.webp?v=bddcc386",
+			"file": {
+				"version": 1,
+				"asset": "acid-trip-miss-fortune-v1.fantome",
+				"size": 3080146,
+				"sha256": "5db15784ece96884eda5bf235d7b5b3da1d8cc4aa521917e921286abcc95738f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "activated-project-yasuo-chromas",
+			"name": "ACTIVATED PROJECT Yasuo Chromas",
+			"champion": 157,
+			"base": 2,
+			"creator": "konari",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/activated-project-yasuo-chromas/thumb.webp?v=66b4e229",
+			"file": {
+				"version": 1,
+				"asset": "activated-project-yasuo-chromas-v1.fantome",
+				"size": 9201632,
+				"sha256": "422e1045fd19bd451772b7f3494d848c9d32d87461626576853b2899235a1f47"
+			},
+			"chromas": []
+		},
+		{
+			"id": "after-hours-ahri-no-tails",
+			"name": "After Hours Ahri No Tails",
+			"champion": 103,
+			"base": 0,
+			"creator": "aruari",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/after-hours-ahri-no-tails/thumb.webp?v=a239b7ba",
+			"file": {
+				"version": 1,
+				"asset": "after-hours-ahri-no-tails-v1.fantome",
+				"size": 856750,
+				"sha256": "6a2937f83886ac7e5364f278e9bf34338bbb2a146bec2b9f8956a7635a607d32"
 			},
 			"chromas": []
 		},
