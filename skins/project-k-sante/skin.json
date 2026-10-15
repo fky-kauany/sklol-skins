@@ -1,0 +1,26 @@
+{
+	"id": "project-k-sante",
+	"name": "PROJECT K'Sante",
+	"champion": 897,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "# INFO\n\n***\n\n***\n\n***\n\n* **Modified Skin: Base K'Sante**\n* Author: ShrimpBack\n* Mod Version: 1.0\n\n\n\n## CUSTOM SKIN CREDITS\n\n***\n\n***\n\n* VFX textures/recolor and SFX editing/combining by ShrimpBack\n* Model assembled by ShrimpBack\n* Model Weighted by FingaMiro\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/bfca9864-dfe5-407a-87f8-ca5bc96fd7a9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-k-sante/thumb.webp?v=263d9d04",
+	"file": {
+		"version": 1,
+		"asset": "project-k-sante-v1.fantome",
+		"size": 43300644,
+		"sha256": "5e859d9d358685cc5ae10a5915348762b8994a5db9482fa3ed58d30fa1c8a146"
+	},
+	"chromas": []
+}

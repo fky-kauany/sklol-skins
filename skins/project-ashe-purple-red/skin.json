@@ -1,0 +1,26 @@
+{
+	"id": "project-ashe-purple-red",
+	"name": "PROJECT: Ashe - Purple//Red",
+	"champion": 22,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - PROJECT: Ashe\r\n\r\n╰┈➤ _The idea for this mod was to give her a chroma that changes her colors. The default one is Purple, make sure to download the other if you want the Red version!\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm), or check my other mods over on RuneForge [here](https://runeforge.dev/users/1gem1/mods)\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/project-ashe-purple\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-ashe-purple-red/thumb.webp?v=44d598bd",
+	"file": {
+		"version": 1,
+		"asset": "project-ashe-purple-red-v1.fantome",
+		"size": 11828703,
+		"sha256": "1f29564b5911c91403a1cb3322ea57d84db1d4020111daae93b6eb93f2f9d038"
+	},
+	"chromas": []
+}

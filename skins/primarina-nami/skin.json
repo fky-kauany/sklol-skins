@@ -1,0 +1,26 @@
+{
+	"id": "primarina-nami",
+	"name": "Primarina Nami",
+	"champion": 267,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Nami\r\n\r\n**SKIN REPLACE:** Base Skin\r\n\r\n**CUSTOM VFX**\r\n\r\n* Joke Emote\r\n\r\n**CUSTOM ANIMATIONS**\r\n\r\n* Idle\r\n* Attack\r\n* Abilities\r\n* Recall\r\n* Emotes\r\n* Death and Respawn\r\n\r\n**CUSTOM SFX**\r\n\r\n* Recall\r\n* Emotes\r\n* Respawn\r\n\r\n**CUSTOM MODEL AND TEXTURES**\r\n\r\n* Primarina model taken from Pokemon Sun and Moon\r\n\r\n**CREDITS**\r\n\r\n* Modded by Nyht Seven\r\n* Recall Music by Refi Sleep Music: [Pokémon Center Theme | Slow & Peaceful Sleep Music](https://www.youtube.com/watch?v=juZ6U3-hM0o)\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/750f83aa-9038-4ece-b453-c87d6612cbd4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/primarina-nami/thumb.webp?v=777b6e8b",
+	"file": {
+		"version": 1,
+		"asset": "primarina-nami-v1.fantome",
+		"size": 12623278,
+		"sha256": "28e360568ad6921c7f2c8a71fb096389333d148b6435e4fd8c7a53b3e5b91daa"
+	},
+	"chromas": []
+}

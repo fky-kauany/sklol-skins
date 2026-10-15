@@ -1,0 +1,24 @@
+{
+	"id": "prisoner-of-rain-sylas",
+	"name": "Prisoner of Rain Sylas",
+	"champion": 517,
+	"base": 0,
+	"creator": "gehamond",
+	"description": "### Mod Info:\r\n* Champion: Sylas\r\n* Modified skin: Base skin\r\n* Author: Luna\r\n* Description: Prisoner of Rain Sylas\r\n---\r\n### Features:\r\n* VFX\r\n* Splashart loading screen from blender preview :)\n\n---\n\n**Created by** [Luna](https://runeforge.dev/users/Gehamond)\n\n**Original:** https://runeforge.dev/mods/abca7203-3cc3-4c43-8d6d-02e2136d8194\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prisoner-of-rain-sylas/thumb.webp?v=d597f998",
+	"file": {
+		"version": 1,
+		"asset": "prisoner-of-rain-sylas-v1.fantome",
+		"size": 4881022,
+		"sha256": "0d5db3308c8fe1638187234dfbf61a16529280e29f12a7d87e157d23650a9eee"
+	},
+	"chromas": []
+}

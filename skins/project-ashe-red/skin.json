@@ -1,0 +1,26 @@
+{
+	"id": "project-ashe-red",
+	"name": "PROJECT: Ashe - Red",
+	"champion": 22,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - PROJECT: Ashe\n\n╰┈➤ _The idea for this mod was to give her a chroma that changes her color hehe_\n\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm), or check my other mods over on DivineSkins [here](https://www.divineskins.gg/@1gem1)\n\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/34c16156-9de0-4610-b4da-19c0c40ab0d4\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-ashe-red/thumb.webp?v=00bc3332",
+	"file": {
+		"version": 1,
+		"asset": "project-ashe-red-v1.fantome",
+		"size": 10930723,
+		"sha256": "7a5511c9fbb4d2f87fe258e77c59b275bbc08235c47f2ea7029fba2c258012bd"
+	},
+	"chromas": []
+}

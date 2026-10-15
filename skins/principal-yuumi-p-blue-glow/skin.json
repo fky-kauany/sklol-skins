@@ -1,0 +1,23 @@
+{
+	"id": "principal-yuumi-p-blue-glow",
+	"name": "Principal Yuumi P blue glow",
+	"champion": 350,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Battle Principal Yuumi custom skin that makes her antenna glow blue.\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/0bc7aee9-2c5f-4508-baac-a2afb25bc345\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/principal-yuumi-p-blue-glow/thumb.webp?v=f054d60a",
+	"file": {
+		"version": 1,
+		"asset": "principal-yuumi-p-blue-glow-v1.fantome",
+		"size": 50195,
+		"sha256": "d4a14e12978caa6222ff2613fd079a756a6414518708dc6999726fd17e953ea1"
+	},
+	"chromas": []
+}

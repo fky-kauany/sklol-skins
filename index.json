@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:34:37.572Z",
+	"generatedAt": "2026-10-15T12:37:48.313Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -25712,6 +25712,257 @@
 				"asset": "pride-vi-v1.fantome",
 				"size": 145043,
 				"sha256": "b0c4341fa0752b4d849604755f321282272ffa55cda1188839298d710037125d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "primarina-nami",
+			"name": "Primarina Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/primarina-nami/thumb.webp?v=777b6e8b",
+			"file": {
+				"version": 1,
+				"asset": "primarina-nami-v1.fantome",
+				"size": 12623278,
+				"sha256": "28e360568ad6921c7f2c8a71fb096389333d148b6435e4fd8c7a53b3e5b91daa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "primordian-aatrox-yellow-chroma",
+			"name": "Primordian Aatrox yellow chroma",
+			"champion": 266,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/primordian-aatrox-yellow-chroma/thumb.webp?v=68abb38e",
+			"file": {
+				"version": 1,
+				"asset": "primordian-aatrox-yellow-chroma-v1.fantome",
+				"size": 2466203,
+				"sha256": "0d8ab219a9819fd63c1a57ef892f2f61d7d6ba80a6ae3e350a1d5b4bf15e903b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "princess-amentia-kalista",
+			"name": "Princess Amentia Kalista",
+			"champion": 429,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/princess-amentia-kalista/thumb.webp?v=a5146852",
+			"file": {
+				"version": 1,
+				"asset": "princess-amentia-kalista-v1.fantome",
+				"size": 10602958,
+				"sha256": "ba27612aa53d48cb490ac98ee70acfca52b41d5e0dec69776f3b90ce2bbd7a3b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "principal-yuumi-p-blue-glow",
+			"name": "Principal Yuumi P blue glow",
+			"champion": 350,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/principal-yuumi-p-blue-glow/thumb.webp?v=f054d60a",
+			"file": {
+				"version": 1,
+				"asset": "principal-yuumi-p-blue-glow-v1.fantome",
+				"size": 50195,
+				"sha256": "d4a14e12978caa6222ff2613fd079a756a6414518708dc6999726fd17e953ea1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prisoner-of-rain-sylas",
+			"name": "Prisoner of Rain Sylas",
+			"champion": 517,
+			"base": 0,
+			"creator": "gehamond",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prisoner-of-rain-sylas/thumb.webp?v=d597f998",
+			"file": {
+				"version": 1,
+				"asset": "prisoner-of-rain-sylas-v1.fantome",
+				"size": 4881022,
+				"sha256": "0d5db3308c8fe1638187234dfbf61a16529280e29f12a7d87e157d23650a9eee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-ahri",
+			"name": "Project Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-ahri/thumb.webp?v=13b65811",
+			"file": {
+				"version": 1,
+				"asset": "project-ahri-v1.fantome",
+				"size": 9565255,
+				"sha256": "74a526a8039d5dd7ed0a9d76bc4dc69444624e0c2df9e99a3f3bfeb418875cc8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-ashe-purple",
+			"name": "PROJECT: Ashe - Purple",
+			"champion": 22,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-ashe-purple/thumb.webp?v=88d008fe",
+			"file": {
+				"version": 1,
+				"asset": "project-ashe-purple-v1.fantome",
+				"size": 11256275,
+				"sha256": "ec32aa7bacf457c2fe7e58abf007c4334bdffbba6a1183146233af6433a0977a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-ashe-purple-red",
+			"name": "PROJECT: Ashe - Purple//Red",
+			"champion": 22,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-ashe-purple-red/thumb.webp?v=44d598bd",
+			"file": {
+				"version": 1,
+				"asset": "project-ashe-purple-red-v1.fantome",
+				"size": 11828703,
+				"sha256": "1f29564b5911c91403a1cb3322ea57d84db1d4020111daae93b6eb93f2f9d038"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-ashe-red",
+			"name": "PROJECT: Ashe - Red",
+			"champion": 22,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-ashe-red/thumb.webp?v=00bc3332",
+			"file": {
+				"version": 1,
+				"asset": "project-ashe-red-v1.fantome",
+				"size": 10930723,
+				"sha256": "7a5511c9fbb4d2f87fe258e77c59b275bbc08235c47f2ea7029fba2c258012bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-k-sante",
+			"name": "PROJECT K'Sante",
+			"champion": 897,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-k-sante/thumb.webp?v=263d9d04",
+			"file": {
+				"version": 1,
+				"asset": "project-k-sante-v1.fantome",
+				"size": 43300644,
+				"sha256": "5e859d9d358685cc5ae10a5915348762b8994a5db9482fa3ed58d30fa1c8a146"
 			},
 			"chromas": []
 		},

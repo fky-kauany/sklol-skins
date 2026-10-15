@@ -1,0 +1,23 @@
+{
+	"id": "primordian-aatrox-yellow-chroma",
+	"name": "Primordian Aatrox yellow chroma",
+	"champion": 266,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: Primordian Aatrox\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/5ee5e45a-6a18-4e36-b365-35c6a9031219\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/primordian-aatrox-yellow-chroma/thumb.webp?v=68abb38e",
+	"file": {
+		"version": 1,
+		"asset": "primordian-aatrox-yellow-chroma-v1.fantome",
+		"size": 2466203,
+		"sha256": "0d8ab219a9819fd63c1a57ef892f2f61d7d6ba80a6ae3e350a1d5b4bf15e903b"
+	},
+	"chromas": []
+}

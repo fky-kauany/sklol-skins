@@ -1,0 +1,26 @@
+{
+	"id": "project-ashe-purple",
+	"name": "PROJECT: Ashe - Purple",
+	"champion": 22,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - PROJECT: Ashe\n\n╰┈➤ _The idea for this mod was to give Ashe a chroma for PROJECT that I love >:3_\n\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm), or check my other mods over on DivineSkins [here](https://www.divineskins.gg/@1gem1)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/02d3aa33-22f0-430f-8ac2-5439debef675\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-ashe-purple/thumb.webp?v=88d008fe",
+	"file": {
+		"version": 1,
+		"asset": "project-ashe-purple-v1.fantome",
+		"size": 11256275,
+		"sha256": "ec32aa7bacf457c2fe7e58abf007c4334bdffbba6a1183146233af6433a0977a"
+	},
+	"chromas": []
+}
