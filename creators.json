@@ -612,6 +612,14 @@
 		"bio": "girl",
 		"links": {}
 	},
+	"gone": {
+		"name": "gone",
+		"avatar": "creators/gone.jpg?v=b8f46352",
+		"bio": "i just mess around",
+		"links": {
+			"youtube": "https://youtu.be/xpjDl0EewWk?si=P9FX0K5Th2NBcYLq"
+		}
+	},
 	"hatstore": {
 		"name": "hatstore",
 		"avatar": "creators/hatstore.webp?v=1390bc9f",
@@ -1072,6 +1080,14 @@
 		"links": {
 			"x": "https://x.com/PelotudoJugando",
 			"youtube": "https://youtu.be/35-mt5hv6J4"
+		}
+	},
+	"ronni": {
+		"name": "Ronni",
+		"avatar": "creators/ronni.jpg?v=5366eb43",
+		"links": {
+			"x": "https://x.com/Ronni_CS",
+			"youtube": "https://youtu.be/DWQcVYfC6xA"
 		}
 	},
 	"rorotea": {

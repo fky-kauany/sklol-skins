@@ -1,0 +1,23 @@
+{
+	"id": "emperor-zurg-kassadin",
+	"name": "Emperor Zurg Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nChampion: Kassadin (Default Skin)\n\nVersion: 1.0\n\nChanges: Square, Circle icons; Default skin model and texture.\n\nAuthor: Sirdy789\n\nCredits: \"**Centrixe the Dodo**\" resource: [https://www.models-resource.com/pc\\_computer/disneymagickingdoms/model/54107/](https://www.models-resource.com/pc_computer/disneymagickingdoms/model/54107/)\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/6b434aae-8f97-4251-85ab-d286cb503552\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/emperor-zurg-kassadin/thumb.webp?v=73f5976f",
+	"file": {
+		"version": 1,
+		"asset": "emperor-zurg-kassadin-v1.fantome",
+		"size": 824872,
+		"sha256": "562562b6681befea2388783e24eb0005dc62f4c0eda2139a10336e81133ab7a7"
+	},
+	"chromas": []
+}

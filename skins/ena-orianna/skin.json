@@ -1,0 +1,25 @@
+{
+	"id": "ena-orianna",
+	"name": "ENA Orianna",
+	"champion": 61,
+	"base": 0,
+	"creator": "gone",
+	"description": "### INFO:\r\n\r\n* ENA (and moony) are now official league champions (real).\r\n* Replaces base Orianna.\r\n\r\n---\r\n\r\n### FEATURES:\r\n* Voiceover.\r\n* SFX.\r\n* HUD icons.\r\n* Loading Screen.\r\n* Turron.\n\n---\n\n**Created by** [gone](https://runeforge.dev/users/gone)\n\n**Original:** https://runeforge.dev/mods/7c10ed6a-f828-42be-ac7b-8bc7af880460\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ena-orianna/thumb.webp?v=47a646c9",
+	"file": {
+		"version": 1,
+		"asset": "ena-orianna-v1.fantome",
+		"size": 4803116,
+		"sha256": "368602e8cc02fe1cdf2df2b79cf662ce961a490d69f64b67b7c054aefe64162c"
+	},
+	"chromas": []
+}

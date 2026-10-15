@@ -1,0 +1,24 @@
+{
+	"id": "enclave-soldier-jinx",
+	"name": "Enclave Soldier Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "New model and textures for jinx based off an Enclave Soldier in power armor from the \"Fallout\" series!\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/6cd41646-bee0-40b3-bce0-82192b9db49d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/enclave-soldier-jinx/thumb.webp?v=d63a97a7",
+	"file": {
+		"version": 1,
+		"asset": "enclave-soldier-jinx-v1.fantome",
+		"size": 23541707,
+		"sha256": "6ef891149233fe56a0d8dc5ae62cbf6c45929e744469c2ee61571d399a5ca365"
+	},
+	"chromas": []
+}

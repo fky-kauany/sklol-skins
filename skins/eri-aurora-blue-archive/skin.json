@@ -1,0 +1,26 @@
+{
+	"id": "eri-aurora-blue-archive",
+	"name": "Eri Aurora (Blue Archive)",
+	"champion": 893,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/5aff6f66-b251-45e0-a5be-7bd5c9a3ce2a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/eri-aurora-blue-archive/thumb.webp?v=364b67ff",
+	"file": {
+		"version": 1,
+		"asset": "eri-aurora-blue-archive-v1.fantome",
+		"size": 21611270,
+		"sha256": "9e86414e40f9abbfef61ab056f236b9570b06a7590fe13b9be5a7de6460b0d05"
+	},
+	"chromas": []
+}

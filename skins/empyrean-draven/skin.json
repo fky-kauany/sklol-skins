@@ -1,0 +1,25 @@
+{
+	"id": "empyrean-draven",
+	"name": "Empyrean Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "ronni",
+	"description": "***\n\n***\n\n***\n\n**‎**\n\n**Discord: \\_ronni\\_**\n\nNote: if you plan on doing a skin review or using it in a video please tag my **Twitter** [@Ronni\\_CS](https://x.com/Ronni_CS)**,** any credited artist, and **link the post** for the skin used. Thank you.\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n#### This Skin includes:\n\n\\- Custom Model\n\n\\- New Spell VFX\n\n**‎**\n\n#### Models Used:\n\n\\- Ruined Draven\n\n\\- Empyrean Pyke, Jhin, Kayle, Nocturne\n\n\\- Trick or Treat Ekko\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n**‎**Replaced: Ruined Draven\n\nVersion: 1.1\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n#### **Changelog:**\n\n#### Version 1.1\n\n\\- Updated for Patch 25.S1.2\n\n#### Version 1.0\n\n\\- First Release\n\n**‎**\n\n#### Known Issues:\n\n\\- Casting R once it comes back to you a blue glow remains for a bit. (IF Recasted early.)\n\n\\- Auto Attacks that Crit without Q activated don't exist. (They don't show up idk)\n\n#### **Finished Additions/Planned Additions:**\n\n\\- Art if Art exists or is made.\n\n**‎** **‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n---\n\n**Created by** [Ronni](https://runeforge.dev/users/Ronni)\n\n**Original:** https://runeforge.dev/mods/f99b42a2-5d12-4d04-aec7-37082a039074\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/empyrean-draven/thumb.webp?v=bb7ef0a4",
+	"file": {
+		"version": 1,
+		"asset": "empyrean-draven-v1.fantome",
+		"size": 7276173,
+		"sha256": "d10d1a6bcff5bfdf612d06cee27c417e9ab6ad52685df34b5c4a1f81cddb1f52"
+	},
+	"chromas": []
+}

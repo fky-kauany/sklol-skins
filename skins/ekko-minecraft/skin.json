@@ -1,0 +1,24 @@
+{
+	"id": "ekko-minecraft",
+	"name": "Ekko Minecraft",
+	"champion": 245,
+	"base": 0,
+	"creator": "rahabani",
+	"description": "Just Model Change\nAnything Message Rahabani on discord\n[https://youtu.be/OTKXl8w3Kp0](https://youtu.be/OTKXl8w3Kp0)\n\n---\n\n**Created by** [Rahabani](https://runeforge.dev/users/Rahabani)\n\n**Original:** https://runeforge.dev/mods/c2fa3a9e-9230-4440-90af-fba573a8ba91\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ekko-minecraft/thumb.webp?v=3e933333",
+	"file": {
+		"version": 1,
+		"asset": "ekko-minecraft-v1.fantome",
+		"size": 264266,
+		"sha256": "df28c167434b55ebc6b4d4e7031f2875bdf8de9a5ab1feb1ed3227bc3778c8e2"
+	},
+	"chromas": []
+}

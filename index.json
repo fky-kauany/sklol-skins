@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:09:34.180Z",
+	"generatedAt": "2026-10-15T09:12:41.778Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -615,6 +615,14 @@
 			"bio": "girl",
 			"links": {}
 		},
+		"gone": {
+			"name": "gone",
+			"avatar": "creators/gone.jpg?v=b8f46352",
+			"bio": "i just mess around",
+			"links": {
+				"youtube": "https://youtu.be/xpjDl0EewWk?si=P9FX0K5Th2NBcYLq"
+			}
+		},
 		"hatstore": {
 			"name": "hatstore",
 			"avatar": "creators/hatstore.webp?v=1390bc9f",
@@ -1075,6 +1083,14 @@
 			"links": {
 				"x": "https://x.com/PelotudoJugando",
 				"youtube": "https://youtu.be/35-mt5hv6J4"
+			}
+		},
+		"ronni": {
+			"name": "Ronni",
+			"avatar": "creators/ronni.jpg?v=5366eb43",
+			"links": {
+				"x": "https://x.com/Ronni_CS",
+				"youtube": "https://youtu.be/DWQcVYfC6xA"
 			}
 		},
 		"rorotea": {
@@ -8806,6 +8822,254 @@
 				"asset": "ekko-hair-recolors-v1.fantome",
 				"size": 142817,
 				"sha256": "a36a6709da11656d9c5e67a85ee7d9018c92576bbc69acf3a6288700a2fcb2f8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ekko-minecraft",
+			"name": "Ekko Minecraft",
+			"champion": 245,
+			"base": 0,
+			"creator": "rahabani",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ekko-minecraft/thumb.webp?v=3e933333",
+			"file": {
+				"version": 1,
+				"asset": "ekko-minecraft-v1.fantome",
+				"size": 264266,
+				"sha256": "df28c167434b55ebc6b4d4e7031f2875bdf8de9a5ab1feb1ed3227bc3778c8e2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "elekid-kennen",
+			"name": "Elekid Kennen",
+			"champion": 85,
+			"base": 23,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/elekid-kennen/thumb.webp?v=0a018f15",
+			"file": {
+				"version": 1,
+				"asset": "elekid-kennen-v1.fantome",
+				"size": 116373,
+				"sha256": "f9942bab8cb2c06c8bfd782735f5b20bf3ff1f58ed3bce8f2f4c39af088d5be2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "emilia-gwen",
+			"name": "Emilia Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "noice",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/emilia-gwen/thumb.webp?v=e06b8665",
+			"file": {
+				"version": 1,
+				"asset": "emilia-gwen-v1.fantome",
+				"size": 8543574,
+				"sha256": "cdacd89e91fb60678e834b12828f1e348d28b7548f7d6b3bed22684f1273ea93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "emperor-zurg-kassadin",
+			"name": "Emperor Zurg Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/emperor-zurg-kassadin/thumb.webp?v=73f5976f",
+			"file": {
+				"version": 1,
+				"asset": "emperor-zurg-kassadin-v1.fantome",
+				"size": 824872,
+				"sha256": "562562b6681befea2388783e24eb0005dc62f4c0eda2139a10336e81133ab7a7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "empyrean-draven",
+			"name": "Empyrean Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "ronni",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/empyrean-draven/thumb.webp?v=bb7ef0a4",
+			"file": {
+				"version": 1,
+				"asset": "empyrean-draven-v1.fantome",
+				"size": 7276173,
+				"sha256": "d10d1a6bcff5bfdf612d06cee27c417e9ab6ad52685df34b5c4a1f81cddb1f52"
+			},
+			"chromas": []
+		},
+		{
+			"id": "empyrean-varus-green",
+			"name": "Empyrean Varus - Green",
+			"champion": 110,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/empyrean-varus-green/thumb.webp?v=07c3e6ae",
+			"file": {
+				"version": 1,
+				"asset": "empyrean-varus-green-v1.fantome",
+				"size": 6487128,
+				"sha256": "96ffecbe5a2d4c3b5f308df1e141027ba9f5ae5f8650b1fece2cc864b3b55386"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ena-orianna",
+			"name": "ENA Orianna",
+			"champion": 61,
+			"base": 0,
+			"creator": "gone",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ena-orianna/thumb.webp?v=47a646c9",
+			"file": {
+				"version": 1,
+				"asset": "ena-orianna-v1.fantome",
+				"size": 4803116,
+				"sha256": "368602e8cc02fe1cdf2df2b79cf662ce961a490d69f64b67b7c054aefe64162c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "enclave-soldier-jinx",
+			"name": "Enclave Soldier Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/enclave-soldier-jinx/thumb.webp?v=d63a97a7",
+			"file": {
+				"version": 1,
+				"asset": "enclave-soldier-jinx-v1.fantome",
+				"size": 23541707,
+				"sha256": "6ef891149233fe56a0d8dc5ae62cbf6c45929e744469c2ee61571d399a5ca365"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eri-aurora-blue-archive",
+			"name": "Eri Aurora (Blue Archive)",
+			"champion": 893,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/eri-aurora-blue-archive/thumb.webp?v=364b67ff",
+			"file": {
+				"version": 1,
+				"asset": "eri-aurora-blue-archive-v1.fantome",
+				"size": 21611270,
+				"sha256": "9e86414e40f9abbfef61ab056f236b9570b06a7590fe13b9be5a7de6460b0d05"
+			},
+			"chromas": []
+		},
+		{
+			"id": "esa-diva-katarina",
+			"name": "Esa Diva Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/esa-diva-katarina/thumb.webp?v=23af487a",
+			"file": {
+				"version": 1,
+				"asset": "esa-diva-katarina-v1.fantome",
+				"size": 19816277,
+				"sha256": "b7346abbf303c63cc7f13bf9bda0932b31e3706d6dd928539ff57201a9a68d9a"
 			},
 			"chromas": []
 		},

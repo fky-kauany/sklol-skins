@@ -1,0 +1,25 @@
+{
+	"id": "emilia-gwen",
+	"name": "Emilia Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "noice",
+	"description": "# Emilia Gwen made by NOICE/Paler. \n\n# [DISCORD FOR UPDATES](https://discord.gg/jFZEKXNFP4)\n\n# INFO\n\nWorks for all skins.\n\nChampion: Gwen\n\nSkin Version: 1.0.3\n\nDescription: Emilia from rezero as gwen.\n\n# FEATURES\n\n-New model and texture.\n\n-Modified loadingscreen.\n\n-Modified in-game icons.\n\n# [SUPPORT ME HERE](https://ko-fi.com/paler)\n\n---\n\n**Created by** [NOICE](https://runeforge.dev/users/NOICE)\n\n**Original:** https://runeforge.dev/mods/c1afa129-a844-4a70-8d29-fca8cc9c66cd\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/emilia-gwen/thumb.webp?v=e06b8665",
+	"file": {
+		"version": 1,
+		"asset": "emilia-gwen-v1.fantome",
+		"size": 8543574,
+		"sha256": "cdacd89e91fb60678e834b12828f1e348d28b7548f7d6b3bed22684f1273ea93"
+	},
+	"chromas": []
+}
