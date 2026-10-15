@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:50:00.602Z",
+	"generatedAt": "2026-10-15T14:51:37.524Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -34078,6 +34078,152 @@
 				"asset": "woad-king-darius-berserker-v1.fantome",
 				"size": 908600,
 				"sha256": "02356c466c793c08a6b5275045adaa223aaaf4712722c069483f575a2e280e67"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wonder-woman-leona",
+			"name": "Wonder Woman Leona",
+			"champion": 89,
+			"base": 23,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wonder-woman-leona/thumb.webp?v=dae0d93c",
+			"file": {
+				"version": 1,
+				"asset": "wonder-woman-leona-v1.fantome",
+				"size": 1403012,
+				"sha256": "cdac26b4d7875a8e8ae77f8bf227d4815edc5adfd9346b8a79d5adc07aa497f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "worldbreaker-galio",
+			"name": "WorldBreaker Galio",
+			"champion": 3,
+			"base": 0,
+			"creator": "elpibefixer",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/worldbreaker-galio/thumb.webp?v=8bba30f9",
+			"file": {
+				"version": 1,
+				"asset": "worldbreaker-galio-v1.fantome",
+				"size": 3506887,
+				"sha256": "2f5f762392d793aa86ca968473e54a26b0ad9ee17eaf6c426ef49694e99b9c54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-celestial-embroidery-lux",
+			"name": "WR Celestial Embroidery Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-celestial-embroidery-lux/thumb.webp?v=55bc8ea5",
+			"file": {
+				"version": 1,
+				"asset": "wr-celestial-embroidery-lux-v1.fantome",
+				"size": 5618062,
+				"sha256": "347b7549a7eb1a4eb67285230c3bd9125dbdb2091dbce9329342a872850fe007"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-celestial-embroidery-xayah",
+			"name": "WR Celestial Embroidery Xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-celestial-embroidery-xayah/thumb.webp?v=01a5c365",
+			"file": {
+				"version": 1,
+				"asset": "wr-celestial-embroidery-xayah-v1.fantome",
+				"size": 40068764,
+				"sha256": "9e6249db824dadbd5d081bc95cf5e367a107acb8765040f3cf947b591eb9571d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-crime-city-jinx",
+			"name": "WR Crime City Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-crime-city-jinx/thumb.webp?v=772f8900",
+			"file": {
+				"version": 1,
+				"asset": "wr-crime-city-jinx-v1.fantome",
+				"size": 3356379,
+				"sha256": "6d76bebe9178ebb8bc6e3fb28ba08ffa91479dca6230f405470787fc726adbad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-cryptic-depths-morgana",
+			"name": "Wr Cryptic Depths Morgana",
+			"champion": 25,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-cryptic-depths-morgana/thumb.webp?v=040e78ac",
+			"file": {
+				"version": 1,
+				"asset": "wr-cryptic-depths-morgana-v1.fantome",
+				"size": 19008501,
+				"sha256": "0e993df8b38d177bdb850c20310fb6f68490bb8872821e21e2f553ed11c784ca"
 			},
 			"chromas": []
 		},

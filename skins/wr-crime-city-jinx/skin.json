@@ -1,0 +1,24 @@
+{
+	"id": "wr-crime-city-jinx",
+	"name": "WR Crime City Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "raka",
+	"description": "# ***Info*** *:*\n\n***\n\n***\n\n***\n\n***\n\n***\n\n* **Champion : Jinx**\n* **Skin modified : Crime City Jinx**\n* **Author : Raka**\n* Featuring Jinx's Wild Rift model with custom textures.\n\n# *Contact Info:*\n\n***\n\n***\n\n***\n\n***\n\n***\n\nYou can contact me through Discord(crowlle0916) .\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/09c6ac71-5224-45e0-a857-5d8fd6d15cd9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-crime-city-jinx/thumb.webp?v=772f8900",
+	"file": {
+		"version": 1,
+		"asset": "wr-crime-city-jinx-v1.fantome",
+		"size": 3356379,
+		"sha256": "6d76bebe9178ebb8bc6e3fb28ba08ffa91479dca6230f405470787fc726adbad"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "wr-cryptic-depths-morgana",
+	"name": "Wr Cryptic Depths Morgana",
+	"champion": 25,
+	"base": 0,
+	"creator": "raka",
+	"description": "Info:\r\n\r\nChampion : Morgana\r\n\r\nSkin modified : Can be used for all skins.\r\n\r\nAuthor : Raka\r\n\r\nFeaturing Morgana's Wild Rift model with custom textures , vfx uses Coven Morgana animations + some base aimations.\r\n\r\nContact Info:\r\n\r\nYou can contact me through Discord.\r\n\r\nhttps://discord.gg/3pfzzwj2yr My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug or comission.\r\n\r\nThank you to Bud aka budlibu500 for his help in fixing some issues!\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/c4f71ccc-a069-4069-ab6e-058b8c657756\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-cryptic-depths-morgana/thumb.webp?v=040e78ac",
+	"file": {
+		"version": 1,
+		"asset": "wr-cryptic-depths-morgana-v1.fantome",
+		"size": 19008501,
+		"sha256": "0e993df8b38d177bdb850c20310fb6f68490bb8872821e21e2f553ed11c784ca"
+	},
+	"chromas": []
+}

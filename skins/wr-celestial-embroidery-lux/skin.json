@@ -1,0 +1,24 @@
+{
+	"id": "wr-celestial-embroidery-lux",
+	"name": "WR Celestial Embroidery Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "raka",
+	"description": "*Info:*\n\n***\n\nChampion : Lux\n\nSkin modified : Base\n\nAuthor : Raka\n\nFeaturing Lux's Celestial Embroidery Wild Rift model with custom textures made by hand , Vfx made by FingaMiro , uses new animations of Elementalist Lux.\n\nContact Info:\n\nYou can contact me through Discord(crowlle0916) .\n\n[https://discord.gg/3pfzzwj2yr](https://discord.gg/3pfzzwj2yr) My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug.\n\nNew patch is out version 1.0.1 it fixes white out textures and it can replace any lux skin  not just base + any chroma up to the current date of release 04/02/2025.\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/18502075-01ed-4f30-b5af-79ef2cbc6e2c\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-celestial-embroidery-lux/thumb.webp?v=55bc8ea5",
+	"file": {
+		"version": 1,
+		"asset": "wr-celestial-embroidery-lux-v1.fantome",
+		"size": 5618062,
+		"sha256": "347b7549a7eb1a4eb67285230c3bd9125dbdb2091dbce9329342a872850fe007"
+	},
+	"chromas": []
+}
