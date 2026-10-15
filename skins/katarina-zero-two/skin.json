@@ -1,0 +1,24 @@
+{
+	"id": "katarina-zero-two",
+	"name": "Katarina Zero Two",
+	"champion": 55,
+	"base": 29,
+	"creator": "matth",
+	"description": "> Mod name : Katarina Zero Two\n\n> Skin modified : Battle Queen\n\n> Author : matthilobo\n\n> Mod version : 1.2.0\n\n## Commissions: [https://ko-fi.com/matthspotlight](https://ko-fi.com/matthspotlight) 💛\n\n***\n\nIf you wanna contact me for questions or something:\n[https://www.instagram.com/matthilobo/](https://www.instagram.com/matthilobo/)\nDiscord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/106337cc-ec80-4905-8f25-8c72315bff61\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/katarina-zero-two/thumb.webp?v=229e4573",
+	"file": {
+		"version": 1,
+		"asset": "katarina-zero-two-v1.fantome",
+		"size": 5334720,
+		"sha256": "f32ff5aa0b76fff34a4c358b1857f9f04c83414c4d90962d00c0315a9538469b"
+	},
+	"chromas": []
+}

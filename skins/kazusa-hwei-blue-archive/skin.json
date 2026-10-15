@@ -1,0 +1,26 @@
+{
+	"id": "kazusa-hwei-blue-archive",
+	"name": "Kazusa Hwei (Blue Archive)",
+	"champion": 910,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/e1ddbda7-58e0-423d-b128-55c1a2708496\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kazusa-hwei-blue-archive/thumb.webp?v=349680a2",
+	"file": {
+		"version": 1,
+		"asset": "kazusa-hwei-blue-archive-v1.fantome",
+		"size": 14656579,
+		"sha256": "6803c0896e14f473806766031c486bfaa8d3cde9173fb7e79dd53b8a1fdde70c"
+	},
+	"chromas": []
+}

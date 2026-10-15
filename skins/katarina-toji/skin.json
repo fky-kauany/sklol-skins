@@ -1,0 +1,26 @@
+{
+	"id": "katarina-toji",
+	"name": "Katarina Toji",
+	"champion": 55,
+	"base": 0,
+	"creator": "mava",
+	"description": "Mod Features: First skin so its alright\r\n\r\nPreview:https://youtu.be/wNHBHQnQoII\r\n\r\nCustom 3D Model: Toji Fushiguro’s iconic look, fully rigged and adapted to Katarina’s animations.\r\n\r\nCustom VFX\r\n\r\nadded vo, sfx \r\n\r\nreplace base katarina\n\n---\n\n**Created by** [MAVA](https://runeforge.dev/users/MAVA)\n\n**Original:** https://runeforge.dev/mods/43815033-501a-4a6b-8dbc-47af31f2283a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/katarina-toji/thumb.webp?v=3a300313",
+	"file": {
+		"version": 1,
+		"asset": "katarina-toji-v1.fantome",
+		"size": 10569151,
+		"sha256": "849ed6c054ca61fbfb002deca06672b70070c1406891d6eaa0aa5c3aa0ec16ce"
+	},
+	"chromas": []
+}

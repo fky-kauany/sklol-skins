@@ -1,0 +1,25 @@
+{
+	"id": "katarina-new-run-animations",
+	"name": "Katarina new run animations",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Katarina\r\n\r\n###### Modified skin: All Katarina Skins\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 4.2\r\n\r\n###### Description: Katarina New Run Animations\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n* New custom animations\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/2a27487f-90e9-402e-a043-e727c767fd2c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/katarina-new-run-animations/thumb.webp?v=bfe822cd",
+	"file": {
+		"version": 1,
+		"asset": "katarina-new-run-animations-v1.fantome",
+		"size": 13180208,
+		"sha256": "41c8c183635d930c566e072ecc7da3bbab2e1d994073475cfc112dbbbadda7bc"
+	},
+	"chromas": []
+}

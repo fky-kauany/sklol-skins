@@ -1,0 +1,26 @@
+{
+	"id": "kda-all-out-gragas",
+	"name": "KDA ALL OUT Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Gragas with a custom-made model after Bearded Shepherd's original concept for KDA ALL OUT Gragas, which you can find here: [https://www.artstation.com/artwork/9NWrxL.](https://www.artstation.com/artwork/9NWrxL.) Please check out her incredible work and support!\n\n## CREDITS\n\n* Model, Texture, VFX & Concept: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n* Assistance with all custom animations/rig: [Konradjos](https://twitter.com/konradosj)\n* Special thanks to [Yoru, Queen of Night](https://www.youtube.com/c/Yor%C3%BBQueenofNight) for the video spotlight\n\n## KNOWN ISSUES\n\n* For optimal gameplay, it is recommended that other players who are playing Gragas should use the base skin as this skin causes all of them to share the modified VFX, and their animations will be in T-Pose.\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on Gragas's model](https://www.artstation.com/artwork/9NWrxL) for a closer look.\n\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/0828a0a9-fbab-456d-b567-19d8625eb308\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kda-all-out-gragas/thumb.webp?v=d35ba30a",
+	"file": {
+		"version": 1,
+		"asset": "kda-all-out-gragas-v1.fantome",
+		"size": 13159771,
+		"sha256": "2950848f80f834c27cfc8d9466ad2e3f72eb8059ab802430929cab52aaa05193"
+	},
+	"chromas": []
+}

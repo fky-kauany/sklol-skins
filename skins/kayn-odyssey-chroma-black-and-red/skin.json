@@ -1,0 +1,23 @@
+{
+	"id": "kayn-odyssey-chroma-black-and-red",
+	"name": "Kayn odyssey Chroma black and red",
+	"champion": 141,
+	"base": 0,
+	"creator": "gabe",
+	"description": "champ: kayn\nskin: kayn odyssey\n\nin this modification I made the textures of kayn and rhaast, I changed the colors of the effects\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/76d1c57f-05ad-4fdb-9beb-700d19c2cdf4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kayn-odyssey-chroma-black-and-red/thumb.webp?v=708b1d0b",
+	"file": {
+		"version": 1,
+		"asset": "kayn-odyssey-chroma-black-and-red-v1.fantome",
+		"size": 6559200,
+		"sha256": "1598997dfb100a09803bbd2613a7663cf62fcb681abb863b0a073a8ce68967a5"
+	},
+	"chromas": []
+}

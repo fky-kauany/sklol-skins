@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:59:32.712Z",
+	"generatedAt": "2026-10-15T11:02:37.617Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -17840,6 +17840,249 @@
 				"asset": "katarina-katabeena-v1.fantome",
 				"size": 13170445,
 				"sha256": "b640d61dc6e1bd3ae90a5c6e4056bb0d3fc9aeb444cf1a2c5e607cefb944051d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-new-run-animations",
+			"name": "Katarina new run animations",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/katarina-new-run-animations/thumb.webp?v=bfe822cd",
+			"file": {
+				"version": 1,
+				"asset": "katarina-new-run-animations-v1.fantome",
+				"size": 13180208,
+				"sha256": "41c8c183635d930c566e072ecc7da3bbab2e1d994073475cfc112dbbbadda7bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-toji",
+			"name": "Katarina Toji",
+			"champion": 55,
+			"base": 0,
+			"creator": "mava",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/katarina-toji/thumb.webp?v=3a300313",
+			"file": {
+				"version": 1,
+				"asset": "katarina-toji-v1.fantome",
+				"size": 10569151,
+				"sha256": "849ed6c054ca61fbfb002deca06672b70070c1406891d6eaa0aa5c3aa0ec16ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-zero-two",
+			"name": "Katarina Zero Two",
+			"champion": 55,
+			"base": 29,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/katarina-zero-two/thumb.webp?v=229e4573",
+			"file": {
+				"version": 1,
+				"asset": "katarina-zero-two-v1.fantome",
+				"size": 5334720,
+				"sha256": "f32ff5aa0b76fff34a4c358b1857f9f04c83414c4d90962d00c0315a9538469b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-always-human-form",
+			"name": "Kayn Always Human Form",
+			"champion": 141,
+			"base": 0,
+			"creator": "agomsmoga",
+			"parts": [
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kayn-always-human-form/thumb.webp?v=69055748",
+			"file": {
+				"version": 1,
+				"asset": "kayn-always-human-form-v1.fantome",
+				"size": 1136284,
+				"sha256": "2e0546dcb22eddab91c76a94f8cc9dd1fa1df3a45ad0d792f03d473cdcf46ef9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-odyssey-chroma-black-and-red",
+			"name": "Kayn odyssey Chroma black and red",
+			"champion": 141,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kayn-odyssey-chroma-black-and-red/thumb.webp?v=708b1d0b",
+			"file": {
+				"version": 1,
+				"asset": "kayn-odyssey-chroma-black-and-red-v1.fantome",
+				"size": 6559200,
+				"sha256": "1598997dfb100a09803bbd2613a7663cf62fcb681abb863b0a073a8ce68967a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-s-cool-bike",
+			"name": "Kayn's Cool Bike",
+			"champion": 141,
+			"base": 0,
+			"creator": "sterak",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kayn-s-cool-bike/thumb.webp?v=c95d5dc0",
+			"file": {
+				"version": 1,
+				"asset": "kayn-s-cool-bike-v1.fantome",
+				"size": 13773721,
+				"sha256": "02adb35f2404b2707c00873ac371963bbbe0d33cc733bc9e02ed735af8076620"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-specimen-12-old-man-spooky-s-jump-scare-man",
+			"name": "Specimen 12 - Old man (Spooky's Jump Scare Mansion)",
+			"champion": 141,
+			"base": 0,
+			"creator": "carkibamanaboni",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kayn-specimen-12-old-man-spooky-s-jump-scare-man/thumb.webp?v=e52673c2",
+			"file": {
+				"version": 1,
+				"asset": "kayn-specimen-12-old-man-spooky-s-jump-scare-man-v1.fantome",
+				"size": 511989,
+				"sha256": "5a3f6b1e797f168566dbe67f1bb2ea54ef7ca2853a6bfd3257adf57fc4390bfc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kayn-without-the-scyther",
+			"name": "Kayn Without the Scyther",
+			"champion": 141,
+			"base": 2,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kayn-without-the-scyther/thumb.webp?v=31c6a575",
+			"file": {
+				"version": 1,
+				"asset": "kayn-without-the-scyther-v1.fantome",
+				"size": 198492,
+				"sha256": "95069436677836b77ac8445af43fef7ea35554f99ef6f91539479981131d00d7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kazusa-hwei-blue-archive",
+			"name": "Kazusa Hwei (Blue Archive)",
+			"champion": 910,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kazusa-hwei-blue-archive/thumb.webp?v=349680a2",
+			"file": {
+				"version": 1,
+				"asset": "kazusa-hwei-blue-archive-v1.fantome",
+				"size": 14656579,
+				"sha256": "6803c0896e14f473806766031c486bfaa8d3cde9173fb7e79dd53b8a1fdde70c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kda-all-out-gragas",
+			"name": "KDA ALL OUT Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kda-all-out-gragas/thumb.webp?v=d35ba30a",
+			"file": {
+				"version": 1,
+				"asset": "kda-all-out-gragas-v1.fantome",
+				"size": 13159771,
+				"sha256": "2950848f80f834c27cfc8d9466ad2e3f72eb8059ab802430929cab52aaa05193"
 			},
 			"chromas": []
 		},

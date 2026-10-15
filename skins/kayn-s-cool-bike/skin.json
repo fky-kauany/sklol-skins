@@ -1,0 +1,26 @@
+{
+	"id": "kayn-s-cool-bike",
+	"name": "Kayn's Cool Bike",
+	"champion": 141,
+	"base": 0,
+	"creator": "sterak",
+	"description": "New model and animations, new sounds effects..\n\nbut most importantly..\n\n..\n\nNEW BIKE 🗣️🗣️🗣️\n\n---\n\n**Created by** [Sterak](https://runeforge.dev/users/Sterak)\n\n**Original:** https://runeforge.dev/mods/97104a52-b877-4c16-8639-5f0f6bf32930\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kayn-s-cool-bike/thumb.webp?v=c95d5dc0",
+	"file": {
+		"version": 1,
+		"asset": "kayn-s-cool-bike-v1.fantome",
+		"size": 13773721,
+		"sha256": "02adb35f2404b2707c00873ac371963bbbe0d33cc733bc9e02ed735af8076620"
+	},
+	"chromas": []
+}

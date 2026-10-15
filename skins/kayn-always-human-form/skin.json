@@ -1,0 +1,22 @@
+{
+	"id": "kayn-always-human-form",
+	"name": "Kayn Always Human Form",
+	"champion": 141,
+	"base": 0,
+	"creator": "agomsmoga",
+	"description": "# ***WHEN THIS BREAKS TELL ME PLEASE***\n\n### Overview:\n\n* Skins Modified: ALL SKINS\n* All Kayn forms are Kayn as his default human form.\n* Thx 14kelvinho for the idea.\n\n#\n### Mod Information:\n\nAuthor: Moga\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/b816a638-2fdc-40ab-a247-672aa389fadc\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kayn-always-human-form/thumb.webp?v=69055748",
+	"file": {
+		"version": 1,
+		"asset": "kayn-always-human-form-v1.fantome",
+		"size": 1136284,
+		"sha256": "2e0546dcb22eddab91c76a94f8cc9dd1fa1df3a45ad0d792f03d473cdcf46ef9"
+	},
+	"chromas": []
+}

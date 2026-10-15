@@ -1,0 +1,23 @@
+{
+	"id": "kayn-specimen-12-old-man-spooky-s-jump-scare-man",
+	"name": "Specimen 12 - Old man (Spooky's Jump Scare Mansion)",
+	"champion": 141,
+	"base": 0,
+	"creator": "carkibamanaboni",
+	"description": "Champion: Kayn\r\n\r\nModified skin: Base\r\n\r\nAuthors: Carki - Mici\r\n\r\nDescription: Turns Kayn into Specimen 12 (Old man) from Spooky's Jump Scare Mansion. Replaces the model (+ both forms), textures, and model for the ultimate.\n\n---\n\n**Created by** [Carki Bamanaboni](https://runeforge.dev/users/CarkiBamanaboni)\n\n**Original:** https://runeforge.dev/mods/2531aa91-c5cf-434a-956c-dd23af0f76a2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kayn-specimen-12-old-man-spooky-s-jump-scare-man/thumb.webp?v=e52673c2",
+	"file": {
+		"version": 1,
+		"asset": "kayn-specimen-12-old-man-spooky-s-jump-scare-man-v1.fantome",
+		"size": 511989,
+		"sha256": "5a3f6b1e797f168566dbe67f1bb2ea54ef7ca2853a6bfd3257adf57fc4390bfc"
+	},
+	"chromas": []
+}
