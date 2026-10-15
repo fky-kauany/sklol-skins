@@ -1,0 +1,26 @@
+{
+	"id": "rain-shepherd-tahm-kench",
+	"name": "Rain Shepherd Tahm Kench",
+	"champion": 223,
+	"base": 0,
+	"creator": "goat",
+	"description": "***Features:***\n\n**-New model and textures.**\n\n**-New sounds.**\n\n**-New particles**\n\n**-New Splashart loading screen.**\n\n---\n\n**Created by** [Goat](https://runeforge.dev/users/Goat)\n\n**Original:** https://runeforge.dev/mods/ea94e238-35d7-43cc-b0bc-b0fa2dfd3996\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rain-shepherd-tahm-kench/thumb.webp?v=cc0469dd",
+	"file": {
+		"version": 1,
+		"asset": "rain-shepherd-tahm-kench-v1.fantome",
+		"size": 13743196,
+		"sha256": "7a38497aabf0ebc8100824fbbacb1020071a2f0848976f02f169d7441c1f1daf"
+	},
+	"chromas": []
+}

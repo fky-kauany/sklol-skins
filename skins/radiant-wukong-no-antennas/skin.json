@@ -1,0 +1,22 @@
+{
+	"id": "radiant-wukong-no-antennas",
+	"name": "Radiant Wukong no Antennas",
+	"champion": 62,
+	"base": 5,
+	"creator": "newdami",
+	"description": "You have to own the skin.\nLove Radiant but hate antennas? done.\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/6bad2620-9efb-47a8-9dde-c994e288d842\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/radiant-wukong-no-antennas/thumb.webp?v=e4e8d3ae",
+	"file": {
+		"version": 1,
+		"asset": "radiant-wukong-no-antennas-v1.fantome",
+		"size": 163716,
+		"sha256": "bbe24469de3038d55053e28344643d51934481d1659078811400b52a425c5d94"
+	},
+	"chromas": []
+}

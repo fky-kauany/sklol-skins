@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:44:11.703Z",
+	"generatedAt": "2026-10-15T12:47:22.830Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -26505,6 +26505,248 @@
 				"asset": "pyke-with-blahaj-v1.fantome",
 				"size": 585679,
 				"sha256": "a99699c2985d78a42d6b22c715a6e00d0ffe84bf0b3bccfa20b0337fcd518a3c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "qiyana-beeyana",
+			"name": "Beeyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/qiyana-beeyana/thumb.webp?v=fc94e797",
+			"file": {
+				"version": 1,
+				"asset": "qiyana-beeyana-v1.fantome",
+				"size": 7508289,
+				"sha256": "e5bcab95bbbcf40178341e1d8268357340abe13cd5cab6587ef61bdd3bf55adf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "quantum-galaxy-slayer-zed-blue-chroma",
+			"name": "Quantum Galaxy Slayer Zed Blue Chroma",
+			"champion": 238,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/quantum-galaxy-slayer-zed-blue-chroma/thumb.webp?v=9d8ff7a4",
+			"file": {
+				"version": 1,
+				"asset": "quantum-galaxy-slayer-zed-blue-chroma-v1.fantome",
+				"size": 2043631,
+				"sha256": "5d9c4cfa54e6fe832a800c9bc219e217aa54e6d128ffd94376d71b2262858ecc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "quantum-galaxy-slayer-zed-yellow-chroma",
+			"name": "Quantum Galaxy Slayer Zed Yellow Chroma",
+			"champion": 238,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/quantum-galaxy-slayer-zed-yellow-chroma/thumb.webp?v=e62ed0bd",
+			"file": {
+				"version": 1,
+				"asset": "quantum-galaxy-slayer-zed-yellow-chroma-v1.fantome",
+				"size": 1456620,
+				"sha256": "92af1d7acb5117ce55385efb8bf716b3bce0684857e0ab3f3b5fc470db5b0ac5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "quinn-ember",
+			"name": "Quinn Ember",
+			"champion": 133,
+			"base": 0,
+			"creator": "arkera",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/quinn-ember/thumb.webp?v=9dfc32fc",
+			"file": {
+				"version": 1,
+				"asset": "quinn-ember-v1.modpkg",
+				"size": 15879403,
+				"sha256": "d06176b0613fdc2f07591db4be7c53c53da8cad2a36333d72905287b3e58fcf4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "radiant-wukong-no-antennas",
+			"name": "Radiant Wukong no Antennas",
+			"champion": 62,
+			"base": 5,
+			"creator": "newdami",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/radiant-wukong-no-antennas/thumb.webp?v=e4e8d3ae",
+			"file": {
+				"version": 1,
+				"asset": "radiant-wukong-no-antennas-v1.fantome",
+				"size": 163716,
+				"sha256": "bbe24469de3038d55053e28344643d51934481d1659078811400b52a425c5d94"
+			},
+			"chromas": []
+		},
+		{
+			"id": "raiden-mei-yasuo",
+			"name": "Raiden Mei Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/raiden-mei-yasuo/thumb.webp?v=335d3e1b",
+			"file": {
+				"version": 1,
+				"asset": "raiden-mei-yasuo-v1.fantome",
+				"size": 11433890,
+				"sha256": "747fc3d50e86f9b450f07be20a90ea1605a3dacfe79ec52c89014bce84cb1073"
+			},
+			"chromas": []
+		},
+		{
+			"id": "raiden-themed-yasuo",
+			"name": "Raiden Themed Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/raiden-themed-yasuo/thumb.webp?v=c8313a7d",
+			"file": {
+				"version": 1,
+				"asset": "raiden-themed-yasuo-v1.fantome",
+				"size": 7008819,
+				"sha256": "524f6d08dd6dd0877e1226a7fd77b9fa16bbfa3aa325c54b6a53d8ef80972d66"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rain-shepherd-tahm-kench",
+			"name": "Rain Shepherd Tahm Kench",
+			"champion": 223,
+			"base": 0,
+			"creator": "goat",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rain-shepherd-tahm-kench/thumb.webp?v=cc0469dd",
+			"file": {
+				"version": 1,
+				"asset": "rain-shepherd-tahm-kench-v1.fantome",
+				"size": 13743196,
+				"sha256": "7a38497aabf0ebc8100824fbbacb1020071a2f0848976f02f169d7441c1f1daf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rakan-tachibana-hikari-nozomi-blue-archive",
+			"name": "Tachibana Hikari & Nozomi (Blue Archive)",
+			"champion": 497,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rakan-tachibana-hikari-nozomi-blue-archive/thumb.webp?v=2109be0e",
+			"file": {
+				"version": 1,
+				"asset": "rakan-tachibana-hikari-nozomi-blue-archive-v1.fantome",
+				"size": 26458093,
+				"sha256": "a67ed5604e0fd9eb57ee7925cea78b2c37c9e05d3835de5741d927af94075574"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rammus-malphite",
+			"name": "Rammus (Malphite)",
+			"champion": 54,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rammus-malphite/thumb.webp?v=2424c50a",
+			"file": {
+				"version": 1,
+				"asset": "rammus-malphite-v1.fantome",
+				"size": 657795,
+				"sha256": "5aea9a88ba8a39f32be924c80219a06da6b6bc676d92b7b4b32ac4f9bcc87d5b"
 			},
 			"chromas": []
 		},

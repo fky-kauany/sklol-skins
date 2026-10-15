@@ -1,0 +1,25 @@
+{
+	"id": "rammus-malphite",
+	"name": "Rammus (Malphite)",
+	"champion": 54,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Malphite**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/941af231-92f2-4162-800c-d1cf9a0dc023\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rammus-malphite/thumb.webp?v=2424c50a",
+	"file": {
+		"version": 1,
+		"asset": "rammus-malphite-v1.fantome",
+		"size": 657795,
+		"sha256": "5aea9a88ba8a39f32be924c80219a06da6b6bc676d92b7b4b32ac4f9bcc87d5b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "raiden-themed-yasuo",
+	"name": "Raiden Themed Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion Replaced: Yasuo\r\n* Skin Replaced: PROJECT: Yasuo\r\n* Original author: PHaZeX3R0\r\n* Re-Uploaded by: Konari Lab Ch. 白夜こなり\r\n* In order to use this skin, you need to own **PROJECT: Yasuo** and select it in champion select.\r\n\r\n## Specifications\r\n\r\n* New texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n\r\n## Disclaimer\r\n\r\nI am not the original author of this mod, I only updated it so it works again as a mod for League of Legends.\r\nThe original author is **PHaZeX3R0** . Whose social media I cannot find.\r\n\r\nIf the original authors wants this mod to be taken down, I will take it down again.\r\nYou can contact me here: Victorious#9216\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/964ff8d1-c944-4136-9640-48caa17427ec\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/raiden-themed-yasuo/thumb.webp?v=c8313a7d",
+	"file": {
+		"version": 1,
+		"asset": "raiden-themed-yasuo-v1.fantome",
+		"size": 7008819,
+		"sha256": "524f6d08dd6dd0877e1226a7fd77b9fa16bbfa3aa325c54b6a53d8ef80972d66"
+	},
+	"chromas": []
+}

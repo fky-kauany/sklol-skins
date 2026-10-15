@@ -1,0 +1,23 @@
+{
+	"id": "quantum-galaxy-slayer-zed-blue-chroma",
+	"name": "Quantum Galaxy Slayer Zed Blue Chroma",
+	"champion": 238,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: Quantum Galaxy Slayer Zed\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\n\nIf u wish to support my work u can do it  here : https://paypal.me/Rog04\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/ebb87563-4f92-46eb-bcfa-2ae1eac29716\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/quantum-galaxy-slayer-zed-blue-chroma/thumb.webp?v=9d8ff7a4",
+	"file": {
+		"version": 1,
+		"asset": "quantum-galaxy-slayer-zed-blue-chroma-v1.fantome",
+		"size": 2043631,
+		"sha256": "5d9c4cfa54e6fe832a800c9bc219e217aa54e6d128ffd94376d71b2262858ecc"
+	},
+	"chromas": []
+}

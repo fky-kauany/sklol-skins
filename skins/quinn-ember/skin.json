@@ -1,0 +1,25 @@
+{
+	"id": "quinn-ember",
+	"name": "Quinn Ember",
+	"champion": 133,
+	"base": 0,
+	"creator": "arkera",
+	"description": "As a Quinn OTP who loves the character and has racked up millions of mastery points with her, I am thrilled to finally share my creation: this magnificent skin for Quinn! I spent a lot of time refining every last detail, and I hope you like it!\r\n\r\n**Quinn Ember**\r\n\r\nIncluded :\r\n+ VFX\r\n+ UI\r\n\r\nQuinn Ember works with every Quinn's skins !\r\n\r\nWant to say thanks? Drop by any of my socials and leave a message!\n\n---\n\n**Created by** [Arkera](https://www.divineskins.gg/Arkera)\n\n**Original:** https://www.divineskins.gg/Arkera/quinn-ember-dark-version\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/quinn-ember/thumb.webp?v=9dfc32fc",
+	"file": {
+		"version": 1,
+		"asset": "quinn-ember-v1.modpkg",
+		"size": 15879403,
+		"sha256": "d06176b0613fdc2f07591db4be7c53c53da8cad2a36333d72905287b3e58fcf4"
+	},
+	"chromas": []
+}

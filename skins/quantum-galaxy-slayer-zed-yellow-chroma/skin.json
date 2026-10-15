@@ -1,0 +1,23 @@
+{
+	"id": "quantum-galaxy-slayer-zed-yellow-chroma",
+	"name": "Quantum Galaxy Slayer Zed Yellow Chroma",
+	"champion": 238,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: Quantum Galaxy Slayer Zed\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\nIf u wish to support my work u can do it  here : https://paypal.me/Rog04\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/0743714c-ceab-4892-850f-ea3d8666223d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/quantum-galaxy-slayer-zed-yellow-chroma/thumb.webp?v=e62ed0bd",
+	"file": {
+		"version": 1,
+		"asset": "quantum-galaxy-slayer-zed-yellow-chroma-v1.fantome",
+		"size": 1456620,
+		"sha256": "92af1d7acb5117ce55385efb8bf716b3bce0684857e0ab3f3b5fc470db5b0ac5"
+	},
+	"chromas": []
+}

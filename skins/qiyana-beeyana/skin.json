@@ -1,0 +1,26 @@
+{
+	"id": "qiyana-beeyana",
+	"name": "Beeyana",
+	"champion": 246,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Qiyana\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Beeyana\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1M7oV0vCQeYtiyWEUVJUvKAO2gw-8EviW?usp=sharing)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n* Bzzz\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/f0f451b6-bf9a-4ceb-9fad-3d665602c8e5\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/qiyana-beeyana/thumb.webp?v=fc94e797",
+	"file": {
+		"version": 1,
+		"asset": "qiyana-beeyana-v1.fantome",
+		"size": 7508289,
+		"sha256": "e5bcab95bbbcf40178341e1d8268357340abe13cd5cab6587ef61bdd3bf55adf"
+	},
+	"chromas": []
+}

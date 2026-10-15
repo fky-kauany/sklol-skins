@@ -1,0 +1,26 @@
+{
+	"id": "rakan-tachibana-hikari-nozomi-blue-archive",
+	"name": "Tachibana Hikari & Nozomi (Blue Archive)",
+	"champion": 497,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "**IMPORTANT:** Please go to **RELEASES** and choose the file you want to download. Pressing **Download **will only give you the stickers\nI have not completed their duo recall, voices and dance, so as for now both of them will t pose if you attempt to do that\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/f0e0ffaf-5923-47c0-9f4d-9c5617f4e216\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rakan-tachibana-hikari-nozomi-blue-archive/thumb.webp?v=2109be0e",
+	"file": {
+		"version": 1,
+		"asset": "rakan-tachibana-hikari-nozomi-blue-archive-v1.fantome",
+		"size": 26458093,
+		"sha256": "a67ed5604e0fd9eb57ee7925cea78b2c37c9e05d3835de5741d927af94075574"
+	},
+	"chromas": []
+}
