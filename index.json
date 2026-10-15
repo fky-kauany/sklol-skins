@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:13:16.223Z",
+	"generatedAt": "2026-10-15T13:16:23.824Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -148,6 +148,13 @@
 			"name": "ArashiS",
 			"avatar": "creators/arashis.jpg?v=b7ebd29c",
 			"links": {}
+		},
+		"arcados": {
+			"name": "Arcados",
+			"avatar": "creators/arcados.png?v=73deef3c",
+			"links": {
+				"site": "https://www.deviantart.com/strifffe/art/Shadow-Awakening-HourFBX-TheEminence-in-Shadow-RPG-997984464"
+			}
 		},
 		"archlyris": {
 			"name": "archlyris",
@@ -28864,6 +28871,28 @@
 			"chromas": []
 		},
 		{
+			"id": "seraphine-aaaaugh-on-ult",
+			"name": "Seraphine AAAAUGH on ult",
+			"champion": 147,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/seraphine-aaaaugh-on-ult/thumb.webp?v=f42c48ab",
+			"file": {
+				"version": 1,
+				"asset": "seraphine-aaaaugh-on-ult-v1.fantome",
+				"size": 1625604,
+				"sha256": "66515ef24cf11cc1ae338e4cd3ebc87c16655dd9688e90cb26e50d85d756bbb0"
+			},
+			"chromas": []
+		},
+		{
 			"id": "set-smite-zaahen",
 			"name": "Set (Smite) - Zaahen",
 			"champion": 904,
@@ -28886,6 +28915,228 @@
 				"asset": "set-smite-zaahen-v1.fantome",
 				"size": 13270551,
 				"sha256": "078b018138cbfcbce2b9e27b97ecf1eafedf509a27d9355ca4908b5752a219db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-captain-america",
+			"name": "Sett Captain america",
+			"champion": 875,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sett-captain-america/thumb.webp?v=938d2e25",
+			"file": {
+				"version": 1,
+				"asset": "sett-captain-america-v1.fantome",
+				"size": 957573,
+				"sha256": "f74a76c65aaef8d1b0a7cf6cf7ac5bce436d702ec75904edb6730d428fe7421b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-monster-1-security-guard-spooky-s-jump-scar",
+			"name": "Monster 1 - Security Guard (Spooky's Jump Scare Mansion)",
+			"champion": 875,
+			"base": 0,
+			"creator": "carkibamanaboni",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sett-monster-1-security-guard-spooky-s-jump-scar/thumb.webp?v=2310e724",
+			"file": {
+				"version": 1,
+				"asset": "sett-monster-1-security-guard-spooky-s-jump-scar-v1.fantome",
+				"size": 267080,
+				"sha256": "0aa8bbc5c80cd051392e78f3c52f080a2906e3a2dd6f4b201ae4c00b65e5731c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sett-todo",
+			"name": "Sett Todo",
+			"champion": 875,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sett-todo/thumb.webp?v=7e7402b6",
+			"file": {
+				"version": 1,
+				"asset": "sett-todo-v1.fantome",
+				"size": 34822537,
+				"sha256": "fc26d62db0949d8be6ecc308eca1b1e23728e5c25f6d828bd50b28f0b633fd07"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sexy-patrick-camille",
+			"name": "Sexy Patrick Camille",
+			"champion": 164,
+			"base": 0,
+			"creator": "valfren",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sexy-patrick-camille/thumb.webp?v=8657f2af",
+			"file": {
+				"version": 1,
+				"asset": "sexy-patrick-camille-v1.fantome",
+				"size": 12309881,
+				"sha256": "5168b0c3bd8d8bc4daf7999276149634a8135bc361106beef99468a26b4f8412"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shaco-the-magizian",
+			"name": "Shaco The Magizian",
+			"champion": 35,
+			"base": 0,
+			"creator": "segil-mansay",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shaco-the-magizian/thumb.webp?v=095c1c63",
+			"file": {
+				"version": 1,
+				"asset": "shaco-the-magizian-v1.fantome",
+				"size": 20663383,
+				"sha256": "9c3bb4f21c40055d5e5745cb64c84ed1828d1918321c939169f831c7d7aad631"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shadow-from-eits-as-talon",
+			"name": "Shadow from EITS as Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "arcados",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shadow-from-eits-as-talon/thumb.webp?v=7de69087",
+			"file": {
+				"version": 1,
+				"asset": "shadow-from-eits-as-talon-v1.fantome",
+				"size": 451617,
+				"sha256": "9affb5cfaf8b5fbcfe30c156a742a19b1fc2c5029ba3fd5abcce7f3a10b37e08"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shadow-master-shen",
+			"name": "shadow master shen",
+			"champion": 98,
+			"base": 0,
+			"creator": "menellove",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shadow-master-shen/thumb.webp?v=365e45a4",
+			"file": {
+				"version": 1,
+				"asset": "shadow-master-shen-v1.fantome",
+				"size": 6691079,
+				"sha256": "151fb03a887e85f9e20970b0042bca12cdbbaad0314470051c260a4e604542ae"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shady-knight-ambessa",
+			"name": "Shady Knight ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shady-knight-ambessa/thumb.webp?v=a67786a5",
+			"file": {
+				"version": 1,
+				"asset": "shady-knight-ambessa-v1.fantome",
+				"size": 499379,
+				"sha256": "21f263e410d54efe019043f0571d4df1eb9f5cfd987c163a29a2caf78b102234"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shamrock-akshan",
+			"name": "Shamrock Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shamrock-akshan/thumb.webp?v=9ff08caf",
+			"file": {
+				"version": 1,
+				"asset": "shamrock-akshan-v1.fantome",
+				"size": 3272557,
+				"sha256": "42ae2ec0a5272f2328d67eb890aefb3392ab1131f81cc728deded6be4abd7506"
 			},
 			"chromas": []
 		},

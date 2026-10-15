@@ -1,0 +1,23 @@
+{
+	"id": "shadow-from-eits-as-talon",
+	"name": "Shadow from EITS as Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "arcados",
+	"description": "Shadow as talon. Model come from Striffe on deviant art. Original model link: https://www.deviantart.com/strifffe/art/Shadow-Awakening-HourFBX-TheEminence-in-Shadow-RPG-997984464. Models and Textures by Crunchyroll Games, LLC.\r\n\r\nCHampion : Talon\r\n\r\nModified skin : base\r\n\r\n- New model\r\n- Changed Icon and R icon\r\n- Changed Loadscreen\r\n\r\nContact : @ArcA30941779 (twitter)\n\n---\n\n**Created by** [Arcados](https://runeforge.dev/users/Arcados)\n\n**Original:** https://runeforge.dev/mods/44abefc6-bf33-4946-8c0f-cbb7a5f0053a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shadow-from-eits-as-talon/thumb.webp?v=7de69087",
+	"file": {
+		"version": 1,
+		"asset": "shadow-from-eits-as-talon-v1.fantome",
+		"size": 451617,
+		"sha256": "9affb5cfaf8b5fbcfe30c156a742a19b1fc2c5029ba3fd5abcce7f3a10b37e08"
+	},
+	"chromas": []
+}

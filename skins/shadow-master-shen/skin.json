@@ -1,0 +1,26 @@
+{
+	"id": "shadow-master-shen",
+	"name": "shadow master shen",
+	"champion": 98,
+	"base": 0,
+	"creator": "menellove",
+	"description": "Mod name : shadow master shen\r\n\r\nSkin modified : Default\r\n\r\nAuthor : menellove\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [menellove](https://runeforge.dev/users/menellove)\n\n**Original:** https://runeforge.dev/mods/a7847ac7-b3c2-42e0-9959-3d984f1eea7c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shadow-master-shen/thumb.webp?v=365e45a4",
+	"file": {
+		"version": 1,
+		"asset": "shadow-master-shen-v1.fantome",
+		"size": 6691079,
+		"sha256": "151fb03a887e85f9e20970b0042bca12cdbbaad0314470051c260a4e604542ae"
+	},
+	"chromas": []
+}

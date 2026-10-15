@@ -1,0 +1,26 @@
+{
+	"id": "shaco-the-magizian",
+	"name": "Shaco The Magizian",
+	"champion": 35,
+	"base": 0,
+	"creator": "segil-mansay",
+	"description": "Zzzz... Ahh... Lums!! More Lums! Zzzz...\r\n(Remember that you can support my work here if you like it: https://segil.carrd.com)\r\nSOME OF THE MUSIC I USED FOR THIS WAS MADE BY https://www.youtube.com/@peamix1340 FROM PLANTS VS ZOMBIES 2 REFLOURISHED\n\n---\n\n**Created by** [Segil Mansay](https://runeforge.dev/users/Segil_Mansay)\n\n**Original:** https://runeforge.dev/mods/d4a88e97-33f9-4717-af74-887cbc839434\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shaco-the-magizian/thumb.webp?v=095c1c63",
+	"file": {
+		"version": 1,
+		"asset": "shaco-the-magizian-v1.fantome",
+		"size": 20663383,
+		"sha256": "9c3bb4f21c40055d5e5745cb64c84ed1828d1918321c939169f831c7d7aad631"
+	},
+	"chromas": []
+}

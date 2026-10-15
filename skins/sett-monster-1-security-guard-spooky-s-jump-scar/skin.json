@@ -1,0 +1,24 @@
+{
+	"id": "sett-monster-1-security-guard-spooky-s-jump-scar",
+	"name": "Monster 1 - Security Guard (Spooky's Jump Scare Mansion)",
+	"champion": 875,
+	"base": 0,
+	"creator": "carkibamanaboni",
+	"description": "Champion: Sett\r\n\r\nModified skin: Base\r\n\r\nAuthors: Carki - Mici\r\n\r\nDescription: Turns Sett into Monster 1 (Security Guard) from Spooky's Jump Scare Mansion. Replaces the model and textures.\n\n---\n\n**Created by** [Carki Bamanaboni](https://runeforge.dev/users/CarkiBamanaboni)\n\n**Original:** https://runeforge.dev/mods/b33be846-49a6-431a-a894-100da6ab8220\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sett-monster-1-security-guard-spooky-s-jump-scar/thumb.webp?v=2310e724",
+	"file": {
+		"version": 1,
+		"asset": "sett-monster-1-security-guard-spooky-s-jump-scar-v1.fantome",
+		"size": 267080,
+		"sha256": "0aa8bbc5c80cd051392e78f3c52f080a2906e3a2dd6f4b201ae4c00b65e5731c"
+	},
+	"chromas": []
+}

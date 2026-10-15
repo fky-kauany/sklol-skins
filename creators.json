@@ -146,6 +146,13 @@
 		"avatar": "creators/arashis.jpg?v=b7ebd29c",
 		"links": {}
 	},
+	"arcados": {
+		"name": "Arcados",
+		"avatar": "creators/arcados.png?v=73deef3c",
+		"links": {
+			"site": "https://www.deviantart.com/strifffe/art/Shadow-Awakening-HourFBX-TheEminence-in-Shadow-RPG-997984464"
+		}
+	},
 	"archlyris": {
 		"name": "archlyris",
 		"avatar": "creators/archlyris.webp?v=0c15e821",

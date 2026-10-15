@@ -1,0 +1,22 @@
+{
+	"id": "seraphine-aaaaugh-on-ult",
+	"name": "Seraphine AAAAUGH on ult",
+	"champion": 147,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Seraphine**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/695e1c32-bef6-4448-8568-5d342d42d516\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/seraphine-aaaaugh-on-ult/thumb.webp?v=f42c48ab",
+	"file": {
+		"version": 1,
+		"asset": "seraphine-aaaaugh-on-ult-v1.fantome",
+		"size": 1625604,
+		"sha256": "66515ef24cf11cc1ae338e4cd3ebc87c16655dd9688e90cb26e50d85d756bbb0"
+	},
+	"chromas": []
+}

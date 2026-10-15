@@ -1,0 +1,26 @@
+{
+	"id": "sett-todo",
+	"name": "Sett Todo",
+	"champion": 875,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "# 「 AOI TODO 」\r\n### *Replaces Sett*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n\r\n**Custom Voice Lines**\r\n\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/197648b8-233e-4f30-8dba-2753376d5842\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sett-todo/thumb.webp?v=7e7402b6",
+	"file": {
+		"version": 1,
+		"asset": "sett-todo-v1.fantome",
+		"size": 34822537,
+		"sha256": "fc26d62db0949d8be6ecc308eca1b1e23728e5c25f6d828bd50b28f0b633fd07"
+	},
+	"chromas": []
+}

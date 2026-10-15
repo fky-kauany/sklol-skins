@@ -1,0 +1,24 @@
+{
+	"id": "shamrock-akshan",
+	"name": "Shamrock Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "replace akshan default model and voice with malphite\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/7ae16749-e02e-49c4-b2dd-935e337849dc\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shamrock-akshan/thumb.webp?v=9ff08caf",
+	"file": {
+		"version": 1,
+		"asset": "shamrock-akshan-v1.fantome",
+		"size": 3272557,
+		"sha256": "42ae2ec0a5272f2328d67eb890aefb3392ab1131f81cc728deded6be4abd7506"
+	},
+	"chromas": []
+}

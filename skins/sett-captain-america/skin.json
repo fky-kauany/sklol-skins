@@ -1,0 +1,24 @@
+{
+	"id": "sett-captain-america",
+	"name": "Sett Captain america",
+	"champion": 875,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Sett\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the Sett skills, in the future I will change the audios of the model\n\n\neu entendi essa referencia\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/dcc9f9a5-df5f-4afd-9aea-f9c019178b2b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sett-captain-america/thumb.webp?v=938d2e25",
+	"file": {
+		"version": 1,
+		"asset": "sett-captain-america-v1.fantome",
+		"size": 957573,
+		"sha256": "f74a76c65aaef8d1b0a7cf6cf7ac5bce436d702ec75904edb6730d428fe7421b"
+	},
+	"chromas": []
+}
