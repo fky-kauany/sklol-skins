@@ -1,0 +1,25 @@
+{
+	"id": "lunar-guardian-sett",
+	"name": "Lunar Guardian Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Lunar Guardian Sett (Wild Rift) mod for Default Sett.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/8688c1e1-4464-40f7-b24b-3c49b7127fb9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lunar-guardian-sett/thumb.webp?v=52ab7970",
+	"file": {
+		"version": 1,
+		"asset": "lunar-guardian-sett-v1.fantome",
+		"size": 17022825,
+		"sha256": "85dc5d8cbac97efeb5fba6a393ca67ae896562abbd3d7645e7849ef4ae26d82d"
+	},
+	"chromas": []
+}

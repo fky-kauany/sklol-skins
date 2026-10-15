@@ -1,0 +1,23 @@
+{
+	"id": "lulu-lalulu",
+	"name": "Lalulu",
+	"champion": 117,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/1612dc01-470f-47cc-9ff3-bf6011822e94\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lulu-lalulu/thumb.webp?v=773d7f47",
+	"file": {
+		"version": 1,
+		"asset": "lulu-lalulu-v1.fantome",
+		"size": 1922728,
+		"sha256": "64a89847c53c86231187190b4b86bbc0d3d364a4447978f0085666f984595395"
+	},
+	"chromas": []
+}

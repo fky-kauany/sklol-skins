@@ -1,0 +1,26 @@
+{
+	"id": "mai-sakurajima-gwen",
+	"name": "Mai Sakurajima Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "noice",
+	"description": "# Mai Sakurajima Gwen made by NOICE/Paler. \r\n\r\n# [DISCORD FOR UPDATES](https://discord.gg/jFZEKXNFP4)\r\n\r\n# INFO\r\n\r\nWorks for all skins.\r\n\r\nChampion: Gwen\r\n\r\nSkin Version: 1.4.0\r\n\r\nDescription: Mai Sakurajima Gwen. W bunny girl\r\n\r\n# FEATURES\r\n\r\n-New model\r\n\r\n-Modified loadingscreen.\r\n\r\n-Modified in-game icons.\r\n\r\n# [SUPPORT ME HERE](https://ko-fi.com/paler)\n\n---\n\n**Created by** [NOICE](https://runeforge.dev/users/NOICE)\n\n**Original:** https://runeforge.dev/mods/cfd8eb71-f811-40db-b692-e6521509f9d5\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mai-sakurajima-gwen/thumb.webp?v=4f013dc1",
+	"file": {
+		"version": 1,
+		"asset": "mai-sakurajima-gwen-v1.fantome",
+		"size": 10507508,
+		"sha256": "855b69c7f71b5d8cb5b0600a0501e5f98a0ff76cb02cf7b6a02dca880d77fab1"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:24:54.978Z",
+	"generatedAt": "2026-10-15T11:28:04.337Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1542,6 +1542,11 @@
 				"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 			}
 		},
+		"vanecessary": {
+			"name": "Vanecessary",
+			"avatar": "creators/vanecessary.png?v=44aaca8e",
+			"links": {}
+		},
 		"vector": {
 			"name": "Vector",
 			"avatar": "creators/vector.png?v=f27c482a",
@@ -1623,6 +1628,12 @@
 			"avatar": "creators/wronglane.jpg?v=d439a0e0",
 			"bio": "Rell is a Toplaner don't believe the noxian Propaganda.",
 			"links": {}
+		},
+		"wuffsky": {
+			"name": "mikko",
+			"links": {
+				"youtube": "https://youtu.be/4Xs6j_x3FPc"
+			}
 		},
 		"xellelux": {
 			"name": "Xellelux",
@@ -19893,6 +19904,198 @@
 			"chromas": []
 		},
 		{
+			"id": "luise-meyrink-mel",
+			"name": "Luise Meyrink Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/luise-meyrink-mel/thumb.webp?v=dfb53968",
+			"file": {
+				"version": 1,
+				"asset": "luise-meyrink-mel-v1.fantome",
+				"size": 21416763,
+				"sha256": "465bea4683ae825b6eb1270a6124295a24d98b02dfa3ddfbe1275ee4544e37a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lulu-lalulu",
+			"name": "Lalulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lulu-lalulu/thumb.webp?v=773d7f47",
+			"file": {
+				"version": 1,
+				"asset": "lulu-lalulu-v1.fantome",
+				"size": 1922728,
+				"sha256": "64a89847c53c86231187190b4b86bbc0d3d364a4447978f0085666f984595395"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lulu-tft-set-16-port",
+			"name": "Lulu TFT Set 16 Port",
+			"champion": 117,
+			"base": 0,
+			"creator": "snorr",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lulu-tft-set-16-port/thumb.webp?v=da3bd60f",
+			"file": {
+				"version": 1,
+				"asset": "lulu-tft-set-16-port-v1.fantome",
+				"size": 1796516,
+				"sha256": "ba17f781db15dc2ef92ca863c988afec951c6698852364eb7f244901ec49b859"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lulu-with-a-big-hat",
+			"name": "Lulu with a big hat",
+			"champion": 117,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lulu-with-a-big-hat/thumb.webp?v=0ecae2c8",
+			"file": {
+				"version": 1,
+				"asset": "lulu-with-a-big-hat-v1.fantome",
+				"size": 245104,
+				"sha256": "9820527548665ee6e7fe44e38da0f04e178b35940f1c9992bd778bc44a8ad16e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "luna-snow-seraphine",
+			"name": "luna snow seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "wuffsky",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/luna-snow-seraphine/thumb.webp?v=196d6dec",
+			"file": {
+				"version": 1,
+				"asset": "luna-snow-seraphine-v1.fantome",
+				"size": 27259484,
+				"sha256": "d9866303307dcd1deb1a95f96b66f924d818e042d6152bad53c1a32e21e13006"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lunar-guardian-sett",
+			"name": "Lunar Guardian Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lunar-guardian-sett/thumb.webp?v=52ab7970",
+			"file": {
+				"version": 1,
+				"asset": "lunar-guardian-sett-v1.fantome",
+				"size": 17022825,
+				"sha256": "85dc5d8cbac97efeb5fba6a393ca67ae896562abbd3d7645e7849ef4ae26d82d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "machine-doll-yaya-karma",
+			"name": "Machine Doll Yaya Karma",
+			"champion": 43,
+			"base": 4,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/machine-doll-yaya-karma/thumb.webp?v=fb94ad8d",
+			"file": {
+				"version": 1,
+				"asset": "machine-doll-yaya-karma-v1.fantome",
+				"size": 4651961,
+				"sha256": "f8a032aa34bcc284f1cc779d1623ea772793562ef62d0952c27bcf3e93d6a3a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "madara-zaahen",
+			"name": "Madara Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/madara-zaahen/thumb.webp?v=6c810cd6",
+			"file": {
+				"version": 1,
+				"asset": "madara-zaahen-v1.fantome",
+				"size": 37863802,
+				"sha256": "16ba609eab7f72c4e3862cf95830dbebd64d6493e8675d0ac50f86b463faf855"
+			},
+			"chromas": []
+		},
+		{
 			"id": "madara-zed",
 			"name": "Madara Zed",
 			"champion": 238,
@@ -19915,6 +20118,57 @@
 				"asset": "madara-zed-v1.fantome",
 				"size": 37410492,
 				"sha256": "a4eb8a12fe466e4250474270a3a81cfe3b34613eb3a7d240f57cdfd0a15c774b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "magik-riven",
+			"name": "Magik Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "vanecessary",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/magik-riven/thumb.webp?v=923c1626",
+			"file": {
+				"version": 1,
+				"asset": "magik-riven-v1.fantome",
+				"size": 7977217,
+				"sha256": "8f3f79ee4bde638dde5b47421b8571b08f9345060e93adc79fadef5e76d30b40"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mai-sakurajima-gwen",
+			"name": "Mai Sakurajima Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "noice",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mai-sakurajima-gwen/thumb.webp?v=4f013dc1",
+			"file": {
+				"version": 1,
+				"asset": "mai-sakurajima-gwen-v1.fantome",
+				"size": 10507508,
+				"sha256": "855b69c7f71b5d8cb5b0600a0501e5f98a0ff76cb02cf7b6a02dca880d77fab1"
 			},
 			"chromas": []
 		},

@@ -1539,6 +1539,11 @@
 			"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 		}
 	},
+	"vanecessary": {
+		"name": "Vanecessary",
+		"avatar": "creators/vanecessary.png?v=44aaca8e",
+		"links": {}
+	},
 	"vector": {
 		"name": "Vector",
 		"avatar": "creators/vector.png?v=f27c482a",
@@ -1620,6 +1625,12 @@
 		"avatar": "creators/wronglane.jpg?v=d439a0e0",
 		"bio": "Rell is a Toplaner don't believe the noxian Propaganda.",
 		"links": {}
+	},
+	"wuffsky": {
+		"name": "mikko",
+		"links": {
+			"youtube": "https://youtu.be/4Xs6j_x3FPc"
+		}
 	},
 	"xellelux": {
 		"name": "Xellelux",

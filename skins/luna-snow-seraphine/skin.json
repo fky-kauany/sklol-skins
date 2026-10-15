@@ -1,0 +1,25 @@
+{
+	"id": "luna-snow-seraphine",
+	"name": "luna snow seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "wuffsky",
+	"description": "this mod replaces seraphine's base skin with luna snow from marvel rivals\n\nit includes:\n\n* new sfx (some ported from marvel rivals)\n* new vo\n* new vfx\n* &#x20;new animations\n* new ui (champion portraits)\n\n---\n\n**Created by** [mikko](https://runeforge.dev/users/wuffsky)\n\n**Original:** https://runeforge.dev/mods/1491822c-1e57-4a63-b19a-6565ba19e1cc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/luna-snow-seraphine/thumb.webp?v=196d6dec",
+	"file": {
+		"version": 1,
+		"asset": "luna-snow-seraphine-v1.fantome",
+		"size": 27259484,
+		"sha256": "d9866303307dcd1deb1a95f96b66f924d818e042d6152bad53c1a32e21e13006"
+	},
+	"chromas": []
+}

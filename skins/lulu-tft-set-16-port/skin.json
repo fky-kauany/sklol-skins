@@ -1,0 +1,24 @@
+{
+	"id": "lulu-tft-set-16-port",
+	"name": "Lulu TFT Set 16 Port",
+	"champion": 117,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**&#x20;Modified skin:**\r\nBase Lulu\r\n\r\nSince TFT set 16 gave Lulu a brand new model that looks WAY better than the one she currently has in League I decided to port it over. Since TFT also gave it some new animations I added those too, but most of them are still Lulu's old ones.\r\n\r\n***\r\n\r\nFeel free to contact me on Discord if this skin breaks: Snorr_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/3958a686-9dec-47e0-9b0f-311f8e9fc8a0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lulu-tft-set-16-port/thumb.webp?v=da3bd60f",
+	"file": {
+		"version": 1,
+		"asset": "lulu-tft-set-16-port-v1.fantome",
+		"size": 1796516,
+		"sha256": "ba17f781db15dc2ef92ca863c988afec951c6698852364eb7f244901ec49b859"
+	},
+	"chromas": []
+}

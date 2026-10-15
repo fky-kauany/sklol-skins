@@ -1,0 +1,25 @@
+{
+	"id": "luise-meyrink-mel",
+	"name": "Luise Meyrink Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/3850040a-73f2-4d1e-9d75-ce1284a9b973\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/luise-meyrink-mel/thumb.webp?v=dfb53968",
+	"file": {
+		"version": 1,
+		"asset": "luise-meyrink-mel-v1.fantome",
+		"size": 21416763,
+		"sha256": "465bea4683ae825b6eb1270a6124295a24d98b02dfa3ddfbe1275ee4544e37a6"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "lulu-with-a-big-hat",
+	"name": "Lulu with a big hat",
+	"champion": 117,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Lulu**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Features\n\n* Big hat\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/ef486631-1249-4d5e-aef4-3a8615eb3161\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lulu-with-a-big-hat/thumb.webp?v=0ecae2c8",
+	"file": {
+		"version": 1,
+		"asset": "lulu-with-a-big-hat-v1.fantome",
+		"size": 245104,
+		"sha256": "9820527548665ee6e7fe44e38da0f04e178b35940f1c9992bd778bc44a8ad16e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "magik-riven",
+	"name": "Magik Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "vanecessary",
+	"description": "# Magik Riven\n\nThis mod changes Riven into the character Magik, as seen in Marvel Rivals!\n\nThe model and textures for her base and ult forms are hand made with love, just for you! I also made some custom portal VFX for her E and some VFX for her ult transformation, but the voicelines are taken from Marvel Rivals.&#x20;\n\nI hope you enjoy using it \\<3\n\n## Information\n\nChampion: Riven\n\nChanged Skin: Base\n\nChanges: Model, Textures, Voicelines, Particles\n\nDiscord: @vanessa.zone\n\n\n\n## Images\n\n![](https://runeforge.dev/images/853faeb4-7d7a-4a49-c246-5e8585390100/gallery)![](https://runeforge.dev/images/d01efb74-242d-4a6e-7534-b757908a1c00/gallery)\n\n---\n\n**Created by** [Vanecessary](https://runeforge.dev/users/Vanecessary)\n\n**Original:** https://runeforge.dev/mods/5fd9eaa4-930a-410f-918e-2756f3f99992\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/magik-riven/thumb.webp?v=923c1626",
+	"file": {
+		"version": 1,
+		"asset": "magik-riven-v1.fantome",
+		"size": 7977217,
+		"sha256": "8f3f79ee4bde638dde5b47421b8571b08f9345060e93adc79fadef5e76d30b40"
+	},
+	"chromas": []
+}
