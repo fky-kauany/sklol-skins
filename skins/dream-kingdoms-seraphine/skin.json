@@ -1,0 +1,26 @@
+{
+	"id": "dream-kingdoms-seraphine",
+	"name": "Dream Kingdoms Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Seraphine\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.3\r\n\r\n###### Description: Dream Kingdoms Seraphine (from 2024)\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/6d5c4d56-53eb-444b-9b9b-2f7766aa5208\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dream-kingdoms-seraphine/thumb.webp?v=b130aac3",
+	"file": {
+		"version": 1,
+		"asset": "dream-kingdoms-seraphine-v1.fantome",
+		"size": 40737945,
+		"sha256": "9d944d2b553d769aa666d7b3a64e330155a4e09e85ca7e0c7abbf2b04cf3b686"
+	},
+	"chromas": []
+}

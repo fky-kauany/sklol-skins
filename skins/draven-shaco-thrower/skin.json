@@ -1,0 +1,24 @@
+{
+	"id": "draven-shaco-thrower",
+	"name": "Draven Shaco Thrower",
+	"champion": 119,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Draven**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/21211ff7-cf86-47de-953f-582629cee20b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/draven-shaco-thrower/thumb.webp?v=7d7eb82a",
+	"file": {
+		"version": 1,
+		"asset": "draven-shaco-thrower-v1.fantome",
+		"size": 728627,
+		"sha256": "ff882940c1ab35e551e59931c80a6c764cbbc0a712cfc0af422fdaa70e0e688c"
+	},
+	"chromas": []
+}

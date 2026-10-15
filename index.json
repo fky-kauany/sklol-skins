@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:03:05.340Z",
+	"generatedAt": "2026-10-15T09:06:30.661Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -8283,6 +8283,254 @@
 				"asset": "drag-queen-fizz-v1.fantome",
 				"size": 726262,
 				"sha256": "5ffb4a32dc72d304571119acb1063dbc4720f8d4cc5fa9f526e8ba80a03eb4d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dragonmancer-yotohime-yasuo",
+			"name": "Dragonmancer Yotohime Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dragonmancer-yotohime-yasuo/thumb.webp?v=99a19acc",
+			"file": {
+				"version": 1,
+				"asset": "dragonmancer-yotohime-yasuo-v1.fantome",
+				"size": 38356830,
+				"sha256": "4840796c13581952841d75df5429e95669b05e10845c1c6873bf516f520ccd79"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dragonslayer-caitlyn",
+			"name": "Dragonslayer Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dragonslayer-caitlyn/thumb.webp?v=b260445f",
+			"file": {
+				"version": 1,
+				"asset": "dragonslayer-caitlyn-v1.fantome",
+				"size": 8292599,
+				"sha256": "145224efdd1b0c097dbf6ab6de9931962022a9b4471c3c5e3e1de68db2e04b7a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dragonslayer-katarina",
+			"name": "Dragonslayer Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dragonslayer-katarina/thumb.webp?v=dcd19627",
+			"file": {
+				"version": 1,
+				"asset": "dragonslayer-katarina-v1.fantome",
+				"size": 14582084,
+				"sha256": "44f95ed22f3c5252c102a5b1f487f79bd6e3c7f7354da6d91526f09a900f5c54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dragonslayer-sett",
+			"name": "Dragonslayer Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dragonslayer-sett/thumb.webp?v=c55b6624",
+			"file": {
+				"version": 1,
+				"asset": "dragonslayer-sett-v1.fantome",
+				"size": 10233011,
+				"sha256": "294b8cf46e2c8356028e21cd382e8918d3282057754c4a89310ef5797952208a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dragonslayer-viego",
+			"name": "Dragonslayer Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dragonslayer-viego/thumb.webp?v=87e85ad5",
+			"file": {
+				"version": 1,
+				"asset": "dragonslayer-viego-v1.fantome",
+				"size": 12671551,
+				"sha256": "cfc92b669cb6cc76f1a8513f133706ece3579d684dad0ea8f3e1840cc285a746"
+			},
+			"chromas": []
+		},
+		{
+			"id": "draven-sett",
+			"name": "Draven (Sett)",
+			"champion": 875,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/draven-sett/thumb.webp?v=1ac5669e",
+			"file": {
+				"version": 1,
+				"asset": "draven-sett-v1.fantome",
+				"size": 1085285,
+				"sha256": "783a3e421497314c91e4d134600736cafd9c95308871e9cdfff0215a7547cfff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "draven-shaco-thrower",
+			"name": "Draven Shaco Thrower",
+			"champion": 119,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/draven-shaco-thrower/thumb.webp?v=7d7eb82a",
+			"file": {
+				"version": 1,
+				"asset": "draven-shaco-thrower-v1.fantome",
+				"size": 728627,
+				"sha256": "ff882940c1ab35e551e59931c80a6c764cbbc0a712cfc0af422fdaa70e0e688c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "draven-without-the-executioner",
+			"name": "Draven Without the Executioner",
+			"champion": 119,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/draven-without-the-executioner/thumb.webp?v=488757a7",
+			"file": {
+				"version": 1,
+				"asset": "draven-without-the-executioner-v1.fantome",
+				"size": 107337,
+				"sha256": "115360bb65b201069e2b0918b69b1749c33a2a5ba53b9d10863e91ccb41d64be"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dreadnaught-darius",
+			"name": "Dreadnaught Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dreadnaught-darius/thumb.webp?v=4e715be5",
+			"file": {
+				"version": 1,
+				"asset": "dreadnaught-darius-v1.fantome",
+				"size": 1678970,
+				"sha256": "5fa14d7d55561a5525c2d5ac4340791edbb299e5db0e54a130258aaed442af9b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dream-kingdoms-seraphine",
+			"name": "Dream Kingdoms Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dream-kingdoms-seraphine/thumb.webp?v=b130aac3",
+			"file": {
+				"version": 1,
+				"asset": "dream-kingdoms-seraphine-v1.fantome",
+				"size": 40737945,
+				"sha256": "9d944d2b553d769aa666d7b3a64e330155a4e09e85ca7e0c7abbf2b04cf3b686"
 			},
 			"chromas": []
 		},

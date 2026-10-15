@@ -1,0 +1,26 @@
+{
+	"id": "dragonslayer-caitlyn",
+	"name": "Dragonslayer Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Caitlyn\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Dragonslayer Caitlyn\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1hsWzVM5YJUT5ARb1wfI1QLPWnpAP7whq?usp=sharing)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/81b070a5-905a-4833-8839-aeee0e6c478f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dragonslayer-caitlyn/thumb.webp?v=b260445f",
+	"file": {
+		"version": 1,
+		"asset": "dragonslayer-caitlyn-v1.fantome",
+		"size": 8292599,
+		"sha256": "145224efdd1b0c097dbf6ab6de9931962022a9b4471c3c5e3e1de68db2e04b7a"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "dragonslayer-sett",
+	"name": "Dragonslayer Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Sett\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.1\r\n\r\n###### Description: Dragonslayer Sett\r\n\r\n## [Download Chromas here](https://drive.google.com/drive/folders/1YLmNAfTLvLo7_ncWC-CK26wuSTfSn59n?usp=sharing)\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/faa5402d-762a-4d63-ac19-f0b3472e0065\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dragonslayer-sett/thumb.webp?v=c55b6624",
+	"file": {
+		"version": 1,
+		"asset": "dragonslayer-sett-v1.fantome",
+		"size": 10233011,
+		"sha256": "294b8cf46e2c8356028e21cd382e8918d3282057754c4a89310ef5797952208a"
+	},
+	"chromas": []
+}

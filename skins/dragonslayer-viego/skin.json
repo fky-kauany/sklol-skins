@@ -1,0 +1,26 @@
+{
+	"id": "dragonslayer-viego",
+	"name": "Dragonslayer Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Viego\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.2\r\n\r\n###### Description: Dragonslayer Viego\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/d139d38a-d5e4-43b1-a069-18ff18a35c30\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dragonslayer-viego/thumb.webp?v=87e85ad5",
+	"file": {
+		"version": 1,
+		"asset": "dragonslayer-viego-v1.fantome",
+		"size": 12671551,
+		"sha256": "cfc92b669cb6cc76f1a8513f133706ece3579d684dad0ea8f3e1840cc285a746"
+	},
+	"chromas": []
+}

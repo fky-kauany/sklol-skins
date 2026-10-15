@@ -1,0 +1,26 @@
+{
+	"id": "dragonmancer-yotohime-yasuo",
+	"name": "Dragonmancer Yotohime Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion: Yasuo\r\n* Modified skin: Dream Dragon Yasuo / Truth Dragon Yasuo\r\n* Author: The Melancholy Of Slime\r\n* In order to use this skin, you need to own **Dream Dragon Yasuo / Truth Dragon Yasuo** and select it in champion select.\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Edited ability sounds ( 50% get Spirit Blossom SFX in Q, Ultimate )\r\n* New voiceover\r\n\r\n## Credits\r\n\r\n* Thanks tarngaina, Darkaim for helping me with the model.\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n* Set \"Character Quality\" to normal or higher to get different tex effect.\r\n* Her sword will disappear when she put it back in its scabbard ( Like Artoria Pendragon (Saber) when she using Excalibur )\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/6ce5a702-7da4-4bd8-984e-0da1e806f4f7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dragonmancer-yotohime-yasuo/thumb.webp?v=99a19acc",
+	"file": {
+		"version": 1,
+		"asset": "dragonmancer-yotohime-yasuo-v1.fantome",
+		"size": 38356830,
+		"sha256": "4840796c13581952841d75df5429e95669b05e10845c1c6873bf516f520ccd79"
+	},
+	"chromas": []
+}
