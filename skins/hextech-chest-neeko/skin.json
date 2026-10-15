@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-neeko",
+	"name": "Hextech Chest Neeko",
+	"champion": 518,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Neeko Base Skin\n\nGives Neeko a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/d26be730-16aa-400f-b230-a79f36e071ee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-neeko/thumb.webp?v=f36072dc",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-neeko-v1.fantome",
+		"size": 1502092,
+		"sha256": "569e4c29997d6ab594a99811fdbb13bd78d29ef4d24b038cdea27f454c30e8b2"
+	},
+	"chromas": []
+}

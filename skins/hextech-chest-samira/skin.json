@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-samira",
+	"name": "Hextech Chest Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Samira Base Skin\n\nGives Samira a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/92c860d1-bfd9-4f49-97f3-6fba80471bc3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-samira/thumb.webp?v=3ae2b91c",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-samira-v1.fantome",
+		"size": 1054312,
+		"sha256": "ec1c1ae51e114548ff8111fa42a76d9fa1ca1a5a391a32b2d545a1ed02a17b3c"
+	},
+	"chromas": []
+}

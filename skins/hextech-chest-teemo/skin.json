@@ -1,0 +1,24 @@
+{
+	"id": "hextech-chest-teemo",
+	"name": "Hextech Chest Teemo",
+	"champion": 17,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Teemo Base Skin\n\nGives Teemo a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/0e9fe380-f14d-4857-bd9a-c1fefa10ea6c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-teemo/thumb.webp?v=8955018e",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-teemo-v1.fantome",
+		"size": 1709600,
+		"sha256": "e3ebd264f95d2136709c948988e7e25a0128be17ed7417c9a5760b60b798f589"
+	},
+	"chromas": []
+}

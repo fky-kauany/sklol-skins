@@ -1,0 +1,24 @@
+{
+	"id": "hextech-chest-orianna",
+	"name": "Hextech Chest Orianna",
+	"champion": 61,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Orianna Base Skin\n\nGives Orianna a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/c63a2d32-73ec-42ab-ba00-f0c6767326f5\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-orianna/thumb.webp?v=54541ab1",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-orianna-v1.fantome",
+		"size": 3257740,
+		"sha256": "cf116afaf2a404717e54ff64f6377c7751056231b9af66bb6278b7fa88fa495d"
+	},
+	"chromas": []
+}

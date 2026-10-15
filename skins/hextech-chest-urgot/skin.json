@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-urgot",
+	"name": "Hextech Chest Urgot",
+	"champion": 6,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Urgot Base Skin\n\nGives Urgot a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/ed3a8290-97bc-48bd-b734-a9ae02c39c3f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-urgot/thumb.webp?v=4a9c1bb4",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-urgot-v1.fantome",
+		"size": 1091846,
+		"sha256": "92c5636a07b8339b2079a4c3d52c97aca290ade56456fba6d16d4dc4d4b77a86"
+	},
+	"chromas": []
+}

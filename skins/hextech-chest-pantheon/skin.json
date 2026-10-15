@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-pantheon",
+	"name": "Hextech Chest Pantheon",
+	"champion": 80,
+	"base": 4,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Pantheon Base Skin\n\nGives Pantheon a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/a956dcd3-a1a3-47e4-b14a-dc5d4a3943fe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-pantheon/thumb.webp?v=e11b3013",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-pantheon-v1.fantome",
+		"size": 3348080,
+		"sha256": "c9665678ef1a9dec02a7e5ba59c4a8ac4de2e8a063d88b37e4dd2489c66851a8"
+	},
+	"chromas": []
+}

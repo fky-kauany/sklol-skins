@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-vi",
+	"name": "Hextech Chest Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Vi Base Skin\n\nGives Vi a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/752bda32-8e5e-4f42-8bb7-c60284cb7173\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-vi/thumb.webp?v=9d7b43b3",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-vi-v1.fantome",
+		"size": 887874,
+		"sha256": "cf12b6a14a52a3f44e484deb1dbdaa4438cc72353e159e9f54d8d19beceecf3a"
+	},
+	"chromas": []
+}

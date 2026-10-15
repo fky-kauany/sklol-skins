@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-singed",
+	"name": "Hextech Chest Singed",
+	"champion": 27,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Singed Base Skin\n\nGives Singed a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/21574aa8-9a83-4456-ac6e-9f28bc95a932\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-singed/thumb.webp?v=83579a1a",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-singed-v1.fantome",
+		"size": 1081811,
+		"sha256": "f2eba41c4a420cbc101b8e93cc348d20dd9a121e84cdc371ee85ac66954faed1"
+	},
+	"chromas": []
+}

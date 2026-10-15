@@ -1,0 +1,24 @@
+{
+	"id": "hextech-chest-tristana",
+	"name": "Hextech Chest Tristana",
+	"champion": 18,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Tristana Base Skin\n\nGives Tristana a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\nHextech Key model by [Duker on Thangs](https://thangs.com/designer/Duker/3d-model/League%20of%20Legends%20-%20Hextech%20Key-11689)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/38796b6d-1e49-4fe5-8a96-a8e0ea4772cb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-tristana/thumb.webp?v=ccb4bf06",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-tristana-v1.fantome",
+		"size": 1090170,
+		"sha256": "772a97cfb712ee8769e5931182eeaab3981664440ec9b2b768a2850b81539e0f"
+	},
+	"chromas": []
+}
