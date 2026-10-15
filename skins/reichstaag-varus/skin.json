@@ -1,0 +1,24 @@
+{
+	"id": "reichstaag-varus",
+	"name": "Reichstaag Varus",
+	"champion": 110,
+	"base": 0,
+	"creator": "cam",
+	"description": "someone stole my caat i forgot who\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/2c4adbee-13a2-4f7c-9f1e-f921216b5cf9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reichstaag-varus/thumb.webp?v=15a43013",
+	"file": {
+		"version": 1,
+		"asset": "reichstaag-varus-v1.fantome",
+		"size": 3673310,
+		"sha256": "6fcd0d5345662894a7816490e6122f0562171b490b4b53f82a605a10313b8dbe"
+	},
+	"chromas": []
+}

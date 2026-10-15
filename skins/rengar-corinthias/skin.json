@@ -1,0 +1,24 @@
+{
+	"id": "rengar-corinthias",
+	"name": "Rengar corinthias",
+	"champion": 107,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Rengar\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nCustom do renagr timao, nessa custom mudei as texturas e particulas parecidas com do corinthias, mudeia algum sons apenas do R, Aproveite :}\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/26b82fdc-04d8-4d32-9638-9d632a186616\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rengar-corinthias/thumb.webp?v=7bd3f834",
+	"file": {
+		"version": 1,
+		"asset": "rengar-corinthias-v1.fantome",
+		"size": 6259450,
+		"sha256": "52b05f7fdc33708f446b5904d2b401299f8aaadb4ffd587f547157d7575939c3"
+	},
+	"chromas": []
+}

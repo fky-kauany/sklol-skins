@@ -1,0 +1,23 @@
+{
+	"id": "redsteel-kayn-chroma",
+	"name": "Redsteel Kayn Chroma",
+	"champion": 141,
+	"base": 0,
+	"creator": "lkss",
+	"description": "Red HEARTSTEEL Kayn\n\nIMPORTANT: Always use updated released versions. Any issue or question contact me on discord\n\n**Champion: Kayn**\n\n**Required Skin: HEARTSTEEL Kayn (Only works on default chroma Kayn HEARTSTEEL Skin)**\n\nDiscord: lksswq\n\n---\n\n**Created by** [lkss](https://runeforge.dev/users/lkss)\n\n**Original:** https://runeforge.dev/mods/88e84881-8675-4c42-b930-749a486e2369\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/redsteel-kayn-chroma/thumb.webp?v=fa343780",
+	"file": {
+		"version": 1,
+		"asset": "redsteel-kayn-chroma-v1.fantome",
+		"size": 3093433,
+		"sha256": "9cbdd287f0dd3cf2190fa7d37ee98b9ceaff71ede8e65a5bb6cd3845c07ab2e0"
+	},
+	"chromas": []
+}

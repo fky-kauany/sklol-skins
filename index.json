@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:50:33.193Z",
+	"generatedAt": "2026-10-15T12:53:38.560Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -27020,6 +27020,194 @@
 			"chromas": []
 		},
 		{
+			"id": "redsteel-kayn-chroma",
+			"name": "Redsteel Kayn Chroma",
+			"champion": 141,
+			"base": 0,
+			"creator": "lkss",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/redsteel-kayn-chroma/thumb.webp?v=fa343780",
+			"file": {
+				"version": 1,
+				"asset": "redsteel-kayn-chroma-v1.fantome",
+				"size": 3093433,
+				"sha256": "9cbdd287f0dd3cf2190fa7d37ee98b9ceaff71ede8e65a5bb6cd3845c07ab2e0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "reichstaag-varus",
+			"name": "Reichstaag Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/reichstaag-varus/thumb.webp?v=15a43013",
+			"file": {
+				"version": 1,
+				"asset": "reichstaag-varus-v1.fantome",
+				"size": 3673310,
+				"sha256": "6fcd0d5345662894a7816490e6122f0562171b490b4b53f82a605a10313b8dbe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "reimu-yasuo",
+			"name": "Reimu Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/reimu-yasuo/thumb.webp?v=6a1185cf",
+			"file": {
+				"version": 1,
+				"asset": "reimu-yasuo-v1.fantome",
+				"size": 6894790,
+				"sha256": "2d94061e3aee1ede9a5b404fc8a2c6f8fdeaf898af501a2b427d9fe38d0a4621"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rek-sai-reverse-reksai",
+			"name": "Reverse Reksai",
+			"champion": 421,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rek-sai-reverse-reksai/thumb.webp?v=f2fd5997",
+			"file": {
+				"version": 1,
+				"asset": "rek-sai-reverse-reksai-v1.fantome",
+				"size": 581648,
+				"sha256": "23e6ef1e4cf8172a941068dbac3ddccf97d34b50c84126df7d5f4814b2574f72"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rem-annie",
+			"name": "Rem Annie",
+			"champion": 1,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rem-annie/thumb.webp?v=9f4c95a0",
+			"file": {
+				"version": 1,
+				"asset": "rem-annie-v1.fantome",
+				"size": 5266753,
+				"sha256": "706fbecbd8e28ca57fa11915dc608af7ba5388ac952062274251b7ae2de74f5e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "remilia-scarlet-kayle",
+			"name": "Remilia Scarlet Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "flandrespringtrap",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/remilia-scarlet-kayle/thumb.webp?v=c827ca29",
+			"file": {
+				"version": 1,
+				"asset": "remilia-scarlet-kayle-v1.fantome",
+				"size": 8202097,
+				"sha256": "ed065ffec70210a21956158419075876dadbe987a0b4c65d1eb06add8783724a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "renekton-chromas",
+			"name": "Renekton Chromas",
+			"champion": 58,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/renekton-chromas/thumb.webp?v=638c2994",
+			"file": {
+				"version": 1,
+				"asset": "renekton-chromas-v1.fantome",
+				"size": 258878,
+				"sha256": "d5f92e548ad9798a8801489ee00e0137d1d702ef982aa8e9231880fa745855ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rengar-corinthias",
+			"name": "Rengar corinthias",
+			"champion": 107,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rengar-corinthias/thumb.webp?v=7bd3f834",
+			"file": {
+				"version": 1,
+				"asset": "rengar-corinthias-v1.fantome",
+				"size": 6259450,
+				"sha256": "52b05f7fdc33708f446b5904d2b401299f8aaadb4ffd587f547157d7575939c3"
+			},
+			"chromas": []
+		},
+		{
 			"id": "rengar-furia",
 			"name": "Rengar FURIA",
 			"champion": 107,
@@ -27039,6 +27227,53 @@
 				"asset": "rengar-furia-v1.fantome",
 				"size": 341858,
 				"sha256": "d9fd94c9161c2a67461fd3cf3001ab0dafb44dd6e6640f0553da78ac1c8d77dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rengar-rencar",
+			"name": "Rencar",
+			"champion": 107,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rengar-rencar/thumb.webp?v=3d2afa75",
+			"file": {
+				"version": 1,
+				"asset": "rengar-rencar-v1.fantome",
+				"size": 1948227,
+				"sha256": "59a32220d4a76985a0888b2378856420c7a66cacfbe7ca1711c8782421071751"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rengar-tom",
+			"name": "Rengar Tom",
+			"champion": 107,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rengar-tom/thumb.webp?v=09903b9e",
+			"file": {
+				"version": 1,
+				"asset": "rengar-tom-v1.fantome",
+				"size": 4700399,
+				"sha256": "5f253524e15b2c0bd64cfc51cc2f4aeb6e651a27fb8ffa2c581f9e31d3a10a87"
 			},
 			"chromas": []
 		},

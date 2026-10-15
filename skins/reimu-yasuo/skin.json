@@ -1,0 +1,23 @@
+{
+	"id": "reimu-yasuo",
+	"name": "Reimu Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Important Note\r\n\r\n* **This mod need** [**Old VFX Base Mod**](https://runeforge.dev/mods/eeebe09e-b838-49fb-b2ef-93cb3aa743a9 \"Old Yasuo VFX Base Mod\") **to fully working**.\r\n  If you encounter any problems during installation, please contact me or join RuneForge Discord.\r\n\r\n## Skin information\r\n\r\n* Champion Replaced: Yasuo\r\n* Skin Replaced: Default\r\n* Original author: TimeWe & LeonC\r\n* Re-Uploaded by: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* Re-Uploaded with Old Yasuo VFX\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Replaces loadingscreen\r\n* Replaces in-game icons\r\n* Modified particles\r\n\r\n\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/0a16a220-a9a9-4e31-b2ed-8ddc1a93302d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reimu-yasuo/thumb.webp?v=6a1185cf",
+	"file": {
+		"version": 1,
+		"asset": "reimu-yasuo-v1.fantome",
+		"size": 6894790,
+		"sha256": "2d94061e3aee1ede9a5b404fc8a2c6f8fdeaf898af501a2b427d9fe38d0a4621"
+	},
+	"chromas": []
+}

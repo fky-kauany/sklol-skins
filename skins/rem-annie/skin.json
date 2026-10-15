@@ -1,0 +1,25 @@
+{
+	"id": "rem-annie",
+	"name": "Rem Annie",
+	"champion": 1,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Annie**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\nModels from Re: Zero INFINITY\n\nModels submitted to the Models Resource by Jasperkins\n\nChildhood Rem [https://www.models-resource.com/mobile/rezeroinfinity/model/45027/](https://www.models-resource.com/mobile/rezeroinfinity/model/45027/)\n\nChildhood Ram [https://www.models-resource.com/mobile/rezeroinfinity/model/45028/](https://www.models-resource.com/mobile/rezeroinfinity/model/45028/)\n\nRam [https://www.models-resource.com/mobile/rezeroinfinity/model/45015/](https://www.models-resource.com/mobile/rezeroinfinity/model/45015/)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/9de99681-efe9-4f58-a001-d8bd13b34a4a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rem-annie/thumb.webp?v=9f4c95a0",
+	"file": {
+		"version": 1,
+		"asset": "rem-annie-v1.fantome",
+		"size": 5266753,
+		"sha256": "706fbecbd8e28ca57fa11915dc608af7ba5388ac952062274251b7ae2de74f5e"
+	},
+	"chromas": []
+}

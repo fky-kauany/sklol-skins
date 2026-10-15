@@ -1,0 +1,24 @@
+{
+	"id": "rengar-tom",
+	"name": "Rengar Tom",
+	"champion": 107,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/f88baedd-9cc6-4419-8399-9ab1fcf84bef\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rengar-tom/thumb.webp?v=09903b9e",
+	"file": {
+		"version": 1,
+		"asset": "rengar-tom-v1.fantome",
+		"size": 4700399,
+		"sha256": "5f253524e15b2c0bd64cfc51cc2f4aeb6e651a27fb8ffa2c581f9e31d3a10a87"
+	},
+	"chromas": []
+}

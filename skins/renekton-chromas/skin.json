@@ -1,0 +1,22 @@
+{
+	"id": "renekton-chromas",
+	"name": "Renekton Chromas",
+	"champion": 58,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## *Mod variants have not yet been implemented into Runeforge v2.0. The download on the site gives the Abyss chroma. If you wish to download the other versions please use this mediafire link:* [*https://www.mediafire.com/folder/dcrrgj1twtay1/Renekton\\_chromas*](https://www.mediafire.com/folder/dcrrgj1twtay1/Renekton_chromas)\n\n**Modified champion: Renekton**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/fd3adf14-c9ba-4c66-8d1c-1efc603ed5ff\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/renekton-chromas/thumb.webp?v=638c2994",
+	"file": {
+		"version": 1,
+		"asset": "renekton-chromas-v1.fantome",
+		"size": 258878,
+		"sha256": "d5f92e548ad9798a8801489ee00e0137d1d702ef982aa8e9231880fa745855ab"
+	},
+	"chromas": []
+}
