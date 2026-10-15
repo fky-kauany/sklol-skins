@@ -1,0 +1,26 @@
+{
+	"id": "triple-rhaast-kayn-all-forms-are-rhaast",
+	"name": "Triple Rhaast Kayn (all forms are Rhaast)",
+	"champion": 141,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "If you pick this then you are picking Rhaast but also if you hit enough ranged champs you can go back to base and become Rhaast but it may be too bad of a choice in that particular game so of course you can just hit some melees or wait up a bit and become Rhaast instead I don't have a problem shut up\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/68e78c63-e1da-40c4-b639-7c64e672cd26\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/triple-rhaast-kayn-all-forms-are-rhaast/thumb.webp?v=80bb7fb3",
+	"file": {
+		"version": 1,
+		"asset": "triple-rhaast-kayn-all-forms-are-rhaast-v1.fantome",
+		"size": 27490462,
+		"sha256": "9da96162ed0b66f938733e12c80ffa0a0fe012ec6cf584e03e2869f473a68ae0"
+	},
+	"chromas": []
+}

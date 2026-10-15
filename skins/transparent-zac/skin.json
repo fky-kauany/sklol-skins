@@ -1,0 +1,22 @@
+{
+	"id": "transparent-zac",
+	"name": "Transparent Zac",
+	"champion": 154,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "![](https://imagedelivery.net/jSCO7XHWhtXOc_Ojz3D3xA/47ecbd89-fae4-457f-1da5-38dfeed8fe00/gallery)\n\n## Information\n\n**Modified champion: Zac**\n\n**Modified skin: Default + Chromas, Special Weapon**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/6b01cb9b-0c36-4d41-9151-b12eed692111\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/transparent-zac/thumb.webp?v=d4baad28",
+	"file": {
+		"version": 1,
+		"asset": "transparent-zac-v1.fantome",
+		"size": 932363,
+		"sha256": "7217ef0b4ce490fdd06cf36e4599428d0e0e7a1ddb141dcfd83a2dfd62154020"
+	},
+	"chromas": []
+}

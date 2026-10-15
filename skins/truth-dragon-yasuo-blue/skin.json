@@ -1,0 +1,23 @@
+{
+	"id": "truth-dragon-yasuo-blue",
+	"name": "Truth Dragon Yasuo - Blue",
+	"champion": 157,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Truth Dragon Yasuo\r\n\r\n╰┈➤ _The idea for this mod was to give Yasuo a frosty kinda vibe with this skin_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\r\n\r\n###### _Originally Created as a Commission <3_\r\n\r\n\r\nPS..... i might have a [late] april fools day post coming up... expect it within the next week\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/88533531-e426-440a-aa60-ee1abe561508\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/truth-dragon-yasuo-blue/thumb.webp?v=851bb179",
+	"file": {
+		"version": 1,
+		"asset": "truth-dragon-yasuo-blue-v1.fantome",
+		"size": 8167015,
+		"sha256": "6587bcb91d61c241bf24d8b00654822ffee9a594b5307c20ded91186e1dff310"
+	},
+	"chromas": []
+}

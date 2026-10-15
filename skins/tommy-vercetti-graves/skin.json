@@ -1,0 +1,25 @@
+{
+	"id": "tommy-vercetti-graves",
+	"name": "Tommy Vercetti Graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Graves\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/9e33ed7c-50bb-4cc5-a00c-2d05248d697f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tommy-vercetti-graves/thumb.webp?v=401651ce",
+	"file": {
+		"version": 1,
+		"asset": "tommy-vercetti-graves-v1.fantome",
+		"size": 4441586,
+		"sha256": "153b14c9fa5424ba91ec9b96d911ac1f5cd329e727c20489a6c1f938db0ae424"
+	},
+	"chromas": []
+}

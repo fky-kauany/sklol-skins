@@ -1,0 +1,23 @@
+{
+	"id": "tricky-jax",
+	"name": "Tricky jax",
+	"champion": 24,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Ḝ̵̤̦̼̝̖̤̝̤́̒̉́͘͝R̶͓̳̦̥̆̍̅͘R̴̡̮̫̳͚̝̖̺͍̘̄̈́̊͑́̊̀̚͝͝Ó̷͔̹̓̿̐́̔ ̷̗̮͍̖̘͙̤͍͛̾̒͝S̴̯͇̱̐͗̏̕ͅṶ̸̾F̵̞̫̈́̔̒̍͐͋͘͘F̵̮́E̸͖̻̳̓̆̊͑̀͜R̶̺͐̏͌̂͛͊\"\n\n***\n\n**Modified champion: Jax**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n[MAN\\_ticore](https://steamcommunity.com/sharedfiles/filedetails/?id=254551320) made the 3d models Goat helped me out on uvs\n[Krinkels](https://twitter.com/MRKrinkels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) created that madness\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/15735666-98ea-4a0d-a4b1-f03e56e1d1bb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tricky-jax/thumb.webp?v=e51b3141",
+	"file": {
+		"version": 1,
+		"asset": "tricky-jax-v1.fantome",
+		"size": 2295069,
+		"sha256": "8e0198dc78c73c59b141af1e255fb7c16df7ea095c12e83588d861d338fa7b06"
+	},
+	"chromas": []
+}

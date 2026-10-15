@@ -1,0 +1,25 @@
+{
+	"id": "tox-iq-sett",
+	"name": "Tox IQ Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "estebang4mer",
+	"description": "**BASE CHAMPION**: Sett\r\n\r\n**MODIFIED SKIN**: Default\r\n\r\n**AUTHOR**: EstebanG4mer\r\n\r\n**MOD VERSION**: 1.4.0\r\n\r\n**FEATURES**:\r\n\r\n\\- New model and textures.\r\n\r\n\\- Modified loading screen.\r\n\r\n\\- New Taunt and R animations.\r\n\r\n\\- New sounds.\r\n\r\n\\- New splashart loading screen.\r\n\r\n\\- New ability icons and HUD.\r\n\r\n**CREDITS**: Modded by EstebanG4mer\n\n---\n\n**Created by** [EstebanG4mer](https://runeforge.dev/users/EstebanG4mer)\n\n**Original:** https://runeforge.dev/mods/d862928c-aeda-4468-b2f1-4fbadf23fcfa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tox-iq-sett/thumb.webp?v=90d6df38",
+	"file": {
+		"version": 1,
+		"asset": "tox-iq-sett-v1.fantome",
+		"size": 39242809,
+		"sha256": "6e188ae29a736f1defc8bb705d676dbe57fb658bcc869522ed0c1c28a50a2f78"
+	},
+	"chromas": []
+}

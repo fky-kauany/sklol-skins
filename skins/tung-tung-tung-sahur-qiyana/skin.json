@@ -1,0 +1,25 @@
+{
+	"id": "tung-tung-tung-sahur-qiyana",
+	"name": "Tung Tung Tung Sahur Qiyana",
+	"champion": 246,
+	"base": 0,
+	"creator": "cam",
+	"description": "tung tung tung sahur tung tung tung sahur tung tung tung sahur tung tung tung sahur\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/96a5c280-4187-4a22-95a0-5f4f49d0b5c5\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tung-tung-tung-sahur-qiyana/thumb.webp?v=b08d737c",
+	"file": {
+		"version": 1,
+		"asset": "tung-tung-tung-sahur-qiyana-v1.fantome",
+		"size": 17170066,
+		"sha256": "98c3037c771b40bf12c33bee82c81d1d6bcdb568ce5e53790ae4162f4bdc00d3"
+	},
+	"chromas": []
+}

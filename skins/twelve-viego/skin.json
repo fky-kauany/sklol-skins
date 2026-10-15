@@ -1,0 +1,24 @@
+{
+	"id": "twelve-viego",
+	"name": "Twelve viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"01110100 01101001 01100101 01110010 00100000 01101100 01101001 01110011 01110100 00100000 01100101 00100000 01110101 01101101 01100001 00100000 01101101 01100101 01101110 01110100 01101001 01110010 01100001\"\n\n***\n\n**Modified champion: Viego**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n**3D model from here:** [desciptable](https://gamebanana.com/members/2059964)[](https://gamebanana.com/members/submissions/contributions/2059964)\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/d962ecb3-0f8e-43f2-9fb0-8de776b8a2ed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/twelve-viego/thumb.webp?v=2bd329e9",
+	"file": {
+		"version": 1,
+		"asset": "twelve-viego-v1.fantome",
+		"size": 1170257,
+		"sha256": "b7e93e2ca8840837f355364195b7b6fdcc8816f12692e7b03eacf361790f6245"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "tryndamere-specimen-5-bab-spooky-s-jump-scare-ma",
+	"name": "Specimen 5 - Bab (Spooky's Jump Scare Mansion)",
+	"champion": 23,
+	"base": 0,
+	"creator": "carkibamanaboni",
+	"description": "Champion: Tryndamere\r\n\r\nModified skin: Base\r\n\r\nAuthors: Carki - Mici\r\n\r\nDescription: Turns Tryndamere into Specimen 5 (Bab) from Spooky's Jump Scare Mansion. \r\nReplaces the model, textures, VFX for Tryndamere's W and UI.\n\n---\n\n**Created by** [Carki Bamanaboni](https://runeforge.dev/users/CarkiBamanaboni)\n\n**Original:** https://runeforge.dev/mods/a24a37a8-021a-4307-8126-d11f2b5d2727\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tryndamere-specimen-5-bab-spooky-s-jump-scare-ma/thumb.webp?v=14d29cad",
+	"file": {
+		"version": 1,
+		"asset": "tryndamere-specimen-5-bab-spooky-s-jump-scare-ma-v1.fantome",
+		"size": 169322,
+		"sha256": "adca2e51b414c4c0e4791553c09a7a2bcc8d837c18760b157a8db4ba338e024d"
+	},
+	"chromas": []
+}

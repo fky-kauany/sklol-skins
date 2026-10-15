@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:21:02.998Z",
+	"generatedAt": "2026-10-15T14:26:42.682Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -32191,6 +32191,56 @@
 			"chromas": []
 		},
 		{
+			"id": "tommy-vercetti-graves",
+			"name": "Tommy Vercetti Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tommy-vercetti-graves/thumb.webp?v=401651ce",
+			"file": {
+				"version": 1,
+				"asset": "tommy-vercetti-graves-v1.fantome",
+				"size": 4441586,
+				"sha256": "153b14c9fa5424ba91ec9b96d911ac1f5cd329e727c20489a6c1f938db0ae424"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tox-iq-sett",
+			"name": "Tox IQ Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "estebang4mer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tox-iq-sett/thumb.webp?v=90d6df38",
+			"file": {
+				"version": 1,
+				"asset": "tox-iq-sett-v1.fantome",
+				"size": 39242809,
+				"sha256": "6e188ae29a736f1defc8bb705d676dbe57fb658bcc869522ed0c1c28a50a2f78"
+			},
+			"chromas": []
+		},
+		{
 			"id": "traditional-shyvana",
 			"name": "Traditional Shyvana",
 			"champion": 102,
@@ -32210,6 +32260,197 @@
 				"asset": "traditional-shyvana-v1.fantome",
 				"size": 3114516,
 				"sha256": "777e5ac1a90c15f739751ada238f9e6a510c4f2e5957ac96faa509c980edddd1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tralalero-tralala-naafiri-fizz-sai",
+			"name": "Tralalero tralala (naafiri, fizz, sai)",
+			"champion": 105,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tralalero-tralala-naafiri-fizz-sai/thumb.webp?v=ca0da96f",
+			"file": {
+				"version": 1,
+				"asset": "tralalero-tralala-naafiri-fizz-sai-v1.fantome",
+				"size": 17468192,
+				"sha256": "ef46d1d514b978f9efee74869b43c9e8590c09722a8d3f0947b785894e85e927"
+			},
+			"chromas": []
+		},
+		{
+			"id": "transparent-zac",
+			"name": "Transparent Zac",
+			"champion": 154,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/transparent-zac/thumb.webp?v=d4baad28",
+			"file": {
+				"version": 1,
+				"asset": "transparent-zac-v1.fantome",
+				"size": 932363,
+				"sha256": "7217ef0b4ce490fdd06cf36e4599428d0e0e7a1ddb141dcfd83a2dfd62154020"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tricky-jax",
+			"name": "Tricky jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tricky-jax/thumb.webp?v=e51b3141",
+			"file": {
+				"version": 1,
+				"asset": "tricky-jax-v1.fantome",
+				"size": 2295069,
+				"sha256": "8e0198dc78c73c59b141af1e255fb7c16df7ea095c12e83588d861d338fa7b06"
+			},
+			"chromas": []
+		},
+		{
+			"id": "triple-rhaast-kayn-all-forms-are-rhaast",
+			"name": "Triple Rhaast Kayn (all forms are Rhaast)",
+			"champion": 141,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/triple-rhaast-kayn-all-forms-are-rhaast/thumb.webp?v=80bb7fb3",
+			"file": {
+				"version": 1,
+				"asset": "triple-rhaast-kayn-all-forms-are-rhaast-v1.fantome",
+				"size": 27490462,
+				"sha256": "9da96162ed0b66f938733e12c80ffa0a0fe012ec6cf584e03e2869f473a68ae0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "truth-dragon-yasuo-blue",
+			"name": "Truth Dragon Yasuo - Blue",
+			"champion": 157,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/truth-dragon-yasuo-blue/thumb.webp?v=851bb179",
+			"file": {
+				"version": 1,
+				"asset": "truth-dragon-yasuo-blue-v1.fantome",
+				"size": 8167015,
+				"sha256": "6587bcb91d61c241bf24d8b00654822ffee9a594b5307c20ded91186e1dff310"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tryndamere-specimen-5-bab-spooky-s-jump-scare-ma",
+			"name": "Specimen 5 - Bab (Spooky's Jump Scare Mansion)",
+			"champion": 23,
+			"base": 0,
+			"creator": "carkibamanaboni",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tryndamere-specimen-5-bab-spooky-s-jump-scare-ma/thumb.webp?v=14d29cad",
+			"file": {
+				"version": 1,
+				"asset": "tryndamere-specimen-5-bab-spooky-s-jump-scare-ma-v1.fantome",
+				"size": 169322,
+				"sha256": "adca2e51b414c4c0e4791553c09a7a2bcc8d837c18760b157a8db4ba338e024d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tung-tung-tung-sahur-qiyana",
+			"name": "Tung Tung Tung Sahur Qiyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tung-tung-tung-sahur-qiyana/thumb.webp?v=b08d737c",
+			"file": {
+				"version": 1,
+				"asset": "tung-tung-tung-sahur-qiyana-v1.fantome",
+				"size": 17170066,
+				"sha256": "98c3037c771b40bf12c33bee82c81d1d6bcdb568ce5e53790ae4162f4bdc00d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twelve-viego",
+			"name": "Twelve viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/twelve-viego/thumb.webp?v=2bd329e9",
+			"file": {
+				"version": 1,
+				"asset": "twelve-viego-v1.fantome",
+				"size": 1170257,
+				"sha256": "b7e93e2ca8840837f355364195b7b6fdcc8816f12692e7b03eacf361790f6245"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,25 @@
+{
+	"id": "tralalero-tralala-naafiri-fizz-sai",
+	"name": "Tralalero tralala (naafiri, fizz, sai)",
+	"champion": 105,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Tralalero Tralala, porco dio e porco Allah, Eu estava com a porra do meu filho merda, Jogando Fortnite. Quando em um ponto vem minha avó.\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/cb97a1ea-5c6d-4dc4-a267-654f8fe70efc\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tralalero-tralala-naafiri-fizz-sai/thumb.webp?v=ca0da96f",
+	"file": {
+		"version": 1,
+		"asset": "tralalero-tralala-naafiri-fizz-sai-v1.fantome",
+		"size": 17468192,
+		"sha256": "ef46d1d514b978f9efee74869b43c9e8590c09722a8d3f0947b785894e85e927"
+	},
+	"chromas": []
+}
