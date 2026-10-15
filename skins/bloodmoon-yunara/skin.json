@@ -1,0 +1,24 @@
+{
+	"id": "bloodmoon-yunara",
+	"name": "Bloodmoon Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Yunara Skin.\r\n\r\nAffects: Model, Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Yunara Skin\r\n\r\nUsed 3D Materials:\r\n\r\n-Devil Horns (https://sketchfab.com/3d-models/devil-horns-a9b4dbc6d5e84a288dfb6d55a75fc7e9) by wewwuworks is licensed under CC BY 4.0. This work has been modified by aluna\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/2574cfc0-eb85-42a1-afe7-178c617800ee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bloodmoon-yunara/thumb.webp?v=0b20951b",
+	"file": {
+		"version": 1,
+		"asset": "bloodmoon-yunara-v1.fantome",
+		"size": 4671751,
+		"sha256": "090b9528d9c773d33cb4a0b8546c65460a376a68bc0706ab1701dfa97af6642a"
+	},
+	"chromas": []
+}

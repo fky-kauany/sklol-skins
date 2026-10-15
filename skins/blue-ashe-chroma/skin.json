@@ -1,0 +1,22 @@
+{
+	"id": "blue-ashe-chroma",
+	"name": "Blue Ashe Chroma",
+	"champion": 22,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Ashe**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/17a86611-ec9a-4c11-b5b9-bdfa31b4faf1\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blue-ashe-chroma/thumb.webp?v=241332b0",
+	"file": {
+		"version": 1,
+		"asset": "blue-ashe-chroma-v1.fantome",
+		"size": 90499,
+		"sha256": "2b761b1cfcac2daaccf26442cc923405bb5036992d625d338ed835885212d9fd"
+	},
+	"chromas": []
+}

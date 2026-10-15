@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:12:42.384Z",
+	"generatedAt": "2026-10-15T08:15:47.557Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -47,6 +47,15 @@
 			"links": {
 				"site": "https://paypal.me/Rog04",
 				"youtube": "https://youtu.be/nlyEdu6eZvg"
+			}
+		},
+		"aluna": {
+			"name": "aluna",
+			"avatar": "creators/aluna.jpg?v=b2c0601b",
+			"bio": "### dc: @alunalol",
+			"links": {
+				"site": "https://sketchfab.com/3d-models/devil-horns-a9b4dbc6d5e84a288dfb6d55a75fc7e9",
+				"tiktok": "https://www.tiktok.com/@alunalol?_r=1&_t=ZG-95TGtgGrhq5"
 			}
 		},
 		"anakin025": {
@@ -196,6 +205,13 @@
 			"name": "Cam",
 			"avatar": "creators/cam.jpg?v=839ba7c0",
 			"links": {}
+		},
+		"carkibamanaboni": {
+			"name": "Carki Bamanaboni",
+			"avatar": "creators/carkibamanaboni.png?v=71759587",
+			"links": {
+				"youtube": "https://www.youtube.com/@CMS-k1n"
+			}
 		},
 		"ceerel": {
 			"name": "ceerel",
@@ -366,6 +382,14 @@
 				"youtube": "https://www.youtube.com/@MOD_FORGE"
 			}
 		},
+		"elpibefixer": {
+			"name": "MarbixFixer",
+			"avatar": "creators/elpibefixer.jpg?v=b09a7194",
+			"bio": "Main account Marbix\nI just gonna use this account to upload fixed version of old mods or comission",
+			"links": {
+				"x": "https://x.com/ModderMarbix"
+			}
+		},
 		"emshu": {
 			"name": "emShu",
 			"bio": "Hi, I'm emShu.\nI am from Vietnam and currently live there.\nI have two years of experience as a modder.\nI create skins based on inspiration and explore a wide range of champions.",
@@ -443,6 +467,13 @@
 				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 			}
 		},
+		"froggles": {
+			"name": "Froggles",
+			"avatar": "creators/froggles.jpg?v=c42bcb9b",
+			"links": {
+				"x": "https://x.com/fercunhah"
+			}
+		},
 		"gabe": {
 			"name": "Gabe",
 			"avatar": "creators/gabe.png?v=35003fa4",
@@ -510,6 +541,12 @@
 		"inaba24": {
 			"name": "inaba24",
 			"avatar": "creators/inaba24.png?v=b6be4137",
+			"links": {}
+		},
+		"istolehappymealfromkids": {
+			"name": "istolehappymealfromkids",
+			"avatar": "creators/istolehappymealfromkids.png?v=a4dad105",
+			"bio": "i stole happy meal from kids u can dm me in discord for help or something",
 			"links": {}
 		},
 		"itskazen": {
@@ -1144,6 +1181,13 @@
 			"avatar": "creators/yuumi.png?v=cffa7077",
 			"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
 			"links": {}
+		},
+		"zamius": {
+			"name": "Zamius",
+			"avatar": "creators/zamius.jpg?v=364bc59c",
+			"links": {
+				"discord": "https://discord.gg/pqr9bQx238"
+			}
 		},
 		"zestydaimon": {
 			"name": "ZestyDaimon",
@@ -3902,6 +3946,172 @@
 			"chromas": []
 		},
 		{
+			"id": "blacksmith-heimerdinger",
+			"name": "blacksmith heimerdinger",
+			"champion": 74,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blacksmith-heimerdinger/thumb.webp?v=63a78859",
+			"file": {
+				"version": 1,
+				"asset": "blacksmith-heimerdinger-v1.fantome",
+				"size": 564461,
+				"sha256": "aff6f6214c9def8b3b504b4a2a7cb813192ce144cdd9a63367a1a6eb0301ae41"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blahaj-jinx",
+			"name": "Blahäj Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "gloomytree",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blahaj-jinx/thumb.webp?v=cc75d4ef",
+			"file": {
+				"version": 1,
+				"asset": "blahaj-jinx-v1.fantome",
+				"size": 8389970,
+				"sha256": "c274666e95d6393646eceabf176a8c6a5ea8237285fc6c3a3cdc6f0faf1a52ec"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blitzcrank-clanker-ronald",
+			"name": "Clanker Ronald",
+			"champion": 53,
+			"base": 0,
+			"creator": "istolehappymealfromkids",
+			"parts": [],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blitzcrank-clanker-ronald/thumb.webp?v=29905bed",
+			"file": {
+				"version": 1,
+				"asset": "blitzcrank-clanker-ronald-v1.fantome",
+				"size": 1377166,
+				"sha256": "8ee8f4780c6d274fa01df2ddf5a0b890cbccfa785f51b13280b277ae09d8a3d1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blitzcrank-grolgoth-rayman-2",
+			"name": "Grolgoth (Rayman 2)",
+			"champion": 53,
+			"base": 0,
+			"creator": "carkibamanaboni",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blitzcrank-grolgoth-rayman-2/thumb.webp?v=ebed3b41",
+			"file": {
+				"version": 1,
+				"asset": "blitzcrank-grolgoth-rayman-2-v1.fantome",
+				"size": 144674,
+				"sha256": "15869d7df7cb173f880e1e23a167d5a8661a9a2923c4fdf943f580e03e2c898d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-qiyana",
+			"name": "Blood Moon Qiyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "froggles",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-qiyana/thumb.webp?v=846c39cb",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-qiyana-v1.fantome",
+				"size": 4430893,
+				"sha256": "093b4d55e93234e460fcb1f9dd82b7db548fc3ebe09386901273fa8c76521d9b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-rengar",
+			"name": "Blood Moon Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "notcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-rengar/thumb.webp?v=a0728372",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-rengar-v1.fantome",
+				"size": 10877925,
+				"sha256": "0583e723cd3d7fd49319eaa3753b86a3075f1745c92811b79ec6d23455a5c235"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blood-moon-twilight-daimyo-tryndamere-chroma",
+			"name": "Blood Moon Twilight Daimyo Tryndamere Chroma",
+			"champion": 23,
+			"base": 0,
+			"creator": "zamius",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blood-moon-twilight-daimyo-tryndamere-chroma/thumb.webp?v=c0eed087",
+			"file": {
+				"version": 1,
+				"asset": "blood-moon-twilight-daimyo-tryndamere-chroma-v1.fantome",
+				"size": 825700,
+				"sha256": "20e35c4afddf4f6aa58c66aefe653ffbd4af9c5f1133218ac066f660ddca4ce5"
+			},
+			"chromas": []
+		},
+		{
 			"id": "blood-moon-zilean-brown",
 			"name": "Blood Moon Zilean - Brown",
 			"champion": 26,
@@ -3928,6 +4138,52 @@
 			"chromas": []
 		},
 		{
+			"id": "bloodmoon-thresh-texture-adjustment",
+			"name": "Bloodmoon Thresh Texture Adjustment",
+			"champion": 412,
+			"base": 3,
+			"creator": "elpibefixer",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bloodmoon-thresh-texture-adjustment/thumb.webp?v=353b542d",
+			"file": {
+				"version": 1,
+				"asset": "bloodmoon-thresh-texture-adjustment-v1.fantome",
+				"size": 215743,
+				"sha256": "393187b00f81329e6cf984413eee0379547f8b5de2c94d63dde3f035595f2eaa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bloodmoon-yunara",
+			"name": "Bloodmoon Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bloodmoon-yunara/thumb.webp?v=0b20951b",
+			"file": {
+				"version": 1,
+				"asset": "bloodmoon-yunara-v1.fantome",
+				"size": 4671751,
+				"sha256": "090b9528d9c773d33cb4a0b8546c65460a376a68bc0706ab1701dfa97af6642a"
+			},
+			"chromas": []
+		},
+		{
 			"id": "blue-archive-k-sante-hoshino-armed",
 			"name": "(Blue Archive) K'Sante - Hoshino (Armed)",
 			"champion": 897,
@@ -3948,6 +4204,28 @@
 				"asset": "blue-archive-k-sante-hoshino-armed-v1.fantome",
 				"size": 6933137,
 				"sha256": "40940b2137f9c77894c1ad6c196c52d0eb77d17718de0731da7671a7d0d21f8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blue-ashe-chroma",
+			"name": "Blue Ashe Chroma",
+			"champion": 22,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blue-ashe-chroma/thumb.webp?v=241332b0",
+			"file": {
+				"version": 1,
+				"asset": "blue-ashe-chroma-v1.fantome",
+				"size": 90499,
+				"sha256": "2b761b1cfcac2daaccf26442cc923405bb5036992d625d338ed835885212d9fd"
 			},
 			"chromas": []
 		},

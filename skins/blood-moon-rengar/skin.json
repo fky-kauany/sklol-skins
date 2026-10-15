@@ -1,0 +1,26 @@
+{
+	"id": "blood-moon-rengar",
+	"name": "Blood Moon Rengar",
+	"champion": 107,
+	"base": 0,
+	"creator": "notcz",
+	"description": "another old commission to make a Blood Moon Rengar using assets from other champs like thresh, and idk i forgot : D\nalso dont know who the creator of splash art is but we took some inspiration from it\n\n---\n\n**Created by** [notCZ](https://runeforge.dev/users/notCZ)\n\n**Original:** https://runeforge.dev/mods/1849f8f1-94cd-43f4-8aa8-7b8173c28a85\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blood-moon-rengar/thumb.webp?v=a0728372",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-rengar-v1.fantome",
+		"size": 10877925,
+		"sha256": "0583e723cd3d7fd49319eaa3753b86a3075f1745c92811b79ec6d23455a5c235"
+	},
+	"chromas": []
+}

@@ -46,6 +46,15 @@
 			"youtube": "https://youtu.be/nlyEdu6eZvg"
 		}
 	},
+	"aluna": {
+		"name": "aluna",
+		"avatar": "creators/aluna.jpg?v=b2c0601b",
+		"bio": "### dc: @alunalol",
+		"links": {
+			"site": "https://sketchfab.com/3d-models/devil-horns-a9b4dbc6d5e84a288dfb6d55a75fc7e9",
+			"tiktok": "https://www.tiktok.com/@alunalol?_r=1&_t=ZG-95TGtgGrhq5"
+		}
+	},
 	"anakin025": {
 		"name": "anakin025",
 		"links": {}
@@ -193,6 +202,13 @@
 		"name": "Cam",
 		"avatar": "creators/cam.jpg?v=839ba7c0",
 		"links": {}
+	},
+	"carkibamanaboni": {
+		"name": "Carki Bamanaboni",
+		"avatar": "creators/carkibamanaboni.png?v=71759587",
+		"links": {
+			"youtube": "https://www.youtube.com/@CMS-k1n"
+		}
 	},
 	"ceerel": {
 		"name": "ceerel",
@@ -363,6 +379,14 @@
 			"youtube": "https://www.youtube.com/@MOD_FORGE"
 		}
 	},
+	"elpibefixer": {
+		"name": "MarbixFixer",
+		"avatar": "creators/elpibefixer.jpg?v=b09a7194",
+		"bio": "Main account Marbix\nI just gonna use this account to upload fixed version of old mods or comission",
+		"links": {
+			"x": "https://x.com/ModderMarbix"
+		}
+	},
 	"emshu": {
 		"name": "emShu",
 		"bio": "Hi, I'm emShu.\nI am from Vietnam and currently live there.\nI have two years of experience as a modder.\nI create skins based on inspiration and explore a wide range of champions.",
@@ -440,6 +464,13 @@
 			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 		}
 	},
+	"froggles": {
+		"name": "Froggles",
+		"avatar": "creators/froggles.jpg?v=c42bcb9b",
+		"links": {
+			"x": "https://x.com/fercunhah"
+		}
+	},
 	"gabe": {
 		"name": "Gabe",
 		"avatar": "creators/gabe.png?v=35003fa4",
@@ -507,6 +538,12 @@
 	"inaba24": {
 		"name": "inaba24",
 		"avatar": "creators/inaba24.png?v=b6be4137",
+		"links": {}
+	},
+	"istolehappymealfromkids": {
+		"name": "istolehappymealfromkids",
+		"avatar": "creators/istolehappymealfromkids.png?v=a4dad105",
+		"bio": "i stole happy meal from kids u can dm me in discord for help or something",
 		"links": {}
 	},
 	"itskazen": {
@@ -1141,6 +1178,13 @@
 		"avatar": "creators/yuumi.png?v=cffa7077",
 		"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
 		"links": {}
+	},
+	"zamius": {
+		"name": "Zamius",
+		"avatar": "creators/zamius.jpg?v=364bc59c",
+		"links": {
+			"discord": "https://discord.gg/pqr9bQx238"
+		}
 	},
 	"zestydaimon": {
 		"name": "ZestyDaimon",

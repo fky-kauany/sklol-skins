@@ -1,0 +1,20 @@
+{
+	"id": "blitzcrank-clanker-ronald",
+	"name": "Clanker Ronald",
+	"champion": 53,
+	"base": 0,
+	"creator": "istolehappymealfromkids",
+	"description": "### MOD INFORMATION\n\n* Champion: Blitzcrank\n* Modified skin: Default\n* Author: istonehappymealfromkids\n* Mod version: 1.0\n* Description: start digging ur butt twin\n\n### FEATURES\n\n* New model and texture\n* Modified loadingscreen\n* Modified particles\n* Edited ability sounds\n* New voiceover\n* BE CAREFUL HE SAID SOMETHING BAD IN ALL EMOTE\n\n### ABOUT THE MOD\n\n* Ronald from Mcdonald Clanker\n\n### CREDITS\n\n* thanks to Akatuni for ronald mc donald model\n* thanks to Aropatnik for helping with Vo\n* thanks to Wiko for helping with Vo\n\n---\n\n**Created by** [istolehappymealfromkids](https://runeforge.dev/users/istolehappymealfromkids)\n\n**Original:** https://runeforge.dev/mods/2b4bdf41-bf8d-4960-bce3-f9ded8c0817f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blitzcrank-clanker-ronald/thumb.webp?v=29905bed",
+	"file": {
+		"version": 1,
+		"asset": "blitzcrank-clanker-ronald-v1.fantome",
+		"size": 1377166,
+		"sha256": "8ee8f4780c6d274fa01df2ddf5a0b890cbccfa785f51b13280b277ae09d8a3d1"
+	},
+	"chromas": []
+}

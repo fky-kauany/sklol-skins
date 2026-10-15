@@ -1,0 +1,23 @@
+{
+	"id": "blacksmith-heimerdinger",
+	"name": "blacksmith heimerdinger",
+	"champion": 74,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"(for real he dont spoke nothing :c)\"\n\n***\n\n**Modified champion: Heimerdinger**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n[Questing Crusader](https://steamcommunity.com/sharedfiles/filedetails/?id=2830550856) **made the 3d model**\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/ca4bf49d-442d-46a2-9018-221597625668\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blacksmith-heimerdinger/thumb.webp?v=63a78859",
+	"file": {
+		"version": 1,
+		"asset": "blacksmith-heimerdinger-v1.fantome",
+		"size": 564461,
+		"sha256": "aff6f6214c9def8b3b504b4a2a7cb813192ce144cdd9a63367a1a6eb0301ae41"
+	},
+	"chromas": []
+}

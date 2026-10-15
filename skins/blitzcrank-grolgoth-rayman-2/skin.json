@@ -1,0 +1,24 @@
+{
+	"id": "blitzcrank-grolgoth-rayman-2",
+	"name": "Grolgoth (Rayman 2)",
+	"champion": 53,
+	"base": 0,
+	"creator": "carkibamanaboni",
+	"description": "Champion: Blitzcrank\r\n\r\nModified skin: Base\r\n\r\nAuthors: Carki - Mici\r\n\r\nDescription: Turns Blitzcrank into Grolgoth, the final boss from Rayman 2. Replaces the model, textures, and model for the hook (Q).\n\n---\n\n**Created by** [Carki Bamanaboni](https://runeforge.dev/users/CarkiBamanaboni)\n\n**Original:** https://runeforge.dev/mods/8cb59075-5103-4d3c-b10d-86e1d98376af\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blitzcrank-grolgoth-rayman-2/thumb.webp?v=ebed3b41",
+	"file": {
+		"version": 1,
+		"asset": "blitzcrank-grolgoth-rayman-2-v1.fantome",
+		"size": 144674,
+		"sha256": "15869d7df7cb173f880e1e23a167d5a8661a9a2923c4fdf943f580e03e2c898d"
+	},
+	"chromas": []
+}

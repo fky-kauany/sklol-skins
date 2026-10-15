@@ -1,0 +1,23 @@
+{
+	"id": "blood-moon-twilight-daimyo-tryndamere-chroma",
+	"name": "Blood Moon Twilight Daimyo Tryndamere Chroma",
+	"champion": 23,
+	"base": 0,
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\r\n##\r\n\r\n**Champion**: Tryndamere\r\n\r\n**Modified skin**: Blood Moon\r\n\r\n**Author**: Zamius\r\n\r\n**Mod Version**: 1.0.0\r\n\r\n**Description**: A red-ish chroma for Blood Moon Tryndamere skin.\r\n\r\n##\r\n\r\n**FEATURES**\r\n- Recolored textures and particles\r\n- Supports all champion texture quality settings\r\n- Modified loadingscreen\r\n\r\n**LORE**\r\n\r\n*\"In the hour when crimson flame bleeds into violet dusk, the Twilight Daimyo strides forth. Cloaked in shadowfire and bound by blood-soaked oaths, he rules over the spirits of the veil with unrelenting fury. His blade does not merely sever flesh, but sunders the boundary between the living and the damned, each strike feeding the eternal revel beneath the Blood Moon.\"*\r\n\r\n##\r\n\r\n> *“You never stood a chance. Hahaha!“* -Tryndamere\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/1e38c728-d9ca-4774-9927-4cd72ee72875\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blood-moon-twilight-daimyo-tryndamere-chroma/thumb.webp?v=c0eed087",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-twilight-daimyo-tryndamere-chroma-v1.fantome",
+		"size": 825700,
+		"sha256": "20e35c4afddf4f6aa58c66aefe653ffbd4af9c5f1133218ac066f660ddca4ce5"
+	},
+	"chromas": []
+}

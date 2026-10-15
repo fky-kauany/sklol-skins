@@ -1,0 +1,22 @@
+{
+	"id": "bloodmoon-thresh-texture-adjustment",
+	"name": "Bloodmoon Thresh Texture Adjustment",
+	"champion": 412,
+	"base": 3,
+	"creator": "elpibefixer",
+	"description": "Champion: Thresh\r\n\r\nSkin: BLOOD MOON Thresh\r\n\r\nAuthor:\r\n\r\n* Threshous (Original creator)\r\n\r\nFeatures:\r\n\r\n* Minor adjustment for the BLOOD MOON SKIN\r\n\r\nTHIS MOD ONLY WORKS IF YOU USE THE BLOOD MOON THRESH SKIN\r\n\r\n\r\n## EXTRA INFO\r\n\r\nThis mod was originally made by Threshous around 2018, this it's only a fixed version of the mod by Marbix\n\n---\n\n**Created by** [MarbixFixer](https://runeforge.dev/users/ElPibeFixer)\n\n**Original:** https://runeforge.dev/mods/cab97596-6c63-486c-a307-b18982ad5dee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bloodmoon-thresh-texture-adjustment/thumb.webp?v=353b542d",
+	"file": {
+		"version": 1,
+		"asset": "bloodmoon-thresh-texture-adjustment-v1.fantome",
+		"size": 215743,
+		"sha256": "393187b00f81329e6cf984413eee0379547f8b5de2c94d63dde3f035595f2eaa"
+	},
+	"chromas": []
+}

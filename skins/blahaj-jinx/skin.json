@@ -1,0 +1,25 @@
+{
+	"id": "blahaj-jinx",
+	"name": "Blahäj Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "gloomytree",
+	"description": "Replaces Base Jinx Fishbone with Blahaj and passive SFX.\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/86e3f0fe-7754-4aa2-9f05-6ff2a27154ac\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blahaj-jinx/thumb.webp?v=cc75d4ef",
+	"file": {
+		"version": 1,
+		"asset": "blahaj-jinx-v1.fantome",
+		"size": 8389970,
+		"sha256": "c274666e95d6393646eceabf176a8c6a5ea8237285fc6c3a3cdc6f0faf1a52ec"
+	},
+	"chromas": []
+}

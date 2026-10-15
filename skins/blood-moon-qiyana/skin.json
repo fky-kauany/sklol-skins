@@ -1,0 +1,25 @@
+{
+	"id": "blood-moon-qiyana",
+	"name": "Blood Moon Qiyana",
+	"champion": 246,
+	"base": 0,
+	"creator": "froggles",
+	"description": "#### MOD INFORMATION\n\n* CHAMPION: Qiyana\n* MODIFIED SKIN: Default\n* AUTHOR: Froggles\n* CREDITS: Art by [@fercunhah](https://x.com/fercunhah)\n\n#### FEATURES\n\n* New model & textures\n* Supports all champion quality settings\n* Modified recall particles\n* Modified Loading Splash\n\n---\n\n**Created by** [Froggles](https://runeforge.dev/users/Froggles)\n\n**Original:** https://runeforge.dev/mods/d8468765-14b7-4201-8ba0-31451ac41d7e\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blood-moon-qiyana/thumb.webp?v=846c39cb",
+	"file": {
+		"version": 1,
+		"asset": "blood-moon-qiyana-v1.fantome",
+		"size": 4430893,
+		"sha256": "093b4d55e93234e460fcb1f9dd82b7db548fc3ebe09386901273fa8c76521d9b"
+	},
+	"chromas": []
+}
