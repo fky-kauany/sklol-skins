@@ -1,0 +1,25 @@
+{
+	"id": "wr-crystal-rose-ahri-nighttime",
+	"name": "WR Crystal Rose Ahri Nighttime",
+	"champion": 103,
+	"base": 0,
+	"creator": "raka",
+	"description": "Info:\r\n\r\nChampion : Ahri\r\n\r\nIt can be used for all skins up to this patch has issues with gamba Ahri skin.\r\n\r\nAuthor : Raka\r\n\r\nFeaturing Ahri's Crystal Rose Wild Rift model with custom textures and vfx uses Spirit blossom Ahri animations has 3 forms.\r\n\r\nContact Info:\r\n\r\nYou can contact me through Discord.\r\n\r\nhttps://discord.gg/3pfzzwj2yr My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug or comissionn.\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/3290df62-2d96-4af0-bb54-2bcc61a07364\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-crystal-rose-ahri-nighttime/thumb.webp?v=284eb424",
+	"file": {
+		"version": 1,
+		"asset": "wr-crystal-rose-ahri-nighttime-v1.fantome",
+		"size": 23427315,
+		"sha256": "540fef148bc5335cb4fe50dd67bac1d7623610dfaf6cf5b1ab7e2691ee93f530"
+	},
+	"chromas": []
+}

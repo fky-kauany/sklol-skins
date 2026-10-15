@@ -1,0 +1,22 @@
+{
+	"id": "xerath-without-the-armor",
+	"name": "Xerath Without the Armor",
+	"champion": 101,
+	"base": 1,
+	"creator": "aropatnik",
+	"description": "This goes way too hard considering what it is\n\n## Information\n\n**Modified champion: Xerath**\n\n**Modified skins: Default, Battlecast, Runeborn**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/5213cc83-c847-4cc3-b7bb-c0f9dafd7ec7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/xerath-without-the-armor/thumb.webp?v=db92f090",
+	"file": {
+		"version": 1,
+		"asset": "xerath-without-the-armor-v1.fantome",
+		"size": 83328,
+		"sha256": "6147ce7bd1830dd78a1c3f0a0a1faf82412e0d5dba4034fe3c16b234a3b32974"
+	},
+	"chromas": []
+}

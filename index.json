@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:51:37.524Z",
+	"generatedAt": "2026-10-15T14:54:49.128Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -34224,6 +34224,245 @@
 				"asset": "wr-cryptic-depths-morgana-v1.fantome",
 				"size": 19008501,
 				"sha256": "0e993df8b38d177bdb850c20310fb6f68490bb8872821e21e2f553ed11c784ca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-crystal-rose-ahri-daytime",
+			"name": "WR Crystal Rose Ahri Daytime",
+			"champion": 103,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-crystal-rose-ahri-daytime/thumb.webp?v=52b9fb44",
+			"file": {
+				"version": 1,
+				"asset": "wr-crystal-rose-ahri-daytime-v1.fantome",
+				"size": 23809260,
+				"sha256": "ba6131a8480f454e412d92222a9ad8ef6f35a41a565fdbeee8a910ed58879098"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-crystal-rose-ahri-nighttime",
+			"name": "WR Crystal Rose Ahri Nighttime",
+			"champion": 103,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-crystal-rose-ahri-nighttime/thumb.webp?v=284eb424",
+			"file": {
+				"version": 1,
+				"asset": "wr-crystal-rose-ahri-nighttime-v1.fantome",
+				"size": 23427315,
+				"sha256": "540fef148bc5335cb4fe50dd67bac1d7623610dfaf6cf5b1ab7e2691ee93f530"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-crystal-rose-xayah",
+			"name": "WR Crystal Rose Xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-crystal-rose-xayah/thumb.webp?v=7376eba0",
+			"file": {
+				"version": 1,
+				"asset": "wr-crystal-rose-xayah-v1.fantome",
+				"size": 11961772,
+				"sha256": "8afd81d86710ab0f400db533a2da431973278869297927067cedb58521207d2e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-lovestruck-jinx",
+			"name": "WR LoveStruck Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-lovestruck-jinx/thumb.webp?v=4388d9df",
+			"file": {
+				"version": 1,
+				"asset": "wr-lovestruck-jinx-v1.fantome",
+				"size": 15754515,
+				"sha256": "cef1d7c03cece8b73c34d94a8cb01b0042496820ce1a72cbfb5c1e4638f1b671"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-lovestruck-lux",
+			"name": "WR LoveStruck Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-lovestruck-lux/thumb.webp?v=e62ff0b5",
+			"file": {
+				"version": 1,
+				"asset": "wr-lovestruck-lux-v1.fantome",
+				"size": 6317223,
+				"sha256": "0af3be4d915daf366500374ee3473b26ded969708e09437915c2a15239399f7e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-soda-pop-ahri",
+			"name": "WR Soda Pop Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-soda-pop-ahri/thumb.webp?v=8bc8e3f5",
+			"file": {
+				"version": 1,
+				"asset": "wr-soda-pop-ahri-v1.fantome",
+				"size": 9942243,
+				"sha256": "2f8d9906488aa1d93370b4806714a69ec7bc21bfe71ac783cc7b0a29542b9a65"
+			},
+			"chromas": []
+		},
+		{
+			"id": "wr-zombie-slayer-jinx",
+			"name": "WR Zombie Slayer Jinx",
+			"champion": 222,
+			"base": 3,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/wr-zombie-slayer-jinx/thumb.webp?v=92ac5d39",
+			"file": {
+				"version": 1,
+				"asset": "wr-zombie-slayer-jinx-v1.fantome",
+				"size": 5360429,
+				"sha256": "eb6b48e98f8deb4ad9ad5046f3a6cf29641ca8bfb51f7cf93cdd28fd26cf78f2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "x-men-legends-deadpool-samira",
+			"name": "X men legends deadpool samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/x-men-legends-deadpool-samira/thumb.webp?v=f813429b",
+			"file": {
+				"version": 1,
+				"asset": "x-men-legends-deadpool-samira-v1.fantome",
+				"size": 816365,
+				"sha256": "1bd9a32250a87c15cd02c885de2f45d7eae0fb4c7351578b05f7e6d9c9074458"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xerath-without-the-armor",
+			"name": "Xerath Without the Armor",
+			"champion": 101,
+			"base": 1,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/xerath-without-the-armor/thumb.webp?v=db92f090",
+			"file": {
+				"version": 1,
+				"asset": "xerath-without-the-armor-v1.fantome",
+				"size": 83328,
+				"sha256": "6147ce7bd1830dd78a1c3f0a0a1faf82412e0d5dba4034fe3c16b234a3b32974"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xin-zhao-deathstroke",
+			"name": "Xin Zhao Deathstroke",
+			"champion": 5,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/xin-zhao-deathstroke/thumb.webp?v=977e76f5",
+			"file": {
+				"version": 1,
+				"asset": "xin-zhao-deathstroke-v1.fantome",
+				"size": 12051759,
+				"sha256": "7b2a3923c24109a45c27a48946c03c6d890ced2b0aae9ec7044c1862785b3117"
 			},
 			"chromas": []
 		},

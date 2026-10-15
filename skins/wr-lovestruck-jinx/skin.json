@@ -1,0 +1,24 @@
+{
+	"id": "wr-lovestruck-jinx",
+	"name": "WR LoveStruck Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "raka",
+	"description": "*Info:*\r\nNow has Vfx\r\n***\r\n\r\nChampion : Jinx\r\n\r\nSkin modified : Base\r\n\r\nAuthor : Raka\r\n\r\nFeaturing Jinx's LoveStruck Wild Rift model with custom textures made by hand , took me like 40 hrs on these textures.\r\n\r\nContact Info:\r\n\r\nYou can contact me through Discord(crowlle0916) .\r\n\r\n[https://discord.gg/3pfzzwj2yr](https://discord.gg/3pfzzwj2yr) My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug.\r\n\r\nPlease check the patch version , I have released two patches one replaces base jinx and one replaces heartseeker if jinx texture don't show up it's likely wrong patch.\r\n\r\nFixed the white out abilities new patch is out.&#x20;\r\n\r\nPatch 1.0.4 Replaces all existing jinx skins up to this date 04/03/2025.\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/8d6d6c08-340b-45e3-8cd5-e45609b85365\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-lovestruck-jinx/thumb.webp?v=4388d9df",
+	"file": {
+		"version": 1,
+		"asset": "wr-lovestruck-jinx-v1.fantome",
+		"size": 15754515,
+		"sha256": "cef1d7c03cece8b73c34d94a8cb01b0042496820ce1a72cbfb5c1e4638f1b671"
+	},
+	"chromas": []
+}

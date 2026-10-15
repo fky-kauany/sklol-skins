@@ -1,0 +1,24 @@
+{
+	"id": "wr-crystal-rose-xayah",
+	"name": "WR Crystal Rose Xayah",
+	"champion": 498,
+	"base": 0,
+	"creator": "raka",
+	"description": "Champion : Xayah\r\n\r\nSkin modified : Base\r\n\r\nAuthor : Raka\r\n\r\nFeaturing Xayah's Crystal Rose Wild Rift model with custom textures and vfx.\r\n\r\nContact Info:\r\n\r\nYou can contact me through Discord(crowlle0916) . Thank you to Stiri for the comission! https://discord.gg/3pfzzwj2yr My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug.\r\n\r\nPatch 1.0.0 Replaces all existing Xayah skins up to this date 12/05/2026.\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/6009e704-c2c5-4e2f-8c61-6a7cf13e6518\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-crystal-rose-xayah/thumb.webp?v=7376eba0",
+	"file": {
+		"version": 1,
+		"asset": "wr-crystal-rose-xayah-v1.fantome",
+		"size": 11961772,
+		"sha256": "8afd81d86710ab0f400db533a2da431973278869297927067cedb58521207d2e"
+	},
+	"chromas": []
+}

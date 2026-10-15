@@ -1,0 +1,24 @@
+{
+	"id": "wr-zombie-slayer-jinx",
+	"name": "WR Zombie Slayer Jinx",
+	"champion": 222,
+	"base": 3,
+	"creator": "raka",
+	"description": "*Info:*\n\n***\n\nChampion : Jinx\n\nSkin modified : Zombie Slayer Jinx\n\nAuthor : Raka\n\nFeaturing Jinx's Zombie Slayer Wild Rift model with custom textures.\n\nContact Info:\n\nYou can contact me through Discord , epsecially if the skin has issues (crowlle0916) .\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/0ddd9d00-011e-4dc6-b17d-c1a89d942806\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-zombie-slayer-jinx/thumb.webp?v=92ac5d39",
+	"file": {
+		"version": 1,
+		"asset": "wr-zombie-slayer-jinx-v1.fantome",
+		"size": 5360429,
+		"sha256": "eb6b48e98f8deb4ad9ad5046f3a6cf29641ca8bfb51f7cf93cdd28fd26cf78f2"
+	},
+	"chromas": []
+}

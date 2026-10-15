@@ -1,0 +1,24 @@
+{
+	"id": "wr-lovestruck-lux",
+	"name": "WR LoveStruck Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "raka",
+	"description": "*Info:*\n\n***\n\nChampion : Lux\n\nSkin modified : Base\n\nAuthor : Raka\n\nFeaturing Lux's LoveStruck Wild Rift model with custom textures made by hand , Vfx barrowed from Space Groove and customized by me with the guidance of Finga, uses new animations of Elementalist Lux.\n\nContact Info:\n\nYou can contact me through Discord(crowlle0916) .\n\n[https://discord.gg/3pfzzwj2yr](https://discord.gg/3pfzzwj2yr) My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug.\n\nNew patch 1.0.2 it fixes white out abilities and lets u use the skin on more then just base it replaces all existing lux skins + chroma up to this date 04/03/2025.\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/0aad918c-6f53-4a6d-b882-8122f1062daf\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-lovestruck-lux/thumb.webp?v=e62ff0b5",
+	"file": {
+		"version": 1,
+		"asset": "wr-lovestruck-lux-v1.fantome",
+		"size": 6317223,
+		"sha256": "0af3be4d915daf366500374ee3473b26ded969708e09437915c2a15239399f7e"
+	},
+	"chromas": []
+}

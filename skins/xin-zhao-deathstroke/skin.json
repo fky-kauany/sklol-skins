@@ -1,0 +1,24 @@
+{
+	"id": "xin-zhao-deathstroke",
+	"name": "Xin Zhao Deathstroke",
+	"champion": 5,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Xin Zhao\r\n\r\nModified skin: Default\r\n\r\nAuthor: gabrielpicademel\r\n\r\nIn this mod I used the deathstroke model from batman arkhan city, I changed the effects and vfx \r\n\r\nmy dc gabrielpicademel123\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/2078f871-a3df-46c2-8320-dd9cf1790ddf\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/xin-zhao-deathstroke/thumb.webp?v=977e76f5",
+	"file": {
+		"version": 1,
+		"asset": "xin-zhao-deathstroke-v1.fantome",
+		"size": 12051759,
+		"sha256": "7b2a3923c24109a45c27a48946c03c6d890ced2b0aae9ec7044c1862785b3117"
+	},
+	"chromas": []
+}

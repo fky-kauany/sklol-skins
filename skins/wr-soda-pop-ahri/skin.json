@@ -1,0 +1,24 @@
+{
+	"id": "wr-soda-pop-ahri",
+	"name": "WR Soda Pop Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "raka",
+	"description": "*Info:*\n\n***\n\nChampion : Ahri\n\nSkin modified : Base\n\nAuthor : Raka\n\nFeaturing Ahri's Soda Pop Wild Rift model with custom textures made by hand + vfx uses Star Guardian Ahri animations.\n\nContact Info:\n\nYou can contact me through Discord.\n\n[https://discord.gg/3pfzzwj2yr](https://discord.gg/3pfzzwj2yr) My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug.\n\nReplaces all Ahri skins up to this date 09/04/2025 (this means u can use it on top of any skin released to this date ,  u can use it on top of Star guardian ahri og and it will show up).\n\nThis skin is a commission by Dr.Maxy ,thank you so much for the support!\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/a68a6519-f6b1-4684-b5c2-02950be32756\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/wr-soda-pop-ahri/thumb.webp?v=8bc8e3f5",
+	"file": {
+		"version": 1,
+		"asset": "wr-soda-pop-ahri-v1.fantome",
+		"size": 9942243,
+		"sha256": "2f8d9906488aa1d93370b4806714a69ec7bc21bfe71ac783cc7b0a29542b9a65"
+	},
+	"chromas": []
+}
