@@ -1,0 +1,25 @@
+{
+	"id": "better-tango-evelynn",
+	"name": "Better Tango Evelynn",
+	"champion": 28,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Tango Evelynn. You must own the skin and choose it in champ select.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Tango Evelynn\r\n\r\n**Affects**: VFX colors\r\n\r\nMakes all particle colors red to match the skin.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/e994669d-2f67-4ffe-a0ba-881e974a17fa\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/better-tango-evelynn/thumb.webp?v=e096aa6b",
+	"file": {
+		"version": 1,
+		"asset": "better-tango-evelynn-v1.fantome",
+		"size": 7254637,
+		"sha256": "f1d145e83b1a5fd28f0b99e18f03b5084ffd90cc4b6ce4f61f7bdcbd673df841"
+	},
+	"chromas": []
+}

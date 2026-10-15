@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:50:15.698Z",
+	"generatedAt": "2026-10-15T07:51:05.131Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -312,6 +312,13 @@
 			"name": "etherroot_",
 			"avatar": "creators/etherroot.webp?v=01f937dc",
 			"links": {}
+		},
+		"eto": {
+			"name": "eto",
+			"avatar": "creators/eto.jpg?v=dbbf3e98",
+			"links": {
+				"youtube": "https://youtu.be/VT5gR_etr-o"
+			}
 		},
 		"fitz-gh": {
 			"name": "fitz_gh",
@@ -1757,6 +1764,54 @@
 			"chromas": []
 		},
 		{
+			"id": "ambessa-zed",
+			"name": "Ambessa (Zed)",
+			"champion": 238,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ambessa-zed/thumb.webp?v=c16abfbb",
+			"file": {
+				"version": 1,
+				"asset": "ambessa-zed-v1.fantome",
+				"size": 1998802,
+				"sha256": "31081a101a9181bb73fed5c6fd5fd7316cb0acdaae42d359533fd8b377a85d55"
+			},
+			"chromas": []
+		},
+		{
+			"id": "amumu-as-sackboy",
+			"name": "AMUMU AS SACKBOY",
+			"champion": 32,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/amumu-as-sackboy/thumb.webp?v=272e7f70",
+			"file": {
+				"version": 1,
+				"asset": "amumu-as-sackboy-v1.fantome",
+				"size": 587900,
+				"sha256": "10d7492867af2c3bc7b077d98e2f73a2431afbd671961583ed32cd5335846669"
+			},
+			"chromas": []
+		},
+		{
 			"id": "aristocrat-vayne-gold-bolts",
 			"name": "Aristocrat Vayne - Gold Bolts",
 			"champion": 67,
@@ -1874,6 +1929,54 @@
 				"asset": "better-safecracker-evelynn-v1.fantome",
 				"size": 7396383,
 				"sha256": "2e16ccb7ad04b24c4351a977dbe106da21bd9e98afd560959d79cabc5fa3cfdb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "better-tango-evelynn",
+			"name": "Better Tango Evelynn",
+			"champion": 28,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/better-tango-evelynn/thumb.webp?v=e096aa6b",
+			"file": {
+				"version": 1,
+				"asset": "better-tango-evelynn-v1.fantome",
+				"size": 7254637,
+				"sha256": "f1d145e83b1a5fd28f0b99e18f03b5084ffd90cc4b6ce4f61f7bdcbd673df841"
+			},
+			"chromas": []
+		},
+		{
+			"id": "black-and-white-chroma-for-blood-moon-aatrox",
+			"name": "black and white chroma for blood moon aatrox",
+			"champion": 266,
+			"base": 7,
+			"creator": "eto",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/black-and-white-chroma-for-blood-moon-aatrox/thumb.webp?v=fe7292ab",
+			"file": {
+				"version": 1,
+				"asset": "black-and-white-chroma-for-blood-moon-aatrox-v1.fantome",
+				"size": 1573388,
+				"sha256": "8a2c7153fd2a44a2682994c7289a065d54df6884ce2afe048178d3c97c4d249f"
 			},
 			"chromas": []
 		},

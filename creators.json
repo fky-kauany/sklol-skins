@@ -310,6 +310,13 @@
 		"avatar": "creators/etherroot.webp?v=01f937dc",
 		"links": {}
 	},
+	"eto": {
+		"name": "eto",
+		"avatar": "creators/eto.jpg?v=dbbf3e98",
+		"links": {
+			"youtube": "https://youtu.be/VT5gR_etr-o"
+		}
+	},
 	"fitz-gh": {
 		"name": "fitz_gh",
 		"avatar": "creators/fitz-gh.png?v=518a071e",

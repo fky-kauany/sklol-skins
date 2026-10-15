@@ -1,0 +1,24 @@
+{
+	"id": "amumu-as-sackboy",
+	"name": "AMUMU AS SACKBOY",
+	"champion": 32,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "We all got bored of amumu being this sad emo mummy, NOW thanks to the power of 3d modeling he is now the jolly sackboy we all know and love\r\n\r\nWhat changed?\r\n\r\nModel\r\nTextures\r\nVFX\r\nSFX\r\nHud\n\n---\n\n**Created by** [ceerel](https://runeforge.dev/users/ceerel)\n\n**Original:** https://runeforge.dev/mods/6bd7f212-9dce-49e8-a41b-377a9d606660\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/amumu-as-sackboy/thumb.webp?v=272e7f70",
+	"file": {
+		"version": 1,
+		"asset": "amumu-as-sackboy-v1.fantome",
+		"size": 587900,
+		"sha256": "10d7492867af2c3bc7b077d98e2f73a2431afbd671961583ed32cd5335846669"
+	},
+	"chromas": []
+}
