@@ -1,0 +1,25 @@
+{
+	"id": "headhunter-ambessa",
+	"name": "Headhunter Ambessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Ambessa\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Headhunter Ambessa\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* &#x20;VFX and SFX changes\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/63fb6a5c-851d-4807-829a-080d17430764\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/headhunter-ambessa/thumb.webp?v=cbd11636",
+	"file": {
+		"version": 1,
+		"asset": "headhunter-ambessa-v1.fantome",
+		"size": 7122971,
+		"sha256": "0842e435cdbb5d08de6e9ed037c970ded449b07e6cf2d906afcef840c1df3ad1"
+	},
+	"chromas": []
+}

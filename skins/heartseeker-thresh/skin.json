@@ -1,0 +1,24 @@
+{
+	"id": "heartseeker-thresh",
+	"name": "HeartSeeker Thresh",
+	"champion": 412,
+	"base": 0,
+	"creator": "elpibefixer",
+	"description": "Champion: Thresh\r\n\r\nSkin: Default\r\n\r\nAuthor:\r\n\r\n* Threshous (Original creator)\r\n\r\nFeatures:\r\n\r\n* New model and texture\r\n* New loadscreen and hud icon of the champion\r\n* New particles\r\n\r\n\r\n## EXTRA INFO\r\n\r\nThis mod was originally made by Threshous, this it's only a fixed version of the mod by Marbix\n\n---\n\n**Created by** [MarbixFixer](https://runeforge.dev/users/ElPibeFixer)\n\n**Original:** https://runeforge.dev/mods/644a0df0-c463-4fa1-a0e5-7f0c25c6ae69\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heartseeker-thresh/thumb.webp?v=30008bdd",
+	"file": {
+		"version": 1,
+		"asset": "heartseeker-thresh-v1.fantome",
+		"size": 3210891,
+		"sha256": "6412136b841561738ea66011dbc1d5d2b41b27f826fb879ba544dabfa5669896"
+	},
+	"chromas": []
+}

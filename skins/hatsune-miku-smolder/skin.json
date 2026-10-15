@@ -1,0 +1,24 @@
+{
+	"id": "hatsune-miku-smolder",
+	"name": "Hatsune Miku Smolder",
+	"champion": 901,
+	"base": 0,
+	"creator": "nate",
+	"description": "### SKIN INFORMATION\n\nChampion: Smolder\n\nModified skin: Base\n\nAuthor: Nate\n\nVersion: 1.2.1\n\nDescription: Turns Smolder's base skin into Hatsune Miku (Kinda).\nChanges textures, model, vfx, and icons.\n\nIf something is broken you can send me a message on discord (nate7688)\n\nAttributions:\n\n[Hatsune Miku Hair](https://skfb.ly/pxGyt) by [Ace-Jane](https://sketchfab.com/LGBT_DOESN-T_KILL) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Modified hair position.\n\n---\n\n**Created by** [Nate](https://runeforge.dev/users/Nate)\n\n**Original:** https://runeforge.dev/mods/6626b371-24fb-4cb3-b558-8ec7f04eddb0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hatsune-miku-smolder/thumb.webp?v=0c60031e",
+	"file": {
+		"version": 1,
+		"asset": "hatsune-miku-smolder-v1.fantome",
+		"size": 1245954,
+		"sha256": "a1be7fb963a55b6fc5fdde4f163a31f50c10571fbf2fba41140b0930b88c298b"
+	},
+	"chromas": []
+}

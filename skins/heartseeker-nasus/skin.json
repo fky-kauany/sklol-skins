@@ -1,0 +1,23 @@
+{
+	"id": "heartseeker-nasus",
+	"name": "HeartSeeker Nasus",
+	"champion": 75,
+	"base": 0,
+	"creator": "elpibefixer",
+	"description": "Champion: Nasus\r\n\r\nSkin: Default\r\n\r\nAuthor:\r\n\r\n* Threshous (Original creator)\r\n\r\nFeatures:\r\n\r\n* New model and texture\r\n* New loadscreen and hud icon of the champion\r\n\r\n\r\n## EXTRA INFO\r\n\r\nThis mod was originally made by Threshous around 2018, this it's only a fixed version of the mod by Marbix\n\n---\n\n**Created by** [MarbixFixer](https://runeforge.dev/users/ElPibeFixer)\n\n**Original:** https://runeforge.dev/mods/42e9651a-4003-4b68-b813-29e2240952fd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heartseeker-nasus/thumb.webp?v=b2b5246d",
+	"file": {
+		"version": 1,
+		"asset": "heartseeker-nasus-v1.fantome",
+		"size": 1236038,
+		"sha256": "3a6646627c57af4c65a8e827fdb5919a0b2867c3b27544180480cf6096b8943f"
+	},
+	"chromas": []
+}

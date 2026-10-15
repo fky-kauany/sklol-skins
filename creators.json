@@ -839,6 +839,11 @@
 		"avatar": "creators/livinginteligente.jpg?v=cd5ee8a4",
 		"links": {}
 	},
+	"lkss": {
+		"name": "lkss",
+		"avatar": "creators/lkss.jpg?v=202b5e0d",
+		"links": {}
+	},
 	"lordksop": {
 		"name": "LordksOP",
 		"avatar": "creators/lordksop.jpg?v=730bb0f2",
@@ -942,6 +947,13 @@
 	"naa1ml3ss": {
 		"name": "naa1ml3ss",
 		"links": {}
+	},
+	"nate": {
+		"name": "Nate",
+		"avatar": "creators/nate.jpg?v=b795b985",
+		"links": {
+			"site": "https://skfb.ly/pxGyt"
+		}
 	},
 	"neoritch": {
 		"name": "neoritch",

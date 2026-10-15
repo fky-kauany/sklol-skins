@@ -1,0 +1,23 @@
+{
+	"id": "heartsteel-death-kayn-chroma",
+	"name": "HEARTSTEEL DEATH Kayn Chroma",
+	"champion": 141,
+	"base": 0,
+	"creator": "lkss",
+	"description": "IMPORTANT: Always use updated released versions. Any issue or question contact me on discord\r\n\r\nChampion: Kayn\r\n\r\nRequired Skin: HEARTSTEEL Kayn (Only works on default chroma Kayn HEARTSTEEL Skin)\r\n\r\nDiscord: lksswq\n\n---\n\n**Created by** [lkss](https://runeforge.dev/users/lkss)\n\n**Original:** https://runeforge.dev/mods/ab5ebef0-b545-4659-83ae-13e3f7561bc9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heartsteel-death-kayn-chroma/thumb.webp?v=410ee898",
+	"file": {
+		"version": 1,
+		"asset": "heartsteel-death-kayn-chroma-v1.fantome",
+		"size": 5519216,
+		"sha256": "45fc76c1d5c1fd342a27571ac67303d8fb1f72f77eae55cdf3d45cda938afcb5"
+	},
+	"chromas": []
+}

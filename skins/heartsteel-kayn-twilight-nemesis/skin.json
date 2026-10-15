@@ -1,0 +1,23 @@
+{
+	"id": "heartsteel-kayn-twilight-nemesis",
+	"name": "HEARTSTEEL Kayn Twilight Nemesis",
+	"champion": 141,
+	"base": 0,
+	"creator": "lkss",
+	"description": "Kayn HEARTSTEEL Twilight Nemesis\n\nIMPORTANT: Always use updated released versions. Any issue or question contact me on discord\n\nChampion: Kayn\n\nRequired Skin: HEARTSTEEL Kayn (Only works on default chroma Kayn HEARTSTEEL Skin)\n\nDiscord: lksswq\n\nCredits to Tezzed, leaguelab this is my version to this chroma\n\n---\n\n**Created by** [lkss](https://runeforge.dev/users/lkss)\n\n**Original:** https://runeforge.dev/mods/84895b75-c3d5-47bc-9ad0-17cabbf870b8\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heartsteel-kayn-twilight-nemesis/thumb.webp?v=85345050",
+	"file": {
+		"version": 1,
+		"asset": "heartsteel-kayn-twilight-nemesis-v1.fantome",
+		"size": 3560832,
+		"sha256": "95e018e0098cfa7ea7bc25fc490f69cab471d4860fda303715dbd1faf742d33b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "headhunter-katarina",
+	"name": "Headhunter Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Katarina\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.4\n\n###### Description: Headhunter Katarina\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1buGhGmZH1o1eZa8VPKNluDzMdkocondZ?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/5f7eed91-7791-4490-ba63-fde55c724934\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/headhunter-katarina/thumb.webp?v=98166195",
+	"file": {
+		"version": 1,
+		"asset": "headhunter-katarina-v1.fantome",
+		"size": 11270048,
+		"sha256": "f7fe1f59ca88886a46b27ae65cb07dd4000954a42121bb0b3c365509f66477de"
+	},
+	"chromas": []
+}

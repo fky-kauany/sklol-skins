@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:53:19.511Z",
+	"generatedAt": "2026-10-15T09:56:21.447Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -842,6 +842,11 @@
 			"avatar": "creators/livinginteligente.jpg?v=cd5ee8a4",
 			"links": {}
 		},
+		"lkss": {
+			"name": "lkss",
+			"avatar": "creators/lkss.jpg?v=202b5e0d",
+			"links": {}
+		},
 		"lordksop": {
 			"name": "LordksOP",
 			"avatar": "creators/lordksop.jpg?v=730bb0f2",
@@ -945,6 +950,13 @@
 		"naa1ml3ss": {
 			"name": "naa1ml3ss",
 			"links": {}
+		},
+		"nate": {
+			"name": "Nate",
+			"avatar": "creators/nate.jpg?v=b795b985",
+			"links": {
+				"site": "https://skfb.ly/pxGyt"
+			}
 		},
 		"neoritch": {
 			"name": "neoritch",
@@ -12458,6 +12470,247 @@
 				"asset": "harpy-queen-gwen-v1.fantome",
 				"size": 25269406,
 				"sha256": "ce37b58d54aed65da4cc54de2396ea1305c99908a794e53a3302c42fccce0237"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hatsune-miku-smolder",
+			"name": "Hatsune Miku Smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "nate",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hatsune-miku-smolder/thumb.webp?v=0c60031e",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-smolder-v1.fantome",
+				"size": 1245954,
+				"sha256": "a1be7fb963a55b6fc5fdde4f163a31f50c10571fbf2fba41140b0930b88c298b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "headhunter-ambessa",
+			"name": "Headhunter Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/headhunter-ambessa/thumb.webp?v=cbd11636",
+			"file": {
+				"version": 1,
+				"asset": "headhunter-ambessa-v1.fantome",
+				"size": 7122971,
+				"sha256": "0842e435cdbb5d08de6e9ed037c970ded449b07e6cf2d906afcef840c1df3ad1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "headhunter-katarina",
+			"name": "Headhunter Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/headhunter-katarina/thumb.webp?v=98166195",
+			"file": {
+				"version": 1,
+				"asset": "headhunter-katarina-v1.fantome",
+				"size": 11270048,
+				"sha256": "f7fe1f59ca88886a46b27ae65cb07dd4000954a42121bb0b3c365509f66477de"
+			},
+			"chromas": []
+		},
+		{
+			"id": "health-pipe-soraka",
+			"name": "health pipe soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/health-pipe-soraka/thumb.webp?v=6c7f435c",
+			"file": {
+				"version": 1,
+				"asset": "health-pipe-soraka-v1.fantome",
+				"size": 188793,
+				"sha256": "cd4694734f01f9850180462f4c61c2cebf0401e3310751c1313d115b7c2b3283"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heartseeker-jhin",
+			"name": "Heartseeker Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heartseeker-jhin/thumb.webp?v=ed0157d1",
+			"file": {
+				"version": 1,
+				"asset": "heartseeker-jhin-v1.fantome",
+				"size": 9257273,
+				"sha256": "5f5f074a8f1ba6a4b37a7284eec26422773221df1be24f427bde8fef7fd7f721"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heartseeker-nasus",
+			"name": "HeartSeeker Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "elpibefixer",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heartseeker-nasus/thumb.webp?v=b2b5246d",
+			"file": {
+				"version": 1,
+				"asset": "heartseeker-nasus-v1.fantome",
+				"size": 1236038,
+				"sha256": "3a6646627c57af4c65a8e827fdb5919a0b2867c3b27544180480cf6096b8943f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heartseeker-nidalee",
+			"name": "Heartseeker Nidalee",
+			"champion": 76,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heartseeker-nidalee/thumb.webp?v=9055dfba",
+			"file": {
+				"version": 1,
+				"asset": "heartseeker-nidalee-v1.fantome",
+				"size": 9742683,
+				"sha256": "75e06f1f29595bed81028a47c49ef7dbcf063ac6e20b884ce7c54f0189525026"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heartseeker-thresh",
+			"name": "HeartSeeker Thresh",
+			"champion": 412,
+			"base": 0,
+			"creator": "elpibefixer",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heartseeker-thresh/thumb.webp?v=30008bdd",
+			"file": {
+				"version": 1,
+				"asset": "heartseeker-thresh-v1.fantome",
+				"size": 3210891,
+				"sha256": "6412136b841561738ea66011dbc1d5d2b41b27f826fb879ba544dabfa5669896"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heartsteel-death-kayn-chroma",
+			"name": "HEARTSTEEL DEATH Kayn Chroma",
+			"champion": 141,
+			"base": 0,
+			"creator": "lkss",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heartsteel-death-kayn-chroma/thumb.webp?v=410ee898",
+			"file": {
+				"version": 1,
+				"asset": "heartsteel-death-kayn-chroma-v1.fantome",
+				"size": 5519216,
+				"sha256": "45fc76c1d5c1fd342a27571ac67303d8fb1f72f77eae55cdf3d45cda938afcb5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "heartsteel-kayn-twilight-nemesis",
+			"name": "HEARTSTEEL Kayn Twilight Nemesis",
+			"champion": 141,
+			"base": 0,
+			"creator": "lkss",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/heartsteel-kayn-twilight-nemesis/thumb.webp?v=85345050",
+			"file": {
+				"version": 1,
+				"asset": "heartsteel-kayn-twilight-nemesis-v1.fantome",
+				"size": 3560832,
+				"sha256": "95e018e0098cfa7ea7bc25fc490f69cab471d4860fda303715dbd1faf742d33b"
 			},
 			"chromas": []
 		},

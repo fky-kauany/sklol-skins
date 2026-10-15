@@ -1,0 +1,25 @@
+{
+	"id": "heartseeker-jhin",
+	"name": "Heartseeker Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "yoruqueenofnight",
+	"description": "* Champion: Jhin\n* Skin: Default\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game icon\n* Modified VFX\n\n## Credits\n\n* Splashart and texturework by Damonix\n* Model parts from Elsu \"Jazz Lovers\" (Arena of Valor), Ripped by [KittyInHiding](https://www.deviantart.com/kittyinhiding)\n\n## Completely optional: if you enjoy my work you can...\n\n[**Support me on Ko-Fi**](https://ko-fi.com/yoruqueenofnight) **or** [Become a Patreon](https://www.patreon.com/c/user?u=63840897)\n\n---\n\n**Created by** [YoruQueenOfNight](https://runeforge.dev/users/YoruQueenOfNight)\n\n**Original:** https://runeforge.dev/mods/66ffb143-4a73-4658-a41c-357b3b6dc6a9\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/heartseeker-jhin/thumb.webp?v=ed0157d1",
+	"file": {
+		"version": 1,
+		"asset": "heartseeker-jhin-v1.fantome",
+		"size": 9257273,
+		"sha256": "5f5f074a8f1ba6a4b37a7284eec26422773221df1be24f427bde8fef7fd7f721"
+	},
+	"chromas": []
+}
