@@ -1,0 +1,23 @@
+{
+	"id": "twisted-fate-twisted-yuumi",
+	"name": "Twisted Yuumi",
+	"champion": 4,
+	"base": 3,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Twisted Fate**\n\n**Modified skin: Default and The Magnificent**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/28dbb3c1-d9ad-481a-9856-8282626622b0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/twisted-fate-twisted-yuumi/thumb.webp?v=77eae746",
+	"file": {
+		"version": 1,
+		"asset": "twisted-fate-twisted-yuumi-v1.fantome",
+		"size": 270390,
+		"sha256": "dd5d8836246f1e58d312b1890de7589c7713ffb9cf2a4ee509d1d2e037b2dded"
+	},
+	"chromas": []
+}

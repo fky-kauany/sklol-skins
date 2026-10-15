@@ -1,0 +1,23 @@
+{
+	"id": "twitch-televizor",
+	"name": "Twitch Televizor",
+	"champion": 29,
+	"base": 0,
+	"creator": "cam",
+	"description": "twitch televizor\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/dbb08b23-7525-42c3-b02a-9954b09a5f54\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/twitch-televizor/thumb.webp?v=ebd4db9a",
+	"file": {
+		"version": 1,
+		"asset": "twitch-televizor-v1.fantome",
+		"size": 1688692,
+		"sha256": "ebe11ab8494b6b27310ba2decb653f3b0895a0a1c6b1c360e089cf6c3c68a0c7"
+	},
+	"chromas": []
+}

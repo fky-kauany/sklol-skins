@@ -1,0 +1,23 @@
+{
+	"id": "unbound-yasuo",
+	"name": "Unbound Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "sweetspot",
+	"description": "the cape is a little rough on the edges try not paying much attention to it.\r\nworks only on base yasuo\r\n\r\n                                         any problems contact undr_wtr on discord\n\n---\n\n**Created by** [sweetspot](https://runeforge.dev/users/sweetspot)\n\n**Original:** https://runeforge.dev/mods/02dcaef9-97bb-4cd3-bfb1-56c62a66b87b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/unbound-yasuo/thumb.webp?v=6ef33be7",
+	"file": {
+		"version": 1,
+		"asset": "unbound-yasuo-v1.fantome",
+		"size": 2603419,
+		"sha256": "023d7d6f645c0c73f422fa98277a70bf6d6883858101f93bb7b7d8fe936acec8"
+	},
+	"chromas": []
+}

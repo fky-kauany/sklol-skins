@@ -1,0 +1,24 @@
+{
+	"id": "uchiha-madara-darius",
+	"name": "Uchiha Madara Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Darius\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nIn this mod I used the madara model from jump force, I changed the effects and vfx \n\nmy dc gabrielpicademel123\n\n\"Uma lenda se destaca!!, no campo de batalha\"\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/eeadc67b-7996-4eef-928b-a66ebe2291d0\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/uchiha-madara-darius/thumb.webp?v=7eb936ad",
+	"file": {
+		"version": 1,
+		"asset": "uchiha-madara-darius-v1.fantome",
+		"size": 14817634,
+		"sha256": "b47f7c6f3f34fffb8d0f24de2cc58f0f0ec0c64b76ec2fa8c5804e5b1c71f8b7"
+	},
+	"chromas": []
+}

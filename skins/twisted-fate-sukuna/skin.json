@@ -1,0 +1,26 @@
+{
+	"id": "twisted-fate-sukuna",
+	"name": "Twisted Fate Sukuna",
+	"champion": 4,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "# 「 RYOMEN SUKUNA 」\r\n### *Replaces Twisted Fate*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n\r\n**Custom Voice Lines**\r\n\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/dcbc3d92-b745-433c-abe3-3b3d820f8e30\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/twisted-fate-sukuna/thumb.webp?v=0a317a1e",
+	"file": {
+		"version": 1,
+		"asset": "twisted-fate-sukuna-v1.fantome",
+		"size": 9259328,
+		"sha256": "0ce2c666500e35ae076e33bfae371f20e362fd76b30eeaaa541069e227abe291"
+	},
+	"chromas": []
+}

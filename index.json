@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:26:42.682Z",
+	"generatedAt": "2026-10-15T14:32:20.628Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -376,6 +376,11 @@
 		"comasquash": {
 			"name": "ComaSquash",
 			"avatar": "creators/comasquash.png?v=7903d54b",
+			"links": {}
+		},
+		"crauzer": {
+			"name": "Crauzer",
+			"avatar": "creators/crauzer.jpg?v=830a49f8",
 			"links": {}
 		},
 		"cz": {
@@ -32455,6 +32460,127 @@
 			"chromas": []
 		},
 		{
+			"id": "twilight-mistress-elise",
+			"name": "Twilight Mistress Elise",
+			"champion": 60,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/twilight-mistress-elise/thumb.webp?v=0241adde",
+			"file": {
+				"version": 1,
+				"asset": "twilight-mistress-elise-v1.fantome",
+				"size": 14994630,
+				"sha256": "e9edc9311b309aea77aed9272d25797b34e5c2c09d09543ce17d14e751128c2f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twisted-fate-dicehead-megabonk",
+			"name": "Dicehead (Megabonk)",
+			"champion": 4,
+			"base": 0,
+			"creator": "crauzer",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/twisted-fate-dicehead-megabonk/thumb.webp?v=a6a208a7",
+			"file": {
+				"version": 1,
+				"asset": "twisted-fate-dicehead-megabonk-v1.fantome",
+				"size": 52063,
+				"sha256": "d64f412c08390fa9970850ca4aede546ac41e36a5c64f5e6286c296c1f3258c6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twisted-fate-sukuna",
+			"name": "Twisted Fate Sukuna",
+			"champion": 4,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/twisted-fate-sukuna/thumb.webp?v=0a317a1e",
+			"file": {
+				"version": 1,
+				"asset": "twisted-fate-sukuna-v1.fantome",
+				"size": 9259328,
+				"sha256": "0ce2c666500e35ae076e33bfae371f20e362fd76b30eeaaa541069e227abe291"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twisted-fate-twisted-yuumi",
+			"name": "Twisted Yuumi",
+			"champion": 4,
+			"base": 3,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/twisted-fate-twisted-yuumi/thumb.webp?v=77eae746",
+			"file": {
+				"version": 1,
+				"asset": "twisted-fate-twisted-yuumi-v1.fantome",
+				"size": 270390,
+				"sha256": "dd5d8836246f1e58d312b1890de7589c7713ffb9cf2a4ee509d1d2e037b2dded"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twitch-televizor",
+			"name": "Twitch Televizor",
+			"champion": 29,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/twitch-televizor/thumb.webp?v=ebd4db9a",
+			"file": {
+				"version": 1,
+				"asset": "twitch-televizor-v1.fantome",
+				"size": 1688692,
+				"sha256": "ebe11ab8494b6b27310ba2decb653f3b0895a0a1c6b1c360e089cf6c3c68a0c7"
+			},
+			"chromas": []
+		},
+		{
 			"id": "twitch-tft-set",
 			"name": "Twitch TFT Set",
 			"champion": 29,
@@ -32473,6 +32599,126 @@
 				"asset": "twitch-tft-set-v1.fantome",
 				"size": 408504,
 				"sha256": "399b925dd4ad8c58bc52428086e3b908b62cd716eab5c69e9e02c60562548f5b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "uchiha-madara-darius",
+			"name": "Uchiha Madara Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/uchiha-madara-darius/thumb.webp?v=7eb936ad",
+			"file": {
+				"version": 1,
+				"asset": "uchiha-madara-darius-v1.fantome",
+				"size": 14817634,
+				"sha256": "b47f7c6f3f34fffb8d0f24de2cc58f0f0ec0c64b76ec2fa8c5804e5b1c71f8b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ulquiorra-cifer-yasuo",
+			"name": "Ulquiorra Cifer Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ulquiorra-cifer-yasuo/thumb.webp?v=04253ee8",
+			"file": {
+				"version": 1,
+				"asset": "ulquiorra-cifer-yasuo-v1.fantome",
+				"size": 27615985,
+				"sha256": "31934c4a68030c3ec51aa54cfaf242dfeca611673ce5f3c44f774eb9e277b434"
+			},
+			"chromas": []
+		},
+		{
+			"id": "unbound-god-fist-lee-sin-sett",
+			"name": "Unbound God Fist Lee Sin - Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/unbound-god-fist-lee-sin-sett/thumb.webp?v=d46806be",
+			"file": {
+				"version": 1,
+				"asset": "unbound-god-fist-lee-sin-sett-v1.fantome",
+				"size": 16598453,
+				"sha256": "bc4539e1bb0292b588522d7478b22f8f8e02a1c27208bccbb3ba0b19dcb454ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "unbound-yasuo",
+			"name": "Unbound Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "sweetspot",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/unbound-yasuo/thumb.webp?v=6ef33be7",
+			"file": {
+				"version": 1,
+				"asset": "unbound-yasuo-v1.fantome",
+				"size": 2603419,
+				"sha256": "023d7d6f645c0c73f422fa98277a70bf6d6883858101f93bb7b7d8fe936acec8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "undead-jhin",
+			"name": "undead jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/undead-jhin/thumb.webp?v=c5b3b0b9",
+			"file": {
+				"version": 1,
+				"asset": "undead-jhin-v1.fantome",
+				"size": 1336621,
+				"sha256": "84f58d46c856622da9b82a635b5e1d23e6b6531fc8a019f9489d9a2216f96001"
 			},
 			"chromas": []
 		},

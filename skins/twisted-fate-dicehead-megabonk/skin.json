@@ -1,0 +1,23 @@
+{
+	"id": "twisted-fate-dicehead-megabonk",
+	"name": "Dicehead (Megabonk)",
+	"champion": 4,
+	"base": 0,
+	"creator": "crauzer",
+	"description": "Play as Dicehead from Megabonk instead of Twisted Fate.\r\n\r\n### Features\r\n- Dicehead model\n\n---\n\n**Created by** [Crauzer](https://runeforge.dev/users/crauzer)\n\n**Original:** https://runeforge.dev/mods/7c7c5d2f-d3ae-4dce-b5f0-88aa24aca5e6\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/twisted-fate-dicehead-megabonk/thumb.webp?v=a6a208a7",
+	"file": {
+		"version": 1,
+		"asset": "twisted-fate-dicehead-megabonk-v1.fantome",
+		"size": 52063,
+		"sha256": "d64f412c08390fa9970850ca4aede546ac41e36a5c64f5e6286c296c1f3258c6"
+	},
+	"chromas": []
+}

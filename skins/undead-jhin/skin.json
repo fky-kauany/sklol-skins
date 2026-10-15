@@ -1,0 +1,23 @@
+{
+	"id": "undead-jhin",
+	"name": "undead jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "###### *\"i walk the earth once more!\"*\n\n***\n\n**Modified champion: Jhin**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game:** Blood west\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/dfbdd970-cdd4-4cf0-84db-e482048c5eb2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/undead-jhin/thumb.webp?v=c5b3b0b9",
+	"file": {
+		"version": 1,
+		"asset": "undead-jhin-v1.fantome",
+		"size": 1336621,
+		"sha256": "84f58d46c856622da9b82a635b5e1d23e6b6531fc8a019f9489d9a2216f96001"
+	},
+	"chromas": []
+}

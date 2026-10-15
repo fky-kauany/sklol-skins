@@ -1,0 +1,25 @@
+{
+	"id": "unbound-god-fist-lee-sin-sett",
+	"name": "Unbound God Fist Lee Sin - Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Unbound God Fist Lee Sin mod for Spirit Blossom Sett skin. (This is also a mod variation of my God Fist Sett mod)\r\n\r\n- Replaces Ability & Champion Icons (Disable other Sett mods that has this modification to prevent issues)\r\n\r\n\r\nDiviértete.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/0c7442fb-f576-46c1-91b2-984ce50a6159\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/unbound-god-fist-lee-sin-sett/thumb.webp?v=d46806be",
+	"file": {
+		"version": 1,
+		"asset": "unbound-god-fist-lee-sin-sett-v1.fantome",
+		"size": 16598453,
+		"sha256": "bc4539e1bb0292b588522d7478b22f8f8e02a1c27208bccbb3ba0b19dcb454ba"
+	},
+	"chromas": []
+}
