@@ -1,0 +1,23 @@
+{
+	"id": "harpy-fighter-gwen",
+	"name": "Harpy Fighter Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "harpyqueen",
+	"description": "Information\n\n* Champion: Gwen\n* Modified Skin: Soul Fighter Gwen\n* Author: HapiKuin\n* Version: 1.0\n\n***\n\nFeatures\n\n* New Model\n* New Loading screen\n* New HUD\n* Supports all graphic textures\n* ALL CHROMAS\n\n---\n\n**Created by** [HarpyQueen](https://runeforge.dev/users/HarpyQueen)\n\n**Original:** https://runeforge.dev/mods/8e7268da-299f-49f4-bc09-f18f68a7c491\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/harpy-fighter-gwen/thumb.webp?v=94ba7696",
+	"file": {
+		"version": 1,
+		"asset": "harpy-fighter-gwen-v1.fantome",
+		"size": 25005529,
+		"sha256": "47bddfea740400b9eef9139ba6a51de24dd311152b264e5eecfc42751c482031"
+	},
+	"chromas": []
+}

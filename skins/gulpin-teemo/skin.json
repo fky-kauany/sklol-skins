@@ -1,0 +1,26 @@
+{
+	"id": "gulpin-teemo",
+	"name": "Gulpin Teemo",
+	"champion": 17,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "A remake of a previous mine that broke thanks to the Teemo ASU. Thanks to the BTD6 mods I have learned how to do simple animations so this time Mr Gulpin isn't just a blob bound to the root joint.\n\n## Information\n\n**Modified champion: Teemo**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* **New model**\n* **New animations**\n* **New loadingscreen art**\n* **New champion circle**\n* **Supports all texture qualities**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/52d9d2bc-d5bb-4129-8fb4-d009183d0c0c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gulpin-teemo/thumb.webp?v=d8965556",
+	"file": {
+		"version": 1,
+		"asset": "gulpin-teemo-v1.fantome",
+		"size": 2861252,
+		"sha256": "9ac15085753600b91330d4439eb88a6b1ac27b558ada2f35c4c4e6a98e1ea77c"
+	},
+	"chromas": []
+}

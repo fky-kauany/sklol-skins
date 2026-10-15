@@ -1,0 +1,23 @@
+{
+	"id": "gutsman-alistar",
+	"name": "Gutsman alistar",
+	"champion": 12,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"dr.wily will be proud\"\n\n***\n\n**Modified champion: Graves**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model made by:** [Shivers](https://www.models-resource.com/custom_edited/megamancustoms/model/31648/?source=genre)\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/b5f3307e-c158-4c99-be05-ddaacdd01a6b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gutsman-alistar/thumb.webp?v=55ac8cfd",
+	"file": {
+		"version": 1,
+		"asset": "gutsman-alistar-v1.fantome",
+		"size": 890259,
+		"sha256": "d7feab12b620bd3c0e11f67d38c511192c02a2f86a910870751889b2dffd1b81"
+	},
+	"chromas": []
+}

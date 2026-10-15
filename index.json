@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:50:15.648Z",
+	"generatedAt": "2026-10-15T09:53:19.511Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1544,6 +1544,13 @@
 			"bio": "https://www.twitch.tv/yliimh",
 			"links": {
 				"twitch": "https://www.twitch.tv/yliimh"
+			}
+		},
+		"yogau": {
+			"name": "Yogau",
+			"avatar": "creators/yogau.png?v=a606226d",
+			"links": {
+				"youtube": "https://youtu.be/v5yoIh4fk-4?si=VeXX5sJxr5p0Vq2B"
 			}
 		},
 		"yoruqueenofnight": {
@@ -12167,6 +12174,55 @@
 			"chromas": []
 		},
 		{
+			"id": "gulpin-teemo",
+			"name": "Gulpin Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gulpin-teemo/thumb.webp?v=d8965556",
+			"file": {
+				"version": 1,
+				"asset": "gulpin-teemo-v1.fantome",
+				"size": 2861252,
+				"sha256": "9ac15085753600b91330d4439eb88a6b1ac27b558ada2f35c4c4e6a98e1ea77c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gummy-bear-gragas",
+			"name": "Gummy Bear Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gummy-bear-gragas/thumb.webp?v=1519226d",
+			"file": {
+				"version": 1,
+				"asset": "gummy-bear-gragas-v1.fantome",
+				"size": 507733,
+				"sha256": "ce04d042d14b1ead23461b3c875f00be905e9c3e11a8e50aab25a1f763f07030"
+			},
+			"chromas": []
+		},
+		{
 			"id": "guts-aatrox",
 			"name": "Guts (Aatrox)",
 			"champion": 266,
@@ -12193,6 +12249,77 @@
 			"chromas": []
 		},
 		{
+			"id": "gutsman-alistar",
+			"name": "Gutsman alistar",
+			"champion": 12,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gutsman-alistar/thumb.webp?v=55ac8cfd",
+			"file": {
+				"version": 1,
+				"asset": "gutsman-alistar-v1.fantome",
+				"size": 890259,
+				"sha256": "d7feab12b620bd3c0e11f67d38c511192c02a2f86a910870751889b2dffd1b81"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-frederika-bernkastel",
+			"name": "Gwen - Frederika Bernkastel",
+			"champion": 887,
+			"base": 0,
+			"creator": "yogau",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gwen-frederika-bernkastel/thumb.webp?v=3089f38e",
+			"file": {
+				"version": 1,
+				"asset": "gwen-frederika-bernkastel-v1.fantome",
+				"size": 23807625,
+				"sha256": "1a8c2d04e4b8a26b5c25a386a6d2f9fb3dfd1cf3d8444c96c3ac6e5cc0ccb375"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-is-immune-trollface",
+			"name": "Gwen is Immune Trollface",
+			"champion": 887,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gwen-is-immune-trollface/thumb.webp?v=d2d7e1d3",
+			"file": {
+				"version": 1,
+				"asset": "gwen-is-immune-trollface-v1.fantome",
+				"size": 22610,
+				"sha256": "7b64abb8177ac6971f97c7d2d7e3d5cfc1190e08ef7df238d62c2162e1df1850"
+			},
+			"chromas": []
+		},
+		{
 			"id": "gwen-rannigwenretexture",
 			"name": "RanniGwenRetexture",
 			"champion": 887,
@@ -12215,6 +12342,122 @@
 				"asset": "gwen-rannigwenretexture-v1.fantome",
 				"size": 10589616,
 				"sha256": "4f876edb6e6c52203d5a55d9aca2112c0e3070fea5c4b72a444c65168ef5ee28"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hank-antipath-samira",
+			"name": "Hank Antipath samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hank-antipath-samira/thumb.webp?v=273f86dc",
+			"file": {
+				"version": 1,
+				"asset": "hank-antipath-samira-v1.fantome",
+				"size": 1535252,
+				"sha256": "3dd39d566d2289dc23ac0a4b1accc18def4d7608c76e9d8c6929ef5bd77d8e08"
+			},
+			"chromas": []
+		},
+		{
+			"id": "harpy-fighter-gwen",
+			"name": "Harpy Fighter Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "harpyqueen",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/harpy-fighter-gwen/thumb.webp?v=94ba7696",
+			"file": {
+				"version": 1,
+				"asset": "harpy-fighter-gwen-v1.fantome",
+				"size": 25005529,
+				"sha256": "47bddfea740400b9eef9139ba6a51de24dd311152b264e5eecfc42751c482031"
+			},
+			"chromas": []
+		},
+		{
+			"id": "harpy-groove-gwen",
+			"name": "Harpy Groove Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "harpyqueen",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/harpy-groove-gwen/thumb.webp?v=8a0cea2b",
+			"file": {
+				"version": 1,
+				"asset": "harpy-groove-gwen-v1.fantome",
+				"size": 12568099,
+				"sha256": "974c40d93a17502099aa3393895cf3117517a324d031c4243b516cf2c1e29b1b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "harpy-gwen",
+			"name": "Harpy Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "harpyqueen",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/harpy-gwen/thumb.webp?v=a51f0160",
+			"file": {
+				"version": 1,
+				"asset": "harpy-gwen-v1.fantome",
+				"size": 1987583,
+				"sha256": "a9d832909d278d70961d33a3f0a06c3ca47dc5f4c81343c841d1270c421ff0ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "harpy-queen-gwen",
+			"name": "Harpy Queen Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "harpyqueen",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/harpy-queen-gwen/thumb.webp?v=5d6b4a69",
+			"file": {
+				"version": 1,
+				"asset": "harpy-queen-gwen-v1.fantome",
+				"size": 25269406,
+				"sha256": "ce37b58d54aed65da4cc54de2396ea1305c99908a794e53a3302c42fccce0237"
 			},
 			"chromas": []
 		},

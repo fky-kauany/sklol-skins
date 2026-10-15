@@ -1,0 +1,23 @@
+{
+	"id": "gummy-bear-gragas",
+	"name": "Gummy Bear Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Gragas**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\nModel from Gummy Bear Runner\n\nShoutout [Poyo20 over at The Models Resource](https://www.models-resource.com/submitter/poyo20/ \"Click me to see what else they have ripped :3\") for ripping and posting the model\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/eb005670-2bf3-41d6-a872-f8b6ead40f74\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gummy-bear-gragas/thumb.webp?v=1519226d",
+	"file": {
+		"version": 1,
+		"asset": "gummy-bear-gragas-v1.fantome",
+		"size": 507733,
+		"sha256": "ce04d042d14b1ead23461b3c875f00be905e9c3e11a8e50aab25a1f763f07030"
+	},
+	"chromas": []
+}

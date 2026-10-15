@@ -1,0 +1,26 @@
+{
+	"id": "gwen-frederika-bernkastel",
+	"name": "Gwen - Frederika Bernkastel",
+	"champion": 887,
+	"base": 0,
+	"creator": "yogau",
+	"description": "## Skin information\n- **Champion:** Gwen\n- **Modified skin:** Base (default)\n- **Character:** Frederika Bernkastel (Umineko no Naku Koro ni)\n\n## Features\n- New model and texture (Bernkastel), scythe replacing the scissors\n- Black cat replacing the needles on R and the doll in the joke emote\n- Violet \"sea of fragments\" W, scissor trails removed, purple VFX\n- New voice-over: meows on R, \"Nipah~\" on kills and blocked attacks, new laugh\n- Custom music on the dance emote\n- Modified loading screen, in-game icons and skill icons\n\n## Installation\nInstall the .fantome with LTK Manager.\n\n## Known issues\n- Weighting isn't perfect: sleeves and skirt can clip in some animations.\n\n## Credits\n- 3D models generated with Meshy AI, then rigged and converted for League.\n- Bernkastel and Umineko © 07th Expansion. Fan-made, not affiliated with Riot Games.\n\n---\n\n**Created by** [Yogau](https://runeforge.dev/users/Yogau)\n\n**Original:** https://runeforge.dev/mods/d9aaacc0-8fcf-467d-8b4b-a141a445b776\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gwen-frederika-bernkastel/thumb.webp?v=3089f38e",
+	"file": {
+		"version": 1,
+		"asset": "gwen-frederika-bernkastel-v1.fantome",
+		"size": 23807625,
+		"sha256": "1a8c2d04e4b8a26b5c25a386a6d2f9fb3dfd1cf3d8444c96c3ac6e5cc0ccb375"
+	},
+	"chromas": []
+}

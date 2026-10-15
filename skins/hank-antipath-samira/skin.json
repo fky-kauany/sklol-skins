@@ -1,0 +1,23 @@
+{
+	"id": "hank-antipath-samira",
+	"name": "Hank Antipath samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"*is not because of FNF >:c\"*\n\n***\n\n**Modified champion: Samira**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3d model made by:** [**Tottu-1280**](https://www.deviantart.com/souger222/art/Madness-Combat-fnf-AntiPathy-Download-c4d-931374883)\n\n**guns made by:** [MAN\\_ticore](https://steamcommunity.com/sharedfiles/filedetails/?id=254551320)\n\n[deric](https://www.runeforge.io/members-area/7acd11a4-afcb-448c-bc1e-5cd721b9ecff/profile) **edited the texture**\n\n[Krinkels](https://twitter.com/MRKrinkels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) the creator of this madness\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/eec59344-2714-4493-8034-daa09530fce7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hank-antipath-samira/thumb.webp?v=273f86dc",
+	"file": {
+		"version": 1,
+		"asset": "hank-antipath-samira-v1.fantome",
+		"size": 1535252,
+		"sha256": "3dd39d566d2289dc23ac0a4b1accc18def4d7608c76e9d8c6929ef5bd77d8e08"
+	},
+	"chromas": []
+}

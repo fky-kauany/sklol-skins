@@ -1,0 +1,22 @@
+{
+	"id": "gwen-is-immune-trollface",
+	"name": "Gwen is Immune Trollface",
+	"champion": 887,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Gwen**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b464f09a-77ce-432f-b1b7-bdeb4a361f91\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gwen-is-immune-trollface/thumb.webp?v=d2d7e1d3",
+	"file": {
+		"version": 1,
+		"asset": "gwen-is-immune-trollface-v1.fantome",
+		"size": 22610,
+		"sha256": "7b64abb8177ac6971f97c7d2d7e3d5cfc1190e08ef7df238d62c2162e1df1850"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "harpy-groove-gwen",
+	"name": "Harpy Groove Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "harpyqueen",
+	"description": "Information\r\n\r\n* Champion: Gwen\r\n* Modified Skin: Space Groove Gwen\r\n* Author: HapiKuin\r\n* Version: 1.0\r\n\r\n***\r\n\r\nFeatures\r\n\r\n* New Model\r\n* New Loading screen\r\n* New HUD\r\n* Supports all graphic textures\r\n* ALL CHROMAS\n\n---\n\n**Created by** [HarpyQueen](https://runeforge.dev/users/HarpyQueen)\n\n**Original:** https://runeforge.dev/mods/122acf35-db65-41fc-8dd8-49fdf532460e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/harpy-groove-gwen/thumb.webp?v=8a0cea2b",
+	"file": {
+		"version": 1,
+		"asset": "harpy-groove-gwen-v1.fantome",
+		"size": 12568099,
+		"sha256": "974c40d93a17502099aa3393895cf3117517a324d031c4243b516cf2c1e29b1b"
+	},
+	"chromas": []
+}
