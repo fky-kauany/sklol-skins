@@ -1,0 +1,25 @@
+{
+	"id": "a2-katarina-sfw-clothed-and-unclothed-waist",
+	"name": "A2 Katarina SFW clothed and unclothed waist",
+	"champion": 55,
+	"base": 0,
+	"creator": "revvn",
+	"description": "A2 Katarina clothed and unclothed waist SFW\r\n\r\nChampion: Katarina\r\n\r\nBy: Revvn\r\n\r\nVersion: 1.0.4 new\r\n\r\nModified skin: Base\r\n\r\nBeta Skin!!\n\n---\n\n**Created by** [revv.n](https://runeforge.dev/users/revvn)\n\n**Original:** https://runeforge.dev/mods/140c832d-25c0-4bf7-8cd2-a8460b712386\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/a2-katarina-sfw-clothed-and-unclothed-waist/thumb.webp?v=fa70c3ca",
+	"file": {
+		"version": 1,
+		"asset": "a2-katarina-sfw-clothed-and-unclothed-waist-v1.fantome",
+		"size": 12586573,
+		"sha256": "297d2cac8f5bb42764e89a0e85347d67dfdf3017fd7a30606a54f5a06ad52756"
+	},
+	"chromas": []
+}

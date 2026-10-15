@@ -1,0 +1,26 @@
+{
+	"id": "aatrox-aatroxkaiser",
+	"name": "Aatroxkaiser",
+	"champion": 266,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Aatrox\n\nSkin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Aatrox and Morde played with the fusion technique. Gone wrong.\n\nFeatures:\n\n-New model and textures.\n\n-Modified  animations and some new ones.\n\n-New sounds.\n\n-Recolored particles.\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-A cool dragon pet. You can pet it.\n\n-You only need to click \"Download\" once, fool.\n\n\n\nalso try yorickaiser!\nLINK\n\nChangelog:\n\n\n\n-28/04/2024: First official release\n\n-07/02/2025: Fixed for new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n\n\n\n\nSources:\n\n-Fusion sound from Dragon Ball GT\n\n-Music used:\n\n--6v4 - by Area Of Defect.\n\n--All Hail Mordekaiser - by Wayne Ingram.\n\n--Mordekaiser Rap - by Sharkness.\n\n-Most assets used from League of legends.\n\n-Animations made by me.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/9b5658af-d2b1-4f70-a1f6-1dd1198fb651\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aatrox-aatroxkaiser/thumb.webp?v=8eb0539c",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-aatroxkaiser-v1.fantome",
+		"size": 20950211,
+		"sha256": "3ec8e942ad003745a0f09d0aa78b5153c00e841876287d5ddc52d54cee3661b5"
+	},
+	"chromas": []
+}

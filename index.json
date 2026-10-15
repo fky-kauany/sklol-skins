@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-13T08:01:20.094Z",
+	"generatedAt": "2026-10-15T07:42:01.775Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -77,6 +77,16 @@
 				"youtube": "https://www.youtube.com/@Arkera_youtube"
 			}
 		},
+		"aropatnik": {
+			"name": "Aropatnik",
+			"avatar": "creators/aropatnik.png?v=c81c65bb",
+			"bio": "Proud owner of 1m downloads between all of my mods on all of the sites. Thank you all for using my mods <3\n# \nLooking for a commission?  Add me on Discord: aropatnik  \n# \nMe on other places on the internet:  \nDiscord server: https://discord.gg/ue5t7tGW32  \nYoutube: https://www.youtube.com/@AropatnikCustoms  \nTikTok: https://www.tiktok.com/@aropatnik  \n# \nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [<u>https://ko-fi.com/aropatnik</u>](https://ko-fi.c",
+			"links": {
+				"kofi": "https://ko-fi.com/aropatnik",
+				"tiktok": "https://www.tiktok.com/@aropatnik",
+				"youtube": "https://www.youtube.com/@AropatnikCustoms"
+			}
+		},
 		"aurecueil": {
 			"name": "aurecueil",
 			"avatar": "creators/aurecueil.webp?v=b8768957",
@@ -114,6 +124,11 @@
 				"x": "https://x.com/budlibu500",
 				"youtube": "https://www.youtube.com/@budlibu500"
 			}
+		},
+		"cam": {
+			"name": "Cam",
+			"avatar": "creators/cam.jpg?v=839ba7c0",
+			"links": {}
 		},
 		"ceerel": {
 			"name": "ceerel",
@@ -199,6 +214,13 @@
 			"name": "DemonXi",
 			"bio": "Name is Linus. I am skin creator. Mostly Make blue skins cause that is what i like. I am dogshit at league. Hardstuck gold-plat for years",
 			"links": {}
+		},
+		"dempsey20": {
+			"name": "Dempsey20",
+			"avatar": "creators/dempsey20.jpg?v=53c0ec81",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=-aD3FeSRSfk"
+			}
 		},
 		"disco": {
 			"name": "DISCO",
@@ -295,6 +317,14 @@
 			"bio": "XD",
 			"links": {
 				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
+			}
+		},
+		"gabe": {
+			"name": "Gabe",
+			"avatar": "creators/gabe.png?v=35003fa4",
+			"bio": "Criador br me chama no dc se precisar de ajuda gabrielpicademel123\ntiktok @zodd01t \nda uma moral e segue la \nsou mono darius entao vai ter muitas skins dele sim",
+			"links": {
+				"youtube": "https://youtu.be/4PXh9XqLmwY"
 			}
 		},
 		"garyuu": {
@@ -548,6 +578,15 @@
 				"youtube": "https://www.youtube.com/@stalos3094"
 			}
 		},
+		"revvn": {
+			"name": "revv.n",
+			"avatar": "creators/revvn.jpg?v=4a8896a6",
+			"links": {
+				"kofi": "https://ko-fi.com/revvn",
+				"patreon": "https://www.patreon.com/cw/Revvn0",
+				"youtube": "https://www.youtube.com/watch?v=3-v00NWrMpk"
+			}
+		},
 		"rorotea1": {
 			"name": "rorotea1",
 			"avatar": "creators/rorotea1.png?v=56a27670",
@@ -720,12 +759,252 @@
 				"discord": "https://discord.com/invite/AKCjefCcMK"
 			}
 		},
+		"yuumi": {
+			"name": "Yuumi",
+			"avatar": "creators/yuumi.png?v=cffa7077",
+			"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
+			"links": {}
+		},
 		"zestydaimon": {
 			"name": "ZestyDaimon",
 			"links": {}
 		}
 	},
 	"skins": [
+		{
+			"id": "100-dollar-zed-skin",
+			"name": "100 dollar Zed skin",
+			"champion": 238,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/100-dollar-zed-skin/thumb.webp?v=6716003b",
+			"file": {
+				"version": 1,
+				"asset": "100-dollar-zed-skin-v1.fantome",
+				"size": 538768,
+				"sha256": "7155ecaa1ce8fb855cec7c1eafd79f3894dda77cb1f58cb650a7e1c09f0f43bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "3-spikes-nightbringer-yuumi-antenna",
+			"name": "3 spikes Nightbringer Yuumi Antenna",
+			"champion": 350,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/3-spikes-nightbringer-yuumi-antenna/thumb.webp?v=7a6b8086",
+			"file": {
+				"version": 1,
+				"asset": "3-spikes-nightbringer-yuumi-antenna-v1.fantome",
+				"size": 353561,
+				"sha256": "a13b6354bba1ffa0f5864c66e61eef5236c7ac665c065ec7e6dfa9e956756155"
+			},
+			"chromas": []
+		},
+		{
+			"id": "4k-talon",
+			"name": "4K Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/4k-talon/thumb.webp?v=6fac22f1",
+			"file": {
+				"version": 1,
+				"asset": "4k-talon-v1.fantome",
+				"size": 40548512,
+				"sha256": "ed7f6e3a695b43748a6c97738330b065dfefdd219160fa8124a19c41ec357bd6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "a2-katarina-sfw-clothed-and-unclothed-waist",
+			"name": "A2 Katarina SFW clothed and unclothed waist",
+			"champion": 55,
+			"base": 0,
+			"creator": "revvn",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/a2-katarina-sfw-clothed-and-unclothed-waist/thumb.webp?v=fa70c3ca",
+			"file": {
+				"version": 1,
+				"asset": "a2-katarina-sfw-clothed-and-unclothed-waist-v1.fantome",
+				"size": 12586573,
+				"sha256": "297d2cac8f5bb42764e89a0e85347d67dfdf3017fd7a30606a54f5a06ad52756"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-aatroxkaiser",
+			"name": "Aatroxkaiser",
+			"champion": 266,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-aatroxkaiser/thumb.webp?v=8eb0539c",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-aatroxkaiser-v1.fantome",
+				"size": 20950211,
+				"sha256": "3ec8e942ad003745a0f09d0aa78b5153c00e841876287d5ddc52d54cee3661b5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-black-white",
+			"name": "Aatrox - Black & White",
+			"champion": 266,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-black-white/thumb.webp?v=3477069d",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-black-white-v1.fantome",
+				"size": 1296103,
+				"sha256": "a5fcb7a584e89b89c10f49cf4fd595f8eba73c1a0c5f7a008156784edf4e9391"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-chibi-champie-hud-icons-for-all-champs",
+			"name": "Chibi / Champie hud icons for all champs",
+			"champion": 266,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-chibi-champie-hud-icons-for-all-champs/thumb.webp?v=ad5c73ee",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-chibi-champie-hud-icons-for-all-champs-v1.fantome",
+				"size": 13827194,
+				"sha256": "59cc33c21cdc7f808b24f97c9321040ab79ddc17edd911d4846c93790437ad81"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-green",
+			"name": "Aatrox - Green",
+			"champion": 266,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-green/thumb.webp?v=81d82981",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-green-v1.fantome",
+				"size": 1351051,
+				"sha256": "d498dbba8ef704aa25654aa7e1829efd606c38abd747603806e2edfc3b28d8f1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-knull",
+			"name": "Aatrox Knull",
+			"champion": 266,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-knull/thumb.webp?v=69dcd64e",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-knull-v1.fantome",
+				"size": 4668901,
+				"sha256": "c381dbf267e27993b8a0f3dee384a4b27fa80f0118eba3d888f87fc3c82d1df4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-light-blue-chroma",
+			"name": "Aatrox Light Blue Chroma",
+			"champion": 266,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-light-blue-chroma/thumb.webp?v=875ce408",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-light-blue-chroma-v1.fantome",
+				"size": 1365856,
+				"sha256": "29bb50a59f298d96fbc1eb796d12b8ed1e4bd79830241228b7c6fb50d2e529c7"
+			},
+			"chromas": []
+		},
 		{
 			"id": "goku-aurelion-sol",
 			"name": "Goku Aurelion Sol",

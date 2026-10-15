@@ -74,6 +74,16 @@
 			"youtube": "https://www.youtube.com/@Arkera_youtube"
 		}
 	},
+	"aropatnik": {
+		"name": "Aropatnik",
+		"avatar": "creators/aropatnik.png?v=c81c65bb",
+		"bio": "Proud owner of 1m downloads between all of my mods on all of the sites. Thank you all for using my mods <3\n# \nLooking for a commission?  Add me on Discord: aropatnik  \n# \nMe on other places on the internet:  \nDiscord server: https://discord.gg/ue5t7tGW32  \nYoutube: https://www.youtube.com/@AropatnikCustoms  \nTikTok: https://www.tiktok.com/@aropatnik  \n# \nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [<u>https://ko-fi.com/aropatnik</u>](https://ko-fi.c",
+		"links": {
+			"kofi": "https://ko-fi.com/aropatnik",
+			"tiktok": "https://www.tiktok.com/@aropatnik",
+			"youtube": "https://www.youtube.com/@AropatnikCustoms"
+		}
+	},
 	"aurecueil": {
 		"name": "aurecueil",
 		"avatar": "creators/aurecueil.webp?v=b8768957",
@@ -111,6 +121,11 @@
 			"x": "https://x.com/budlibu500",
 			"youtube": "https://www.youtube.com/@budlibu500"
 		}
+	},
+	"cam": {
+		"name": "Cam",
+		"avatar": "creators/cam.jpg?v=839ba7c0",
+		"links": {}
 	},
 	"ceerel": {
 		"name": "ceerel",
@@ -196,6 +211,13 @@
 		"name": "DemonXi",
 		"bio": "Name is Linus. I am skin creator. Mostly Make blue skins cause that is what i like. I am dogshit at league. Hardstuck gold-plat for years",
 		"links": {}
+	},
+	"dempsey20": {
+		"name": "Dempsey20",
+		"avatar": "creators/dempsey20.jpg?v=53c0ec81",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=-aD3FeSRSfk"
+		}
 	},
 	"disco": {
 		"name": "DISCO",
@@ -292,6 +314,14 @@
 		"bio": "XD",
 		"links": {
 			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
+		}
+	},
+	"gabe": {
+		"name": "Gabe",
+		"avatar": "creators/gabe.png?v=35003fa4",
+		"bio": "Criador br me chama no dc se precisar de ajuda gabrielpicademel123\ntiktok @zodd01t \nda uma moral e segue la \nsou mono darius entao vai ter muitas skins dele sim",
+		"links": {
+			"youtube": "https://youtu.be/4PXh9XqLmwY"
 		}
 	},
 	"garyuu": {
@@ -545,6 +575,15 @@
 			"youtube": "https://www.youtube.com/@stalos3094"
 		}
 	},
+	"revvn": {
+		"name": "revv.n",
+		"avatar": "creators/revvn.jpg?v=4a8896a6",
+		"links": {
+			"kofi": "https://ko-fi.com/revvn",
+			"patreon": "https://www.patreon.com/cw/Revvn0",
+			"youtube": "https://www.youtube.com/watch?v=3-v00NWrMpk"
+		}
+	},
 	"rorotea1": {
 		"name": "rorotea1",
 		"avatar": "creators/rorotea1.png?v=56a27670",
@@ -716,6 +755,12 @@
 		"links": {
 			"discord": "https://discord.com/invite/AKCjefCcMK"
 		}
+	},
+	"yuumi": {
+		"name": "Yuumi",
+		"avatar": "creators/yuumi.png?v=cffa7077",
+		"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
+		"links": {}
 	},
 	"zestydaimon": {
 		"name": "ZestyDaimon",

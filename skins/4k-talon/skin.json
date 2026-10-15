@@ -1,0 +1,22 @@
+{
+	"id": "4k-talon",
+	"name": "4K Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "Instead of the usual 256x256 (for base) Talon textures you will now get 4k on all of them.\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/5f6006ae-4ebf-4dab-bde4-bdfc5aff1ce7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/4k-talon/thumb.webp?v=6fac22f1",
+	"file": {
+		"version": 1,
+		"asset": "4k-talon-v1.fantome",
+		"size": 40548512,
+		"sha256": "ed7f6e3a695b43748a6c97738330b065dfefdd219160fa8124a19c41ec357bd6"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "aatrox-knull",
+	"name": "Aatrox Knull",
+	"champion": 266,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Aatrox \n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the aatrox skills, In the future I will add knull voice lines if you like the skin :)\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/1cb8952a-ed24-4c7e-8273-f97eb5b75829\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aatrox-knull/thumb.webp?v=69dcd64e",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-knull-v1.fantome",
+		"size": 4668901,
+		"sha256": "c381dbf267e27993b8a0f3dee384a4b27fa80f0118eba3d888f87fc3c82d1df4"
+	},
+	"chromas": []
+}

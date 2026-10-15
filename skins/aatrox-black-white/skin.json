@@ -1,0 +1,23 @@
+{
+	"id": "aatrox-black-white",
+	"name": "Aatrox - Black & White",
+	"champion": 266,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Aatrox - Black & White\n\nSkin modified : Base\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/119fb2a6-12a1-47f9-bee2-ff9cf76359de\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aatrox-black-white/thumb.webp?v=3477069d",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-black-white-v1.fantome",
+		"size": 1296103,
+		"sha256": "a5fcb7a584e89b89c10f49cf4fd595f8eba73c1a0c5f7a008156784edf4e9391"
+	},
+	"chromas": []
+}

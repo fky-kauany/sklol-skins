@@ -1,0 +1,22 @@
+{
+	"id": "3-spikes-nightbringer-yuumi-antenna",
+	"name": "3 spikes Nightbringer Yuumi Antenna",
+	"champion": 350,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Replaces Nightbringer Yuumi, duh. Fixes Riot's hard fumble\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/05dc5905-4068-438e-bfa7-86a964c18414\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/3-spikes-nightbringer-yuumi-antenna/thumb.webp?v=7a6b8086",
+	"file": {
+		"version": 1,
+		"asset": "3-spikes-nightbringer-yuumi-antenna-v1.fantome",
+		"size": 353561,
+		"sha256": "a13b6354bba1ffa0f5864c66e61eef5236c7ac665c065ec7e6dfa9e956756155"
+	},
+	"chromas": []
+}

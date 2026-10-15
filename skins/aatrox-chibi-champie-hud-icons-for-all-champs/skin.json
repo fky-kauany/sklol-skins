@@ -1,0 +1,22 @@
+{
+	"id": "aatrox-chibi-champie-hud-icons-for-all-champs",
+	"name": "Chibi / Champie hud icons for all champs",
+	"champion": 266,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\nChibi icons for all champions up to and including Zaahen\n\n**Author:** Aropatnik\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b25c15df-761c-4e2d-99f8-dec5676df9d7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aatrox-chibi-champie-hud-icons-for-all-champs/thumb.webp?v=ad5c73ee",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-chibi-champie-hud-icons-for-all-champs-v1.fantome",
+		"size": 13827194,
+		"sha256": "59cc33c21cdc7f808b24f97c9321040ab79ddc17edd911d4846c93790437ad81"
+	},
+	"chromas": []
+}
