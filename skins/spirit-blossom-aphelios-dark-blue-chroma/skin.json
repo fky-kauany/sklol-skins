@@ -1,0 +1,26 @@
+{
+	"id": "spirit-blossom-aphelios-dark-blue-chroma",
+	"name": "Spirit Blossom Aphelios - Dark Blue Chroma",
+	"champion": 523,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Spirit Blossom Aphelios\r\n\r\n╰┈➤ _The idea for this mod was to make Spirit Blossom Aphelios a monocolor skin, akin to that of my Arcana Jhin Chroma_\r\n\r\n# **PLEASE BE AWARE THIS CHANGES THE GUN COLORS TO BLUE SO IT MAY BE DIFFICULT TO DISTINGUISH THINGS**\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here**](https://1gem1.straw.page/customskinsquestions), or message me on discord (1gem1), or here is [**more info**](https://1gem1.straw.page/) for anything else!\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/35f0ef78-00eb-476d-8547-9c460a193685\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-aphelios-dark-blue-chroma/thumb.webp?v=37a2e24c",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-aphelios-dark-blue-chroma-v1.fantome",
+		"size": 11691477,
+		"sha256": "6b485a0d32bab7621b237f7a09534709d35a4ba6e9d4812c551b888e271dbf62"
+	},
+	"chromas": []
+}

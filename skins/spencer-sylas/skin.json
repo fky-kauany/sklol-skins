@@ -1,0 +1,23 @@
+{
+	"id": "spencer-sylas",
+	"name": "Spencer Sylas",
+	"champion": 517,
+	"base": 0,
+	"creator": "annown",
+	"description": "**Mod Information**\n\n* Champion: Sylas\n* Modified Skin: Default\n* Author: Annown\n* Mod Version: 1.1.4\n* Model from \"Nick Racers Revolution 3D\"\n\n**Features**\n\n* New Model, Texture\n* New Loading Screen\n\nJoin my [Discord](discord.gg/js3CDHe4tD \"Discord\") if any of my skins are out of order.\n\n---\n\n**Created by** [Annown](https://runeforge.dev/users/Annown)\n\n**Original:** https://runeforge.dev/mods/44661b8f-876a-47f8-858a-cd3ddf9e3e4c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spencer-sylas/thumb.webp?v=ac413dd8",
+	"file": {
+		"version": 1,
+		"asset": "spencer-sylas-v1.fantome",
+		"size": 861356,
+		"sha256": "e5dea9ea1aea6972d28a310b888789947147c7b75cec3bdd0b46deb140f6c023"
+	},
+	"chromas": []
+}

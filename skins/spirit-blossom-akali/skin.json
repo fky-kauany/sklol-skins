@@ -1,0 +1,26 @@
+{
+	"id": "spirit-blossom-akali",
+	"name": "Spirit Blossom Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "# Skin Info:\n\nChampion : Akali\n\n‎\n\nModified skin : Default\n\n‎\n\nOriginal Author : Franchlitz\n\n‎\n\nRecovered by AleXD\n\n‎\n\nMod version: 2.0.0\n\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\n\nI did everything possible to make the skin as similar to the original as possible, original video from the creator, I made one to show how it turned out.\n\n[https://www.youtube.com/watch?v=krCXQJ2ItaI](https://www.youtube.com/watch?v=krCXQJ2ItaI)\n\nCredits:\n\n* [KAI CHANG](https://smbbkai.artstation.com/projects/lxDNla): Creating the concept of Spirit Blossom Akali\n* [Franchlitz](https://www.youtube.com/watch?v=krCXQJ2ItaI): Creating & Directing the creation of the Custom Skin\n* Guisai & Ethereal: Creating the Custom Skin\n* [Sislex](https://www.deviantart.com/sislex) & [PentaKing](https://linktr.ee/PentaKingTV): Creating the Custom Model & UV Textures\n* [AGuo](https://www.artstation.com/artwork/r91KoE) & [Tony Liu](https://www.artstation.com/artwork/b5oaYd): Creating Splash Arts for Spirit Blossom Akali\n\n‎\n\n\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\nThumbnail: [https://www.artstation.com/artwork/r91KoE](https://www.artstation.com/artwork/r91KoE)\n\n#\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/f6592c99-1c66-4597-b5eb-8fbf6b9d8fd0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-akali/thumb.webp?v=3f4dab50",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-akali-v1.fantome",
+		"size": 27797763,
+		"sha256": "bc7011dcb3953b699de0bf9318391ada1d4398437a318f5102118778b01aa9fb"
+	},
+	"chromas": []
+}

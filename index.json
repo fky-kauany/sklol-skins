@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:35:33.966Z",
+	"generatedAt": "2026-10-15T13:41:15.407Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -30158,6 +30158,256 @@
 				"asset": "spawn-darius-v1.fantome",
 				"size": 1615321,
 				"sha256": "5e1b3f560e3747e6f7ac20c5218f24c57e30f8f0c31aa367fff00eaa35605300"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spawn-darius-cape",
+			"name": "Spawn darius cape",
+			"champion": 122,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spawn-darius-cape/thumb.webp?v=e062df07",
+			"file": {
+				"version": 1,
+				"asset": "spawn-darius-cape-v1.fantome",
+				"size": 3646794,
+				"sha256": "9e3a417815b847dbe72beaab58db1424256a0458c7ec0db227fc0a789d7bc33b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spencer-sylas",
+			"name": "Spencer Sylas",
+			"champion": 517,
+			"base": 0,
+			"creator": "annown",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spencer-sylas/thumb.webp?v=ac413dd8",
+			"file": {
+				"version": 1,
+				"asset": "spencer-sylas-v1.fantome",
+				"size": 861356,
+				"sha256": "e5dea9ea1aea6972d28a310b888789947147c7b75cec3bdd0b46deb140f6c023"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-aatrox",
+			"name": "Spirit Blossom Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "sweetspot",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-aatrox/thumb.webp?v=0dfd071b",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-aatrox-v1.fantome",
+				"size": 7970794,
+				"sha256": "df9cc7c0c33236cb30b34cb9009979c15fd00bb498e892eb6dda2e5949bef45d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-akali",
+			"name": "Spirit Blossom Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-akali/thumb.webp?v=3f4dab50",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-akali-v1.fantome",
+				"size": 27797763,
+				"sha256": "bc7011dcb3953b699de0bf9318391ada1d4398437a318f5102118778b01aa9fb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-alune-sona",
+			"name": "Spirit Blossom Alune (Sona)",
+			"champion": 37,
+			"base": 0,
+			"creator": "ronni",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-alune-sona/thumb.webp?v=46b587f1",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-alune-sona-v1.fantome",
+				"size": 10067858,
+				"sha256": "20264eb92148378ef627865d390e69d6433d9c288724d527ff71d305f24107e8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-aphelios-dark-blue-chroma",
+			"name": "Spirit Blossom Aphelios - Dark Blue Chroma",
+			"champion": 523,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-aphelios-dark-blue-chroma/thumb.webp?v=37a2e24c",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-aphelios-dark-blue-chroma-v1.fantome",
+				"size": 11691477,
+				"sha256": "6b485a0d32bab7621b237f7a09534709d35a4ba6e9d4812c551b888e271dbf62"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-aurora",
+			"name": "Spirit Blossom Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "maygik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-aurora/thumb.webp?v=3ce27798",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-aurora-v1.fantome",
+				"size": 3877109,
+				"sha256": "aaa06d0de0b475e2780c8b5a450e8f54b7e992e95d6e0684ded801de57a92423"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-draven",
+			"name": "Spirit Blossom Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-draven/thumb.webp?v=9854877e",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-draven-v1.fantome",
+				"size": 14237721,
+				"sha256": "de7d17154c273dcde6295aadd65345c97e75167f6a7317148f0e76589bcc0f3c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-janna",
+			"name": "Spirit Blossom Janna",
+			"champion": 40,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-janna/thumb.webp?v=26e205f3",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-janna-v1.fantome",
+				"size": 19994339,
+				"sha256": "9a3d46761e9c50117cdce8a78344205408714b02fe610c5645ecb47ed1ac5ee6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-janna-akana",
+			"name": "Spirit Blossom Janna - Akana",
+			"champion": 40,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-janna-akana/thumb.webp?v=5efe7e11",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-janna-akana-v1.fantome",
+				"size": 11131620,
+				"sha256": "fa93a381394f1a64439a3775be94ed86207ad0e9ef38b06a9d057b1f1966714f"
 			},
 			"chromas": []
 		},

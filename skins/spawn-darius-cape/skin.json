@@ -1,0 +1,24 @@
+{
+	"id": "spawn-darius-cape",
+	"name": "Spawn darius cape",
+	"champion": 122,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: darius\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the spawn skills, in the future I will change the animations and audios of the model\n\nin this model I changed the textures of the spawn leaving black and putting the mk11 spawn cover\n\nmaybe in the future I will make a model with the spawn mk11 on the sett\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/64026a3c-fbce-4f3d-b764-4ae94ee8cc7c\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spawn-darius-cape/thumb.webp?v=e062df07",
+	"file": {
+		"version": 1,
+		"asset": "spawn-darius-cape-v1.fantome",
+		"size": 3646794,
+		"sha256": "9e3a417815b847dbe72beaab58db1424256a0458c7ec0db227fc0a789d7bc33b"
+	},
+	"chromas": []
+}

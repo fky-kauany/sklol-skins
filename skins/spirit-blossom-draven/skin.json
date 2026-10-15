@@ -1,0 +1,26 @@
+{
+	"id": "spirit-blossom-draven",
+	"name": "Spirit Blossom Draven",
+	"champion": 119,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Draven with a custom-made model after Duxteh2's original community-voted concept for Spirit Blossom Draven which you can find [here](https://theduxteh2.artstation.com/projects/Le4JQr). Please check out his great work and support!\n\n## CREDITS\n\n* Special thanks to [Yoru, Queen of Night](https://www.youtube.com/c/Yor%C3%BBQueenofNight) for the video spotlight!\n* Original Concept by  [Duxteh2](https://linktr.ee/Duxteh2)\n* Splash Art by [Sobras](https://www.artstation.com/artwork/KOJBgW)\n* In-Game Ability SFX and VO SFX by [TriSoundWorks](https://twitter.com/TriSoundworks)\n* Casting/Narrative by [Noah](https://twitter.com/RoyalEnigmatic?t=72BZi0e4iO4DfrRSfqIhfQ\\&s=09) and [Owlieart](https://youtube.com/channel/UC4f6u-k3Ufcq1rRjdz1TJ1A) with [VoiceShowcase](https://twitter.com/VoiceShowcase)\n* Voice Acting by [Matt Barr](https://www.castingcall.club/mrmattbarr)\n* Thank you [AnthemLol](https://www.tiktok.com/@anthemlol) for the social media promo videos\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on Spirit Blossom Draven's model](https://www.artstation.com/artwork/DAoDv0) for a closer look.\n\nEnjoy!\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/2a04106c-9e38-4250-8bab-779813a4327d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-draven/thumb.webp?v=9854877e",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-draven-v1.fantome",
+		"size": 14237721,
+		"sha256": "de7d17154c273dcde6295aadd65345c97e75167f6a7317148f0e76589bcc0f3c"
+	},
+	"chromas": []
+}

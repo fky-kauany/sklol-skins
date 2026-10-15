@@ -1,0 +1,26 @@
+{
+	"id": "spirit-blossom-janna-akana",
+	"name": "Spirit Blossom Janna - Akana",
+	"champion": 40,
+	"base": 0,
+	"creator": "yoruqueenofnight",
+	"description": "* Champion: Janna\n* Skins: Default\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Loadingscreen\n* In-game icon\n* VFX\n* SFX\n\n## Credits\n\n* Model parts from Pharsa - Peony Bloom (Mobile Legends), ripped by [Prasblacker](https://www.deviantart.com/prasblacker/art/Pharsa-Peony-Bloom-DL-891129806)\n\n## Completely optional: if you enjoy my work you can...\n\n[**Support me on Ko-Fi**](https://ko-fi.com/yoruqueenofnight) **or** [Become a Patreon](https://www.patreon.com/c/user?u=63840897)\n\n---\n\n**Created by** [YoruQueenOfNight](https://runeforge.dev/users/YoruQueenOfNight)\n\n**Original:** https://runeforge.dev/mods/3c35edef-7109-40da-8181-609f685f96fd\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-janna-akana/thumb.webp?v=5efe7e11",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-janna-akana-v1.fantome",
+		"size": 11131620,
+		"sha256": "fa93a381394f1a64439a3775be94ed86207ad0e9ef38b06a9d057b1f1966714f"
+	},
+	"chromas": []
+}

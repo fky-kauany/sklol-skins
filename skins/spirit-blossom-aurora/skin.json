@@ -1,0 +1,24 @@
+{
+	"id": "spirit-blossom-aurora",
+	"name": "Spirit Blossom Aurora",
+	"champion": 893,
+	"base": 0,
+	"creator": "maygik",
+	"description": "Replaces Aurora's base skin with a Spirit Blossom version. Q and R effects are updated.\n\n\n\nParts were taken from various other Spirit Blossom skins, then the meshes edited and retextured substantially.\n\n---\n\n**Created by** [Maygik](https://runeforge.dev/users/Maygik)\n\n**Original:** https://runeforge.dev/mods/88a0c07d-e739-4a7e-9287-16c6a17fa044\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-aurora/thumb.webp?v=3ce27798",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-aurora-v1.fantome",
+		"size": 3877109,
+		"sha256": "aaa06d0de0b475e2780c8b5a450e8f54b7e992e95d6e0684ded801de57a92423"
+	},
+	"chromas": []
+}

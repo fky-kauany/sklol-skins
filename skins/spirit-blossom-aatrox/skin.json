@@ -1,0 +1,24 @@
+{
+	"id": "spirit-blossom-aatrox",
+	"name": "Spirit Blossom Aatrox",
+	"champion": 266,
+	"base": 0,
+	"creator": "sweetspot",
+	"description": "Modified Skin: Blood Moon\n\nSupports all champion texture quality settings\n\nModified loadingscreen\n\nModified in-game icon\n\n&#x20;If you find any problem contact **undr\\_wtr** on discord\n\n---\n\n**Created by** [sweetspot](https://runeforge.dev/users/sweetspot)\n\n**Original:** https://runeforge.dev/mods/fa9e4411-f238-4e80-b1ff-ebe1d8acacaf\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-aatrox/thumb.webp?v=0dfd071b",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-aatrox-v1.fantome",
+		"size": 7970794,
+		"sha256": "df9cc7c0c33236cb30b34cb9009979c15fd00bb498e892eb6dda2e5949bef45d"
+	},
+	"chromas": []
+}

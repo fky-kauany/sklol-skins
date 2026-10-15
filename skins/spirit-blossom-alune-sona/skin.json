@@ -1,0 +1,25 @@
+{
+	"id": "spirit-blossom-alune-sona",
+	"name": "Spirit Blossom Alune (Sona)",
+	"champion": 37,
+	"base": 0,
+	"creator": "ronni",
+	"description": "***\n\n***\n\n***\n\n**‎**\n\n**Discord: \\_ronni\\_**\n\nNote: if you plan on doing a skin review or using it in a video please tag my **Twitter** [@Ronni\\_CS](https://x.com/Ronni_CS)**,** any credited artist, and **link the post** for the skin used. Thank you.\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n#### In Collaboration With:\n\n\\- [Duxteh2](https://twitter.com/duxteh2) (VFX Decals)\n\n\\- [rainy/mooncakephel](https://twitter.com/mooncakephel) (High Res Model Textures)\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n#### This Skin includes:\n\n\\- Custom Model\n\n\\- Custom Splash Art\n\n\\- Redone VFX\n\n\\- New Recall VFX\n\n\\- New Passive VFX\n\n**‎**\n\n#### Models Used:\n\n\\- Spirit Blossom Alune (TFT Set 11)\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n**‎**Replaced: Base Sona\n\nVersion: 2.0.1\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n#### **Changelog:**\n\n**Version 2.0.1**\n\n\\- Updated for Patch 25.S1.2\n\nVersion 2.0\n\n\\- Fixed for Patch 14.12\n\n#### Version 1.0\n\n\\- First Release\n\n**‎**\n\n#### Known Issues:\n\n\\- Casting R does not line up with the model, this is just because her animations place her higher than normal Sona. So it works the same but looks a bit lower.\n\\- Healthbar kinda blocks a bit of the model.\n\n\\- During Recall, every 3.5 (roughly) seconds the vfx kinda pulses then restarts again.\n\n#### **Finished Additions/Planned Additions:**\n\n\\- No plans on SFX or Voicelines, **IF** you would like to do SFX or Voicelines lmk.\n\n**‎** **‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n---\n\n**Created by** [Ronni](https://runeforge.dev/users/Ronni)\n\n**Original:** https://runeforge.dev/mods/9780a31c-60e7-41d3-ae50-aff3184555d4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-alune-sona/thumb.webp?v=46b587f1",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-alune-sona-v1.fantome",
+		"size": 10067858,
+		"sha256": "20264eb92148378ef627865d390e69d6433d9c288724d527ff71d305f24107e8"
+	},
+	"chromas": []
+}
