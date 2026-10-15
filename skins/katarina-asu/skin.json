@@ -1,0 +1,25 @@
+{
+	"id": "katarina-asu",
+	"name": "Katarina ASU",
+	"champion": 55,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "MOD INFORMATION\n\nThis mod replaces base Katarina and Slay Belle with a fully custom models.&#x20;\n\n### ABOUT THE MOD\n\nThis mod will receive **continuous updates**, so please reinstall the new files as new skins are added. Rather than trying to create ASU updates for all of the skins at once, we’ve decided to do one at a time.&#x20;\n\nAs of now, the following skins that are changed with new animations and models for the new rig are:\n\n1. 1\\. Default\n2. 2\\. Slay Belle\n\nMore skins are to come.&#x20;\n\n## CREDITS\n\n* **In collaboration with**: (List will update as people collab)\n\nKonrados – Animation transfers\n\nRago – LoR VO mod\n\nMinagami ([https://allmylinks.com/minagami](https://allmylinks.com/minagami)) – Default Katarina concept\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on Jack The Winner's model](https://www.artstation.com/artwork/XJn6gR) for a closer look.\n\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/b9e3b679-f9b0-41e0-8cfc-6041e2583f56\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/katarina-asu/thumb.webp?v=1c990617",
+	"file": {
+		"version": 1,
+		"asset": "katarina-asu-v1.fantome",
+		"size": 27550817,
+		"sha256": "ef0f0ab552652efcad04e78465f2c990fd0674c5d3c339d929ecb2c977c0ac29"
+	},
+	"chromas": []
+}

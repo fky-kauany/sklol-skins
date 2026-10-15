@@ -1,0 +1,22 @@
+{
+	"id": "kassadin-vine-boom-ult-sfx",
+	"name": "Kassadin vine boom ult SFX",
+	"champion": 38,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Kassadin**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Features\n\n* BOOM\n* BOOM\n* BOOM\n* BOOM\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/68c097ea-6ba9-4298-b8ce-4fe9a79ab491\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kassadin-vine-boom-ult-sfx/thumb.webp?v=bea1f5ce",
+	"file": {
+		"version": 1,
+		"asset": "kassadin-vine-boom-ult-sfx-v1.fantome",
+		"size": 545111,
+		"sha256": "507e353a88f53ebe78d61ee04848538681f143755760c2dc5b998656dc732b08"
+	},
+	"chromas": []
+}

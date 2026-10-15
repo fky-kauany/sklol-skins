@@ -1,0 +1,24 @@
+{
+	"id": "kai-sa-wr-crystal-rose-kaisa",
+	"name": "WR Crystal Rose Kaisa",
+	"champion": 145,
+	"base": 0,
+	"creator": "raka",
+	"description": "Info:\r\n\r\nChampion : Kai'sa\r\n\r\nSkin modified : Base it can be used for all skins up to this patch.\r\n\r\nAuthor : Raka \r\n\r\nFeaturing Kaisa's Crystal Rose Wild Rift model with custom textures and vfx.\r\n\r\nContact Info:\r\n\r\nYou can contact me through Discord.\r\n\r\nhttps://discord.gg/3pfzzwj2yr My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug or comissionn.\r\n\r\nAnd thank you to Stiri who comissioned this skin and is an overal great friend!\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/6d432882-3d0a-4d9c-881e-c79f1cf3ce92\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kai-sa-wr-crystal-rose-kaisa/thumb.webp?v=0eaa4e4d",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-wr-crystal-rose-kaisa-v1.fantome",
+		"size": 7898547,
+		"sha256": "43e9511d97e9aa138c6fa6a45461625a1078d72ad4fe8d619357546e45be0b4a"
+	},
+	"chromas": []
+}

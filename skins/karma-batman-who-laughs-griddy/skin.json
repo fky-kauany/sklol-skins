@@ -1,0 +1,26 @@
+{
+	"id": "karma-batman-who-laughs-griddy",
+	"name": "Karma Batman Who Laughs (Griddy)",
+	"champion": 43,
+	"base": 0,
+	"creator": "cz",
+	"description": "The guy from fortnite i was playing with her hitting the griddy\n\n---\n\n**Created by** [CZ](https://runeforge.dev/users/CZ)\n\n**Original:** https://runeforge.dev/mods/380bfccd-67f1-4c42-8b24-1472c5cc9240\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/karma-batman-who-laughs-griddy/thumb.webp?v=dd965c1f",
+	"file": {
+		"version": 1,
+		"asset": "karma-batman-who-laughs-griddy-v1.fantome",
+		"size": 8919660,
+		"sha256": "ec2ed44981f1eeb1e2a5950e66e83399ace3ad5a0a1a775185d4afec6056170b"
+	},
+	"chromas": []
+}

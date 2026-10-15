@@ -1,0 +1,25 @@
+{
+	"id": "kamen-rider-ex-aid-ezreal",
+	"name": "Kamen Rider Ex-Aid Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "blaster",
+	"description": "---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/495321d7-f2a9-4bb7-a806-8b69a7a69a43\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kamen-rider-ex-aid-ezreal/thumb.webp?v=1eded5d3",
+	"file": {
+		"version": 1,
+		"asset": "kamen-rider-ex-aid-ezreal-v1.fantome",
+		"size": 19153040,
+		"sha256": "890de5c98ed4f1b63d48ed93588727e6e4022c4006745f725fad8d7303d52329"
+	},
+	"chromas": []
+}

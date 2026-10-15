@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:56:27.239Z",
+	"generatedAt": "2026-10-15T10:59:32.712Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -722,6 +722,10 @@
 			"name": "istolehappymealfromkids",
 			"avatar": "creators/istolehappymealfromkids.png?v=a4dad105",
 			"bio": "i stole happy meal from kids u can dm me in discord for help or something",
+			"links": {}
+		},
+		"itsameandrio-0": {
+			"name": "itsameandrio#0",
 			"links": {}
 		},
 		"itskazen": {
@@ -17591,6 +17595,251 @@
 				"asset": "kai-sa-princess-kaisa-v1.fantome",
 				"size": 2554019,
 				"sha256": "4cd83f136c302ea417f9937624543d57a30395b7082602b48b4748fa74e12199"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-secret-agent-kaisa",
+			"name": "Secret Agent Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-secret-agent-kaisa/thumb.webp?v=e635826c",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-secret-agent-kaisa-v1.fantome",
+				"size": 9694425,
+				"sha256": "087adae382c04559582464e6496e8d3cce742cf213edfc6912d12e4dc1732054"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-wr-crystal-rose-kaisa",
+			"name": "WR Crystal Rose Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-wr-crystal-rose-kaisa/thumb.webp?v=0eaa4e4d",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-wr-crystal-rose-kaisa-v1.fantome",
+				"size": 7898547,
+				"sha256": "43e9511d97e9aa138c6fa6a45461625a1078d72ad4fe8d619357546e45be0b4a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kalista-bloodmoon-chromas",
+			"name": "Kalista BLOODMOON chromas",
+			"champion": 429,
+			"base": 0,
+			"creator": "itsameandrio-0",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kalista-bloodmoon-chromas/thumb.webp?v=15bfd5bc",
+			"file": {
+				"version": 1,
+				"asset": "kalista-bloodmoon-chromas-v1.fantome",
+				"size": 6290867,
+				"sha256": "c186369599f27fa60d538308b3e0b221cf92e724adb44f12c20e85d3fdef6a02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kamen-rider-ex-aid-ezreal",
+			"name": "Kamen Rider Ex-Aid Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kamen-rider-ex-aid-ezreal/thumb.webp?v=1eded5d3",
+			"file": {
+				"version": 1,
+				"asset": "kamen-rider-ex-aid-ezreal-v1.fantome",
+				"size": 19153040,
+				"sha256": "890de5c98ed4f1b63d48ed93588727e6e4022c4006745f725fad8d7303d52329"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karina-fiora",
+			"name": "Karina Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/karina-fiora/thumb.webp?v=bf8ce3b1",
+			"file": {
+				"version": 1,
+				"asset": "karina-fiora-v1.fantome",
+				"size": 605329,
+				"sha256": "e87f5caefa463b1ddd187aba4fe975c7c1a92fbb61a423d26c1411d8d4aee374"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karma-batman-who-laughs-griddy",
+			"name": "Karma Batman Who Laughs (Griddy)",
+			"champion": 43,
+			"base": 0,
+			"creator": "cz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/karma-batman-who-laughs-griddy/thumb.webp?v=dd965c1f",
+			"file": {
+				"version": 1,
+				"asset": "karma-batman-who-laughs-griddy-v1.fantome",
+				"size": 8919660,
+				"sha256": "ec2ed44981f1eeb1e2a5950e66e83399ace3ad5a0a1a775185d4afec6056170b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kassadin-mig-29ssadin",
+			"name": "MiG-29SSADIN",
+			"champion": 38,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kassadin-mig-29ssadin/thumb.webp?v=5b9f5767",
+			"file": {
+				"version": 1,
+				"asset": "kassadin-mig-29ssadin-v1.fantome",
+				"size": 3278615,
+				"sha256": "e1b245efef4a8fcfafeb0486e0c3cf6df2462433f15bd4d37eac2458a3482f5a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kassadin-vine-boom-ult-sfx",
+			"name": "Kassadin vine boom ult SFX",
+			"champion": 38,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kassadin-vine-boom-ult-sfx/thumb.webp?v=bea1f5ce",
+			"file": {
+				"version": 1,
+				"asset": "kassadin-vine-boom-ult-sfx-v1.fantome",
+				"size": 545111,
+				"sha256": "507e353a88f53ebe78d61ee04848538681f143755760c2dc5b998656dc732b08"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-asu",
+			"name": "Katarina ASU",
+			"champion": 55,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/katarina-asu/thumb.webp?v=1c990617",
+			"file": {
+				"version": 1,
+				"asset": "katarina-asu-v1.fantome",
+				"size": 27550817,
+				"sha256": "ef0f0ab552652efcad04e78465f2c990fd0674c5d3c339d929ecb2c977c0ac29"
+			},
+			"chromas": []
+		},
+		{
+			"id": "katarina-katabeena",
+			"name": "Katabeena",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/katarina-katabeena/thumb.webp?v=36341c55",
+			"file": {
+				"version": 1,
+				"asset": "katarina-katabeena-v1.fantome",
+				"size": 13170445,
+				"sha256": "b640d61dc6e1bd3ae90a5c6e4056bb0d3fc9aeb444cf1a2c5e607cefb944051d"
 			},
 			"chromas": []
 		},

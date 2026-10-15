@@ -1,0 +1,24 @@
+{
+	"id": "kassadin-mig-29ssadin",
+	"name": "MiG-29SSADIN",
+	"champion": 38,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/d11921ad-9ecb-4795-b158-e601b8c2926a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kassadin-mig-29ssadin/thumb.webp?v=5b9f5767",
+	"file": {
+		"version": 1,
+		"asset": "kassadin-mig-29ssadin-v1.fantome",
+		"size": 3278615,
+		"sha256": "e1b245efef4a8fcfafeb0486e0c3cf6df2462433f15bd4d37eac2458a3482f5a"
+	},
+	"chromas": []
+}

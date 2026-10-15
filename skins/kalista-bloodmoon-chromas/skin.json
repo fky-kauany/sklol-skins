@@ -1,0 +1,23 @@
+{
+	"id": "kalista-bloodmoon-chromas",
+	"name": "Kalista BLOODMOON chromas",
+	"champion": 429,
+	"base": 0,
+	"creator": "itsameandrio-0",
+	"description": "Important info: Chroma only works with Bloodmoon Kalista skin.\r\n\r\nAffects: Textures, Ability Colors\r\n\r\nAuthor: Squids Johnson\r\n\r\nSkin: Bloodmoon Kalista\r\n\r\nContact: discord: @itsmeandrio\r\n\r\nI created a set of custom chromas for Blood Moon Kalista base model, each with its own vibe.  I wanted every version to feel different, whether it’s more elegant, ghostly, aggressive, or cursed. Enjoy.\n\n---\n\n**Created by** [itsameandrio#0](https://runeforge.dev/users/itsameandrio%230)\n\n**Original:** https://runeforge.dev/mods/326379ae-ed85-499e-8565-3f8358b5121e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kalista-bloodmoon-chromas/thumb.webp?v=15bfd5bc",
+	"file": {
+		"version": 1,
+		"asset": "kalista-bloodmoon-chromas-v1.fantome",
+		"size": 6290867,
+		"sha256": "c186369599f27fa60d538308b3e0b221cf92e724adb44f12c20e85d3fdef6a02"
+	},
+	"chromas": []
+}

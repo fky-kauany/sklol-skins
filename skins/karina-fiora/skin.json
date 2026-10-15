@@ -1,0 +1,24 @@
+{
+	"id": "karina-fiora",
+	"name": "Karina Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Karina Fiora\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/5dbc6896-1158-4d68-9b1d-7ff59e93bc7a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/karina-fiora/thumb.webp?v=bf8ce3b1",
+	"file": {
+		"version": 1,
+		"asset": "karina-fiora-v1.fantome",
+		"size": 605329,
+		"sha256": "e87f5caefa463b1ddd187aba4fe975c7c1a92fbb61a423d26c1411d8d4aee374"
+	},
+	"chromas": []
+}
