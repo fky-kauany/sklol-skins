@@ -1,0 +1,25 @@
+{
+	"id": "malphite-king-whomp",
+	"name": "Malphite King Whomp",
+	"champion": 54,
+	"base": 0,
+	"creator": "segil-mansay",
+	"description": "Hello!!! This is my first mod — I’m currently working on more and I want to keep improving. As you may have noticed, I also make the art for the icons and the splash myself. Anyways, I hope you enjoy it!\n(Oh, and by the way, doing all of this is a fuck ton of work, so any help is welcome! Once I gain more experience, I’ll be opening commissions too.)\nOH, and special thanks to my friend and mentor aryasdemise, he recorded the preview and explained the basics whenever I got stuck X)\nYou can access my social media and support me here: https://segil.carrd.com\n\n---\n\n**Created by** [Segil Mansay](https://runeforge.dev/users/Segil_Mansay)\n\n**Original:** https://runeforge.dev/mods/b0d4dcf2-b91f-4154-a6cb-485c80430637\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/malphite-king-whomp/thumb.webp?v=def5c5ed",
+	"file": {
+		"version": 1,
+		"asset": "malphite-king-whomp-v1.fantome",
+		"size": 4878214,
+		"sha256": "e4e19f02a91073cbaf8b3335a85c24109e9c7225fc31ba71d7cea4ba5b5531f9"
+	},
+	"chromas": []
+}

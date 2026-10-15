@@ -1,0 +1,26 @@
+{
+	"id": "marauder-kalista-ashen-knight-chroma",
+	"name": "Marauder Kalista - Ashen Knight Chroma",
+	"champion": 429,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Marauder Kalista\r\n\r\n╰┈➤ _The idea for this mod was to make Kalista fit in with the Ashen Knights_\r\n\r\n_Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here**](https://1gem1.straw.page/customskinsquestions), or message me on discord (1gem1), or here is [**more info**](https://1gem1.straw.page/) for anything else!\r\n\r\nkalista needs more love man...\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/f96cf43f-1b62-407c-9e17-611aa458ad7a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/marauder-kalista-ashen-knight-chroma/thumb.webp?v=925b608e",
+	"file": {
+		"version": 1,
+		"asset": "marauder-kalista-ashen-knight-chroma-v1.fantome",
+		"size": 9101367,
+		"sha256": "0a18564bf8e05b83061f04ef25caa4c26ed2e795017b2dcfc19833fe13390517"
+	},
+	"chromas": []
+}

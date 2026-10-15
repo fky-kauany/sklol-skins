@@ -1,0 +1,23 @@
+{
+	"id": "margeaphine-seraphine-w-voice",
+	"name": "Margeaphine (Seraphine) w/ Voice!",
+	"champion": 147,
+	"base": 0,
+	"creator": "beyonceknowles",
+	"description": "Replaces: Base Seraphine \r\n\r\nModifications: Model Replacement, UI Replacement (Loading Screen, In-Game), Voice\r\n\r\na mod made as a test for my first mod, its tradition (i always mod marge over ppl for my first)\n\n---\n\n**Created by** [beyonceknowles](https://runeforge.dev/users/beyonceknowles)\n\n**Original:** https://runeforge.dev/mods/cb9d3efb-6753-404a-bf92-87055d38fb47\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/margeaphine-seraphine-w-voice/thumb.webp?v=f2df1f5e",
+	"file": {
+		"version": 1,
+		"asset": "margeaphine-seraphine-w-voice-v1.fantome",
+		"size": 3712094,
+		"sha256": "90545074054598940d06458a6596c840e6e117d9e364040a9cf5957e9ed08946"
+	},
+	"chromas": []
+}

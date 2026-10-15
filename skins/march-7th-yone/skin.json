@@ -1,0 +1,25 @@
+{
+	"id": "march-7th-yone",
+	"name": "March 7th Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : March 7th Yone\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.2\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/1dec5d7b-129d-4a63-9a13-7d38d02ccb31\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/march-7th-yone/thumb.webp?v=a937bad4",
+	"file": {
+		"version": 1,
+		"asset": "march-7th-yone-v1.fantome",
+		"size": 4301438,
+		"sha256": "ace26fc128dc9569859e048c535a24f19ded0f4ea0d0f83a5f03036bd59cbdfc"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:28:04.337Z",
+	"generatedAt": "2026-10-15T11:31:31.306Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -263,6 +263,12 @@
 				"site": "https://linktr.ee/BeardedShepherd",
 				"x": "https://twitter.com/lxver8",
 				"youtube": "https://www.youtube.com/c/HuselPusel"
+			}
+		},
+		"beyonceknowles": {
+			"name": "beyonceknowles",
+			"links": {
+				"youtube": "https://www.youtube.com/@soreaphine9955"
 			}
 		},
 		"blaster": {
@@ -20169,6 +20175,256 @@
 				"asset": "mai-sakurajima-gwen-v1.fantome",
 				"size": 10507508,
 				"sha256": "855b69c7f71b5d8cb5b0600a0501e5f98a0ff76cb02cf7b6a02dca880d77fab1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mai-shiranui-sivir",
+			"name": "Mai Shiranui Sivir",
+			"champion": 15,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mai-shiranui-sivir/thumb.webp?v=1c585b0d",
+			"file": {
+				"version": 1,
+				"asset": "mai-shiranui-sivir-v1.fantome",
+				"size": 239019207,
+				"sha256": "9f1fbadac6042da7d2a6848d87dd616cc7c49c868756d9fe2abfcac1444d2f63"
+			},
+			"chromas": []
+		},
+		{
+			"id": "maid-gwen",
+			"name": "Maid Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/maid-gwen/thumb.webp?v=9eaefb2e",
+			"file": {
+				"version": 1,
+				"asset": "maid-gwen-v1.fantome",
+				"size": 6118317,
+				"sha256": "bfc6b37636ee774991f9f3ddb3487530b4b350f0219128ef01e7a59f1b7fff71"
+			},
+			"chromas": []
+		},
+		{
+			"id": "makima-ahri",
+			"name": "Makima Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/makima-ahri/thumb.webp?v=4f53a8e6",
+			"file": {
+				"version": 1,
+				"asset": "makima-ahri-v1.fantome",
+				"size": 20515191,
+				"sha256": "1a8b70992b042078f5b2c5d74cd43173440c3903655d9d30eeba9c77ad0591ad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "makima-aurora",
+			"name": "Makima Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/makima-aurora/thumb.webp?v=5e9cc375",
+			"file": {
+				"version": 1,
+				"asset": "makima-aurora-v1.fantome",
+				"size": 35219678,
+				"sha256": "dbd3655883b5112f21a8f76f3b56c8e65a4ac47fdee87050b1dc75208f023307"
+			},
+			"chromas": []
+		},
+		{
+			"id": "makka-pakka-teemo",
+			"name": "Makka Pakka Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/makka-pakka-teemo/thumb.webp?v=9bcbe200",
+			"file": {
+				"version": 1,
+				"asset": "makka-pakka-teemo-v1.fantome",
+				"size": 17971275,
+				"sha256": "d21dd79544bcdd1b9f4fd377e7ea575db03554ecf6e640f15005d4276bb0b43a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "malphite-fan-asu-2025-repost",
+			"name": "Malphite Fan Asu (2025 repost)",
+			"champion": 54,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/malphite-fan-asu-2025-repost/thumb.webp?v=8593d117",
+			"file": {
+				"version": 1,
+				"asset": "malphite-fan-asu-2025-repost-v1.fantome",
+				"size": 23068741,
+				"sha256": "a6988a5380dbb90065ddf0f231f899ef53139389b35d471d01432343dca96f46"
+			},
+			"chromas": []
+		},
+		{
+			"id": "malphite-king-whomp",
+			"name": "Malphite King Whomp",
+			"champion": 54,
+			"base": 0,
+			"creator": "segil-mansay",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/malphite-king-whomp/thumb.webp?v=def5c5ed",
+			"file": {
+				"version": 1,
+				"asset": "malphite-king-whomp-v1.fantome",
+				"size": 4878214,
+				"sha256": "e4e19f02a91073cbaf8b3335a85c24109e9c7225fc31ba71d7cea4ba5b5531f9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "marauder-kalista-ashen-knight-chroma",
+			"name": "Marauder Kalista - Ashen Knight Chroma",
+			"champion": 429,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/marauder-kalista-ashen-knight-chroma/thumb.webp?v=925b608e",
+			"file": {
+				"version": 1,
+				"asset": "marauder-kalista-ashen-knight-chroma-v1.fantome",
+				"size": 9101367,
+				"sha256": "0a18564bf8e05b83061f04ef25caa4c26ed2e795017b2dcfc19833fe13390517"
+			},
+			"chromas": []
+		},
+		{
+			"id": "march-7th-yone",
+			"name": "March 7th Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/march-7th-yone/thumb.webp?v=a937bad4",
+			"file": {
+				"version": 1,
+				"asset": "march-7th-yone-v1.fantome",
+				"size": 4301438,
+				"sha256": "ace26fc128dc9569859e048c535a24f19ded0f4ea0d0f83a5f03036bd59cbdfc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "margeaphine-seraphine-w-voice",
+			"name": "Margeaphine (Seraphine) w/ Voice!",
+			"champion": 147,
+			"base": 0,
+			"creator": "beyonceknowles",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/margeaphine-seraphine-w-voice/thumb.webp?v=f2df1f5e",
+			"file": {
+				"version": 1,
+				"asset": "margeaphine-seraphine-w-voice-v1.fantome",
+				"size": 3712094,
+				"sha256": "90545074054598940d06458a6596c840e6e117d9e364040a9cf5957e9ed08946"
 			},
 			"chromas": []
 		},

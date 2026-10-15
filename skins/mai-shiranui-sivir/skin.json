@@ -1,0 +1,26 @@
+{
+	"id": "mai-shiranui-sivir",
+	"name": "Mai Shiranui Sivir",
+	"champion": 15,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (Matth Spotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n______________________________________________________________________________________________________\n\nMy Contacts:\n\nDiscord server: https://discord.gg/d6JYnSvsg 💛\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/4abd3a5e-ae2c-4d91-97b5-37ef10ca13ef\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mai-shiranui-sivir/thumb.webp?v=1c585b0d",
+	"file": {
+		"version": 1,
+		"asset": "mai-shiranui-sivir-v1.fantome",
+		"size": 239019207,
+		"sha256": "9f1fbadac6042da7d2a6848d87dd616cc7c49c868756d9fe2abfcac1444d2f63"
+	},
+	"chromas": []
+}

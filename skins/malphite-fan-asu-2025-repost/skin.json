@@ -1,0 +1,26 @@
+{
+	"id": "malphite-fan-asu-2025-repost",
+	"name": "Malphite Fan Asu (2025 repost)",
+	"champion": 54,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Disclaimer: This was planned to be a full fanmade ASU for Malphite, covering all the champion's skins and adding a lot of features. It was divided in 2 parts, being the first one just for the base skin.\r\n\r\nHowever, Riot hinted they were working in an official ASU (as could be seen in some clips in Skarner's rework) and so, we decided to scrap it and only part 1 was released. But as for today we didn't get the actual official ASU yet, and it has not been announced.\r\n\r\nSpecial thanks to Kaizen, who offered to fix this mod for current patch.\r\n\r\nImportant note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\r\n\r\nBase champion: Malphite\r\n\r\nSkin: Default\r\n\r\nAuthors: Sauronkaiser, Bloojae, Kaizen, other Runeforge fellas...\r\n\r\nDescription: Malphite, but it was not made in 2009.\r\n\r\nFeatures:\r\n\r\n-New model and textures.\r\n\r\n-New full set of animations.\r\n\r\n-Extra animations in the set.\r\n\r\n-New particles\r\n\r\n-New Splashart loading screen.\r\n\r\n-New Ability icons and HUD.\r\n\r\n-New voiceover (from LoR)\r\n\r\n-Chip included. You can pet him.\r\n\r\nSources and references:\r\n\r\n-Voiceover from LoR.\r\n\r\n-Model and textures from Wild Rift.\r\n\r\n-All animations made by me.\r\n\r\n-Legacy changelog lost.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/bbf62079-0db0-431f-a9b8-fd97286b4dad\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/malphite-fan-asu-2025-repost/thumb.webp?v=8593d117",
+	"file": {
+		"version": 1,
+		"asset": "malphite-fan-asu-2025-repost-v1.fantome",
+		"size": 23068741,
+		"sha256": "a6988a5380dbb90065ddf0f231f899ef53139389b35d471d01432343dca96f46"
+	},
+	"chromas": []
+}

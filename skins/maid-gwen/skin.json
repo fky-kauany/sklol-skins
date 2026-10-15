@@ -1,0 +1,24 @@
+{
+	"id": "maid-gwen",
+	"name": "Maid Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "yoruqueenofnight",
+	"description": "* Champion: Gwen\n* Skins: Default\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game icon\n* Modified VFX\n\n## Credits\n\n* Background image: Assets from © EA Games\n* Model parts from Selena - Double Identity (Mobile Legends) ripped by [Prasblacker](https://www.deviantart.com/prasblacker/art/Selena-Double-Identity-DL-870731781)\n* Model parts from Elin Maid Outfit Special (Tera) ripped by Damonix\n\n## Completely optional: if you enjoy my work you can...\n\n[**Support me on Ko-Fi**](https://ko-fi.com/yoruqueenofnight) **or** [Become a Patreon](https://www.patreon.com/c/user?u=63840897)\n\n---\n\n**Created by** [YoruQueenOfNight](https://runeforge.dev/users/YoruQueenOfNight)\n\n**Original:** https://runeforge.dev/mods/b792522f-a74b-47b0-848f-078f69f04591\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/maid-gwen/thumb.webp?v=9eaefb2e",
+	"file": {
+		"version": 1,
+		"asset": "maid-gwen-v1.fantome",
+		"size": 6118317,
+		"sha256": "bfc6b37636ee774991f9f3ddb3487530b4b350f0219128ef01e7a59f1b7fff71"
+	},
+	"chromas": []
+}
