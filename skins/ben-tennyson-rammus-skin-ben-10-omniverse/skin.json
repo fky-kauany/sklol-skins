@@ -1,0 +1,26 @@
+{
+	"id": "ben-tennyson-rammus-skin-ben-10-omniverse",
+	"name": "Ben Tennyson Rammus Skin (Ben 10: Omniverse)",
+	"champion": 33,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nChampion: Rammus (Default Skin)\n\nVersion: 1.1.3 (06/06/25)\n\nChanges: Square, Circle and Skill icons; Animations; Vfx; Sfx; Default skin model and texture.\n\nAuthor: Sirdy789\n\nCredits: \"[Cameron Carson Official](https://www.models-resource.com/submitter/Cameron+Carson+Official/)\" resource: [https://www.models-resource.com/playstation\\_3/ben10omniverse/](https://www.models-resource.com/playstation_3/ben10omniverse/)\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n[sirdyasd@gmail.com](mailto:sirdyasd@gmail.com)        Discord: sirdyasd\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/4ba032c2-658c-4b8f-97b5-fc9f94070cb8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ben-tennyson-rammus-skin-ben-10-omniverse/thumb.webp?v=edaddd7d",
+	"file": {
+		"version": 1,
+		"asset": "ben-tennyson-rammus-skin-ben-10-omniverse-v1.fantome",
+		"size": 16884240,
+		"sha256": "292830980c5b6004176d27dc9dcee3ec56cb365eefad2d46d234662c07113092"
+	},
+	"chromas": []
+}

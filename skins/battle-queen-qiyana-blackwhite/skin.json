@@ -1,0 +1,26 @@
+{
+	"id": "battle-queen-qiyana-blackwhite",
+	"name": "Battle Queen Qiyana - BlackWhite",
+	"champion": 246,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Battle Queen Qiyana\r\n\r\n╰┈➤ _The idea for this mod was to make Battle Queen Qiyana with Black and White textures, very L9 core :)_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/46ad4706-72c6-4a4e-9363-757dc81af7b7\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-queen-qiyana-blackwhite/thumb.webp?v=ff1282ad",
+	"file": {
+		"version": 1,
+		"asset": "battle-queen-qiyana-blackwhite-v1.fantome",
+		"size": 6004596,
+		"sha256": "bab26a8956c2ae9006477e75d13472e1d205cb683eb75ee5cd404f49688adcaa"
+	},
+	"chromas": []
+}

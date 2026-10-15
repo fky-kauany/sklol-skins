@@ -1,0 +1,26 @@
+{
+	"id": "rosethorn-zeri",
+	"name": "Rosethorn Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/bdac77dd-3cd4-490f-8a35-7aee3212b572\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rosethorn-zeri/thumb.webp?v=1e9411a2",
+	"file": {
+		"version": 1,
+		"asset": "rosethorn-zeri-v1.fantome",
+		"size": 11141102,
+		"sha256": "542bc4940f90f3528af44113897e8f0ac731958016042375b6cd570cc3e0cd5a"
+	},
+	"chromas": []
+}

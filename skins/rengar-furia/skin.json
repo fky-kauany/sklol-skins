@@ -1,0 +1,23 @@
+{
+	"id": "rengar-furia",
+	"name": "Rengar FURIA",
+	"champion": 107,
+	"base": 0,
+	"creator": "texugo-lol",
+	"description": "Rengar FURIA, fan-made custom skin for BASE Rengar.\n\n---\n\n**Created by** [Texugo_LoL](https://runeforge.dev/users/Texugo_LoL)\n\n**Original:** https://runeforge.dev/mods/73828988-2256-4fcd-ba57-6d9cb3c9a1a2\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rengar-furia/thumb.webp?v=415625ce",
+	"file": {
+		"version": 1,
+		"asset": "rengar-furia-v1.fantome",
+		"size": 341858,
+		"sha256": "d9fd94c9161c2a67461fd3cf3001ab0dafb44dd6e6640f0553da78ac1c8d77dc"
+	},
+	"chromas": []
+}

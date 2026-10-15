@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:06:09.338Z",
+	"generatedAt": "2026-10-15T08:08:56.745Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -437,6 +437,11 @@
 		"gazor": {
 			"name": "Gazor",
 			"avatar": "creators/gazor.webp?v=e4d83a29",
+			"links": {}
+		},
+		"glacierfrozzt": {
+			"name": "GlacierFroZzt",
+			"avatar": "creators/glacierfrozzt.jpg?v=f886fec2",
 			"links": {}
 		},
 		"gloomytree": {
@@ -898,6 +903,15 @@
 				"youtube": "https://www.youtube.com/@SirDexal"
 			}
 		},
+		"sirdy789": {
+			"name": "Sirdy  (🇧🇷)",
+			"avatar": "creators/sirdy789.png?v=19fccd1f",
+			"bio": "(◕‿◕)      ->  ♡  \n\nDiscord: #sirdyasd",
+			"links": {
+				"site": "https://www.models-resource.com/submitter/Cameron+Carson+Official/",
+				"youtube": "https://youtu.be/3ot7OuYo-jg"
+			}
+		},
 		"sofi9": {
 			"name": "Sofi9",
 			"avatar": "creators/sofi9.jpg?v=9a0354ea",
@@ -950,6 +964,10 @@
 				"site": "https://pin.it/4Hxg2uYhY",
 				"x": "https://x.com/Ranfringg"
 			}
+		},
+		"texugo-lol": {
+			"name": "Texugo_LoL",
+			"links": {}
 		},
 		"thicario": {
 			"name": "Thicario",
@@ -3253,6 +3271,204 @@
 			"chromas": []
 		},
 		{
+			"id": "battle-hound-fiora-wr-port",
+			"name": "Battle Hound Fiora WR Port",
+			"champion": 114,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-hound-fiora-wr-port/thumb.webp?v=406b1e26",
+			"file": {
+				"version": 1,
+				"asset": "battle-hound-fiora-wr-port-v1.fantome",
+				"size": 8970785,
+				"sha256": "bb0631a41daea934da1ad060f5cb96a2235a27bcdbbbaa9184887976dc0e5a98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-jelly-syndra",
+			"name": "Battle Jelly Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-jelly-syndra/thumb.webp?v=8b192428",
+			"file": {
+				"version": 1,
+				"asset": "battle-jelly-syndra-v1.fantome",
+				"size": 19754961,
+				"sha256": "e14da87acc804d9a3183f13f5566d7ef0d0cfd2ab114362628111c60a5eac922"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-kitty-cat-katarina",
+			"name": "Battle Kitty Cat Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-kitty-cat-katarina/thumb.webp?v=050de21a",
+			"file": {
+				"version": 1,
+				"asset": "battle-kitty-cat-katarina-v1.fantome",
+				"size": 19102243,
+				"sha256": "3aff2020c813c0c5b5175787a1b910db6bcae8289d0a71fae27b732165a5ae48"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-principal-yuumi-tft-set-15-chroma",
+			"name": "Battle Principal Yuumi TFT Set 15 Chroma",
+			"champion": 350,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-principal-yuumi-tft-set-15-chroma/thumb.webp?v=faa74d17",
+			"file": {
+				"version": 1,
+				"asset": "battle-principal-yuumi-tft-set-15-chroma-v1.fantome",
+				"size": 3818652,
+				"sha256": "14f22d3efe33ec913ff1023a9cf025c75649e7ddb348249ef6e6a5c63c84c283"
+			},
+			"chromas": []
+		},
+		{
+			"id": "battle-queen-qiyana-blackwhite",
+			"name": "Battle Queen Qiyana - BlackWhite",
+			"champion": 246,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/battle-queen-qiyana-blackwhite/thumb.webp?v=ff1282ad",
+			"file": {
+				"version": 1,
+				"asset": "battle-queen-qiyana-blackwhite-v1.fantome",
+				"size": 6004596,
+				"sha256": "bab26a8956c2ae9006477e75d13472e1d205cb683eb75ee5cd404f49688adcaa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bed-zoe",
+			"name": "Bed Zoe",
+			"champion": 142,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bed-zoe/thumb.webp?v=f4f78938",
+			"file": {
+				"version": 1,
+				"asset": "bed-zoe-v1.fantome",
+				"size": 457960,
+				"sha256": "03ba6a971c5d216879d0ee511eb1e08d477cde0227aefa9eb75d68c715175920"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bel-veth-with-gyatt",
+			"name": "Bel'Veth with GYATT",
+			"champion": 200,
+			"base": 0,
+			"creator": "glacierfrozzt",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bel-veth-with-gyatt/thumb.webp?v=bc52b133",
+			"file": {
+				"version": 1,
+				"asset": "bel-veth-with-gyatt-v1.fantome",
+				"size": 989471,
+				"sha256": "cd8806aed3bc65073526ec2ebef8f095629fb1f59cb3c89fd11ed14b2f2cc6b9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ben-tennyson-rammus-skin-ben-10-omniverse",
+			"name": "Ben Tennyson Rammus Skin (Ben 10: Omniverse)",
+			"champion": 33,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ben-tennyson-rammus-skin-ben-10-omniverse/thumb.webp?v=edaddd7d",
+			"file": {
+				"version": 1,
+				"asset": "ben-tennyson-rammus-skin-ben-10-omniverse-v1.fantome",
+				"size": 16884240,
+				"sha256": "292830980c5b6004176d27dc9dcee3ec56cb365eefad2d46d234662c07113092"
+			},
+			"chromas": []
+		},
+		{
 			"id": "better-masquerade-evelynn",
 			"name": "Better Masquerade Evelynn",
 			"champion": 28,
@@ -4209,6 +4425,228 @@
 				"asset": "prestige-obsidian-dragon-sett-rose-v1.fantome",
 				"size": 7694805,
 				"sha256": "1b7018f091bb8149c9fd02e51576dc7914b47b46f6837817de097b03d233fe98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-yone-vfx-update",
+			"name": "Project Yone (VFX Update)",
+			"champion": 777,
+			"base": 0,
+			"creator": "notcz",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-yone-vfx-update/thumb.webp?v=b2839ea7",
+			"file": {
+				"version": 1,
+				"asset": "project-yone-vfx-update-v1.fantome",
+				"size": 8501341,
+				"sha256": "77d8db034bf60ec982bedb182fb8c450963337fe150af6f882924d37f4bbf17e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "realistic-qiyana",
+			"name": "Realistic Qiyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/realistic-qiyana/thumb.webp?v=7fd3f0b4",
+			"file": {
+				"version": 1,
+				"asset": "realistic-qiyana-v1.fantome",
+				"size": 4310219,
+				"sha256": "bbc975a422aadeeed466198ddbf4aa15cc9db0cd6d55b0a2793c43e589385ed3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rengar-furia",
+			"name": "Rengar FURIA",
+			"champion": 107,
+			"base": 0,
+			"creator": "texugo-lol",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rengar-furia/thumb.webp?v=415625ce",
+			"file": {
+				"version": 1,
+				"asset": "rengar-furia-v1.fantome",
+				"size": 341858,
+				"sha256": "d9fd94c9161c2a67461fd3cf3001ab0dafb44dd6e6640f0553da78ac1c8d77dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rhaast-singed",
+			"name": "Rhaast Singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rhaast-singed/thumb.webp?v=9ee6468c",
+			"file": {
+				"version": 1,
+				"asset": "rhaast-singed-v1.fantome",
+				"size": 4005021,
+				"sha256": "b133740fc79c2a9c59ac25058fa7636cc63cb7e746afef6788ee739cff393e00"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rosethorn-zeri",
+			"name": "Rosethorn Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rosethorn-zeri/thumb.webp?v=1e9411a2",
+			"file": {
+				"version": 1,
+				"asset": "rosethorn-zeri-v1.fantome",
+				"size": 11141102,
+				"sha256": "542bc4940f90f3528af44113897e8f0ac731958016042375b6cd570cc3e0cd5a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "saitama-vi",
+			"name": "Saitama Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/saitama-vi/thumb.webp?v=655576b9",
+			"file": {
+				"version": 1,
+				"asset": "saitama-vi-v1.fantome",
+				"size": 1866009,
+				"sha256": "f95c6d5ffd4b4e0dee28e579e0abf5abe2e53c40b8f1264f4a536987f4c65267"
+			},
+			"chromas": []
+		},
+		{
+			"id": "set-smite-zaahen",
+			"name": "Set (Smite) - Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "viralcyclopes",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/set-smite-zaahen/thumb.webp?v=44445dbd",
+			"file": {
+				"version": 1,
+				"asset": "set-smite-zaahen-v1.fantome",
+				"size": 13270551,
+				"sha256": "078b018138cbfcbce2b9e27b97ecf1eafedf509a27d9355ca4908b5752a219db"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soul-fighter-yasuo-wr-port-v2-0",
+			"name": "Soul Fighter Yasuo WR Port V2.0",
+			"champion": 157,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/soul-fighter-yasuo-wr-port-v2-0/thumb.webp?v=2677e149",
+			"file": {
+				"version": 1,
+				"asset": "soul-fighter-yasuo-wr-port-v2-0-v1.fantome",
+				"size": 12446871,
+				"sha256": "a4fb4634e122d1a717c2fa88f3d841f80a447be22394859f55f739c94d5a1fde"
+			},
+			"chromas": []
+		},
+		{
+			"id": "steve-nautilus",
+			"name": "Steve Nautilus",
+			"champion": 111,
+			"base": 0,
+			"creator": "notcz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/steve-nautilus/thumb.webp?v=ef54b78c",
+			"file": {
+				"version": 1,
+				"asset": "steve-nautilus-v1.fantome",
+				"size": 662512,
+				"sha256": "4952486c400cc738fc424ec8c221cc770ea4c38ea173e58c3ce6c11fbbe6f2d0"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,22 @@
+{
+	"id": "bel-veth-with-gyatt",
+	"name": "Bel'Veth with GYATT",
+	"champion": 200,
+	"base": 0,
+	"creator": "glacierfrozzt",
+	"description": "Apparently, Riot made Bel'Veth in some skins to have a body, so this mod makes some texture transparent so we can appreciate it, and thats it :) \r\n\r\nWorks in her base skin for now, if I learn how to model in 3D ill do the other skins\r\n\r\n(Gallery for in game images)\n\n---\n\n**Created by** [GlacierFroZzt](https://runeforge.dev/users/GlacierFroZzt)\n\n**Original:** https://runeforge.dev/mods/91c8ccd1-67d4-4920-972b-8dba50c0846c\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bel-veth-with-gyatt/thumb.webp?v=bc52b133",
+	"file": {
+		"version": 1,
+		"asset": "bel-veth-with-gyatt-v1.fantome",
+		"size": 989471,
+		"sha256": "cd8806aed3bc65073526ec2ebef8f095629fb1f59cb3c89fd11ed14b2f2cc6b9"
+	},
+	"chromas": []
+}

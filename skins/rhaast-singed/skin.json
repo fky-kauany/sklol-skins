@@ -1,0 +1,26 @@
+{
+	"id": "rhaast-singed",
+	"name": "Rhaast Singed",
+	"champion": 27,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "I don't even play sing\\*d all that much I just thought it'd be funny\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/cad9dc83-1759-4246-b627-4f0fb51d8fb1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rhaast-singed/thumb.webp?v=9ee6468c",
+	"file": {
+		"version": 1,
+		"asset": "rhaast-singed-v1.fantome",
+		"size": 4005021,
+		"sha256": "b133740fc79c2a9c59ac25058fa7636cc63cb7e746afef6788ee739cff393e00"
+	},
+	"chromas": []
+}

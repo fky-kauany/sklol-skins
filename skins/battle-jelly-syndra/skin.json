@@ -1,0 +1,26 @@
+{
+	"id": "battle-jelly-syndra",
+	"name": "Battle Jelly Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Syndra\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Battle Jelly Syndra\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1JlJOHY4W6MzkqG6mlDd-Z7-2oyHtcWKu?usp=sharing)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/da8ab791-0cf9-4a72-99a9-ef3b9afcf884\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/battle-jelly-syndra/thumb.webp?v=8b192428",
+	"file": {
+		"version": 1,
+		"asset": "battle-jelly-syndra-v1.fantome",
+		"size": 19754961,
+		"sha256": "e14da87acc804d9a3183f13f5566d7ef0d0cfd2ab114362628111c60a5eac922"
+	},
+	"chromas": []
+}

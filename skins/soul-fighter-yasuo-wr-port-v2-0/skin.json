@@ -1,0 +1,25 @@
+{
+	"id": "soul-fighter-yasuo-wr-port-v2-0",
+	"name": "Soul Fighter Yasuo WR Port V2.0",
+	"champion": 157,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro and ShrimpBack\n\n##### Version: 2.0.0\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro \"Linktree | FingaMiro\"))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n> WR Models: [https://discord.gg/sHSFj8zP29](https://discord.gg/sHSFj8zP29 \"DIscord | WR Modding Community\")\n\n> Credits to Dazashu for the Toonshader (the soul fighter outline) and Goat for teaching me how to add physics\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/b1355371-eb88-460d-a89a-beb4dae1400a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/soul-fighter-yasuo-wr-port-v2-0/thumb.webp?v=2677e149",
+	"file": {
+		"version": 1,
+		"asset": "soul-fighter-yasuo-wr-port-v2-0-v1.fantome",
+		"size": 12446871,
+		"sha256": "a4fb4634e122d1a717c2fa88f3d841f80a447be22394859f55f739c94d5a1fde"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "project-yone-vfx-update",
+	"name": "Project Yone (VFX Update)",
+	"champion": 777,
+	"base": 0,
+	"creator": "notcz",
+	"description": "dexal likes small childrten\r\nsay something like updated version is at divine and put link\r\nthis version is not supported anymore for updated version check divine skins type shit\r\n\r\n# MOD INFORMATION\r\n\r\n***\r\n\r\n***\r\n\r\n**This skin replaces Base Yone, it was made as a commission from Fredleoplayers : p**\r\n\r\n**Authors: Cz & SirDexal**\r\n\r\n## CREDITS\r\n\r\n***\r\n\r\n***\r\n\r\nModel: [CZ](https://runeforge.dev/users/notCZ \"CZ\")\r\n\r\nTexture Tweaks: CZ\r\n\r\nVfx: [SirDexal](https://runeforge.dev/users/SirDexal \"SirDexal\") & Cz\r\n\r\nSplash Art & Inspiration: [MagoArt](https://www.artstation.com/artwork/03PlL5 \"MagoArt\")\r\n\r\n### ADDITIONAL INFO\r\n\r\n***\r\n\r\n***\r\n\r\n***\r\n\r\nIf you have any questions or request about the mod you can contact **SirDexal (not cz)** through discord dm or the RuneForge server.\n\n---\n\n**Created by** [notCZ](https://runeforge.dev/users/notCZ)\n\n**Original:** https://runeforge.dev/mods/5b02f3f5-fc08-43ab-aced-86330f6789d8\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-yone-vfx-update/thumb.webp?v=b2839ea7",
+	"file": {
+		"version": 1,
+		"asset": "project-yone-vfx-update-v1.fantome",
+		"size": 8501341,
+		"sha256": "77d8db034bf60ec982bedb182fb8c450963337fe150af6f882924d37f4bbf17e"
+	},
+	"chromas": []
+}

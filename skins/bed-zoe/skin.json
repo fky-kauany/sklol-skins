@@ -1,0 +1,23 @@
+{
+	"id": "bed-zoe",
+	"name": "Bed Zoe",
+	"champion": 142,
+	"base": 0,
+	"creator": "cam",
+	"description": "Child as an actual useful object.\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/ba249b7a-9496-467e-a95e-8dcf9ac1450e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bed-zoe/thumb.webp?v=f4f78938",
+	"file": {
+		"version": 1,
+		"asset": "bed-zoe-v1.fantome",
+		"size": 457960,
+		"sha256": "03ba6a971c5d216879d0ee511eb1e08d477cde0227aefa9eb75d68c715175920"
+	},
+	"chromas": []
+}

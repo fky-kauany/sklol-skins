@@ -1,0 +1,24 @@
+{
+	"id": "realistic-qiyana",
+	"name": "Realistic Qiyana",
+	"champion": 246,
+	"base": 0,
+	"creator": "cam",
+	"description": "Qiyana but realistic.\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/a9527fa6-f2c7-4395-9b98-34ed63fa2a20\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/realistic-qiyana/thumb.webp?v=7fd3f0b4",
+	"file": {
+		"version": 1,
+		"asset": "realistic-qiyana-v1.fantome",
+		"size": 4310219,
+		"sha256": "bbc975a422aadeeed466198ddbf4aa15cc9db0cd6d55b0a2793c43e589385ed3"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "steve-nautilus",
+	"name": "Steve Nautilus",
+	"champion": 111,
+	"base": 0,
+	"creator": "notcz",
+	"description": "Commission from some time ago : p\n\nSteve from minecraft as Nautilus, with his Netherite Armor\n\n---\n\n**Created by** [notCZ](https://runeforge.dev/users/notCZ)\n\n**Original:** https://runeforge.dev/mods/23edc5a0-8ea2-4a1f-b11e-b733f59ca1e3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/steve-nautilus/thumb.webp?v=ef54b78c",
+	"file": {
+		"version": 1,
+		"asset": "steve-nautilus-v1.fantome",
+		"size": 662512,
+		"sha256": "4952486c400cc738fc424ec8c221cc770ea4c38ea173e58c3ce6c11fbbe6f2d0"
+	},
+	"chromas": []
+}

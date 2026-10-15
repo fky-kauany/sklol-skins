@@ -1,0 +1,23 @@
+{
+	"id": "saitama-vi",
+	"name": "Saitama Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Vi\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/4a182638-cb5c-43e4-9cbe-eb87c8df0023\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/saitama-vi/thumb.webp?v=655576b9",
+	"file": {
+		"version": 1,
+		"asset": "saitama-vi-v1.fantome",
+		"size": 1866009,
+		"sha256": "f95c6d5ffd4b4e0dee28e579e0abf5abe2e53c40b8f1264f4a536987f4c65267"
+	},
+	"chromas": []
+}

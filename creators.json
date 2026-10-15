@@ -436,6 +436,11 @@
 		"avatar": "creators/gazor.webp?v=e4d83a29",
 		"links": {}
 	},
+	"glacierfrozzt": {
+		"name": "GlacierFroZzt",
+		"avatar": "creators/glacierfrozzt.jpg?v=f886fec2",
+		"links": {}
+	},
 	"gloomytree": {
 		"name": "Gloomy Tree",
 		"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
@@ -895,6 +900,15 @@
 			"youtube": "https://www.youtube.com/@SirDexal"
 		}
 	},
+	"sirdy789": {
+		"name": "Sirdy  (🇧🇷)",
+		"avatar": "creators/sirdy789.png?v=19fccd1f",
+		"bio": "(◕‿◕)      ->  ♡  \n\nDiscord: #sirdyasd",
+		"links": {
+			"site": "https://www.models-resource.com/submitter/Cameron+Carson+Official/",
+			"youtube": "https://youtu.be/3ot7OuYo-jg"
+		}
+	},
 	"sofi9": {
 		"name": "Sofi9",
 		"avatar": "creators/sofi9.jpg?v=9a0354ea",
@@ -947,6 +961,10 @@
 			"site": "https://pin.it/4Hxg2uYhY",
 			"x": "https://x.com/Ranfringg"
 		}
+	},
+	"texugo-lol": {
+		"name": "Texugo_LoL",
+		"links": {}
 	},
 	"thicario": {
 		"name": "Thicario",
