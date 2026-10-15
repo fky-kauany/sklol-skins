@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:09:40.390Z",
+	"generatedAt": "2026-10-15T14:15:20.798Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -31699,6 +31699,245 @@
 				"asset": "tankman-corki-v1.fantome",
 				"size": 779928,
 				"sha256": "6d91ee897dabbe15cb984d8be4631cc5ff2dbf734a9a9ddd5941f92c2be458d1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tarma-aphelios",
+			"name": "tarma aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tarma-aphelios/thumb.webp?v=567ae4e7",
+			"file": {
+				"version": 1,
+				"asset": "tarma-aphelios-v1.fantome",
+				"size": 2023801,
+				"sha256": "68209aa03a1f6826eb3f2c3256f101f196340a4fb116a1a86291360cb27a206a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tayuya-briar",
+			"name": "Tayuya Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tayuya-briar/thumb.webp?v=bb62676a",
+			"file": {
+				"version": 1,
+				"asset": "tayuya-briar-v1.fantome",
+				"size": 25827052,
+				"sha256": "fa6eab410914676813332543c7c08f0b54b6e3849ee25ebc735b6b0deea15bf6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "team-fortress-2-gragas",
+			"name": "Team Fortress 2 Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/team-fortress-2-gragas/thumb.webp?v=0d2cfb41",
+			"file": {
+				"version": 1,
+				"asset": "team-fortress-2-gragas-v1.fantome",
+				"size": 945351,
+				"sha256": "e9993c3a9b76860840847f843edf6e72a8b29f1c0b58a833d4475f9ee0e70234"
+			},
+			"chromas": []
+		},
+		{
+			"id": "teemo-booyahteemo",
+			"name": "BooyahTeemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "oaed-skins",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/teemo-booyahteemo/thumb.webp?v=bb1b6756",
+			"file": {
+				"version": 1,
+				"asset": "teemo-booyahteemo-v1.fantome",
+				"size": 13212568,
+				"sha256": "79bfe03e2afaef8664475c5eb752fbacd3ad3a69c0ad08f96eda0dbf48355e83"
+			},
+			"chromas": []
+		},
+		{
+			"id": "teto-as-jinx",
+			"name": "Teto as Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "arcados",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/teto-as-jinx/thumb.webp?v=8226e715",
+			"file": {
+				"version": 1,
+				"asset": "teto-as-jinx-v1.fantome",
+				"size": 8629086,
+				"sha256": "d5e9e4a62c4c87a110205cc7f6ee389fea0937f59c76b88be30f2ebf5a8be15b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tf-2-pyro-jax",
+			"name": "tf 2 pyro jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tf-2-pyro-jax/thumb.webp?v=4dd29f6a",
+			"file": {
+				"version": 1,
+				"asset": "tf-2-pyro-jax-v1.fantome",
+				"size": 695642,
+				"sha256": "e81dfc7df9904327a3d442ab0be7ef1b6c5eb10834ce9ad06b7a5103bd938351"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tft-set-14-dawnbringer-renekton",
+			"name": "TFT Set 14 - Dawnbringer Renekton",
+			"champion": 58,
+			"base": 33,
+			"creator": "s10tiamat",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tft-set-14-dawnbringer-renekton/thumb.webp?v=00bb4782",
+			"file": {
+				"version": 1,
+				"asset": "tft-set-14-dawnbringer-renekton-v1.fantome",
+				"size": 913130,
+				"sha256": "26938a1532a3061cae64d931a821b50818bee3f643ba4b1c63662af82bc31ff3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "thanos-ryze",
+			"name": "Thanos Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/thanos-ryze/thumb.webp?v=ee2eadac",
+			"file": {
+				"version": 1,
+				"asset": "thanos-ryze-v1.fantome",
+				"size": 432510,
+				"sha256": "a5a9beea57e1f4d9d9a97ae36a7b1636eec8e626055093f72ecec2a79c461785"
+			},
+			"chromas": []
+		},
+		{
+			"id": "thanos-the-mad-titan-nasus",
+			"name": "Thanos the mad titan Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/thanos-the-mad-titan-nasus/thumb.webp?v=d08ce8b4",
+			"file": {
+				"version": 1,
+				"asset": "thanos-the-mad-titan-nasus-v1.fantome",
+				"size": 44838455,
+				"sha256": "d43b80fb20e537c7b2e42935c114b914edec4ee55c2cc8ad4ad8cf23c725f5df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "thanos-zaahen",
+			"name": "Thanos Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/thanos-zaahen/thumb.webp?v=5b1d7c19",
+			"file": {
+				"version": 1,
+				"asset": "thanos-zaahen-v1.fantome",
+				"size": 1427743,
+				"sha256": "d878667e3332dce41155a0a4519e8fe02ab3cba8bb5970e2806def7c206506bb"
 			},
 			"chromas": []
 		},

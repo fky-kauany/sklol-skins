@@ -1,0 +1,25 @@
+{
+	"id": "tayuya-briar",
+	"name": "Tayuya Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n___________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/44fbe152-4a7a-46e5-9ca2-ed84352f9f7e\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tayuya-briar/thumb.webp?v=bb62676a",
+	"file": {
+		"version": 1,
+		"asset": "tayuya-briar-v1.fantome",
+		"size": 25827052,
+		"sha256": "fa6eab410914676813332543c7c08f0b54b6e3849ee25ebc735b6b0deea15bf6"
+	},
+	"chromas": []
+}

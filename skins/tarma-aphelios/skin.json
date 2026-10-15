@@ -1,0 +1,23 @@
+{
+	"id": "tarma-aphelios",
+	"name": "tarma aphelios",
+	"champion": 523,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Final mission, start\"\n\n***\n\n**Modified champion: Yasuo**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n[NeoLin](https://steamcommunity.com/sharedfiles/filedetails/?id=2811595482\\&searchtext=metal+slug) made the metal slug 3d weapons\n\n[8sianDude](https://steamcommunity.com/sharedfiles/filedetails/?id=2349304348\\&searchtext=combat+knife) made 3d model of knife\n\nSNK cook the game\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/0a6106bb-3aa3-4c6f-bdec-2bdde58ffd90\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tarma-aphelios/thumb.webp?v=567ae4e7",
+	"file": {
+		"version": 1,
+		"asset": "tarma-aphelios-v1.fantome",
+		"size": 2023801,
+		"sha256": "68209aa03a1f6826eb3f2c3256f101f196340a4fb116a1a86291360cb27a206a"
+	},
+	"chromas": []
+}

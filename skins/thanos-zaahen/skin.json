@@ -1,0 +1,23 @@
+{
+	"id": "thanos-zaahen",
+	"name": "Thanos Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Zaahen\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/7474f09e-ba4e-4c6b-adb9-ac064ca10b32\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/thanos-zaahen/thumb.webp?v=5b1d7c19",
+	"file": {
+		"version": 1,
+		"asset": "thanos-zaahen-v1.fantome",
+		"size": 1427743,
+		"sha256": "d878667e3332dce41155a0a4519e8fe02ab3cba8bb5970e2806def7c206506bb"
+	},
+	"chromas": []
+}

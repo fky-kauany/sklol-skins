@@ -1,0 +1,25 @@
+{
+	"id": "teto-as-jinx",
+	"name": "Teto as Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "arcados",
+	"description": "Teto as jinx. download model from sketchfab --> Kasane Teto by 雨宮レン.\r\n\r\nModels and Textures from Hatsune Miku: Project DIVA\r\n\r\nChampion : Jinx\r\nSkin : Default\r\n\r\n- New model\r\n- changed Icon and R icon\r\n- changed Loadscreen\r\n\r\nContact : @ArcA30941779 (twitter)\n\n---\n\n**Created by** [Arcados](https://runeforge.dev/users/Arcados)\n\n**Original:** https://runeforge.dev/mods/e2ef9466-d6fd-4674-81e8-4faa1117e3b7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/teto-as-jinx/thumb.webp?v=8226e715",
+	"file": {
+		"version": 1,
+		"asset": "teto-as-jinx-v1.fantome",
+		"size": 8629086,
+		"sha256": "d5e9e4a62c4c87a110205cc7f6ee389fea0937f59c76b88be30f2ebf5a8be15b"
+	},
+	"chromas": []
+}

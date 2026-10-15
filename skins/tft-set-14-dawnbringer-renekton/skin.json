@@ -1,0 +1,22 @@
+{
+	"id": "tft-set-14-dawnbringer-renekton",
+	"name": "TFT Set 14 - Dawnbringer Renekton",
+	"champion": 58,
+	"base": 33,
+	"creator": "s10tiamat",
+	"description": "dawnbringer renekton's texture replaces with tft set 14 dawnbringer renekton's upscaled texture\n\n---\n\n**Created by** [tiamat](https://runeforge.dev/users/s10tiamat)\n\n**Original:** https://runeforge.dev/mods/c6fb8d23-f87b-42b0-a7cc-75bdf4dd3f83\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tft-set-14-dawnbringer-renekton/thumb.webp?v=00bb4782",
+	"file": {
+		"version": 1,
+		"asset": "tft-set-14-dawnbringer-renekton-v1.fantome",
+		"size": 913130,
+		"sha256": "26938a1532a3061cae64d931a821b50818bee3f643ba4b1c63662af82bc31ff3"
+	},
+	"chromas": []
+}

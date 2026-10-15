@@ -1,0 +1,23 @@
+{
+	"id": "thanos-ryze",
+	"name": "Thanos Ryze",
+	"champion": 13,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "Ryze as Thanos from Marvel.\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/0e98ccb8-518e-4e28-b14e-7be40b9f63b3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/thanos-ryze/thumb.webp?v=ee2eadac",
+	"file": {
+		"version": 1,
+		"asset": "thanos-ryze-v1.fantome",
+		"size": 432510,
+		"sha256": "a5a9beea57e1f4d9d9a97ae36a7b1636eec8e626055093f72ecec2a79c461785"
+	},
+	"chromas": []
+}
