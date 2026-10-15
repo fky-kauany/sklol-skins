@@ -1,0 +1,24 @@
+{
+	"id": "snowboarder-fizz",
+	"name": "Snowboarder Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "This skin in particular features Custom Animations.\n\n(Does not feature animations for the eyelids, so taunts might look strange)\n\n***\n\nChanges:\n\nReplaced Skin: Base\n\nQ and E - E Recast Animations\n\nChanges to the bait and shark models on R\n\nCustom Model\n\nConverted Textures from .DDS to .TEX\n\n***\n\nCredits to their original author: Ckyel\n\nif the author requires me to take it down, please contact me on Discord: imora7024\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/52131653-8e35-470a-93c7-49d2a2931cc3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/snowboarder-fizz/thumb.webp?v=86e11d13",
+	"file": {
+		"version": 1,
+		"asset": "snowboarder-fizz-v1.fantome",
+		"size": 2090641,
+		"sha256": "7f272b076286514abdcf6c3c9029bc655fc9ecaea10d3c7440a46d7c26a3b912"
+	},
+	"chromas": []
+}

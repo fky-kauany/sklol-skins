@@ -1,0 +1,23 @@
+{
+	"id": "spawn-darius",
+	"name": "Spawn Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Wanda...\"\n\n***\n\n**Modified champion: Darius**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\nthe 3d model from the game: Spawn armaggedon\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/69844d9c-4149-4fb3-9dbd-2aabb70a190a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spawn-darius/thumb.webp?v=fb570e82",
+	"file": {
+		"version": 1,
+		"asset": "spawn-darius-v1.fantome",
+		"size": 1615321,
+		"sha256": "5e1b3f560e3747e6f7ac20c5218f24c57e30f8f0c31aa367fff00eaa35605300"
+	},
+	"chromas": []
+}

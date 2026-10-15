@@ -1,0 +1,25 @@
+{
+	"id": "sol-heredit-pantheon",
+	"name": "Sol Heredit - Pantheon",
+	"champion": 80,
+	"base": 0,
+	"creator": "captchrono",
+	"description": "Replaces the base skin for Pantheon with Sol Heredit from Old School Runescape.\n\n---\n\n**Created by** [CaptChrono](https://runeforge.dev/users/CaptChrono)\n\n**Original:** https://runeforge.dev/mods/1652ec2a-dd43-4757-934c-3636c90419a0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sol-heredit-pantheon/thumb.webp?v=0ea22242",
+	"file": {
+		"version": 1,
+		"asset": "sol-heredit-pantheon-v1.fantome",
+		"size": 6298440,
+		"sha256": "548f114ab1c36f0b06e14f7ab67ee887c723f6142ff276379c0d86f0321ae6f0"
+	},
+	"chromas": []
+}

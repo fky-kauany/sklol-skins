@@ -304,6 +304,15 @@
 		"avatar": "creators/cam.jpg?v=839ba7c0",
 		"links": {}
 	},
+	"captchrono": {
+		"name": "CaptChrono",
+		"avatar": "creators/captchrono.jpg?v=60db5235",
+		"bio": "Hit me up on twitter if my mods need updating or something",
+		"links": {
+			"x": "https://x.com/CaptChrono",
+			"youtube": "https://www.youtube.com/watch?v=tFegXA-qgeE"
+		}
+	},
 	"carkibamanaboni": {
 		"name": "Carki Bamanaboni",
 		"avatar": "creators/carkibamanaboni.png?v=71759587",
@@ -1512,6 +1521,12 @@
 		"links": {
 			"discord": "https://discord.com/users/940322199456346214",
 			"site": "https://nice-cream.itch.io/the-binding-of-isaac-low-poly-models"
+		}
+	},
+	"shacobong1": {
+		"name": "shacobong1",
+		"links": {
+			"youtube": "https://youtu.be/LjKEJD-KJ3Q"
 		}
 	},
 	"shadow-ninja1533": {

@@ -1,0 +1,25 @@
+{
+	"id": "snow-moon-smolder-by-ronni",
+	"name": "Snow Moon Smolder by Ronni",
+	"champion": 901,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "#### Overview:\r\n\r\n* WORKS ON ALL SKINS!!\r\n* Repathed on 16.01\r\n\r\n#### Mod information:\r\n\r\n* Author: Ronni\r\n* Recovery: Moga\r\n* Mod Version: 16.01.1.3\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/fcc6e41c-2874-4714-ab5b-2d9499e26b23\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/snow-moon-smolder-by-ronni/thumb.webp?v=ef8353f6",
+	"file": {
+		"version": 1,
+		"asset": "snow-moon-smolder-by-ronni-v1.fantome",
+		"size": 5503392,
+		"sha256": "b76c6d788a80fd69e75ff8fac5aff8799278bad20ab84c7860a272b9a9cd452b"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:26:02.825Z",
+	"generatedAt": "2026-10-15T13:35:33.966Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -306,6 +306,15 @@
 			"name": "Cam",
 			"avatar": "creators/cam.jpg?v=839ba7c0",
 			"links": {}
+		},
+		"captchrono": {
+			"name": "CaptChrono",
+			"avatar": "creators/captchrono.jpg?v=60db5235",
+			"bio": "Hit me up on twitter if my mods need updating or something",
+			"links": {
+				"x": "https://x.com/CaptChrono",
+				"youtube": "https://www.youtube.com/watch?v=tFegXA-qgeE"
+			}
 		},
 		"carkibamanaboni": {
 			"name": "Carki Bamanaboni",
@@ -1515,6 +1524,12 @@
 			"links": {
 				"discord": "https://discord.com/users/940322199456346214",
 				"site": "https://nice-cream.itch.io/the-binding-of-isaac-low-poly-models"
+			}
+		},
+		"shacobong1": {
+			"name": "shacobong1",
+			"links": {
+				"youtube": "https://youtu.be/LjKEJD-KJ3Q"
 			}
 		},
 		"shadow-ninja1533": {
@@ -29880,6 +29895,151 @@
 			"chromas": []
 		},
 		{
+			"id": "snow-moon-smolder-by-ronni",
+			"name": "Snow Moon Smolder by Ronni",
+			"champion": 901,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/snow-moon-smolder-by-ronni/thumb.webp?v=ef8353f6",
+			"file": {
+				"version": 1,
+				"asset": "snow-moon-smolder-by-ronni-v1.fantome",
+				"size": 5503392,
+				"sha256": "b76c6d788a80fd69e75ff8fac5aff8799278bad20ab84c7860a272b9a9cd452b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "snowboarder-fizz",
+			"name": "Snowboarder Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/snowboarder-fizz/thumb.webp?v=86e11d13",
+			"file": {
+				"version": 1,
+				"asset": "snowboarder-fizz-v1.fantome",
+				"size": 2090641,
+				"sha256": "7f272b076286514abdcf6c3c9029bc655fc9ecaea10d3c7440a46d7c26a3b912"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sol-heredit-pantheon",
+			"name": "Sol Heredit - Pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "captchrono",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sol-heredit-pantheon/thumb.webp?v=0ea22242",
+			"file": {
+				"version": 1,
+				"asset": "sol-heredit-pantheon-v1.fantome",
+				"size": 6298440,
+				"sha256": "548f114ab1c36f0b06e14f7ab67ee887c723f6142ff276379c0d86f0321ae6f0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soldier-76-graves-classic",
+			"name": "Soldier 76 Graves - Classic",
+			"champion": 104,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/soldier-76-graves-classic/thumb.webp?v=22dffbd8",
+			"file": {
+				"version": 1,
+				"asset": "soldier-76-graves-classic-v1.fantome",
+				"size": 10004233,
+				"sha256": "c56922a72a005c969e829444d4c4e3701846aa4032733ce2766f49986bdd3ed9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sona-sonaphine",
+			"name": "Sonaphine",
+			"champion": 37,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sona-sonaphine/thumb.webp?v=ed84c446",
+			"file": {
+				"version": 1,
+				"asset": "sona-sonaphine-v1.fantome",
+				"size": 11132425,
+				"sha256": "e42ed356ffb414c07330e3fe6636d07e163aa239023aa3f2455342ba04b03db9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soul-figher-xin-zhao-wild-rift-port",
+			"name": "Soul Figher Xin Zhao [Wild Rift Port]",
+			"champion": 5,
+			"base": 0,
+			"creator": "puls",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/soul-figher-xin-zhao-wild-rift-port/thumb.webp?v=41a9cb50",
+			"file": {
+				"version": 1,
+				"asset": "soul-figher-xin-zhao-wild-rift-port-v1.fantome",
+				"size": 1985324,
+				"sha256": "372d1dabcb7c330c4c0c4b6dc74b8db0650b704aa52cede4f8741a6bf506f72a"
+			},
+			"chromas": []
+		},
+		{
 			"id": "soul-fighter-yasuo-wr-port-v2-0",
 			"name": "Soul Fighter Yasuo WR Port V2.0",
 			"champion": 157,
@@ -29901,6 +30061,103 @@
 				"asset": "soul-fighter-yasuo-wr-port-v2-0-v1.fantome",
 				"size": 12446871,
 				"sha256": "a4fb4634e122d1a717c2fa88f3d841f80a447be22394859f55f739c94d5a1fde"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soul-reaver-viego",
+			"name": "soul reaver viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/soul-reaver-viego/thumb.webp?v=917b6c92",
+			"file": {
+				"version": 1,
+				"asset": "soul-reaver-viego-v1.fantome",
+				"size": 1376046,
+				"sha256": "c220b34f1d6fdee8d3c5c5dd61938ea202430cd1034c6afa187856644da046b3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "space-groove-nilah",
+			"name": "Space Groove Nilah",
+			"champion": 895,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/space-groove-nilah/thumb.webp?v=7c339e3a",
+			"file": {
+				"version": 1,
+				"asset": "space-groove-nilah-v1.fantome",
+				"size": 8779127,
+				"sha256": "d0fce74a1e1d7c22b99666779c8f985236012fb1490ae02872740bb8435beeea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spamton-amumu",
+			"name": "Spamton amumu",
+			"champion": 32,
+			"base": 7,
+			"creator": "shacobong1",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spamton-amumu/thumb.webp?v=9ff420a7",
+			"file": {
+				"version": 1,
+				"asset": "spamton-amumu-v1.fantome",
+				"size": 11682627,
+				"sha256": "da947b92239789f8c437818544db7a2d0bac33147f6d351e75f0286f53e2a815"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spawn-darius",
+			"name": "Spawn Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spawn-darius/thumb.webp?v=fb570e82",
+			"file": {
+				"version": 1,
+				"asset": "spawn-darius-v1.fantome",
+				"size": 1615321,
+				"sha256": "5e1b3f560e3747e6f7ac20c5218f24c57e30f8f0c31aa367fff00eaa35605300"
 			},
 			"chromas": []
 		},

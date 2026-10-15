@@ -1,0 +1,26 @@
+{
+	"id": "space-groove-nilah",
+	"name": "Space Groove Nilah",
+	"champion": 895,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro\n\n##### Version: 1.0.2\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/63bdd122-ac5a-4563-b4a4-0cc59b715d6f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/space-groove-nilah/thumb.webp?v=7c339e3a",
+	"file": {
+		"version": 1,
+		"asset": "space-groove-nilah-v1.fantome",
+		"size": 8779127,
+		"sha256": "d0fce74a1e1d7c22b99666779c8f985236012fb1490ae02872740bb8435beeea"
+	},
+	"chromas": []
+}

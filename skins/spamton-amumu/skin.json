@@ -1,0 +1,25 @@
+{
+	"id": "spamton-amumu",
+	"name": "Spamton amumu",
+	"champion": 32,
+	"base": 7,
+	"creator": "shacobong1",
+	"description": "Now is your chance to become a [[BIG SHOT]]!!!\nINFO\n\n    Modified skin: Base\n    Authors: Shacobong1\n    Mod version: 1.0\n\n---\n\n**Created by** [shacobong1](https://runeforge.dev/users/shacobong1)\n\n**Original:** https://runeforge.dev/mods/51c03dc5-63ea-41ff-bcc6-6faf3fab4fbc\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spamton-amumu/thumb.webp?v=9ff420a7",
+	"file": {
+		"version": 1,
+		"asset": "spamton-amumu-v1.fantome",
+		"size": 11682627,
+		"sha256": "da947b92239789f8c437818544db7a2d0bac33147f6d351e75f0286f53e2a815"
+	},
+	"chromas": []
+}

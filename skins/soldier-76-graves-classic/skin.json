@@ -1,0 +1,23 @@
+{
+	"id": "soldier-76-graves-classic",
+	"name": "Soldier 76 Graves - Classic",
+	"champion": 104,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base, Hired Gun, Jailbreak, Crime City & Cutthroat Graves in Classic ONLY\n\n## SPECIAL THANKS TO\n\nMuvLuv the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/829) and was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/2c58e60a-9d9a-4f4c-b04e-55b88f698aa6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/soldier-76-graves-classic/thumb.webp?v=22dffbd8",
+	"file": {
+		"version": 1,
+		"asset": "soldier-76-graves-classic-v1.fantome",
+		"size": 10004233,
+		"sha256": "c56922a72a005c969e829444d4c4e3701846aa4032733ce2766f49986bdd3ed9"
+	},
+	"chromas": []
+}

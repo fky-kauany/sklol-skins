@@ -1,0 +1,25 @@
+{
+	"id": "sona-sonaphine",
+	"name": "Sonaphine",
+	"champion": 37,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "This mod replaces Default Sona with Seraphine. It is also League Classic compatible!\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/c213cbed-0bd0-4d6c-bfba-6b046fd9c93c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sona-sonaphine/thumb.webp?v=ed84c446",
+	"file": {
+		"version": 1,
+		"asset": "sona-sonaphine-v1.fantome",
+		"size": 11132425,
+		"sha256": "e42ed356ffb414c07330e3fe6636d07e163aa239023aa3f2455342ba04b03db9"
+	},
+	"chromas": []
+}
