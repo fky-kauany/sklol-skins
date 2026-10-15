@@ -1,0 +1,24 @@
+{
+	"id": "pink-princess-yunara",
+	"name": "Pink Princess Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Yunara Skin.\r\n\r\nAffects: Model, Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Yunara Skin\r\n\r\nUsed 3D Materials:\r\n\r\n-Tiara Crown 3D Model: Tiara\" (https://sketchfab.com/3d-models/tiara-019c5ddf853e4618a686feeb7c70cb3f) by adityajaiswal9968 is licensed under CC BY 4.0. This work has been modified by aluna\r\n-Lil Uzi Vert Diamond\" (https://sketchfab.com/3d-models/lil-uzi-vert-diamond-eab8353b7ee5465496e796c42f6afb0b) by Tiko is licensed under CC BY 4.0. This work has been modified by aluna\r\n\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/63b2ea5d-acbd-4382-8de7-f444a6804dd6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pink-princess-yunara/thumb.webp?v=db9ccae9",
+	"file": {
+		"version": 1,
+		"asset": "pink-princess-yunara-v1.fantome",
+		"size": 4878628,
+		"sha256": "b634495e2b3ad7ae4853af7a1cb4584a348e0396887e4a6d6dd3b4c55a29f06c"
+	},
+	"chromas": []
+}

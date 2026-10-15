@@ -1,0 +1,25 @@
+{
+	"id": "plum-blossom-talon-akashi-seijuro-effect",
+	"name": "Plum blossom talon - Akashi Seijuro effect",
+	"champion": 91,
+	"base": 0,
+	"creator": "gyeinjik",
+	"description": "recolored + another anime effect by - Stritzzz -\r\nhttps://www.youtube.com/@StritzzzLoL\n\n---\n\n**Created by** [gyeinjik](https://runeforge.dev/users/gyeinjik)\n\n**Original:** https://runeforge.dev/mods/2e0ff71f-f8a7-4ca9-864f-a3826eea25e8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/plum-blossom-talon-akashi-seijuro-effect/thumb.webp?v=f1e0d9df",
+	"file": {
+		"version": 1,
+		"asset": "plum-blossom-talon-akashi-seijuro-effect-v1.fantome",
+		"size": 8167990,
+		"sha256": "b50576854819805a3c7a9280748f5ff59b64cc309fd18f6b6561019c62ac15ed"
+	},
+	"chromas": []
+}

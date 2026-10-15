@@ -1,0 +1,26 @@
+{
+	"id": "polly-pocket-lux",
+	"name": "Polly Pocket Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Lux\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Polly Pocket Lux\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1bRhNg7XUV0l2x9EXRqqO5v7_1OiSrgzF?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* In-game transformations, As a exalted custom skin you can change her hat using ctrl + 1, her hair using ctrl + 2, her top with ctrl + 3, her skirt with ctrl + 4, the shoes and stockings using ctrl + 5 and finally her weapon using the recall. There are 15.626 possible combinations so have fun!\n\n*The toggle system works like a gacha with probability so sometimes you have to press several times until you get the desired garment\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New Homeguard VFX for each weapon\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/38dccc8b-e3f2-4e4c-8772-d2cae01ce464\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/polly-pocket-lux/thumb.webp?v=f1633bc8",
+	"file": {
+		"version": 1,
+		"asset": "polly-pocket-lux-v1.fantome",
+		"size": 27324684,
+		"sha256": "32eea8b25e2db89333c5b0c8fa071b4e8270c8dc949b9f4a83adc5c762d13058"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "piranha-plant-briar",
+	"name": "Piranha Plant Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "goat",
+	"description": "Base champion: Briar\n\nSkin: Default\n\nAuthor: Goat\n\n\n\n***\n\n\n\nFeatures:\n\n* New model and textures.\n* New full set of animations.\n* New sounds.\n* New particles\n* New Splashart loading screen.\n* New Ability icons and HUD.\n\n\n\n***\n\n\n\nCREDITS\n\nModel by Nory De Hostos Lopez&#x20;\n\nRigging made by Roly – Rodrigo Lopez  ([artstation](https://www.artstation.com/rolyhl \"Artstation\"))\n\nSounds from Super Smash Bros Ultimate, Mario Kart 8 and Super Mario Wonder\n\nLoading Screen Art by : hybridmink ([deviant art](https://www.deviantart.com/hybridmink \"deviant art\"))\n\nBig thanks to everyone who helped on the KillerSkin Discord server! Especially budlibu500 and ScuttleCrab.#0529!\n\n\n\n***\n\n\n\nCHANGELOG\n\n* &#x20;\\[11.02.2025] FIRST RELEASED ON RUNEFORGE 2.0\n\n---\n\n**Created by** [Goat](https://runeforge.dev/users/Goat)\n\n**Original:** https://runeforge.dev/mods/6ef05393-0a7a-48f6-bd6c-775a1d3a6996\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/piranha-plant-briar/thumb.webp?v=1d9f7b76",
+	"file": {
+		"version": 1,
+		"asset": "piranha-plant-briar-v1.fantome",
+		"size": 45718994,
+		"sha256": "d7417be4ba4e1b297c46470465dd4e4eb79a25de11cb8d2dd222b72b9d2d129b"
+	},
+	"chromas": []
+}

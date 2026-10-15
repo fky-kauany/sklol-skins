@@ -1,0 +1,22 @@
+{
+	"id": "pink-soul-fighter-samira",
+	"name": "Pink Soul Fighter Samira",
+	"champion": 360,
+	"base": 30,
+	"creator": "duduzzz",
+	"description": "## Mod info:\n* Author: DuDuZZz\n* Champion: Samira\n* Modifed skin: Soul Fighter\n* Mod version: 1.0.0\n## Features\n* Recolored VFX\n* Recolored model\n## Contact me!\nIf you want to talk to me or report any issues with my mods, feel free to DM me on Discord: duduzzz_\n\n---\n\n**Created by** [DuDuZZz](https://runeforge.dev/users/DuDuZZz)\n\n**Original:** https://runeforge.dev/mods/b4011f15-bed7-42d5-9eec-f66c6f432214\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pink-soul-fighter-samira/thumb.webp?v=9451ea6d",
+	"file": {
+		"version": 1,
+		"asset": "pink-soul-fighter-samira-v1.fantome",
+		"size": 2451659,
+		"sha256": "3a216a6c915084de81c0b62f2ff0e919e0e420b3dd119dd651525255e41e3ff9"
+	},
+	"chromas": []
+}

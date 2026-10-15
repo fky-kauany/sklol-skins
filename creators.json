@@ -667,6 +667,13 @@
 			"youtube": "https://youtu.be/zmUGWKWTj7Q"
 		}
 	},
+	"goat": {
+		"name": "Goat",
+		"links": {
+			"site": "https://www.artstation.com/rolyhl",
+			"youtube": "https://www.youtube.com/watch?v=t2sYNKkD8rI&t=6s&ab_channel=GoatChannel"
+		}
+	},
 	"gockar": {
 		"name": "Gockar",
 		"avatar": "creators/gockar.webp?v=5bed98c0",
@@ -698,6 +705,13 @@
 	"grudy": {
 		"name": "Grudy",
 		"links": {}
+	},
+	"gyeinjik": {
+		"name": "gyeinjik",
+		"links": {
+			"instagram": "https://www.instagram.com/gyeinjikk/",
+			"youtube": "https://www.youtube.com/watch?v=dE5VGg6kI8c"
+		}
 	},
 	"harpyqueen": {
 		"name": "HarpyQueen",

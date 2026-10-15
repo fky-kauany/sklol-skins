@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:21:51.516Z",
+	"generatedAt": "2026-10-15T12:25:04.889Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -670,6 +670,13 @@
 				"youtube": "https://youtu.be/zmUGWKWTj7Q"
 			}
 		},
+		"goat": {
+			"name": "Goat",
+			"links": {
+				"site": "https://www.artstation.com/rolyhl",
+				"youtube": "https://www.youtube.com/watch?v=t2sYNKkD8rI&t=6s&ab_channel=GoatChannel"
+			}
+		},
 		"gockar": {
 			"name": "Gockar",
 			"avatar": "creators/gockar.webp?v=5bed98c0",
@@ -701,6 +708,13 @@
 		"grudy": {
 			"name": "Grudy",
 			"links": {}
+		},
+		"gyeinjik": {
+			"name": "gyeinjik",
+			"links": {
+				"instagram": "https://www.instagram.com/gyeinjikk/",
+				"youtube": "https://www.youtube.com/watch?v=dE5VGg6kI8c"
+			}
 		},
 		"harpyqueen": {
 			"name": "HarpyQueen",
@@ -24610,6 +24624,257 @@
 				"asset": "pichi-pichi-pitch-miss-fortune-v1.fantome",
 				"size": 15173219,
 				"sha256": "8f50a6b0fe2abb05f71c94ffb928012fd1468345d559d27ad73a3dc9cb515b2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-nami",
+			"name": "Pichi Pichi Pitch Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-nami/thumb.webp?v=da377e50",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-nami-v1.fantome",
+				"size": 40427362,
+				"sha256": "a929bdf2f29774832c97e30c88f0beebdca78b95d06accdc5900d59b131c9280"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-seraphine",
+			"name": "Pichi Pichi Pitch Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-seraphine/thumb.webp?v=8632843b",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-seraphine-v1.fantome",
+				"size": 19384520,
+				"sha256": "4ec604ea01dfda998f8ebd8ca87d3be8d067491d8f645f6c2432a097f8d7c4b6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-syndra",
+			"name": "Pichi Pichi Pitch Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-syndra/thumb.webp?v=d20d25c3",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-syndra-v1.fantome",
+				"size": 14409913,
+				"sha256": "7e478f0479c916dd8b77462aec78e94b132e0402cdf6e3d90f47381b03440c14"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pichi-pichi-pitch-zoe",
+			"name": "Pichi Pichi Pitch Zoe",
+			"champion": 142,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pichi-pichi-pitch-zoe/thumb.webp?v=1f2011bf",
+			"file": {
+				"version": 1,
+				"asset": "pichi-pichi-pitch-zoe-v1.fantome",
+				"size": 22037475,
+				"sha256": "15a59e070991a61c222e454ced5625c894b609a16e53497786761d53e8bf9b7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pink-princess-yunara",
+			"name": "Pink Princess Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pink-princess-yunara/thumb.webp?v=db9ccae9",
+			"file": {
+				"version": 1,
+				"asset": "pink-princess-yunara-v1.fantome",
+				"size": 4878628,
+				"sha256": "b634495e2b3ad7ae4853af7a1cb4584a348e0396887e4a6d6dd3b4c55a29f06c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pink-soul-fighter-samira",
+			"name": "Pink Soul Fighter Samira",
+			"champion": 360,
+			"base": 30,
+			"creator": "duduzzz",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pink-soul-fighter-samira/thumb.webp?v=9451ea6d",
+			"file": {
+				"version": 1,
+				"asset": "pink-soul-fighter-samira-v1.fantome",
+				"size": 2451659,
+				"sha256": "3a216a6c915084de81c0b62f2ff0e919e0e420b3dd119dd651525255e41e3ff9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "piranha-plant-briar",
+			"name": "Piranha Plant Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "goat",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/piranha-plant-briar/thumb.webp?v=1d9f7b76",
+			"file": {
+				"version": 1,
+				"asset": "piranha-plant-briar-v1.fantome",
+				"size": 45718994,
+				"sha256": "d7417be4ba4e1b297c46470465dd4e4eb79a25de11cb8d2dd222b72b9d2d129b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pizza-delivery-nidalee",
+			"name": "Pizza Delivery Nidalee",
+			"champion": 76,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pizza-delivery-nidalee/thumb.webp?v=b8292932",
+			"file": {
+				"version": 1,
+				"asset": "pizza-delivery-nidalee-v1.fantome",
+				"size": 1371759,
+				"sha256": "0e3436ed680baff0bb403b0af2f6537584a7f9f4d40419fe8c332d94c42c393f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "plum-blossom-talon-akashi-seijuro-effect",
+			"name": "Plum blossom talon - Akashi Seijuro effect",
+			"champion": 91,
+			"base": 0,
+			"creator": "gyeinjik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/plum-blossom-talon-akashi-seijuro-effect/thumb.webp?v=f1e0d9df",
+			"file": {
+				"version": 1,
+				"asset": "plum-blossom-talon-akashi-seijuro-effect-v1.fantome",
+				"size": 8167990,
+				"sha256": "b50576854819805a3c7a9280748f5ff59b64cc309fd18f6b6561019c62ac15ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "polly-pocket-lux",
+			"name": "Polly Pocket Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/polly-pocket-lux/thumb.webp?v=f1633bc8",
+			"file": {
+				"version": 1,
+				"asset": "polly-pocket-lux-v1.fantome",
+				"size": 27324684,
+				"sha256": "32eea8b25e2db89333c5b0c8fa071b4e8270c8dc949b9f4a83adc5c762d13058"
 			},
 			"chromas": []
 		},

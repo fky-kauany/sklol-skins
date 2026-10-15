@@ -1,0 +1,26 @@
+{
+	"id": "pichi-pichi-pitch-nami",
+	"name": "Pichi Pichi Pitch Nami",
+	"champion": 267,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Nami\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.2\r\n\r\n###### Description: Pichi Pichi Pitch Nami\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* In-game transformations, you can toggle forms using Ctrl+1, Ctrl+2 and Ctrl+4.\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* VFX changes for each form\r\n* New animations, mermaid & human form\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/2213641f-afee-4a7c-b5ac-a27eea23e5ae\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pichi-pichi-pitch-nami/thumb.webp?v=da377e50",
+	"file": {
+		"version": 1,
+		"asset": "pichi-pichi-pitch-nami-v1.fantome",
+		"size": 40427362,
+		"sha256": "a929bdf2f29774832c97e30c88f0beebdca78b95d06accdc5900d59b131c9280"
+	},
+	"chromas": []
+}
