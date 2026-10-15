@@ -1,0 +1,24 @@
+{
+	"id": "hololive-yuzuki-choco-soraka",
+	"name": "Hololive Yuzuki Choco Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Soraka\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Yuzuki Choco 3D model in this mod is from ( [https://3d.nicovideo.jp/works/td63631](https://3d.nicovideo.jp/works/td63631) )\n* Loadscreen art by: ( [https://www.youtube.com/watch?v=3RxlzJWWzdY](https://www.youtube.com/watch?v=3RxlzJWWzdY) )\n* Huge thanks to tarngaina for Suggest.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/a8cc6e9e-1c3b-432a-bfaf-d26ef8f51a2a\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-yuzuki-choco-soraka/thumb.webp?v=c2e2cdf1",
+	"file": {
+		"version": 1,
+		"asset": "hololive-yuzuki-choco-soraka-v1.fantome",
+		"size": 5136870,
+		"sha256": "48dec16d619056cacb7564509123929fd1c7337217cdb68c3bc843f54bc511cb"
+	},
+	"chromas": []
+}

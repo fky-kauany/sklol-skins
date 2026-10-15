@@ -1,0 +1,25 @@
+{
+	"id": "hornet-fiora",
+	"name": "Hornet Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "foose",
+	"description": "simple custom skin, i like making customs skins\n\n---\n\n**Created by** [foose](https://runeforge.dev/users/foose)\n\n**Original:** https://runeforge.dev/mods/1b06bb90-d341-45dc-b8a1-9932e3af1c53\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hornet-fiora/thumb.webp?v=53940538",
+	"file": {
+		"version": 1,
+		"asset": "hornet-fiora-v1.fantome",
+		"size": 2205726,
+		"sha256": "40f301b312333b299c16f5cdd298128a4f2dcbaffc95e1e776547b5ddd75423e"
+	},
+	"chromas": []
+}

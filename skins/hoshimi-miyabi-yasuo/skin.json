@@ -1,0 +1,26 @@
+{
+	"id": "hoshimi-miyabi-yasuo",
+	"name": "Hoshimi Miyabi Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion: Yasuo\r\n* Modified skin: Default\r\n* Author: Konari Lab Ch. 白夜こなり\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* New voiceover\r\n\r\n## Credits\r\n\r\n* Special Thanks to Frog for swaping code/recall stuffs ,Yavender for VFX mode, SirDexal for Camera HUD.\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n* This mod have Old Airblade combined so if u asking why dat don't have R animation then :3\r\n\r\n\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/193a6ae3-af69-451d-85b1-8b45bc3ca856\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hoshimi-miyabi-yasuo/thumb.webp?v=fd688a8a",
+	"file": {
+		"version": 1,
+		"asset": "hoshimi-miyabi-yasuo-v1.fantome",
+		"size": 18369487,
+		"sha256": "cc08a4c6ddbdc8f0c54397ed367021a32d39af3871f0219892b8c0daba9aebab"
+	},
+	"chromas": []
+}

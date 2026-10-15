@@ -1,0 +1,24 @@
+{
+	"id": "hornet-xin-zhao",
+	"name": "Hornet Xin Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "Will tweak and redo stuff once i fix my computer being shit, and once i get my comms done I can and will probably add SFX and VO. Still I had the model done from when Xin got to PBE so I wanted to celebrate him coming to live (and Silksong in a week) with a simple mod. Could've done better with more time but I'll get there once i get said time xd\n\nThe body/legs models were done by me, the dress is an edited version of one made by \"Brandon Ehrman\" on sketchfab and the head and needle are from another model made by \"art-thas\" on sketchfab. While I combined and edited these model parts the rig was done by FingaMiro. The few textures I did use for VFX are from Team Cherry's Hollow Knight sprites.\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/1067c94a-692e-42ee-a294-20eacea7267c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hornet-xin-zhao/thumb.webp?v=eedb99c6",
+	"file": {
+		"version": 1,
+		"asset": "hornet-xin-zhao-v1.fantome",
+		"size": 952281,
+		"sha256": "1d76a2711fc265d1be4776ac1501d30965505d09334564ffb225de3167d563d4"
+	},
+	"chromas": []
+}

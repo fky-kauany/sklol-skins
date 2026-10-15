@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:36:56.196Z",
+	"generatedAt": "2026-10-15T10:40:07.599Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1263,6 +1263,10 @@
 				"site": "https://segil.carrd.com/",
 				"youtube": "https://youtu.be/HstdYTGOVP8"
 			}
+		},
+		"sequeirant": {
+			"name": "sequeirant",
+			"links": {}
 		},
 		"seweski": {
 			"name": "Seweski",
@@ -15908,6 +15912,128 @@
 			"chromas": []
 		},
 		{
+			"id": "hololive-watson-amelia-ekko",
+			"name": "Hololive Watson Amelia Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-watson-amelia-ekko/thumb.webp?v=0b25db97",
+			"file": {
+				"version": 1,
+				"asset": "hololive-watson-amelia-ekko-v1.fantome",
+				"size": 97390655,
+				"sha256": "8e6877e203d0211f88a9f718ac6df617aa127688beaa82e7a66f12dc007a7a14"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-yozora-mel-vladimir",
+			"name": "Hololive Yozora Mel Vladimir",
+			"champion": 8,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-yozora-mel-vladimir/thumb.webp?v=5d3b7b65",
+			"file": {
+				"version": 1,
+				"asset": "hololive-yozora-mel-vladimir-v1.fantome",
+				"size": 5094730,
+				"sha256": "566588327d1066dc703ffb5c60ff7847481c2ce7db6413f5ca9d84b5af9c30f9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-yukihana-lamy-anivia",
+			"name": "Hololive Yukihana Lamy Anivia",
+			"champion": 34,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-yukihana-lamy-anivia/thumb.webp?v=758975f8",
+			"file": {
+				"version": 1,
+				"asset": "hololive-yukihana-lamy-anivia-v1.fantome",
+				"size": 8039668,
+				"sha256": "28be7689c16e4dcad67befcca15fc4f46144a26eea626c9bc55bdaffdf950a3b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-yuzuki-choco-soraka",
+			"name": "Hololive Yuzuki Choco Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-yuzuki-choco-soraka/thumb.webp?v=c2e2cdf1",
+			"file": {
+				"version": 1,
+				"asset": "hololive-yuzuki-choco-soraka-v1.fantome",
+				"size": 5136870,
+				"sha256": "48dec16d619056cacb7564509123929fd1c7337217cdb68c3bc843f54bc511cb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hornet-fiora",
+			"name": "Hornet Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "foose",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hornet-fiora/thumb.webp?v=53940538",
+			"file": {
+				"version": 1,
+				"asset": "hornet-fiora-v1.fantome",
+				"size": 2205726,
+				"sha256": "40f301b312333b299c16f5cdd298128a4f2dcbaffc95e1e776547b5ddd75423e"
+			},
+			"chromas": []
+		},
+		{
 			"id": "hornet-silkbutt-silk-android-kai-sa",
 			"name": "Hornet Silkbutt -- Silk Android Kai'sa",
 			"champion": 145,
@@ -15929,6 +16055,129 @@
 				"asset": "hornet-silkbutt-silk-android-kai-sa-v1.fantome",
 				"size": 5966559,
 				"sha256": "1087958cc225bd0ccda4b831618422e3bd9914de576fce93dda5eb29b21c6c23"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hornet-talon",
+			"name": "hornet talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "sequeirant",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hornet-talon/thumb.webp?v=7ffed0db",
+			"file": {
+				"version": 1,
+				"asset": "hornet-talon-v1.fantome",
+				"size": 6804953,
+				"sha256": "e701be745439a726bcffa03e08374b448ee670d60697254b23796448d8a12c47"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hornet-xin-zhao",
+			"name": "Hornet Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hornet-xin-zhao/thumb.webp?v=eedb99c6",
+			"file": {
+				"version": 1,
+				"asset": "hornet-xin-zhao-v1.fantome",
+				"size": 952281,
+				"sha256": "1d76a2711fc265d1be4776ac1501d30965505d09334564ffb225de3167d563d4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hoshimi-miyabi-yasuo",
+			"name": "Hoshimi Miyabi Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hoshimi-miyabi-yasuo/thumb.webp?v=fd688a8a",
+			"file": {
+				"version": 1,
+				"asset": "hoshimi-miyabi-yasuo-v1.fantome",
+				"size": 18369487,
+				"sha256": "cc08a4c6ddbdc8f0c54397ed367021a32d39af3871f0219892b8c0daba9aebab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hotori-ahri",
+			"name": "Hotori Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hotori-ahri/thumb.webp?v=dd723da7",
+			"file": {
+				"version": 1,
+				"asset": "hotori-ahri-v1.fantome",
+				"size": 29926520,
+				"sha256": "083a7429e81c5c1f07940d4430f2ad694d460c922ff5f9c749a6d0582dd1f902"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hulk-dr-mundo",
+			"name": "Hulk Dr Mundo",
+			"champion": 36,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hulk-dr-mundo/thumb.webp?v=8e912a6c",
+			"file": {
+				"version": 1,
+				"asset": "hulk-dr-mundo-v1.fantome",
+				"size": 1314335,
+				"sha256": "bf0cae9ca9093b6287d3eb1dd7edb2055e36da0b5910a80f6d67e7207d699e97"
 			},
 			"chromas": []
 		},

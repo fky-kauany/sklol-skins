@@ -1,0 +1,25 @@
+{
+	"id": "hololive-yukihana-lamy-anivia",
+	"name": "Hololive Yukihana Lamy Anivia",
+	"champion": 34,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Anivia\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n* Modified animations\n\n### CREDITS\n\n* The Yukihana Lamy3D model in this mod is from link: ( [https://3d.nicovideo.jp/works/td78503](https://3d.nicovideo.jp/works/td78503) )\n* Loadscreen art by: ( [https://www.pixiv.net/artworks/83976817](https://www.pixiv.net/artworks/83976817) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/e9eb8eab-02b5-4e67-bbde-1b7702b5dc43\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-yukihana-lamy-anivia/thumb.webp?v=758975f8",
+	"file": {
+		"version": 1,
+		"asset": "hololive-yukihana-lamy-anivia-v1.fantome",
+		"size": 8039668,
+		"sha256": "28be7689c16e4dcad67befcca15fc4f46144a26eea626c9bc55bdaffdf950a3b"
+	},
+	"chromas": []
+}

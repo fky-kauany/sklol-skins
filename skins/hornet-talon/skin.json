@@ -1,0 +1,24 @@
+{
+	"id": "hornet-talon",
+	"name": "hornet talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "sequeirant",
+	"description": "Maybe it will improve with time.\n\n---\n\n**Created by** [sequeirant](https://runeforge.dev/users/sequeirant)\n\n**Original:** https://runeforge.dev/mods/4847a5b9-1bff-44b4-9a0e-9c9b5ce395ca\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hornet-talon/thumb.webp?v=7ffed0db",
+	"file": {
+		"version": 1,
+		"asset": "hornet-talon-v1.fantome",
+		"size": 6804953,
+		"sha256": "e701be745439a726bcffa03e08374b448ee670d60697254b23796448d8a12c47"
+	},
+	"chromas": []
+}

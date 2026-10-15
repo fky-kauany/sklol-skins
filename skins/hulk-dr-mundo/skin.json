@@ -1,0 +1,24 @@
+{
+	"id": "hulk-dr-mundo",
+	"name": "Hulk Dr Mundo",
+	"champion": 36,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Dr Mundo\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/296c02a0-da73-4968-b4de-c3423c9acc1a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hulk-dr-mundo/thumb.webp?v=8e912a6c",
+	"file": {
+		"version": 1,
+		"asset": "hulk-dr-mundo-v1.fantome",
+		"size": 1314335,
+		"sha256": "bf0cae9ca9093b6287d3eb1dd7edb2055e36da0b5910a80f6d67e7207d699e97"
+	},
+	"chromas": []
+}
