@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:44:24.916Z",
+	"generatedAt": "2026-10-15T14:45:17.223Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1518,6 +1518,13 @@
 			"name": "Sayanox",
 			"avatar": "creators/sayanox.png?v=965583c5",
 			"links": {}
+		},
+		"scabsedan": {
+			"name": "scabsedan",
+			"avatar": "creators/scabsedan.jpg?v=ca60e99a",
+			"links": {
+				"youtube": "https://youtu.be/UDBnviFUQw4"
+			}
 		},
 		"scuttlecrab": {
 			"name": "scuttlecrab",
@@ -33637,6 +33644,80 @@
 				"asset": "warring-kingdoms-gangplank-v1.fantome",
 				"size": 1000438,
 				"sha256": "3ffc6d223f283b2598389ba6364b0beba2114fbcb22d738c9747f9e045a03e7f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "watermelon-cat-yuumi",
+			"name": "Watermelon Cat Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "goat",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/watermelon-cat-yuumi/thumb.webp?v=dcb7b0dd",
+			"file": {
+				"version": 1,
+				"asset": "watermelon-cat-yuumi-v1.fantome",
+				"size": 20500707,
+				"sha256": "36d5b7d8faeaf09ec441305779b8460a168c5c24fa6e3733f84e8adfc15dced5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "whatsapp-darius",
+			"name": "WhatsApp Darius",
+			"champion": 122,
+			"base": 15,
+			"creator": "scabsedan",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/whatsapp-darius/thumb.webp?v=7001b1ac",
+			"file": {
+				"version": 1,
+				"asset": "whatsapp-darius-v1.fantome",
+				"size": 9786661,
+				"sha256": "45f174cd0824c743dd1f7ab9bc9a52af7b6d1d3465e0da624ce4f503dfc24399"
+			},
+			"chromas": []
+		},
+		{
+			"id": "whatsapp-darius-base",
+			"name": "WhatsApp Darius (Base)",
+			"champion": 122,
+			"base": 14,
+			"creator": "scabsedan",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/whatsapp-darius-base/thumb.webp?v=f8869dc4",
+			"file": {
+				"version": 1,
+				"asset": "whatsapp-darius-base-v1.fantome",
+				"size": 6322979,
+				"sha256": "83b9a0769f64c8783632211fd951d032d6396936e8558badf5481efd7429eff4"
 			},
 			"chromas": []
 		},

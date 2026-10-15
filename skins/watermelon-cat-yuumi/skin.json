@@ -1,0 +1,26 @@
+{
+	"id": "watermelon-cat-yuumi",
+	"name": "Watermelon Cat Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "goat",
+	"description": "Base champion: **Yuumi**\n\nSkin: All skins\n\nAuthor: **Goat and Frog**\n\nDescription: Watermelon Cat, he smug\n\nFeatures:\n\n**-New model and textures.**\n\n**-New full set of animations.**\n\n**-New sounds.**\n\n**-New particles**\n\n**-New Splashart loading screen.**\n\n**-New HUD.**\n\n---\n\n**Created by** [Goat](https://runeforge.dev/users/Goat)\n\n**Original:** https://runeforge.dev/mods/9e2a85ae-787e-4202-908e-c61f9b042354\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/watermelon-cat-yuumi/thumb.webp?v=dcb7b0dd",
+	"file": {
+		"version": 1,
+		"asset": "watermelon-cat-yuumi-v1.fantome",
+		"size": 20500707,
+		"sha256": "36d5b7d8faeaf09ec441305779b8460a168c5c24fa6e3733f84e8adfc15dced5"
+	},
+	"chromas": []
+}
