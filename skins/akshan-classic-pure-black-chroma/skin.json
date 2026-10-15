@@ -1,0 +1,22 @@
+{
+	"id": "akshan-classic-pure-black-chroma",
+	"name": "Akshan classic pure black chroma",
+	"champion": 166,
+	"base": 0,
+	"creator": "naa1ml3ss",
+	"description": "---\n\n**Created by** [naa1ml3ss](https://runeforge.dev/users/naa1ml3ss)\n\n**Original:** https://runeforge.dev/mods/7b83e96a-e82b-439f-994e-89cd99494637\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/akshan-classic-pure-black-chroma/thumb.webp?v=898c6c49",
+	"file": {
+		"version": 1,
+		"asset": "akshan-classic-pure-black-chroma-v1.fantome",
+		"size": 256330,
+		"sha256": "d23ab8a5ca4310ea26c8bb438bab153a658d06c8cee92155e09d27ff1ed919c6"
+	},
+	"chromas": []
+}

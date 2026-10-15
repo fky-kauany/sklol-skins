@@ -1,0 +1,25 @@
+{
+	"id": "akshan-ak-47-shan",
+	"name": "Ak-47-shan",
+	"champion": 166,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "Words, isn't it funny how they work. From Mel Atonin to Ak-47-shan who knows what combinations lie ahead. I for one am excited about the countless possibilities for dumb mods.\n\n## Information\n\n**Modified champion: Akshan**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\nThe [Ak-47 model](https://skfb.ly/6yrzJ) by jeferson is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)\n\nShooting sound effect from Counter-Strike: Global Offensive\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/06fba09a-0b4e-4e65-8e0a-9881790d3a51\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/akshan-ak-47-shan/thumb.webp?v=30dfb974",
+	"file": {
+		"version": 1,
+		"asset": "akshan-ak-47-shan-v1.fantome",
+		"size": 3963117,
+		"sha256": "5e4fef8a8132aff62f776ebc993cfbf51b5ed26cc11c2485867847fa683d4abc"
+	},
+	"chromas": []
+}

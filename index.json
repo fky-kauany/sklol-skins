@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:47:10.111Z",
+	"generatedAt": "2026-10-15T07:48:04.492Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -529,6 +529,10 @@
 		"mxdjid": {
 			"name": "mxdjid",
 			"avatar": "creators/mxdjid.webp?v=b8c43cbd",
+			"links": {}
+		},
+		"naa1ml3ss": {
+			"name": "naa1ml3ss",
 			"links": {}
 		},
 		"neoritch": {
@@ -1464,6 +1468,75 @@
 				"asset": "akira-twisted-fate-blue-archive-v1.fantome",
 				"size": 5491140,
 				"sha256": "e4d7ad1936181a2b4df8f704c6b6f67f8191062dc97e254990afdb7d6b5f7b7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-ak-47-shan",
+			"name": "Ak-47-shan",
+			"champion": 166,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akshan-ak-47-shan/thumb.webp?v=30dfb974",
+			"file": {
+				"version": 1,
+				"asset": "akshan-ak-47-shan-v1.fantome",
+				"size": 3963117,
+				"sha256": "5e4fef8a8132aff62f776ebc993cfbf51b5ed26cc11c2485867847fa683d4abc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-black-classic-chroma",
+			"name": "Akshan Black classic Chroma",
+			"champion": 166,
+			"base": 0,
+			"creator": "naa1ml3ss",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akshan-black-classic-chroma/thumb.webp?v=8ab0df8b",
+			"file": {
+				"version": 1,
+				"asset": "akshan-black-classic-chroma-v1.fantome",
+				"size": 297079,
+				"sha256": "91083b6efebb61c40326af95a3bfe352e96a5ebaedab531dfb8d14e7903e6293"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akshan-classic-pure-black-chroma",
+			"name": "Akshan classic pure black chroma",
+			"champion": 166,
+			"base": 0,
+			"creator": "naa1ml3ss",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akshan-classic-pure-black-chroma/thumb.webp?v=898c6c49",
+			"file": {
+				"version": 1,
+				"asset": "akshan-classic-pure-black-chroma-v1.fantome",
+				"size": 256330,
+				"sha256": "d23ab8a5ca4310ea26c8bb438bab153a658d06c8cee92155e09d27ff1ed919c6"
 			},
 			"chromas": []
 		},
