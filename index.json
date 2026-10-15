@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:31:31.306Z",
+	"generatedAt": "2026-10-15T11:34:36.474Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1598,6 +1598,17 @@
 			"links": {
 				"discord": "https://discord.gg/DhD73YZzZ5",
 				"youtube": "https://www.youtube.com/@ViraLCyclopes"
+			}
+		},
+		"vision4rio": {
+			"name": "VISION4RIO",
+			"avatar": "creators/vision4rio.jpg?v=72200bc7",
+			"links": {
+				"kofi": "https://ko-fi.com/vision4rio",
+				"site": "https://www.reddit.com/r/YIMO/comments/vmdrrc/darth_yi_custom_skin_spotlight_download_in/",
+				"twitch": "https://www.twitch.tv/vision4rio",
+				"x": "https://x.com/VISION4RIO",
+				"youtube": "https://www.youtube.com/@VISION4RIO"
 			}
 		},
 		"vitusmmrc": {
@@ -20425,6 +20436,243 @@
 				"asset": "margeaphine-seraphine-w-voice-v1.fantome",
 				"size": 3712094,
 				"sha256": "90545074054598940d06458a6596c840e6e117d9e364040a9cf5957e9ed08946"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mario-cosplay-ezreal",
+			"name": "Mario Cosplay Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mario-cosplay-ezreal/thumb.webp?v=bb93215d",
+			"file": {
+				"version": 1,
+				"asset": "mario-cosplay-ezreal-v1.fantome",
+				"size": 9266197,
+				"sha256": "a7cd3d8dc1eec9a5ff24f9fa86d72ec07cecc537b0923d61cfd886c784466cea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "marnie-gwen",
+			"name": "Marnie Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "noctune",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/marnie-gwen/thumb.webp?v=97860ace",
+			"file": {
+				"version": 1,
+				"asset": "marnie-gwen-v1.fantome",
+				"size": 9537675,
+				"sha256": "0ea02d48f9fef6af8a8f6cce8a81eb20755b54ffd19ad88571ed4fb763df8019"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-darth-yi",
+			"name": "Darth Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "vision4rio",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-darth-yi/thumb.webp?v=aa362942",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-darth-yi-v1.fantome",
+				"size": 2300247,
+				"sha256": "e069b6cae260c01bbf216d4f0fca0e44f6b35288052b311a73a15c17a1f23b4c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-infiltrator-yi",
+			"name": "Infiltrator yi",
+			"champion": 11,
+			"base": 9,
+			"creator": "vision4rio",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-infiltrator-yi/thumb.webp?v=ac14790e",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-infiltrator-yi-v1.fantome",
+				"size": 3126987,
+				"sha256": "25288ff47a6b93f5e8bb50701a2a75fd380f15c76a55812ccf27dbe99e06bf94"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-inkshadow-prestige",
+			"name": "Master Yi Inkshadow prestige",
+			"champion": 11,
+			"base": 89,
+			"creator": "vision4rio",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-inkshadow-prestige/thumb.webp?v=9d9e86c7",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-inkshadow-prestige-v1.fantome",
+				"size": 4307368,
+				"sha256": "a097ad97a79c53f397fae02570b218093edcbadcb4784a42c325df28aee5faed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-inkshadow-yi-black-gold",
+			"name": "Inkshadow Yi black-gold",
+			"champion": 11,
+			"base": 89,
+			"creator": "vision4rio",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-inkshadow-yi-black-gold/thumb.webp?v=d668ac4d",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-inkshadow-yi-black-gold-v1.fantome",
+				"size": 2466182,
+				"sha256": "e5ce7bfb5a99ee5b12685cd6e1725b3929469e58e6b448d5fdc993127638e6ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-l9-inkshadow-yi",
+			"name": "L9 INKSHADOW YI",
+			"champion": 11,
+			"base": 89,
+			"creator": "vision4rio",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-l9-inkshadow-yi/thumb.webp?v=d8e27c1b",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-l9-inkshadow-yi-v1.fantome",
+				"size": 4742815,
+				"sha256": "13c720dc1bcf618d20b31f630e5f284620d23eac7c76a026a2c0918a4b730785"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-maki-zenin",
+			"name": "Master Yi Maki Zenin",
+			"champion": 11,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-maki-zenin/thumb.webp?v=a8011c2f",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-maki-zenin-v1.fantome",
+				"size": 22787011,
+				"sha256": "ae6ef31d21c6e39c1c8e9ee2101e46732ab567b84dd2a3531a2738f3814763c5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-master-yuumi",
+			"name": "Master Yuumi",
+			"champion": 11,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-master-yuumi/thumb.webp?v=7cc183d4",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-master-yuumi-v1.fantome",
+				"size": 455006,
+				"sha256": "f71b85091ab2873c13e362422d47f0a49bbd38ff037a7ed1bff71959c33be482"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-project-neon-yi",
+			"name": "PROJECT NEON YI",
+			"champion": 11,
+			"base": 9,
+			"creator": "vision4rio",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-project-neon-yi/thumb.webp?v=054a4df5",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-project-neon-yi-v1.fantome",
+				"size": 2860706,
+				"sha256": "5faaa8936147bebf7876655492f45279aa319f7e6654c0354f840d0738fae705"
 			},
 			"chromas": []
 		},

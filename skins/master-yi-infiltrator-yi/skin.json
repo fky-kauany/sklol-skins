@@ -1,0 +1,22 @@
+{
+	"id": "master-yi-infiltrator-yi",
+	"name": "Infiltrator yi",
+	"champion": 11,
+	"base": 9,
+	"creator": "vision4rio",
+	"description": "author: xMortum\r\n\r\nmaintained by: VISION4RIO\r\n\r\nthis chroma was old and outdated, so i asked author for files since original download is down, and asked for permission to post here.\r\n\r\nchroma made for project yi skin!\r\n\r\n\r\nYOU NEED THE SKIN!\r\n\r\nYOU NEED THE SKIN!\r\n\r\nYOU NEED THE SKIN!\r\n\r\n\r\nSupport Here you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/d4382353-7fc6-484b-8037-ab53157c22f4\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/master-yi-infiltrator-yi/thumb.webp?v=ac14790e",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-infiltrator-yi-v1.fantome",
+		"size": 3126987,
+		"sha256": "25288ff47a6b93f5e8bb50701a2a75fd380f15c76a55812ccf27dbe99e06bf94"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "master-yi-inkshadow-yi-black-gold",
+	"name": "Inkshadow Yi black-gold",
+	"champion": 11,
+	"base": 89,
+	"creator": "vision4rio",
+	"description": "did this chroma using same gold VFX from prestige one because someone asked for it. have fun!\r\n\r\nYOU NEED THE SKIN!\r\n\r\nSupport \r\nHere you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/4cd18b4a-063b-49e4-942d-3e6a7b0798b1\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/master-yi-inkshadow-yi-black-gold/thumb.webp?v=d668ac4d",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-inkshadow-yi-black-gold-v1.fantome",
+		"size": 2466182,
+		"sha256": "e5ce7bfb5a99ee5b12685cd6e1725b3929469e58e6b448d5fdc993127638e6ee"
+	},
+	"chromas": []
+}

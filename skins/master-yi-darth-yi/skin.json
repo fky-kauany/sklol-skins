@@ -1,0 +1,22 @@
+{
+	"id": "master-yi-darth-yi",
+	"name": "Darth Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "vision4rio",
+	"description": "author: xMortum\r\n\r\nmaintained by: VISION4RIO\r\n\r\nthis chroma was old and outdated, so i asked author for files since original download is down, and asked for permission to post here.\r\n\r\nchroma made for chosen yi skin!\r\n\r\n\r\nYOU NEED THE SKIN!\r\n\r\nYOU NEED THE SKIN!\r\n\r\nYOU NEED THE SKIN!\r\n\r\n\r\nSupport Here you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/f4cea9a1-a4d0-4d51-af22-2128f2dd6280\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/master-yi-darth-yi/thumb.webp?v=aa362942",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-darth-yi-v1.fantome",
+		"size": 2300247,
+		"sha256": "e069b6cae260c01bbf216d4f0fca0e44f6b35288052b311a73a15c17a1f23b4c"
+	},
+	"chromas": []
+}

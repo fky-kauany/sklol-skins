@@ -1,0 +1,26 @@
+{
+	"id": "marnie-gwen",
+	"name": "Marnie Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "noctune",
+	"description": "### SKIN INFORMATION\r\n\r\nChampion: Gwen\r\n\r\nModified skin: Base\r\n\r\nAuthor: Noctune\r\n\r\nVersion: 2.2\r\n\r\nDescription: changes gwen to marnie from pokemon Note:skin originally made by sleepydama You can reach out to me through Discord(noctune.)\n\n---\n\n**Created by** [Noctune](https://runeforge.dev/users/Noctune)\n\n**Original:** https://runeforge.dev/mods/e0c79cfb-f8d8-433f-86cf-cc0512c3c39d\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/marnie-gwen/thumb.webp?v=97860ace",
+	"file": {
+		"version": 1,
+		"asset": "marnie-gwen-v1.fantome",
+		"size": 9537675,
+		"sha256": "0ea02d48f9fef6af8a8f6cce8a81eb20755b54ffd19ad88571ed4fb763df8019"
+	},
+	"chromas": []
+}

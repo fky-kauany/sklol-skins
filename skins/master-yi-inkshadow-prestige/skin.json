@@ -1,0 +1,23 @@
+{
+	"id": "master-yi-inkshadow-prestige",
+	"name": "Master Yi Inkshadow prestige",
+	"champion": 11,
+	"base": 89,
+	"creator": "vision4rio",
+	"description": "did this chroma prestige alike because oficial chromas for inkshadow is so bad haha. have fun\r\nbtw the VFX are also GOLD\r\n\r\nYOU NEED THE SKIN!\r\n\r\nSupport\r\nHere you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/bc9ef7cc-60e4-476e-86cb-81209b0dc9aa\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/master-yi-inkshadow-prestige/thumb.webp?v=9d9e86c7",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-inkshadow-prestige-v1.fantome",
+		"size": 4307368,
+		"sha256": "a097ad97a79c53f397fae02570b218093edcbadcb4784a42c325df28aee5faed"
+	},
+	"chromas": []
+}

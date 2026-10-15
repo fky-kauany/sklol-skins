@@ -1,0 +1,23 @@
+{
+	"id": "master-yi-project-neon-yi",
+	"name": "PROJECT NEON YI",
+	"champion": 11,
+	"base": 9,
+	"creator": "vision4rio",
+	"description": "YOU NEED THE SKIN!!\r\n\r\nchroma made for project master yi skin, for now its just the chroma and pink skills, but im working on some effects to make this a ultimate project skin\r\n\r\nHere you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/c5807651-e1b2-40cd-9fe2-c2509076de40\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/master-yi-project-neon-yi/thumb.webp?v=054a4df5",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-project-neon-yi-v1.fantome",
+		"size": 2860706,
+		"sha256": "5faaa8936147bebf7876655492f45279aa319f7e6654c0354f840d0738fae705"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "master-yi-maki-zenin",
+	"name": "Master Yi Maki Zenin",
+	"champion": 11,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "# 「 MAKI ZENIN 」\n### *Replaces Master Yi*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/950ef65b-e340-4a46-b7a0-90182de7c5d5\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/master-yi-maki-zenin/thumb.webp?v=a8011c2f",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-maki-zenin-v1.fantome",
+		"size": 22787011,
+		"sha256": "ae6ef31d21c6e39c1c8e9ee2101e46732ab567b84dd2a3531a2738f3814763c5"
+	},
+	"chromas": []
+}
