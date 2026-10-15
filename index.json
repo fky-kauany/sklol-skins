@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:54:49.128Z",
+	"generatedAt": "2026-10-15T14:55:35.581Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -34463,6 +34463,54 @@
 				"asset": "xin-zhao-deathstroke-v1.fantome",
 				"size": 12051759,
 				"sha256": "7b2a3923c24109a45c27a48946c03c6d890ced2b0aae9ec7044c1862785b3117"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xin-zhao-jhin-zhao-asu",
+			"name": "Jhin Zhao ASU",
+			"champion": 5,
+			"base": 0,
+			"creator": "rolorolla",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/xin-zhao-jhin-zhao-asu/thumb.webp?v=7d0b6472",
+			"file": {
+				"version": 1,
+				"asset": "xin-zhao-jhin-zhao-asu-v1.fantome",
+				"size": 15968193,
+				"sha256": "9812e3cc73338e4860dbf817b4c95942db6c6d5b7338574f601439d6e536de15"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xin-zhao-xin-without-the-zhao",
+			"name": "Xin Without the Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/xin-zhao-xin-without-the-zhao/thumb.webp?v=ffad1ec7",
+			"file": {
+				"version": 1,
+				"asset": "xin-zhao-xin-without-the-zhao-v1.fantome",
+				"size": 32734,
+				"sha256": "8ed6a1d44ad0994f4ceec13a496334f66e93206e41f71b63d519d0ee564f4333"
 			},
 			"chromas": []
 		},

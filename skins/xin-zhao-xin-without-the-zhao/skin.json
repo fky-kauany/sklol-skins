@@ -1,0 +1,22 @@
+{
+	"id": "xin-zhao-xin-without-the-zhao",
+	"name": "Xin Without the Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Xin Zhao**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b67c24f9-1be7-48e3-9b50-ca41c95a199b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/xin-zhao-xin-without-the-zhao/thumb.webp?v=ffad1ec7",
+	"file": {
+		"version": 1,
+		"asset": "xin-zhao-xin-without-the-zhao-v1.fantome",
+		"size": 32734,
+		"sha256": "8ed6a1d44ad0994f4ceec13a496334f66e93206e41f71b63d519d0ee564f4333"
+	},
+	"chromas": []
+}

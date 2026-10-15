@@ -1,0 +1,26 @@
+{
+	"id": "xin-zhao-jhin-zhao-asu",
+	"name": "Jhin Zhao ASU",
+	"champion": 5,
+	"base": 0,
+	"creator": "rolorolla",
+	"description": "I decided to make Jhin Zhao from scratch for the Xin ASU, and while I was at it I decided to add a bunch of petals everywhere for thematic coherence lol\r\nI know you're gonna ask so:\r\n- Yes he says 4 on Q3 but the voicelines play at random\r\n- Q1 and Q2 share voicelines so I cant put \"2 - 3 - 4\" in order, they also play at random\r\n- Wtf Jhin Zhao????\r\n\r\nThe original Jhin Zhao was made by AntiWibu\n\n---\n\n**Created by** [RoloRolla](https://runeforge.dev/users/RoloRolla)\n\n**Original:** https://runeforge.dev/mods/7982680e-8e4e-4a68-ad5d-b4098080d207\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/xin-zhao-jhin-zhao-asu/thumb.webp?v=7d0b6472",
+	"file": {
+		"version": 1,
+		"asset": "xin-zhao-jhin-zhao-asu-v1.fantome",
+		"size": 15968193,
+		"sha256": "9812e3cc73338e4860dbf817b4c95942db6c6d5b7338574f601439d6e536de15"
+	},
+	"chromas": []
+}
