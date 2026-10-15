@@ -1,0 +1,24 @@
+{
+	"id": "microwave-udyr",
+	"name": "Microwave Udyr",
+	"champion": 77,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/4082c4b0-488d-4b87-9047-2ac3d0ef74f7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/microwave-udyr/thumb.webp?v=f3a0f6cd",
+	"file": {
+		"version": 1,
+		"asset": "microwave-udyr-v1.fantome",
+		"size": 7085244,
+		"sha256": "5a0a8104bc82127d106de96d0ce566a74167630f77518aa3668594957b8de565"
+	},
+	"chromas": []
+}

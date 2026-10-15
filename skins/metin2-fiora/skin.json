@@ -1,0 +1,23 @@
+{
+	"id": "metin2-fiora",
+	"name": "Metin2 Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Fiora\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/e56487a3-27b3-46ed-942e-d0c6b56f356c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/metin2-fiora/thumb.webp?v=a99d7350",
+	"file": {
+		"version": 1,
+		"asset": "metin2-fiora-v1.fantome",
+		"size": 1460384,
+		"sha256": "7cad12a90fae4c3cb15c5a95bf2bf78d115375236ad961a23accf38fdca80884"
+	},
+	"chromas": []
+}

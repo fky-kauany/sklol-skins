@@ -1,0 +1,24 @@
+{
+	"id": "mew-zoe",
+	"name": "Mew Zoe",
+	"champion": 142,
+	"base": 0,
+	"creator": "blaster",
+	"description": "---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/bb69655e-f7a1-478d-9f79-52905ff1fd4c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mew-zoe/thumb.webp?v=9381e518",
+	"file": {
+		"version": 1,
+		"asset": "mew-zoe-v1.fantome",
+		"size": 6626031,
+		"sha256": "e1991f9073ba0018a584b89efe0dee50b1b41626738fd634ff9d747215647f28"
+	},
+	"chromas": []
+}

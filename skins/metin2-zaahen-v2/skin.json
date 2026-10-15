@@ -1,0 +1,23 @@
+{
+	"id": "metin2-zaahen-v2",
+	"name": "Metin2 Zaahen V2",
+	"champion": 904,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Zaahen\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 2.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/cee3934f-38f3-4179-ba7a-c5503f1c4028\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/metin2-zaahen-v2/thumb.webp?v=aafa3bac",
+	"file": {
+		"version": 1,
+		"asset": "metin2-zaahen-v2-v1.fantome",
+		"size": 2276231,
+		"sha256": "9f0f3961f413d3041bc273f649591019031ca48767a394d24eeb9596fc88b443"
+	},
+	"chromas": []
+}

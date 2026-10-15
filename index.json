@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:44:02.411Z",
+	"generatedAt": "2026-10-15T11:47:03.899Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -21431,6 +21431,240 @@
 				"asset": "metin2-aatrox-v1.fantome",
 				"size": 1361516,
 				"sha256": "23eeb19fb8ac3793e94eb4b15a839395f91d99353ffa4c1da6453f9a8c792226"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-barbarian-knight-tryndamere",
+			"name": "Metin2 Barbarian Knight Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-barbarian-knight-tryndamere/thumb.webp?v=3a07fbcb",
+			"file": {
+				"version": 1,
+				"asset": "metin2-barbarian-knight-tryndamere-v1.fantome",
+				"size": 158516,
+				"sha256": "7ba786206e67866f9c3124e2b50585e17e1c6ec7c1f2cf6601e07f848ceaa5a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-darius",
+			"name": "Metin2 Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-darius/thumb.webp?v=51dc7bbe",
+			"file": {
+				"version": 1,
+				"asset": "metin2-darius-v1.fantome",
+				"size": 1653777,
+				"sha256": "6fb6450ca93840637b6e7cc2f6d6f08cab9787f54b605e617b9833d4d76edfc7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-fiora",
+			"name": "Metin2 Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-fiora/thumb.webp?v=a99d7350",
+			"file": {
+				"version": 1,
+				"asset": "metin2-fiora-v1.fantome",
+				"size": 1460384,
+				"sha256": "7cad12a90fae4c3cb15c5a95bf2bf78d115375236ad961a23accf38fdca80884"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-jax",
+			"name": "Metin2 Jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-jax/thumb.webp?v=6718b1b0",
+			"file": {
+				"version": 1,
+				"asset": "metin2-jax-v1.fantome",
+				"size": 1299285,
+				"sha256": "1f3bbe05e6e56d3efe0afb1aa16cf2b562df81af3ddfe8359802a64d38fd44a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-olaf",
+			"name": "Metin2 Olaf",
+			"champion": 2,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-olaf/thumb.webp?v=bbf6eb47",
+			"file": {
+				"version": 1,
+				"asset": "metin2-olaf-v1.fantome",
+				"size": 153439,
+				"sha256": "2ec89be7104de0d43a076aa6c63cb80167406dc1a3297261edcdadcf26507c54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-swain",
+			"name": "Metin2 Swain",
+			"champion": 50,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-swain/thumb.webp?v=1f9cba6d",
+			"file": {
+				"version": 1,
+				"asset": "metin2-swain-v1.fantome",
+				"size": 5323529,
+				"sha256": "53bce9ecad785315ddc1405bd5106c5b29b0b8f1a4f896e47fb1298bdecca942"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-trundle",
+			"name": "Metin2 Trundle",
+			"champion": 48,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-trundle/thumb.webp?v=54de3613",
+			"file": {
+				"version": 1,
+				"asset": "metin2-trundle-v1.fantome",
+				"size": 689753,
+				"sha256": "d49dd0e8198ad2587e1e531928eaf058e869e805fa29be99a485e53a6ddcc6a1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-zaahen-v2",
+			"name": "Metin2 Zaahen V2",
+			"champion": 904,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-zaahen-v2/thumb.webp?v=aafa3bac",
+			"file": {
+				"version": 1,
+				"asset": "metin2-zaahen-v2-v1.fantome",
+				"size": 2276231,
+				"sha256": "9f0f3961f413d3041bc273f649591019031ca48767a394d24eeb9596fc88b443"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mew-zoe",
+			"name": "Mew Zoe",
+			"champion": 142,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mew-zoe/thumb.webp?v=9381e518",
+			"file": {
+				"version": 1,
+				"asset": "mew-zoe-v1.fantome",
+				"size": 6626031,
+				"sha256": "e1991f9073ba0018a584b89efe0dee50b1b41626738fd634ff9d747215647f28"
+			},
+			"chromas": []
+		},
+		{
+			"id": "microwave-udyr",
+			"name": "Microwave Udyr",
+			"champion": 77,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/microwave-udyr/thumb.webp?v=f3a0f6cd",
+			"file": {
+				"version": 1,
+				"asset": "microwave-udyr-v1.fantome",
+				"size": 7085244,
+				"sha256": "5a0a8104bc82127d106de96d0ce566a74167630f77518aa3668594957b8de565"
 			},
 			"chromas": []
 		},
