@@ -1,0 +1,22 @@
+{
+	"id": "pride-vi",
+	"name": "Pride Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview **\n\n\\- Recolors Vi's Hair and Gauntlets in her base skin to be rainbow colored\n\n\\- Happy pride!\n\n***\n\n**Install instructions**\n\nDownload the mod and run it with cslol like you would with any other skin\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/e975bcc2-66c7-4abd-9290-4105e6da4f0f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pride-vi/thumb.webp?v=443076ee",
+	"file": {
+		"version": 1,
+		"asset": "pride-vi-v1.fantome",
+		"size": 145043,
+		"sha256": "b0c4341fa0752b4d849604755f321282272ffa55cda1188839298d710037125d"
+	},
+	"chromas": []
+}

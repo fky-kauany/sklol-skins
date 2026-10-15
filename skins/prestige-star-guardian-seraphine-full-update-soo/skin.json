@@ -1,0 +1,25 @@
+{
+	"id": "prestige-star-guardian-seraphine-full-update-soo",
+	"name": "Prestige Star Guardian Seraphine(FULL UPDATE SOON!)",
+	"champion": 147,
+	"base": 0,
+	"creator": "ast3r11",
+	"description": "!INFO!\r\n\r\n* Replaces Base Skin\r\n\r\n\r\n\r\n\r\n\r\n!!!FEATURES!!!\r\n\r\n* NEW MODEL\r\n* NEW TEXTURES (hand painted)\r\n* NEW VFX(and recolored)\r\n* NEW LOADSCREEN\n\n---\n\n**Created by** [Aster](https://runeforge.dev/users/Ast3r11)\n\n**Original:** https://runeforge.dev/mods/8c0b6554-8068-4e90-990b-54ec37b1d65a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-star-guardian-seraphine-full-update-soo/thumb.webp?v=a2ccfd3d",
+	"file": {
+		"version": 1,
+		"asset": "prestige-star-guardian-seraphine-full-update-soo-v1.fantome",
+		"size": 30917613,
+		"sha256": "6cfbb6af40682f9e7f6583ff7a63ce72f6fc79e9159bdc0d9d9870e0283370fa"
+	},
+	"chromas": []
+}

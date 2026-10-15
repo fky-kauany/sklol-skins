@@ -1,0 +1,26 @@
+{
+	"id": "prestige-select-crystal-rose-lux-wr-port",
+	"name": "Prestige Select Crystal Rose Lux WR Port",
+	"champion": 99,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro, Frog and RAKA\n\n##### Version: 1.0.2\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n***Credits to Frog for his support w preparing the model and RAKA for preparing those awesome detailed Textures!***\n\n***Featuring Original Wild Rift Model, New VFX, SFX and VO***\n\n***and I forgot where I got the Gem model for the E but I got them at either \"Sketchfab\" or \"Devian Art\"***\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/e41bc2c7-e7e6-4192-a025-ebbadc66f2ec\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-select-crystal-rose-lux-wr-port/thumb.webp?v=a1212786",
+	"file": {
+		"version": 1,
+		"asset": "prestige-select-crystal-rose-lux-wr-port-v1.fantome",
+		"size": 10822671,
+		"sha256": "d73bdf06517c3f63dda8086a64b1835ac51b25373f25995d485ebe63f767a5b7"
+	},
+	"chromas": []
+}

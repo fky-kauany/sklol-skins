@@ -1,0 +1,25 @@
+{
+	"id": "prestige-select-calligraphia-yasuo-wild-rift-por",
+	"name": "Prestige Select Calligraphia Yasuo - Wild Rift Port",
+	"champion": 157,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "# INFO\n\n***\n\n***\n\n* **Modified Skin: Base Yasuo**\n* Author: ShrimpBack\n* Mod Version: 1.1\n\n&#x20;\n\n## CUSTOM SKIN CREDITS\n\n***\n\n* VFX mixing, texturing and recolor by ShrimpBack\n* Wild Rift sounds extracted, edited and rearranged by ShrimpBack\n* Model Weighted by FingaMiro\n* VO optimization byFingaMiro\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/83a4379d-fc9a-4133-89d3-8835b787f548\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-select-calligraphia-yasuo-wild-rift-por/thumb.webp?v=2ddba687",
+	"file": {
+		"version": 1,
+		"asset": "prestige-select-calligraphia-yasuo-wild-rift-por-v1.fantome",
+		"size": 32060979,
+		"sha256": "a1a3fbcc8d6700e916fb5b97d0f2ad6b26863cf220029e6f330c17262dd7e005"
+	},
+	"chromas": []
+}

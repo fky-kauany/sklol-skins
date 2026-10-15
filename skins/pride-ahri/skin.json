@@ -1,0 +1,22 @@
+{
+	"id": "pride-ahri",
+	"name": "Pride Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview **\n\n\\- Recolors Ahris Hair and Tail in her base skin to be rainbow colored\n\n\\- Happy pride!\n\n***\n\n**Install instructions**\n\nDownload the mod and run it with cslol like you would with any other skin\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/a9b71192-e6ec-4b88-a738-7a36e447ecf8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pride-ahri/thumb.webp?v=dc71248c",
+	"file": {
+		"version": 1,
+		"asset": "pride-ahri-v1.fantome",
+		"size": 888253,
+		"sha256": "ae507a64f75afdc83e77a94806dd609827c9310503ab0b5833c06b0f51bf3165"
+	},
+	"chromas": []
+}

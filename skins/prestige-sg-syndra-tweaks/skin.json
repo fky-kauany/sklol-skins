@@ -1,0 +1,25 @@
+{
+	"id": "prestige-sg-syndra-tweaks",
+	"name": "Prestige SG Syndra Tweaks",
+	"champion": 134,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nTo use this skin you need to own Prestige Star Guardian Syndra and use it in champ sellect.\r\n\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Prestige Star Guardian Syndra\r\n\r\n**Affects**: Champion model, textures, loading screen.\r\n\r\nI, like most people, prefer the first version of the splash art, which was later changed and made the skin more bland. I made this edit to make it look more like that first splash. Changed the bodice, necklace, hair, skirt tails (?), skirt and the loading screen splash. For an in-depth look at the changes see the Gallery tab.\r\n\r\n\r\n## Contact\r\n\r\n**Contact**: If you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/751104c8-6ac1-47ab-ba20-421cd8d96ca0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-sg-syndra-tweaks/thumb.webp?v=87c31d21",
+	"file": {
+		"version": 1,
+		"asset": "prestige-sg-syndra-tweaks-v1.fantome",
+		"size": 8567856,
+		"sha256": "d7480d8096d8caa5f64a49d749ae5056ead485bae6119c9cb5849ec8f179a559"
+	},
+	"chromas": []
+}

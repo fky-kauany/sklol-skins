@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:31:27.068Z",
+	"generatedAt": "2026-10-15T12:34:37.572Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -25446,6 +25446,58 @@
 			"chromas": []
 		},
 		{
+			"id": "prestige-kda-code-pink-seraphine",
+			"name": "Prestige KDA Code Pink Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-kda-code-pink-seraphine/thumb.webp?v=bd66bcf6",
+			"file": {
+				"version": 1,
+				"asset": "prestige-kda-code-pink-seraphine-v1.fantome",
+				"size": 18343971,
+				"sha256": "0859d9f1d3ec8cc2e656228596dffe852fe53a70a06ce078a1f6115884c0cf81"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-mecha-ninja-katarina",
+			"name": "Prestige Mecha Ninja Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-mecha-ninja-katarina/thumb.webp?v=3b22037a",
+			"file": {
+				"version": 1,
+				"asset": "prestige-mecha-ninja-katarina-v1.fantome",
+				"size": 17944433,
+				"sha256": "531ef9753736a96ef8cec56506b96c14d5510e92b8697e3bdc3ab19431139a65"
+			},
+			"chromas": []
+		},
+		{
 			"id": "prestige-obsidian-dragon-sett-rose",
 			"name": "Prestige Obsidian Dragon Sett rose",
 			"champion": 875,
@@ -25465,6 +25517,201 @@
 				"asset": "prestige-obsidian-dragon-sett-rose-v1.fantome",
 				"size": 7694805,
 				"sha256": "1b7018f091bb8149c9fd02e51576dc7914b47b46f6837817de097b03d233fe98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-pool-party-cassiopeia",
+			"name": "Prestige Pool Party Cassiopeia",
+			"champion": 69,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-pool-party-cassiopeia/thumb.webp?v=da7309d6",
+			"file": {
+				"version": 1,
+				"asset": "prestige-pool-party-cassiopeia-v1.fantome",
+				"size": 17387709,
+				"sha256": "838f8d0ca7d08e2a30c4287b226f75a44f1399d4aba56e4bcf73ee21e6eee663"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-select-calligraphia-yasuo-wild-rift-por",
+			"name": "Prestige Select Calligraphia Yasuo - Wild Rift Port",
+			"champion": 157,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-select-calligraphia-yasuo-wild-rift-por/thumb.webp?v=2ddba687",
+			"file": {
+				"version": 1,
+				"asset": "prestige-select-calligraphia-yasuo-wild-rift-por-v1.fantome",
+				"size": 32060979,
+				"sha256": "a1a3fbcc8d6700e916fb5b97d0f2ad6b26863cf220029e6f330c17262dd7e005"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-select-crystal-rose-lux-wr-port",
+			"name": "Prestige Select Crystal Rose Lux WR Port",
+			"champion": 99,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-select-crystal-rose-lux-wr-port/thumb.webp?v=a1212786",
+			"file": {
+				"version": 1,
+				"asset": "prestige-select-crystal-rose-lux-wr-port-v1.fantome",
+				"size": 10822671,
+				"sha256": "d73bdf06517c3f63dda8086a64b1835ac51b25373f25995d485ebe63f767a5b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-sg-syndra-tweaks",
+			"name": "Prestige SG Syndra Tweaks",
+			"champion": 134,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-sg-syndra-tweaks/thumb.webp?v=87c31d21",
+			"file": {
+				"version": 1,
+				"asset": "prestige-sg-syndra-tweaks-v1.fantome",
+				"size": 8567856,
+				"sha256": "d7480d8096d8caa5f64a49d749ae5056ead485bae6119c9cb5849ec8f179a559"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-splendid-staff-nami",
+			"name": "Prestige Splendid Staff Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-splendid-staff-nami/thumb.webp?v=28f9b409",
+			"file": {
+				"version": 1,
+				"asset": "prestige-splendid-staff-nami-v1.fantome",
+				"size": 2971141,
+				"sha256": "847f07aef072a443081a99afb885e33619d63eb7fbc4a18a1b1ed56ec9d3763f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-star-guardian-seraphine-full-update-soo",
+			"name": "Prestige Star Guardian Seraphine(FULL UPDATE SOON!)",
+			"champion": 147,
+			"base": 0,
+			"creator": "ast3r11",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-star-guardian-seraphine-full-update-soo/thumb.webp?v=a2ccfd3d",
+			"file": {
+				"version": 1,
+				"asset": "prestige-star-guardian-seraphine-full-update-soo-v1.fantome",
+				"size": 30917613,
+				"sha256": "6cfbb6af40682f9e7f6583ff7a63ce72f6fc79e9159bdc0d9d9870e0283370fa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pride-ahri",
+			"name": "Pride Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "snorr",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pride-ahri/thumb.webp?v=dc71248c",
+			"file": {
+				"version": 1,
+				"asset": "pride-ahri-v1.fantome",
+				"size": 888253,
+				"sha256": "ae507a64f75afdc83e77a94806dd609827c9310503ab0b5833c06b0f51bf3165"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pride-vi",
+			"name": "Pride Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "snorr",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pride-vi/thumb.webp?v=443076ee",
+			"file": {
+				"version": 1,
+				"asset": "pride-vi-v1.fantome",
+				"size": 145043,
+				"sha256": "b0c4341fa0752b4d849604755f321282272ffa55cda1188839298d710037125d"
 			},
 			"chromas": []
 		},
