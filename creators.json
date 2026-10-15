@@ -478,6 +478,13 @@
 			"kofi": "https://ko-fi.com/epellol"
 		}
 	},
+	"estebang4mer": {
+		"name": "EstebanG4mer",
+		"avatar": "creators/estebang4mer.jpg?v=7f9b998b",
+		"links": {
+			"youtube": "https://youtu.be/rYXrMwKayGk?si=XOXm-PO7VM0JcxG4"
+		}
+	},
 	"et-reggie": {
 		"name": "ET_Reggie",
 		"links": {
@@ -942,6 +949,12 @@
 			"youtube": "https://www.youtube.com/@%C3%98%C3%90R_ink"
 		}
 	},
+	"oniichannonaedoko": {
+		"name": "oniichannonaedoko",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=wRkkceM5Seg"
+		}
+	},
 	"oyashxro": {
 		"name": "oyashxro",
 		"links": {}
@@ -968,6 +981,16 @@
 		"avatar": "creators/perseus.jpg?v=1cd8bee0",
 		"bio": "just a newbie learning how to make custom skins",
 		"links": {}
+	},
+	"pico-senpai": {
+		"name": "Pico Senpai",
+		"avatar": "creators/pico-senpai.jpg?v=c1e05f18",
+		"bio": "I make silly mods ranging from sound mods to UI mods, usually a lot of shitpost, the point being to make people laugh and that's just it xd\n\nMy Patreon and socials: https://linktr.ee/picosenpaipro\nMy discord: Pico_senpai",
+		"links": {
+			"patreon": "https://www.patreon.com/PicoSenpaiSFW",
+			"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
+			"youtube": "https://youtu.be/PzUDP5DwoGs"
+		}
 	},
 	"pimek": {
 		"name": "pimek",
@@ -1300,6 +1323,14 @@
 			"discord": "https://discord.gg/RG7KkwTZva",
 			"x": "https://x.com/VinceWhoLaughs",
 			"youtube": "https://www.youtube.com/@vincedesigns33"
+		}
+	},
+	"vip3rz": {
+		"name": "Vip3rz",
+		"avatar": "creators/vip3rz.png?v=387fdfcb",
+		"links": {
+			"site": "https://www.paypal.com/pools/c/9gfRznPDHt",
+			"youtube": "https://youtu.be/lgNOx_1hWlM"
 		}
 	},
 	"viralcyclopes": {

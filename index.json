@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:59:51.648Z",
+	"generatedAt": "2026-10-15T09:03:05.340Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -481,6 +481,13 @@
 				"kofi": "https://ko-fi.com/epellol"
 			}
 		},
+		"estebang4mer": {
+			"name": "EstebanG4mer",
+			"avatar": "creators/estebang4mer.jpg?v=7f9b998b",
+			"links": {
+				"youtube": "https://youtu.be/rYXrMwKayGk?si=XOXm-PO7VM0JcxG4"
+			}
+		},
 		"et-reggie": {
 			"name": "ET_Reggie",
 			"links": {
@@ -945,6 +952,12 @@
 				"youtube": "https://www.youtube.com/@%C3%98%C3%90R_ink"
 			}
 		},
+		"oniichannonaedoko": {
+			"name": "oniichannonaedoko",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=wRkkceM5Seg"
+			}
+		},
 		"oyashxro": {
 			"name": "oyashxro",
 			"links": {}
@@ -971,6 +984,16 @@
 			"avatar": "creators/perseus.jpg?v=1cd8bee0",
 			"bio": "just a newbie learning how to make custom skins",
 			"links": {}
+		},
+		"pico-senpai": {
+			"name": "Pico Senpai",
+			"avatar": "creators/pico-senpai.jpg?v=c1e05f18",
+			"bio": "I make silly mods ranging from sound mods to UI mods, usually a lot of shitpost, the point being to make people laugh and that's just it xd\n\nMy Patreon and socials: https://linktr.ee/picosenpaipro\nMy discord: Pico_senpai",
+			"links": {
+				"patreon": "https://www.patreon.com/PicoSenpaiSFW",
+				"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
+				"youtube": "https://youtu.be/PzUDP5DwoGs"
+			}
 		},
 		"pimek": {
 			"name": "pimek",
@@ -1303,6 +1326,14 @@
 				"discord": "https://discord.gg/RG7KkwTZva",
 				"x": "https://x.com/VinceWhoLaughs",
 				"youtube": "https://www.youtube.com/@vincedesigns33"
+			}
+		},
+		"vip3rz": {
+			"name": "Vip3rz",
+			"avatar": "creators/vip3rz.png?v=387fdfcb",
+			"links": {
+				"site": "https://www.paypal.com/pools/c/9gfRznPDHt",
+				"youtube": "https://youtu.be/lgNOx_1hWlM"
 			}
 		},
 		"viralcyclopes": {
@@ -8008,6 +8039,250 @@
 				"asset": "donna-vayne-stella-sora-v1.fantome",
 				"size": 7435261,
 				"sha256": "99dfaf20fe0bcd35466b7b823989c4c029c04dea40f62297333293dbe50fd0cc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "doofenshmirtz-singed",
+			"name": "Doofenshmirtz Singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "annown",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/doofenshmirtz-singed/thumb.webp?v=a8461f9d",
+			"file": {
+				"version": 1,
+				"asset": "doofenshmirtz-singed-v1.fantome",
+				"size": 192183,
+				"sha256": "28efc466dc2257322aeb8f0e7b2ac5cf78db7df1d593ea646d5c64ab1a4f5203"
+			},
+			"chromas": []
+		},
+		{
+			"id": "doom-slayer-graves",
+			"name": "Doom Slayer Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "pico-senpai",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/doom-slayer-graves/thumb.webp?v=b797bfd7",
+			"file": {
+				"version": 1,
+				"asset": "doom-slayer-graves-v1.fantome",
+				"size": 15025330,
+				"sha256": "6a1db2f545865707c6f70f54a330e5f2909a4b709d26b9d1b949f40cd9c354a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dorothy-nikke-sett",
+			"name": "Dorothy (Nikke) Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dorothy-nikke-sett/thumb.webp?v=0705590f",
+			"file": {
+				"version": 1,
+				"asset": "dorothy-nikke-sett-v1.fantome",
+				"size": 36350663,
+				"sha256": "cd5b9dde5bd76eabdccc97d520d30207f718148e8fe196fd4621c77d688f8066"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-armstrong-mundo",
+			"name": "Armstrong Mundo",
+			"champion": 36,
+			"base": 0,
+			"creator": "estebang4mer",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-armstrong-mundo/thumb.webp?v=3d21efbb",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-armstrong-mundo-v1.fantome",
+				"size": 116945301,
+				"sha256": "44d090301326f1bda3af14486342dc29ce5a3defdad449fedd5de63758ae7f51"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-corporate-mundo-green",
+			"name": "Corporate Mundo Green",
+			"champion": 36,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-corporate-mundo-green/thumb.webp?v=26458567",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-corporate-mundo-green-v1.fantome",
+				"size": 1149673,
+				"sha256": "add27fd9f476a055118ac41e72626af4bed95ef56f80e6b97bc25245a995f88a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-gigachad-mundo",
+			"name": "GIGACHAD MUNDO",
+			"champion": 36,
+			"base": 0,
+			"creator": "chammad",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-gigachad-mundo/thumb.webp?v=72dcc513",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-gigachad-mundo-v1.fantome",
+				"size": 3060367,
+				"sha256": "ed8ff79100e05bef84a771ccda30686d36157a7d6c512b28ad8ca9d1b99e7634"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-hanazono-yurine-mundo",
+			"name": "Hanazono Yurine Mundo",
+			"champion": 36,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-hanazono-yurine-mundo/thumb.webp?v=3b6fa5a1",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-hanazono-yurine-mundo-v1.fantome",
+				"size": 13844610,
+				"sha256": "7135edfff23aac125e002cff12ce40ef107c7feff90dc120f4f3a333caaebd67"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-piggytron-mundo",
+			"name": "Piggytron Mundo",
+			"champion": 36,
+			"base": 0,
+			"creator": "vip3rz",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-piggytron-mundo/thumb.webp?v=dfbd900c",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-piggytron-mundo-v1.fantome",
+				"size": 4642845,
+				"sha256": "e841cb4470b2d909f9355105aacd99c64ab898bd7d74dd0cf3afeef840ec857c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dr-mundo-push-mundo",
+			"name": "PUSH MUNDO",
+			"champion": 36,
+			"base": 0,
+			"creator": "maygik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dr-mundo-push-mundo/thumb.webp?v=482f4f62",
+			"file": {
+				"version": 1,
+				"asset": "dr-mundo-push-mundo-v1.fantome",
+				"size": 672203,
+				"sha256": "9bd6c7b5fdfa42f7afd17a5eae8e2f5d729eac06fb442a67c31c32bd26aac45f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "drag-queen-fizz",
+			"name": "Drag Queen Fizz",
+			"champion": 105,
+			"base": 2,
+			"creator": "cam",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/drag-queen-fizz/thumb.webp?v=5de8b900",
+			"file": {
+				"version": 1,
+				"asset": "drag-queen-fizz-v1.fantome",
+				"size": 726262,
+				"sha256": "5ffb4a32dc72d304571119acb1063dbc4720f8d4cc5fa9f526e8ba80a03eb4d3"
 			},
 			"chromas": []
 		},

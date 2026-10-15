@@ -1,0 +1,24 @@
+{
+	"id": "dr-mundo-piggytron-mundo",
+	"name": "Piggytron Mundo",
+	"champion": 36,
+	"base": 0,
+	"creator": "vip3rz",
+	"description": "## **SKIN INFORMATION**\n\n* Custom model\n* Custom textures\n* Custom Icons and Loadingscreen\n\n## **SUPPORT ME**\n\nYou can also support me through [https://www.paypal.com/pools/c/9gfRznPDHt](https://www.paypal.com/pools/c/9gfRznPDHt \"https://www.paypal.com/pools/c/9gfRznPDHt\")\n\n---\n\n**Created by** [Vip3rz](https://runeforge.dev/users/Vip3rz)\n\n**Original:** https://runeforge.dev/mods/9d717490-bd0f-4656-a2a8-3f64238cae03\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dr-mundo-piggytron-mundo/thumb.webp?v=dfbd900c",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-piggytron-mundo-v1.fantome",
+		"size": 4642845,
+		"sha256": "e841cb4470b2d909f9355105aacd99c64ab898bd7d74dd0cf3afeef840ec857c"
+	},
+	"chromas": []
+}

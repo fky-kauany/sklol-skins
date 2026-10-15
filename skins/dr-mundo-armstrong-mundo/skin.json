@@ -1,0 +1,26 @@
+{
+	"id": "dr-mundo-armstrong-mundo",
+	"name": "Armstrong Mundo",
+	"champion": 36,
+	"base": 0,
+	"creator": "estebang4mer",
+	"description": "BASE CHAMPION: Dr.Mundo\n\nMODIFIED SKIN: Default\n\nAUTHOR: EstebanG4mer\n\nMOD VERSION: 1.0.0\n\nFEATURES:\n\n\\- New model and textures.\n\n\\- Modified loading screen.\n\n\\- New animations (Taunt, Recall, attacks and movement)\n\n\\- New sounds.\n\n\\- New ability icons and HUD.\n\n\\- New Particles.\n\nCREDITS: Modded by EstebanG4mer\n\n---\n\n**Created by** [EstebanG4mer](https://runeforge.dev/users/EstebanG4mer)\n\n**Original:** https://runeforge.dev/mods/0d73d240-3c79-414c-bfb1-238d26729d32\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dr-mundo-armstrong-mundo/thumb.webp?v=3d21efbb",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-armstrong-mundo-v1.fantome",
+		"size": 116945301,
+		"sha256": "44d090301326f1bda3af14486342dc29ce5a3defdad449fedd5de63758ae7f51"
+	},
+	"chromas": []
+}

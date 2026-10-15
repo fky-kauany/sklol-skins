@@ -1,0 +1,23 @@
+{
+	"id": "drag-queen-fizz",
+	"name": "Drag Queen Fizz",
+	"champion": 105,
+	"base": 2,
+	"creator": "cam",
+	"description": "Aqua Queen, #agarmy2025\n\nShoutout to the country of Finland!\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/5ef5979e-68fc-47ff-97b0-287086e9bbaf\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/drag-queen-fizz/thumb.webp?v=5de8b900",
+	"file": {
+		"version": 1,
+		"asset": "drag-queen-fizz-v1.fantome",
+		"size": 726262,
+		"sha256": "5ffb4a32dc72d304571119acb1063dbc4720f8d4cc5fa9f526e8ba80a03eb4d3"
+	},
+	"chromas": []
+}

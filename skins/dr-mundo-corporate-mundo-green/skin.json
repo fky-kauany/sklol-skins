@@ -1,0 +1,23 @@
+{
+	"id": "dr-mundo-corporate-mundo-green",
+	"name": "Corporate Mundo Green",
+	"champion": 36,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: Corporate Mundo\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/7bafd08f-fbcb-488c-a445-44c990bb5e67\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dr-mundo-corporate-mundo-green/thumb.webp?v=26458567",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-corporate-mundo-green-v1.fantome",
+		"size": 1149673,
+		"sha256": "add27fd9f476a055118ac41e72626af4bed95ef56f80e6b97bc25245a995f88a"
+	},
+	"chromas": []
+}

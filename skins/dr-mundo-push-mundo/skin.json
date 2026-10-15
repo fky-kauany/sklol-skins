@@ -1,0 +1,24 @@
+{
+	"id": "dr-mundo-push-mundo",
+	"name": "PUSH MUNDO",
+	"champion": 36,
+	"base": 0,
+	"creator": "maygik",
+	"description": "CORPORATE MUNDO PUSH\n\n---\n\n**Created by** [Maygik](https://runeforge.dev/users/Maygik)\n\n**Original:** https://runeforge.dev/mods/2a8e7b2a-e442-4311-a896-bacb337eebde\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dr-mundo-push-mundo/thumb.webp?v=482f4f62",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-push-mundo-v1.fantome",
+		"size": 672203,
+		"sha256": "9bd6c7b5fdfa42f7afd17a5eae8e2f5d729eac06fb442a67c31c32bd26aac45f"
+	},
+	"chromas": []
+}

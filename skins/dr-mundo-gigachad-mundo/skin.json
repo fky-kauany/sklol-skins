@@ -1,0 +1,23 @@
+{
+	"id": "dr-mundo-gigachad-mundo",
+	"name": "GIGACHAD MUNDO",
+	"champion": 36,
+	"base": 0,
+	"creator": "chammad",
+	"description": "This skin replaces base Mundo with a custom-made mod, from the original @TheeEvil's work.\r\n\r\nMOOSCLES, MOOSCLES !\r\n\r\n\r\n## Information\r\n\r\n**Modified champion: Dr.Mundo**\r\n\r\n**Modified skin: Basic**\r\n\r\n**Author: Chammad**\r\n\r\nColor model, abilities and spells icons modified. Don't forget to get strong !\r\n\r\n\r\n## Issues\r\n\r\nIf/When this mod breaks, let me know\r\n\r\nDiscord: @chammad2\n\n---\n\n**Created by** [Chammad / G.C.C.](https://runeforge.dev/users/chammad)\n\n**Original:** https://runeforge.dev/mods/a6bf4ea7-d558-453c-8201-6f1fec043134\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dr-mundo-gigachad-mundo/thumb.webp?v=72dcc513",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-gigachad-mundo-v1.fantome",
+		"size": 3060367,
+		"sha256": "ed8ff79100e05bef84a771ccda30686d36157a7d6c512b28ad8ca9d1b99e7634"
+	},
+	"chromas": []
+}

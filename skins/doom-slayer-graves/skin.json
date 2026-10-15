@@ -1,0 +1,25 @@
+{
+	"id": "doom-slayer-graves",
+	"name": "Doom Slayer Graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai & Kingshound\n* Mod Version: 1.0.1\n* Modified champion: Graves\n* Modified sound: All of Graves' abilities, all of his voicelines, death sound, auto attack sound, reload sound.\n\n## **DESCRIPTION**\n\n* Graves became overwhelmed by his desire to kill demons until nothing is left standing and took the role of the Doom Slayer, his whole skin is replaced by the appearance of the Doom Slayer, and all of his sounds and voicelines have been replaced by those from Doom Eternal\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/42d54262-abad-408e-ae96-504ded4c14f4\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/doom-slayer-graves/thumb.webp?v=b797bfd7",
+	"file": {
+		"version": 1,
+		"asset": "doom-slayer-graves-v1.fantome",
+		"size": 15025330,
+		"sha256": "6a1db2f545865707c6f70f54a330e5f2909a4b709d26b9d1b949f40cd9c354a2"
+	},
+	"chromas": []
+}

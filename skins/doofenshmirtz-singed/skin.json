@@ -1,0 +1,23 @@
+{
+	"id": "doofenshmirtz-singed",
+	"name": "Doofenshmirtz Singed",
+	"champion": 27,
+	"base": 0,
+	"creator": "annown",
+	"description": "### Mod Information-\n* Champion: Singed\n* Modified Skin: Default\n* Author: Annown\n* Mod Version: 1.1.4\n* Model from \"Agent P: Doofendash\"\n\n### Features-\n* New Model and Texture\n* Supports all Quality settings\n* New Loading Screen\n\nJoin my [Discord](https://discord.com/invite/js3CDHe4tD \"Discord\") if any of my skins are out of order.\n\n---\n\n**Created by** [Annown](https://runeforge.dev/users/Annown)\n\n**Original:** https://runeforge.dev/mods/b7b65cfa-5199-49cc-a5e6-566053bc8a92\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/doofenshmirtz-singed/thumb.webp?v=a8461f9d",
+	"file": {
+		"version": 1,
+		"asset": "doofenshmirtz-singed-v1.fantome",
+		"size": 192183,
+		"sha256": "28efc466dc2257322aeb8f0e7b2ac5cf78db7df1d593ea646d5c64ab1a4f5203"
+	},
+	"chromas": []
+}

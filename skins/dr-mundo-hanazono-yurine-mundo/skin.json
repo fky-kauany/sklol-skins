@@ -1,0 +1,27 @@
+{
+	"id": "dr-mundo-hanazono-yurine-mundo",
+	"name": "Hanazono Yurine Mundo",
+	"champion": 36,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Dr. Mundo\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Mundo with Hanazono Yurine from Jashin-Chan Dropkick\r\n\r\nゆりねちゃんのマチェットぺろぺろしたい。。。ぺろぺろぺろぺろ\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations\r\n* Edited ability sounds\r\n* New voiceover replacing Mundo's 150+ lines\r\n\r\n### Credits\r\n* Model from 300 Heroes\r\n* Visual assets from Jashin-Chan Dropkick anime, manga and assorted official art\r\n* Voiceover from Jashin-Chan Dropkick anime and assorted game collaborations (Girls' Frontline, Clover Theater)\r\n* Ult background music 邪神ちゃんドロップキックのテーマですの from Jashin-Chan Dropkick\r\n* Death background music クソリコーダーですの from Jashin-chan Dropkick\r\n* Dance background music Anokoni Dropkick from Jashin-Chan Dropkick OP1\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/f65ddc4b-8d31-4ddb-a416-6e62b3e6f228\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dr-mundo-hanazono-yurine-mundo/thumb.webp?v=3b6fa5a1",
+	"file": {
+		"version": 1,
+		"asset": "dr-mundo-hanazono-yurine-mundo-v1.fantome",
+		"size": 13844610,
+		"sha256": "7135edfff23aac125e002cff12ce40ef107c7feff90dc120f4f3a333caaebd67"
+	},
+	"chromas": []
+}
