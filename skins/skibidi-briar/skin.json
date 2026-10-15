@@ -1,0 +1,26 @@
+{
+	"id": "skibidi-briar",
+	"name": "Skibidi Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "goat",
+	"description": "Base champion: **Briar**\n\nSkin: Default\n\nAuthor: **Goat**\n\nDescription: Skibidi Dob Dob Yes Yes!\n\n\n\n## **Features:**\n\n**-New model and textures.**\n\n**-New full set of animations.**\n\n**-New sounds.**\n\n**-New Splashart loading screen.**\n\n**-Skibidi**\n\n**-DobDobDob**\n\n**-YesYes!**\n\n(The joke emote works best while on green terrain and while camera is locked (so fountain, base and river kinda not work))\n\n---\n\n**Created by** [Goat](https://runeforge.dev/users/Goat)\n\n**Original:** https://runeforge.dev/mods/25704b84-73bd-42da-86dd-136d34ec611d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/skibidi-briar/thumb.webp?v=2bc83535",
+	"file": {
+		"version": 1,
+		"asset": "skibidi-briar-v1.fantome",
+		"size": 24688454,
+		"sha256": "07e52b0a85c70eb4b2248519f331d7678642a8769433dadde2a972db528f13ea"
+	},
+	"chromas": []
+}

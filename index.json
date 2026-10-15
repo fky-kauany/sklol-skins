@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:19:29.948Z",
+	"generatedAt": "2026-10-15T13:22:48.389Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -815,6 +815,12 @@
 				"discord": "https://discord.com/users/785697456473243649",
 				"kofi": "https://ko-fi.com/ikiry0u"
 			}
+		},
+		"illuso": {
+			"name": "Illuso",
+			"avatar": "creators/illuso.jpg?v=47bc29ef",
+			"bio": "# No.1 Shyvana lover\n\n### Feel free to contact me on Discord **@Illus0**, you can find me in the official Runeforge server. \n\n![beautiful dragon lady dancing](https://runeforge.dev/cdn-cgi/image/width=1280,height=720,quality=85,format=webp,fit=scale-down/https://r2-images-prod.runeforge.dev/3d284b33-68ac-4e4f-843b-e2a65e3ec3f9.gif)",
+			"links": {}
 		},
 		"inaba24": {
 			"name": "inaba24",
@@ -29381,6 +29387,252 @@
 				"asset": "shushei-gragas-v1.fantome",
 				"size": 2262085,
 				"sha256": "1a8a2df23ee5b31a1aef3a4bf6f74f068a9ee29c8f129cb72a0ebafc80c54a39"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shyvana-green-chroma-from-tft-set-12",
+			"name": "Shyvana green chroma from TFT set 12",
+			"champion": 102,
+			"base": 0,
+			"creator": "illuso",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shyvana-green-chroma-from-tft-set-12/thumb.webp?v=6ae065f3",
+			"file": {
+				"version": 1,
+				"asset": "shyvana-green-chroma-from-tft-set-12-v1.fantome",
+				"size": 263710,
+				"sha256": "a3c835a46a11e7b5f6ef02f3a933398af16cdd2040a06c9ebeacaf116d72e7b4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shyvana-purple-chroma-from-tft-set-4",
+			"name": "Shyvana purple chroma from TFT set 4",
+			"champion": 102,
+			"base": 0,
+			"creator": "illuso",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shyvana-purple-chroma-from-tft-set-4/thumb.webp?v=54d64575",
+			"file": {
+				"version": 1,
+				"asset": "shyvana-purple-chroma-from-tft-set-4-v1.fantome",
+				"size": 603639,
+				"sha256": "b89f98d19551b2c002daf8d0871828d1b74c8f7a2e46ee7d9d8790f8d8fb6ffa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shyvana-shyvlucine",
+			"name": "shyvLucine",
+			"champion": 102,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shyvana-shyvlucine/thumb.webp?v=4c19ae90",
+			"file": {
+				"version": 1,
+				"asset": "shyvana-shyvlucine-v1.fantome",
+				"size": 10477708,
+				"sha256": "8d0b3cf62c73979cb7ed125ac86dc96fe856cd1c01c7b3220a9b9960f5ffdbf3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "silver-typhoon-storm-dragon-lee-sin",
+			"name": "Silver Typhoon | Storm Dragon Lee Sin",
+			"champion": 64,
+			"base": 31,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/silver-typhoon-storm-dragon-lee-sin/thumb.webp?v=c6caf180",
+			"file": {
+				"version": 1,
+				"asset": "silver-typhoon-storm-dragon-lee-sin-v1.fantome",
+				"size": 4800818,
+				"sha256": "0863db6e1b07cbc54b67fa4100df95186d7c99f389ae22ded09ec0bb4f43c043"
+			},
+			"chromas": []
+		},
+		{
+			"id": "singed-with-missing-pings",
+			"name": "Singed with missing pings",
+			"champion": 27,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/singed-with-missing-pings/thumb.webp?v=8a7c9278",
+			"file": {
+				"version": 1,
+				"asset": "singed-with-missing-pings-v1.fantome",
+				"size": 3450528,
+				"sha256": "6cb65b516fadab10350eac17c48e1969c379666fe5363c7bbe8174157561fa43"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sion-vegeta-dragon-ball-super",
+			"name": "Sion Vegeta Dragon Ball Super",
+			"champion": 14,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sion-vegeta-dragon-ball-super/thumb.webp?v=a56091b7",
+			"file": {
+				"version": 1,
+				"asset": "sion-vegeta-dragon-ball-super-v1.fantome",
+				"size": 140236075,
+				"sha256": "7f7c762301f3549231da9f5bb77df0736c78d3f3631911af47d746a212be9adf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sir-daniel-fortesque-hecarim",
+			"name": "Sir Daniel Fortesque (Hecarim)",
+			"champion": 120,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sir-daniel-fortesque-hecarim/thumb.webp?v=4109da09",
+			"file": {
+				"version": 1,
+				"asset": "sir-daniel-fortesque-hecarim-v1.fantome",
+				"size": 8598555,
+				"sha256": "affb11171fb9fb10671e9fe0aa47f3ed3e0172bdd0f43a2ca55501e6fe69f9b8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "six-armed-vajra-asura-sett",
+			"name": "Six-Armed Vajra Asura Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/six-armed-vajra-asura-sett/thumb.webp?v=931e5b82",
+			"file": {
+				"version": 1,
+				"asset": "six-armed-vajra-asura-sett-v1.fantome",
+				"size": 32071946,
+				"sha256": "3d1c8f6bf7abc3931e3593ebc44833aa63fbaaffd266da7a9f26551d7e73fd66"
+			},
+			"chromas": []
+		},
+		{
+			"id": "skarner-crystal-sovereign",
+			"name": "Skarner Crystal Sovereign",
+			"champion": 72,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/skarner-crystal-sovereign/thumb.webp?v=214f753a",
+			"file": {
+				"version": 1,
+				"asset": "skarner-crystal-sovereign-v1.fantome",
+				"size": 18822563,
+				"sha256": "81a48155f7bd1f16ac263269b1efb27897e72cd96fa6874e1188b15a25daf114"
+			},
+			"chromas": []
+		},
+		{
+			"id": "skibidi-briar",
+			"name": "Skibidi Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "goat",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/skibidi-briar/thumb.webp?v=2bc83535",
+			"file": {
+				"version": 1,
+				"asset": "skibidi-briar-v1.fantome",
+				"size": 24688454,
+				"sha256": "07e52b0a85c70eb4b2248519f331d7678642a8769433dadde2a972db528f13ea"
 			},
 			"chromas": []
 		},

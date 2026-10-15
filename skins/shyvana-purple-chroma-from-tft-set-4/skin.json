@@ -1,0 +1,22 @@
+{
+	"id": "shyvana-purple-chroma-from-tft-set-4",
+	"name": "Shyvana purple chroma from TFT set 4",
+	"champion": 102,
+	"base": 0,
+	"creator": "illuso",
+	"description": "### Information\n\n- ● Champion: Shyvana\n- ● Skin: Base\n- ● Description: Shyvana purple chroma skin from TFT set 4, includes custom purple splash art in loading screen & in game purple ability icons, the in-game Shyvana splash art icon is a modified one taken from the same TFT set.\n- ● Author: Illuso\n\n---\n\n- My first mod ever, hopefully first of many! :D\nFeel free to contact me on Discord @Illus0, you can find me in the official Runeforge server.\n\n---\n\n**Created by** [Illuso](https://runeforge.dev/users/Illuso)\n\n**Original:** https://runeforge.dev/mods/30a61cd9-6484-410b-8b9a-a3d199199c57\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shyvana-purple-chroma-from-tft-set-4/thumb.webp?v=54d64575",
+	"file": {
+		"version": 1,
+		"asset": "shyvana-purple-chroma-from-tft-set-4-v1.fantome",
+		"size": 603639,
+		"sha256": "b89f98d19551b2c002daf8d0871828d1b74c8f7a2e46ee7d9d8790f8d8fb6ffa"
+	},
+	"chromas": []
+}

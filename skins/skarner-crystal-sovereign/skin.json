@@ -1,0 +1,26 @@
+{
+	"id": "skarner-crystal-sovereign",
+	"name": "Skarner Crystal Sovereign",
+	"champion": 72,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Skar... Skar... SKARNER!!\n\nModified Skin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Traditional Skarner; A mix between the new and old versions.\n\nFeatures:\n\n-New textures.\n\n-New reflection effect on body.\n\n-Recolored Particles.\n\n-Modified model\n\n-New sounds.\n\n-New animations.\n\n-New Ability icons.\n\n-Hate towards Seraphine.\n\n-Absolutely no Pokemon references.\n\n-Skarporos!\n\n-Free nostalgia.\n\n-Did I mention hate towards Seraphine?\n\nCredits:\n\n-The voice actors for the joke emote are NickyBoy and CountOfCryptidsVA.\n\n-Death sound is from a Druttut stream/video (minute 14:18).\n\n\n\nLegacy Changelog:\n\n-21/03/2024: Beta version\n\n-21/03/2024: New sounds for meme version, better Seraphine ragedoll\n\n-21/03/2024: Added recall and respawn emotes. Some minor tweaks.\n\n-28/03/2024: Added laugh, taunt and dance emotes. Modified model and texture and added reflection on texture. Some other minor tweaks.\n\n-03/04/2024: Official 1.0 launch in live version. Several tweaks and additions.\n\n-03/04/2024: Official 2.0 launch;\n\n--new death sound, courtesy of Druttut\n\n--Joke emote finished\n\n--New taunt emote. Old taunt moved to laugh emote.\n\n--Seraphine is now animated while Skarner carries her.\n\n--Old laugh emote removed.\n\n--Sereval tweaks and fixed for current patch.\n\n-07/02/2025: Fixed for new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/7f992bc2-928e-48d5-8414-c8d8348b73da\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/skarner-crystal-sovereign/thumb.webp?v=214f753a",
+	"file": {
+		"version": 1,
+		"asset": "skarner-crystal-sovereign-v1.fantome",
+		"size": 18822563,
+		"sha256": "81a48155f7bd1f16ac263269b1efb27897e72cd96fa6874e1188b15a25daf114"
+	},
+	"chromas": []
+}

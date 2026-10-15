@@ -1,0 +1,23 @@
+{
+	"id": "singed-with-missing-pings",
+	"name": "Singed with missing pings",
+	"champion": 27,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## WHEN SHARING THIS MOD WITH OTHER PEOPLE SEND A LINK TO THIS PAGE RATHER THAN THE MOD FILE DIRECTLY - MODS GET OUTDATED JUST LET ME DO THE UPKEEP FOR YOU IT IS NOT WORTH SAVING ONE (1) CLICK\n\n### Information\n\n**Modified champion:** Singed\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n#\n\n### Features\n* Small missing pings on Q\n* Large missing ping on dance\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/46285a50-97b1-4947-b493-e0883393dffe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/singed-with-missing-pings/thumb.webp?v=8a7c9278",
+	"file": {
+		"version": 1,
+		"asset": "singed-with-missing-pings-v1.fantome",
+		"size": 3450528,
+		"sha256": "6cb65b516fadab10350eac17c48e1969c379666fe5363c7bbe8174157561fa43"
+	},
+	"chromas": []
+}

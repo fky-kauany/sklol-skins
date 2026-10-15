@@ -1,0 +1,23 @@
+{
+	"id": "silver-typhoon-storm-dragon-lee-sin",
+	"name": "Silver Typhoon | Storm Dragon Lee Sin",
+	"champion": 64,
+	"base": 31,
+	"creator": "northoff",
+	"description": "Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Tezzed from our Discord server!.\n\nhttps://discord.gg/leaguelab\n\n---\n\n**Created by** [northoff](https://runeforge.dev/users/northoff)\n\n**Original:** https://runeforge.dev/mods/f7535a4b-c255-473b-9aa2-4502fde43bdf\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/silver-typhoon-storm-dragon-lee-sin/thumb.webp?v=c6caf180",
+	"file": {
+		"version": 1,
+		"asset": "silver-typhoon-storm-dragon-lee-sin-v1.fantome",
+		"size": 4800818,
+		"sha256": "0863db6e1b07cbc54b67fa4100df95186d7c99f389ae22ded09ec0bb4f43c043"
+	},
+	"chromas": []
+}

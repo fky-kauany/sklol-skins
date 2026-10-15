@@ -1,0 +1,26 @@
+{
+	"id": "sion-vegeta-dragon-ball-super",
+	"name": "Sion Vegeta Dragon Ball Super",
+	"champion": 14,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "**[MOD INFO:]**\n\nChampion: Sion (Base)\n\nVersion: 1.0\n\nAuthor: Sirdy\n\nChanges: Texture, Animations, Sfxs and Vfxs, VO, Icon and Loadscreen.\n\nVoice Languages: PT-BR, EN US. (Some voice lines were created using AI.)\n\n**[Description:]**\n\nNumber of stacks of the Soul Furnace (W) skill required for each transformation:\n\n**Auto Version:**\n\n| SSJ01 = 250\n\n| SSJ03 (DAIMA) = 600\n\n| SSJ GOD = 800\n\n| SSJ BLUE = 880\n\n| UE = 1300\n\n**Manual Version:**\n\n| SSJ01 = 250\n\n| SSJ03 (DAIMA) = 450\n\n| SSJ GOD = 700\n\n| SSJ BLUE = 800\n\n| UE = 1300\n\nManual Transformation Version -> Transform using /Taunt or Ctrl+2 when reaching the required number of Stacks for each form.\n\nAutomatic Transformation Version -> Transforms automatically when there are enough Stacks for each form; cannot be canceled. For each odd death (\"0/1, 0/3\"), receives an angel's halo; works correctly only in the automatic version.\n\n**[CREDITS:]**\n\n**MODELS:**\n\nhttps://models.spriters-resource.com/psp/dragonballzshinbudokaianotherroad/asset/308047/\n\nhttps://models.spriters-resource.com/gamecube/dragonballzbudokai2/asset/301400/\n\nhttps://models.spriters-resource.com/mobile/dragonballlegends/asset/464721/\n\nhttps://www.deviantart.com/nekopixil/art/FBX-Vegeta-DB-Sparking-ZERO-3D-Model-DL-1110992915\n\nhttps://models.spriters-resource.com/psp/dragonballzshinbudokaianotherroad/asset/308043/\n\n**MUSICS:**\n\nhttps://youtu.be/L_n62eTvKQo?si=lNiaSlAhGZE2LVhl - Battle Theme Cover | Vincent Moretto\n\nhttps://youtu.be/eT7u8R2d8hc?si=8iYg5ItBbBJBgRov - IT'S OVER 9000! Sparta remix | Hoffy1138\n\n-----------------------------------------------------------------------\n\n**VOICE:**\n\nFish Audio Ai | Alfredo Rollo (pt-br) ->\nhttps://fish.audio/es/app/m/279af9cf14bd40f18ff941b3ecdad56b/\n\nChristopher Sabat (en-us) ->\nhttps://fish.audio/es/app/m/931ec0d7652348bfa8540f5836bbdbd5/\n\n---------------\n\nDragon Ball Z: Budokai Tenkaichi 3 ->\nhttps://sounds.spriters-resource.com/wii/dbzbt3/asset/395950/\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/60b178a3-0cad-42a9-9ff0-587035befb8b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sion-vegeta-dragon-ball-super/thumb.webp?v=a56091b7",
+	"file": {
+		"version": 1,
+		"asset": "sion-vegeta-dragon-ball-super-v1.fantome",
+		"size": 140236075,
+		"sha256": "7f7c762301f3549231da9f5bb77df0736c78d3f3631911af47d746a212be9adf"
+	},
+	"chromas": []
+}

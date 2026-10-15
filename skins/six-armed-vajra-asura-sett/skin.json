@@ -1,0 +1,26 @@
+{
+	"id": "six-armed-vajra-asura-sett",
+	"name": "Six-Armed Vajra Asura Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Six-Armed Vajra Asura skin for Sett. Replaces the default skin.\n- Custom Model & Textures, Animations, SFX/VFX, Icons (ability icons too).\n- Ensure that this mod is not enabled with other mods that also replaces the other ability icons. Otherwise it will result into different icon.\n>Oh yeah, the extra arms are definitely animated\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/89194a2d-eafc-4a41-b19f-70a7acca0838\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/six-armed-vajra-asura-sett/thumb.webp?v=931e5b82",
+	"file": {
+		"version": 1,
+		"asset": "six-armed-vajra-asura-sett-v1.fantome",
+		"size": 32071946,
+		"sha256": "3d1c8f6bf7abc3931e3593ebc44833aa63fbaaffd266da7a9f26551d7e73fd66"
+	},
+	"chromas": []
+}
