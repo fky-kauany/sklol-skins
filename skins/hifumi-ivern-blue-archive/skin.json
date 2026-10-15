@@ -1,0 +1,25 @@
+{
+	"id": "hifumi-ivern-blue-archive",
+	"name": "Hifumi Ivern (Blue Archive)",
+	"champion": 427,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "# Skin Info:\n\nChampion : Ivern\n\n‎\n\nModified skin : Default\n\n‎\n\nOriginal Author : guid\n\n‎\n\nRecovered by: Yuumi\n\n‎\n\nMod version: 1.0.0\n\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\n\n‎\n\n‎\n\nIf it breaks or has problems contact me on discord: @fbsanakonda0\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/ef914fc9-db93-4f3a-933e-5f944594af35\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hifumi-ivern-blue-archive/thumb.webp?v=1ff11e09",
+	"file": {
+		"version": 1,
+		"asset": "hifumi-ivern-blue-archive-v1.fantome",
+		"size": 3904203,
+		"sha256": "aeb138d9e9158c3f61c186bbf624e56e4c2fa7ba8c0e205dc3b5684f76ad4868"
+	},
+	"chromas": []
+}

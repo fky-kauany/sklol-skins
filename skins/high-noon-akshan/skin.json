@@ -1,0 +1,24 @@
+{
+	"id": "high-noon-akshan",
+	"name": "High Noon Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "### Note: IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n#### If it break If it breaks or has problems contact me on discord @AleXD\n## Credits for Reverie\n### and @MiyuArt_ (Thumbnail)\n* ## Mod info:\n\n- Type of Mod: Skin\n- Champ: Akshan\n- Author: Reverie\n\n* ## Details:\n\n- New Sound effects\n- New Model\n- New Textures\n\n* # Credits:\n\n- Thumbnail: https://x.com/MiyuArt_\n- https://www.youtube.com/watch?v=haQSwGYSuak\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/5f092f03-1271-48e3-b934-6ff4c5ef9d64\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/high-noon-akshan/thumb.webp?v=34d635c2",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-akshan-v1.fantome",
+		"size": 7810797,
+		"sha256": "f3c85201b662475fb7e7229a6e1984c5f2c344585e62dc90a31b839799062b42"
+	},
+	"chromas": []
+}

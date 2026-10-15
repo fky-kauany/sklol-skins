@@ -1,0 +1,25 @@
+{
+	"id": "hina-jhin-blue-archive",
+	"name": "Hina Jhin (Blue Archive)",
+	"champion": 202,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "This author is lazy and wish to not write anything here unless wanted to\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/c004ffbb-d11e-4c9d-a56e-f52955b40fe6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hina-jhin-blue-archive/thumb.webp?v=53493333",
+	"file": {
+		"version": 1,
+		"asset": "hina-jhin-blue-archive-v1.fantome",
+		"size": 18769217,
+		"sha256": "e2552f4be3b4a708b58029b581eb511ff63bcfa6107b729316ba33f1b5279342"
+	},
+	"chromas": []
+}

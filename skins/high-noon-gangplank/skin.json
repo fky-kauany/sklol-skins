@@ -1,0 +1,26 @@
+{
+	"id": "high-noon-gangplank",
+	"name": "High Noon Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Gangplank with a custom-made model after a group collaboration and original concept for High Noon Gangplank.\n\n## CREDITS\n\n* **PROJECT LEAD**: [Urpog](https://twitter.com/Urpog1)\n* **SPLASH**: [Emriikun](https://linktr.ee/emriikun)\n* **MODELS, TEXTURES & VFX**: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n* **ANIMATIONS**: [Sauronkaiser](https://www.youtube.com/channel/UCKeYTAlM9tNnMIhXMvKs7iw)\n* **FILE MANAGEMENT**: [LxVer8](https://twitter.com/lxver8)\n* **CONCEPT ART**: [Houseplant](https://twitter.com/plantedplanty), [Spinebreaker](https://twitter.com/breaking_spine), [Bearded Shepherd ](https://linktr.ee/BeardedShepherd)\n* **MAP FOR CINEMATIC**: [Konrad](https://twitter.com/konradosj)\n**CINEMATIC & SFX**: [Husel](https://www.youtube.com/c/HuselPusel)\n\nThis mod was in collaboration with Urpog's team. If you appreciate Urpog for making this skin possible, please consider following his content on [Youtube](https://www.youtube.com/channel/UCi1dkcQuuH6FBx2zd8qwolw) and [Twitch](https://twitter.com/Urpog1) and becoming a supporter.\n\nBe advised that there are 8 total chromas for this skin which means 8 other versions of the mod. You can only have ONE active at a time in CsLoL manager.\n\n### SPECIAL MESSAGE\n\nGangplank mains, we know you've wanted a High Noon skin for a while now, and since Riot has failed to recognize his potential within this thematic universe, we decided to take matters into our own hands. We truly hope you will enjoy Gangplank in this fantasy and delight in the experience this skin has to offer.\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on Gangplank's model](http://artstation.com/artwork/rJ8mw2) for a closer look.\n\nEnjoy!\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/b013db8a-a394-467b-aad0-14159cbc6f0e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/high-noon-gangplank/thumb.webp?v=a1f786be",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-gangplank-v1.fantome",
+		"size": 16396924,
+		"sha256": "923ff8287199924e796e0f02cd3d15ea7790865d97b3b08ff55d920a11a44882"
+	},
+	"chromas": []
+}

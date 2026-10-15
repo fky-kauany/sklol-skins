@@ -1,0 +1,22 @@
+{
+	"id": "high-quality-yuumi",
+	"name": "High quality Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Modifies Yuumi's textures to high quality ones from artstation. The only upscaling done is on the spikyfur textures (952x952 -> 1024x1024)\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/880a96b9-bce6-4914-8156-9ed711f34a4a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/high-quality-yuumi/thumb.webp?v=0207de5d",
+	"file": {
+		"version": 1,
+		"asset": "high-quality-yuumi-v1.fantome",
+		"size": 2760562,
+		"sha256": "f35f784a0a2eeb91448e78397ede92aa9871d07cf2dad2d7546c3101656a041f"
+	},
+	"chromas": []
+}

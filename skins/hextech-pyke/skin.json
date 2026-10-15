@@ -1,0 +1,24 @@
+{
+	"id": "hextech-pyke",
+	"name": "hextech pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "free money&#x20;\n\n***\n\n**Modified champion: Pyke**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/e10b1daa-518b-4c78-a4b1-ed6da2c2f0fd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-pyke/thumb.webp?v=964677a4",
+	"file": {
+		"version": 1,
+		"asset": "hextech-pyke-v1.fantome",
+		"size": 2727898,
+		"sha256": "a416ecf1a9b4e917b1f4d242301f507d3094a429b50116b65d8c716016ab079d"
+	},
+	"chromas": []
+}

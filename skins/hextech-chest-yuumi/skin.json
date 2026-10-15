@@ -1,0 +1,24 @@
+{
+	"id": "hextech-chest-yuumi",
+	"name": "Hextech chest Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Hextech chest Yuumi\n\nSkin: base\n\n\n\nHextech chest model: [https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)&#x20;\n\nKey model: [https://sketchfab.com/3d-models/old-key-69e71d81492548de88edb7f81065d80c](https://sketchfab.com/3d-models/old-key-69e71d81492548de88edb7f81065d80c)&#x20;\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/cc73b9ea-0073-4445-b6d0-9b1910acfc81\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-yuumi/thumb.webp?v=180b0bee",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-yuumi-v1.fantome",
+		"size": 2929518,
+		"sha256": "847de5c24d674be8ffcf87c6cf178dfa3ffbee0e192356f60dd84d4d87ae2ba9"
+	},
+	"chromas": []
+}

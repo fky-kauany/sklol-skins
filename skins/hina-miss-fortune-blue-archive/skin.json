@@ -1,0 +1,24 @@
+{
+	"id": "hina-miss-fortune-blue-archive",
+	"name": "Hina Miss Fortune (Blue Archive)",
+	"champion": 21,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Original author: Tarngaina\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/a8865e82-fce4-4ac1-ad88-ac2974778aa0\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hina-miss-fortune-blue-archive/thumb.webp?v=29a8551e",
+	"file": {
+		"version": 1,
+		"asset": "hina-miss-fortune-blue-archive-v1.fantome",
+		"size": 3180080,
+		"sha256": "a4965be23bcf2d009914c2bb324d522db009318a695e3662dd065cae89fbdb8a"
+	},
+	"chromas": []
+}

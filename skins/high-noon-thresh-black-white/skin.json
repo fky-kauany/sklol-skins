@@ -1,0 +1,26 @@
+{
+	"id": "high-noon-thresh-black-white",
+	"name": "High Noon Thresh - Black & White",
+	"champion": 412,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - High Noon Thresh\r\n\r\n╰┈➤ _The idea for this mod was to give Thresh a High Noon chroma that's black/white. There is a few bits of red/orange still in there just for a bit of contrast but its very minor._\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\r\nCreated in collaboration with angel_thresh!\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/caeb205f-00f0-4e8e-9d7b-6b35eb4e1389\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/high-noon-thresh-black-white/thumb.webp?v=c0c2eb92",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-thresh-black-white-v1.fantome",
+		"size": 25990385,
+		"sha256": "821ed2ea11d721f3ea07b641a9b751c59f291765bcdb4d2f7c6213df091f8bd7"
+	},
+	"chromas": []
+}
