@@ -1,0 +1,26 @@
+{
+	"id": "iori-yagami-riven",
+	"name": "Iori Yagami Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "matth",
+	"description": "----------------------------------THIS MOD WORKS FINE WITH CSLOLMANAGER----------------------------\r\n\r\n______________________________________________________________________________________________________\r\n\r\nUPDATE: \r\nFixed his run animation.\r\n\r\nAdded overlay to the ult.\r\n\r\nNew loadscreen animated.\r\n\r\nBetter 3D model.\r\n\r\n______________________________________________________________________________________________________\r\n\r\nSkin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/9ca41a1d-cda4-4eba-bff1-57934e2c9635\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/iori-yagami-riven/thumb.webp?v=8b319173",
+	"file": {
+		"version": 1,
+		"asset": "iori-yagami-riven-v1.fantome",
+		"size": 60575804,
+		"sha256": "df5c4f657adb5fae6a7f8c05a3deaebad80f207e4d131ce64126f77e99a6f4c8"
+	},
+	"chromas": []
+}

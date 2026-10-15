@@ -1,0 +1,25 @@
+{
+	"id": "iori-vayne-blue-archive",
+	"name": "Iori Vayne (Blue Archive)",
+	"champion": 67,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Original author: tarngaina\n\nput the champion quality to high for the skin to work.\n\nwill no longer need to do so in about 2-3 months&#x20;\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/0bd1d601-78b8-4250-a396-b1fd02d7db95\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/iori-vayne-blue-archive/thumb.webp?v=c239263f",
+	"file": {
+		"version": 1,
+		"asset": "iori-vayne-blue-archive-v1.fantome",
+		"size": 5328643,
+		"sha256": "e2705525f38c13358dd34cee207dce8ad7a170953ffdf1864a6c5bb43fbcd973"
+	},
+	"chromas": []
+}

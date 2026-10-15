@@ -1,0 +1,23 @@
+{
+	"id": "inuyasha-master-yi-classic",
+	"name": "Inuyasha Master Yi - Classic",
+	"champion": 11,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base in Classic and Modern League\n\n## SPECIAL THANKS TO\n\nDazashu, for supplying this skin and the OG Author Sizorblade.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/d6f1b1fe-1eb9-414d-873f-1e26aadcfb45\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/inuyasha-master-yi-classic/thumb.webp?v=3dc918e5",
+	"file": {
+		"version": 1,
+		"asset": "inuyasha-master-yi-classic-v1.fantome",
+		"size": 12183101,
+		"sha256": "959efe2dd3f36fad8326ab0344cd812ddbd5d7b6be8207080e9a0541505e6479"
+	},
+	"chromas": []
+}

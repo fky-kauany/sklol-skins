@@ -1,0 +1,25 @@
+{
+	"id": "infinite-void-yone",
+	"name": "Infinite Void Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "reza",
+	"description": "---\n\n**Created by** [Reza](https://runeforge.dev/users/Reza)\n\n**Original:** https://runeforge.dev/mods/676499c5-2210-4e20-8b79-ca49da5d5668\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/infinite-void-yone/thumb.webp?v=a980f8fd",
+	"file": {
+		"version": 1,
+		"asset": "infinite-void-yone-v1.fantome",
+		"size": 10453761,
+		"sha256": "33eec3c087a842a32f4bec70cccfba6efa3b869c9af6944d6258ee936ed27625"
+	},
+	"chromas": []
+}

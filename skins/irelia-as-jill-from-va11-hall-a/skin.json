@@ -1,0 +1,26 @@
+{
+	"id": "irelia-as-jill-from-va11-hall-a",
+	"name": "IRELIA AS JILL FROM VA11 HALL-A",
+	"champion": 39,
+	"base": 0,
+	"creator": "hatstore",
+	"description": "### **DISCORD: hatstore**\r\n\r\n### **DM IF SOMETHING BREAKS**\r\n(or if you want to commission)\r\n***\r\n\r\n## MOD INFORMATION:\r\n\r\n***\r\n\r\nChampion: Irelia\r\n\r\nModified skin: Default\r\n\r\nAuthor: hatssstore\r\n\r\n## FEATURES:\r\n\r\n***\r\n\r\n* HOT BARTENDER IN LEAGUE OF LEGENDS\r\n* MODIFIED ABILITY SOUNDS\r\n* TWEAKED VFX\r\n* NEW SKILL ICONS\r\n* NEW LOADING SCREEN PIC\n\n---\n\n**Created by** [⚠](https://runeforge.dev/users/hatstore)\n\n**Original:** https://runeforge.dev/mods/28add35b-526d-4a0c-afc8-12cbd7a3875f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/irelia-as-jill-from-va11-hall-a/thumb.webp?v=6e737eba",
+	"file": {
+		"version": 1,
+		"asset": "irelia-as-jill-from-va11-hall-a-v1.fantome",
+		"size": 32938312,
+		"sha256": "4fa0658eadb6171bc06c725d8905f2a6541bf4519929e910a0278f9e48eacda2"
+	},
+	"chromas": []
+}

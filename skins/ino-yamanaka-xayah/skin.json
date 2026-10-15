@@ -1,0 +1,26 @@
+{
+	"id": "ino-yamanaka-xayah",
+	"name": "Ino Yamanaka Xayah",
+	"champion": 498,
+	"base": 0,
+	"creator": "matth",
+	"description": "-----------------------------------------------VOICES-------------------------------------------------\r\n\r\nSkin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/0b0edd97-f678-4c3e-be65-b40527548ed8\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ino-yamanaka-xayah/thumb.webp?v=0289109d",
+	"file": {
+		"version": 1,
+		"asset": "ino-yamanaka-xayah-v1.fantome",
+		"size": 18864282,
+		"sha256": "402424cdfd2a880d8f6881fa2e3812f2b1cf425a517f92e872a81c5657df0979"
+	},
+	"chromas": []
+}

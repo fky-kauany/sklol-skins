@@ -1,0 +1,25 @@
+{
+	"id": "imperial-smolder",
+	"name": "Imperial Smolder",
+	"champion": 901,
+	"base": 0,
+	"creator": "cam",
+	"description": "Imperial Smolder - Realistic Smolder, mod made by Camembert for Veralion.\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/41c12e18-ea5e-4229-928f-caea31f1be57\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/imperial-smolder/thumb.webp?v=323ecd25",
+	"file": {
+		"version": 1,
+		"asset": "imperial-smolder-v1.fantome",
+		"size": 11622864,
+		"sha256": "17b60ecf60a664c1761319cd933d96393dd93eb186b18390ba198f60da10ae77"
+	},
+	"chromas": []
+}

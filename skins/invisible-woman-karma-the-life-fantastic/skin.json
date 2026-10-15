@@ -1,0 +1,26 @@
+{
+	"id": "invisible-woman-karma-the-life-fantastic",
+	"name": "Invisible Woman Karma (The Life Fantastic)",
+	"champion": 43,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/XH4xqwKM5 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/598671be-5661-4120-b3af-fc70521a8ed3\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/invisible-woman-karma-the-life-fantastic/thumb.webp?v=966cbffa",
+	"file": {
+		"version": 1,
+		"asset": "invisible-woman-karma-the-life-fantastic-v1.fantome",
+		"size": 219462187,
+		"sha256": "45700b8b5a204d669367cd5f276a2bfb1aed122074f55143a2f98aa751917f70"
+	},
+	"chromas": []
+}

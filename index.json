@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:43:14.824Z",
+	"generatedAt": "2026-10-15T10:46:53.311Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16463,6 +16463,57 @@
 			"chromas": []
 		},
 		{
+			"id": "immortalized-shamrock-malphite",
+			"name": "Immortalized Shamrock Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/immortalized-shamrock-malphite/thumb.webp?v=a0281b7a",
+			"file": {
+				"version": 1,
+				"asset": "immortalized-shamrock-malphite-v1.fantome",
+				"size": 5113718,
+				"sha256": "e2b59ae9b2d83d91140b8197667be032fb782c418fae0771dccce18b7d04d5fa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "imperial-smolder",
+			"name": "Imperial Smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/imperial-smolder/thumb.webp?v=323ecd25",
+			"file": {
+				"version": 1,
+				"asset": "imperial-smolder-v1.fantome",
+				"size": 11622864,
+				"sha256": "17b60ecf60a664c1761319cd933d96393dd93eb186b18390ba198f60da10ae77"
+			},
+			"chromas": []
+		},
+		{
 			"id": "infernal-vel-koz-chroma-vfx",
 			"name": "Infernal Vel'Koz chroma VFX",
 			"champion": 161,
@@ -16488,6 +16539,80 @@
 			"chromas": []
 		},
 		{
+			"id": "infinite-void-yone",
+			"name": "Infinite Void Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "reza",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/infinite-void-yone/thumb.webp?v=a980f8fd",
+			"file": {
+				"version": 1,
+				"asset": "infinite-void-yone-v1.fantome",
+				"size": 10453761,
+				"sha256": "33eec3c087a842a32f4bec70cccfba6efa3b869c9af6944d6258ee936ed27625"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ino-yamanaka-xayah",
+			"name": "Ino Yamanaka Xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ino-yamanaka-xayah/thumb.webp?v=0289109d",
+			"file": {
+				"version": 1,
+				"asset": "ino-yamanaka-xayah-v1.fantome",
+				"size": 18864282,
+				"sha256": "402424cdfd2a880d8f6881fa2e3812f2b1cf425a517f92e872a81c5657df0979"
+			},
+			"chromas": []
+		},
+		{
+			"id": "inuyasha-master-yi-classic",
+			"name": "Inuyasha Master Yi - Classic",
+			"champion": 11,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/inuyasha-master-yi-classic/thumb.webp?v=3dc918e5",
+			"file": {
+				"version": 1,
+				"asset": "inuyasha-master-yi-classic-v1.fantome",
+				"size": 12183101,
+				"sha256": "959efe2dd3f36fad8326ab0344cd812ddbd5d7b6be8207080e9a0541505e6479"
+			},
+			"chromas": []
+		},
+		{
 			"id": "inverted-hwei",
 			"name": "Inverted Hwei",
 			"champion": 910,
@@ -16506,6 +16631,135 @@
 				"asset": "inverted-hwei-v1.fantome",
 				"size": 2343441,
 				"sha256": "809f4b7b3d6b5753511e74ff43425341d9deacca53f43cfc6d643560d4199e63"
+			},
+			"chromas": []
+		},
+		{
+			"id": "invisible-woman-fs-karma",
+			"name": "Invisible Woman FS Karma",
+			"champion": 43,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/invisible-woman-fs-karma/thumb.webp?v=df99f3f4",
+			"file": {
+				"version": 1,
+				"asset": "invisible-woman-fs-karma-v1.fantome",
+				"size": 216293804,
+				"sha256": "eb7ccb61862b3ca62050f47d3251215cc022b6dd5da6994c2870f3da4bec7552"
+			},
+			"chromas": []
+		},
+		{
+			"id": "invisible-woman-karma-the-life-fantastic",
+			"name": "Invisible Woman Karma (The Life Fantastic)",
+			"champion": 43,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/invisible-woman-karma-the-life-fantastic/thumb.webp?v=966cbffa",
+			"file": {
+				"version": 1,
+				"asset": "invisible-woman-karma-the-life-fantastic-v1.fantome",
+				"size": 219462187,
+				"sha256": "45700b8b5a204d669367cd5f276a2bfb1aed122074f55143a2f98aa751917f70"
+			},
+			"chromas": []
+		},
+		{
+			"id": "iori-vayne-blue-archive",
+			"name": "Iori Vayne (Blue Archive)",
+			"champion": 67,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/iori-vayne-blue-archive/thumb.webp?v=c239263f",
+			"file": {
+				"version": 1,
+				"asset": "iori-vayne-blue-archive-v1.fantome",
+				"size": 5328643,
+				"sha256": "e2705525f38c13358dd34cee207dce8ad7a170953ffdf1864a6c5bb43fbcd973"
+			},
+			"chromas": []
+		},
+		{
+			"id": "iori-yagami-riven",
+			"name": "Iori Yagami Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/iori-yagami-riven/thumb.webp?v=8b319173",
+			"file": {
+				"version": 1,
+				"asset": "iori-yagami-riven-v1.fantome",
+				"size": 60575804,
+				"sha256": "df5c4f657adb5fae6a7f8c05a3deaebad80f207e4d131ce64126f77e99a6f4c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-as-jill-from-va11-hall-a",
+			"name": "IRELIA AS JILL FROM VA11 HALL-A",
+			"champion": 39,
+			"base": 0,
+			"creator": "hatstore",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/irelia-as-jill-from-va11-hall-a/thumb.webp?v=6e737eba",
+			"file": {
+				"version": 1,
+				"asset": "irelia-as-jill-from-va11-hall-a-v1.fantome",
+				"size": 32938312,
+				"sha256": "4fa0658eadb6171bc06c725d8905f2a6541bf4519929e910a0278f9e48eacda2"
 			},
 			"chromas": []
 		},

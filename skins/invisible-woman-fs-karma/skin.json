@@ -1,0 +1,26 @@
+{
+	"id": "invisible-woman-fs-karma",
+	"name": "Invisible Woman FS Karma",
+	"champion": 43,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (MatthSpotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n______________________________________________________________________________________________________\n\nMy Contacts:\n\nDiscord server: https://discord.gg/XH4xqwKM5 💛\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/ca053cde-9656-469b-9f74-624d5238f998\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/invisible-woman-fs-karma/thumb.webp?v=df99f3f4",
+	"file": {
+		"version": 1,
+		"asset": "invisible-woman-fs-karma-v1.fantome",
+		"size": 216293804,
+		"sha256": "eb7ccb61862b3ca62050f47d3251215cc022b6dd5da6994c2870f3da4bec7552"
+	},
+	"chromas": []
+}
