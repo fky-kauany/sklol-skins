@@ -1,0 +1,24 @@
+{
+	"id": "hololive-shiori-novella-ryze",
+	"name": "Hololive Shiori Novella Ryze",
+	"champion": 13,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Ryze\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: それって素敵な物語だと思わない\n\n### SPECIFICATIONSNew model and texture\\*\\*\\*\\*&#x20;\n\n* New model and texture\\*\\*\\*\\*&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Shiori Novella 3d model by : [https://3d.nicovideo.jp/works/td89510](https://3d.nicovideo.jp/works/td89510)\n* Loading screen art by : [https://www.zerochan.net/3996460](https://www.zerochan.net/3996460)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/a874eefd-3b90-4352-82b0-6ffe50b94aae\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-shiori-novella-ryze/thumb.webp?v=b4c823f5",
+	"file": {
+		"version": 1,
+		"asset": "hololive-shiori-novella-ryze-v1.fantome",
+		"size": 15579156,
+		"sha256": "2e07aaf6465dbe693ae5c05c6973610060264f0dce8ac4123f47f90e61d7fcb0"
+	},
+	"chromas": []
+}

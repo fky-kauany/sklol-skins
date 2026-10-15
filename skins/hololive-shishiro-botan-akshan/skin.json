@@ -1,0 +1,24 @@
+{
+	"id": "hololive-shishiro-botan-akshan",
+	"name": "Hololive Shishiro Botan Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Akshan\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: 見た目とは裏腹にぐうたらした性格のホワイトライオン。基本めんどくさがり屋だが、一度決めた事はやり通す誠実な一面もある。好きな言葉は「採算度外視」。\n\n### SPECIFICATIONSNew model and texture****&#x20;\n\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* Loadscreen art by: ( [https://medibang.com/picture/1w2106221817101460006751564/?locale=ja\\&sort=4\\&tagName=%E7%8D%85%E7%99%BD%E3%81%BC%E3%81%9F%E3%82%93\\&tagId=351875\\&tierFilter=0\\&currentPage=2](https://medibang.com/picture/1w2106221817101460006751564/?locale=ja\\&sort=4\\&tagName=%E7%8D%85%E7%99%BD%E3%81%BC%E3%81%9F%E3%82%93\\&tagId=351875\\&tierFilter=0\\&currentPage=2) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/a53e78b3-db79-4930-b453-57dbd1d77e15\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-shishiro-botan-akshan/thumb.webp?v=17765f29",
+	"file": {
+		"version": 1,
+		"asset": "hololive-shishiro-botan-akshan-v1.fantome",
+		"size": 18547385,
+		"sha256": "2d4cb2d3ed4d69dcc1c2b61f8520428f3088f6207b5813ea9c24346c25eca3a5"
+	},
+	"chromas": []
+}

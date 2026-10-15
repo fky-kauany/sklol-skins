@@ -1,0 +1,24 @@
+{
+	"id": "hololive-shishiro-botan-lucian",
+	"name": "Hololive Shishiro Botan Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Lucian\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Shishiro Botan 3D model in this mod is from ( [https://3d.nicovideo.jp/works/td78506](https://3d.nicovideo.jp/works/td78506) )\n* Loadscreen art by: ( [https://twitter.com/funi\\_mu9/status/1569644389135454208?s=20\\&t=830N5XQ5\\_Kpj5UPTKlae4A](https://twitter.com/funi_mu9/status/1569644389135454208?s=20\\&t=830N5XQ5_Kpj5UPTKlae4A) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/0de772f1-2ae0-4606-b039-603f9bddfb3f\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-shishiro-botan-lucian/thumb.webp?v=25adc0eb",
+	"file": {
+		"version": 1,
+		"asset": "hololive-shishiro-botan-lucian-v1.fantome",
+		"size": 14291446,
+		"sha256": "89526160fafa9922b26e0f545f70d22f09fa2d0c3b94798cc35cf1700c6f888b"
+	},
+	"chromas": []
+}

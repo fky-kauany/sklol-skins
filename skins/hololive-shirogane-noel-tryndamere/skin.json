@@ -1,0 +1,25 @@
+{
+	"id": "hololive-shirogane-noel-tryndamere",
+	"name": "Hololive Shirogane Noel Tryndamere",
+	"champion": 23,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\r\n\r\n* Champion: Tryndamere\r\n* Modified skin: Default\r\n* Author: PoonNotaniShisui\r\n* Skin Version: 1.2\r\n\r\n### SPECIFICATIONSNew model and texture****&#x20;\r\n\r\n* New model and texture****&#x20;\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified animations\r\n* New voiceover\r\n\r\n### CREDITS\r\n\r\n* The Shirogane Noel 3D moidel in this mod is from ( [https://fantia.jp/posts/1515617](https://fantia.jp/posts/1515617) )\r\n* Avatar art by: ( [https://twitter.com/funi\\_mu9/status/1](https://twitter.com/funi_mu9/status/1) )\r\n* Loadscreen art by: ( [https://www.pixiv.net/artworks/104355805](https://www.pixiv.net/artworks/104355805) )\r\n* Animations art by : ( Karma Enthusiast )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/fd706ee2-99d8-47d0-93e8-4905b2cde0a4\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-shirogane-noel-tryndamere/thumb.webp?v=eaedf73c",
+	"file": {
+		"version": 1,
+		"asset": "hololive-shirogane-noel-tryndamere-v1.fantome",
+		"size": 4099288,
+		"sha256": "f15f568d2eb4e5f93c848d1da129cc16d01dd8b0c51ccad192b2a93dc144d78e"
+	},
+	"chromas": []
+}

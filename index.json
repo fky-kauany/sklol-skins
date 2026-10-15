@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:30:35.229Z",
+	"generatedAt": "2026-10-15T10:33:46.643Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -15416,6 +15416,248 @@
 				"asset": "hololive-sakura-miko-katarina-v1.fantome",
 				"size": 6334518,
 				"sha256": "c97824ab31f606c8515be864a40e50d281d259636d19c8a1238345e5cf9b02bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shiori-novella-ryze",
+			"name": "Hololive Shiori Novella Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shiori-novella-ryze/thumb.webp?v=b4c823f5",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shiori-novella-ryze-v1.fantome",
+				"size": 15579156,
+				"sha256": "2e07aaf6465dbe693ae5c05c6973610060264f0dce8ac4123f47f90e61d7fcb0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shirakami-fubuki-ahri-re",
+			"name": "Hololive Shirakami Fubuki Ahri-RE",
+			"champion": 103,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shirakami-fubuki-ahri-re/thumb.webp?v=8ecdb416",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shirakami-fubuki-ahri-re-v1.fantome",
+				"size": 12030603,
+				"sha256": "bde9a50c01fe78db0e8550733030538840a9971271ee33fee5fb6939960f8a8c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shirakami-fubuki-kayn",
+			"name": "Hololive Shirakami Fubuki Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shirakami-fubuki-kayn/thumb.webp?v=76bf0cec",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shirakami-fubuki-kayn-v1.fantome",
+				"size": 36617029,
+				"sha256": "24da3a9c21e548cace3f0711073638ed97e24a65057130eef4c4f5737e4af5c9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shiranui-flare-ashe",
+			"name": "Hololive Shiranui Flare Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shiranui-flare-ashe/thumb.webp?v=fe8f149a",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shiranui-flare-ashe-v1.fantome",
+				"size": 12398166,
+				"sha256": "6f4a12e3ec877f8781c3cc54cc117d4a872583ce7b48bafc14ed57c1e87e57fa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shirogane-noel-tryndamere",
+			"name": "Hololive Shirogane Noel Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shirogane-noel-tryndamere/thumb.webp?v=eaedf73c",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shirogane-noel-tryndamere-v1.fantome",
+				"size": 4099288,
+				"sha256": "f15f568d2eb4e5f93c848d1da129cc16d01dd8b0c51ccad192b2a93dc144d78e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shishiro-botan-akshan",
+			"name": "Hololive Shishiro Botan Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shishiro-botan-akshan/thumb.webp?v=17765f29",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shishiro-botan-akshan-v1.fantome",
+				"size": 18547385,
+				"sha256": "2d4cb2d3ed4d69dcc1c2b61f8520428f3088f6207b5813ea9c24346c25eca3a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shishiro-botan-caitlyn",
+			"name": "Hololive Shishiro Botan Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shishiro-botan-caitlyn/thumb.webp?v=4bf2eb63",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shishiro-botan-caitlyn-v1.fantome",
+				"size": 13735975,
+				"sha256": "27cd0521ef07c09cc38c2b30a02cb20a56b3a611fc26dc176eecbc84643c10bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shishiro-botan-jhin",
+			"name": "Hololive Shishiro Botan Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shishiro-botan-jhin/thumb.webp?v=1f646c84",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shishiro-botan-jhin-v1.fantome",
+				"size": 18675724,
+				"sha256": "fa5c3f0160d307a0c94679c5fb4a0a37b2234d9e668e4e0b42213314cc4a8bfa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shishiro-botan-lucian",
+			"name": "Hololive Shishiro Botan Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shishiro-botan-lucian/thumb.webp?v=25adc0eb",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shishiro-botan-lucian-v1.fantome",
+				"size": 14291446,
+				"sha256": "89526160fafa9922b26e0f545f70d22f09fa2d0c3b94798cc35cf1700c6f888b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-shishiro-botan-samira",
+			"name": "Hololive Shishiro Botan Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-shishiro-botan-samira/thumb.webp?v=f65bf7c2",
+			"file": {
+				"version": 1,
+				"asset": "hololive-shishiro-botan-samira-v1.fantome",
+				"size": 15731614,
+				"sha256": "2c152aa1ef5e26f5604200c54d90ea33100e88f984fa3836df4446c8b65bbb41"
 			},
 			"chromas": []
 		},

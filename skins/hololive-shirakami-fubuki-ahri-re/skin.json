@@ -1,0 +1,24 @@
+{
+	"id": "hololive-shirakami-fubuki-ahri-re",
+	"name": "Hololive Shirakami Fubuki Ahri-RE",
+	"champion": 103,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n* Champion: Ahri\n* Modified skin: Default\n* Author: Your PoonNotaniShisui\n* Skin Version: 1.0\n* Description: 「こんこんきーつね！白上フブキです！」\n\n### SPECIFICATIONS\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n* The Shirakami Fubuki 3D model in this mod is from : たららたらこ (TararaTarako)\n* Loadscreen art from : ( https://youtu.be/BWEmA6AxIyM?si=NiaguDfBQMSCuRPC )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/c1c8f453-a86b-4875-99b0-2d8a2121991e\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-shirakami-fubuki-ahri-re/thumb.webp?v=8ecdb416",
+	"file": {
+		"version": 1,
+		"asset": "hololive-shirakami-fubuki-ahri-re-v1.fantome",
+		"size": 12030603,
+		"sha256": "bde9a50c01fe78db0e8550733030538840a9971271ee33fee5fb6939960f8a8c"
+	},
+	"chromas": []
+}

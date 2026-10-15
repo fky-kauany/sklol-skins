@@ -1,0 +1,24 @@
+{
+	"id": "hololive-shishiro-botan-samira",
+	"name": "Hololive Shishiro Botan Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Samira\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* Loadscreen art by: ( [https://twitter.com/Bobzuki\\_sculpt/status/1470693744349712384?s=20\\&t=aYF7SEUXl-nURs6ZGfPlkQ ](https://twitter.com/Bobzuki_sculpt/status/1470693744349712384?s=20\\&t=aYF7SEUXl-nURs6ZGfPlkQ))\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/ce58c678-7a9a-42f2-a99d-5f5a6ab72d51\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-shishiro-botan-samira/thumb.webp?v=f65bf7c2",
+	"file": {
+		"version": 1,
+		"asset": "hololive-shishiro-botan-samira-v1.fantome",
+		"size": 15731614,
+		"sha256": "2c152aa1ef5e26f5604200c54d90ea33100e88f984fa3836df4446c8b65bbb41"
+	},
+	"chromas": []
+}

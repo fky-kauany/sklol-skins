@@ -1,0 +1,24 @@
+{
+	"id": "hololive-shishiro-botan-jhin",
+	"name": "Hololive Shishiro Botan Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Jhin\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Shishiro Botan 3D model in this mod is from ( [https://3d.nicovideo.jp/works/td78506](https://3d.nicovideo.jp/works/td78506) )\n* Loadscreen art by: ( [https://www.pinterest.com/pin/605593481144384344/](https://www.pinterest.com/pin/605593481144384344/) )\n* Huge thanks to tarngaina for teach me problem.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/61b8280a-e3f7-425c-a34b-3a2009c58336\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-shishiro-botan-jhin/thumb.webp?v=1f646c84",
+	"file": {
+		"version": 1,
+		"asset": "hololive-shishiro-botan-jhin-v1.fantome",
+		"size": 18675724,
+		"sha256": "fa5c3f0160d307a0c94679c5fb4a0a37b2234d9e668e4e0b42213314cc4a8bfa"
+	},
+	"chromas": []
+}
