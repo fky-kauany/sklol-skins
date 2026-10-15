@@ -1,0 +1,25 @@
+{
+	"id": "crimson-shadow-viego",
+	"name": "Crimson Shadow Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "xxkaynsamaxx",
+	"description": "Modified Champion= Viego\n\nModified Skin= Base\n\nAuthor= xXKAYN SAMAXx\n\ntip: ctrl+5 for armor\n\nversion:15.17.1.0\n\n---\n\n**Created by** [xXKAYNSAMAXx](https://runeforge.dev/users/xXKAYNSAMAXx)\n\n**Original:** https://runeforge.dev/mods/97bb269c-469a-4da5-99c2-5dba11d5e904\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-shadow-viego/thumb.webp?v=3255a748",
+	"file": {
+		"version": 1,
+		"asset": "crimson-shadow-viego-v1.fantome",
+		"size": 13257769,
+		"sha256": "ced3e92404a2fcd8f021093c1bb979c2e4014f6eb289c869156062fa083c6196"
+	},
+	"chromas": []
+}

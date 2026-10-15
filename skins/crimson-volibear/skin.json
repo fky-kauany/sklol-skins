@@ -1,0 +1,23 @@
+{
+	"id": "crimson-volibear",
+	"name": "Crimson Volibear",
+	"champion": 106,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Crimson Volibear\n\nSkin modified : Base\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/6b6c77e6-4cd3-4ae6-b55d-351520ff18a0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-volibear/thumb.webp?v=4ebf6262",
+	"file": {
+		"version": 1,
+		"asset": "crimson-volibear-v1.fantome",
+		"size": 2153473,
+		"sha256": "02ba1e84a551f4e5802b0b475f7255da7e658323e72e4a8a783449c01010d52d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "crimson-regalia-battle-queen-qiyana",
+	"name": "Crimson Regalia | Battle Queen Qiyana",
+	"champion": 246,
+	"base": 11,
+	"creator": "northoff",
+	"description": "Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Northoff from our Discord server!.\n\nhttps://discord.gg/leaguelab\n\n---\n\n**Created by** [northoff](https://runeforge.dev/users/northoff)\n\n**Original:** https://runeforge.dev/mods/77b90b02-07b6-42df-ba20-05fa84594b5b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-regalia-battle-queen-qiyana/thumb.webp?v=535689a5",
+	"file": {
+		"version": 1,
+		"asset": "crimson-regalia-battle-queen-qiyana-v1.fantome",
+		"size": 8026174,
+		"sha256": "98038dc130ca41177227342c2402c95a96334edf05b8ab912b4275908a401e7c"
+	},
+	"chromas": []
+}

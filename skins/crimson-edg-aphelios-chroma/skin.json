@@ -1,0 +1,24 @@
+{
+	"id": "crimson-edg-aphelios-chroma",
+	"name": "Crimson EDG Aphelios Chroma",
+	"champion": 523,
+	"base": 0,
+	"creator": "shelzy",
+	"description": "**Special thanks Krepo for recording the showcase**\n\n**INFO**\n\n**Champion: Aphelios**\n\n**Skin: EDG Aphelios**\n\nDon't forget to choose EDG Aphelios skin for the mod to work.\n\nif you find any bug contact me\n\n**Discord: shelzymadara**\n\n---\n\n**Created by** [Shelzy](https://runeforge.dev/users/Shelzy)\n\n**Original:** https://runeforge.dev/mods/8f7400b2-a487-4bd4-a727-b4f19a301e87\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-edg-aphelios-chroma/thumb.webp?v=35c53bd8",
+	"file": {
+		"version": 1,
+		"asset": "crimson-edg-aphelios-chroma-v1.fantome",
+		"size": 4767863,
+		"sha256": "3dec78ce6765a5513830bf1c00ae0442f616184a0f19ba190190de478a9cdc02"
+	},
+	"chromas": []
+}

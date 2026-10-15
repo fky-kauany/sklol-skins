@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:41:03.846Z",
+	"generatedAt": "2026-10-15T08:44:09.403Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1303,6 +1303,14 @@
 			"avatar": "creators/xellelux.webp?v=e46c87e1",
 			"links": {}
 		},
+		"xxkaynsamaxx": {
+			"name": "xXKAYNSAMAXx",
+			"avatar": "creators/xxkaynsamaxx.jpg?v=ff25803e",
+			"bio": "im obsessed with the colors red and black most of the chromas i will do is all red black only do others colors when the skin alredy have a black and red chroma or its base visual",
+			"links": {
+				"youtube": "https://youtu.be/Ja6BiXp-skY?si=8rpLWGIWPAEv2IGB"
+			}
+		},
 		"yigitvercetti": {
 			"name": "yigitvercetti",
 			"avatar": "creators/yigitvercetti.webp?v=cf447e62",
@@ -1317,6 +1325,17 @@
 			"bio": "https://www.twitch.tv/yliimh",
 			"links": {
 				"twitch": "https://www.twitch.tv/yliimh"
+			}
+		},
+		"yoruqueenofnight": {
+			"name": "YoruQueenOfNight",
+			"avatar": "creators/yoruqueenofnight.png?v=13d51c67",
+			"bio": "Inga / She-Her / *1999 / Germany\n\nKo-Fi: https://ko-fi.com/yoruqueenofnight\nPatreon: https://www.patreon.com/c/user?u=63840897",
+			"links": {
+				"discord": "https://discord.gg/ZbHRmemrER",
+				"kofi": "https://ko-fi.com/yoruqueenofnight",
+				"patreon": "https://www.patreon.com/c/user?u=63840897",
+				"youtube": "https://youtu.be/J3GwrXueM90?list=PLIlleiTfYK3lAetkn112utmIoeKkTOqWH"
 			}
 		},
 		"youtzooooo": {
@@ -6344,6 +6363,243 @@
 				"asset": "crime-city-senna-v1.fantome",
 				"size": 8603057,
 				"sha256": "e6b2b4e1b5d73d18ff7bd57d213727f73d787c39087eb5d4b5729ade759237eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-edg-aphelios-chroma",
+			"name": "Crimson EDG Aphelios Chroma",
+			"champion": 523,
+			"base": 0,
+			"creator": "shelzy",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-edg-aphelios-chroma/thumb.webp?v=35c53bd8",
+			"file": {
+				"version": 1,
+				"asset": "crimson-edg-aphelios-chroma-v1.fantome",
+				"size": 4767863,
+				"sha256": "3dec78ce6765a5513830bf1c00ae0442f616184a0f19ba190190de478a9cdc02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-gwen",
+			"name": "Crimson Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-gwen/thumb.webp?v=ce509dd2",
+			"file": {
+				"version": 1,
+				"asset": "crimson-gwen-v1.fantome",
+				"size": 672961,
+				"sha256": "bcde35293dfbe844963b7ee11932dd947775f10755832c156cd9c818dacbcf6f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-locke",
+			"name": "Crimson Locke",
+			"champion": 805,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-locke/thumb.webp?v=582c7278",
+			"file": {
+				"version": 1,
+				"asset": "crimson-locke-v1.fantome",
+				"size": 3752648,
+				"sha256": "85bce45dd301827b306bb41c11bba77089983f745464f834649db35004ad3544"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-psyops-samira-chroma",
+			"name": "Crimson PsyOps Samira Chroma",
+			"champion": 360,
+			"base": 0,
+			"creator": "zamius",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-psyops-samira-chroma/thumb.webp?v=2f784319",
+			"file": {
+				"version": 1,
+				"asset": "crimson-psyops-samira-chroma-v1.fantome",
+				"size": 1321431,
+				"sha256": "69833e2967a0de44f3ca2a20af49276272866badd59c5cd40de9a020df5124eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-pulse-fire-caitlyn",
+			"name": "Crimson pulse fire Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "xxkaynsamaxx",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-pulse-fire-caitlyn/thumb.webp?v=afceee2d",
+			"file": {
+				"version": 1,
+				"asset": "crimson-pulse-fire-caitlyn-v1.fantome",
+				"size": 6694435,
+				"sha256": "22d4bdd2253d273abd42978a4874c7240eca663ae43c102b9931a16849d77a2e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-regalia-battle-queen-qiyana",
+			"name": "Crimson Regalia | Battle Queen Qiyana",
+			"champion": 246,
+			"base": 11,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-regalia-battle-queen-qiyana/thumb.webp?v=535689a5",
+			"file": {
+				"version": 1,
+				"asset": "crimson-regalia-battle-queen-qiyana-v1.fantome",
+				"size": 8026174,
+				"sha256": "98038dc130ca41177227342c2402c95a96334edf05b8ab912b4275908a401e7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-shadow-viego",
+			"name": "Crimson Shadow Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "xxkaynsamaxx",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-shadow-viego/thumb.webp?v=3255a748",
+			"file": {
+				"version": 1,
+				"asset": "crimson-shadow-viego-v1.fantome",
+				"size": 13257769,
+				"sha256": "ced3e92404a2fcd8f021093c1bb979c2e4014f6eb289c869156062fa083c6196"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-volibear",
+			"name": "Crimson Volibear",
+			"champion": 106,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-volibear/thumb.webp?v=4ebf6262",
+			"file": {
+				"version": 1,
+				"asset": "crimson-volibear-v1.fantome",
+				"size": 2153473,
+				"sha256": "02ba1e84a551f4e5802b0b475f7255da7e658323e72e4a8a783449c01010d52d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crimson-yotohime-yasuo",
+			"name": "Crimson Yotohime Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crimson-yotohime-yasuo/thumb.webp?v=0d6e106a",
+			"file": {
+				"version": 1,
+				"asset": "crimson-yotohime-yasuo-v1.fantome",
+				"size": 5768276,
+				"sha256": "fefd12b24ea3a5971240de37462f6e1b966c93ab35ccf921df719d140d435276"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-ahri",
+			"name": "Crystal Rose Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-ahri/thumb.webp?v=86051414",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-ahri-v1.fantome",
+				"size": 11220826,
+				"sha256": "e0fe4c602f19c45c9e4f9e8b794f258a7f36c3926e6b483fd745e9938abf20a9"
 			},
 			"chromas": []
 		},

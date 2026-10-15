@@ -1,0 +1,23 @@
+{
+	"id": "crimson-gwen",
+	"name": "Crimson Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Crimson Gwen\n\nSkin modified : Base\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/b7244a33-afdc-4e33-bcca-a10263c5ed81\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-gwen/thumb.webp?v=ce509dd2",
+	"file": {
+		"version": 1,
+		"asset": "crimson-gwen-v1.fantome",
+		"size": 672961,
+		"sha256": "bcde35293dfbe844963b7ee11932dd947775f10755832c156cd9c818dacbcf6f"
+	},
+	"chromas": []
+}

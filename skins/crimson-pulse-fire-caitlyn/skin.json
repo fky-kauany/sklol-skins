@@ -1,0 +1,24 @@
+{
+	"id": "crimson-pulse-fire-caitlyn",
+	"name": "Crimson pulse fire Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "xxkaynsamaxx",
+	"description": "Modified Champion= Caitlyn\n\nModified Skin= PulseFire\n\nModified Sound= Dance + Normal Attack , Passive charge , passive hit , Ultimate\n\nAuthor= xXKAYN SAMAXx\n\nversion:15.16.1.0\n\nhttps://youtu.be/Ja6BiXp-skY?si=8rpLWGIWPAEv2IGB\n\n---\n\n**Created by** [xXKAYNSAMAXx](https://runeforge.dev/users/xXKAYNSAMAXx)\n\n**Original:** https://runeforge.dev/mods/fc4f4a8d-1c78-4d1d-b68e-bb1da9709498\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-pulse-fire-caitlyn/thumb.webp?v=afceee2d",
+	"file": {
+		"version": 1,
+		"asset": "crimson-pulse-fire-caitlyn-v1.fantome",
+		"size": 6694435,
+		"sha256": "22d4bdd2253d273abd42978a4874c7240eca663ae43c102b9931a16849d77a2e"
+	},
+	"chromas": []
+}

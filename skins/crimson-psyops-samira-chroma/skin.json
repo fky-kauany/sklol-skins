@@ -1,0 +1,23 @@
+{
+	"id": "crimson-psyops-samira-chroma",
+	"name": "Crimson PsyOps Samira Chroma",
+	"champion": 360,
+	"base": 0,
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\n##\n\n**Champion**: Samira\n\n**Modified Skin**: PsyOps\n\n**Author**: Zamius\n\n**Mod version**: 1.0.3\n\n**Description**: Red color chroma for the skin. Also includes both loading screens (normal & special border one)\n\n##\n\n**FEATURES**\n- New textures\n- New particles\n- Supports all champion texture quality settings\n- Modified loading screens\n\n**CREDITS**\n- **Kyoki Proxyo** for the inspiration (again!)\n- **bud** for the loading screen coloring\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/d0c1edff-03dd-408b-91f7-43857645b62a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-psyops-samira-chroma/thumb.webp?v=2f784319",
+	"file": {
+		"version": 1,
+		"asset": "crimson-psyops-samira-chroma-v1.fantome",
+		"size": 1321431,
+		"sha256": "69833e2967a0de44f3ca2a20af49276272866badd59c5cd40de9a020df5124eb"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "crimson-locke",
+	"name": "Crimson Locke",
+	"champion": 805,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Locke Skin.\r\n\r\nAffects: Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Locke Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/5da470ab-712f-42ec-917d-4f2109893229\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crimson-locke/thumb.webp?v=582c7278",
+	"file": {
+		"version": 1,
+		"asset": "crimson-locke-v1.fantome",
+		"size": 3752648,
+		"sha256": "85bce45dd301827b306bb41c11bba77089983f745464f834649db35004ad3544"
+	},
+	"chromas": []
+}
