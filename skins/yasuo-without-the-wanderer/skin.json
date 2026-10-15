@@ -1,0 +1,22 @@
+{
+	"id": "yasuo-without-the-wanderer",
+	"name": "Yasuo Without the Wanderer",
+	"champion": 157,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Yasuo**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/2cf52e55-8fa4-461d-a1b1-76c389656d15\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yasuo-without-the-wanderer/thumb.webp?v=8ae6f742",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-without-the-wanderer-v1.fantome",
+		"size": 16206,
+		"sha256": "60b7d2fed7e518730ce5232831fba92aadf096e49451dc0478131f8ec0528a2c"
+	},
+	"chromas": []
+}

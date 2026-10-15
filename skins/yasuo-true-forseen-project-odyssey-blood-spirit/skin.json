@@ -1,0 +1,23 @@
+{
+	"id": "yasuo-true-forseen-project-odyssey-blood-spirit",
+	"name": "True Forseen PROJECT: Odyssey Blood Spirit Noonbringer Sea Boss Dragonshadow Wol",
+	"champion": 157,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "# If you get an error when trying to import, rename the mod file to \"RGB Yasuo.fantome\". Alternatively use a search engine of your choice and type: \"enable long file paths in windows\" and follow the instructions.\n\n## Information\n\n**Modified champion: Yasuo**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Shoutouts\n\nShoutout Moga for repathing the .bins without making the game crash (I was noob and could not)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/fca98e39-0ee7-4887-923e-a4f731645ef7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yasuo-true-forseen-project-odyssey-blood-spirit/thumb.webp?v=924e9f4d",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-true-forseen-project-odyssey-blood-spirit-v1.fantome",
+		"size": 20792631,
+		"sha256": "d69923a43f0ef022309975ffe61fdb9c8afea97ac0c11239340b8a7c767cfb23"
+	},
+	"chromas": []
+}

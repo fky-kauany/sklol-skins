@@ -1,0 +1,25 @@
+{
+	"id": "yorick-pentakill-3-lost-hat",
+	"name": "Yorick Pentakill 3: Lost Hat",
+	"champion": 83,
+	"base": 21,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Yorick\n\nModified Skin:  Pentakill III: Lost Chapter. All chromas supported.\n\nAuthor: Sauronkaiser\n\nDescription:  Yorick Pentakill III, but he has the actual hat on his head.\n\nFeatures:\n\n-CRL+5 Toggle for the hat\n\n-A hat!!!!\n\n-New dark custom chroma for non-chroma skin inspired in the first arts of the pentakill III album\n\n-New loading screen\n\n\nSources:\n-This was my first custom skin! Special thanks to all the League custom skins community that built the path so new people can come and make mods!\nAlso, special thanks to Nyht for discovering the CRL+5 toggle tech added afterwards to this one mod.\n\n\nLegacy Changelog:\n\n-14/9/2021: First official release.\n\n-23/03/2022: Added version with all chromas.\n\n-01/11/2022: New animations, functional recall and new sub-versions.\n\n-04/08/2025: removed alternative versions and animations, only a new joke animation is added. Added support for CRL+5 to toggle the hat.\n\n\n\n  \n\n\n\nSources:\n\nThis was my first custom skin! \n\nSpecial thanks to Nyht and YummAI for discovering the way of doing a crl+5 and helping with the code.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/b4a1173e-2287-4ffd-95b5-dfaee6726ca0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yorick-pentakill-3-lost-hat/thumb.webp?v=0c8268d6",
+	"file": {
+		"version": 1,
+		"asset": "yorick-pentakill-3-lost-hat-v1.fantome",
+		"size": 7705349,
+		"sha256": "c372ba48888c5a82cb55fcef7ca901073942fba2733122205de83a3ea6862e3e"
+	},
+	"chromas": []
+}

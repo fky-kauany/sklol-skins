@@ -1,0 +1,25 @@
+{
+	"id": "yordle-jinx",
+	"name": "Yordle Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**&#x20;Modified skin:**\r\nBase Jinx\r\n\r\nI wanted to see how well I am able to translate a humanoid champion into a Yordle version of themselves, I was very inspired by artwork of the artist PTcrow, which I also used as the Loadscreen and Icons in this mod. I think it worked pretty well, the animations were just the most pain to make work.\r\nThis skin obviously only works for Base Jinx.\r\nIt uses assets from Jinx' wild rift preview model and the 3D resources of the Runeforge Wiki.\r\nLoadscreen and Icon Artwork made by PTcrow\r\n\r\n***\r\n\r\nIf you find issues with this skin feel free to contact me on Discord: Snorr_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/66f1e011-483d-4313-9cbc-d811aa6f6e1c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yordle-jinx/thumb.webp?v=6e79d084",
+	"file": {
+		"version": 1,
+		"asset": "yordle-jinx-v1.fantome",
+		"size": 5857312,
+		"sha256": "5e9d3cbd6377e87b47cb48956c5ab640de6131447c1da8723c64f0bd62586b59"
+	},
+	"chromas": []
+}

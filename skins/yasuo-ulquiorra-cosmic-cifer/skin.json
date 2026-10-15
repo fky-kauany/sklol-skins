@@ -1,0 +1,25 @@
+{
+	"id": "yasuo-ulquiorra-cosmic-cifer",
+	"name": "ulquiorra(cosmic)cifer",
+	"champion": 157,
+	"base": 0,
+	"creator": "aiakos",
+	"description": "The original costume belongs to yigitvercetti; I obtained his permission and only modified the skill shots and a few other things. I hope you enjoy it.\n\n---\n\n**Created by** [aiakos](https://runeforge.dev/users/aiakos)\n\n**Original:** https://runeforge.dev/mods/da95a231-6d6a-4759-b289-0e21f0ff6aef\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yasuo-ulquiorra-cosmic-cifer/thumb.webp?v=69c43c11",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-ulquiorra-cosmic-cifer-v1.fantome",
+		"size": 6178729,
+		"sha256": "f518d263a7c6c5c09b99b28a6dee5f7d989b7e3828dc8791ff21e1163a217e31"
+	},
+	"chromas": []
+}

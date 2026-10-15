@@ -1,0 +1,26 @@
+{
+	"id": "yone-darkknightblueyone",
+	"name": "DarkKnightBlueYone",
+	"champion": 777,
+	"base": 0,
+	"creator": "reza",
+	"description": "first ever mod hope it is good and let me know if I should make it darker or anymore type of yone skins\n\n---\n\n**Created by** [Reza](https://runeforge.dev/users/Reza)\n\n**Original:** https://runeforge.dev/mods/1445e05d-b6c5-4d9b-8e86-b1be08acc852\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yone-darkknightblueyone/thumb.webp?v=d3eae457",
+	"file": {
+		"version": 1,
+		"asset": "yone-darkknightblueyone-v1.fantome",
+		"size": 9329029,
+		"sha256": "608c686e71028680e95effa7f22dade05bfaf617e1e70883491c290b9edf8b59"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "ymir-camille",
+	"name": "Ymir Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Ymir Camille\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version 1.1.2\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/30e1b5a8-89f9-45f0-a938-781f3f7ff54f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ymir-camille/thumb.webp?v=e89764e5",
+	"file": {
+		"version": 1,
+		"asset": "ymir-camille-v1.fantome",
+		"size": 1836281,
+		"sha256": "de4b244022becfca2e13b7056b69e656ef880de53e3fda575238dc6bd6947d49"
+	},
+	"chromas": []
+}

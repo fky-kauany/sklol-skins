@@ -1,0 +1,24 @@
+{
+	"id": "yordle-thrower-zed",
+	"name": "Yordle Thrower Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion:** Zed\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n**Features:**\n\n* Amumu\n* Corki\n* Gnar\n* Kennen\n* Teemo\n* And a bag I made myself :3\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/e49613d7-ea3b-4f92-95b9-83c321bc3709\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yordle-thrower-zed/thumb.webp?v=c4833b99",
+	"file": {
+		"version": 1,
+		"asset": "yordle-thrower-zed-v1.fantome",
+		"size": 2588233,
+		"sha256": "4cf0272b31778826ddfc39345294d73c17523009dad4e180e15520f29fe0d38f"
+	},
+	"chromas": []
+}
