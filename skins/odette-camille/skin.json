@@ -1,0 +1,25 @@
+{
+	"id": "odette-camille",
+	"name": "Odette Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "silentrosehill",
+	"description": "Modified skin : Winterblessed camille\n\nits very raw ik and not polished but ill keep updating \n\nSkin uses Zaahen idle and walk animation to hold her sword, and yasuo's Q slice made it for me coz camille has too few customs skins, \n\nrosaria camille w/spears coming soon \n\nadd ; inaprfectworld on discord for questions\n\n---\n\n**Created by** [silentrosehill](https://runeforge.dev/users/silentrosehill)\n\n**Original:** https://runeforge.dev/mods/ddd63b86-7401-4267-b216-f83fd30d1a0a\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/odette-camille/thumb.webp?v=7b98b3f5",
+	"file": {
+		"version": 1,
+		"asset": "odette-camille-v1.fantome",
+		"size": 4962717,
+		"sha256": "71f147a249ef2c69190efb19234e92aa70d5fb563fd85e7d60b7a448c408a145"
+	},
+	"chromas": []
+}

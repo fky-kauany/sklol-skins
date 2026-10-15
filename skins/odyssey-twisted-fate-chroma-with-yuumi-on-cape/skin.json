@@ -1,0 +1,22 @@
+{
+	"id": "odyssey-twisted-fate-chroma-with-yuumi-on-cape",
+	"name": "odyssey twisted fate chroma with yuumi on cape",
+	"champion": 4,
+	"base": 13,
+	"creator": "shadow-ninja1533",
+	"description": "Champion: Twisted Fate\n\nSkin Needed: Odyssey Twisted Fate\n\n---\n\n**Created by** [Shadow_Ninja1533](https://runeforge.dev/users/Shadow_Ninja1533)\n\n**Original:** https://runeforge.dev/mods/071196f7-2ffb-456c-a34d-4d1a65ed8ea0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/odyssey-twisted-fate-chroma-with-yuumi-on-cape/thumb.webp?v=560ecec5",
+	"file": {
+		"version": 1,
+		"asset": "odyssey-twisted-fate-chroma-with-yuumi-on-cape-v1.fantome",
+		"size": 382701,
+		"sha256": "870836dec4d56bd7646c568f8a40daa1ea3d605d52e81642caa4b342cea7861b"
+	},
+	"chromas": []
+}

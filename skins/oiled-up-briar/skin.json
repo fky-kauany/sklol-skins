@@ -1,0 +1,25 @@
+{
+	"id": "oiled-up-briar",
+	"name": "Oiled Up Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "cam",
+	"description": "sponsored by olej kujawski (Shoutout to the City of Bydgoszcz)\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/ab4fcf37-7088-49d1-8d3f-323a65d07247\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/oiled-up-briar/thumb.webp?v=bf7a2baf",
+	"file": {
+		"version": 1,
+		"asset": "oiled-up-briar-v1.fantome",
+		"size": 7774729,
+		"sha256": "d9f9042b2def4b56887bdfc949760ec8299b9d5619bc211c988e73df69498fc7"
+	},
+	"chromas": []
+}

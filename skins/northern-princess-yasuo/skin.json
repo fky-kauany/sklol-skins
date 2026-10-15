@@ -1,0 +1,23 @@
+{
+	"id": "northern-princess-yasuo",
+	"name": "Northern Princess Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Important Note\r\n\r\n* **This mod need** [**Old VFX Base Mod**](https://runeforge.dev/mods/eeebe09e-b838-49fb-b2ef-93cb3aa743a9 \"Old Yasuo VFX Base Mod\") **to fully working**.\r\n  If you encounter any problems during installation, please contact me or join RuneForge Discord.\r\n\r\n* Skin information\r\n* Champion Replaced: Yasuo\r\n* Skin Replaced: Default\r\n* Original author: Unknown\r\n* Re-Uploaded by: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* Re-Uploaded with Old Yasuo VFX\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified particles\r\n\r\n## Disclaimer\r\n\r\nI am not the original author of this mod, I only updated it so it works again as a mod for League of Legends.\r\nThe original author is **Unknow**. Whose social media I cannot find.\r\n\r\nIf the original authors wants this mod to be taken down, I will take it down again.\r\nYou can contact me here: Victorious#9216\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/7d7120f1-99e1-4090-aea4-b5747b5a56a4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/northern-princess-yasuo/thumb.webp?v=0ead7e78",
+	"file": {
+		"version": 1,
+		"asset": "northern-princess-yasuo-v1.fantome",
+		"size": 5666508,
+		"sha256": "cdf8b86e4f6d1862ca3a4688fbf445448fd9940c1e875de2948037dca212b322"
+	},
+	"chromas": []
+}

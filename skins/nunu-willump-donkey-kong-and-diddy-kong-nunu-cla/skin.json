@@ -1,0 +1,23 @@
+{
+	"id": "nunu-willump-donkey-kong-and-diddy-kong-nunu-cla",
+	"name": "Donkey Kong and Diddy Kong Nunu - Classic",
+	"champion": 20,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base, Sasquatch, & Grungy Nunu in Classic ONLY\n\n## SPECIAL THANKS TO\n\nthe Unknown creator of the skin and model.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/789) and was broken so I fixed it, created the white and blue & blue and green versions, and reuploaded it.\nThere are two versions of the skin available to download:\n\n- Donkey Kong Nunu - Classic\n- Base Nunu = Brown Fur + Red Accessories\n- Sasquatch Nunu = White Fur + Blue Accessories\n- Grungy Nunu = Blue Fur + Green Accessories\n- Donkey Kong Nunu - Classic Alt\n- Base Nunu = White Fur + Blue Accessories\n- Sasquatch Nunu = Brown Fur + Red Accessories\n- Grungy Nunu = Blue Fur + Green Accessories\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/cfdd6e14-7790-421f-b107-934f2172ae11\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nunu-willump-donkey-kong-and-diddy-kong-nunu-cla/thumb.webp?v=b6fe8397",
+	"file": {
+		"version": 1,
+		"asset": "nunu-willump-donkey-kong-and-diddy-kong-nunu-cla-v1.fantome",
+		"size": 2775492,
+		"sha256": "78aaea7639d1ef39d7d0d2e1a1682480c1b26d75446c41300e933e21992f605b"
+	},
+	"chromas": []
+}

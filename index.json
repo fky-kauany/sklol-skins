@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:09:09.135Z",
+	"generatedAt": "2026-10-15T12:12:13.177Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1414,6 +1414,14 @@
 				"twitch": "https://www.twitch.tv/thatshrimpbackguy",
 				"x": "https://x.com/ShrimpBackpain",
 				"youtube": "https://www.youtube.com/@ShrimpBackpain"
+			}
+		},
+		"silentrosehill": {
+			"name": "silentrosehill",
+			"avatar": "creators/silentrosehill.jpg?v=fcabc5f9",
+			"bio": "add ; inaprfectworld on discord for request or questions, also me super mega vibecoding camille skin coz she has nothing!!",
+			"links": {
+				"youtube": "https://youtu.be/jDakiSXU5Ks"
 			}
 		},
 		"sinister": {
@@ -23453,6 +23461,173 @@
 			"chromas": []
 		},
 		{
+			"id": "noripro-inuyama-tamaki-ezreal",
+			"name": "Noripro Inuyama Tamaki Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/noripro-inuyama-tamaki-ezreal/thumb.webp?v=579d428f",
+			"file": {
+				"version": 1,
+				"asset": "noripro-inuyama-tamaki-ezreal-v1.fantome",
+				"size": 17455871,
+				"sha256": "d1605be5a22fdf6bd763aa1db99ed5c95d3ae133db50bedb264b31ea3cb4e8ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "normal-human-ahri",
+			"name": "Normal Human Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "arkera",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/normal-human-ahri/thumb.webp?v=f47dc7c7",
+			"file": {
+				"version": 1,
+				"asset": "normal-human-ahri-v1.fantome",
+				"size": 9398591,
+				"sha256": "c5ab98f5ff58ab47311aaf0a512994c1f879032fe6152b2c627cc32c2235c991"
+			},
+			"chromas": []
+		},
+		{
+			"id": "northern-princess-yasuo",
+			"name": "Northern Princess Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/northern-princess-yasuo/thumb.webp?v=0ead7e78",
+			"file": {
+				"version": 1,
+				"asset": "northern-princess-yasuo-v1.fantome",
+				"size": 5666508,
+				"sha256": "cdf8b86e4f6d1862ca3a4688fbf445448fd9940c1e875de2948037dca212b322"
+			},
+			"chromas": []
+		},
+		{
+			"id": "not-udyr-with-old-animals-old-colors",
+			"name": "Not Udyr with OLD ANIMALS / OLD COLORS",
+			"champion": 77,
+			"base": 4,
+			"creator": "davex",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/not-udyr-with-old-animals-old-colors/thumb.webp?v=eeadf2d0",
+			"file": {
+				"version": 1,
+				"asset": "not-udyr-with-old-animals-old-colors-v1.fantome",
+				"size": 3445412,
+				"sha256": "59cbc524479b9dd837dc1a3d10696f5ca05378072b85e0ae4c3da468573dfd58"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nunu-willump-donkey-kong-and-diddy-kong-nunu-cla",
+			"name": "Donkey Kong and Diddy Kong Nunu - Classic",
+			"champion": 20,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nunu-willump-donkey-kong-and-diddy-kong-nunu-cla/thumb.webp?v=b6fe8397",
+			"file": {
+				"version": 1,
+				"asset": "nunu-willump-donkey-kong-and-diddy-kong-nunu-cla-v1.fantome",
+				"size": 2775492,
+				"sha256": "78aaea7639d1ef39d7d0d2e1a1682480c1b26d75446c41300e933e21992f605b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nunu-willump-nunu-without-the-child",
+			"name": "Nunu Without the Child",
+			"champion": 20,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nunu-willump-nunu-without-the-child/thumb.webp?v=a58841ba",
+			"file": {
+				"version": 1,
+				"asset": "nunu-willump-nunu-without-the-child-v1.fantome",
+				"size": 196940,
+				"sha256": "c85659d2ec772b27a08c4b5233d6a09f866a8e355e769e6e418ce7ca14749b7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ny-fuuka-hecarim-blue-archive",
+			"name": "NY Fuuka Hecarim (Blue Archive)",
+			"champion": 120,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ny-fuuka-hecarim-blue-archive/thumb.webp?v=dccd2626",
+			"file": {
+				"version": 1,
+				"asset": "ny-fuuka-hecarim-blue-archive-v1.fantome",
+				"size": 6113392,
+				"sha256": "f281a1ee0ca456e9158bb7da9fab4ecb5cedc73fc26881841aa25bb1048154bc"
+			},
+			"chromas": []
+		},
+		{
 			"id": "nyanja-samira",
 			"name": "Nyanja Samira",
 			"champion": 360,
@@ -23475,6 +23650,78 @@
 				"asset": "nyanja-samira-v1.fantome",
 				"size": 17440921,
 				"sha256": "c522ba3acb020bb58670a30ee6ad8d7eec8f16536750273f4c52b29eceb8c037"
+			},
+			"chromas": []
+		},
+		{
+			"id": "odette-camille",
+			"name": "Odette Camille",
+			"champion": 164,
+			"base": 0,
+			"creator": "silentrosehill",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/odette-camille/thumb.webp?v=7b98b3f5",
+			"file": {
+				"version": 1,
+				"asset": "odette-camille-v1.fantome",
+				"size": 4962717,
+				"sha256": "71f147a249ef2c69190efb19234e92aa70d5fb563fd85e7d60b7a448c408a145"
+			},
+			"chromas": []
+		},
+		{
+			"id": "odyssey-twisted-fate-chroma-with-yuumi-on-cape",
+			"name": "odyssey twisted fate chroma with yuumi on cape",
+			"champion": 4,
+			"base": 13,
+			"creator": "shadow-ninja1533",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/odyssey-twisted-fate-chroma-with-yuumi-on-cape/thumb.webp?v=560ecec5",
+			"file": {
+				"version": 1,
+				"asset": "odyssey-twisted-fate-chroma-with-yuumi-on-cape-v1.fantome",
+				"size": 382701,
+				"sha256": "870836dec4d56bd7646c568f8a40daa1ea3d605d52e81642caa4b342cea7861b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "oiled-up-briar",
+			"name": "Oiled Up Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/oiled-up-briar/thumb.webp?v=bf7a2baf",
+			"file": {
+				"version": 1,
+				"asset": "oiled-up-briar-v1.fantome",
+				"size": 7774729,
+				"sha256": "d9f9042b2def4b56887bdfc949760ec8299b9d5619bc211c988e73df69498fc7"
 			},
 			"chromas": []
 		},

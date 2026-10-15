@@ -1,0 +1,27 @@
+{
+	"id": "ny-fuuka-hecarim-blue-archive",
+	"name": "NY Fuuka Hecarim (Blue Archive)",
+	"champion": 120,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Original mod by tarn. I reupload\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/12105cfd-4e74-43d4-8d9f-323f535a2312\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ny-fuuka-hecarim-blue-archive/thumb.webp?v=dccd2626",
+	"file": {
+		"version": 1,
+		"asset": "ny-fuuka-hecarim-blue-archive-v1.fantome",
+		"size": 6113392,
+		"sha256": "f281a1ee0ca456e9158bb7da9fab4ecb5cedc73fc26881841aa25bb1048154bc"
+	},
+	"chromas": []
+}

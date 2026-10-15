@@ -1,0 +1,25 @@
+{
+	"id": "normal-human-ahri",
+	"name": "Normal Human Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "arkera",
+	"description": "### Just a Normal Human Ahri !\n\nNothing to see here, just a completely ordinary human walking around the Rift.\n\n**Changes:**\n- Deleted tail mesh\n\n**Visuals :**\n- 0% Fox, 100% Human\n- Ultra-clean model\n\n---\n\n**Created by** [Arkera](https://www.divineskins.gg/Arkera)\n\n**Original:** https://www.divineskins.gg/Arkera/normal-human-ahri\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/normal-human-ahri/thumb.webp?v=f47dc7c7",
+	"file": {
+		"version": 1,
+		"asset": "normal-human-ahri-v1.fantome",
+		"size": 9398591,
+		"sha256": "c5ab98f5ff58ab47311aaf0a512994c1f879032fe6152b2c627cc32c2235c991"
+	},
+	"chromas": []
+}

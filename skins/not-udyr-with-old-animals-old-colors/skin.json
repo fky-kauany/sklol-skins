@@ -1,0 +1,23 @@
+{
+	"id": "not-udyr-with-old-animals-old-colors",
+	"name": "Not Udyr with OLD ANIMALS / OLD COLORS",
+	"champion": 77,
+	"base": 4,
+	"creator": "davex",
+	"description": "# Definetly Not Udyr with OLD ANIMALS / OLD COLORS:\n\n***\n\n* Champion: Udyr\n* Skin: Definetly Not Udyr\n* Character Quality: All\n\n## Features:\n\n***\n\n***\n\n* New Colors\n* Edited VFX\n* Edited Models\n\n***If you find any bug please ping me in the discord server or dm me: davex45a.***\n\n## Credits:\n\n***\n\n***\n\n* Skin commissioned by Yosho.  (Thanks for asking me to post it :D)\n\n---\n\n**Created by** [davex](https://runeforge.dev/users/davex)\n\n**Original:** https://runeforge.dev/mods/0a54f7b4-730a-49fe-a49b-4afe8fb7dba7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/not-udyr-with-old-animals-old-colors/thumb.webp?v=eeadf2d0",
+	"file": {
+		"version": 1,
+		"asset": "not-udyr-with-old-animals-old-colors-v1.fantome",
+		"size": 3445412,
+		"sha256": "59cbc524479b9dd837dc1a3d10696f5ca05378072b85e0ae4c3da468573dfd58"
+	},
+	"chromas": []
+}
