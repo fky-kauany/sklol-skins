@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:22:03.688Z",
+	"generatedAt": "2026-10-15T08:25:06.538Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -477,6 +477,13 @@
 				"kofi": "https://ko-fi.com/fitzca",
 				"tiktok": "https://www.tiktok.com/@darckr",
 				"youtube": "https://www.youtube.com/@HectorCalister"
+			}
+		},
+		"foose": {
+			"name": "foose",
+			"avatar": "creators/foose.png?v=6e4daf8e",
+			"links": {
+				"youtube": "https://youtu.be/GdF1fnP-XfM"
 			}
 		},
 		"frehlty": {
@@ -1037,6 +1044,13 @@
 			"avatar": "creators/spykeep.jpg?v=a08db4e9",
 			"links": {
 				"youtube": "https://youtu.be/srxLuS36qKk"
+			}
+		},
+		"sterak": {
+			"name": "Sterak",
+			"avatar": "creators/sterak.jpg?v=dc7abcff",
+			"links": {
+				"youtube": "https://youtu.be/No_ctPYcvdw"
 			}
 		},
 		"stritzzz": {
@@ -4746,6 +4760,239 @@
 				"asset": "byakuya-yasuo-v1.fantome",
 				"size": 115868316,
 				"sha256": "ae117e9bc0b5d9616f65e8723e94cca8fa2e1af213cdcd392457a06013708824"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-intelion",
+			"name": "Caitlyn Intelion",
+			"champion": 51,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-intelion/thumb.webp?v=8c7d1177",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-intelion-v1.fantome",
+				"size": 5535394,
+				"sha256": "72733d8b947bc9e77d16d7a43af08dca4cbfa555109927f69d04dfb60f1be58d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-pool-party-cait-no-shirt-no-hat",
+			"name": "Pool Party Cait No Shirt No Hat",
+			"champion": 51,
+			"base": 13,
+			"creator": "aruari",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-pool-party-cait-no-shirt-no-hat/thumb.webp?v=e853341b",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-pool-party-cait-no-shirt-no-hat-v1.fantome",
+				"size": 295595,
+				"sha256": "a352beeb4ff4e2f2eac0cc9866b0a4296e4051d0e781956d8bb67f12f04ea001"
+			},
+			"chromas": []
+		},
+		{
+			"id": "caitlyn-with-caitlyn",
+			"name": "Caitlyn with Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/caitlyn-with-caitlyn/thumb.webp?v=d6068213",
+			"file": {
+				"version": 1,
+				"asset": "caitlyn-with-caitlyn-v1.fantome",
+				"size": 662768,
+				"sha256": "256c5b320200b5aec106fac183531e21baa734e0cc15bf4158a73b1a2170e519"
+			},
+			"chromas": []
+		},
+		{
+			"id": "camel-camille",
+			"name": "Camel Camille",
+			"champion": 164,
+			"base": 0,
+			"creator": "sterak",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/camel-camille/thumb.webp?v=5505b4a8",
+			"file": {
+				"version": 1,
+				"asset": "camel-camille-v1.fantome",
+				"size": 21151,
+				"sha256": "eaf49971ce13626d63f8816a6a44644f0b3a83098e2ba0700e5af3bdf99319a3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "camembert-rammus",
+			"name": "Camembert Rammus",
+			"champion": 33,
+			"base": 8,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/camembert-rammus/thumb.webp?v=0c556d4d",
+			"file": {
+				"version": 1,
+				"asset": "camembert-rammus-v1.fantome",
+				"size": 3414557,
+				"sha256": "7b2c395425c3606797f2167c53e06af5acfa861d4e3f0794b6827903883e20e5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "candly-apple-rek-sai",
+			"name": "Candly Apple Rek'Sai",
+			"champion": 421,
+			"base": 0,
+			"creator": "tyre-4770",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/candly-apple-rek-sai/thumb.webp?v=b2ad1a92",
+			"file": {
+				"version": 1,
+				"asset": "candly-apple-rek-sai-v1.fantome",
+				"size": 5077077,
+				"sha256": "b56d2298b27178e49b05c837ba7e68badf1714802a37509ed588916a90a0a956"
+			},
+			"chromas": []
+		},
+		{
+			"id": "candy-apple-azir",
+			"name": "Candy Apple Azir",
+			"champion": 268,
+			"base": 0,
+			"creator": "tyre-4770",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/candy-apple-azir/thumb.webp?v=0f2c56f3",
+			"file": {
+				"version": 1,
+				"asset": "candy-apple-azir-v1.fantome",
+				"size": 2793028,
+				"sha256": "f31e86d1d15b3d05ec0f757642f8a1e44992dea49cb894788e787c0a038dc53d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "captain-america-pantheon",
+			"name": "Captain America Pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/captain-america-pantheon/thumb.webp?v=be896db3",
+			"file": {
+				"version": 1,
+				"asset": "captain-america-pantheon-v1.fantome",
+				"size": 17891112,
+				"sha256": "e8ad01ec653b4138de8df1d6e73ece3c50983045310e1de318ce8e5bb90fa2a0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "car-ziggs-as-kha-zix",
+			"name": "Car Ziggs as Kha'Zix",
+			"champion": 121,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/car-ziggs-as-kha-zix/thumb.webp?v=c0c5ed1e",
+			"file": {
+				"version": 1,
+				"asset": "car-ziggs-as-kha-zix-v1.fantome",
+				"size": 1640207,
+				"sha256": "02cf3767508ca6367720441563a4d4781d1f6b8376e469c735be7a012a292888"
+			},
+			"chromas": []
+		},
+		{
+			"id": "carl-johnson-cj-lucian",
+			"name": "Carl Johnson (CJ) - Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "foose",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/carl-johnson-cj-lucian/thumb.webp?v=3ab48710",
+			"file": {
+				"version": 1,
+				"asset": "carl-johnson-cj-lucian-v1.fantome",
+				"size": 2838156,
+				"sha256": "31c7902a089b16a045d0ebabf88f0ed546ec11db220f76a46ee3ff677b3f6d62"
 			},
 			"chromas": []
 		},

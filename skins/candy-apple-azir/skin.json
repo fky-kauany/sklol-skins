@@ -1,0 +1,22 @@
+{
+	"id": "candy-apple-azir",
+	"name": "Candy Apple Azir",
+	"champion": 268,
+	"base": 0,
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n* Champion Replaced: Azir\n* Skin needed: Galactic\n* Author: Tyre 4770\n* Skin Version: 2.0\n* Description: Candy Apple Chroma for Galactic Azir\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n## ♥ Features ♥\n\n* Recolored textures\n* Replaces all champion texture quality settings\n* Recolored particles\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/70261061-6da2-4dd0-b916-6217f9816f57\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/candy-apple-azir/thumb.webp?v=0f2c56f3",
+	"file": {
+		"version": 1,
+		"asset": "candy-apple-azir-v1.fantome",
+		"size": 2793028,
+		"sha256": "f31e86d1d15b3d05ec0f757642f8a1e44992dea49cb894788e787c0a038dc53d"
+	},
+	"chromas": []
+}

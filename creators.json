@@ -476,6 +476,13 @@
 			"youtube": "https://www.youtube.com/@HectorCalister"
 		}
 	},
+	"foose": {
+		"name": "foose",
+		"avatar": "creators/foose.png?v=6e4daf8e",
+		"links": {
+			"youtube": "https://youtu.be/GdF1fnP-XfM"
+		}
+	},
 	"frehlty": {
 		"name": "Frehlty",
 		"avatar": "creators/frehlty.png?v=dce8cf98",
@@ -1034,6 +1041,13 @@
 		"avatar": "creators/spykeep.jpg?v=a08db4e9",
 		"links": {
 			"youtube": "https://youtu.be/srxLuS36qKk"
+		}
+	},
+	"sterak": {
+		"name": "Sterak",
+		"avatar": "creators/sterak.jpg?v=dc7abcff",
+		"links": {
+			"youtube": "https://youtu.be/No_ctPYcvdw"
 		}
 	},
 	"stritzzz": {

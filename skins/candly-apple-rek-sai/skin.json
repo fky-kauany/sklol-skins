@@ -1,0 +1,22 @@
+{
+	"id": "candly-apple-rek-sai",
+	"name": "Candly Apple Rek'Sai",
+	"champion": 421,
+	"base": 0,
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n* Champion Replaced: Rek’Sai\n* Skin Replaced: Eternum\n* Author: Tyre 4770\n* Skin Version: 2.0\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n## ♥ Features ♥\n\n* Recolored textures\n* Replaces all champion texture quality settings\n* Recolored particles\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/6e141201-e572-4181-a2d3-cc4a534ff4b7\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/candly-apple-rek-sai/thumb.webp?v=b2ad1a92",
+	"file": {
+		"version": 1,
+		"asset": "candly-apple-rek-sai-v1.fantome",
+		"size": 5077077,
+		"sha256": "b56d2298b27178e49b05c837ba7e68badf1714802a37509ed588916a90a0a956"
+	},
+	"chromas": []
+}

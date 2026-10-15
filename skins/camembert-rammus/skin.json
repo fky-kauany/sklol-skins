@@ -1,0 +1,24 @@
+{
+	"id": "camembert-rammus",
+	"name": "Camembert Rammus",
+	"champion": 33,
+	"base": 8,
+	"creator": "cam",
+	"description": "Camembert, thank you Goat for voice acting!\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/d174581e-3e61-40a3-8da2-1ca0f84cca00\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/camembert-rammus/thumb.webp?v=0c556d4d",
+	"file": {
+		"version": 1,
+		"asset": "camembert-rammus-v1.fantome",
+		"size": 3414557,
+		"sha256": "7b2c395425c3606797f2167c53e06af5acfa861d4e3f0794b6827903883e20e5"
+	},
+	"chromas": []
+}

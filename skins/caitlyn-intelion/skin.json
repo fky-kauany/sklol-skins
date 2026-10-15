@@ -1,0 +1,24 @@
+{
+	"id": "caitlyn-intelion",
+	"name": "Caitlyn Intelion",
+	"champion": 51,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Skin Works Both Base and Battle academia\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/c7ce57c7-4fc4-4fd3-8922-2632e784efe5\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/caitlyn-intelion/thumb.webp?v=8c7d1177",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-intelion-v1.fantome",
+		"size": 5535394,
+		"sha256": "72733d8b947bc9e77d16d7a43af08dca4cbfa555109927f69d04dfb60f1be58d"
+	},
+	"chromas": []
+}

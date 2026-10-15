@@ -1,0 +1,23 @@
+{
+	"id": "caitlyn-with-caitlyn",
+	"name": "Caitlyn with Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Caitlyn**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/1ec6e89b-4ae5-4234-b046-9312ffd20f2f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/caitlyn-with-caitlyn/thumb.webp?v=d6068213",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-with-caitlyn-v1.fantome",
+		"size": 662768,
+		"sha256": "256c5b320200b5aec106fac183531e21baa734e0cc15bf4158a73b1a2170e519"
+	},
+	"chromas": []
+}

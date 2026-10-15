@@ -1,0 +1,22 @@
+{
+	"id": "caitlyn-pool-party-cait-no-shirt-no-hat",
+	"name": "Pool Party Cait No Shirt No Hat",
+	"champion": 51,
+	"base": 13,
+	"creator": "aruari",
+	"description": "Skin replaced: Pool Party Caitlyn\r\n\r\nRemoves Pool Party Caitlyn's shirt and hat.\n\n---\n\n**Created by** [aruari](https://runeforge.dev/users/aruari)\n\n**Original:** https://runeforge.dev/mods/a6a6f440-b348-4ef0-9658-e4dd5401e70d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/caitlyn-pool-party-cait-no-shirt-no-hat/thumb.webp?v=e853341b",
+	"file": {
+		"version": 1,
+		"asset": "caitlyn-pool-party-cait-no-shirt-no-hat-v1.fantome",
+		"size": 295595,
+		"sha256": "a352beeb4ff4e2f2eac0cc9866b0a4296e4051d0e781956d8bb67f12f04ea001"
+	},
+	"chromas": []
+}

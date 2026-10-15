@@ -1,0 +1,24 @@
+{
+	"id": "car-ziggs-as-kha-zix",
+	"name": "Car Ziggs as Kha'Zix",
+	"champion": 121,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/23b833e3-b461-461b-b19f-8333f3b039ae\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/car-ziggs-as-kha-zix/thumb.webp?v=c0c5ed1e",
+	"file": {
+		"version": 1,
+		"asset": "car-ziggs-as-kha-zix-v1.fantome",
+		"size": 1640207,
+		"sha256": "02cf3767508ca6367720441563a4d4781d1f6b8376e469c735be7a012a292888"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "camel-camille",
+	"name": "Camel Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "sterak",
+	"description": "if drututt plays this and features it i will be very hapy.\n\nif you guyS REALLY want, i can add sound effects. tell me on discord: Sterak\n\n---\n\n**Created by** [Sterak](https://runeforge.dev/users/Sterak)\n\n**Original:** https://runeforge.dev/mods/7fe56911-42cb-47a9-b3cc-a039af67b304\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/camel-camille/thumb.webp?v=5505b4a8",
+	"file": {
+		"version": 1,
+		"asset": "camel-camille-v1.fantome",
+		"size": 21151,
+		"sha256": "eaf49971ce13626d63f8816a6a44644f0b3a83098e2ba0700e5af3bdf99319a3"
+	},
+	"chromas": []
+}

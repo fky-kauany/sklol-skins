@@ -1,0 +1,24 @@
+{
+	"id": "carl-johnson-cj-lucian",
+	"name": "Carl Johnson (CJ) - Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "foose",
+	"description": "voice lines soon\n\n---\n\n**Created by** [foose](https://runeforge.dev/users/foose)\n\n**Original:** https://runeforge.dev/mods/6c84b479-68bd-481c-9b4d-6a9ae3abba09\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/carl-johnson-cj-lucian/thumb.webp?v=3ab48710",
+	"file": {
+		"version": 1,
+		"asset": "carl-johnson-cj-lucian-v1.fantome",
+		"size": 2838156,
+		"sha256": "31c7902a089b16a045d0ebabf88f0ed546ec11db220f76a46ee3ff677b3f6d62"
+	},
+	"chromas": []
+}
