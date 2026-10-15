@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:02:37.617Z",
+	"generatedAt": "2026-10-15T11:05:53.547Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -18083,6 +18083,255 @@
 				"asset": "kda-all-out-gragas-v1.fantome",
 				"size": 13159771,
 				"sha256": "2950848f80f834c27cfc8d9466ad2e3f72eb8059ab802430929cab52aaa05193"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kda-code-pink-akali",
+			"name": "KDA Code Pink Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kda-code-pink-akali/thumb.webp?v=a55c43ec",
+			"file": {
+				"version": 1,
+				"asset": "kda-code-pink-akali-v1.fantome",
+				"size": 16041511,
+				"sha256": "a3adcf70bbbb972529ebd926e7f44c64f6ab4cb34b21c824fa2147470a6a5fa9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kda-code-pink-evelynn",
+			"name": "KDA Code Pink Evelynn",
+			"champion": 28,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kda-code-pink-evelynn/thumb.webp?v=640ea775",
+			"file": {
+				"version": 1,
+				"asset": "kda-code-pink-evelynn-v1.fantome",
+				"size": 29069527,
+				"sha256": "5809d04120c9cc095e2003a9b5074b6e5e6a2eecab6b821bcadc34d6b57f66e9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kda-code-pink-katarina",
+			"name": "KDA Code Pink Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kda-code-pink-katarina/thumb.webp?v=e0935cce",
+			"file": {
+				"version": 1,
+				"asset": "kda-code-pink-katarina-v1.fantome",
+				"size": 26197643,
+				"sha256": "4877fefeaa657118b34019f7f4d8ff7692a2f385b7635f2408fcb29aac0d79d5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kda-code-pink-seraphine",
+			"name": "KDA Code Pink Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kda-code-pink-seraphine/thumb.webp?v=f44a8bf8",
+			"file": {
+				"version": 1,
+				"asset": "kda-code-pink-seraphine-v1.fantome",
+				"size": 19800670,
+				"sha256": "8a31b5a3353e3b79c8ca8d4924482219e9e4746298b95f8869d09999f01b3f83"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ken-sf6-riven",
+			"name": "Ken SF6 Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ken-sf6-riven/thumb.webp?v=2354da13",
+			"file": {
+				"version": 1,
+				"asset": "ken-sf6-riven-v1.fantome",
+				"size": 108688542,
+				"sha256": "34a95a356840e64a42b59048ce30b5183828312797e7eb2dfbc884ae867da361"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kendrick-ekko",
+			"name": "Kendrick Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kendrick-ekko/thumb.webp?v=5667898c",
+			"file": {
+				"version": 1,
+				"asset": "kendrick-ekko-v1.fantome",
+				"size": 8964162,
+				"sha256": "cddf03ce784f33901a1c34b65599ed1e1940a889cf7155f59a7439cecd8bf008"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kenny-sion",
+			"name": "Kenny Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "drinfinito",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kenny-sion/thumb.webp?v=762170f6",
+			"file": {
+				"version": 1,
+				"asset": "kenny-sion-v1.fantome",
+				"size": 7635605,
+				"sha256": "a06c79625de7d9c66317cedfa848f95a5d70c3ac4ea467ab8fbaa2220929aff2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kha-zix-kha-zixstan",
+			"name": "Kha'Zixstan",
+			"champion": 121,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kha-zix-kha-zixstan/thumb.webp?v=e0099b01",
+			"file": {
+				"version": 1,
+				"asset": "kha-zix-kha-zixstan-v1.fantome",
+				"size": 58511,
+				"sha256": "2892c526df623df48313e7a5827a60d89842c60b7213450b57f455957469e799"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kha-zix-roach-zix",
+			"name": "Roach'Zix",
+			"champion": 121,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kha-zix-roach-zix/thumb.webp?v=28ac6072",
+			"file": {
+				"version": 1,
+				"asset": "kha-zix-roach-zix-v1.fantome",
+				"size": 902410,
+				"sha256": "1a2fcabb2602efa59f8376e06779c0d9c802a414d01d27901db9ad4a39140ce6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kiana-hov-irelia",
+			"name": "Kiana HOV Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kiana-hov-irelia/thumb.webp?v=ff5a60cf",
+			"file": {
+				"version": 1,
+				"asset": "kiana-hov-irelia-v1.fantome",
+				"size": 12246920,
+				"sha256": "e0c169cbb30042bbc9c3412fa95dae1457488fe0526011d0c80a2951eda2f696"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "kda-code-pink-akali",
+	"name": "KDA Code Pink Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Akali\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: K/DA Code Pink Akali\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/8b38fa32-31e1-4434-9ebb-4ccdf5f2933b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kda-code-pink-akali/thumb.webp?v=a55c43ec",
+	"file": {
+		"version": 1,
+		"asset": "kda-code-pink-akali-v1.fantome",
+		"size": 16041511,
+		"sha256": "a3adcf70bbbb972529ebd926e7f44c64f6ab4cb34b21c824fa2147470a6a5fa9"
+	},
+	"chromas": []
+}

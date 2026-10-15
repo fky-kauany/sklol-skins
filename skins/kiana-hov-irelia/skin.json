@@ -1,0 +1,24 @@
+{
+	"id": "kiana-hov-irelia",
+	"name": "Kiana HOV Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion Replaced: Irelia\r\n* Skin Replaced: Default\r\n* Author: The Melancholy Of Slime\r\n* Skin Version: 1.0\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* New voiceover\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/9e79677d-a45c-4bda-bb72-960b789dd2a7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kiana-hov-irelia/thumb.webp?v=ff5a60cf",
+	"file": {
+		"version": 1,
+		"asset": "kiana-hov-irelia-v1.fantome",
+		"size": 12246920,
+		"sha256": "e0c169cbb30042bbc9c3412fa95dae1457488fe0526011d0c80a2951eda2f696"
+	},
+	"chromas": []
+}

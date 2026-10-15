@@ -1,0 +1,24 @@
+{
+	"id": "kendrick-ekko",
+	"name": "Kendrick Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "cam",
+	"description": "Short King Ekko\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/e1fdfe19-2c77-4825-a69d-51cb3945461b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kendrick-ekko/thumb.webp?v=5667898c",
+	"file": {
+		"version": 1,
+		"asset": "kendrick-ekko-v1.fantome",
+		"size": 8964162,
+		"sha256": "cddf03ce784f33901a1c34b65599ed1e1940a889cf7155f59a7439cecd8bf008"
+	},
+	"chromas": []
+}

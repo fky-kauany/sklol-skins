@@ -1,0 +1,26 @@
+{
+	"id": "kda-code-pink-katarina",
+	"name": "KDA Code Pink Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Katarina\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.3\n\n###### Description: K/DA Code Pink Katarina\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1BbpsdOdpxnxpDIR7Meos1Yss3TMpfKW8?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/416b9fd2-f26f-415e-88d6-d3c4a329969a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kda-code-pink-katarina/thumb.webp?v=e0935cce",
+	"file": {
+		"version": 1,
+		"asset": "kda-code-pink-katarina-v1.fantome",
+		"size": 26197643,
+		"sha256": "4877fefeaa657118b34019f7f4d8ff7692a2f385b7635f2408fcb29aac0d79d5"
+	},
+	"chromas": []
+}

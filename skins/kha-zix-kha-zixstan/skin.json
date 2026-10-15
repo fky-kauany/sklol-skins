@@ -1,0 +1,24 @@
+{
+	"id": "kha-zix-kha-zixstan",
+	"name": "Kha'Zixstan",
+	"champion": 121,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Kha'zix**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/83ce7bc5-179b-4a21-950c-814178dc8e2c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kha-zix-kha-zixstan/thumb.webp?v=e0099b01",
+	"file": {
+		"version": 1,
+		"asset": "kha-zix-kha-zixstan-v1.fantome",
+		"size": 58511,
+		"sha256": "2892c526df623df48313e7a5827a60d89842c60b7213450b57f455957469e799"
+	},
+	"chromas": []
+}

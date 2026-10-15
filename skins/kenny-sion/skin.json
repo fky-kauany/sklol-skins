@@ -1,0 +1,24 @@
+{
+	"id": "kenny-sion",
+	"name": "Kenny Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "drinfinito",
+	"description": "\"Oh my god! They killed Kenny!\" \"You bastards!\"\r\n\r\n\r\nThis mod turns Sion into Kenny from South Park!\r\n\r\n\r\nRequires BASE Sion for this mod to work.\r\n\r\n\r\nThis mod contains:\r\n\r\n\r\n-New Model!\r\n\r\n\r\n-New Texture!\r\n\r\n\r\n-New Sound Effects!\r\n\r\n\r\n-New Voice Over!\r\n\r\n\r\nCredits\r\n-Kenny model from https://models.spriters-resource.com/custom_edited/southparkcustoms/asset/320053/\r\n\r\n\r\n-Sign model from https://sketchfab.com/3d-models/caution-signs-set-1-f644257412754b11a3dd32bed1af43ad\n\n---\n\n**Created by** [DrInfinito](https://runeforge.dev/users/DrInfinito)\n\n**Original:** https://runeforge.dev/mods/3901763f-7451-4aa9-a0a6-efa978102b0f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kenny-sion/thumb.webp?v=762170f6",
+	"file": {
+		"version": 1,
+		"asset": "kenny-sion-v1.fantome",
+		"size": 7635605,
+		"sha256": "a06c79625de7d9c66317cedfa848f95a5d70c3ac4ea467ab8fbaa2220929aff2"
+	},
+	"chromas": []
+}
