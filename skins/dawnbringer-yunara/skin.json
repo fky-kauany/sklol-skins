@@ -1,0 +1,24 @@
+{
+	"id": "dawnbringer-yunara",
+	"name": "Dawnbringer Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "nimu",
+	"description": "- Champion: Yunara\r\n - Skin: Base Skin\r\n - Mod version: 1.2.0\r\n\r\nFeatures: New Model, Textures, Loading Screen, Hud Images, VFX.\n\n---\n\n**Created by** [Nimu](https://runeforge.dev/users/Nimu)\n\n**Original:** https://runeforge.dev/mods/3df9a145-2223-4971-a156-45844a96d6d2\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dawnbringer-yunara/thumb.webp?v=3dadf017",
+	"file": {
+		"version": 1,
+		"asset": "dawnbringer-yunara-v1.fantome",
+		"size": 4021674,
+		"sha256": "ba410d192eb1f304329fa8c2f1027eb7974feb9ff2c1ff30caa801dc6aa5dbbb"
+	},
+	"chromas": []
+}

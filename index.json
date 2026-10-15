@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:50:28.888Z",
+	"generatedAt": "2026-10-15T08:53:37.808Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -848,6 +848,13 @@
 			"avatar": "creators/neoritch.jpg?v=b937361e",
 			"links": {}
 		},
+		"nimu": {
+			"name": "Nimu",
+			"avatar": "creators/nimu.jpg?v=45430634",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=Nzaj8JioSJw"
+			}
+		},
 		"noctune": {
 			"name": "Noctune",
 			"avatar": "creators/noctune.png?v=5557239c",
@@ -1113,6 +1120,12 @@
 				"site": "https://www.models-resource.com/submitter/Cameron+Carson+Official/",
 				"youtube": "https://youtu.be/3ot7OuYo-jg"
 			}
+		},
+		"skarnercientista": {
+			"name": "SkarnerCientista",
+			"avatar": "creators/skarnercientista.jpg?v=8960feba",
+			"bio": "Hello! I'm a youtuber and a beggining modder of league of legends, especifically Skarner!\n\n my channel:\nhttps://www.youtube.com/@SkarnerCientista",
+			"links": {}
 		},
 		"sofi9": {
 			"name": "Sofi9",
@@ -7110,6 +7123,105 @@
 			"chromas": []
 		},
 		{
+			"id": "darius-patrick-bateman-voice-lines",
+			"name": "Darius Patrick Bateman + voice lines",
+			"champion": 122,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darius-patrick-bateman-voice-lines/thumb.webp?v=8ea8b89b",
+			"file": {
+				"version": 1,
+				"asset": "darius-patrick-bateman-voice-lines-v1.fantome",
+				"size": 33402765,
+				"sha256": "d1a1847d654398cb38dbeb41b7cc9ea926acbade8cfed187adfbdc19043187f9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-pentakill",
+			"name": "Darius Pentakill",
+			"champion": 122,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darius-pentakill/thumb.webp?v=88759627",
+			"file": {
+				"version": 1,
+				"asset": "darius-pentakill-v1.fantome",
+				"size": 10212882,
+				"sha256": "313f9d666f90a9acc741b9474811aeafe14e7561ffc150864ab30fb92b700fdd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-visual-rework",
+			"name": "Darius visual rework",
+			"champion": 122,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darius-visual-rework/thumb.webp?v=a97716a8",
+			"file": {
+				"version": 1,
+				"asset": "darius-visual-rework-v1.fantome",
+				"size": 8484099,
+				"sha256": "43184c33b6efdf5732fce3d4ec19ce493a851a31eb15e4cf9a4658c808d59fa5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-matter-genesis-yasuo",
+			"name": "Dark Matter Genesis Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "reza",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dark-matter-genesis-yasuo/thumb.webp?v=016aa52a",
+			"file": {
+				"version": 1,
+				"asset": "dark-matter-genesis-yasuo-v1.fantome",
+				"size": 9461575,
+				"sha256": "5b0e01414a602e4fd587a834bf430ba7ba65d3aff0fd4bd6448215656d72f478"
+			},
+			"chromas": []
+		},
+		{
 			"id": "dark-matter-sett",
 			"name": "Dark matter Sett",
 			"champion": 875,
@@ -7132,6 +7244,156 @@
 				"asset": "dark-matter-sett-v1.fantome",
 				"size": 7549796,
 				"sha256": "02d071c9db6ad3c396881f84b625ff011b96b683db9a59c21366dd7cfb5b5c9c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dark-tyrant-skarner",
+			"name": "Dark Tyrant Skarner",
+			"champion": 72,
+			"base": 0,
+			"creator": "skarnercientista",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dark-tyrant-skarner/thumb.webp?v=73cd4eb5",
+			"file": {
+				"version": 1,
+				"asset": "dark-tyrant-skarner-v1.fantome",
+				"size": 8078350,
+				"sha256": "cf1176cef1272e23d58fc0fcdfcf733232d910c74ce364c7cc21ac58231037c9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darkskye-yone",
+			"name": "DarkSkye Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "reza",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darkskye-yone/thumb.webp?v=83e52777",
+			"file": {
+				"version": 1,
+				"asset": "darkskye-yone-v1.fantome",
+				"size": 11540039,
+				"sha256": "fdae49d79d3258cae540d65a0f0e816e6063c95e3902749e9fad17b65ce32029"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darth-maul-zaahen",
+			"name": "Darth Maul Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darth-maul-zaahen/thumb.webp?v=3feea0a0",
+			"file": {
+				"version": 1,
+				"asset": "darth-maul-zaahen-v1.fantome",
+				"size": 4968704,
+				"sha256": "9924c7388d33046c3aaf4be9caf1c269278b94bfbf99cb91a05188e0bb6eef45"
+			},
+			"chromas": []
+		},
+		{
+			"id": "david-ekko",
+			"name": "David Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/david-ekko/thumb.webp?v=00b9b249",
+			"file": {
+				"version": 1,
+				"asset": "david-ekko-v1.fantome",
+				"size": 12513476,
+				"sha256": "53e8112733a2de4de2e2c77ce6faf67bc0c33c77cb6ba573e60635ef9d9be3b8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dawnbringer-draven",
+			"name": "Dawnbringer Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dawnbringer-draven/thumb.webp?v=6ba81455",
+			"file": {
+				"version": 1,
+				"asset": "dawnbringer-draven-v1.fantome",
+				"size": 10774088,
+				"sha256": "d6cfdd53dbc0c2ba9bd2ebdc77aa663ad362ab106d3272b291118075a364c667"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dawnbringer-yunara",
+			"name": "Dawnbringer Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "nimu",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dawnbringer-yunara/thumb.webp?v=3dadf017",
+			"file": {
+				"version": 1,
+				"asset": "dawnbringer-yunara-v1.fantome",
+				"size": 4021674,
+				"sha256": "ba410d192eb1f304329fa8c2f1027eb7974feb9ff2c1ff30caa801dc6aa5dbbb"
 			},
 			"chromas": []
 		},

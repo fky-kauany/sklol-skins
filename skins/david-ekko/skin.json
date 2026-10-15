@@ -1,0 +1,24 @@
+{
+	"id": "david-ekko",
+	"name": "David Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (Matth Spotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n____________________________________________________________________________________________________\n\nMy Contacts:\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/668a287f-1f83-4e60-9ae6-2209fbb68a68\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/david-ekko/thumb.webp?v=00b9b249",
+	"file": {
+		"version": 1,
+		"asset": "david-ekko-v1.fantome",
+		"size": 12513476,
+		"sha256": "53e8112733a2de4de2e2c77ce6faf67bc0c33c77cb6ba573e60635ef9d9be3b8"
+	},
+	"chromas": []
+}

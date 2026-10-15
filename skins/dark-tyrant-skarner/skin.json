@@ -1,0 +1,26 @@
+{
+	"id": "dark-tyrant-skarner",
+	"name": "Dark Tyrant Skarner",
+	"champion": 72,
+	"base": 0,
+	"creator": "skarnercientista",
+	"description": "- Skin base custom;\r\n- chroma;\r\n- no loading screen alteration.\n\n---\n\n**Created by** [SkarnerCientista](https://runeforge.dev/users/SkarnerCientista)\n\n**Original:** https://runeforge.dev/mods/dd7bbc1f-1eac-47eb-a8f9-4bd0e2bb872d\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dark-tyrant-skarner/thumb.webp?v=73cd4eb5",
+	"file": {
+		"version": 1,
+		"asset": "dark-tyrant-skarner-v1.fantome",
+		"size": 8078350,
+		"sha256": "cf1176cef1272e23d58fc0fcdfcf733232d910c74ce364c7cc21ac58231037c9"
+	},
+	"chromas": []
+}

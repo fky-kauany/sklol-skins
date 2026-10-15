@@ -1,0 +1,26 @@
+{
+	"id": "darkskye-yone",
+	"name": "DarkSkye Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "reza",
+	"description": "---\n\n**Created by** [Reza](https://runeforge.dev/users/Reza)\n\n**Original:** https://runeforge.dev/mods/04551282-338e-478b-b177-d1e9003c375b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/darkskye-yone/thumb.webp?v=83e52777",
+	"file": {
+		"version": 1,
+		"asset": "darkskye-yone-v1.fantome",
+		"size": 11540039,
+		"sha256": "fdae49d79d3258cae540d65a0f0e816e6063c95e3902749e9fad17b65ce32029"
+	},
+	"chromas": []
+}

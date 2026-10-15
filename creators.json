@@ -845,6 +845,13 @@
 		"avatar": "creators/neoritch.jpg?v=b937361e",
 		"links": {}
 	},
+	"nimu": {
+		"name": "Nimu",
+		"avatar": "creators/nimu.jpg?v=45430634",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=Nzaj8JioSJw"
+		}
+	},
 	"noctune": {
 		"name": "Noctune",
 		"avatar": "creators/noctune.png?v=5557239c",
@@ -1110,6 +1117,12 @@
 			"site": "https://www.models-resource.com/submitter/Cameron+Carson+Official/",
 			"youtube": "https://youtu.be/3ot7OuYo-jg"
 		}
+	},
+	"skarnercientista": {
+		"name": "SkarnerCientista",
+		"avatar": "creators/skarnercientista.jpg?v=8960feba",
+		"bio": "Hello! I'm a youtuber and a beggining modder of league of legends, especifically Skarner!\n\n my channel:\nhttps://www.youtube.com/@SkarnerCientista",
+		"links": {}
 	},
 	"sofi9": {
 		"name": "Sofi9",

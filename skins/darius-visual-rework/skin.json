@@ -1,0 +1,24 @@
+{
+	"id": "darius-visual-rework",
+	"name": "Darius visual rework",
+	"champion": 122,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: darius \r\n\r\nModified skin: god king darius\r\n\r\nAn imagination of what a rework for Darius would look like. I never liked the default skin, but the visual is very good, so I tried my best to faithfully recreate that look for a modern Darius. I hope you like it.\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/5e7490ad-2092-429a-b15f-73b0d38ad7ba\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/darius-visual-rework/thumb.webp?v=a97716a8",
+	"file": {
+		"version": 1,
+		"asset": "darius-visual-rework-v1.fantome",
+		"size": 8484099,
+		"sha256": "43184c33b6efdf5732fce3d4ec19ce493a851a31eb15e4cf9a4658c808d59fa5"
+	},
+	"chromas": []
+}

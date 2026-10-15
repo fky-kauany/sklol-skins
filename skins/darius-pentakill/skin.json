@@ -1,0 +1,24 @@
+{
+	"id": "darius-pentakill",
+	"name": "Darius Pentakill",
+	"champion": 122,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Darius\r\n\r\nModified skin: Default\r\n\r\nAuthor: gabe\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/6ce693c8-cfb5-4f9d-86cc-55601efd3e92\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/darius-pentakill/thumb.webp?v=88759627",
+	"file": {
+		"version": 1,
+		"asset": "darius-pentakill-v1.fantome",
+		"size": 10212882,
+		"sha256": "313f9d666f90a9acc741b9474811aeafe14e7561ffc150864ab30fb92b700fdd"
+	},
+	"chromas": []
+}

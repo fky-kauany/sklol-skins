@@ -1,0 +1,26 @@
+{
+	"id": "dark-matter-genesis-yasuo",
+	"name": "Dark Matter Genesis Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "reza",
+	"description": "The color evolves the more he goes deeper in the dark\n\n---\n\n**Created by** [Reza](https://runeforge.dev/users/Reza)\n\n**Original:** https://runeforge.dev/mods/906c66f3-db90-4297-9c5e-4fe038ddb034\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dark-matter-genesis-yasuo/thumb.webp?v=016aa52a",
+	"file": {
+		"version": 1,
+		"asset": "dark-matter-genesis-yasuo-v1.fantome",
+		"size": 9461575,
+		"sha256": "5b0e01414a602e4fd587a834bf430ba7ba65d3aff0fd4bd6448215656d72f478"
+	},
+	"chromas": []
+}
