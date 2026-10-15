@@ -1,0 +1,26 @@
+{
+	"id": "putka-camille",
+	"name": "Putka Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "dazashu",
+	"description": "made by frog and dazashu‎,\r\n\r\nmodel from game emissary zero‎ 🚀🚀🚀🚀‎,\r\n\r\nsuper good aura added for more gaming‎.\r\n\r\nFor default skin.\n\n---\n\n**Created by** [dazashu](https://runeforge.dev/users/dazashu)\n\n**Original:** https://runeforge.dev/mods/3194a265-efb6-4aa2-979d-debbdc0ea1fc\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/putka-camille/thumb.webp?v=b612cfd0",
+	"file": {
+		"version": 1,
+		"asset": "putka-camille-v1.fantome",
+		"size": 16582468,
+		"sha256": "b6b8f803421f117b0514c5edad679bb326eebd98d2cd398dd04af3a2a73fc761"
+	},
+	"chromas": []
+}

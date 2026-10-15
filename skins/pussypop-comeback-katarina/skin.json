@@ -1,0 +1,26 @@
+{
+	"id": "pussypop-comeback-katarina",
+	"name": "PussyPop Comeback Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Katarina\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: PussyPop Comeback Katarina\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n* The skin evolves within the game\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/6f8f0735-8737-427f-81b8-078f9f75020e\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pussypop-comeback-katarina/thumb.webp?v=a372267d",
+	"file": {
+		"version": 1,
+		"asset": "pussypop-comeback-katarina-v1.fantome",
+		"size": 20721627,
+		"sha256": "0ef073d1c914ed8aba9b1a0fd1344f4850a445ec0e220d8993b1daa59a9c761f"
+	},
+	"chromas": []
+}

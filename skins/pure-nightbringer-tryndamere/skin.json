@@ -1,0 +1,22 @@
+{
+	"id": "pure-nightbringer-tryndamere",
+	"name": "Pure Nightbringer Tryndamere",
+	"champion": 23,
+	"base": 46,
+	"creator": "unum",
+	"description": "Custom Chroma For Nightbringer Tryndamere (base skin replacement).\n\n---\n\n**Created by** [unum](https://runeforge.dev/users/unum)\n\n**Original:** https://runeforge.dev/mods/4984c16a-75d9-432c-b2d6-bf8ce0e2a418\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pure-nightbringer-tryndamere/thumb.webp?v=1387d39b",
+	"file": {
+		"version": 1,
+		"asset": "pure-nightbringer-tryndamere-v1.fantome",
+		"size": 2794256,
+		"sha256": "57dd904918dc9cfddd71b6556d4caf31044ae222d042cd8638b82160426fe9f0"
+	},
+	"chromas": []
+}

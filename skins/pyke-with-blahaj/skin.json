@@ -1,0 +1,24 @@
+{
+	"id": "pyke-with-blahaj",
+	"name": "Pyke with Blåhaj",
+	"champion": 555,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Pyke**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\n[\"Low Poly Blåhaj\"](https://skfb.ly/o8pRw) by IsabelleDotJpeg is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/351736a0-cef3-4682-a880-b9f5ded0bab8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pyke-with-blahaj/thumb.webp?v=7e33862f",
+	"file": {
+		"version": 1,
+		"asset": "pyke-with-blahaj-v1.fantome",
+		"size": 585679,
+		"sha256": "a99699c2985d78a42d6b22c715a6e00d0ffe84bf0b3bccfa20b0337fcd518a3c"
+	},
+	"chromas": []
+}

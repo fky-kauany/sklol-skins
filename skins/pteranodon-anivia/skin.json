@@ -1,0 +1,26 @@
+{
+	"id": "pteranodon-anivia",
+	"name": "Pteranodon Anivia",
+	"champion": 34,
+	"base": 0,
+	"creator": "frogcs",
+	"description": "Best flyer in ark\r\n\r\nModel from Ark survival evolved, best game\n\n---\n\n**Created by** [FrogCs](https://runeforge.dev/users/FrogCs)\n\n**Original:** https://runeforge.dev/mods/5b5b8b67-f091-4954-ba25-c7987c64e94d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pteranodon-anivia/thumb.webp?v=02b9c28f",
+	"file": {
+		"version": 1,
+		"asset": "pteranodon-anivia-v1.fantome",
+		"size": 7519375,
+		"sha256": "faf2cab3217df3f37e0c89a0eb3bd46b594637cd87a6c23c75e0fbf718134974"
+	},
+	"chromas": []
+}

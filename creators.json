@@ -627,6 +627,11 @@
 			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 		}
 	},
+	"frogcs": {
+		"name": "FrogCs",
+		"avatar": "creators/frogcs.png?v=466b347e",
+		"links": {}
+	},
 	"froggles": {
 		"name": "Froggles",
 		"avatar": "creators/froggles.jpg?v=c42bcb9b",

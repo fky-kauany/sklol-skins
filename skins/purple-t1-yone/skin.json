@@ -1,0 +1,26 @@
+{
+	"id": "purple-t1-yone",
+	"name": "Purple T1 Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "reza",
+	"description": "---\n\n**Created by** [Reza](https://runeforge.dev/users/Reza)\n\n**Original:** https://runeforge.dev/mods/ece91b88-477d-4039-b33c-d99eacba1e43\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/purple-t1-yone/thumb.webp?v=2225193e",
+	"file": {
+		"version": 1,
+		"asset": "purple-t1-yone-v1.fantome",
+		"size": 9665904,
+		"sha256": "6483eee93eebff5ba6ce508e8a95ad8387916d8db7668477517f9225ecfc1b66"
+	},
+	"chromas": []
+}

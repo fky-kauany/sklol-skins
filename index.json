@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:41:02.613Z",
+	"generatedAt": "2026-10-15T12:44:11.703Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -629,6 +629,11 @@
 			"links": {
 				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 			}
+		},
+		"frogcs": {
+			"name": "FrogCs",
+			"avatar": "creators/frogcs.png?v=466b347e",
+			"links": {}
 		},
 		"froggles": {
 			"name": "Froggles",
@@ -26248,6 +26253,258 @@
 				"asset": "project-zeri-base-chromas-v1.fantome",
 				"size": 7697526,
 				"sha256": "9959390cfa78566f9a7884ad1096675fc652e8d007deef0b569603caeec2e772"
+			},
+			"chromas": []
+		},
+		{
+			"id": "psyops-katarina",
+			"name": "Psyops Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/psyops-katarina/thumb.webp?v=728de31b",
+			"file": {
+				"version": 1,
+				"asset": "psyops-katarina-v1.fantome",
+				"size": 14311244,
+				"sha256": "ae9eb1e249516e2124838163286dc74808a955eac7ef9f7a0b3a67fef71e5ebb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pteranodon-anivia",
+			"name": "Pteranodon Anivia",
+			"champion": 34,
+			"base": 0,
+			"creator": "frogcs",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pteranodon-anivia/thumb.webp?v=02b9c28f",
+			"file": {
+				"version": 1,
+				"asset": "pteranodon-anivia-v1.fantome",
+				"size": 7519375,
+				"sha256": "faf2cab3217df3f37e0c89a0eb3bd46b594637cd87a6c23c75e0fbf718134974"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pumpkin-bomber-ziggs",
+			"name": "Pumpkin Bomber Ziggs",
+			"champion": 115,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pumpkin-bomber-ziggs/thumb.webp?v=38022d62",
+			"file": {
+				"version": 1,
+				"asset": "pumpkin-bomber-ziggs-v1.fantome",
+				"size": 621025,
+				"sha256": "021beee007b17d33aabd0fcb6877ebe3fe998cdd023c759646f6ca9632b02dd4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pure-nightbringer-tryndamere",
+			"name": "Pure Nightbringer Tryndamere",
+			"champion": 23,
+			"base": 46,
+			"creator": "unum",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pure-nightbringer-tryndamere/thumb.webp?v=1387d39b",
+			"file": {
+				"version": 1,
+				"asset": "pure-nightbringer-tryndamere-v1.fantome",
+				"size": 2794256,
+				"sha256": "57dd904918dc9cfddd71b6556d4caf31044ae222d042cd8638b82160426fe9f0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "purple-t1-yone",
+			"name": "Purple T1 Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "reza",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/purple-t1-yone/thumb.webp?v=2225193e",
+			"file": {
+				"version": 1,
+				"asset": "purple-t1-yone-v1.fantome",
+				"size": 9665904,
+				"sha256": "6483eee93eebff5ba6ce508e8a95ad8387916d8db7668477517f9225ecfc1b66"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pussypop-comeback-katarina",
+			"name": "PussyPop Comeback Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pussypop-comeback-katarina/thumb.webp?v=a372267d",
+			"file": {
+				"version": 1,
+				"asset": "pussypop-comeback-katarina-v1.fantome",
+				"size": 20721627,
+				"sha256": "0ef073d1c914ed8aba9b1a0fd1344f4850a445ec0e220d8993b1daa59a9c761f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pussypop-comeback-miss-fortune",
+			"name": "PussyPop Comeback Miss Fortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pussypop-comeback-miss-fortune/thumb.webp?v=9eff4e80",
+			"file": {
+				"version": 1,
+				"asset": "pussypop-comeback-miss-fortune-v1.fantome",
+				"size": 16659015,
+				"sha256": "af8c418b29c605bfd24c3cf3fb45c7b2f9137e917820f4bacc1c0041379d7ccd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pussypop-comeback-sejuani",
+			"name": "PussyPop Comeback Sejuani",
+			"champion": 113,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pussypop-comeback-sejuani/thumb.webp?v=54410bc1",
+			"file": {
+				"version": 1,
+				"asset": "pussypop-comeback-sejuani-v1.fantome",
+				"size": 13734479,
+				"sha256": "3568813f3aff1681d82ff61a1560dcfb6f5c948860e430a883870f9db3adb19c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "putka-camille",
+			"name": "Putka Camille",
+			"champion": 164,
+			"base": 0,
+			"creator": "dazashu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/putka-camille/thumb.webp?v=b612cfd0",
+			"file": {
+				"version": 1,
+				"asset": "putka-camille-v1.fantome",
+				"size": 16582468,
+				"sha256": "b6b8f803421f117b0514c5edad679bb326eebd98d2cd398dd04af3a2a73fc761"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pyke-with-blahaj",
+			"name": "Pyke with Blåhaj",
+			"champion": 555,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pyke-with-blahaj/thumb.webp?v=7e33862f",
+			"file": {
+				"version": 1,
+				"asset": "pyke-with-blahaj-v1.fantome",
+				"size": 585679,
+				"sha256": "a99699c2985d78a42d6b22c715a6e00d0ffe84bf0b3bccfa20b0337fcd518a3c"
 			},
 			"chromas": []
 		},
