@@ -1,0 +1,23 @@
+{
+	"id": "corporate-gragas",
+	"name": "CORPORATE GRAGAS",
+	"champion": 79,
+	"base": 4,
+	"creator": "chammad",
+	"description": "This skin replaces Gragas, ESQ. with a custom-made mod.\r\n\r\nTIME TO STONKS !!\r\n\r\n\r\n## Information\r\n\r\n**Modified champion: Gragas**\r\n\r\n**Modified skin: ESQ.**\r\n\r\n**Author: Chammad**\r\n\r\nColor model, abilities sounds and spells icons modified.\r\n\r\n\r\n## Issues\r\n\r\nIf/When this mod breaks, let me know\r\n\r\nDiscord: @chammad2\n\n---\n\n**Created by** [Chammad / G.C.C.](https://runeforge.dev/users/chammad)\n\n**Original:** https://runeforge.dev/mods/f9d21bff-c8dd-4973-b252-3bda597a728c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/corporate-gragas/thumb.webp?v=42add69f",
+	"file": {
+		"version": 1,
+		"asset": "corporate-gragas-v1.fantome",
+		"size": 1898080,
+		"sha256": "01e0aa4711162b778f5a41e0d06bb7eb2eb5574a611741ce82981454576fbf97"
+	},
+	"chromas": []
+}

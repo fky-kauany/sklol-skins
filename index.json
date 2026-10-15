@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:34:50.914Z",
+	"generatedAt": "2026-10-15T08:37:53.550Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -270,6 +270,14 @@
 			"avatar": "creators/ceratophrys.png?v=9fe3cbe2",
 			"links": {
 				"youtube": "https://youtu.be/QFxhPpEaYKk"
+			}
+		},
+		"chammad": {
+			"name": "Chammad / G.C.C.",
+			"avatar": "creators/chammad.jpg?v=026e9d9e",
+			"bio": "Chilling and modding, seaching for a good future...\nIN GAMES I TRUST !!\n\n2026 goal: 1+ mod/week",
+			"links": {
+				"x": "https://x.com/chammad_work"
 			}
 		},
 		"charsles": {
@@ -1215,6 +1223,12 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 			}
+		},
+		"vector": {
+			"name": "Vector",
+			"avatar": "creators/vector.png?v=f27c482a",
+			"bio": "# Who am I?\n\nIam Vector and part of the Runeforge Staff team. I also manage the Wiki :3 and do CC occasionally.",
+			"links": {}
 		},
 		"veenox": {
 			"name": "Veenox",
@@ -5814,6 +5828,244 @@
 				"asset": "clown-katarina-v1.fantome",
 				"size": 13311039,
 				"sha256": "ac2e72f7e7a8f42902e459b8934686c71163fe5bea244f68311a46be2416fa6e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "conquest-sett",
+			"name": "Conquest Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/conquest-sett/thumb.webp?v=fe92855f",
+			"file": {
+				"version": 1,
+				"asset": "conquest-sett-v1.fantome",
+				"size": 5984000,
+				"sha256": "37dfc1c9930d7391cf6eb52550209f32ca25f5e2e6b3d03dfdbd6ab67767bdcd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corki-bombardiro-crocadilo-corgi-smolder-renekto",
+			"name": "bombardiro crocadilo (corgi, smolder, renekton)",
+			"champion": 42,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/corki-bombardiro-crocadilo-corgi-smolder-renekto/thumb.webp?v=0c0de4e6",
+			"file": {
+				"version": 1,
+				"asset": "corki-bombardiro-crocadilo-corgi-smolder-renekto-v1.fantome",
+				"size": 13678387,
+				"sha256": "7b29f2e471915d345def458a9b487c9ea55a27ae8e8636b83d02a7f6fc427d1f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corki-chorki",
+			"name": "Chorki",
+			"champion": 42,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/corki-chorki/thumb.webp?v=5895baeb",
+			"file": {
+				"version": 1,
+				"asset": "corki-chorki-v1.fantome",
+				"size": 434203,
+				"sha256": "9bed5493f3896c15316b171d5b2f5e8d98dd532e6b950c15389a4cb980b6ebff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corki-rek-sai",
+			"name": "Corki Rek'sai",
+			"champion": 421,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/corki-rek-sai/thumb.webp?v=94bb292a",
+			"file": {
+				"version": 1,
+				"asset": "corki-rek-sai-v1.fantome",
+				"size": 195902,
+				"sha256": "648de9195240b90f8c95cdf35023d18ee763c0cb0c24e42306b7a92a85150e8c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corki-without-the-plane",
+			"name": "Corki Without the Plane",
+			"champion": 42,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/corki-without-the-plane/thumb.webp?v=0a49433c",
+			"file": {
+				"version": 1,
+				"asset": "corki-without-the-plane-v1.fantome",
+				"size": 32309,
+				"sha256": "35c8d3d635ef608ecd75815a8af08d1d02cf48a0ed78fe17acc7a4cd16ccccf9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corporate-boss-sett",
+			"name": "Corporate Boss Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/corporate-boss-sett/thumb.webp?v=b118e2f8",
+			"file": {
+				"version": 1,
+				"asset": "corporate-boss-sett-v1.fantome",
+				"size": 21338206,
+				"sha256": "2478bbf868930f608326c79043df6ddd6f8ebea465357f531b35776b8dd007bb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corporate-gragas",
+			"name": "CORPORATE GRAGAS",
+			"champion": 79,
+			"base": 4,
+			"creator": "chammad",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/corporate-gragas/thumb.webp?v=42add69f",
+			"file": {
+				"version": 1,
+				"asset": "corporate-gragas-v1.fantome",
+				"size": 1898080,
+				"sha256": "01e0aa4711162b778f5a41e0d06bb7eb2eb5574a611741ce82981454576fbf97"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corrupted-star-kai-sa",
+			"name": "Corrupted Star Kai'Sa",
+			"champion": 145,
+			"base": 0,
+			"creator": "vector",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/corrupted-star-kai-sa/thumb.webp?v=b6980a2f",
+			"file": {
+				"version": 1,
+				"asset": "corrupted-star-kai-sa-v1.fantome",
+				"size": 2270567,
+				"sha256": "1ab1481ba822a68f22851564d350235823bb9d41918fa00a876576cbd6229d2e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cosmic-princess-kassadin",
+			"name": "Cosmic Princess Kassadin",
+			"champion": 38,
+			"base": 5,
+			"creator": "sofi9",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cosmic-princess-kassadin/thumb.webp?v=d6f2ea06",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-princess-kassadin-v1.fantome",
+				"size": 1823307,
+				"sha256": "97940fc3c60dd3167c99c70754d1a34e6f48ff2130e4d67c76a6570b5cefca99"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cosmic-reaver-kassadin-blackwhite",
+			"name": "Cosmic Reaver Kassadin - BlackWhite",
+			"champion": 38,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cosmic-reaver-kassadin-blackwhite/thumb.webp?v=35c49f78",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-reaver-kassadin-blackwhite-v1.fantome",
+				"size": 3743171,
+				"sha256": "16a7b439b042aff37a3a1397d13b32f438f64ae4e876382b3e05b62dd75f4181"
 			},
 			"chromas": []
 		},

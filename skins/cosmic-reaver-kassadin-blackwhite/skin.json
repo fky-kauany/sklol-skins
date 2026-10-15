@@ -1,0 +1,26 @@
+{
+	"id": "cosmic-reaver-kassadin-blackwhite",
+	"name": "Cosmic Reaver Kassadin - BlackWhite",
+	"champion": 38,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - \r\n\r\n╰┈➤ _The idea for this mod was to Cosmic Reaver Kassadin to have black and white vfx_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/7e338241-408d-4da8-a283-ea7b220a95fd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cosmic-reaver-kassadin-blackwhite/thumb.webp?v=35c49f78",
+	"file": {
+		"version": 1,
+		"asset": "cosmic-reaver-kassadin-blackwhite-v1.fantome",
+		"size": 3743171,
+		"sha256": "16a7b439b042aff37a3a1397d13b32f438f64ae4e876382b3e05b62dd75f4181"
+	},
+	"chromas": []
+}

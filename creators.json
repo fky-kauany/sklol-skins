@@ -269,6 +269,14 @@
 			"youtube": "https://youtu.be/QFxhPpEaYKk"
 		}
 	},
+	"chammad": {
+		"name": "Chammad / G.C.C.",
+		"avatar": "creators/chammad.jpg?v=026e9d9e",
+		"bio": "Chilling and modding, seaching for a good future...\nIN GAMES I TRUST !!\n\n2026 goal: 1+ mod/week",
+		"links": {
+			"x": "https://x.com/chammad_work"
+		}
+	},
 	"charsles": {
 		"name": "Charsles",
 		"avatar": "creators/charsles.jpg?v=615feff2",
@@ -1212,6 +1220,12 @@
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 		}
+	},
+	"vector": {
+		"name": "Vector",
+		"avatar": "creators/vector.png?v=f27c482a",
+		"bio": "# Who am I?\n\nIam Vector and part of the Runeforge Staff team. I also manage the Wiki :3 and do CC occasionally.",
+		"links": {}
 	},
 	"veenox": {
 		"name": "Veenox",

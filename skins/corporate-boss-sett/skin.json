@@ -1,0 +1,26 @@
+{
+	"id": "corporate-boss-sett",
+	"name": "Corporate Boss Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Corporate Boss Sett mod for default Sett skin.\r\n\r\n\r\nPUSH PUSH PUSH PUSH\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/7d7e801d-b8ed-4a45-b82e-4e6bcf656682\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/corporate-boss-sett/thumb.webp?v=b118e2f8",
+	"file": {
+		"version": 1,
+		"asset": "corporate-boss-sett-v1.fantome",
+		"size": 21338206,
+		"sha256": "2478bbf868930f608326c79043df6ddd6f8ebea465357f531b35776b8dd007bb"
+	},
+	"chromas": []
+}

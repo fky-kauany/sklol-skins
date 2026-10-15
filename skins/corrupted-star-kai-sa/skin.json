@@ -1,0 +1,22 @@
+{
+	"id": "corrupted-star-kai-sa",
+	"name": "Corrupted Star Kai'Sa",
+	"champion": 145,
+	"base": 0,
+	"creator": "vector",
+	"description": "***Welcome Star Wanderer!***&#x20;\n***Are you ready to fulfill the purpose of your existence?***\n\n***\n\n***This mod replaces the following:***\n\n\\- Ingame texture\n\n\\- Ultimate and upgrade particle\n\n\n\n# Usage\n\nMake sure you use the **Star Guardian Kai'Sa** skin in order for this to work!\n\n---\n\n**Created by** [Vector](https://runeforge.dev/users/Vector)\n\n**Original:** https://runeforge.dev/mods/ce2042b7-1257-4594-86b4-b4fd58adcf02\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/corrupted-star-kai-sa/thumb.webp?v=b6980a2f",
+	"file": {
+		"version": 1,
+		"asset": "corrupted-star-kai-sa-v1.fantome",
+		"size": 2270567,
+		"sha256": "1ab1481ba822a68f22851564d350235823bb9d41918fa00a876576cbd6229d2e"
+	},
+	"chromas": []
+}

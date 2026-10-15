@@ -1,0 +1,23 @@
+{
+	"id": "cosmic-princess-kassadin",
+	"name": "Cosmic Princess Kassadin",
+	"champion": 38,
+	"base": 5,
+	"creator": "sofi9",
+	"description": "I created this skin for all the princesses like me who play Kassadin, the Cosmic Reaver now features magenta and pink tones, and the colors of the Q, W, E, and R abilities have also been changed to pink effects, making the skin look absolutely diva! slay girls!!\n\n---\n\n**Created by** [Sofi9](https://runeforge.dev/users/Sofi9)\n\n**Original:** https://runeforge.dev/mods/ff8ae936-78bc-45b1-bccf-7789d8c62cb9\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cosmic-princess-kassadin/thumb.webp?v=d6f2ea06",
+	"file": {
+		"version": 1,
+		"asset": "cosmic-princess-kassadin-v1.fantome",
+		"size": 1823307,
+		"sha256": "97940fc3c60dd3167c99c70754d1a34e6f48ff2130e4d67c76a6570b5cefca99"
+	},
+	"chromas": []
+}

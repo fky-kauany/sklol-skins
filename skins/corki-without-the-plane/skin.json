@@ -1,0 +1,22 @@
+{
+	"id": "corki-without-the-plane",
+	"name": "Corki Without the Plane",
+	"champion": 42,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Corki**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/dd58b1df-a90c-4d06-aec1-6a4491f16c8e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/corki-without-the-plane/thumb.webp?v=0a49433c",
+	"file": {
+		"version": 1,
+		"asset": "corki-without-the-plane-v1.fantome",
+		"size": 32309,
+		"sha256": "35c8d3d635ef608ecd75815a8af08d1d02cf48a0ed78fe17acc7a4cd16ccccf9"
+	},
+	"chromas": []
+}

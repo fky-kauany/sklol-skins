@@ -1,0 +1,26 @@
+{
+	"id": "conquest-sett",
+	"name": "Conquest Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Sett\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the Sett skills\n\nstand ready for my arrival worm\n\ndiscord gabrielpicademel123\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/34167d1d-e72c-4129-829e-93f68e5075c8\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/conquest-sett/thumb.webp?v=fe92855f",
+	"file": {
+		"version": 1,
+		"asset": "conquest-sett-v1.fantome",
+		"size": 5984000,
+		"sha256": "37dfc1c9930d7391cf6eb52550209f32ca25f5e2e6b3d03dfdbd6ab67767bdcd"
+	},
+	"chromas": []
+}
