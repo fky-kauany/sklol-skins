@@ -1,0 +1,26 @@
+{
+	"id": "reworked-omega-squad-twitch",
+	"name": "Reworked \"Omega Squad\" Twitch",
+	"champion": 29,
+	"base": 0,
+	"creator": "horizonik",
+	"description": "#### About the mod\r\n- Adds new VFX for the Omega Squad Twitch idle, Q, W, E, R, R Auto-Attack and normal Auto-Attack.\r\n- Changes textures to make the coat white and the rat brown.\r\n- Changes Q invis circle texture to a more minimalistic one\r\n- Recolored loading screen image.\r\n\r\n---\r\n\r\n#### Requirements:\r\n- Twitch Omega Squad skin\n\n---\n\n**Created by** [Horizonik](https://runeforge.dev/users/Horizonik)\n\n**Original:** https://runeforge.dev/mods/9998a88e-f4d5-4d5d-b1c2-078bc271b469\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reworked-omega-squad-twitch/thumb.webp?v=73df652a",
+	"file": {
+		"version": 1,
+		"asset": "reworked-omega-squad-twitch-v1.fantome",
+		"size": 8380816,
+		"sha256": "72b2c57f00b0d6b5e1bc4cce5d8db24ee9a49e31c103667b3e51b4ecaef88a99"
+	},
+	"chromas": []
+}

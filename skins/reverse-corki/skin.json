@@ -1,0 +1,22 @@
+{
+	"id": "reverse-corki",
+	"name": "Reverse Corki",
+	"champion": 42,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Corki**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/f69f0f06-71a3-4be1-97aa-cea8bf6e0152\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reverse-corki/thumb.webp?v=c88ac8b6",
+	"file": {
+		"version": 1,
+		"asset": "reverse-corki-v1.fantome",
+		"size": 61273,
+		"sha256": "27925ef0f914dd8f84ffb8d26719f460823b871b5ca99831528defaabb81c6ab"
+	},
+	"chromas": []
+}

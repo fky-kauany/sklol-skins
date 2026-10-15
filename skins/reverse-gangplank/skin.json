@@ -1,0 +1,24 @@
+{
+	"id": "reverse-gangplank",
+	"name": "Reverse Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "# WHEN SHARING THIS MOD WITH OTHER PEOPLE SEND A LINK TO THIS PAGE RATHER THAN THE MOD FILE DIRECTLY - MODS GET OUTDATED JUST LET ME DO THE UPKEEP FOR YOU IT IS NOT WORTH SAVING ONE (1) CLICK\n\n### Information\n\n**Modified champion:** Gangplank\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n#\n\n### Features\n* Turns Gangplank into a barrel\n* Turns barrels in Gangplanks\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/689719a6-8472-4de2-93f6-b778b7d67ba3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reverse-gangplank/thumb.webp?v=dc834faa",
+	"file": {
+		"version": 1,
+		"asset": "reverse-gangplank-v1.fantome",
+		"size": 800636,
+		"sha256": "629f33125b3f61f705ec1f44d8511387a14b38a476b3bbab27166e357ad97af2"
+	},
+	"chromas": []
+}

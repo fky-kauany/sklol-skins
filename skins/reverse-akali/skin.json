@@ -1,0 +1,23 @@
+{
+	"id": "reverse-akali",
+	"name": "Reverse Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Akali**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Features\n\n* Bowl\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/192d6ca8-611a-4437-b595-02e05566fca2\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reverse-akali/thumb.webp?v=ad86d96d",
+	"file": {
+		"version": 1,
+		"asset": "reverse-akali-v1.fantome",
+		"size": 421067,
+		"sha256": "590b3e369e06d9c9937834c4a05b0643a7ad2295c6cb1db52facf95daf3e7cae"
+	},
+	"chromas": []
+}

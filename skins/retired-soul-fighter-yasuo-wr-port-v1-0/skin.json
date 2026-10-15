@@ -1,0 +1,25 @@
+{
+	"id": "retired-soul-fighter-yasuo-wr-port-v1-0",
+	"name": "(Retired) Soul Fighter Yasuo WR Port V1.0",
+	"champion": 157,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro\n\n##### Version: 1.0.1\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro))\n\n> If you need support you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/5d143204-5998-4583-82ea-380dcfe72df4\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/retired-soul-fighter-yasuo-wr-port-v1-0/thumb.webp?v=6caa0b38",
+	"file": {
+		"version": 1,
+		"asset": "retired-soul-fighter-yasuo-wr-port-v1-0-v1.fantome",
+		"size": 8339151,
+		"sha256": "a684facfe225d21f8d3ed04956f0073bd1a832bad89fd740d0a115d86f66b1cb"
+	},
+	"chromas": []
+}

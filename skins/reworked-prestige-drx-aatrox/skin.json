@@ -1,0 +1,23 @@
+{
+	"id": "reworked-prestige-drx-aatrox",
+	"name": "Reworked Prestige DRX Aatrox",
+	"champion": 266,
+	"base": 31,
+	"creator": "novaweb",
+	"description": "Added some missing details from the splash art design\r\n\r\nYou need to own the skin to use this mod!\n\n---\n\n**Created by** [novaweb](https://runeforge.dev/users/novaweb)\n\n**Original:** https://runeforge.dev/mods/43da050d-3db3-4212-83c9-7e1d4f4f102a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reworked-prestige-drx-aatrox/thumb.webp?v=eb56af01",
+	"file": {
+		"version": 1,
+		"asset": "reworked-prestige-drx-aatrox-v1.fantome",
+		"size": 1394959,
+		"sha256": "ed5d7c0563d23918e206d02dc698b2a633dd20b09326e405731e549aee102931"
+	},
+	"chromas": []
+}

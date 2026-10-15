@@ -1,0 +1,23 @@
+{
+	"id": "reverse-anivia",
+	"name": "Reverse Anivia",
+	"champion": 34,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Anivia**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Modified stuff\n\n* Anivia Model\n* Eggnivia Model\n* Loadingscreen Splash\n* Champion Circle\n* Passive icon\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/213d5e7d-2cb2-4cab-8e96-848d11802bf4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reverse-anivia/thumb.webp?v=0bc61bc3",
+	"file": {
+		"version": 1,
+		"asset": "reverse-anivia-v1.fantome",
+		"size": 272958,
+		"sha256": "9aaf29cce4656eb34cbab5e054a7bdb933467a5a2a168655862359bb55b21980"
+	},
+	"chromas": []
+}
