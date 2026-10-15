@@ -1,0 +1,23 @@
+{
+	"id": "naafiri-beaaveri",
+	"name": "Beaaveri",
+	"champion": 950,
+	"base": 0,
+	"creator": "cam",
+	"description": "Eastern European Alcoholism, Truly art.\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/4536c38c-dea9-4bb5-9903-f2af1d324495\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/naafiri-beaaveri/thumb.webp?v=64d4a149",
+	"file": {
+		"version": 1,
+		"asset": "naafiri-beaaveri-v1.fantome",
+		"size": 4265886,
+		"sha256": "fd827c6a2f1a6f5b9b317e26fd42eab6f884bd499a921540211fca8ff7547fbe"
+	},
+	"chromas": []
+}

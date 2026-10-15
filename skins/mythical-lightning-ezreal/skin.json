@@ -1,0 +1,24 @@
+{
+	"id": "mythical-lightning-ezreal",
+	"name": "Mythical Lightning Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "gehamond",
+	"description": "### Mod Info:\r\n* Champion: Ezreal\r\n* Modified skin: Base skin\r\n* Author: Luna\r\n* Description: Mythical Lightning Ezreal\r\n---\r\n### Features:\r\n* 3D Model\r\n* VFX\r\n* Splashart loading screen from blender preview\n\n---\n\n**Created by** [Luna](https://runeforge.dev/users/Gehamond)\n\n**Original:** https://runeforge.dev/mods/44ad7c08-2047-4fa6-bde8-026f721e65cb\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mythical-lightning-ezreal/thumb.webp?v=d68540ef",
+	"file": {
+		"version": 1,
+		"asset": "mythical-lightning-ezreal-v1.fantome",
+		"size": 4801427,
+		"sha256": "d201c8dcbb614a6ed16344a2d4aa2738dec7eedd76127d3fc0aa8735be1e93f0"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "myrmidon-pantheon",
+	"name": "Myrmidon Pantheon",
+	"champion": 80,
+	"base": 1,
+	"creator": "demart",
+	"description": "Texture improvements for the “Myrmidon Pantheon” skin.\r\nAdded stronger highlights and richer, more saturated colors for the armor and weapons.\r\nThe character’s skin tone has also been adjusted so he no longer appears lifeless.\r\nThe original skin is required — this is not a replacement for the base model, but a modification of the in-game skin.\n\n---\n\n**Created by** [DEMART](https://runeforge.dev/users/DEMART)\n\n**Original:** https://runeforge.dev/mods/03448e14-ad6b-4c28-b47b-3e4ba9dda9ab\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/myrmidon-pantheon/thumb.webp?v=84c478c6",
+	"file": {
+		"version": 1,
+		"asset": "myrmidon-pantheon-v1.fantome",
+		"size": 269277,
+		"sha256": "047ee5ef98e6da0782d9fd105b7ef25e51e95094ff89fa99640053f937220911"
+	},
+	"chromas": []
+}

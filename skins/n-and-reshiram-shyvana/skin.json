@@ -1,0 +1,24 @@
+{
+	"id": "n-and-reshiram-shyvana",
+	"name": "N and Reshiram Shyvana",
+	"champion": 102,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 2 and 3 for different outfits\r\nUse Base Skin\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/b5713aa8-6f40-4f09-8990-bdb333dd3686\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/n-and-reshiram-shyvana/thumb.webp?v=3aa8c7bf",
+	"file": {
+		"version": 1,
+		"asset": "n-and-reshiram-shyvana-v1.fantome",
+		"size": 11511093,
+		"sha256": "5ec9972023083e91867d7b0c005ba72d61367146ea1b6b51837314caaa1885c3"
+	},
+	"chromas": []
+}

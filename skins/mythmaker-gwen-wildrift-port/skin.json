@@ -1,0 +1,25 @@
+{
+	"id": "mythmaker-gwen-wildrift-port",
+	"name": "Mythmaker Gwen Wildrift Port",
+	"champion": 887,
+	"base": 0,
+	"creator": "froggles",
+	"description": "#### MOD INFORMATION\n\n* CHAMPION: Gwen\n* MODIFIED SKIN: Default\n* AUTHOR: Froggles\n* DESCRIPTION: Gwen spent hours cutting intricate patterns and landscapes to serve as the backdrop for the Lunar Players' rendition of \"The Great Beast Galio.\"\n\n#### FEATURES\n\n* New model & textures\n* Supports all champion quality settings\n* Modified particles\n* Modified Loading Splash\n\n---\n\n**Created by** [Froggles](https://runeforge.dev/users/Froggles)\n\n**Original:** https://runeforge.dev/mods/7d00aebf-b5ea-4538-8f98-fb3c8ce471bf\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mythmaker-gwen-wildrift-port/thumb.webp?v=baf4cddf",
+	"file": {
+		"version": 1,
+		"asset": "mythmaker-gwen-wildrift-port-v1.fantome",
+		"size": 7586962,
+		"sha256": "52c60092f54adcfd0c8fa5511ea95e391115b64b58376a8c4190353b31557c57"
+	},
+	"chromas": []
+}

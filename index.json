@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:59:45.417Z",
+	"generatedAt": "2026-10-15T12:02:52.916Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -22697,6 +22697,54 @@
 			"chromas": []
 		},
 		{
+			"id": "mordekaiser-red-chroma",
+			"name": "Mordekaiser Red Chroma",
+			"champion": 82,
+			"base": 4,
+			"creator": "michaelmyers",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-red-chroma/thumb.webp?v=e44529d7",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-red-chroma-v1.fantome",
+				"size": 3634493,
+				"sha256": "b33260ac7f3ccce4720f5dfb39385fcaab2b79f89804081c3c5b61650cd8bbbe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-thorkaiser",
+			"name": "Thorkaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-thorkaiser/thumb.webp?v=8443d26e",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-thorkaiser-v1.fantome",
+				"size": 80140397,
+				"sha256": "076d4ee0e3b93cbf12b607ce94bb9996e905b5cd4ad989a1e1e8ba6e8f7d7bc6"
+			},
+			"chromas": []
+		},
+		{
 			"id": "mugetsu-yone",
 			"name": "Mugetsu Yone",
 			"champion": 777,
@@ -22716,6 +22764,198 @@
 				"asset": "mugetsu-yone-v1.fantome",
 				"size": 1857215,
 				"sha256": "5d84cc7f90462d331252f2eb5bc5756eb798534048d1ccb996a213a7ef994115"
+			},
+			"chromas": []
+		},
+		{
+			"id": "myrmidon-pantheon",
+			"name": "Myrmidon Pantheon",
+			"champion": 80,
+			"base": 1,
+			"creator": "demart",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/myrmidon-pantheon/thumb.webp?v=84c478c6",
+			"file": {
+				"version": 1,
+				"asset": "myrmidon-pantheon-v1.fantome",
+				"size": 269277,
+				"sha256": "047ee5ef98e6da0782d9fd105b7ef25e51e95094ff89fa99640053f937220911"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mythical-lightning-ezreal",
+			"name": "Mythical Lightning Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "gehamond",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mythical-lightning-ezreal/thumb.webp?v=d68540ef",
+			"file": {
+				"version": 1,
+				"asset": "mythical-lightning-ezreal-v1.fantome",
+				"size": 4801427,
+				"sha256": "d201c8dcbb614a6ed16344a2d4aa2738dec7eedd76127d3fc0aa8735be1e93f0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mythmaker-caitlyn-wr-port",
+			"name": "Mythmaker Caitlyn WR Port",
+			"champion": 51,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mythmaker-caitlyn-wr-port/thumb.webp?v=ca082536",
+			"file": {
+				"version": 1,
+				"asset": "mythmaker-caitlyn-wr-port-v1.fantome",
+				"size": 15152111,
+				"sha256": "c5abade7d2473d3a9b4b0b71ac594e3de965baa815f384d7e9c4d33fd634fe89"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mythmaker-camille-wr-port",
+			"name": "Mythmaker Camille WR Port",
+			"champion": 164,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mythmaker-camille-wr-port/thumb.webp?v=41c651d6",
+			"file": {
+				"version": 1,
+				"asset": "mythmaker-camille-wr-port-v1.fantome",
+				"size": 3172431,
+				"sha256": "4417c5d6ffdce529164ac316a43bb07f1e37e1a14e779f16afa8b1a63be41e5c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mythmaker-gwen-wildrift-port",
+			"name": "Mythmaker Gwen Wildrift Port",
+			"champion": 887,
+			"base": 0,
+			"creator": "froggles",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mythmaker-gwen-wildrift-port/thumb.webp?v=baf4cddf",
+			"file": {
+				"version": 1,
+				"asset": "mythmaker-gwen-wildrift-port-v1.fantome",
+				"size": 7586962,
+				"sha256": "52c60092f54adcfd0c8fa5511ea95e391115b64b58376a8c4190353b31557c57"
+			},
+			"chromas": []
+		},
+		{
+			"id": "n-and-reshiram-shyvana",
+			"name": "N and Reshiram Shyvana",
+			"champion": 102,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/n-and-reshiram-shyvana/thumb.webp?v=3aa8c7bf",
+			"file": {
+				"version": 1,
+				"asset": "n-and-reshiram-shyvana-v1.fantome",
+				"size": 11511093,
+				"sha256": "5ec9972023083e91867d7b0c005ba72d61367146ea1b6b51837314caaa1885c3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naafiri-beaaveri",
+			"name": "Beaaveri",
+			"champion": 950,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/naafiri-beaaveri/thumb.webp?v=64d4a149",
+			"file": {
+				"version": 1,
+				"asset": "naafiri-beaaveri-v1.fantome",
+				"size": 4265886,
+				"sha256": "fd827c6a2f1a6f5b9b317e26fd42eab6f884bd499a921540211fca8ff7547fbe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "naafiri-yuumi",
+			"name": "Naafiri Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/naafiri-yuumi/thumb.webp?v=35223a04",
+			"file": {
+				"version": 1,
+				"asset": "naafiri-yuumi-v1.fantome",
+				"size": 912436,
+				"sha256": "44cc8bf1f8f3b126e426b706850e6f845a8c54a896902d0aee437a6ddfecd650"
 			},
 			"chromas": []
 		},

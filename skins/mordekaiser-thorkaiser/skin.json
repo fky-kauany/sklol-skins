@@ -1,0 +1,26 @@
+{
+	"id": "mordekaiser-thorkaiser",
+	"name": "Thorkaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Thorkaiser (Marvel Rivals) mod for Mordekaiser. This mod has custom model, VFX/SFX, VO, Icons and Loading Screen.\r\n\r\n\r\nWarning: This mod has custom VO, you can only use one mod that includes this at a time in order to prevent file conflict, meaning if you want to use another Mordekaiser mod it should not have custom VO too otherwise it would not work.\r\n\r\n\r\nInform me if this mod ever breaks.\r\nDiscord: hyperizz_\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/f8b8ed0f-3cdd-43b2-b3a8-6cebd8806be9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mordekaiser-thorkaiser/thumb.webp?v=8443d26e",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-thorkaiser-v1.fantome",
+		"size": 80140397,
+		"sha256": "076d4ee0e3b93cbf12b607ce94bb9996e905b5cd4ad989a1e1e8ba6e8f7d7bc6"
+	},
+	"chromas": []
+}

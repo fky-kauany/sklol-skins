@@ -1,0 +1,22 @@
+{
+	"id": "mordekaiser-red-chroma",
+	"name": "Mordekaiser Red Chroma",
+	"champion": 82,
+	"base": 4,
+	"creator": "michaelmyers",
+	"description": "**Modified champion: Mordekaiser**\n\n**Modified skin: Default**\n\n**Author: MichaelMyers**\n\n\n\n**Features:**\n\n* Red textures\n* Red particles\n* Modified loading screen\n\n---\n\n**Created by** [MichaelMyers](https://runeforge.dev/users/MichaelMyers)\n\n**Original:** https://runeforge.dev/mods/8c244765-6b3e-4b5d-b275-d59e5c442451\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mordekaiser-red-chroma/thumb.webp?v=e44529d7",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-red-chroma-v1.fantome",
+		"size": 3634493,
+		"sha256": "b33260ac7f3ccce4720f5dfb39385fcaab2b79f89804081c3c5b61650cd8bbbe"
+	},
+	"chromas": []
+}

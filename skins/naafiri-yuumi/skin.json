@@ -1,0 +1,24 @@
+{
+	"id": "naafiri-yuumi",
+	"name": "Naafiri Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Naafiri Yuumi for base\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/bfd2d371-2f2d-41b0-9cc6-4b74a43214cc\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/naafiri-yuumi/thumb.webp?v=35223a04",
+	"file": {
+		"version": 1,
+		"asset": "naafiri-yuumi-v1.fantome",
+		"size": 912436,
+		"sha256": "44cc8bf1f8f3b126e426b706850e6f845a8c54a896902d0aee437a6ddfecd650"
+	},
+	"chromas": []
+}
