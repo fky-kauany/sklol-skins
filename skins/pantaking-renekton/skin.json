@@ -1,0 +1,23 @@
+{
+	"id": "pantaking-renekton",
+	"name": "Pantaking Renekton",
+	"champion": 58,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "* **Champion:** Renekton\n* **Modified Skin:** Default\n* **Author:** PentaKing\n* **Mod Version:** 1.0.0\n* Retexture of Prehistoric skin\n\n## **Features**\n\n***\n\n***\n\n* Custom textures\n* Custom loading screen\n\nThis mod was recovered by Vexrage.\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/4b342cb7-2777-4226-8f06-35c847310c8c\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pantaking-renekton/thumb.webp?v=0987be83",
+	"file": {
+		"version": 1,
+		"asset": "pantaking-renekton-v1.fantome",
+		"size": 567151,
+		"sha256": "17e748a9d5504c1193de443a3198c7b5ea5c6d231c0774a19c8dbdaf339c7214"
+	},
+	"chromas": []
+}

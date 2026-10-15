@@ -1,0 +1,24 @@
+{
+	"id": "onikiri-yone",
+	"name": "Onikiri Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion: Yone\r\n* Modified skin: Default\r\n* Author: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* New voiceover\r\n\r\n## Credits\r\n\r\n* Thanks tarngaina for helping me with the model.\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/0112ab05-56ff-4752-a9cc-218df1aca1a9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/onikiri-yone/thumb.webp?v=b59fa20e",
+	"file": {
+		"version": 1,
+		"asset": "onikiri-yone-v1.fantome",
+		"size": 3867016,
+		"sha256": "4855929830a1db35f85948837ddb5524b4225dfb8e2a9715fbb93f61e157534c"
+	},
+	"chromas": []
+}

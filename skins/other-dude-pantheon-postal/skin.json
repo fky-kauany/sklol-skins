@@ -1,0 +1,24 @@
+{
+	"id": "other-dude-pantheon-postal",
+	"name": "other dude pantheon (postal)",
+	"champion": 80,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"the other side of the coin\"\n\n***\n\n**Modified champion: Pantheon**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game:** Postal Brain damaged\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/150ee580-2207-4bd2-8ad1-dbf21602d189\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/other-dude-pantheon-postal/thumb.webp?v=6ea8427b",
+	"file": {
+		"version": 1,
+		"asset": "other-dude-pantheon-postal-v1.fantome",
+		"size": 1239892,
+		"sha256": "ec3dc26428222126822348f163d0cd59a3dee7a4dfd333defaad3c1fffdb776a"
+	},
+	"chromas": []
+}

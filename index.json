@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:15:37.675Z",
+	"generatedAt": "2026-10-15T12:18:43.361Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -589,6 +589,13 @@
 				"youtube": "https://www.youtube.com/@HectorCalister"
 			}
 		},
+		"flandrespringtrap": {
+			"name": "flandrespringtrap",
+			"avatar": "creators/flandrespringtrap.png?v=3d5510b4",
+			"links": {
+				"youtube": "https://youtu.be/OFFakGpNIUo"
+			}
+		},
 		"foose": {
 			"name": "foose",
 			"avatar": "creators/foose.png?v=6e4daf8e",
@@ -1050,6 +1057,12 @@
 		"mxdjid": {
 			"name": "mxdjid",
 			"avatar": "creators/mxdjid.webp?v=b8c43cbd",
+			"links": {}
+		},
+		"myitraxz": {
+			"name": "Myitraxz",
+			"avatar": "creators/myitraxz.jpg?v=a1ba84f0",
+			"bio": "Samira/Pyke enjoyer",
 			"links": {}
 		},
 		"naa1ml3ss": {
@@ -24081,6 +24094,53 @@
 			"chromas": []
 		},
 		{
+			"id": "one-must-fall-jaguar-sett",
+			"name": "One must fall Jaguar sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/one-must-fall-jaguar-sett/thumb.webp?v=dc7a7408",
+			"file": {
+				"version": 1,
+				"asset": "one-must-fall-jaguar-sett-v1.fantome",
+				"size": 971213,
+				"sha256": "764767dea0a461732e06ba276dd2c79895c4346e4ea6643f7a4fad261b04044a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "onikiri-yone",
+			"name": "Onikiri Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/onikiri-yone/thumb.webp?v=b59fa20e",
+			"file": {
+				"version": 1,
+				"asset": "onikiri-yone-v1.fantome",
+				"size": 3867016,
+				"sha256": "4855929830a1db35f85948837ddb5524b4225dfb8e2a9715fbb93f61e157534c"
+			},
+			"chromas": []
+		},
+		{
 			"id": "orange-primordian-aatrox-requires-primordian-aat",
 			"name": "orange primordian aatrox (requires primordian aatrox)",
 			"champion": 266,
@@ -24100,6 +24160,203 @@
 				"asset": "orange-primordian-aatrox-requires-primordian-aat-v1.fantome",
 				"size": 1864711,
 				"sha256": "bdc330b4afd7e1a6f0da1b89b4739502d63761831e4abfe2945e8e21fff30c6c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "other-dude-pantheon-postal",
+			"name": "other dude pantheon (postal)",
+			"champion": 80,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/other-dude-pantheon-postal/thumb.webp?v=6ea8427b",
+			"file": {
+				"version": 1,
+				"asset": "other-dude-pantheon-postal-v1.fantome",
+				"size": 1239892,
+				"sha256": "ec3dc26428222126822348f163d0cd59a3dee7a4dfd333defaad3c1fffdb776a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pandemonium-ashe",
+			"name": "Pandemonium Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pandemonium-ashe/thumb.webp?v=337ad0ef",
+			"file": {
+				"version": 1,
+				"asset": "pandemonium-ashe-v1.fantome",
+				"size": 11099716,
+				"sha256": "56db58dffd776e62a7d6cc28de96a4caf9427bc4936731c9502a374385e57678"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pantaking-renekton",
+			"name": "Pantaking Renekton",
+			"champion": 58,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pantaking-renekton/thumb.webp?v=0987be83",
+			"file": {
+				"version": 1,
+				"asset": "pantaking-renekton-v1.fantome",
+				"size": 567151,
+				"sha256": "17e748a9d5504c1193de443a3198c7b5ea5c6d231c0774a19c8dbdaf339c7214"
+			},
+			"chromas": []
+		},
+		{
+			"id": "patchouli-knowledge-as-hwei",
+			"name": "Patchouli Knowledge as Hwei",
+			"champion": 910,
+			"base": 0,
+			"creator": "flandrespringtrap",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/patchouli-knowledge-as-hwei/thumb.webp?v=128b2480",
+			"file": {
+				"version": 1,
+				"asset": "patchouli-knowledge-as-hwei-v1.fantome",
+				"size": 11499271,
+				"sha256": "d1f3a25d9044175a6bdf0de6b1e1a51a79c8c023dedc6d4aec49d922126a71d0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "peacemaker-jhin",
+			"name": "Peacemaker jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/peacemaker-jhin/thumb.webp?v=375e9259",
+			"file": {
+				"version": 1,
+				"asset": "peacemaker-jhin-v1.fantome",
+				"size": 7654058,
+				"sha256": "4259ba6b193247fad69f71c8fda0095daaae8e92fc98e4df624344adfee381ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "peach-cosplay-lux",
+			"name": "Peach Cosplay Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/peach-cosplay-lux/thumb.webp?v=51fcf995",
+			"file": {
+				"version": 1,
+				"asset": "peach-cosplay-lux-v1.fantome",
+				"size": 17519907,
+				"sha256": "6e0e5cbd454b4993d17ffd244595b94226ea5a125f6f19769211331ab43bee77"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pearl-soulfighter-samira",
+			"name": "Pearl soulfighter Samira",
+			"champion": 360,
+			"base": 30,
+			"creator": "myitraxz",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pearl-soulfighter-samira/thumb.webp?v=23d928e2",
+			"file": {
+				"version": 1,
+				"asset": "pearl-soulfighter-samira-v1.fantome",
+				"size": 3451264,
+				"sha256": "ab99c6af8e117908d25a38fa2807c91492cb0508f4c33351fda6abbf8b21f209"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pengu-garen",
+			"name": "Pengu Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "aurecueil",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pengu-garen/thumb.webp?v=e86a107e",
+			"file": {
+				"version": 1,
+				"asset": "pengu-garen-v1.fantome",
+				"size": 8001496,
+				"sha256": "0fd5c15ae5d210fdd8c9774c1924e821bebdfa1e03395d5a856dd52425368108"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,25 @@
+{
+	"id": "peacemaker-jhin",
+	"name": "Peacemaker jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Jhin \n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nThis custom changes the effects particles and adds the Peacemaker theme music to Jhin's dance.\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/1669cd69-ff74-4432-83d2-4eb3b48fd83f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/peacemaker-jhin/thumb.webp?v=375e9259",
+	"file": {
+		"version": 1,
+		"asset": "peacemaker-jhin-v1.fantome",
+		"size": 7654058,
+		"sha256": "4259ba6b193247fad69f71c8fda0095daaae8e92fc98e4df624344adfee381ea"
+	},
+	"chromas": []
+}

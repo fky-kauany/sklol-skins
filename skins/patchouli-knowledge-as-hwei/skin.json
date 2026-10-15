@@ -1,0 +1,24 @@
+{
+	"id": "patchouli-knowledge-as-hwei",
+	"name": "Patchouli Knowledge as Hwei",
+	"champion": 910,
+	"base": 0,
+	"creator": "flandrespringtrap",
+	"description": "This mod replaces the default Hwei skin with Patchouli Knowledge from Touhou Project\n\n\n\nCome with custom model and textures, R noise, voice pack, custom spell icons, Loading  screen and Champion icons.\n\n\n\nCredits:\n\nChampion icon: nanohana&#x20;\n\nLoading screen: crossryou\n\nR song:  Stage 3 Boss - ラクトガール ～ 少女密室; peposoft; Luna Nights OST&#x20;\n\nVO: Touhou Lost Word\n\n---\n\n**Created by** [flandrespringtrap](https://runeforge.dev/users/flandrespringtrap)\n\n**Original:** https://runeforge.dev/mods/17a4a79f-89ab-4d05-9256-9c1b1071cdcf\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/patchouli-knowledge-as-hwei/thumb.webp?v=128b2480",
+	"file": {
+		"version": 1,
+		"asset": "patchouli-knowledge-as-hwei-v1.fantome",
+		"size": 11499271,
+		"sha256": "d1f3a25d9044175a6bdf0de6b1e1a51a79c8c023dedc6d4aec49d922126a71d0"
+	},
+	"chromas": []
+}

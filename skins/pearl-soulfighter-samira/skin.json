@@ -1,0 +1,23 @@
+{
+	"id": "pearl-soulfighter-samira",
+	"name": "Pearl soulfighter Samira",
+	"champion": 360,
+	"base": 30,
+	"creator": "myitraxz",
+	"description": "I made this chroma a long time ago, I decided to improve it and make it public because I personally found it pretty cool, contains modified effects and guns, no animations or models.\n\n---\n\n**Created by** [Myitraxz](https://runeforge.dev/users/Myitraxz)\n\n**Original:** https://runeforge.dev/mods/6c13149c-eaf8-44c5-b2b1-47b6e9671e45\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pearl-soulfighter-samira/thumb.webp?v=23d928e2",
+	"file": {
+		"version": 1,
+		"asset": "pearl-soulfighter-samira-v1.fantome",
+		"size": 3451264,
+		"sha256": "ab99c6af8e117908d25a38fa2807c91492cb0508f4c33351fda6abbf8b21f209"
+	},
+	"chromas": []
+}

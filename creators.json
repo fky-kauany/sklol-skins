@@ -586,6 +586,13 @@
 			"youtube": "https://www.youtube.com/@HectorCalister"
 		}
 	},
+	"flandrespringtrap": {
+		"name": "flandrespringtrap",
+		"avatar": "creators/flandrespringtrap.png?v=3d5510b4",
+		"links": {
+			"youtube": "https://youtu.be/OFFakGpNIUo"
+		}
+	},
 	"foose": {
 		"name": "foose",
 		"avatar": "creators/foose.png?v=6e4daf8e",
@@ -1047,6 +1054,12 @@
 	"mxdjid": {
 		"name": "mxdjid",
 		"avatar": "creators/mxdjid.webp?v=b8c43cbd",
+		"links": {}
+	},
+	"myitraxz": {
+		"name": "Myitraxz",
+		"avatar": "creators/myitraxz.jpg?v=a1ba84f0",
+		"bio": "Samira/Pyke enjoyer",
 		"links": {}
 	},
 	"naa1ml3ss": {

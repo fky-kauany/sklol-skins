@@ -1,0 +1,23 @@
+{
+	"id": "one-must-fall-jaguar-sett",
+	"name": "One must fall Jaguar sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Steffan my beloved\"\n\n***\n\n**Modified champion: Sett**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model from the game: One must fall**\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/cfaf0c3a-b40f-418d-90cb-c1573f790ec9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/one-must-fall-jaguar-sett/thumb.webp?v=dc7a7408",
+	"file": {
+		"version": 1,
+		"asset": "one-must-fall-jaguar-sett-v1.fantome",
+		"size": 971213,
+		"sha256": "764767dea0a461732e06ba276dd2c79895c4346e4ea6643f7a4fad261b04044a"
+	},
+	"chromas": []
+}

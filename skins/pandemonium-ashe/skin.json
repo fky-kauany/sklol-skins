@@ -1,0 +1,26 @@
+{
+	"id": "pandemonium-ashe",
+	"name": "Pandemonium Ashe",
+	"champion": 22,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Ashe\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.0\r\n\r\n###### Description: Pandemonium Ashe\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/8222f53a-c5d2-496d-a839-17b60251b971\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pandemonium-ashe/thumb.webp?v=337ad0ef",
+	"file": {
+		"version": 1,
+		"asset": "pandemonium-ashe-v1.fantome",
+		"size": 11099716,
+		"sha256": "56db58dffd776e62a7d6cc28de96a4caf9427bc4936731c9502a374385e57678"
+	},
+	"chromas": []
+}
