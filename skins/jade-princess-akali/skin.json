@@ -1,0 +1,26 @@
+{
+	"id": "jade-princess-akali",
+	"name": "Jade Princess Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Akali\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Jade Princess Akali\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1nffoTOe0V9uLnKuLI41ItpJA5TettnGz?usp=sharing)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/fa47f9f6-cea8-4b1f-995a-871f6825e3b0\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/jade-princess-akali/thumb.webp?v=42d7bcc2",
+	"file": {
+		"version": 1,
+		"asset": "jade-princess-akali-v1.fantome",
+		"size": 26469850,
+		"sha256": "a7a2318001451b2136efeb987741c0ce05a3b57cc4ae6e09e1140f9eb1fbd1d6"
+	},
+	"chromas": []
+}

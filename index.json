@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:46:53.311Z",
+	"generatedAt": "2026-10-15T10:50:10.523Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -16764,6 +16764,30 @@
 			"chromas": []
 		},
 		{
+			"id": "irelia-blitzcrank",
+			"name": "Irelia (Blitzcrank)",
+			"champion": 53,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/irelia-blitzcrank/thumb.webp?v=9d28fc11",
+			"file": {
+				"version": 1,
+				"asset": "irelia-blitzcrank-v1.fantome",
+				"size": 1752780,
+				"sha256": "55ab55f3cddd97c8eab7d93ac42e67df9ef135a625249f84be702cf7df141e4a"
+			},
+			"chromas": []
+		},
+		{
 			"id": "irelia-vasco",
 			"name": "Irelia Vasco",
 			"champion": 39,
@@ -16784,6 +16808,233 @@
 				"asset": "irelia-vasco-v1.fantome",
 				"size": 686854,
 				"sha256": "679109ef06688fd27c1f8aa5cf11060504294a6c5554cf8f5eae13e417f7941f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-without-the-blade-dancer",
+			"name": "Irelia Without the Blade Dancer",
+			"champion": 39,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/irelia-without-the-blade-dancer/thumb.webp?v=8ae57b0c",
+			"file": {
+				"version": 1,
+				"asset": "irelia-without-the-blade-dancer-v1.fantome",
+				"size": 38389,
+				"sha256": "116e2b44ca446c4e5cf0f5ca8d0e3487ac0dce5976e31dae97d86e94ffb0090e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "iridescent-kayle",
+			"name": "Iridescent Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "vector",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/iridescent-kayle/thumb.webp?v=ea2943d3",
+			"file": {
+				"version": 1,
+				"asset": "iridescent-kayle-v1.fantome",
+				"size": 1786028,
+				"sha256": "52c59b3d4990c5a57bdd565b063993eec3946cce43f1cdafa73dbaa01ea2cbc4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "iron-fist-lee-sin",
+			"name": "Iron Fist Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/iron-fist-lee-sin/thumb.webp?v=5f185621",
+			"file": {
+				"version": 1,
+				"asset": "iron-fist-lee-sin-v1.fantome",
+				"size": 5947140,
+				"sha256": "9663168908abb7196219105439145aa7b4d2df45b3fc330c217d6a9da85e98bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "itachi-zed",
+			"name": "Itachi Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/itachi-zed/thumb.webp?v=9336b8e5",
+			"file": {
+				"version": 1,
+				"asset": "itachi-zed-v1.fantome",
+				"size": 136970105,
+				"sha256": "21afb7a40407aae341fa0db7cb11bf3d3dd91122ed33c1e8feb5063c5742e279"
+			},
+			"chromas": []
+		},
+		{
+			"id": "itsuka-kotori-mordekaiser",
+			"name": "Itsuka Kotori Mordekaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/itsuka-kotori-mordekaiser/thumb.webp?v=980d960a",
+			"file": {
+				"version": 1,
+				"asset": "itsuka-kotori-mordekaiser-v1.fantome",
+				"size": 15123111,
+				"sha256": "fb98b280d9c55028b83a598541fd5afaefcbcf119f0a5080a70760d94a80fa8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "izuna-akali-blue-archive",
+			"name": "Izuna Akali (Blue Archive)",
+			"champion": 84,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/izuna-akali-blue-archive/thumb.webp?v=431be8f3",
+			"file": {
+				"version": 1,
+				"asset": "izuna-akali-blue-archive-v1.fantome",
+				"size": 33654358,
+				"sha256": "51ba8caeda4864650fd8fcd5a1eb2c2d96d188638a245cc5ae533a6cab4b9e35"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jade-princess-akali",
+			"name": "Jade Princess Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jade-princess-akali/thumb.webp?v=42d7bcc2",
+			"file": {
+				"version": 1,
+				"asset": "jade-princess-akali-v1.fantome",
+				"size": 26469850,
+				"sha256": "a7a2318001451b2136efeb987741c0ce05a3b57cc4ae6e09e1140f9eb1fbd1d6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jade-princess-katarina",
+			"name": "Jade Princess Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jade-princess-katarina/thumb.webp?v=392735e5",
+			"file": {
+				"version": 1,
+				"asset": "jade-princess-katarina-v1.fantome",
+				"size": 16411094,
+				"sha256": "c433f6a988b7ab1fa9dcdbd5ea71d855da8d491fec5ab637cd8ad29ba7ee6854"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jade-princess-mel",
+			"name": "Jade Princess Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jade-princess-mel/thumb.webp?v=3b2bd027",
+			"file": {
+				"version": 1,
+				"asset": "jade-princess-mel-v1.fantome",
+				"size": 26613895,
+				"sha256": "a16fd8f70a23149252d021f5ae4c69f283263e0c0b2b45abddfc694904f4577d"
 			},
 			"chromas": []
 		},

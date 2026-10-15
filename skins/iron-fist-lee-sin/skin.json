@@ -1,0 +1,24 @@
+{
+	"id": "iron-fist-lee-sin",
+	"name": "Iron Fist Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Iron Fist Lee Sin mod. Replaces the Default skin of Lee Sin.\n- Custom Model & Textures, VFX and icon.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/b1f00e9a-a53e-4622-98f6-740bad647918\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/iron-fist-lee-sin/thumb.webp?v=5f185621",
+	"file": {
+		"version": 1,
+		"asset": "iron-fist-lee-sin-v1.fantome",
+		"size": 5947140,
+		"sha256": "9663168908abb7196219105439145aa7b4d2df45b3fc330c217d6a9da85e98bc"
+	},
+	"chromas": []
+}

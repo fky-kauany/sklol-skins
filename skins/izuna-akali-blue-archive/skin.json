@@ -1,0 +1,27 @@
+{
+	"id": "izuna-akali-blue-archive",
+	"name": "Izuna Akali (Blue Archive)",
+	"champion": 84,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Original Author: NHQ\r\n\r\nupdated by me ofc\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/1e59c100-8f47-4a05-8304-f1337f104433\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/izuna-akali-blue-archive/thumb.webp?v=431be8f3",
+	"file": {
+		"version": 1,
+		"asset": "izuna-akali-blue-archive-v1.fantome",
+		"size": 33654358,
+		"sha256": "51ba8caeda4864650fd8fcd5a1eb2c2d96d188638a245cc5ae533a6cab4b9e35"
+	},
+	"chromas": []
+}

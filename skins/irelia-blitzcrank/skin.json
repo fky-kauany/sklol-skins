@@ -1,0 +1,24 @@
+{
+	"id": "irelia-blitzcrank",
+	"name": "Irelia (Blitzcrank)",
+	"champion": 53,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Blitzcrank**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/773427d7-e957-48cd-8d0e-14c7d88968cd\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/irelia-blitzcrank/thumb.webp?v=9d28fc11",
+	"file": {
+		"version": 1,
+		"asset": "irelia-blitzcrank-v1.fantome",
+		"size": 1752780,
+		"sha256": "55ab55f3cddd97c8eab7d93ac42e67df9ef135a625249f84be702cf7df141e4a"
+	},
+	"chromas": []
+}

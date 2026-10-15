@@ -1,0 +1,27 @@
+{
+	"id": "itsuka-kotori-mordekaiser",
+	"name": "Itsuka Kotori Mordekaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Mordekaiser\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Morde with Kotori from Date A Live\r\n\r\n琴里ちゃんのロリポップぺろぺろしたい。。。ぺろぺろぺろぺろ\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations\r\n* Edited ability sounds\r\n* New voiceover fully replacing Morde’s 100+ lines\r\n\r\n### Credits\r\n* Model from 300 Heroes\r\n* Visual assets from Date A Live anime and LNs, Tsunako artbooks\r\n* Voiceover primarily from Date A Live Spirit Pledge, partially other  DAL collab mobage (Mega Miracle Force, Fantasia Rebuild, Assault Lily  etc)\r\n* Dance emote music from Date A Live character song Melt (On The Border)\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/5a99b276-4c53-426f-8d7d-055e73fbfac8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/itsuka-kotori-mordekaiser/thumb.webp?v=980d960a",
+	"file": {
+		"version": 1,
+		"asset": "itsuka-kotori-mordekaiser-v1.fantome",
+		"size": 15123111,
+		"sha256": "fb98b280d9c55028b83a598541fd5afaefcbcf119f0a5080a70760d94a80fa8b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "irelia-without-the-blade-dancer",
+	"name": "Irelia Without the Blade Dancer",
+	"champion": 39,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Irelia**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/0a30c342-58cf-467d-9eb4-5e96b961506a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/irelia-without-the-blade-dancer/thumb.webp?v=8ae57b0c",
+	"file": {
+		"version": 1,
+		"asset": "irelia-without-the-blade-dancer-v1.fantome",
+		"size": 38389,
+		"sha256": "116e2b44ca446c4e5cf0f5ca8d0e3487ac0dce5976e31dae97d86e94ffb0090e"
+	},
+	"chromas": []
+}
