@@ -1,0 +1,25 @@
+{
+	"id": "btd6-ddt-volibear",
+	"name": "BTD6 DDT Volibear",
+	"champion": 106,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Volibear**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* New animations\n* New loading screen\n* Supports all texture qualities\n\n## Credits\n\nModel from Bloons TD 6 by Ninjakiwi\n\nShoutout [A\\_thing over at The Models Resource](https://www.models-resource.com/submitter/A_Thing/) for ripping the model\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/d72df3fb-a4cd-413c-8351-a8a7f70515fc\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/btd6-ddt-volibear/thumb.webp?v=2533d118",
+	"file": {
+		"version": 1,
+		"asset": "btd6-ddt-volibear-v1.fantome",
+		"size": 2169812,
+		"sha256": "9dd7cfb26f831702551ead605c6f0af65dc8640b566d9342a3eac74a6992c85a"
+	},
+	"chromas": []
+}

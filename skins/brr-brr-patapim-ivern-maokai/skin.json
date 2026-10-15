@@ -1,0 +1,24 @@
+{
+	"id": "brr-brr-patapim-ivern-maokai",
+	"name": "Brr brr patapim Ivern & Maokai",
+	"champion": 427,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Will work on daisy and his voices later\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/6c673ca4-9101-44b1-bb4e-0d2e43e8ad38\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/brr-brr-patapim-ivern-maokai/thumb.webp?v=beee6853",
+	"file": {
+		"version": 1,
+		"asset": "brr-brr-patapim-ivern-maokai-v1.fantome",
+		"size": 24385943,
+		"sha256": "308fda73cefb87fb9dc21393bf34086b2f496e086026631eadc6cea485dc1955"
+	},
+	"chromas": []
+}

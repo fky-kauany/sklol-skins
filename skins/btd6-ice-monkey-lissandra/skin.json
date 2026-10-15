@@ -1,0 +1,23 @@
+{
+	"id": "btd6-ice-monkey-lissandra",
+	"name": "BTD6 Ice Monkey Lissandra",
+	"champion": 127,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "Changes Lissandra to the Ice Monkey from Bloons TD 6\n\n## Information\n\n**Modified champion: Lissandra**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* New loading screen\n* Supports all texture qualities\n\n## Credits\n\nModel from Bloons TD 6 by Ninjakiwi\n\nShoutout [A\\_thing over at The Models Resource](https://www.models-resource.com/submitter/A_Thing/) for ripping the model\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/669fb36f-3239-4b91-9679-bd64e4b50303\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/btd6-ice-monkey-lissandra/thumb.webp?v=2438b1eb",
+	"file": {
+		"version": 1,
+		"asset": "btd6-ice-monkey-lissandra-v1.fantome",
+		"size": 945985,
+		"sha256": "5226b65368765538953c41048fd533453bf0bc260817fd72b1cbedfe615f90f4"
+	},
+	"chromas": []
+}

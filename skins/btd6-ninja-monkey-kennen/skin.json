@@ -1,0 +1,24 @@
+{
+	"id": "btd6-ninja-monkey-kennen",
+	"name": "BTD6 Ninja Monkey Kennen",
+	"champion": 85,
+	"base": 23,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Kennen**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* New loading screen\n* Supports all texture qualities\n\n## Credits\n\nModel from Bloons TD 6 by Ninjakiwi\n\nShoutout [A\\_thing over at The Models Resource](https://www.models-resource.com/submitter/A_Thing/) for ripping the model\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/3e265293-6ad5-4ee0-bb8b-3ef233ce4cd6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/btd6-ninja-monkey-kennen/thumb.webp?v=66174a8f",
+	"file": {
+		"version": 1,
+		"asset": "btd6-ninja-monkey-kennen-v1.fantome",
+		"size": 530336,
+		"sha256": "4c01ba36af949e12cabe454d93653ddca80875c67a46c26eb5384ce9eb19166d"
+	},
+	"chromas": []
+}

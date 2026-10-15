@@ -1,0 +1,23 @@
+{
+	"id": "burger-king-viego",
+	"name": "Burger King Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "annown",
+	"description": "### Mod Information-\n* Champion: Viego\n* Modified Skin: Default\n* Author: Annown\n* Mod Version: 1.1.4\n* Model from \"Sneak King\"\n\n### Features-\n* New Model and Texture\n* Supports all Quality settings\n* New Loading Screen\n\nJoin my [Discord](https://discord.com/invite/js3CDHe4tD \"Discord\") if any of my skins are out of order.\n\n---\n\n**Created by** [Annown](https://runeforge.dev/users/Annown)\n\n**Original:** https://runeforge.dev/mods/2186b9e8-6e69-4548-9bbc-bbf6024d5dbd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/burger-king-viego/thumb.webp?v=8e242f7f",
+	"file": {
+		"version": 1,
+		"asset": "burger-king-viego-v1.fantome",
+		"size": 525102,
+		"sha256": "1c174e812bd719042cd5970c520567b9ef50ac9151702df8bd228daccc364553"
+	},
+	"chromas": []
+}

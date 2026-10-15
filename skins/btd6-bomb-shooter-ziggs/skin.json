@@ -1,0 +1,23 @@
+{
+	"id": "btd6-bomb-shooter-ziggs",
+	"name": "BTD6 Bomb Shooter Ziggs",
+	"champion": 115,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Ziggs**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* New loading screen\n* Supports all texture qualities\n\n## Credits\n\nModel from Bloons TD 6 by Ninjakiwi\n\nShoutout [A\\_thing over at The Models Resource](https://www.models-resource.com/submitter/A_Thing/) for ripping the model\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/1e9cba12-7029-4e2a-baf8-fda29185c738\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/btd6-bomb-shooter-ziggs/thumb.webp?v=57ce45e1",
+	"file": {
+		"version": 1,
+		"asset": "btd6-bomb-shooter-ziggs-v1.fantome",
+		"size": 58705,
+		"sha256": "838ee55311dc37eb2e15ff406943e5d663d4d1b0b529b9cd5d3529da51542d6e"
+	},
+	"chromas": []
+}

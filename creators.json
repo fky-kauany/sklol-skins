@@ -66,6 +66,15 @@
 			"youtube": "https://www.youtube.com/watch?v=w6sodP3NYZM"
 		}
 	},
+	"annown": {
+		"name": "Annown",
+		"avatar": "creators/annown.png?v=577b112b",
+		"bio": "I try to maintain my skins when I can, but I no longer create new ones.",
+		"links": {
+			"discord": "https://discord.com/invite/js3CDHe4tD",
+			"youtube": "https://www.youtube.com/watch?v=ICtYJu_Reg8"
+		}
+	},
 	"antton": {
 		"name": "Antton",
 		"avatar": "creators/antton.webp?v=e22a3138",

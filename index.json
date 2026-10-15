@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:18:52.799Z",
+	"generatedAt": "2026-10-15T08:22:03.688Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -67,6 +67,15 @@
 			"avatar": "creators/angelzr.jpg?v=7ee269e3",
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=w6sodP3NYZM"
+			}
+		},
+		"annown": {
+			"name": "Annown",
+			"avatar": "creators/annown.png?v=577b112b",
+			"bio": "I try to maintain my skins when I can, but I no longer create new ones.",
+			"links": {
+				"discord": "https://discord.com/invite/js3CDHe4tD",
+				"youtube": "https://www.youtube.com/watch?v=ICtYJu_Reg8"
 			}
 		},
 		"antton": {
@@ -4498,6 +4507,245 @@
 				"asset": "brigitte-leona-v1.fantome",
 				"size": 8811296,
 				"sha256": "907826bffd713ce2dc507e078714b04670a5710263677e3537066ccb683b015f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "brr-brr-patapim-ivern-maokai",
+			"name": "Brr brr patapim Ivern & Maokai",
+			"champion": 427,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/brr-brr-patapim-ivern-maokai/thumb.webp?v=beee6853",
+			"file": {
+				"version": 1,
+				"asset": "brr-brr-patapim-ivern-maokai-v1.fantome",
+				"size": 24385943,
+				"sha256": "308fda73cefb87fb9dc21393bf34086b2f496e086026631eadc6cea485dc1955"
+			},
+			"chromas": []
+		},
+		{
+			"id": "btd6-bomb-shooter-ziggs",
+			"name": "BTD6 Bomb Shooter Ziggs",
+			"champion": 115,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/btd6-bomb-shooter-ziggs/thumb.webp?v=57ce45e1",
+			"file": {
+				"version": 1,
+				"asset": "btd6-bomb-shooter-ziggs-v1.fantome",
+				"size": 58705,
+				"sha256": "838ee55311dc37eb2e15ff406943e5d663d4d1b0b529b9cd5d3529da51542d6e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "btd6-ddt-volibear",
+			"name": "BTD6 DDT Volibear",
+			"champion": 106,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/btd6-ddt-volibear/thumb.webp?v=2533d118",
+			"file": {
+				"version": 1,
+				"asset": "btd6-ddt-volibear-v1.fantome",
+				"size": 2169812,
+				"sha256": "9dd7cfb26f831702551ead605c6f0af65dc8640b566d9342a3eac74a6992c85a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "btd6-ice-monkey-lissandra",
+			"name": "BTD6 Ice Monkey Lissandra",
+			"champion": 127,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/btd6-ice-monkey-lissandra/thumb.webp?v=2438b1eb",
+			"file": {
+				"version": 1,
+				"asset": "btd6-ice-monkey-lissandra-v1.fantome",
+				"size": 945985,
+				"sha256": "5226b65368765538953c41048fd533453bf0bc260817fd72b1cbedfe615f90f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "btd6-mermonkey-nami",
+			"name": "BTD6 Mermonkey Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/btd6-mermonkey-nami/thumb.webp?v=13a0055f",
+			"file": {
+				"version": 1,
+				"asset": "btd6-mermonkey-nami-v1.fantome",
+				"size": 169200,
+				"sha256": "c0301cabad770997ffd10b241a8a0fb3526516ce9599b8fad3deac5381378b15"
+			},
+			"chromas": []
+		},
+		{
+			"id": "btd6-ninja-monkey-kennen",
+			"name": "BTD6 Ninja Monkey Kennen",
+			"champion": 85,
+			"base": 23,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/btd6-ninja-monkey-kennen/thumb.webp?v=66174a8f",
+			"file": {
+				"version": 1,
+				"asset": "btd6-ninja-monkey-kennen-v1.fantome",
+				"size": 530336,
+				"sha256": "4c01ba36af949e12cabe454d93653ddca80875c67a46c26eb5384ce9eb19166d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "btd6-zomg-gragas",
+			"name": "BTD6 ZOMG Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/btd6-zomg-gragas/thumb.webp?v=d8f6b1b6",
+			"file": {
+				"version": 1,
+				"asset": "btd6-zomg-gragas-v1.fantome",
+				"size": 176474,
+				"sha256": "6cb102e9fa37d33b754e8e9d4901f4512b7eec591084c9f7a5eae3983d361b93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "buckshot-roulette-the-dealer-graves",
+			"name": "Buckshot Roulette the dealer graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/buckshot-roulette-the-dealer-graves/thumb.webp?v=a19a529b",
+			"file": {
+				"version": 1,
+				"asset": "buckshot-roulette-the-dealer-graves-v1.fantome",
+				"size": 632227,
+				"sha256": "1e60bef1b8c90c04317d93b78dbaacaa9d6747e0fe0ccf6b64cf742c1e588ada"
+			},
+			"chromas": []
+		},
+		{
+			"id": "burger-king-viego",
+			"name": "Burger King Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "annown",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/burger-king-viego/thumb.webp?v=8e242f7f",
+			"file": {
+				"version": 1,
+				"asset": "burger-king-viego-v1.fantome",
+				"size": 525102,
+				"sha256": "1c174e812bd719042cd5970c520567b9ef50ac9151702df8bd228daccc364553"
+			},
+			"chromas": []
+		},
+		{
+			"id": "byakuya-yasuo",
+			"name": "Byakuya Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/byakuya-yasuo/thumb.webp?v=59d2050b",
+			"file": {
+				"version": 1,
+				"asset": "byakuya-yasuo-v1.fantome",
+				"size": 115868316,
+				"sha256": "ae117e9bc0b5d9616f65e8723e94cca8fa2e1af213cdcd392457a06013708824"
 			},
 			"chromas": []
 		},
