@@ -1,0 +1,23 @@
+{
+	"id": "pool-party-ahri",
+	"name": "Pool Party Ahri",
+	"champion": 103,
+	"base": 88,
+	"creator": "agomsmoga",
+	"description": "#\n\n### Overview\n\nSkins Modified:\n\n- Spirit Blossom Springs **(ALL CHROMAS + BASE)**\n- After Hours Version\n\n### Mod Information:\n\n- Author: Moga\n- Mod Version: 15.15.1.0\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/b6d8931d-d094-4cfd-b066-3b4926fcdf66\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-ahri/thumb.webp?v=8743ae46",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-ahri-v1.fantome",
+		"size": 13230150,
+		"sha256": "3bfc3f1c702237138b46d9e15681db6d9c0572984bf1b329bfdf494fdfbbf58b"
+	},
+	"chromas": []
+}

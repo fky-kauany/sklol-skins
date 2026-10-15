@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-cassiopeia",
+	"name": "Pool Party Cassiopeia",
+	"champion": 69,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Cassiopeia\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Pool Party Cassiopeia\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1RVjSIWjCrRakO1dThn8zaxqlPzj1oVkR?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/46652dc7-e363-459e-bbe2-c5f609f89813\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-cassiopeia/thumb.webp?v=58c0e25c",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-cassiopeia-v1.fantome",
+		"size": 20006647,
+		"sha256": "65876a41d20e2091b2dfc0335450d22d87278ed192125c363726c79cd0b32c72"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-viego",
+	"name": "Pool Party Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Viego\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Pool Party Viego\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1p83NSFJMTS9LJu0lMb_kM0KaRsYTsVAv?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/19867573-66f8-4fe9-b6c4-d418360067c7\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-viego/thumb.webp?v=49b70898",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-viego-v1.fantome",
+		"size": 18424410,
+		"sha256": "4af986d9130b2e9e947d56069fb60cc9a0a41de491a363d97bbfc2f4b9727ab0"
+	},
+	"chromas": []
+}

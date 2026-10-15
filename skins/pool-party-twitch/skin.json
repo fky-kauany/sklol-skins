@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-twitch",
+	"name": "Pool Party Twitch",
+	"champion": 29,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/1967878545214148995?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Twitch\r\n* Skin: Pool Party/Default\r\n* Description: Twitch Pool Party ASU/VGU [w/e?]\r\n\r\n# Features\r\n\r\n* Custom Sounds on Autos\r\n* Custom VFX on W\r\n* Weapon changed to watergun\r\n \r\n# ![](https://i.imgur.com/lVOobll.png)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/2bdd01d2-a36b-4c3b-84a2-262fdd1c1e1f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-twitch/thumb.webp?v=0d2a7ddc",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-twitch-v1.fantome",
+		"size": 57879922,
+		"sha256": "7f764291bfbda98d88cfbd021a12aec415d158e321386a7650bd567773d55ea1"
+	},
+	"chromas": []
+}

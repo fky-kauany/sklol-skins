@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-lux",
+	"name": "Pool Party Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Lux\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Pool Party Lux\n\n## [Download Chromas here](https://drive.google.com/drive/folders/166xl0s6R7j1pHJlX2nHVZEs3U5Fq_KKZ?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/1d266bca-ce37-4bd5-87db-acd358ef6cf7\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-lux/thumb.webp?v=3c22b621",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-lux-v1.fantome",
+		"size": 23769750,
+		"sha256": "3889d8b6b217bae80287a790088ce5a0796e17ca28b77f0c2cd2fe5873d727cc"
+	},
+	"chromas": []
+}

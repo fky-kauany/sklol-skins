@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:25:04.889Z",
+	"generatedAt": "2026-10-15T12:28:19.726Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -24875,6 +24875,263 @@
 				"asset": "polly-pocket-lux-v1.fantome",
 				"size": 27324684,
 				"sha256": "32eea8b25e2db89333c5b0c8fa071b4e8270c8dc949b9f4a83adc5c762d13058"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-ahri",
+			"name": "Pool Party Ahri",
+			"champion": 103,
+			"base": 88,
+			"creator": "agomsmoga",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-ahri/thumb.webp?v=8743ae46",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-ahri-v1.fantome",
+				"size": 13230150,
+				"sha256": "3bfc3f1c702237138b46d9e15681db6d9c0572984bf1b329bfdf494fdfbbf58b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-amumu",
+			"name": "Pool Party Amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-amumu/thumb.webp?v=62adb779",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-amumu-v1.fantome",
+				"size": 37267606,
+				"sha256": "4659b5432f73f14926efaf3ebffe01b7dc592eb051468169571ce397fe1b5202"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-cassiopeia",
+			"name": "Pool Party Cassiopeia",
+			"champion": 69,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-cassiopeia/thumb.webp?v=58c0e25c",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-cassiopeia-v1.fantome",
+				"size": 20006647,
+				"sha256": "65876a41d20e2091b2dfc0335450d22d87278ed192125c363726c79cd0b32c72"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-gwen",
+			"name": "Pool Party Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-gwen/thumb.webp?v=fdb8077c",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-gwen-v1.fantome",
+				"size": 21752909,
+				"sha256": "3e6144dc2e13d1c2d1e0200136ba5377e9682b4b5eba5f3f9660ce8fbe57d806"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-katarina",
+			"name": "Pool Party Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-katarina/thumb.webp?v=e3433184",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-katarina-v1.fantome",
+				"size": 12980869,
+				"sha256": "e1cc723a55ac9287b488f339e50ca87819ef8218f94ba378f4a6e6851f8ce6b6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-lucian",
+			"name": "Pool Party Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-lucian/thumb.webp?v=ee21a0fb",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-lucian-v1.fantome",
+				"size": 13136312,
+				"sha256": "786814ca7b81653349a3f0b34e317679ff65139220a8277110ebe1e3715e0565"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-lux",
+			"name": "Pool Party Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-lux/thumb.webp?v=3c22b621",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-lux-v1.fantome",
+				"size": 23769750,
+				"sha256": "3889d8b6b217bae80287a790088ce5a0796e17ca28b77f0c2cd2fe5873d727cc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-nami",
+			"name": "Pool Party Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-nami/thumb.webp?v=e8427b31",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-nami-v1.fantome",
+				"size": 19118859,
+				"sha256": "f0eb03553dab8f8e33cf4520a446b7a89cd8d5ef04f6e6451d509e008a7e7a1e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-twitch",
+			"name": "Pool Party Twitch",
+			"champion": 29,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-twitch/thumb.webp?v=0d2a7ddc",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-twitch-v1.fantome",
+				"size": 57879922,
+				"sha256": "7f764291bfbda98d88cfbd021a12aec415d158e321386a7650bd567773d55ea1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "pool-party-viego",
+			"name": "Pool Party Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/pool-party-viego/thumb.webp?v=49b70898",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-viego-v1.fantome",
+				"size": 18424410,
+				"sha256": "4af986d9130b2e9e947d56069fb60cc9a0a41de491a363d97bbfc2f4b9727ab0"
 			},
 			"chromas": []
 		},

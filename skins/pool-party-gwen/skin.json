@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-gwen",
+	"name": "Pool Party Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Gwen\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Pool Party Gwen\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1tjMprGzSifE3fj_kOn7P2DnDOXin_L7I?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/4d62eb4c-3ed4-472d-8a8d-bdba11940ed6\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-gwen/thumb.webp?v=fdb8077c",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-gwen-v1.fantome",
+		"size": 21752909,
+		"sha256": "3e6144dc2e13d1c2d1e0200136ba5377e9682b4b5eba5f3f9660ce8fbe57d806"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-katarina",
+	"name": "Pool Party Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Katarina\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Pool Party Katarina\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1VC469uD6USXR8pShDZwLm8caGjbbCtvh?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/39190366-db52-4f72-9804-0d0c4fc251ce\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-katarina/thumb.webp?v=e3433184",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-katarina-v1.fantome",
+		"size": 12980869,
+		"sha256": "e1cc723a55ac9287b488f339e50ca87819ef8218f94ba378f4a6e6851f8ce6b6"
+	},
+	"chromas": []
+}

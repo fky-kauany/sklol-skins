@@ -1,0 +1,26 @@
+{
+	"id": "pool-party-lucian",
+	"name": "Pool Party Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Lucian\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Pool Party Lucian\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1uGVOFCQ86OuE5raeOLCE-84lBiT_j56G?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/0afec4a2-15bf-4c01-b1a0-982f34eb2fa3\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/pool-party-lucian/thumb.webp?v=ee21a0fb",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-lucian-v1.fantome",
+		"size": 13136312,
+		"sha256": "786814ca7b81653349a3f0b34e317679ff65139220a8277110ebe1e3715e0565"
+	},
+	"chromas": []
+}
