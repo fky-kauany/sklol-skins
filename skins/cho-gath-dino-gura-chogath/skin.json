@@ -1,0 +1,24 @@
+{
+	"id": "cho-gath-dino-gura-chogath",
+	"name": "Dino Gura ChoGath",
+	"champion": 31,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for Kingshound\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n* Champion: Cho'Gath\n* Modified skin: Default\n* Author: Kingshound\n* Skin Version: 1.0\n* Model and Loading screen pic done by @seafoamboy\n* Updated for Patch 25.9\n\n### Specifications\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loading screen\n* Edited Ability sounds\n* New Voiceover\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/da127964-ecf9-49c6-b11a-93e1f4aef3de\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cho-gath-dino-gura-chogath/thumb.webp?v=265d0916",
+	"file": {
+		"version": 1,
+		"asset": "cho-gath-dino-gura-chogath-v1.fantome",
+		"size": 4521367,
+		"sha256": "1e6a56ae79dcc58cd70d145d9e307c15fe5eb0c0fac171407d3f16c5e6388661"
+	},
+	"chromas": []
+}

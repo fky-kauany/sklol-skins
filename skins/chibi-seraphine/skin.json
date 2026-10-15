@@ -1,0 +1,26 @@
+{
+	"id": "chibi-seraphine",
+	"name": "Chibi Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "alexd",
+	"description": "Hello, I hope you like it, I made this for a friend who asked me for it, I dedicate it to her\n\n### Mod information\n\n***\n\n* Champion: Seraphine\n* Modified skin: Base (maybe also the KDA sometime)\n* Author: AleXD\n* Skin Version: 1.0.4\n* Updated for Patch 25.14\n\n### Specifications\n\n***\n\n* New model\n* New animations\n* Modified loadingscreen\n\n### Credits\n\n***\n\n* All assets from Riot Games TFT\n\n---\n\n**Created by** [AleXD](https://runeforge.dev/users/AleXD)\n\n**Original:** https://runeforge.dev/mods/d632392d-7cc2-4f22-a08f-8ce112ac06c9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chibi-seraphine/thumb.webp?v=b7c1d0db",
+	"file": {
+		"version": 1,
+		"asset": "chibi-seraphine-v1.fantome",
+		"size": 6767598,
+		"sha256": "f3453739568182b43cb0bbf5d161409b44d1abecd5f3562c4d209d7fc44e245a"
+	},
+	"chromas": []
+}

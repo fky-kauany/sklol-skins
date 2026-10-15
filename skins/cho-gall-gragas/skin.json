@@ -1,0 +1,24 @@
+{
+	"id": "cho-gall-gragas",
+	"name": "Cho'gall Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "Cho'gall from World of Warcraft and Heroes of the Storm for default Gragas!\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/3fef5832-3d87-46ab-8b01-726e2e3f528e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cho-gall-gragas/thumb.webp?v=bfc8afc7",
+	"file": {
+		"version": 1,
+		"asset": "cho-gall-gragas-v1.fantome",
+		"size": 1614202,
+		"sha256": "ddce8d698e62e840775904c7bfc286c481c8b747a168851274af2781a4849b86"
+	},
+	"chromas": []
+}

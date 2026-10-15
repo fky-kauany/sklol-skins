@@ -1,0 +1,23 @@
+{
+	"id": "chen-lu-butterfly-lovers-zeri",
+	"name": "Chen Lu Butterfly Lovers Zeri",
+	"champion": 221,
+	"base": 40,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/ae4e9cc0-3c9a-4c86-a37b-a49007b9faac\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chen-lu-butterfly-lovers-zeri/thumb.webp?v=746a271a",
+	"file": {
+		"version": 1,
+		"asset": "chen-lu-butterfly-lovers-zeri-v1.fantome",
+		"size": 4101664,
+		"sha256": "9558305ad08a20f549df28a3b437a669082fbd7d6eb00fe1aa373ca9be78fa88"
+	},
+	"chromas": []
+}

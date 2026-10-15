@@ -1,0 +1,25 @@
+{
+	"id": "chibi-akali-from-tft",
+	"name": "Chibi Akali from TFT",
+	"champion": 84,
+	"base": 0,
+	"creator": "davex",
+	"description": "# Akali Chibi From TFT:\n\n***\n\n> 🐱‍👤 A tiny shrouded assassin direct from TFT. 🐱‍👤\n\n* Champion: Akali\n* Skin: Base Skin\n* Character Quality: All\n\n## Features:\n\n***\n\n* New Custom Model\n* New Custom Weapon\n* New VFX\n* New Loading Screen\n* New Champion Icons\n\n***If you find any bug please ping me in the discord server or dm me: davex45a.***\n\n## Credits:\n\n***\n\n* Thanks to Intrina for commissioning this skin and sharing it with everyone :D\n* All the assets from Riot Games\n\n---\n\n**Created by** [davex](https://runeforge.dev/users/davex)\n\n**Original:** https://runeforge.dev/mods/a5af821d-db3d-4e62-8db9-6e016b854aba\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chibi-akali-from-tft/thumb.webp?v=247b5228",
+	"file": {
+		"version": 1,
+		"asset": "chibi-akali-from-tft-v1.fantome",
+		"size": 14258484,
+		"sha256": "e3623690082913796c9af9f9198e0d61c4891e7bb501b478f34bc9f6e6c84962"
+	},
+	"chromas": []
+}

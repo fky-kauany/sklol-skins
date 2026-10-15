@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:28:23.710Z",
+	"generatedAt": "2026-10-15T08:31:28.582Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -46,6 +46,14 @@
 			"links": {
 				"discord": "https://discord.gg/HEjuFmbm6g",
 				"site": "https://runeforge.dev/users/Moga"
+			}
+		},
+		"alexd": {
+			"name": "AleXD",
+			"avatar": "creators/alexd.jpg?v=cd8250dd",
+			"bio": "Silly creator, I make commissions and suggestions, I am also a helper and part of the recovery team\nIf you wanna donate or commission\nhttps://ko-fi.com/alexd27156",
+			"links": {
+				"youtube": "https://youtu.be/DsDvUmIJI60"
 			}
 		},
 		"alexrogin123": {
@@ -564,6 +572,10 @@
 				"youtube": "https://www.youtube.com/@hatssstore"
 			}
 		},
+		"hendrix21": {
+			"name": "hendrix21",
+			"links": {}
+		},
 		"hyperios": {
 			"name": "HYPERIOS",
 			"avatar": "creators/hyperios.jpg?v=e505628c",
@@ -878,6 +890,18 @@
 			"name": "oyashxro",
 			"links": {}
 		},
+		"p1mek": {
+			"name": "p1mek",
+			"bio": "# discord.gg/hexrtbrxenchromas",
+			"links": {
+				"discord": "https://discord.gg/hexrtbrxenchromas",
+				"kofi": "https://ko-fi.com/pimek",
+				"site": "https://www.paypal.com/paypalme/p1mek",
+				"tiktok": "https://www.tiktok.com/@p1mek",
+				"twitch": "https://twitch.tv/pimek532",
+				"x": "https://twitter.com/p1mek"
+			}
+		},
 		"percyyw": {
 			"name": "Percyyw",
 			"bio": "just a newbie learning how to make custom skins",
@@ -928,6 +952,14 @@
 			"bio": "NEW TO MODDING\n\n• Never coded in my life\n• Never used ANY modding softwares ever\n• Learning is slow, doing my best zz\n\nGot a few ideas but no skill to make them yet :D\n\nWE WILL IMPROVE",
 			"links": {
 				"youtube": "https://www.youtube.com/@stalos3094"
+			}
+		},
+		"retardead": {
+			"name": "retardead",
+			"avatar": "creators/retardead.png?v=6aa171a2",
+			"bio": "## Hi\n\nUm... if u got something to say for whateva reason here's my discodo\n\n@r3t4rd34d_",
+			"links": {
+				"site": "https://www.deviantart.com/looneax/"
 			}
 		},
 		"revvn": {
@@ -5255,6 +5287,255 @@
 				"asset": "chaos-king-gragas-v1.fantome",
 				"size": 8702149,
 				"sha256": "6c38d290530ce59c4f4db8865cf3d2ed1e770ecce5d5e95620679150d5af9b3b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chara-undertale-rengar",
+			"name": "CHARA UNDERTALE - Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "retardead",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chara-undertale-rengar/thumb.webp?v=569a9155",
+			"file": {
+				"version": 1,
+				"asset": "chara-undertale-rengar-v1.fantome",
+				"size": 13473105,
+				"sha256": "d74a0fc1821ebc6041809c01bdff4d0a4b45e089933056fe15fdc08d7097ff6c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chen-lu-butterfly-lovers-zeri",
+			"name": "Chen Lu Butterfly Lovers Zeri",
+			"champion": 221,
+			"base": 40,
+			"creator": "wastedwaffle",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chen-lu-butterfly-lovers-zeri/thumb.webp?v=746a271a",
+			"file": {
+				"version": 1,
+				"asset": "chen-lu-butterfly-lovers-zeri-v1.fantome",
+				"size": 4101664,
+				"sha256": "9558305ad08a20f549df28a3b437a669082fbd7d6eb00fe1aa373ca9be78fa88"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-akali-from-tft",
+			"name": "Chibi Akali from TFT",
+			"champion": 84,
+			"base": 0,
+			"creator": "davex",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chibi-akali-from-tft/thumb.webp?v=247b5228",
+			"file": {
+				"version": 1,
+				"asset": "chibi-akali-from-tft-v1.fantome",
+				"size": 14258484,
+				"sha256": "e3623690082913796c9af9f9198e0d61c4891e7bb501b478f34bc9f6e6c84962"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-kayle",
+			"name": "Chibi Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chibi-kayle/thumb.webp?v=2907c5b0",
+			"file": {
+				"version": 1,
+				"asset": "chibi-kayle-v1.fantome",
+				"size": 9764298,
+				"sha256": "7705bdc24fc361e87cdeda6a036656805453f05fe8a95146552218ae117e937a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-seraphine",
+			"name": "Chibi Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "alexd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chibi-seraphine/thumb.webp?v=b7c1d0db",
+			"file": {
+				"version": 1,
+				"asset": "chibi-seraphine-v1.fantome",
+				"size": 6767598,
+				"sha256": "f3453739568182b43cb0bbf5d161409b44d1abecd5f3562c4d209d7fc44e245a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-star-guardian-lulu-as-lulu",
+			"name": "Chibi Star Guardian Lulu as Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chibi-star-guardian-lulu-as-lulu/thumb.webp?v=af8675d1",
+			"file": {
+				"version": 1,
+				"asset": "chibi-star-guardian-lulu-as-lulu-v1.fantome",
+				"size": 6954745,
+				"sha256": "3f5a9ddf3eedecba18a69a9de5af918a18e453d5047ad91776656beeb16223cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chibi-yunara",
+			"name": "Chibi Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chibi-yunara/thumb.webp?v=44f47183",
+			"file": {
+				"version": 1,
+				"asset": "chibi-yunara-v1.fantome",
+				"size": 10333010,
+				"sha256": "49ad62142799a8f4c9a8383616cc7c8b7a14b0b0494884d53160c10a36dcd775"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chimpanzini-bananini-wukong",
+			"name": "Chimpanzini bananini Wukong",
+			"champion": 62,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chimpanzini-bananini-wukong/thumb.webp?v=8357806c",
+			"file": {
+				"version": 1,
+				"asset": "chimpanzini-bananini-wukong-v1.fantome",
+				"size": 1586140,
+				"sha256": "e11533367a0224a75cd5c2056d5c71edb9ec721a4e9e113f95ca3dbe88fcf936"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cho-gall-gragas",
+			"name": "Cho'gall Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cho-gall-gragas/thumb.webp?v=bfc8afc7",
+			"file": {
+				"version": 1,
+				"asset": "cho-gall-gragas-v1.fantome",
+				"size": 1614202,
+				"sha256": "ddce8d698e62e840775904c7bfc286c481c8b747a168851274af2781a4849b86"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cho-gath-dino-gura-chogath",
+			"name": "Dino Gura ChoGath",
+			"champion": 31,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cho-gath-dino-gura-chogath/thumb.webp?v=265d0916",
+			"file": {
+				"version": 1,
+				"asset": "cho-gath-dino-gura-chogath-v1.fantome",
+				"size": 4521367,
+				"sha256": "1e6a56ae79dcc58cd70d145d9e307c15fe5eb0c0fac171407d3f16c5e6388661"
 			},
 			"chromas": []
 		},

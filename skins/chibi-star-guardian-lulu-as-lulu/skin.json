@@ -1,0 +1,25 @@
+{
+	"id": "chibi-star-guardian-lulu-as-lulu",
+	"name": "Chibi Star Guardian Lulu as Lulu",
+	"champion": 117,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2017212937648107592?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Lulu\r\n* Skin: Default/Star Guardian\r\n* Chibi SG Lulu Port\r\n\r\n# Features\r\n\r\n- Animations\r\n- VFX\r\n\r\n# ![](https://i.imgur.com/sApstGn.gif)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/6569d166-748e-4b7e-a643-c6ad7cd20718\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chibi-star-guardian-lulu-as-lulu/thumb.webp?v=af8675d1",
+	"file": {
+		"version": 1,
+		"asset": "chibi-star-guardian-lulu-as-lulu-v1.fantome",
+		"size": 6954745,
+		"sha256": "3f5a9ddf3eedecba18a69a9de5af918a18e453d5047ad91776656beeb16223cf"
+	},
+	"chromas": []
+}

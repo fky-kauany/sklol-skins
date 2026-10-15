@@ -1,0 +1,26 @@
+{
+	"id": "chibi-yunara",
+	"name": "Chibi Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Chibi Yunara\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.2\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/7bc10bb9-beaa-40b6-b3cf-4b2222b27be9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chibi-yunara/thumb.webp?v=44f47183",
+	"file": {
+		"version": 1,
+		"asset": "chibi-yunara-v1.fantome",
+		"size": 10333010,
+		"sha256": "49ad62142799a8f4c9a8383616cc7c8b7a14b0b0494884d53160c10a36dcd775"
+	},
+	"chromas": []
+}

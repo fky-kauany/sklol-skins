@@ -1,0 +1,24 @@
+{
+	"id": "chimpanzini-bananini-wukong",
+	"name": "Chimpanzini bananini Wukong",
+	"champion": 62,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/f9dcc2e9-966e-4275-a750-ad764941f04a\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chimpanzini-bananini-wukong/thumb.webp?v=8357806c",
+	"file": {
+		"version": 1,
+		"asset": "chimpanzini-bananini-wukong-v1.fantome",
+		"size": 1586140,
+		"sha256": "e11533367a0224a75cd5c2056d5c71edb9ec721a4e9e113f95ca3dbe88fcf936"
+	},
+	"chromas": []
+}

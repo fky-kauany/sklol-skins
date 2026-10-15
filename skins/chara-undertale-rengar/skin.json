@@ -1,0 +1,26 @@
+{
+	"id": "chara-undertale-rengar",
+	"name": "CHARA UNDERTALE - Rengar",
+	"champion": 107,
+	"base": 0,
+	"creator": "retardead",
+	"description": "# Should I be a pacifist ? Or should I use my fists ? I'm feeling evil like I'd kill them all...\r\n\r\nDora with a knife brought to you by the talentless retardead™ ! Feel free to NOT dm me on discord for stuff about the mod or whatever (plz do so) (i'm lonely as well plz dm me we can be friends)\r\n\r\n## Features of this mod !!!11!!1§§1§!!:\r\n\r\n- Custom model (duh) from [@looneax](https://www.deviantart.com/looneax/) on deviantart\r\n- Custom VFX (relaxing hypnotization to relax the muscles)\r\n- Custom SFX (cool ASMR sounds to help you sleep)\r\n- Funni if you press CTRL+3\r\n\r\nCHARActer by Toby Fox\r\nUNDERTALE by Toby Fox\n\n---\n\n**Created by** [retardead](https://runeforge.dev/users/retardead)\n\n**Original:** https://runeforge.dev/mods/d2abb8e4-93e0-4cc9-abee-bb4d95009287\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chara-undertale-rengar/thumb.webp?v=569a9155",
+	"file": {
+		"version": 1,
+		"asset": "chara-undertale-rengar-v1.fantome",
+		"size": 13473105,
+		"sha256": "d74a0fc1821ebc6041809c01bdff4d0a4b45e089933056fe15fdc08d7097ff6c"
+	},
+	"chromas": []
+}

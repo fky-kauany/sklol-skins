@@ -1,0 +1,26 @@
+{
+	"id": "chibi-kayle",
+	"name": "Chibi Kayle",
+	"champion": 10,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* Commissioned by @lozekerz\r\n\r\n\r\n* [Source Post](https://x.com/p1mek/status/2038053662082085291?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Kayle\r\n* Skin: Default\r\n* Chibi Kayle Port\r\n\r\n# Features\r\n\r\n- Loadingscreen & HUD\r\n- Animations\r\n- VFX\r\n\r\n# ![](https://i.imgur.com/qsbdwTW.gif)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/dcf2b8de-bbaa-4566-8e5a-d9815814a806\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chibi-kayle/thumb.webp?v=2907c5b0",
+	"file": {
+		"version": 1,
+		"asset": "chibi-kayle-v1.fantome",
+		"size": 9764298,
+		"sha256": "7705bdc24fc361e87cdeda6a036656805453f05fe8a95146552218ae117e937a"
+	},
+	"chromas": []
+}
