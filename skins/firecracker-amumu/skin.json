@@ -1,0 +1,26 @@
+{
+	"id": "firecracker-amumu",
+	"name": "Firecracker Amumu",
+	"champion": 32,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Amumu\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.0\r\n\r\n###### Description: Firecracker Amumu\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/ded95ee1-9c2f-441e-9364-0419bed50f0a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/firecracker-amumu/thumb.webp?v=0e4383e0",
+	"file": {
+		"version": 1,
+		"asset": "firecracker-amumu-v1.fantome",
+		"size": 9660513,
+		"sha256": "dba409fad2ffa1b9a415e338661b5ca667dfd4991e3b8444d86343586e0b55bc"
+	},
+	"chromas": []
+}

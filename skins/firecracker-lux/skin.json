@@ -1,0 +1,26 @@
+{
+	"id": "firecracker-lux",
+	"name": "Firecracker Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Lux\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.0\r\n\r\n###### Description: Firecracker Lux\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/7bfffe5d-0f66-4d6d-89cb-f8ff5ca30f87\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/firecracker-lux/thumb.webp?v=df469115",
+	"file": {
+		"version": 1,
+		"asset": "firecracker-lux-v1.fantome",
+		"size": 18107277,
+		"sha256": "787c599524ace54c106ce8ed8e6f4d4ee7b5b2756fac3b08e69e5d03f51e7a5c"
+	},
+	"chromas": []
+}

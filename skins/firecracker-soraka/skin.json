@@ -1,0 +1,26 @@
+{
+	"id": "firecracker-soraka",
+	"name": "Firecracker Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Soraka\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.2\r\n\r\n###### Description: Firecracker Soraka\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/86ece09d-76f9-4575-8378-6b9b60f7a590\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/firecracker-soraka/thumb.webp?v=cd0f65bf",
+	"file": {
+		"version": 1,
+		"asset": "firecracker-soraka-v1.fantome",
+		"size": 14633831,
+		"sha256": "3a83f89249bb18397316a1d87bdeea6e756901148963a3d7361da1272059e78b"
+	},
+	"chromas": []
+}

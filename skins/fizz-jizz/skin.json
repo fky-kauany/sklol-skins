@@ -1,0 +1,23 @@
+{
+	"id": "fizz-jizz",
+	"name": "Jizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## WHEN SHARING THIS MOD WITH OTHER PEOPLE SEND A LINK TO THIS PAGE RATHER THAN THE MOD FILE DIRECTLY - MODS GET OUTDATED JUST LET ME DO THE UPKEEP FOR YOU IT IS NOT WORTH SAVING ONE (1) CLICK\n\n### Information\n\n**Modified champion:** Fizz\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/71fd7d7b-d210-4b56-b615-d1d067964871\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fizz-jizz/thumb.webp?v=cb8d73cf",
+	"file": {
+		"version": 1,
+		"asset": "fizz-jizz-v1.fantome",
+		"size": 527486,
+		"sha256": "2e271ac1cb3aa475948805b4303d23beef47d852f60788e87bd1e261e8de0d23"
+	},
+	"chromas": []
+}

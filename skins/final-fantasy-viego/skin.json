@@ -1,0 +1,23 @@
+{
+	"id": "final-fantasy-viego",
+	"name": "Final Fantasy Viego",
+	"champion": 234,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Viego\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/462f8521-0c29-4c6d-9682-4600a0986c49\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/final-fantasy-viego/thumb.webp?v=07ecb49d",
+	"file": {
+		"version": 1,
+		"asset": "final-fantasy-viego-v1.fantome",
+		"size": 757992,
+		"sha256": "98af68c78836570b77aa833a1e0695e707ae74d0d90452ad748bbd55a45e78dc"
+	},
+	"chromas": []
+}

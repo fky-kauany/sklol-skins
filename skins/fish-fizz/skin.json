@@ -1,0 +1,24 @@
+{
+	"id": "fish-fizz",
+	"name": "Fish Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Fizz**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/71ed9062-4d3d-49c9-b1c2-68a57a465eff\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fish-fizz/thumb.webp?v=6ef5e3eb",
+	"file": {
+		"version": 1,
+		"asset": "fish-fizz-v1.fantome",
+		"size": 85312,
+		"sha256": "a1ce9a072a272f2eed134ccce1f7babe1766d9041244dedc4a7d407062bb51ad"
+	},
+	"chromas": []
+}

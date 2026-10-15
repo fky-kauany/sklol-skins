@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:22:05.262Z",
+	"generatedAt": "2026-10-15T09:25:11.568Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -575,6 +575,13 @@
 			"avatar": "creators/froggles.jpg?v=c42bcb9b",
 			"links": {
 				"x": "https://x.com/fercunhah"
+			}
+		},
+		"gabchska": {
+			"name": "Gabchska",
+			"avatar": "creators/gabchska.jpg?v=4431cbd2",
+			"links": {
+				"youtube": "https://youtu.be/92kSN_0-yWo"
 			}
 		},
 		"gabe": {
@@ -9830,6 +9837,251 @@
 				"asset": "fiddlesticks-fiddleyuumi-v1.fantome",
 				"size": 2686209,
 				"sha256": "0efadabc4ab3544767735349e0db54471720dd197f254356ab3a39a5c081a5ad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fierce-deity-link-for-viego",
+			"name": "Fierce Deity Link for Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "gabchska",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fierce-deity-link-for-viego/thumb.webp?v=86434016",
+			"file": {
+				"version": 1,
+				"asset": "fierce-deity-link-for-viego-v1.fantome",
+				"size": 1913677,
+				"sha256": "6b0dc8e0ebd3d0323bb825ae3c8bd3952e5b53df47519ed582d7a2db627c408f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "final-fantasy-viego",
+			"name": "Final Fantasy Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/final-fantasy-viego/thumb.webp?v=07ecb49d",
+			"file": {
+				"version": 1,
+				"asset": "final-fantasy-viego-v1.fantome",
+				"size": 757992,
+				"sha256": "98af68c78836570b77aa833a1e0695e707ae74d0d90452ad748bbd55a45e78dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "firecracker-amumu",
+			"name": "Firecracker Amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/firecracker-amumu/thumb.webp?v=0e4383e0",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-amumu-v1.fantome",
+				"size": 9660513,
+				"sha256": "dba409fad2ffa1b9a415e338661b5ca667dfd4991e3b8444d86343586e0b55bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "firecracker-gangplank",
+			"name": "Firecracker Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/firecracker-gangplank/thumb.webp?v=6e2fd4e7",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-gangplank-v1.fantome",
+				"size": 12869471,
+				"sha256": "973f955acdd7ec0fdc3a7d8af8ca25e293aa8e78e9eefd0d6c025c9a28396429"
+			},
+			"chromas": []
+		},
+		{
+			"id": "firecracker-lux",
+			"name": "Firecracker Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/firecracker-lux/thumb.webp?v=df469115",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-lux-v1.fantome",
+				"size": 18107277,
+				"sha256": "787c599524ace54c106ce8ed8e6f4d4ee7b5b2756fac3b08e69e5d03f51e7a5c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "firecracker-samira",
+			"name": "Firecracker Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/firecracker-samira/thumb.webp?v=7d659458",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-samira-v1.fantome",
+				"size": 8558545,
+				"sha256": "243be9a59856593cf268b927b0fbc181794c8f096981eb96b19dd7190d8b62ac"
+			},
+			"chromas": []
+		},
+		{
+			"id": "firecracker-soraka",
+			"name": "Firecracker Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/firecracker-soraka/thumb.webp?v=cd0f65bf",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-soraka-v1.fantome",
+				"size": 14633831,
+				"sha256": "3a83f89249bb18397316a1d87bdeea6e756901148963a3d7361da1272059e78b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fish-fizz",
+			"name": "Fish Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fish-fizz/thumb.webp?v=6ef5e3eb",
+			"file": {
+				"version": 1,
+				"asset": "fish-fizz-v1.fantome",
+				"size": 85312,
+				"sha256": "a1ce9a072a272f2eed134ccce1f7babe1766d9041244dedc4a7d407062bb51ad"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fixed-grand-reckoning-rell",
+			"name": "Fixed Grand Reckoning Rell",
+			"champion": 526,
+			"base": 0,
+			"creator": "wronglane",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fixed-grand-reckoning-rell/thumb.webp?v=c769285e",
+			"file": {
+				"version": 1,
+				"asset": "fixed-grand-reckoning-rell-v1.fantome",
+				"size": 782681,
+				"sha256": "576bf797b91f36726a132953382c4e57b69fb7b4e08a3ebc74cd8d9664a1f1fc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fizz-jizz",
+			"name": "Jizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fizz-jizz/thumb.webp?v=cb8d73cf",
+			"file": {
+				"version": 1,
+				"asset": "fizz-jizz-v1.fantome",
+				"size": 527486,
+				"sha256": "2e271ac1cb3aa475948805b4303d23beef47d852f60788e87bd1e261e8de0d23"
 			},
 			"chromas": []
 		},
