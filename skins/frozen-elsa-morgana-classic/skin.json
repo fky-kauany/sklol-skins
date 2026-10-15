@@ -1,0 +1,23 @@
+{
+	"id": "frozen-elsa-morgana-classic",
+	"name": "Frozen Elsa Morgana - Classic",
+	"champion": 25,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Exiled in Classic ONLY\n\n## SPECIAL THANKS TO\n\nDarkYudeX the creator of the skin texture.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/804) and was broken so I fixed it, added ice wings, created the alt version, changed VFX colors and reuploaded it.\nThere are two versions of the skin available to download:\n\n- Frozen Elsa Morgana - Classic\n- Base Morgana = White Ice Wings\n- Exiled Morgana = White Ice Wings\n- Frozen Elsa Morgana - Classic Alt\n- Base Morgana = Dark Ice Wings\n- Exiled Morgana = Dark Ice Wings\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/eaf8de0f-794f-4f27-b04e-a98e6ef0b074\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/frozen-elsa-morgana-classic/thumb.webp?v=ac06339e",
+	"file": {
+		"version": 1,
+		"asset": "frozen-elsa-morgana-classic-v1.fantome",
+		"size": 13214535,
+		"sha256": "677496854767b24a6353a84b30ebeaa28e5591d0c0517ec14228095d06f89a0f"
+	},
+	"chromas": []
+}

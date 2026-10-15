@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:28:17.374Z",
+	"generatedAt": "2026-10-15T09:31:23.457Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -70,6 +70,14 @@
 			"links": {
 				"site": "https://paypal.me/Rog04",
 				"youtube": "https://youtu.be/nlyEdu6eZvg"
+			}
+		},
+		"alexygalaxy": {
+			"name": "AlexyGalaxy",
+			"avatar": "creators/alexygalaxy.jpg?v=623da3e8",
+			"bio": "Take me back to Season 3.",
+			"links": {
+				"site": "https://danmuji2box.tistory.com/804"
 			}
 		},
 		"aluna": {
@@ -1175,6 +1183,10 @@
 				"site": "https://nice-cream.itch.io/the-binding-of-isaac-low-poly-models"
 			}
 		},
+		"shadow-ninja1533": {
+			"name": "Shadow_Ninja1533",
+			"links": {}
+		},
 		"shelzy": {
 			"name": "Shelzy",
 			"avatar": "creators/shelzy.png?v=45784fd0",
@@ -1476,12 +1488,29 @@
 				"youtube": "https://youtu.be/J3GwrXueM90?list=PLIlleiTfYK3lAetkn112utmIoeKkTOqWH"
 			}
 		},
+		"youtzo": {
+			"name": "YoutZo",
+			"avatar": "creators/youtzo.jpg?v=ed9d2d6b",
+			"bio": "Hi i'm a french custom skin creator",
+			"links": {
+				"discord": "https://discord.com/invite/AKCjefCcMK",
+				"youtube": "https://youtube.com/shorts/-9dG4X5qH6Y"
+			}
+		},
 		"youtzooooo": {
 			"name": "youtzooooo",
 			"avatar": "creators/youtzooooo.png?v=dac40698",
 			"bio": ":)",
 			"links": {
 				"discord": "https://discord.com/invite/AKCjefCcMK"
+			}
+		},
+		"yuumadin": {
+			"name": "Yuumadin",
+			"links": {
+				"discord": "https://discord.com/invite/yuumadin",
+				"site": "https://vgen.co/Yuumadin",
+				"twitch": "https://www.twitch.tv/yuumadin"
 			}
 		},
 		"yuumi": {
@@ -10338,6 +10367,250 @@
 				"asset": "fright-night-jinx-v1.fantome",
 				"size": 9458151,
 				"sha256": "7a31e4d948b0f97fcb6407f395e0bc1584370d4a5a566da401f62c5bfd23e9d4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fright-night-zed",
+			"name": "Fright Night Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fright-night-zed/thumb.webp?v=1a4d7a9c",
+			"file": {
+				"version": 1,
+				"asset": "fright-night-zed-v1.fantome",
+				"size": 10422843,
+				"sha256": "fd3972023b2ac68531b3f84a2b51669505e255ad1f055e206bc4bcc6d19d6a7e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fright-night-ziggs",
+			"name": "Fright Night Ziggs",
+			"champion": 115,
+			"base": 0,
+			"creator": "ronni",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fright-night-ziggs/thumb.webp?v=398134b9",
+			"file": {
+				"version": 1,
+				"asset": "fright-night-ziggs-v1.fantome",
+				"size": 6500909,
+				"sha256": "77f8759e2575af509e8c43d56f327e936e29ac1ecf6d709dd47d6c2791b19af1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "frozen-elsa-morgana-classic",
+			"name": "Frozen Elsa Morgana - Classic",
+			"champion": 25,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/frozen-elsa-morgana-classic/thumb.webp?v=ac06339e",
+			"file": {
+				"version": 1,
+				"asset": "frozen-elsa-morgana-classic-v1.fantome",
+				"size": 13214535,
+				"sha256": "677496854767b24a6353a84b30ebeaa28e5591d0c0517ec14228095d06f89a0f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "frozen-nami-base-chroma",
+			"name": "Frozen Nami Base Chroma",
+			"champion": 267,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/frozen-nami-base-chroma/thumb.webp?v=4091761f",
+			"file": {
+				"version": 1,
+				"asset": "frozen-nami-base-chroma-v1.fantome",
+				"size": 7643029,
+				"sha256": "34f06a8172ef6f0127ce61e948d7cddadb09acb2307ad61a788d4bd804bb28d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fuhua-vi",
+			"name": "Fuhua Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fuhua-vi/thumb.webp?v=1e8e242a",
+			"file": {
+				"version": 1,
+				"asset": "fuhua-vi-v1.fantome",
+				"size": 1500953,
+				"sha256": "44e21ab8d75d6ab79d1f17642d118fa8139e7d77ba2bf5f46440fd59a44357fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fuji-kiseki-syndra",
+			"name": "Fuji Kiseki Syndra",
+			"champion": 134,
+			"base": 1,
+			"creator": "laiker",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fuji-kiseki-syndra/thumb.webp?v=40b4743d",
+			"file": {
+				"version": 1,
+				"asset": "fuji-kiseki-syndra-v1.fantome",
+				"size": 6218186,
+				"sha256": "ecb9f8fb6dc43f76525fa27ed4993c992eee1958dea96ff3bb3e02050884a51a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fundoshi-atsu-yone",
+			"name": "Fundoshi Atsu Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fundoshi-atsu-yone/thumb.webp?v=17ec4912",
+			"file": {
+				"version": 1,
+				"asset": "fundoshi-atsu-yone-v1.fantome",
+				"size": 9667843,
+				"sha256": "a4945d4360e9b2e2631b349786c24fd5b6b946fa7de9b3ec38c55b8e393bafe9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galaxy-odyssey-twisted-fate",
+			"name": "Galaxy Odyssey Twisted Fate",
+			"champion": 4,
+			"base": 13,
+			"creator": "shadow-ninja1533",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/galaxy-odyssey-twisted-fate/thumb.webp?v=eb254b26",
+			"file": {
+				"version": 1,
+				"asset": "galaxy-odyssey-twisted-fate-v1.fantome",
+				"size": 429217,
+				"sha256": "8cd31279ebabd67a123e31750c56575160d416311085ff73cf97964491419256"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galaxy-shyvana",
+			"name": "Galaxy Shyvana",
+			"champion": 102,
+			"base": 0,
+			"creator": "yuumadin",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/galaxy-shyvana/thumb.webp?v=e6548162",
+			"file": {
+				"version": 1,
+				"asset": "galaxy-shyvana-v1.fantome",
+				"size": 11124264,
+				"sha256": "7f1c5f008207368455163272c124895dd82c16153fd4e4d78c45878c07089d9f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "galio-garp",
+			"name": "Galio Garp",
+			"champion": 3,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/galio-garp/thumb.webp?v=8235ce6a",
+			"file": {
+				"version": 1,
+				"asset": "galio-garp-v1.fantome",
+				"size": 15039143,
+				"sha256": "71f0ca21b8eb3edb586b29f61b0ec0a0c0defb1d9701fe31582632fc505a113e"
 			},
 			"chromas": []
 		},

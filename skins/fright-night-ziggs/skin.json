@@ -1,0 +1,25 @@
+{
+	"id": "fright-night-ziggs",
+	"name": "Fright Night Ziggs",
+	"champion": 115,
+	"base": 0,
+	"creator": "ronni",
+	"description": "***\n\n***\n\n***\n\n**‎**\n\n**Discord: \\_ronni\\_**\n\nNote: if you plan on doing a skin review or using it in a video please tag my **Twitter** [@Ronni\\_CS](https://x.com/Ronni_CS)**,** any credited artist, and **link the post** for the skin used. Thank you.\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n#### This Skin includes:\n\n\\- Custom Model\n\n\\- Custom Splash Arts\n\n\\- Spell VFX\n\n**‎**\n\n#### Models Used:\n\n\\- Fright Night Zeri\n\n\\- Fright Night Nunu and Willump\n\n\\- Fright Night Veigar\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n**‎**Replaced: Base Ziggs\n\nVersion: 1.0\n\n**‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n#### **Changelog:**\n\n#### Version 1.0\n\n\\- First Release for Patch 25.S1.2\n\n**‎**\n\n#### Known Issues:\n\n\\- Bomb on the Ziggs's back has a little transparent patch.\n\n**‎**\n\n#### **Finished Additions/Planned Additions:**\n\n\\- N/A\n\n**‎** **‎**\n\n***\n\n***\n\n***\n\n**‎**\n\n---\n\n**Created by** [Ronni](https://runeforge.dev/users/Ronni)\n\n**Original:** https://runeforge.dev/mods/6b6ee8e1-93de-4fc5-84c5-378b9b6c1862\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fright-night-ziggs/thumb.webp?v=398134b9",
+	"file": {
+		"version": 1,
+		"asset": "fright-night-ziggs-v1.fantome",
+		"size": 6500909,
+		"sha256": "77f8759e2575af509e8c43d56f327e936e29ac1ecf6d709dd47d6c2791b19af1"
+	},
+	"chromas": []
+}

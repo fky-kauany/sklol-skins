@@ -1,0 +1,22 @@
+{
+	"id": "galaxy-odyssey-twisted-fate",
+	"name": "Galaxy Odyssey Twisted Fate",
+	"champion": 4,
+	"base": 13,
+	"creator": "shadow-ninja1533",
+	"description": "Champion: Twisted Fate\r\n\r\nSkin Needed: Odyssey Twisted Fate\r\n\r\n\r\nyes this is my only tf skin so i make chromas on it for fun.\r\n\r\nthis is basically my old tf chroma but replaced alot of the skin with galaxy.\r\n\r\nwill potentially go deeper into skin making in the future\n\n---\n\n**Created by** [Shadow_Ninja1533](https://runeforge.dev/users/Shadow_Ninja1533)\n\n**Original:** https://runeforge.dev/mods/e07bb73c-d3ab-4b77-ba42-6bc2aed941c7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/galaxy-odyssey-twisted-fate/thumb.webp?v=eb254b26",
+	"file": {
+		"version": 1,
+		"asset": "galaxy-odyssey-twisted-fate-v1.fantome",
+		"size": 429217,
+		"sha256": "8cd31279ebabd67a123e31750c56575160d416311085ff73cf97964491419256"
+	},
+	"chromas": []
+}

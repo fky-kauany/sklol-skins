@@ -1,0 +1,23 @@
+{
+	"id": "frozen-nami-base-chroma",
+	"name": "Frozen Nami Base Chroma",
+	"champion": 267,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info:\r\nChroma only works with Base Nami Skin. \r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Nami Skin\r\n\r\nAffects: Skin Color and Ability Colors \r\n\r\nContact:\r\ndiscord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/f151a6d9-80d2-417c-8f6d-48fc99b03a4d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/frozen-nami-base-chroma/thumb.webp?v=4091761f",
+	"file": {
+		"version": 1,
+		"asset": "frozen-nami-base-chroma-v1.fantome",
+		"size": 7643029,
+		"sha256": "34f06a8172ef6f0127ce61e948d7cddadb09acb2307ad61a788d4bd804bb28d3"
+	},
+	"chromas": []
+}

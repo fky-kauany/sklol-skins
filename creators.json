@@ -69,6 +69,14 @@
 			"youtube": "https://youtu.be/nlyEdu6eZvg"
 		}
 	},
+	"alexygalaxy": {
+		"name": "AlexyGalaxy",
+		"avatar": "creators/alexygalaxy.jpg?v=623da3e8",
+		"bio": "Take me back to Season 3.",
+		"links": {
+			"site": "https://danmuji2box.tistory.com/804"
+		}
+	},
 	"aluna": {
 		"name": "aluna",
 		"avatar": "creators/aluna.jpg?v=b2c0601b",
@@ -1172,6 +1180,10 @@
 			"site": "https://nice-cream.itch.io/the-binding-of-isaac-low-poly-models"
 		}
 	},
+	"shadow-ninja1533": {
+		"name": "Shadow_Ninja1533",
+		"links": {}
+	},
 	"shelzy": {
 		"name": "Shelzy",
 		"avatar": "creators/shelzy.png?v=45784fd0",
@@ -1473,12 +1485,29 @@
 			"youtube": "https://youtu.be/J3GwrXueM90?list=PLIlleiTfYK3lAetkn112utmIoeKkTOqWH"
 		}
 	},
+	"youtzo": {
+		"name": "YoutZo",
+		"avatar": "creators/youtzo.jpg?v=ed9d2d6b",
+		"bio": "Hi i'm a french custom skin creator",
+		"links": {
+			"discord": "https://discord.com/invite/AKCjefCcMK",
+			"youtube": "https://youtube.com/shorts/-9dG4X5qH6Y"
+		}
+	},
 	"youtzooooo": {
 		"name": "youtzooooo",
 		"avatar": "creators/youtzooooo.png?v=dac40698",
 		"bio": ":)",
 		"links": {
 			"discord": "https://discord.com/invite/AKCjefCcMK"
+		}
+	},
+	"yuumadin": {
+		"name": "Yuumadin",
+		"links": {
+			"discord": "https://discord.com/invite/yuumadin",
+			"site": "https://vgen.co/Yuumadin",
+			"twitch": "https://www.twitch.tv/yuumadin"
 		}
 	},
 	"yuumi": {

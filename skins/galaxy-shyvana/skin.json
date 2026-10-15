@@ -1,0 +1,26 @@
+{
+	"id": "galaxy-shyvana",
+	"name": "Galaxy Shyvana",
+	"champion": 102,
+	"base": 0,
+	"creator": "yuumadin",
+	"description": "skin used - BASE !\r\n\r\nrecolored VFX\r\n\r\nedited splash art\r\n\r\nredone textures!\r\n\r\n👍\n\n---\n\n**Created by** [Yuumadin](https://runeforge.dev/users/Yuumadin)\n\n**Original:** https://runeforge.dev/mods/004ce06c-997f-4e18-a21b-7b54ddc713fe\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/galaxy-shyvana/thumb.webp?v=e6548162",
+	"file": {
+		"version": 1,
+		"asset": "galaxy-shyvana-v1.fantome",
+		"size": 11124264,
+		"sha256": "7f1c5f008207368455163272c124895dd82c16153fd4e4d78c45878c07089d9f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "fundoshi-atsu-yone",
+	"name": "Fundoshi Atsu Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "Custom textures and voice inspired by Ghost of Yotei.\n\n---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/2b88f4bc-34d4-4d9e-98a4-516830fca7c8\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fundoshi-atsu-yone/thumb.webp?v=17ec4912",
+	"file": {
+		"version": 1,
+		"asset": "fundoshi-atsu-yone-v1.fantome",
+		"size": 9667843,
+		"sha256": "a4945d4360e9b2e2631b349786c24fd5b6b946fa7de9b3ec38c55b8e393bafe9"
+	},
+	"chromas": []
+}
