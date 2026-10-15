@@ -1,0 +1,24 @@
+{
+	"id": "hololive-sakura-miko-brand",
+	"name": "Hololive Sakura Miko Brand",
+	"champion": 63,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Brand\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: 電脳世界での巫女として真面目に神事をこなしてきたが、神様にお使いを頼まれ日本に訪れる。お使いをこなしていくうち、バーチャル巫女アイドルになることを決意し、日々奮闘中！\n\n### SPECIFICATIONS\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Sakura Miko 3d model in this mod is from: (https://www.mmd.hololive.tv)\n* Loadscreen art by: (https://www.pixiv.net/en/users/43683892)\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Sakura Miko Brand.\n* The original author will not update/add mods anymore...Mods.Now the original author has transferred it to me to update, and the handover ceremony has been completed.All works about tarngaina will be continuously updated and remade.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/012dd975-b256-40e2-97a4-141cf508012e\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-sakura-miko-brand/thumb.webp?v=ad73c44e",
+	"file": {
+		"version": 1,
+		"asset": "hololive-sakura-miko-brand-v1.fantome",
+		"size": 3510602,
+		"sha256": "92a1f6c21e17d7565dda9c1dda401900ef08e63936195a2182e16b73ac57e7c1"
+	},
+	"chromas": []
+}

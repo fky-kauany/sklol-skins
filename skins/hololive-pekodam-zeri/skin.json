@@ -1,0 +1,24 @@
+{
+	"id": "hololive-pekodam-zeri",
+	"name": "Hololive Pekodam Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Zeri\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.7\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified particles\n* Modified in-game icons\n* Modified loadingscreen\n* New voiceover\n\n### CREDITS\n\n* The Pekodam 3d model in this mod is from: [https://sketchfab.com/priichu](https://sketchfab.com/priichu)\n* Loadscreen art by: (SuZuHachi#5529: [https://twitter.com/SuZuHachi84](https://twitter.com/SuZuHachi84) )&#x20;\n* OutData Update - Original Author :  **tarngaina** . so.....**rip**\n* I took over the continuous update the Pekodam Zeri.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/e38610f1-c48b-4ca7-abc6-c3e0e42b4e36\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-pekodam-zeri/thumb.webp?v=215d3015",
+	"file": {
+		"version": 1,
+		"asset": "hololive-pekodam-zeri-v1.fantome",
+		"size": 5816138,
+		"sha256": "a326f966965d299008965f6f4c6a9e3d6d8a8d3a69a3ab336105cc12f2e4c8c0"
+	},
+	"chromas": []
+}

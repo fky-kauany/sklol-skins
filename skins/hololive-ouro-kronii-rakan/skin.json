@@ -1,0 +1,25 @@
+{
+	"id": "hololive-ouro-kronii-rakan",
+	"name": "Hololive Ouro Kronii Rakan",
+	"champion": 497,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Rakan\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified particles\n\n### CREDITS\n\n* The Ouro Kronii 3D model in this mod is from : ( [https://skfb.ly/o7XzK](https://skfb.ly/o7XzK) )\n* Loadscreen art from : ( [https://twitter.com/rla058058/status/1558663640378527744?s=20\\&t=40Na43mYriChA3plZO5ikQ](https://twitter.com/rla058058/status/1558663640378527744?s=20\\&t=40Na43mYriChA3plZO5ikQ) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/3e35c507-998c-4053-a7cf-e1e767596b02\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-ouro-kronii-rakan/thumb.webp?v=0078afe3",
+	"file": {
+		"version": 1,
+		"asset": "hololive-ouro-kronii-rakan-v1.fantome",
+		"size": 54958315,
+		"sha256": "443ce9dcda54a17639255b4137a41ccab1c147033a0303a3a140ca6dcd5dc3d2"
+	},
+	"chromas": []
+}

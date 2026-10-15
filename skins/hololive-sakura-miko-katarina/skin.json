@@ -1,0 +1,25 @@
+{
+	"id": "hololive-sakura-miko-katarina",
+	"name": "Hololive Sakura Miko Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Katarina\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: 電脳世界での巫女として真面目に神事をこなしてきたが、神様にお使いを頼まれ日本に訪れる。お使いをこなしていくうち、バーチャル巫女アイドルになることを決意し、日々奮闘中！\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Sakura Miko 3d model in this mod is from: (https://www.mmd.hololive.tv)\n* Loadscreen art by fd\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/86624f07-251a-4e05-8b7a-040ac52d53ee\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-sakura-miko-katarina/thumb.webp?v=98e6b079",
+	"file": {
+		"version": 1,
+		"asset": "hololive-sakura-miko-katarina-v1.fantome",
+		"size": 6334518,
+		"sha256": "c97824ab31f606c8515be864a40e50d281d259636d19c8a1238345e5cf9b02bf"
+	},
+	"chromas": []
+}

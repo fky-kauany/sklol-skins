@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:27:25.790Z",
+	"generatedAt": "2026-10-15T10:30:35.229Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -15174,6 +15174,248 @@
 				"asset": "hololive-omaru-polka-shaco-v1.fantome",
 				"size": 5173621,
 				"sha256": "10296ad0e67b34017c84bfc44f2864253911675c489f9b2a5fffda39444e9c91"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-ookami-mio-warwick",
+			"name": "Hololive Ookami Mio Warwick",
+			"champion": 19,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-ookami-mio-warwick/thumb.webp?v=6104feda",
+			"file": {
+				"version": 1,
+				"asset": "hololive-ookami-mio-warwick-v1.fantome",
+				"size": 13315912,
+				"sha256": "9ec3bcfb62a1b20e551959aa0f88a5497f2f83140c1751a569ff8ec092ab2245"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-ouro-kronii-rakan",
+			"name": "Hololive Ouro Kronii Rakan",
+			"champion": 497,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-ouro-kronii-rakan/thumb.webp?v=0078afe3",
+			"file": {
+				"version": 1,
+				"asset": "hololive-ouro-kronii-rakan-v1.fantome",
+				"size": 54958315,
+				"sha256": "443ce9dcda54a17639255b4137a41ccab1c147033a0303a3a140ca6dcd5dc3d2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-ouro-kronii-zilean",
+			"name": "Hololive Ouro Kronii Zilean",
+			"champion": 26,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-ouro-kronii-zilean/thumb.webp?v=459ad4e2",
+			"file": {
+				"version": 1,
+				"asset": "hololive-ouro-kronii-zilean-v1.fantome",
+				"size": 5499553,
+				"sha256": "b6c219b1324bb33ed4b178fd5cac0ec6ecae9c24bb0c96f472a7366022c7cbb9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-pekodam-zeri",
+			"name": "Hololive Pekodam Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-pekodam-zeri/thumb.webp?v=215d3015",
+			"file": {
+				"version": 1,
+				"asset": "hololive-pekodam-zeri-v1.fantome",
+				"size": 5816138,
+				"sha256": "a326f966965d299008965f6f4c6a9e3d6d8a8d3a69a3ab336105cc12f2e4c8c0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-roboco-san-akshan",
+			"name": "Hololive Roboco-san Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-roboco-san-akshan/thumb.webp?v=3e6add6f",
+			"file": {
+				"version": 1,
+				"asset": "hololive-roboco-san-akshan-v1.fantome",
+				"size": 12613764,
+				"sha256": "6845e9c88524aafa1da5acc53b3eaaf2acb68f8b4c231f2ef5740f42709def3d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-sakamata-chloe-pyke",
+			"name": "Hololive Sakamata Chloe Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-sakamata-chloe-pyke/thumb.webp?v=ba618fe9",
+			"file": {
+				"version": 1,
+				"asset": "hololive-sakamata-chloe-pyke-v1.fantome",
+				"size": 22901622,
+				"sha256": "6440cbc0c37a3098bd60f42c0e2017e23e710ccbd9739fd7d664be78a7982f2b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-sakamata-chloe-singed",
+			"name": "Hololive Sakamata Chloe Singed",
+			"champion": 27,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-sakamata-chloe-singed/thumb.webp?v=2e024423",
+			"file": {
+				"version": 1,
+				"asset": "hololive-sakamata-chloe-singed-v1.fantome",
+				"size": 4856255,
+				"sha256": "5d94989adadb499276a613162d4d63b5e41bfb231954bd9d5d70f8aef0e39c70"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-sakura-miko-amumu",
+			"name": "Hololive Sakura Miko Amumu",
+			"champion": 32,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-sakura-miko-amumu/thumb.webp?v=f0295636",
+			"file": {
+				"version": 1,
+				"asset": "hololive-sakura-miko-amumu-v1.fantome",
+				"size": 4315590,
+				"sha256": "a1f14cad2c582f9f68f75431ade0c3ab292426f8d66784dc0232bc8c71bebcba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-sakura-miko-brand",
+			"name": "Hololive Sakura Miko Brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-sakura-miko-brand/thumb.webp?v=ad73c44e",
+			"file": {
+				"version": 1,
+				"asset": "hololive-sakura-miko-brand-v1.fantome",
+				"size": 3510602,
+				"sha256": "92a1f6c21e17d7565dda9c1dda401900ef08e63936195a2182e16b73ac57e7c1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-sakura-miko-katarina",
+			"name": "Hololive Sakura Miko Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-sakura-miko-katarina/thumb.webp?v=98e6b079",
+			"file": {
+				"version": 1,
+				"asset": "hololive-sakura-miko-katarina-v1.fantome",
+				"size": 6334518,
+				"sha256": "c97824ab31f606c8515be864a40e50d281d259636d19c8a1238345e5cf9b02bf"
 			},
 			"chromas": []
 		},

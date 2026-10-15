@@ -1,0 +1,24 @@
+{
+	"id": "hololive-ouro-kronii-zilean",
+	"name": "Hololive Ouro Kronii Zilean",
+	"champion": 26,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Zilean\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Mod version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Ouro Kronii 3D model in this mod is from : ( [https://skfb.ly/o7XzK](https://skfb.ly/o7XzK) )\n* Loadscreen art from : ( [https://yande.re/post/show/850842](https://yande.re/post/show/850842) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/d3c858d6-1a4b-4d1e-94a7-c11888879c52\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-ouro-kronii-zilean/thumb.webp?v=459ad4e2",
+	"file": {
+		"version": 1,
+		"asset": "hololive-ouro-kronii-zilean-v1.fantome",
+		"size": 5499553,
+		"sha256": "b6c219b1324bb33ed4b178fd5cac0ec6ecae9c24bb0c96f472a7366022c7cbb9"
+	},
+	"chromas": []
+}

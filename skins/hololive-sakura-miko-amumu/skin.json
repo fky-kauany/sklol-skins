@@ -1,0 +1,24 @@
+{
+	"id": "hololive-sakura-miko-amumu",
+	"name": "Hololive Sakura Miko Amumu",
+	"champion": 32,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Amumu\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.3\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Sakura Miko 3D model in this mod is I got the model from a friend\n* Loadscreen art by: ( [https://twitter.com/Fir3k0/status/1564601856734609413?t=UoP859PMm8kry\\_udPBU1rQ\\&s=19](https://twitter.com/Fir3k0/status/1564601856734609413?t=UoP859PMm8kry_udPBU1rQ\\&s=19) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/f872a667-5da9-4ac2-aff4-7ec5ad1a4815\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-sakura-miko-amumu/thumb.webp?v=f0295636",
+	"file": {
+		"version": 1,
+		"asset": "hololive-sakura-miko-amumu-v1.fantome",
+		"size": 4315590,
+		"sha256": "a1f14cad2c582f9f68f75431ade0c3ab292426f8d66784dc0232bc8c71bebcba"
+	},
+	"chromas": []
+}
