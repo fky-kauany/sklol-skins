@@ -1,0 +1,23 @@
+{
+	"id": "sentry-bot-urgot",
+	"name": "Sentry Bot Urgot",
+	"champion": 6,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "Sentry bot from Fallout series as Urgot base\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/14c6e2ed-eb2f-460f-9a89-001fb7476071\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sentry-bot-urgot/thumb.webp?v=26b2e507",
+	"file": {
+		"version": 1,
+		"asset": "sentry-bot-urgot-v1.fantome",
+		"size": 1057246,
+		"sha256": "e80da98e9487c8a0537c248af6acbc22fbff93f272f7af5d1a0438ac6e5dab74"
+	},
+	"chromas": []
+}

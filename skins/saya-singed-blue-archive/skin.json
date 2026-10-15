@@ -1,0 +1,24 @@
+{
+	"id": "saya-singed-blue-archive",
+	"name": "Saya Singed (Blue Archive)",
+	"champion": 27,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "lmk if skin breaks via discord https://discord.gg/yaByNwaxsP\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/6ea632ad-eacf-4b40-9fd2-b431c1e0c6cd\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/saya-singed-blue-archive/thumb.webp?v=156ce225",
+	"file": {
+		"version": 1,
+		"asset": "saya-singed-blue-archive-v1.fantome",
+		"size": 2486438,
+		"sha256": "c5c2407fe56d7031fe958af05529067f4e53f47acb9f387455a3a9637437f45e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "secret-agent-shen",
+	"name": "secret agent shen",
+	"champion": 98,
+	"base": 0,
+	"creator": "menellove",
+	"description": "Mod name : secret agent shen\r\n\r\nSkin modified : Pulsefire Shen \r\nAuthor : menellove\r\n\r\nMod version : 1.0.0\r\n\r\nyou will need Pulsefire Shen skin for mod to work\n\n---\n\n**Created by** [menellove](https://runeforge.dev/users/menellove)\n\n**Original:** https://runeforge.dev/mods/98882e74-ab41-469a-be4d-f9752998fb9a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/secret-agent-shen/thumb.webp?v=50591728",
+	"file": {
+		"version": 1,
+		"asset": "secret-agent-shen-v1.fantome",
+		"size": 5813504,
+		"sha256": "374839528966b0f048a9013dff6e258305903505cac58b09f8f6bfcca034709a"
+	},
+	"chromas": []
+}

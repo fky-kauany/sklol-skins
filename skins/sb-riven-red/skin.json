@@ -1,0 +1,23 @@
+{
+	"id": "sb-riven-red",
+	"name": "SB Riven Red",
+	"champion": 92,
+	"base": 23,
+	"creator": "ragard",
+	"description": "Spirit Blossom Riven Red with Ability Particles & HUD Icons\r\n\r\n## Skin Information\r\n\r\nReplaces: Spirit Blossom Riven\r\n\r\nAuthor: ragard\r\n\r\nVersion: 1.0.0\r\n\r\nCreated On Patch: 15.23\n\n---\n\n**Created by** [ragard](https://runeforge.dev/users/ragard)\n\n**Original:** https://runeforge.dev/mods/72705658-2673-4759-b0ab-0d8e04f2a36c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sb-riven-red/thumb.webp?v=2a4081b6",
+	"file": {
+		"version": 1,
+		"asset": "sb-riven-red-v1.fantome",
+		"size": 981264,
+		"sha256": "2a9f2ada0cd0ae822155df17fe773794a934230d7b4719ca79cc6560a66addc9"
+	},
+	"chromas": []
+}

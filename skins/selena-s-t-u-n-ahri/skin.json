@@ -1,0 +1,26 @@
+{
+	"id": "selena-s-t-u-n-ahri",
+	"name": "Selena S.T.U.N Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "matth",
+	"description": "----------------------------------THIS MOD HAS SOUNDS AND VOICE LINES-------------------------------\r\n\r\n______________________________________________________________________________________________________\r\n\r\nSkin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/791956da-f56d-490d-95f0-c2dd79dbd925\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/selena-s-t-u-n-ahri/thumb.webp?v=e6c7fc33",
+	"file": {
+		"version": 1,
+		"asset": "selena-s-t-u-n-ahri-v1.fantome",
+		"size": 399462666,
+		"sha256": "1571ddbb4dac6ee01b65f4fc17653ab7053402915dc6a08921a4ffadf9c90931"
+	},
+	"chromas": []
+}

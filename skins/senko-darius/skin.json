@@ -1,0 +1,24 @@
+{
+	"id": "senko-darius",
+	"name": "Senko Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion: Darius\r\n* Modified skin: Default\r\n* Author: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game icons\r\n* Modified particles\r\n* New voiceover\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/66519ec4-5281-4091-a3e0-ee39db3d7fc3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/senko-darius/thumb.webp?v=64e09bbe",
+	"file": {
+		"version": 1,
+		"asset": "senko-darius-v1.fantome",
+		"size": 4414740,
+		"sha256": "3edbdda67806f80ee44b013413af7590a15ad4a54c86abf23f61a980e6e268b0"
+	},
+	"chromas": []
+}
