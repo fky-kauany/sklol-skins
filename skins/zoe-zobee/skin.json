@@ -1,0 +1,25 @@
+{
+	"id": "zoe-zobee",
+	"name": "ZoBee",
+	"champion": 142,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Zoe with a custom-made model after Sia Siao's original concept for Bee Zoe.\n\nThis mod was created after Sia Siao's original concept for Bee Zoe which you can find here: [https://www.artstation.com/artwork/zPJAnQ](https://www.artstation.com/artwork/zPJAnQ). Please check out her incredible work and support!\n\n## CREDITS\n\n* Model, Texture, & VFX: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n* Concept Art: [Sia Siao](https://www.artstation.com/siaosia)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on ZoBee's model](https://www.artstation.com/artwork/nJY5g9) for a closer look.\n\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/1be8fbae-ea20-4f2b-a246-fbca83d10092\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zoe-zobee/thumb.webp?v=bbb20ef0",
+	"file": {
+		"version": 1,
+		"asset": "zoe-zobee-v1.fantome",
+		"size": 12992815,
+		"sha256": "c0bf65f7d47d31726ef1b5b9c2dd79799d62241ab22e3ad0568cef9c03af3e8b"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T15:11:00.341Z",
+	"generatedAt": "2026-10-15T15:12:33.849Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -35670,6 +35670,100 @@
 				"asset": "zhuxin-mel-v1.fantome",
 				"size": 57201541,
 				"sha256": "4b06098db562427dedb4fc7c92596cb4b4638c2acf0e36339a1650fd67d5383f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zilean-without-the-old-guy",
+			"name": "Zilean Without the Old Guy",
+			"champion": 26,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zilean-without-the-old-guy/thumb.webp?v=5e7a538b",
+			"file": {
+				"version": 1,
+				"asset": "zilean-without-the-old-guy-v1.fantome",
+				"size": 66364,
+				"sha256": "00d1a961dfa977190b00a6564b8275046ffee567f5efe3b6e8e8a4d871a33fee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zoe-trad-gothic",
+			"name": "Zoe Trad Gothic",
+			"champion": 142,
+			"base": 0,
+			"creator": "chammad",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zoe-trad-gothic/thumb.webp?v=05d6b39c",
+			"file": {
+				"version": 1,
+				"asset": "zoe-trad-gothic-v1.fantome",
+				"size": 3445754,
+				"sha256": "5f3da9b514ec241f5b37ee05f8e324c902607f558437cbd8be8d4a28a84a0860"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zoe-zobee",
+			"name": "ZoBee",
+			"champion": 142,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zoe-zobee/thumb.webp?v=bbb20ef0",
+			"file": {
+				"version": 1,
+				"asset": "zoe-zobee-v1.fantome",
+				"size": 12992815,
+				"sha256": "c0bf65f7d47d31726ef1b5b9c2dd79799d62241ab22e3ad0568cef9c03af3e8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zoroark-neeko",
+			"name": "Zoroark Neeko",
+			"champion": 518,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zoroark-neeko/thumb.webp?v=9deb0e96",
+			"file": {
+				"version": 1,
+				"asset": "zoroark-neeko-v1.fantome",
+				"size": 6772575,
+				"sha256": "26f1a9381bca91aedd3dc1eabd76a9a6a7a10e8dd542052e263677c0429df933"
 			},
 			"chromas": []
 		},

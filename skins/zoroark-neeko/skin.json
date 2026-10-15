@@ -1,0 +1,24 @@
+{
+	"id": "zoroark-neeko",
+	"name": "Zoroark Neeko",
+	"champion": 518,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 for unova shiny\r\nCtrl 2 for unova default\r\nCtrl 3 for shiny hisui\r\nCtrl 4 for hisui default\r\n\r\nUse Base Skin\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/573001ad-6303-4578-9189-57bb26458cae\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zoroark-neeko/thumb.webp?v=9deb0e96",
+	"file": {
+		"version": 1,
+		"asset": "zoroark-neeko-v1.fantome",
+		"size": 6772575,
+		"sha256": "26f1a9381bca91aedd3dc1eabd76a9a6a7a10e8dd542052e263677c0429df933"
+	},
+	"chromas": []
+}
