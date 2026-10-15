@@ -1,0 +1,24 @@
+{
+	"id": "gragas-gragwen",
+	"name": "Gragwen",
+	"champion": 79,
+	"base": 0,
+	"creator": "harpyqueen",
+	"description": "Information\r\n\r\n* Champion: Gragas\r\n* Modified Skin: Base skin\r\n* Author: HapiKuin\r\n* Version: 1.0\r\n\r\n***\r\n\r\nFeatures\r\n\r\n* New Model\r\n* New Loading screen\r\n* New HUD\r\n* Supports all graphic textures\n\n---\n\n**Created by** [HarpyQueen](https://runeforge.dev/users/HarpyQueen)\n\n**Original:** https://runeforge.dev/mods/1420be3f-d179-4268-b51e-07d3ac1b0d63\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gragas-gragwen/thumb.webp?v=96a7ebb9",
+	"file": {
+		"version": 1,
+		"asset": "gragas-gragwen-v1.fantome",
+		"size": 3854550,
+		"sha256": "6645b71b12e70ea3428e0f50160c529e6d23cb0ffad03e9fd67b756ff2f90d6a"
+	},
+	"chromas": []
+}

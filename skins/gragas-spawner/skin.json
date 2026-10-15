@@ -1,0 +1,24 @@
+{
+	"id": "gragas-spawner",
+	"name": "Gragas Spawner",
+	"champion": 79,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## WHEN SHARING THIS MOD WITH OTHER PEOPLE SEND A LINK TO THIS PAGE RATHER THAN THE MOD FILE DIRECTLY - MODS GET OUTDATED JUST LET ME DO THE UPKEEP FOR YOU IT IS NOT WORTH SAVING ONE (1) CLICK\n\n### Information\n\n**Voiceover:** To download the voiceover head over to the \"Releases\" section and download it from there\n\n**Modified champion:** Gragas\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n#\n\n### Shoutouts\n\nCamembert \\https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/a4fb6c84-d40e-4b63-be64-2551d7f56a5a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gragas-spawner/thumb.webp?v=c0aa8777",
+	"file": {
+		"version": 1,
+		"asset": "gragas-spawner-v1.fantome",
+		"size": 3531618,
+		"sha256": "824def16c53928f6667ad5a6318fe9986549b56823856bbf7b5bc975b75343fc"
+	},
+	"chromas": []
+}

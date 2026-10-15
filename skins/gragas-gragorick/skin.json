@@ -1,0 +1,24 @@
+{
+	"id": "gragas-gragorick",
+	"name": "Gragorick",
+	"champion": 79,
+	"base": 0,
+	"creator": "sterak",
+	"description": "makes an awesome Gragorick. DO not harm wife!!\n\n\nshoutout to camembert (mentor)\n\n---\n\n**Created by** [Sterak](https://runeforge.dev/users/Sterak)\n\n**Original:** https://runeforge.dev/mods/69b2695f-f313-4f09-a684-4a60d9bd4f0d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gragas-gragorick/thumb.webp?v=f4d4a05e",
+	"file": {
+		"version": 1,
+		"asset": "gragas-gragorick-v1.fantome",
+		"size": 2239164,
+		"sha256": "e1840ae134a69c91a385ee0f6029c1da7d82f1fec045d5fb5c0997de3cb4f425"
+	},
+	"chromas": []
+}

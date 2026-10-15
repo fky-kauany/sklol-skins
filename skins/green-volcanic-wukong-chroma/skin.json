@@ -1,0 +1,22 @@
+{
+	"id": "green-volcanic-wukong-chroma",
+	"name": "Green Volcanic Wukong Chroma",
+	"champion": 62,
+	"base": 1,
+	"creator": "newdami",
+	"description": "This works replacing the infernal files, so you have to own the original skin.\n\nI saw amumu infernal with green chroma and thought it would be awesome if wukong had it.\nI love green and yellow so i tried this.\nComment if you liked or improvements.\nFirst mod and want to improve it\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/c834db54-9f24-4221-b437-343ebfc6da61\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/green-volcanic-wukong-chroma/thumb.webp?v=b976d55c",
+	"file": {
+		"version": 1,
+		"asset": "green-volcanic-wukong-chroma-v1.fantome",
+		"size": 224062,
+		"sha256": "c4455b71f52bd8d3e370db4cca812313f2a65fffddee306bfa784802cb095ec1"
+	},
+	"chromas": []
+}

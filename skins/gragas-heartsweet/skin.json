@@ -1,0 +1,23 @@
+{
+	"id": "gragas-heartsweet",
+	"name": "Gragas Heartsweet",
+	"champion": 79,
+	"base": 4,
+	"creator": "chammad",
+	"description": "Gragas if his beer was love potion.\r\n\r\n\r\n## Information\r\n\r\n**Modified champion: Gragas**\r\n\r\n**Modified skin: Basic**\r\n\r\n**Author: Chammad**\r\n\r\nTextures, loadingscreen and abilities sounds modified.\r\n\r\n\r\n## Issues\r\n\r\nIf/When this mod breaks, let me know\r\n\r\nDiscord: @chammad2\r\n\r\nmail : contact@frogbitmod.com\n\n---\n\n**Created by** [Chammad / G.C.C.](https://runeforge.dev/users/chammad)\n\n**Original:** https://runeforge.dev/mods/47d1efe4-3c4b-4534-9032-42401f270f93\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gragas-heartsweet/thumb.webp?v=71122d7a",
+	"file": {
+		"version": 1,
+		"asset": "gragas-heartsweet-v1.fantome",
+		"size": 2044081,
+		"sha256": "264e76df453f280d45ac67ee64120e0a34938912e44bd871077110f0219a5ab7"
+	},
+	"chromas": []
+}

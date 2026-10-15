@@ -1,0 +1,24 @@
+{
+	"id": "graves-b-w",
+	"name": "Graves B&W",
+	"champion": 104,
+	"base": 0,
+	"creator": "mthx",
+	"description": "Graves recolor incluiding visual effects(VFX)\r\nDonation Channels soon\r\nDiscord for contact\r\nmthx77.\r\ndont forgot the dot in my nickname\r\nThank you for downloading it\n\n---\n\n**Created by** [mthx](https://runeforge.dev/users/mthx)\n\n**Original:** https://runeforge.dev/mods/b1ea562c-a4b8-4c6e-9d77-afe172babc83\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/graves-b-w/thumb.webp?v=e07368c6",
+	"file": {
+		"version": 1,
+		"asset": "graves-b-w-v1.fantome",
+		"size": 3205795,
+		"sha256": "bba7cb11070e0c330ce258a667a9733e2eb8ba6a3a187a5a041b373ba17b9cc9"
+	},
+	"chromas": []
+}

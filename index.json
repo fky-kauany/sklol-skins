@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:47:10.844Z",
+	"generatedAt": "2026-10-15T09:50:15.648Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -652,6 +652,12 @@
 				"youtube": "https://youtu.be/xpjDl0EewWk?si=P9FX0K5Th2NBcYLq"
 			}
 		},
+		"harpyqueen": {
+			"name": "HarpyQueen",
+			"avatar": "creators/harpyqueen.jpg?v=fd747f82",
+			"bio": "Creator of the Harpy Skinline, may the feathers take you away in a sensation of pleasure you've never felt before.",
+			"links": {}
+		},
 		"hatstore": {
 			"name": "hatstore",
 			"avatar": "creators/hatstore.webp?v=1390bc9f",
@@ -913,6 +919,11 @@
 				"site": "https://steamcommunity.com/sharedfiles/filedetails/?id=3567122756"
 			}
 		},
+		"mthx": {
+			"name": "mthx",
+			"avatar": "creators/mthx.jpg?v=81d437b8",
+			"links": {}
+		},
 		"muhfack": {
 			"name": "muhfack",
 			"avatar": "creators/muhfack.jpg?v=0ba1b0c1",
@@ -938,6 +949,12 @@
 		"neoritch": {
 			"name": "neoritch",
 			"avatar": "creators/neoritch.jpg?v=b937361e",
+			"links": {}
+		},
+		"newdami": {
+			"name": "NewDami",
+			"avatar": "creators/newdami.jpg?v=d98d106f",
+			"bio": "If the skin has:\n-Yellow and green\n-Black and white\nI love it.",
 			"links": {}
 		},
 		"nimu": {
@@ -11866,6 +11883,197 @@
 			"chromas": []
 		},
 		{
+			"id": "gragas-amumu",
+			"name": "Gragas (Amumu)",
+			"champion": 32,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gragas-amumu/thumb.webp?v=09defb73",
+			"file": {
+				"version": 1,
+				"asset": "gragas-amumu-v1.fantome",
+				"size": 618396,
+				"sha256": "aecd856f1c07175e223f2d385e6a5cb311a4355091f66000eae19d904599ee06"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-globox-rayman-2-3",
+			"name": "Globox (Rayman 2-3)",
+			"champion": 79,
+			"base": 4,
+			"creator": "carkibamanaboni",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gragas-globox-rayman-2-3/thumb.webp?v=a41b168f",
+			"file": {
+				"version": 1,
+				"asset": "gragas-globox-rayman-2-3-v1.fantome",
+				"size": 786424,
+				"sha256": "796920589dcc2919ac006500112207343ff98f0c362544cee32e53a44c6c292b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-gragorick",
+			"name": "Gragorick",
+			"champion": 79,
+			"base": 0,
+			"creator": "sterak",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gragas-gragorick/thumb.webp?v=f4d4a05e",
+			"file": {
+				"version": 1,
+				"asset": "gragas-gragorick-v1.fantome",
+				"size": 2239164,
+				"sha256": "e1840ae134a69c91a385ee0f6029c1da7d82f1fec045d5fb5c0997de3cb4f425"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-gragwen",
+			"name": "Gragwen",
+			"champion": 79,
+			"base": 0,
+			"creator": "harpyqueen",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gragas-gragwen/thumb.webp?v=96a7ebb9",
+			"file": {
+				"version": 1,
+				"asset": "gragas-gragwen-v1.fantome",
+				"size": 3854550,
+				"sha256": "6645b71b12e70ea3428e0f50160c529e6d23cb0ffad03e9fd67b756ff2f90d6a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-heartsweet",
+			"name": "Gragas Heartsweet",
+			"champion": 79,
+			"base": 4,
+			"creator": "chammad",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gragas-heartsweet/thumb.webp?v=71122d7a",
+			"file": {
+				"version": 1,
+				"asset": "gragas-heartsweet-v1.fantome",
+				"size": 2044081,
+				"sha256": "264e76df453f280d45ac67ee64120e0a34938912e44bd871077110f0219a5ab7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-spawner",
+			"name": "Gragas Spawner",
+			"champion": 79,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gragas-spawner/thumb.webp?v=c0aa8777",
+			"file": {
+				"version": 1,
+				"asset": "gragas-spawner-v1.fantome",
+				"size": 3531618,
+				"sha256": "824def16c53928f6667ad5a6318fe9986549b56823856bbf7b5bc975b75343fc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gragas-swain-gaswain",
+			"name": "Gragas Swain (Gaswain)",
+			"champion": 50,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gragas-swain-gaswain/thumb.webp?v=15007949",
+			"file": {
+				"version": 1,
+				"asset": "gragas-swain-gaswain-v1.fantome",
+				"size": 7410666,
+				"sha256": "4bcfb601ed8b66fe03a58b44fe6643b28254fdc274c73022efd93b7ec05521d1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "graves-b-w",
+			"name": "Graves B&W",
+			"champion": 104,
+			"base": 0,
+			"creator": "mthx",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/graves-b-w/thumb.webp?v=e07368c6",
+			"file": {
+				"version": 1,
+				"asset": "graves-b-w-v1.fantome",
+				"size": 3205795,
+				"sha256": "bba7cb11070e0c330ce258a667a9733e2eb8ba6a3a187a5a041b373ba17b9cc9"
+			},
+			"chromas": []
+		},
+		{
 			"id": "green-blood-moon-pyke",
 			"name": "green blood moon pyke",
 			"champion": 555,
@@ -11885,6 +12093,52 @@
 				"asset": "green-blood-moon-pyke-v1.fantome",
 				"size": 1311139,
 				"sha256": "688b68b377ecfd7df42384c9c94d20bd2a466f7292ef8743eb131e0f04b93d1a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "green-volcanic-wukong-chroma",
+			"name": "Green Volcanic Wukong Chroma",
+			"champion": 62,
+			"base": 1,
+			"creator": "newdami",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/green-volcanic-wukong-chroma/thumb.webp?v=b976d55c",
+			"file": {
+				"version": 1,
+				"asset": "green-volcanic-wukong-chroma-v1.fantome",
+				"size": 224062,
+				"sha256": "c4455b71f52bd8d3e370db4cca812313f2a65fffddee306bfa784802cb095ec1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gromp-bard",
+			"name": "Gromp Bard",
+			"champion": 432,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gromp-bard/thumb.webp?v=bdf478ba",
+			"file": {
+				"version": 1,
+				"asset": "gromp-bard-v1.fantome",
+				"size": 585124,
+				"sha256": "eb2a69326b198ab6364235e1cf6bd8bf3a133eecf1e83543d8aed6fd7016e3b5"
 			},
 			"chromas": []
 		},

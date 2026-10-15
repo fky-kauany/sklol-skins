@@ -1,0 +1,24 @@
+{
+	"id": "gragas-globox-rayman-2-3",
+	"name": "Globox (Rayman 2-3)",
+	"champion": 79,
+	"base": 4,
+	"creator": "carkibamanaboni",
+	"description": "Champion: Gragas\r\n\r\nModified skin: Base\r\n\r\nAuthors: Carki - Mici\r\n\r\nDescription: Turns Gragas into Globox, the dad of 650 kids from the Rayman series. Replaces the model, textures and voiceover with his voicelines from Rayman 2 (Also comes with a non-voiceover version if you prefer Gragas drunken rambling).\n\n---\n\n**Created by** [Carki Bamanaboni](https://runeforge.dev/users/CarkiBamanaboni)\n\n**Original:** https://runeforge.dev/mods/ebf4b79b-149c-4a52-a347-91d903ab99eb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gragas-globox-rayman-2-3/thumb.webp?v=a41b168f",
+	"file": {
+		"version": 1,
+		"asset": "gragas-globox-rayman-2-3-v1.fantome",
+		"size": 786424,
+		"sha256": "796920589dcc2919ac006500112207343ff98f0c362544cee32e53a44c6c292b"
+	},
+	"chromas": []
+}
