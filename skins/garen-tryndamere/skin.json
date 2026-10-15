@@ -1,0 +1,25 @@
+{
+	"id": "garen-tryndamere",
+	"name": "Garen Tryndamere",
+	"champion": 23,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Tryndamere\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/dab2bf4e-a1e5-4dcc-8e46-20541c2885ab\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/garen-tryndamere/thumb.webp?v=02e31c05",
+	"file": {
+		"version": 1,
+		"asset": "garen-tryndamere-v1.fantome",
+		"size": 943174,
+		"sha256": "2874e52c66f3eb4484445b8b8f64d47fb3052a7d228c99d1349f106917a90548"
+	},
+	"chromas": []
+}

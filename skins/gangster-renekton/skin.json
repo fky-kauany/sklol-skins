@@ -1,0 +1,23 @@
+{
+	"id": "gangster-renekton",
+	"name": "Gangster Renekton",
+	"champion": 58,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "## **Mod Information**\n\n***\n\n* **Champion:** Renekton\n* **Modified Skin:** Default\n* **Author:** trashbringer\n* **Mod Version:** 1.0.0\n* Uses some elements of Outback skin\n\n## **Features**\n\n***\n\n* Custom textures\n* Custom loading screen\n\nThis mod was recovered by Vexrage\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/55feb11e-4f4c-4099-a295-a32b3a1a5058\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gangster-renekton/thumb.webp?v=5952d09c",
+	"file": {
+		"version": 1,
+		"asset": "gangster-renekton-v1.fantome",
+		"size": 1334323,
+		"sha256": "32519ed53eecf61e4cfbcc873f855e8aff311a352c41584976548bb9189159f7"
+	},
+	"chromas": []
+}

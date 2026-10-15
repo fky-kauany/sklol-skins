@@ -1,0 +1,24 @@
+{
+	"id": "garen-palmeiras",
+	"name": "Garen palmeiras",
+	"champion": 86,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Garen\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nCustom do garen porcao, nessa custom mudei as texturas e particulas parecidas para verde e adicionei escudo do palmeiras no W, audios meme na ut e w aproveite :) \n\npalmeirassss\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/e760984b-5843-4a4b-8108-f747e45cb021\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/garen-palmeiras/thumb.webp?v=5503a4e6",
+	"file": {
+		"version": 1,
+		"asset": "garen-palmeiras-v1.fantome",
+		"size": 15244098,
+		"sha256": "9b28705d6612ddf93d1b05d9086e5a395ad7b794efab10d36f9a0d4e0a05912e"
+	},
+	"chromas": []
+}

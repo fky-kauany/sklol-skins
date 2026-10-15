@@ -1,0 +1,23 @@
+{
+	"id": "garbage-can-yasuo",
+	"name": "Garbage Can Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\n**Modified champion: Yasuo**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n#\n\n### Credits\n\n[\"garbage can 3D\"](https://skfb.ly/oJsSS) by Hafiene is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/34dd4209-3a44-469a-b2be-c3c7bb72fcc5\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/garbage-can-yasuo/thumb.webp?v=b8e8fdb3",
+	"file": {
+		"version": 1,
+		"asset": "garbage-can-yasuo-v1.fantome",
+		"size": 937505,
+		"sha256": "eb0188fdec8c9f12072cbbb85f9599d93771fd0608c1f8eda612b69ed100a3a8"
+	},
+	"chromas": []
+}

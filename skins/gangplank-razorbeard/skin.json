@@ -1,0 +1,26 @@
+{
+	"id": "gangplank-razorbeard",
+	"name": "Gangplank Razorbeard",
+	"champion": 41,
+	"base": 0,
+	"creator": "segil-mansay",
+	"description": "Now you're alone for all eternity! Ha! Ha! Ha!\r\nYou can access my social media and support me here: https://segil.carrd.com\n\n---\n\n**Created by** [Segil Mansay](https://runeforge.dev/users/Segil_Mansay)\n\n**Original:** https://runeforge.dev/mods/c2b5a2d6-7e22-4746-afd3-ff87a62bcfc6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gangplank-razorbeard/thumb.webp?v=30e22f65",
+	"file": {
+		"version": 1,
+		"asset": "gangplank-razorbeard-v1.fantome",
+		"size": 12336425,
+		"sha256": "23c1f071b0ed6d3f78c540476b0181e59d9fe15f8eb05e27adf7da57739e3d8c"
+	},
+	"chromas": []
+}

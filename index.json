@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:31:23.457Z",
+	"generatedAt": "2026-10-15T09:34:27.398Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1047,6 +1047,16 @@
 				"x": "https://x.com/p1mek"
 			}
 		},
+		"poonnotanishisui": {
+			"name": "PoonNotaniShisui",
+			"avatar": "creators/poonnotanishisui.png?v=58f2c735",
+			"bio": "About\nHI, I AM POONNOTANISHSUI.\n\nHello everyone,I am PoonNotaniShisui from HongKong and League of legends – Hololive Mod Author.\nA deeply hearing-impaired person…as a LOL Hololive and Vtuber and Blue Archive Mod Author at the same time\nI like to watch many different Vtubers, and slowly become a modder\n\nAlthough I have experienced different difficulties, hardships and pains, not in good health, I will continue to do it.\nAt the same time I have other vtuber.\n\nIt takes a lot of time to make a lot o",
+			"links": {
+				"discord": "https://discord.gg/VCEK4VRrtx",
+				"site": "https://3d.nicovideo.jp/works/td76672",
+				"youtube": "https://youtu.be/SRvNvYbYmsY"
+			}
+		},
 		"prinzz": {
 			"name": "Prinzz",
 			"avatar": "creators/prinzz.webp?v=7e2378fa",
@@ -1173,6 +1183,15 @@
 			"name": "Sayanox",
 			"avatar": "creators/sayanox.png?v=965583c5",
 			"links": {}
+		},
+		"segil-mansay": {
+			"name": "Segil Mansay",
+			"avatar": "creators/segil-mansay.jpg?v=f2da5956",
+			"bio": "League modder, artist and philosophy student.\nNone of my work is created using AI, and it never will be.",
+			"links": {
+				"site": "https://segil.carrd.com/",
+				"youtube": "https://youtu.be/HstdYTGOVP8"
+			}
 		},
 		"seweski": {
 			"name": "Seweski",
@@ -10611,6 +10630,244 @@
 				"asset": "galio-garp-v1.fantome",
 				"size": 15039143,
 				"sha256": "71f0ca21b8eb3edb586b29f61b0ec0a0c0defb1d9701fe31582632fc505a113e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-hololive-houshou-marine-gangplankv2-0",
+			"name": "Hololive Houshou Marine GangplankV2.0",
+			"champion": 41,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gangplank-hololive-houshou-marine-gangplankv2-0/thumb.webp?v=192d4f5e",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-hololive-houshou-marine-gangplankv2-0-v1.fantome",
+				"size": 10838838,
+				"sha256": "3522fdb7937bed4fa3a7e0a5da3da10daa479bfed4f18daffce2118c51a60ad3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-razorbeard",
+			"name": "Gangplank Razorbeard",
+			"champion": 41,
+			"base": 0,
+			"creator": "segil-mansay",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gangplank-razorbeard/thumb.webp?v=30e22f65",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-razorbeard-v1.fantome",
+				"size": 12336425,
+				"sha256": "23c1f071b0ed6d3f78c540476b0181e59d9fe15f8eb05e27adf7da57739e3d8c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangplank-vine-boom-sfx",
+			"name": "Gangplank Vine Boom SFX",
+			"champion": 41,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gangplank-vine-boom-sfx/thumb.webp?v=5acc8ca0",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-vine-boom-sfx-v1.fantome",
+				"size": 1788802,
+				"sha256": "553685192116c481c54b6a5e1d8d5aed11604f6b5814504e182102d4ed5fe92b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gangster-renekton",
+			"name": "Gangster Renekton",
+			"champion": 58,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gangster-renekton/thumb.webp?v=5952d09c",
+			"file": {
+				"version": 1,
+				"asset": "gangster-renekton-v1.fantome",
+				"size": 1334323,
+				"sha256": "32519ed53eecf61e4cfbcc873f855e8aff311a352c41584976548bb9189159f7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ganyu-jhin",
+			"name": "Ganyu Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ganyu-jhin/thumb.webp?v=af0a0133",
+			"file": {
+				"version": 1,
+				"asset": "ganyu-jhin-v1.fantome",
+				"size": 40588298,
+				"sha256": "89d76a49e2f2d60b5dc3491e4fe6eda39a6874fd86e7c3f8e18253671c560166"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garbage-can-yasuo",
+			"name": "Garbage Can Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/garbage-can-yasuo/thumb.webp?v=b8e8fdb3",
+			"file": {
+				"version": 1,
+				"asset": "garbage-can-yasuo-v1.fantome",
+				"size": 937505,
+				"sha256": "eb0188fdec8c9f12072cbbb85f9599d93771fd0608c1f8eda612b69ed100a3a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garbage-can-yone",
+			"name": "Garbage Can Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/garbage-can-yone/thumb.webp?v=ab3ef286",
+			"file": {
+				"version": 1,
+				"asset": "garbage-can-yone-v1.fantome",
+				"size": 739350,
+				"sha256": "8ba1053e5331b6d9905fff87bc502973ca2d7da94b50a0c545ae42c5a2bb157a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garen-palmeiras",
+			"name": "Garen palmeiras",
+			"champion": 86,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/garen-palmeiras/thumb.webp?v=5503a4e6",
+			"file": {
+				"version": 1,
+				"asset": "garen-palmeiras-v1.fantome",
+				"size": 15244098,
+				"sha256": "9b28705d6612ddf93d1b05d9086e5a395ad7b794efab10d36f9a0d4e0a05912e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garen-tryndamere",
+			"name": "Garen Tryndamere",
+			"champion": 23,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/garen-tryndamere/thumb.webp?v=02e31c05",
+			"file": {
+				"version": 1,
+				"asset": "garen-tryndamere-v1.fantome",
+				"size": 943174,
+				"sha256": "2874e52c66f3eb4484445b8b8f64d47fb3052a7d228c99d1349f106917a90548"
+			},
+			"chromas": []
+		},
+		{
+			"id": "garen-without-the-fella",
+			"name": "Garen Without the Fella",
+			"champion": 86,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/garen-without-the-fella/thumb.webp?v=c1543d9a",
+			"file": {
+				"version": 1,
+				"asset": "garen-without-the-fella-v1.fantome",
+				"size": 15387,
+				"sha256": "949175b486bd0abe7cc6434f8d77b27573d53002cd3ca1cb1c80ed721791c2c2"
 			},
 			"chromas": []
 		},

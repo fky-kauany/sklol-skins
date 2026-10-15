@@ -1,0 +1,23 @@
+{
+	"id": "garbage-can-yone",
+	"name": "Garbage Can Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\n**Modified champion: Yone**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n#\n\n### Credits\n\n[\"garbage can 3D\"](https://skfb.ly/oJsSS) by Hafiene is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/86c13f00-a54e-4aa8-86d6-b31f2deddbdc\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/garbage-can-yone/thumb.webp?v=ab3ef286",
+	"file": {
+		"version": 1,
+		"asset": "garbage-can-yone-v1.fantome",
+		"size": 739350,
+		"sha256": "8ba1053e5331b6d9905fff87bc502973ca2d7da94b50a0c545ae42c5a2bb157a"
+	},
+	"chromas": []
+}
