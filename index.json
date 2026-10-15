@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T15:07:39.480Z",
+	"generatedAt": "2026-10-15T15:11:00.341Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1003,6 +1003,13 @@
 			"name": "lavei3",
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=1CHkYXsDRPM"
+			}
+		},
+		"lawarmor": {
+			"name": "lawarmor",
+			"avatar": "creators/lawarmor.png?v=8b3a490a",
+			"links": {
+				"youtube": "https://youtu.be/8H8cnIUkMfw"
 			}
 		},
 		"lemonsquare": {
@@ -35421,6 +35428,248 @@
 				"asset": "yuumi-yunara-v1.fantome",
 				"size": 512799,
 				"sha256": "4257d7f120d285b0fc2ce969d45ed14e59ab44342119267717b5f19a4668f769"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-zed",
+			"name": "Yuumi Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-zed/thumb.webp?v=edd5d336",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-zed-v1.fantome",
+				"size": 366398,
+				"sha256": "6bfc2f0e3e327c9403ca84bd93708dce97aa2cc5d80172edc7848132884da1ae"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuzuha-zeri",
+			"name": "Yuzuha Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "shroomed",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuzuha-zeri/thumb.webp?v=226ef2c8",
+			"file": {
+				"version": 1,
+				"asset": "yuzuha-zeri-v1.fantome",
+				"size": 3168343,
+				"sha256": "20b90c4a2cf425880204205a413cbaf1c29785994c4c2ecd279df2223c26c868"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zaahen-arlong",
+			"name": "Zaahen Arlong",
+			"champion": 904,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zaahen-arlong/thumb.webp?v=f320ec04",
+			"file": {
+				"version": 1,
+				"asset": "zaahen-arlong-v1.fantome",
+				"size": 54194584,
+				"sha256": "652e66d9740d932815dc31ea944c709a7aa99f72ec1b4ba86119805caadb6a4c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zamasu-fused-kassadin",
+			"name": "Zamasu (Fused) Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "lawarmor",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zamasu-fused-kassadin/thumb.webp?v=d2865a98",
+			"file": {
+				"version": 1,
+				"asset": "zamasu-fused-kassadin-v1.fantome",
+				"size": 5803963,
+				"sha256": "88cc0dffeb10e512800ca0ebff56482f9e95f764d15e2f15115fd73aae08c4c4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-faker-outplay-sfx-on-ult",
+			"name": "Zed - Faker outplay SFX on ult",
+			"champion": 238,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zed-faker-outplay-sfx-on-ult/thumb.webp?v=664e54b8",
+			"file": {
+				"version": 1,
+				"asset": "zed-faker-outplay-sfx-on-ult-v1.fantome",
+				"size": 1478337,
+				"sha256": "1af5d2a02ae995a9ead5afd5a55a792f4326dc594890c78f669072c7a11d59c2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zed-zedri",
+			"name": "Zedri",
+			"champion": 238,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zed-zedri/thumb.webp?v=ed7b7dad",
+			"file": {
+				"version": 1,
+				"asset": "zed-zedri-v1.fantome",
+				"size": 2806095,
+				"sha256": "09479c2fbc6cc64be686280f7644f67b7f1e39d91557d7f3c527b3a8000926a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeri-irez",
+			"name": "ireZ",
+			"champion": 221,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zeri-irez/thumb.webp?v=6561278f",
+			"file": {
+				"version": 1,
+				"asset": "zeri-irez-v1.fantome",
+				"size": 3205142,
+				"sha256": "dd58cd2d3bad2eec406e06694fc5bd7c13bea5b4e020577b2784a888e1190bd7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zerotwo-as-qiyana",
+			"name": "ZeroTwo As Qiyana",
+			"champion": 246,
+			"base": 0,
+			"creator": "arcados",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zerotwo-as-qiyana/thumb.webp?v=700c154b",
+			"file": {
+				"version": 1,
+				"asset": "zerotwo-as-qiyana-v1.fantome",
+				"size": 1156495,
+				"sha256": "cd78f239801340441a6f7e02f11bb97af0715ba80fc32ea87abc8938b6daabdf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeus-volibear-god-of-war",
+			"name": "Zeus (Volibear) GOD OF WAR",
+			"champion": 106,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zeus-volibear-god-of-war/thumb.webp?v=2dd59102",
+			"file": {
+				"version": 1,
+				"asset": "zeus-volibear-god-of-war-v1.fantome",
+				"size": 57825158,
+				"sha256": "e34903c134452d792cf3cbce0435fa8e1a996bd98bed480b53d1a05d891454d6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zhuxin-mel",
+			"name": "Zhuxin Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/zhuxin-mel/thumb.webp?v=0b65827f",
+			"file": {
+				"version": 1,
+				"asset": "zhuxin-mel-v1.fantome",
+				"size": 57201541,
+				"sha256": "4b06098db562427dedb4fc7c92596cb4b4638c2acf0e36339a1650fd67d5383f"
 			},
 			"chromas": []
 		},

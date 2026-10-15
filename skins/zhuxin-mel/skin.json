@@ -1,0 +1,26 @@
+{
+	"id": "zhuxin-mel",
+	"name": "Zhuxin Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/89347057-e81c-4b19-bc8a-1babca8a5628\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zhuxin-mel/thumb.webp?v=0b65827f",
+	"file": {
+		"version": 1,
+		"asset": "zhuxin-mel-v1.fantome",
+		"size": 57201541,
+		"sha256": "4b06098db562427dedb4fc7c92596cb4b4638c2acf0e36339a1650fd67d5383f"
+	},
+	"chromas": []
+}

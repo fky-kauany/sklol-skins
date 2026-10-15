@@ -1,0 +1,24 @@
+{
+	"id": "zeri-irez",
+	"name": "ireZ",
+	"champion": 221,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## The release has only the model and particles. Multiple mod downloads for one post has not yet been implemented into Runeforge v2.0. In the meantime if you wish to download the voiceover please use this mediafire link: [https://www.mediafire.com/file/e3xrft8xuo82nat/Zeri_ireZ_VO_V1.1.0_by_Aropatnik.fantome/file](https://www.mediafire.com/file/e3xrft8xuo82nat/Zeri_ireZ_VO_V1.1.0_by_Aropatnik.fantome/file) [VO link updated 21.11.2025 for patch 25.23]\n\nMade for April Fools 2025\n\n#\n\n### Information\n\n**Modified champion: Zeri**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/0ed94080-cfb0-4068-b69c-4933c315d3f2\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zeri-irez/thumb.webp?v=6561278f",
+	"file": {
+		"version": 1,
+		"asset": "zeri-irez-v1.fantome",
+		"size": 3205142,
+		"sha256": "dd58cd2d3bad2eec406e06694fc5bd7c13bea5b4e020577b2784a888e1190bd7"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "zeus-volibear-god-of-war",
+	"name": "Zeus (Volibear) GOD OF WAR",
+	"champion": 106,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "When using the Zeus GOW3 form (/laugh), some animations may look strange due to the blade's position.\n\nWhen Sylas copies the ultimate ability, it takes on the texture of the Blade of Olympus.\n\nThe mod uses sound files from other champions, specifically Spirit Guardian Udyr and Kled Base, so the sound effects from this mod might play when using those skins. If you've used any of my mods before, you've probably noticed this bug, LOL💀...\n\nThe mod uses the \"Volibear.bin\" file to make the critical attack animation ranged, which increases the chances of the mod breaking with each new patch. Yasuo and Mel's W abilities have not yet been tested on this skin; if you notice anything wrong that could be considered a 'Skin Hack', please contact me on Discord immediately.\n\nMod used in the Showcase video:\n\nhttps://runeforge.dev/mods/157b04d8-5ec6-4161-830c-3cf0813ffc76\n\nhttps://runeforge.dev/mods/050862a2-1100-4dfa-b5aa-73635297dba5\n\nhttps://runeforge.dev/mods/5256a367-ffe3-48d9-853f-a736d1eb2f3d\n\nIn the quality tests for this skin, these mods from other creators were tested together, so it's only fair to credit them here:\n\nhttps://runeforge.dev/mods/699a3d19-7635-411b-a53e-d9aaac2f9b05\n\nhttps://runeforge.dev/mods/55ad4266-ed98-4825-b2f7-163f53fbb426\n\n**Zeus Models:**\n\nhttps://www.deviantart.com/kabalstein/art/Zeus-Intro-913185840\n\n**Zeus Voice:**\n\nhttps://www.youtube.com/playlist?list=PL3966DF9DAA47C954\n\nhttps://www.youtube.com/watch?v=gukWI98Fio8\n\n**Zeus Loadscreen:**\n\nhttps://www.creativeuncut.com/gallery-05/gow2-zeus.html\n\n**Blade of Olympus Model:**\n\nhttps://www.cadnav.com/3d-models/model-42281.html\n\n**Blade of Olympus SFXs:**\n\nhttps://www.youtube.com/watch?v=sFYQyQuOvZo\nhttps://youtu.be/7IBFeSt18i4?si=RuyxR1JTrG2Caokx\n\n**Electric SFXs:**\n\nhttps://www.youtube.com/shorts/wnMImPsEqDE\nhttps://pixabay.com/sound-effects/search/electric/\n\nOther assets were extracted directly from the games GOW 2 and GOW GS using the\n[GOW Browser](https://github.com/mogaika/god_of_war_browser) and\n[PSound tools](https://www.romhacking.net/utilities/679/).\n\nCartoon used in the meme ->\nhttps://youtu.be/vM5z9s-N-0k?si=XOJTz8DrPeBfBlXL\nminute 2:42.\n\nfinal music used in the Showcase video ->\nhttps://youtu.be/zc_Ikj578fw?si=nT9CK2oVSrtcrLrb\n\nhttps://ko-fi.com/sirdy789L\n\nDISCORD: sirdyasd#8695\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/89c0a952-4d5d-4059-b178-2eaec4a14187\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zeus-volibear-god-of-war/thumb.webp?v=2dd59102",
+	"file": {
+		"version": 1,
+		"asset": "zeus-volibear-god-of-war-v1.fantome",
+		"size": 57825158,
+		"sha256": "e34903c134452d792cf3cbce0435fa8e1a996bd98bed480b53d1a05d891454d6"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "zed-faker-outplay-sfx-on-ult",
+	"name": "Zed - Faker outplay SFX on ult",
+	"champion": 238,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Zed**\n\n**Modified skin: Default (and all that use base ult SFX)**\n\n**Author: Aropatnik**\n\n## Credits\n\nAudio from [https://www.youtube.com/watch?v=ZPCfoCVCx3U](https://www.youtube.com/watch?v=ZPCfoCVCx3U)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/11aac56c-9b08-4f11-81a7-7ab3777d7a55\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zed-faker-outplay-sfx-on-ult/thumb.webp?v=664e54b8",
+	"file": {
+		"version": 1,
+		"asset": "zed-faker-outplay-sfx-on-ult-v1.fantome",
+		"size": 1478337,
+		"sha256": "1af5d2a02ae995a9ead5afd5a55a792f4326dc594890c78f669072c7a11d59c2"
+	},
+	"chromas": []
+}

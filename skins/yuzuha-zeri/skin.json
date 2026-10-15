@@ -1,0 +1,24 @@
+{
+	"id": "yuzuha-zeri",
+	"name": "Yuzuha Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "shroomed",
+	"description": "Mod Information\r\n\r\nChampion: Zeri\r\n\r\nModified skin: Default\r\n\r\nAuthor: Shroomed\r\n\r\nMod version: 1.0\r\n\r\nDescription: Yuzuha Zeri\r\n\r\n------------------------------------------------------------------------------------------------------------------------\r\n\r\nFeatures\r\n\r\nNew model and textures\r\n\r\nSupports all champion texture quality settings\r\n\r\nMinor VFX changes\r\n\r\nModified LoadScreen\n\n---\n\n**Created by** [Shroomed](https://runeforge.dev/users/Shroomed)\n\n**Original:** https://runeforge.dev/mods/ad9e717c-12e7-45e3-94cc-e96cd426d5de\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuzuha-zeri/thumb.webp?v=226ef2c8",
+	"file": {
+		"version": 1,
+		"asset": "yuzuha-zeri-v1.fantome",
+		"size": 3168343,
+		"sha256": "20b90c4a2cf425880204205a413cbaf1c29785994c4c2ecd279df2223c26c868"
+	},
+	"chromas": []
+}

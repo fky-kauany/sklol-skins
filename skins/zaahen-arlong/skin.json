@@ -1,0 +1,26 @@
+{
+	"id": "zaahen-arlong",
+	"name": "Zaahen Arlong",
+	"champion": 904,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "# 「 ARLONG 」\n### *Replaces Zaahen*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/8d259120-0bc6-4f3d-8459-12a364c608cd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zaahen-arlong/thumb.webp?v=f320ec04",
+	"file": {
+		"version": 1,
+		"asset": "zaahen-arlong-v1.fantome",
+		"size": 54194584,
+		"sha256": "652e66d9740d932815dc31ea944c709a7aa99f72ec1b4ba86119805caadb6a4c"
+	},
+	"chromas": []
+}

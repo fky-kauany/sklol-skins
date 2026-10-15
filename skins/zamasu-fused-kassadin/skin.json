@@ -1,0 +1,25 @@
+{
+	"id": "zamasu-fused-kassadin",
+	"name": "Zamasu (Fused) Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "lawarmor",
+	"description": "Changes Kassadin's base skin to Zamasu (Fused)\r\nChanges model, SFX, VFX, VO\r\n\r\nThis is my first real big character skin mod, the model is kinda chopped and whatnot, but its still cool :)\r\n\r\nIf you want to contact me or report a bug DM: lawarmor on discord\n\n---\n\n**Created by** [lawarmor](https://runeforge.dev/users/lawarmor)\n\n**Original:** https://runeforge.dev/mods/aa560ad6-ec9d-409d-a996-0d55f5ba0e60\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/zamasu-fused-kassadin/thumb.webp?v=d2865a98",
+	"file": {
+		"version": 1,
+		"asset": "zamasu-fused-kassadin-v1.fantome",
+		"size": 5803963,
+		"sha256": "88cc0dffeb10e512800ca0ebff56482f9e95f764d15e2f15115fd73aae08c4c4"
+	},
+	"chromas": []
+}
