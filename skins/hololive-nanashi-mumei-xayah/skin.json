@@ -1,0 +1,24 @@
+{
+	"id": "hololive-nanashi-mumei-xayah",
+	"name": "Hololive Nanashi Mumei Xayah",
+	"champion": 498,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Xayah\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Nanashi Mumei 3D model in this mod is from link: (https://3d.nicovideo.jp/works/td84230 )\n* Loadscreen art by: ( [https://www.pixiv.net/artworks/92957861](https://www.pixiv.net/artworks/92957861) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/4de48a9c-a4f4-4a7f-888f-0c5e6f97cd87\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-nanashi-mumei-xayah/thumb.webp?v=edb29397",
+	"file": {
+		"version": 1,
+		"asset": "hololive-nanashi-mumei-xayah-v1.fantome",
+		"size": 36790077,
+		"sha256": "0cd681dbd820af2ffcba31b4da00d03a70eba748146f54ad32250bb9b6bde617"
+	},
+	"chromas": []
+}

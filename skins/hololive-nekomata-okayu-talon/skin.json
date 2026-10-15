@@ -1,0 +1,24 @@
+{
+	"id": "hololive-nekomata-okayu-talon",
+	"name": "Hololive Nekomata Okayu Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\r\n\r\n* Champion: Talon\r\n* Modified skin: Default\r\n* Author: PoonNotaniShisui\r\n* Skin Version: 1.2\r\n\r\n### SPECIFICATIONS\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* New voiceover\r\n\r\n### CREDITS\r\n\r\n* The Shishiro Botan 3D model in this mod is from ( [https://3d.nicovideo.jp/works/td63648](https://3d.nicovideo.jp/works/td63648) )\r\n* Loadscreen art by: ( [https://www.pixiv.net/artworks/79557351](https://www.pixiv.net/artworks/79557351) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/f4351006-c395-4abd-a18d-439a3d5d38ed\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-nekomata-okayu-talon/thumb.webp?v=9c2d22c8",
+	"file": {
+		"version": 1,
+		"asset": "hololive-nekomata-okayu-talon-v1.fantome",
+		"size": 4211866,
+		"sha256": "82cb1f934438ad58c6ba9a5d65ccce952224c79ed39d8e6fe8f8bfea7cf3b31f"
+	},
+	"chromas": []
+}

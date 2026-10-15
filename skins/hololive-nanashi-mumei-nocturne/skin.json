@@ -1,0 +1,25 @@
+{
+	"id": "hololive-nanashi-mumei-nocturne",
+	"name": "Hololive Nanashi Mumei Nocturne",
+	"champion": 56,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Nocturne\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n* Modified animations\n\n### CREDITS\n\n* The Nanashi Mumei 3D model in this mod is from link: ( [https://sketchfab.com/3d-models/nanashi-mumei-9c3ef71337c14e049d2d1e959dc59f61](https://sketchfab.com/3d-models/nanashi-mumei-9c3ef71337c14e049d2d1e959dc59f61) )\n* Loadscreen art by: ( [https://wall.alphacoders.com/big.php?i=1182152\\&lang=Chinese](https://wall.alphacoders.com/big.php?i=1182152\\&lang=Chinese) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/d9bc157f-6803-472b-8061-38e0c6ad044d\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-nanashi-mumei-nocturne/thumb.webp?v=a1f822e6",
+	"file": {
+		"version": 1,
+		"asset": "hololive-nanashi-mumei-nocturne-v1.fantome",
+		"size": 7640542,
+		"sha256": "3f3a2280553877132b2013860aa9a659ad27164c4c30ecf68ac7ed6365616121"
+	},
+	"chromas": []
+}

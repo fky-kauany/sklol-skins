@@ -1,0 +1,24 @@
+{
+	"id": "hololive-nanashi-mumei-katarina",
+	"name": "Hololive Nanashi Mumei Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Katarina\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n* Description: Mumei\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Nanashi Mumei 3D model in this mod is from link: ( [https://sketchfab.com/3d-models/nanashi-mumei-9c3ef71337c14e049d2d1e959dc59f61](https://sketchfab.com/3d-models/nanashi-mumei-9c3ef71337c14e049d2d1e959dc59f61) )\n* Loadscreen art by: ( [https://pttcomics.com/C\\_Chat/1XjhhIqA](https://pttcomics.com/C_Chat/1XjhhIqA) )\n* Huge thanks to tarngaina for teach me fix problem and Suggest.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/26ad07d9-0ab2-4c51-9ce6-f0c3104e2221\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-nanashi-mumei-katarina/thumb.webp?v=7bd65852",
+	"file": {
+		"version": 1,
+		"asset": "hololive-nanashi-mumei-katarina-v1.fantome",
+		"size": 6338001,
+		"sha256": "aea7b9ab7f29b50d3618bb01529bb8a9d71da53a47e1b0244b755477db2ae0d4"
+	},
+	"chromas": []
+}

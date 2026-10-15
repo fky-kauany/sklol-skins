@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:24:13.350Z",
+	"generatedAt": "2026-10-15T10:27:25.790Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14932,6 +14932,248 @@
 				"asset": "hololive-nakiri-ayame-yone-casual-outfit-v1.fantome",
 				"size": 11597543,
 				"sha256": "6b37a34e4ec0d0eb1323d7468eb9e593dd6edb79b828f829726ab6e718c700a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-nanashi-mumei-katarina",
+			"name": "Hololive Nanashi Mumei Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-nanashi-mumei-katarina/thumb.webp?v=7bd65852",
+			"file": {
+				"version": 1,
+				"asset": "hololive-nanashi-mumei-katarina-v1.fantome",
+				"size": 6338001,
+				"sha256": "aea7b9ab7f29b50d3618bb01529bb8a9d71da53a47e1b0244b755477db2ae0d4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-nanashi-mumei-nocturne",
+			"name": "Hololive Nanashi Mumei Nocturne",
+			"champion": 56,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-nanashi-mumei-nocturne/thumb.webp?v=a1f822e6",
+			"file": {
+				"version": 1,
+				"asset": "hololive-nanashi-mumei-nocturne-v1.fantome",
+				"size": 7640542,
+				"sha256": "3f3a2280553877132b2013860aa9a659ad27164c4c30ecf68ac7ed6365616121"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-nanashi-mumei-xayah",
+			"name": "Hololive Nanashi Mumei Xayah",
+			"champion": 498,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-nanashi-mumei-xayah/thumb.webp?v=edb29397",
+			"file": {
+				"version": 1,
+				"asset": "hololive-nanashi-mumei-xayah-v1.fantome",
+				"size": 36790077,
+				"sha256": "0cd681dbd820af2ffcba31b4da00d03a70eba748146f54ad32250bb9b6bde617"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-natsuiro-matsuri-graves",
+			"name": "Hololive Natsuiro Matsuri Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-natsuiro-matsuri-graves/thumb.webp?v=64102d55",
+			"file": {
+				"version": 1,
+				"asset": "hololive-natsuiro-matsuri-graves-v1.fantome",
+				"size": 7168462,
+				"sha256": "64ba8bad782251495ebf696fdb146db62118f498bdf10bd8a4a0907014401ab3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-natsuiro-matsuri-taliyah",
+			"name": "Hololive Natsuiro Matsuri Taliyah",
+			"champion": 163,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-natsuiro-matsuri-taliyah/thumb.webp?v=538a125d",
+			"file": {
+				"version": 1,
+				"asset": "hololive-natsuiro-matsuri-taliyah-v1.fantome",
+				"size": 23096899,
+				"sha256": "2874db92baf82262cbbc5c3b14008bf3f6cf0ab456eaa7c7abbba01d1de25ea1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-nekomata-okayu-talon",
+			"name": "Hololive Nekomata Okayu Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-nekomata-okayu-talon/thumb.webp?v=9c2d22c8",
+			"file": {
+				"version": 1,
+				"asset": "hololive-nekomata-okayu-talon-v1.fantome",
+				"size": 4211866,
+				"sha256": "82cb1f934438ad58c6ba9a5d65ccce952224c79ed39d8e6fe8f8bfea7cf3b31f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-nerissa-ravencroft-jarvan-iv",
+			"name": "Hololive Nerissa Ravencroft Jarvan IV",
+			"champion": 59,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-nerissa-ravencroft-jarvan-iv/thumb.webp?v=09376abf",
+			"file": {
+				"version": 1,
+				"asset": "hololive-nerissa-ravencroft-jarvan-iv-v1.fantome",
+				"size": 6155330,
+				"sha256": "145de235ff6d25e5797c87a17445c769f51062afa18bf2f885e8a42609eb0f7b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-ninomae-ina-nis-illaoi",
+			"name": "Hololive Ninomae Ina'nis illaoi",
+			"champion": 420,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-ninomae-ina-nis-illaoi/thumb.webp?v=8d268dfa",
+			"file": {
+				"version": 1,
+				"asset": "hololive-ninomae-ina-nis-illaoi-v1.fantome",
+				"size": 19440018,
+				"sha256": "75a55c81c6c76703241864067676329ed648cfe183139bc221d9e0efe2d9f198"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-ninomae-ina-nis-malzahar",
+			"name": "Hololive Ninomae Ina'nis Malzahar",
+			"champion": 90,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-ninomae-ina-nis-malzahar/thumb.webp?v=abaa6a08",
+			"file": {
+				"version": 1,
+				"asset": "hololive-ninomae-ina-nis-malzahar-v1.fantome",
+				"size": 14805446,
+				"sha256": "77f024c3afac7d1ef293f749ff124c10ad6316f3a8d37372891b41fcb840c56d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-omaru-polka-shaco",
+			"name": "Hololive Omaru Polka Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-omaru-polka-shaco/thumb.webp?v=8972cc2c",
+			"file": {
+				"version": 1,
+				"asset": "hololive-omaru-polka-shaco-v1.fantome",
+				"size": 5173621,
+				"sha256": "10296ad0e67b34017c84bfc44f2864253911675c489f9b2a5fffda39444e9c91"
 			},
 			"chromas": []
 		},

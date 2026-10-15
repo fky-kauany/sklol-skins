@@ -1,0 +1,24 @@
+{
+	"id": "hololive-nerissa-ravencroft-jarvan-iv",
+	"name": "Hololive Nerissa Ravencroft Jarvan IV",
+	"champion": 59,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Jarvan IV\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: **「嗚呼、やはり良い響きですね――アイドルソングというものは」**\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Nerissa Ravencroft 3d model by : [https://3d.nicovideo.jp/works/td89866](https://3d.nicovideo.jp/works/td89866)\n* Loading screen art by : [https://danbooru.donmai.us/posts/6626063](https://danbooru.donmai.us/posts/6626063)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/97ca42f9-94c9-4f5b-b99a-55af71459028\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-nerissa-ravencroft-jarvan-iv/thumb.webp?v=09376abf",
+	"file": {
+		"version": 1,
+		"asset": "hololive-nerissa-ravencroft-jarvan-iv-v1.fantome",
+		"size": 6155330,
+		"sha256": "145de235ff6d25e5797c87a17445c769f51062afa18bf2f885e8a42609eb0f7b"
+	},
+	"chromas": []
+}

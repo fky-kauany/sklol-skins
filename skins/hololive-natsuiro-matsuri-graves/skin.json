@@ -1,0 +1,24 @@
+{
+	"id": "hololive-natsuiro-matsuri-graves",
+	"name": "Hololive Natsuiro Matsuri Graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Graves\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n* Modified particles\n\n### CREDITS\n\n* The Natsuiro Matsuri 3D model in this mod is from link: (https://3d.nicovideo.jp/works/td63646)\n* Loadscreen art by: (https://www.pixiv.net/artworks/79356122)\n* The Modified particles From  ( DOOM SLAYER GRAVES )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/d1b2d553-e0b0-42ba-b352-5dcc1fdaa47a\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-natsuiro-matsuri-graves/thumb.webp?v=64102d55",
+	"file": {
+		"version": 1,
+		"asset": "hololive-natsuiro-matsuri-graves-v1.fantome",
+		"size": 7168462,
+		"sha256": "64ba8bad782251495ebf696fdb146db62118f498bdf10bd8a4a0907014401ab3"
+	},
+	"chromas": []
+}

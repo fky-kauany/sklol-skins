@@ -1,0 +1,24 @@
+{
+	"id": "hololive-ninomae-ina-nis-illaoi",
+	"name": "Hololive Ninomae Ina'nis illaoi",
+	"champion": 420,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: illaoi\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n* Description: wah~\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* New voiceover\n\n### CREDITS\n\n* The Ninomae Ina'nis 3D model in this mod is from : ( [https://sketchfab.com/3d-models/hololive-ninomae-inanis-68d558e518d8420eaa78a101d90caa9f](https://sketchfab.com/3d-models/hololive-ninomae-inanis-68d558e518d8420eaa78a101d90caa9f) )\n* Loadscreen art from : ( [https://twitter.com/mazumaro](https://twitter.com/mazumaro) / [https://www.youtube.com/watch?v=oYUHqriCPkQ\\&t=15s](https://www.youtube.com/watch?v=oYUHqriCPkQ\\&t=15s) )\n* Huge thanks to tarngaina for teach me fix problem and Suggest.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/c2eff0bf-c0fe-4d97-bc59-856528bdbf56\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-ninomae-ina-nis-illaoi/thumb.webp?v=8d268dfa",
+	"file": {
+		"version": 1,
+		"asset": "hololive-ninomae-ina-nis-illaoi-v1.fantome",
+		"size": 19440018,
+		"sha256": "75a55c81c6c76703241864067676329ed648cfe183139bc221d9e0efe2d9f198"
+	},
+	"chromas": []
+}
