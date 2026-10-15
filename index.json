@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:40:07.599Z",
+	"generatedAt": "2026-10-15T10:43:14.824Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -54,6 +54,11 @@
 				"discord": "https://discord.gg/HEjuFmbm6g",
 				"site": "https://runeforge.dev/users/Moga"
 			}
+		},
+		"aletuno": {
+			"name": "Aletuno",
+			"avatar": "creators/aletuno.jpg?v=a7f2ea94",
+			"links": {}
 		},
 		"alexd": {
 			"name": "AleXD",
@@ -16178,6 +16183,257 @@
 				"asset": "hulk-dr-mundo-v1.fantome",
 				"size": 1314335,
 				"sha256": "bf0cae9ca9093b6287d3eb1dd7edb2055e36da0b5910a80f6d67e7207d699e97"
+			},
+			"chromas": []
+		},
+		{
+			"id": "human-brand",
+			"name": "Human Brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/human-brand/thumb.webp?v=42540d4b",
+			"file": {
+				"version": 1,
+				"asset": "human-brand-v1.fantome",
+				"size": 1938695,
+				"sha256": "331d47c3f52008a543710be890944bd78369a4873c6911443ba994a81695d003"
+			},
+			"chromas": []
+		},
+		{
+			"id": "huntrix-fiora",
+			"name": "Huntrix Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/huntrix-fiora/thumb.webp?v=005833ec",
+			"file": {
+				"version": 1,
+				"asset": "huntrix-fiora-v1.fantome",
+				"size": 14685849,
+				"sha256": "6160beba3053e3a4162f69206d3067daf9ae37a59de1abb427287c56c3a40a69"
+			},
+			"chromas": []
+		},
+		{
+			"id": "huntrix-katarina",
+			"name": "Huntrix Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/huntrix-katarina/thumb.webp?v=7ae4a24a",
+			"file": {
+				"version": 1,
+				"asset": "huntrix-katarina-v1.fantome",
+				"size": 14294020,
+				"sha256": "7ce87898928268231c1e6e3ca4cd53412370ff7e7335585e57d642f19149a54c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hwei-as-yusuke",
+			"name": "Hwei as yusuke",
+			"champion": 910,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hwei-as-yusuke/thumb.webp?v=83dc24b9",
+			"file": {
+				"version": 1,
+				"asset": "hwei-as-yusuke-v1.fantome",
+				"size": 11827169,
+				"sha256": "67a6ea785eb03b2f8c7513de9e83f3984986a95fef8dbc331ece4dc409765d27"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hwei-blank-canvas",
+			"name": "Hwei Blank Canvas",
+			"champion": 910,
+			"base": 0,
+			"creator": "aletuno",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hwei-blank-canvas/thumb.webp?v=d59ffcb3",
+			"file": {
+				"version": 1,
+				"asset": "hwei-blank-canvas-v1.fantome",
+				"size": 4142193,
+				"sha256": "03fe7b3279ed3ad8c07667582880c65e8bc0017a745c8032ca6e5ab2837e8e38"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hwei-makoto-yuki",
+			"name": "Hwei Makoto Yuki",
+			"champion": 910,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hwei-makoto-yuki/thumb.webp?v=6b42aa13",
+			"file": {
+				"version": 1,
+				"asset": "hwei-makoto-yuki-v1.fantome",
+				"size": 9425118,
+				"sha256": "0c5fb5aa10e116e0236683d9070a1753f387430f0500db246fe6410659d00f6a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ibuki-irelia-blue-archive",
+			"name": "Ibuki Irelia (Blue Archive)",
+			"champion": 39,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ibuki-irelia-blue-archive/thumb.webp?v=3ec67b39",
+			"file": {
+				"version": 1,
+				"asset": "ibuki-irelia-blue-archive-v1.fantome",
+				"size": 10239291,
+				"sha256": "6b1e4cf19ac5804f88e4a111e99a5731042e17f6802735ae32bc6a6dafa0a10d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ibuki-zoe-blue-archive",
+			"name": "Ibuki Zoe (Blue Archive)",
+			"champion": 142,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ibuki-zoe-blue-archive/thumb.webp?v=9384047b",
+			"file": {
+				"version": 1,
+				"asset": "ibuki-zoe-blue-archive-v1.fantome",
+				"size": 21532765,
+				"sha256": "6e93a02e6f3a1c3ac7bd214512d58a42ea223150448de5403876872fec8d9c37"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ichigo-kurosaki-wukong",
+			"name": "Ichigo Kurosaki Wukong",
+			"champion": 62,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ichigo-kurosaki-wukong/thumb.webp?v=410f1470",
+			"file": {
+				"version": 1,
+				"asset": "ichigo-kurosaki-wukong-v1.fantome",
+				"size": 1542754,
+				"sha256": "2ed4ccd7093db65c6e0be3efe1b7b5e16ca748434535a48ca8e7ec53bf5abbb6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "illyasviel-von-einzbern-lulu",
+			"name": "Illyasviel von Einzbern Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/illyasviel-von-einzbern-lulu/thumb.webp?v=2625faa0",
+			"file": {
+				"version": 1,
+				"asset": "illyasviel-von-einzbern-lulu-v1.fantome",
+				"size": 7575171,
+				"sha256": "b621571a1c5d34bfc55bb4af5915d9af2a887350f387b70553d815076e59b01d"
 			},
 			"chromas": []
 		},

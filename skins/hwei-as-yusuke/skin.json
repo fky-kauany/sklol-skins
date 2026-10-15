@@ -1,0 +1,26 @@
+{
+	"id": "hwei-as-yusuke",
+	"name": "Hwei as yusuke",
+	"champion": 910,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "What changed?\r\n\r\n-Vo\r\n-Model\r\n-icon\n\n---\n\n**Created by** [ceerel](https://runeforge.dev/users/ceerel)\n\n**Original:** https://runeforge.dev/mods/4d96a1aa-f243-4a38-8287-d717df426833\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hwei-as-yusuke/thumb.webp?v=83dc24b9",
+	"file": {
+		"version": 1,
+		"asset": "hwei-as-yusuke-v1.fantome",
+		"size": 11827169,
+		"sha256": "67a6ea785eb03b2f8c7513de9e83f3984986a95fef8dbc331ece4dc409765d27"
+	},
+	"chromas": []
+}

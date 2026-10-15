@@ -1,0 +1,24 @@
+{
+	"id": "hwei-blank-canvas",
+	"name": "Hwei Blank Canvas",
+	"champion": 910,
+	"base": 0,
+	"creator": "aletuno",
+	"description": "A colorful Texture And VFX recolor of Hwei.\n\nThe main direction of the skin is to mix colors with every key.\n\nQQ is Blue\n\nWW is Green\n\nEE is Red\n\nQW or WQ would be Cyan\n\nQE or EQ would be Magenta\n\nWE or EW would be Yellow\n\nPassive is White + Rainbow\n\nR is Black + Rainbow\n\n---\n\n**Created by** [Aletuno](https://runeforge.dev/users/Aletuno)\n\n**Original:** https://runeforge.dev/mods/9eb24188-bce8-4d02-847f-3a441884bedd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hwei-blank-canvas/thumb.webp?v=d59ffcb3",
+	"file": {
+		"version": 1,
+		"asset": "hwei-blank-canvas-v1.fantome",
+		"size": 4142193,
+		"sha256": "03fe7b3279ed3ad8c07667582880c65e8bc0017a745c8032ca6e5ab2837e8e38"
+	},
+	"chromas": []
+}

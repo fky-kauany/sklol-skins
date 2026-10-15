@@ -1,0 +1,24 @@
+{
+	"id": "ibuki-irelia-blue-archive",
+	"name": "Ibuki Irelia (Blue Archive)",
+	"champion": 39,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/d9924a41-0f5c-47e4-8d77-720a5176a7c5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ibuki-irelia-blue-archive/thumb.webp?v=3ec67b39",
+	"file": {
+		"version": 1,
+		"asset": "ibuki-irelia-blue-archive-v1.fantome",
+		"size": 10239291,
+		"sha256": "6b1e4cf19ac5804f88e4a111e99a5731042e17f6802735ae32bc6a6dafa0a10d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "human-brand",
+	"name": "Human Brand",
+	"champion": 63,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Brand Skin.\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Brand Skin\r\n\r\nAffects: Skin Color\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/e0e50996-6b46-4873-8b87-f297d657d5c9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/human-brand/thumb.webp?v=42540d4b",
+	"file": {
+		"version": 1,
+		"asset": "human-brand-v1.fantome",
+		"size": 1938695,
+		"sha256": "331d47c3f52008a543710be890944bd78369a4873c6911443ba994a81695d003"
+	},
+	"chromas": []
+}

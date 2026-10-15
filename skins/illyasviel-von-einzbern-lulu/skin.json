@@ -1,0 +1,27 @@
+{
+	"id": "illyasviel-von-einzbern-lulu",
+	"name": "Illyasviel von Einzbern Lulu",
+	"champion": 117,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Lulu\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Lulu with Illyasviel von Einzbern from Fate/Stay Night\r\n\r\nイリヤちゃんの聖杯ぺろぺろしたい。。。ぺろぺろぺろぺろ\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations\r\n* Edited ability sounds\r\n* New voiceover\r\n* New model, animations, SFX for Lulu’s summons/pets (Pix and the W critter)\r\n\r\n### Credits\r\n* Model from 300 Heroes\r\n* Visual assets from F/SN VN and UBW, HF ufotable show/movies\r\n* Voiceover from F/SN VN and UBW, HF ufotable show/movies\r\n* Dance emote music from Kadowaki Mai (Illya CV) cover of Pretty Fly (For A White Guy)\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/e5082967-d765-4d5a-930d-93407f846ab1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/illyasviel-von-einzbern-lulu/thumb.webp?v=2625faa0",
+	"file": {
+		"version": 1,
+		"asset": "illyasviel-von-einzbern-lulu-v1.fantome",
+		"size": 7575171,
+		"sha256": "b621571a1c5d34bfc55bb4af5915d9af2a887350f387b70553d815076e59b01d"
+	},
+	"chromas": []
+}

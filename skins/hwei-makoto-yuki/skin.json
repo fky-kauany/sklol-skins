@@ -1,0 +1,25 @@
+{
+	"id": "hwei-makoto-yuki",
+	"name": "Hwei Makoto Yuki",
+	"champion": 910,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "## Description:\n\n* Skins Modified: Base\n* Model ripped/rigged: XelandisModel converted and  rigged to MMD by elina002.\n* Voice: Akira Ishida in `Persona 3: Dancing in Moonlight` and `Persona 5: Royal`\n* Model: ATLUS, SEGA: Persona 3: Dancing in Moonlight.\n\n## Mod information:\n\n* Author: Ronni\n* YouTube: [https://www.youtube.com/@Makoto\\_Vinci](https://www.youtube.com/@Makoto_Vinci)\n* Recovery: Moga\n* Mod Version: 15.11.1.1\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/d0de32b2-f8ab-40d1-a5f3-bdfb5ddf9654\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hwei-makoto-yuki/thumb.webp?v=6b42aa13",
+	"file": {
+		"version": 1,
+		"asset": "hwei-makoto-yuki-v1.fantome",
+		"size": 9425118,
+		"sha256": "0c5fb5aa10e116e0236683d9070a1753f387430f0500db246fe6410659d00f6a"
+	},
+	"chromas": []
+}

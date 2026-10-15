@@ -1,0 +1,26 @@
+{
+	"id": "ibuki-zoe-blue-archive",
+	"name": "Ibuki Zoe (Blue Archive)",
+	"champion": 142,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "lmk if it breaks via discord link\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/2adea8bd-0b84-40b4-a66b-18eb77099c37\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ibuki-zoe-blue-archive/thumb.webp?v=9384047b",
+	"file": {
+		"version": 1,
+		"asset": "ibuki-zoe-blue-archive-v1.fantome",
+		"size": 21532765,
+		"sha256": "6e93a02e6f3a1c3ac7bd214512d58a42ea223150448de5403876872fec8d9c37"
+	},
+	"chromas": []
+}

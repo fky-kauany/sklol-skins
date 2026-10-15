@@ -1,0 +1,26 @@
+{
+	"id": "huntrix-fiora",
+	"name": "Huntrix Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Fiora\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Huntrix Fiora\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/3e5cd01d-d3b2-449c-a9f3-7c2540e51637\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/huntrix-fiora/thumb.webp?v=005833ec",
+	"file": {
+		"version": 1,
+		"asset": "huntrix-fiora-v1.fantome",
+		"size": 14685849,
+		"sha256": "6160beba3053e3a4162f69206d3067daf9ae37a59de1abb427287c56c3a40a69"
+	},
+	"chromas": []
+}
