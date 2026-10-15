@@ -1,0 +1,24 @@
+{
+	"id": "hololive-housho-marrine-gangplank",
+	"name": "Hololive Housho Marrine Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Gangplank\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: I’m honey\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified animations\n* New voiceover\n\n### CREDITS\n\n* The Housho Marrine 3D model in this mod is from (Discord: tarngaina#1234)\n* Loadscreen art by: ([https://www.youtube.com/watch?v=u\\_hUpHUTJwQ\\&list=PLt2KGInT-XD4nY6cUNYJvYwnNLYnsAPw0\\&index=6](https://www.youtube.com/watch?v=u_hUpHUTJwQ\\&list=PLt2KGInT-XD4nY6cUNYJvYwnNLYnsAPw0\\&index=6))\n* Huge thanks to tarngaina for let me borrow HOUSHOU MARINE MISS FORTUNE assets.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/42f35d4d-893f-4f45-bb1e-bf5cd1200ec7\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-housho-marrine-gangplank/thumb.webp?v=88b90de5",
+	"file": {
+		"version": 1,
+		"asset": "hololive-housho-marrine-gangplank-v1.fantome",
+		"size": 10720649,
+		"sha256": "cc59855b3cb59337d7f62d85ca4e389f6bc80751116fe8cae7fc62f4a8d0a888"
+	},
+	"chromas": []
+}

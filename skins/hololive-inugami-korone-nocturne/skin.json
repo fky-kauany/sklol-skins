@@ -1,0 +1,25 @@
+{
+	"id": "hololive-inugami-korone-nocturne",
+	"name": "Hololive Inugami Korone Nocturne",
+	"champion": 56,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Nocturne\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n\n### SPECIFICATIONSNew model and texture****&#x20;\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* New voiceover\n\n### CREDITS\n\n* The Inugami Korone 3d model in this mod is free-download at: [https://www.mmd.hololive.tv](https://www.mmd.hololive.tv)\n* Loadscreen art by: ( [https://www.pixiv.net/artworks/83868064](https://www.pixiv.net/artworks/83868064) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/9d37b6df-5f11-4bcb-ad55-b2e3addd1329\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-inugami-korone-nocturne/thumb.webp?v=6e1e342c",
+	"file": {
+		"version": 1,
+		"asset": "hololive-inugami-korone-nocturne-v1.fantome",
+		"size": 6506544,
+		"sha256": "5984ae2116239584887144de428f4602fa40004ba155510f258e4a8f1e16c150"
+	},
+	"chromas": []
+}

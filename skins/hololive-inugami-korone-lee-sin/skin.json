@@ -1,0 +1,25 @@
+{
+	"id": "hololive-inugami-korone-lee-sin",
+	"name": "Hololive Inugami Korone Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Lee Sin\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\\*\\*\\*\\*&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* New voiceover\n\n### CREDITS\n\n* The Inugami Korone 3d model in this mod is free-download at: [https://www.mmd.hololive.tv](https://www.mmd.hololive.tv)\n* Loadscreen art by: (https://www.pixiv.net/artworks/83868064)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/377b1221-bffd-4666-9d9f-f291b3033cca\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-inugami-korone-lee-sin/thumb.webp?v=65664c5a",
+	"file": {
+		"version": 1,
+		"asset": "hololive-inugami-korone-lee-sin-v1.fantome",
+		"size": 10278767,
+		"sha256": "e8908c1e66ea5e371ed6b2804dbe735740bb1ba1eae2c03be0948f3590a0a10f"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "hololive-kazama-iroha-akali",
+	"name": "Hololive Kazama Iroha Akali",
+	"champion": 84,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Akali\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Mod version: 1.1\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Kazama Iroha 3D moidel in this mod is from ( [https://3d.nicovideo.jp/works/td82341](https://3d.nicovideo.jp/works/td82341) )\n* Loadscreen art by: ( [https://twitter.com/pompmaker1/status/1465761329440956420?s=20\\&t=kN7Zk9PSnDXb5V2v66X1ow](https://twitter.com/pompmaker1/status/1465761329440956420?s=20\\&t=kN7Zk9PSnDXb5V2v66X1ow) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/b2690653-2644-4584-9e8c-9386ee45167e\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-kazama-iroha-akali/thumb.webp?v=ebfd34d7",
+	"file": {
+		"version": 1,
+		"asset": "hololive-kazama-iroha-akali-v1.fantome",
+		"size": 12666859,
+		"sha256": "85e86a136fd9e5f535b6f2c4dfcb2393917ac9c5570ff9f0107a95b89d1ce806"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:14:50.882Z",
+	"generatedAt": "2026-10-15T10:17:58.537Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14202,6 +14202,249 @@
 				"asset": "hololive-hoshimachi-suisei-olaf-v1.fantome",
 				"size": 6204104,
 				"sha256": "fe6786ee881fae772798ce66c389ca5bc2e30730975085c132928b5971039697"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-housho-marine-fiora",
+			"name": "Hololive Housho Marine Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-housho-marine-fiora/thumb.webp?v=2882c07f",
+			"file": {
+				"version": 1,
+				"asset": "hololive-housho-marine-fiora-v1.fantome",
+				"size": 5107636,
+				"sha256": "af475b1772fa31d34415a8b795bb05b2cb9e0ba7c321510bcf8431964e5f89f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-housho-marrine-gangplank",
+			"name": "Hololive Housho Marrine Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-housho-marrine-gangplank/thumb.webp?v=88b90de5",
+			"file": {
+				"version": 1,
+				"asset": "hololive-housho-marrine-gangplank-v1.fantome",
+				"size": 10720649,
+				"sha256": "cc59855b3cb59337d7f62d85ca4e389f6bc80751116fe8cae7fc62f4a8d0a888"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-houshou-marine-miss-fortune",
+			"name": "Hololive Houshou Marine Miss Fortune",
+			"champion": 21,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-houshou-marine-miss-fortune/thumb.webp?v=61f21188",
+			"file": {
+				"version": 1,
+				"asset": "hololive-houshou-marine-miss-fortune-v1.fantome",
+				"size": 3728583,
+				"sha256": "aaf8cccd248bde568ec7198440431101805787175bbd2884536fae169ed9b5bf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-inugami-korone-galio",
+			"name": "Hololive Inugami Korone Galio",
+			"champion": 3,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-inugami-korone-galio/thumb.webp?v=f0802a3e",
+			"file": {
+				"version": 1,
+				"asset": "hololive-inugami-korone-galio-v1.fantome",
+				"size": 15599227,
+				"sha256": "1dc14cbfc933124d3b667e17b014edd31db2c75504ce181e937f4e3354308743"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-inugami-korone-lee-sin",
+			"name": "Hololive Inugami Korone Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-inugami-korone-lee-sin/thumb.webp?v=65664c5a",
+			"file": {
+				"version": 1,
+				"asset": "hololive-inugami-korone-lee-sin-v1.fantome",
+				"size": 10278767,
+				"sha256": "e8908c1e66ea5e371ed6b2804dbe735740bb1ba1eae2c03be0948f3590a0a10f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-inugami-korone-nasus",
+			"name": "Hololive Inugami Korone Nasus",
+			"champion": 75,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-inugami-korone-nasus/thumb.webp?v=3ae6154f",
+			"file": {
+				"version": 1,
+				"asset": "hololive-inugami-korone-nasus-v1.fantome",
+				"size": 10685554,
+				"sha256": "50285cbcf95ccb3ff2bfaf8a653802cd50cf41aaafff03ff4667828e32228e74"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-inugami-korone-nocturne",
+			"name": "Hololive Inugami Korone Nocturne",
+			"champion": 56,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-inugami-korone-nocturne/thumb.webp?v=6e1e342c",
+			"file": {
+				"version": 1,
+				"asset": "hololive-inugami-korone-nocturne-v1.fantome",
+				"size": 6506544,
+				"sha256": "5984ae2116239584887144de428f4602fa40004ba155510f258e4a8f1e16c150"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kazama-iroha-aatrox",
+			"name": "Hololive Kazama Iroha Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kazama-iroha-aatrox/thumb.webp?v=81493ba4",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kazama-iroha-aatrox-v1.fantome",
+				"size": 21784105,
+				"sha256": "bd91598a1638a43d8edcd71d02ee59dbf2e09576c56c03d32305d1d2c6eb0b6e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kazama-iroha-akali",
+			"name": "Hololive Kazama Iroha Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kazama-iroha-akali/thumb.webp?v=ebfd34d7",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kazama-iroha-akali-v1.fantome",
+				"size": 12666859,
+				"sha256": "85e86a136fd9e5f535b6f2c4dfcb2393917ac9c5570ff9f0107a95b89d1ce806"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kazama-iroha-master-yi",
+			"name": "Hololive Kazama Iroha Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kazama-iroha-master-yi/thumb.webp?v=62821cfc",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kazama-iroha-master-yi-v1.fantome",
+				"size": 6359938,
+				"sha256": "56ab43a09e30b3819d73a7373310d121daf06874f37f20dd8c233e4e39e944f8"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,25 @@
+{
+	"id": "hololive-inugami-korone-nasus",
+	"name": "Hololive Inugami Korone Nasus",
+	"champion": 75,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Nasus\n* Modified skin: Default\n* Author: tarngaina + PoonNotaniShisui\n* Skin Version: 1.3\n\n### SPECIFICATIONS\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles&#x20;\n* New voiceover\n\n### CREDITS\n\n* The Inugami Korone 3d model in this mod is free-download at: [https://www.mmd.hololive.tv](https://www.mmd.hololive.tv)\n* Loadingscreen art by: [https://twitter.com/kelly\\_0w0](https://twitter.com/kelly_0w0) and [https://www.pixiv.net/artworks/86815615](https://www.pixiv.net/artworks/86815615)\n* Huge thanks to GuiSai#7920 for help me alot.\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Inugami Korone Nasus.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/7c32eeb8-0da5-4124-8042-df82fb5a5731\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-inugami-korone-nasus/thumb.webp?v=3ae6154f",
+	"file": {
+		"version": 1,
+		"asset": "hololive-inugami-korone-nasus-v1.fantome",
+		"size": 10685554,
+		"sha256": "50285cbcf95ccb3ff2bfaf8a653802cd50cf41aaafff03ff4667828e32228e74"
+	},
+	"chromas": []
+}

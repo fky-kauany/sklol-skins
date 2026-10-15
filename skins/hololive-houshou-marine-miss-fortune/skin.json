@@ -1,0 +1,24 @@
+{
+	"id": "hololive-houshou-marine-miss-fortune",
+	"name": "Hololive Houshou Marine Miss Fortune",
+	"champion": 21,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATIONChampion: Miss Fortune\n\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n* Description: 宝石、宝、お金が大好きで、海賊になって宝を探すのが夢。海賊船を買うのが目標で今は陸でVTuberをしている。（ようするには今はただの海賊コスプレ女）お姉さん風にふるまい、小悪魔的に誘惑したりからかったりしてくる。\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Houshou Marine 3d model in this mod is free download at: [https://www.mmd.hololive.tv](https://www.mmd.hololive.tv)\n* Loading screen art by クルエルGZ: [https://www.pixiv.net/en/users/11601817](https://www.pixiv.net/en/users/11601817)\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Sakura Miko Brand.\n* The original author will not update/add mods anymore...Mods.Now the original author has transferred it to me to update, and the handover ceremony has been completed.All works about tarngaina will be continuously updated and remade.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/c3a038f0-4b0a-4300-94d4-925e1d74ec61\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-houshou-marine-miss-fortune/thumb.webp?v=61f21188",
+	"file": {
+		"version": 1,
+		"asset": "hololive-houshou-marine-miss-fortune-v1.fantome",
+		"size": 3728583,
+		"sha256": "aaf8cccd248bde568ec7198440431101805787175bbd2884536fae169ed9b5bf"
+	},
+	"chromas": []
+}
