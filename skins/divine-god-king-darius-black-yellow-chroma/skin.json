@@ -1,0 +1,23 @@
+{
+	"id": "divine-god-king-darius-black-yellow-chroma",
+	"name": "Divine God-King Darius Black&Yellow Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "* Modifled skin: Divine God-King Darius\n* Author: alexrogin123\n* Skin Version: 1.0\n\nIf u wish to support my work u can donate here : https://ko-fi.com/alexrogin\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/99018262-90d3-4295-835c-c7d1dcb4f7c4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/divine-god-king-darius-black-yellow-chroma/thumb.webp?v=e6a5aae3",
+	"file": {
+		"version": 1,
+		"asset": "divine-god-king-darius-black-yellow-chroma-v1.fantome",
+		"size": 1686228,
+		"sha256": "bc7ef911f86103365a947eb7773fbcab3544e7274a5f00444dd6dc042df3212a"
+	},
+	"chromas": []
+}

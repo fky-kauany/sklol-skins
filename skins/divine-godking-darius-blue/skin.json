@@ -1,0 +1,23 @@
+{
+	"id": "divine-godking-darius-blue",
+	"name": "Divine GodKing Darius Blue",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "The very first custom skin i made xd\n\nMod name : Divine GodKing Darius Blue\n\nSkin modified : Divine GodKing Darius\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/98f58a9f-5f54-4e92-87fc-7c30dad37ed2\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/divine-godking-darius-blue/thumb.webp?v=50257bbd",
+	"file": {
+		"version": 1,
+		"asset": "divine-godking-darius-blue-v1.fantome",
+		"size": 2785570,
+		"sha256": "f04d0539426f62d86f34f151f4bededd6ed233a7af8eefc798ae65778a1260e4"
+	},
+	"chromas": []
+}

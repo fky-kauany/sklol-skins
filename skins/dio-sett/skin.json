@@ -1,0 +1,26 @@
+{
+	"id": "dio-sett",
+	"name": "Dio (Sett)",
+	"champion": 875,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Sett\n\nSkin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Dio from JJBA Stardust crusaders. The Sett version is actually an alternative version of my Jotaro Sett mod, with new model and some new different animations and sounds.\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-New voiceover (for both mods)\n\n-Roadroller driving licence not included.\n\n\n\n\nSources:\n\n-Dio's model extracted from JJBA Diamond records. Stand model extracted from JJBA: All Star Battle by JesusMessiah.\n\n-Voiceover by JesusMessiah \n\n-All animations and effects made by me.\n\n-Some animations reused from my Jotaro Sett mod.\n\n\nLegacy Changelog:\n\n-03/05/2023: First official release\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-24/07/2024: Voiceover fixed and now now included in main mod.\n\n-26/07/2025: Pantheon version removed\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/7a880ee9-1ce2-43a0-b265-6278b70dca24\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dio-sett/thumb.webp?v=c7a46e73",
+	"file": {
+		"version": 1,
+		"asset": "dio-sett-v1.fantome",
+		"size": 17729198,
+		"sha256": "d8f93a6a92d1c2c45cf2513f86ab422d6eabd766ccb3cd00bf153dd8dcca7244"
+	},
+	"chromas": []
+}

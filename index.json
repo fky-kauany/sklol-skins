@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:56:46.252Z",
+	"generatedAt": "2026-10-15T08:59:51.648Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -816,6 +816,13 @@
 			"links": {
 				"discord": "https://discord.com/invite/megaomg",
 				"x": "https://x.com/megaomg_"
+			}
+		},
+		"michaelmyers": {
+			"name": "MichaelMyers",
+			"avatar": "creators/michaelmyers.jpg?v=4fc1e11d",
+			"links": {
+				"youtube": "https://youtu.be/4dZiqoqpCpM?si=E_noWu8nEGP2YUzN"
 			}
 		},
 		"moga": {
@@ -7667,6 +7674,32 @@
 			"chromas": []
 		},
 		{
+			"id": "dio-sett",
+			"name": "Dio (Sett)",
+			"champion": 875,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dio-sett/thumb.webp?v=c7a46e73",
+			"file": {
+				"version": 1,
+				"asset": "dio-sett-v1.fantome",
+				"size": 17729198,
+				"sha256": "d8f93a6a92d1c2c45cf2513f86ab422d6eabd766ccb3cd00bf153dd8dcca7244"
+			},
+			"chromas": []
+		},
+		{
 			"id": "dio-viego-road-roller-ult",
 			"name": "DIO Viego (Road Roller Ult)",
 			"champion": 234,
@@ -7693,6 +7726,147 @@
 			"chromas": []
 		},
 		{
+			"id": "discord-varus",
+			"name": "Discord Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "michaelmyers",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/discord-varus/thumb.webp?v=6af0c48a",
+			"file": {
+				"version": 1,
+				"asset": "discord-varus-v1.fantome",
+				"size": 7910532,
+				"sha256": "8af0852451b7a9c5551922fb90675e059121df3a9d6103b53900e27c2ada1674"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-fox-ahri",
+			"name": "Divine Fox Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-fox-ahri/thumb.webp?v=9d4f84b5",
+			"file": {
+				"version": 1,
+				"asset": "divine-fox-ahri-v1.fantome",
+				"size": 34326302,
+				"sha256": "ce794620da1bd39f1bb90519e5c6e014d9b11179580db21e0dd1fc564872c7cd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-god-king-darius-black-yellow-chroma",
+			"name": "Divine God-King Darius Black&Yellow Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-god-king-darius-black-yellow-chroma/thumb.webp?v=e6a5aae3",
+			"file": {
+				"version": 1,
+				"asset": "divine-god-king-darius-black-yellow-chroma-v1.fantome",
+				"size": 1686228,
+				"sha256": "bc7ef911f86103365a947eb7773fbcab3544e7274a5f00444dd6dc042df3212a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-god-king-darius-purple-chroma",
+			"name": "Divine God King Darius Purple Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-god-king-darius-purple-chroma/thumb.webp?v=3920f42c",
+			"file": {
+				"version": 1,
+				"asset": "divine-god-king-darius-purple-chroma-v1.fantome",
+				"size": 1704202,
+				"sha256": "f1d85aa45103fae35839776e13812870845076290b52d736232a4f7ed0befd7d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-godking-darius-blue",
+			"name": "Divine GodKing Darius Blue",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-godking-darius-blue/thumb.webp?v=50257bbd",
+			"file": {
+				"version": 1,
+				"asset": "divine-godking-darius-blue-v1.fantome",
+				"size": 2785570,
+				"sha256": "f04d0539426f62d86f34f151f4bededd6ed233a7af8eefc798ae65778a1260e4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-godking-darius-green-chroma",
+			"name": "Divine GodKing Darius Green Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-godking-darius-green-chroma/thumb.webp?v=beb389bb",
+			"file": {
+				"version": 1,
+				"asset": "divine-godking-darius-green-chroma-v1.fantome",
+				"size": 3753530,
+				"sha256": "d3d722222f8967ca916e52b2eee1994b7e1f5e32bfa2b89d794739a857da7f27"
+			},
+			"chromas": []
+		},
+		{
 			"id": "divine-godking-darius-inferno",
 			"name": "Divine GodKing Darius Inferno",
 			"champion": 122,
@@ -7712,6 +7886,29 @@
 				"asset": "divine-godking-darius-inferno-v1.fantome",
 				"size": 2124201,
 				"sha256": "f8f902fdc0ce85bf5d079d60f1ae873b4d94e2061f874117480f15590c77079d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "divine-godking-darius-pink-chroma",
+			"name": "Divine GodKing Darius Pink Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/divine-godking-darius-pink-chroma/thumb.webp?v=da37342b",
+			"file": {
+				"version": 1,
+				"asset": "divine-godking-darius-pink-chroma-v1.fantome",
+				"size": 2698886,
+				"sha256": "46694e2e39d8f6bfd5119d6bb21830db8371f5c403d3ed08849e0fc70d2e8a23"
 			},
 			"chromas": []
 		},
@@ -7761,6 +7958,56 @@
 				"asset": "dmc3-dante-samira-v1.fantome",
 				"size": 36255115,
 				"sha256": "825561d95001a0397d9784dc69bd91d2a2b37fbf33760c665134aaf40a6bb7f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dollface-renekton",
+			"name": "Dollface Renekton",
+			"champion": 58,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dollface-renekton/thumb.webp?v=65ef92f6",
+			"file": {
+				"version": 1,
+				"asset": "dollface-renekton-v1.fantome",
+				"size": 753299,
+				"sha256": "c658088c21ba60ed2edb56ac9f9154f3b49d64cb29e60caa5d12f35fef5871ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "donna-vayne-stella-sora",
+			"name": "Donna Vayne (Stella Sora)",
+			"champion": 67,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/donna-vayne-stella-sora/thumb.webp?v=1f3ef148",
+			"file": {
+				"version": 1,
+				"asset": "donna-vayne-stella-sora-v1.fantome",
+				"size": 7435261,
+				"sha256": "99dfaf20fe0bcd35466b7b823989c4c029c04dea40f62297333293dbe50fd0cc"
 			},
 			"chromas": []
 		},

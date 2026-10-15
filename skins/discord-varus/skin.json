@@ -1,0 +1,23 @@
+{
+	"id": "discord-varus",
+	"name": "Discord Varus",
+	"champion": 110,
+	"base": 0,
+	"creator": "michaelmyers",
+	"description": "-Champion : Varus\n\n\n\n-Modified Skin : Default\n\n\n\n-Author : Michael Myers\n\n\n\n-Mod Version : 1.0\n\n\n\n-New model and texture\n\n\n\n-Modified Loading Screen\n\n\n\n-New Sounds\n\n---\n\n**Created by** [MichaelMyers](https://runeforge.dev/users/MichaelMyers)\n\n**Original:** https://runeforge.dev/mods/51e24811-cfc2-4cd7-815c-fc5d0bca6929\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/discord-varus/thumb.webp?v=6af0c48a",
+	"file": {
+		"version": 1,
+		"asset": "discord-varus-v1.fantome",
+		"size": 7910532,
+		"sha256": "8af0852451b7a9c5551922fb90675e059121df3a9d6103b53900e27c2ada1674"
+	},
+	"chromas": []
+}

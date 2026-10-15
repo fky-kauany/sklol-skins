@@ -1,0 +1,23 @@
+{
+	"id": "dollface-renekton",
+	"name": "Dollface Renekton",
+	"champion": 58,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "## **Mod Information**\n\n***\n\n***\n\n* **Champion:** Renekton\n* **Modified Skin:** Default\n* **Author:** SlinkTheDrunk\n* **Mod Version:** 1.0.0\n\n## **Features**\n\n***\n\n***\n\n* Custom textures\n* Custom loading screen\n* Custom character icon\n\nThis mod was recovered by Vexrage.\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/dcf122ee-fe5a-42f1-ac6a-0ab0cab0442d\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dollface-renekton/thumb.webp?v=65ef92f6",
+	"file": {
+		"version": 1,
+		"asset": "dollface-renekton-v1.fantome",
+		"size": 753299,
+		"sha256": "c658088c21ba60ed2edb56ac9f9154f3b49d64cb29e60caa5d12f35fef5871ed"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "divine-godking-darius-green-chroma",
+	"name": "Divine GodKing Darius Green Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Divine GodKing Darius Green\n\nSkin modified : Divine GodKing Darius\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\nExtra Feature: On recent versions i added Aurelion Sol's shockwave particle on Darius's R\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/d55abab5-01b4-4850-b072-2d460aa55c95\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/divine-godking-darius-green-chroma/thumb.webp?v=beb389bb",
+	"file": {
+		"version": 1,
+		"asset": "divine-godking-darius-green-chroma-v1.fantome",
+		"size": 3753530,
+		"sha256": "d3d722222f8967ca916e52b2eee1994b7e1f5e32bfa2b89d794739a857da7f27"
+	},
+	"chromas": []
+}
