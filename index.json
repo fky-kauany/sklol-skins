@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:56:42.368Z",
+	"generatedAt": "2026-10-15T07:56:53.168Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -2741,6 +2741,29 @@
 				"asset": "eternal-aspect-diana-form-change-tweak-v1.fantome",
 				"size": 20623408,
 				"sha256": "ff6d24814f9ece8f05dd02f4df7c0d6c097be9029dad5b81c8d2480bd5bb6c59"
+			},
+			"chromas": []
+		},
+		{
+			"id": "green-blood-moon-pyke",
+			"name": "green blood moon pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "spykeep",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/green-blood-moon-pyke/thumb.webp?v=f22f3031",
+			"file": {
+				"version": 1,
+				"asset": "green-blood-moon-pyke-v1.fantome",
+				"size": 1311139,
+				"sha256": "688b68b377ecfd7df42384c9c94d20bd2a466f7292ef8743eb131e0f04b93d1a"
 			},
 			"chromas": []
 		},

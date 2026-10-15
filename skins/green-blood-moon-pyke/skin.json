@@ -1,0 +1,23 @@
+{
+	"id": "green-blood-moon-pyke",
+	"name": "green blood moon pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "spykeep",
+	"description": "he's green and kind of like a zombie\nhis abilities look like tmnt goo\nnothing else changed\n\n---\n\n**Created by** [spykeep](https://runeforge.dev/users/spykeep)\n\n**Original:** https://runeforge.dev/mods/a13b4374-7b21-48c9-9b05-7dac6f842d2d\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/green-blood-moon-pyke/thumb.webp?v=f22f3031",
+	"file": {
+		"version": 1,
+		"asset": "green-blood-moon-pyke-v1.fantome",
+		"size": 1311139,
+		"sha256": "688b68b377ecfd7df42384c9c94d20bd2a466f7292ef8743eb131e0f04b93d1a"
+	},
+	"chromas": []
+}
