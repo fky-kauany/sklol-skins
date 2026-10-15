@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-mel",
+	"name": "Star Guardian Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Mel\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Star Guardian Mel\n\n## [Download Chromas here](https://drive.google.com/drive/folders/146bBfwq6zAp2_dX6w5yXrW8v1baBW5EU?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/4c834c2c-f6b1-4d2e-a23a-17428f317ff8\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-mel/thumb.webp?v=bf401d3c",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-mel-v1.fantome",
+		"size": 26145086,
+		"sha256": "cbcb074dcace3305490ab3a7f380b90de38280b03e7613538ee6bcd1166e29cd"
+	},
+	"chromas": []
+}

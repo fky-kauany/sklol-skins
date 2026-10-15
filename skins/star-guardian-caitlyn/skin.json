@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-caitlyn",
+	"name": "Star Guardian Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Caitlyn\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.1\n\n###### Description: Star Guardian Caitlyn\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1BNmr4DGLDPMQfO2VrT3CpBtMIIAxT3_z?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/39d883c4-759f-4ebb-b90a-1a458dee5e6c\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-caitlyn/thumb.webp?v=076492ac",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-caitlyn-v1.fantome",
+		"size": 10711865,
+		"sha256": "4d8b85d175c202fa1fa5a94e9d946f88909bba4cf3d15e833c3dc7e0fd0b9aa3"
+	},
+	"chromas": []
+}

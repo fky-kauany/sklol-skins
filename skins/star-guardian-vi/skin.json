@@ -1,0 +1,23 @@
+{
+	"id": "star-guardian-vi",
+	"name": "Star Guardian Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "elpibefixer",
+	"description": "Champion: Vi\r\n\r\nSkin: Default\r\n\r\nAuthor:\r\n\r\n* Threshous (Original creator)\r\n\r\nFeatures:\r\n\r\n* New model and texture\r\n\r\n\r\n## EXTRA INFO\r\n\r\nThis mod was originally made by Threshous around 2018, this it's only a fixed version of the mod by Marbix\n\n---\n\n**Created by** [MarbixFixer](https://runeforge.dev/users/ElPibeFixer)\n\n**Original:** https://runeforge.dev/mods/48d2b3a2-e739-4824-8a10-ad162f98f78e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-vi/thumb.webp?v=3580b426",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-vi-v1.fantome",
+		"size": 1825452,
+		"sha256": "7d66e9393812c1c6109d792181f10a38839a9a228a01b1ab2a6e4ad3de3f3db2"
+	},
+	"chromas": []
+}

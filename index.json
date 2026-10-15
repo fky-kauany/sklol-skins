@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:46:59.186Z",
+	"generatedAt": "2026-10-15T13:52:40.407Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -30658,6 +30658,255 @@
 				"asset": "squidward-shaco-2-v1.fantome",
 				"size": 281479,
 				"sha256": "7ee3490e73aa5ec2fb0de461a5282012191dc49b3aaff7115d4788b493dd3d49"
+			},
+			"chromas": []
+		},
+		{
+			"id": "stapler-zyra",
+			"name": "Stapler Zyra",
+			"champion": 143,
+			"base": 5,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/stapler-zyra/thumb.webp?v=76ab08ca",
+			"file": {
+				"version": 1,
+				"asset": "stapler-zyra-v1.fantome",
+				"size": 3759996,
+				"sha256": "328096c62ce05c717d563154a0b91f0bcffe39ffe8702477529e35ef498c3d8c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-caitlyn",
+			"name": "Star Guardian Caitlyn",
+			"champion": 51,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-caitlyn/thumb.webp?v=076492ac",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-caitlyn-v1.fantome",
+				"size": 10711865,
+				"sha256": "4d8b85d175c202fa1fa5a94e9d946f88909bba4cf3d15e833c3dc7e0fd0b9aa3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-graves",
+			"name": "Star Guardian Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-graves/thumb.webp?v=6fd24fd4",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-graves-v1.fantome",
+				"size": 18921636,
+				"sha256": "4df4c43b8561e213ce43a9cbf74a0836ef968813fd9ec1b2e64678e7827b34ac"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-jinx-chromas",
+			"name": "Star Guardian Jinx chromas",
+			"champion": 222,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-jinx-chromas/thumb.webp?v=9ba99d97",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-jinx-chromas-v1.fantome",
+				"size": 6630438,
+				"sha256": "650bb8ccbc335dba3b24d77bf83f1860982c6a5e9c9a93cf9875e25a6a7df120"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-mel",
+			"name": "Star Guardian Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-mel/thumb.webp?v=bf401d3c",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-mel-v1.fantome",
+				"size": 26145086,
+				"sha256": "cbcb074dcace3305490ab3a7f380b90de38280b03e7613538ee6bcd1166e29cd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-nami",
+			"name": "Star Guardian Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-nami/thumb.webp?v=41e952d5",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-nami-v1.fantome",
+				"size": 13170195,
+				"sha256": "07bfc4f17b9fb2413b54312c225276b784302fa1369bde3811a7026d00942a55"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-nidalee",
+			"name": "Star Guardian Nidalee",
+			"champion": 76,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-nidalee/thumb.webp?v=6092e93b",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-nidalee-v1.fantome",
+				"size": 16304294,
+				"sha256": "e65c396273f14be8b4067a1c74ee1b0e1832bfb860e0a167cf251798997a4bb4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-sett",
+			"name": "Star Guardian Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-sett/thumb.webp?v=c4a7afcd",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-sett-v1.fantome",
+				"size": 1090132,
+				"sha256": "9b39412ad381ee778f323c7ed580f17ab45ed09693d814707a7efa4f861510d9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-guardian-vi",
+			"name": "Star Guardian Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "elpibefixer",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-guardian-vi/thumb.webp?v=3580b426",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-vi-v1.fantome",
+				"size": 1825452,
+				"sha256": "7d66e9393812c1c6109d792181f10a38839a9a228a01b1ab2a6e4ad3de3f3db2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "star-lord-lucian",
+			"name": "Star Lord Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "el7oot",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/star-lord-lucian/thumb.webp?v=89e3f628",
+			"file": {
+				"version": 1,
+				"asset": "star-lord-lucian-v1.fantome",
+				"size": 9728243,
+				"sha256": "ae604be7d407b9b10c9a9d252ef4480a90e2cec90d78a55042506d716125e719"
 			},
 			"chromas": []
 		},

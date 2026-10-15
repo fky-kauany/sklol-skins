@@ -1,0 +1,24 @@
+{
+	"id": "stapler-zyra",
+	"name": "Stapler Zyra",
+	"champion": 143,
+	"base": 5,
+	"creator": "cam",
+	"description": "tap tap tap tap tap tap tap tap tap\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/d1082225-2bb1-49b4-8093-de7f9c9eda76\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/stapler-zyra/thumb.webp?v=76ab08ca",
+	"file": {
+		"version": 1,
+		"asset": "stapler-zyra-v1.fantome",
+		"size": 3759996,
+		"sha256": "328096c62ce05c717d563154a0b91f0bcffe39ffe8702477529e35ef498c3d8c"
+	},
+	"chromas": []
+}

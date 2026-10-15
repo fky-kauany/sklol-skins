@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-nami",
+	"name": "Star Guardian Nami",
+	"champion": 267,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Nami\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.2\n\n###### Description: Star Guardian Nami\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1r7oJW0ZsmkFTxElujqUEyWnbsDVto3mZ?usp=drive_link)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/081b36a0-b630-4c5c-892d-8721aa808660\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-nami/thumb.webp?v=41e952d5",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-nami-v1.fantome",
+		"size": 13170195,
+		"sha256": "07bfc4f17b9fb2413b54312c225276b784302fa1369bde3811a7026d00942a55"
+	},
+	"chromas": []
+}

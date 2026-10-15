@@ -1,0 +1,23 @@
+{
+	"id": "star-guardian-sett",
+	"name": "Star Guardian Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\nStar Guardian Seraphines dress on Sett as well as some recolor to fit the orange and purple color scheme\n\n**Modified champion: Sett**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/910a45c9-5702-48a3-994b-ac4e59615b6a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-sett/thumb.webp?v=c4a7afcd",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-sett-v1.fantome",
+		"size": 1090132,
+		"sha256": "9b39412ad381ee778f323c7ed580f17ab45ed09693d814707a7efa4f861510d9"
+	},
+	"chromas": []
+}

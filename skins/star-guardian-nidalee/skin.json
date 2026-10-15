@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-nidalee",
+	"name": "Star Guardian Nidalee",
+	"champion": 76,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Nidalee\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.2\r\n\r\n###### Description: Star Guardian Nidalee\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/2aab8c2c-e8d9-4f05-8e7b-37c26d18578d\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-nidalee/thumb.webp?v=6092e93b",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-nidalee-v1.fantome",
+		"size": 16304294,
+		"sha256": "e65c396273f14be8b4067a1c74ee1b0e1832bfb860e0a167cf251798997a4bb4"
+	},
+	"chromas": []
+}

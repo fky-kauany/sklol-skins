@@ -1,0 +1,25 @@
+{
+	"id": "star-guardian-jinx-chromas",
+	"name": "Star Guardian Jinx chromas",
+	"champion": 222,
+	"base": 0,
+	"creator": "suriin",
+	"description": "# Remember to check out the [releases tab](https://runeforge.dev/mods/65ac971f-7660-4250-9261-f86cde39c2f5/releases) in order to download all of the chromas!\r\n\r\n\r\n## Important info\r\n\r\nThis will clash with any custom skin that modifies Star Guardian Jinx. Every chroma has a separate file you have to download and load into CS-lol. Only 1 chroma can be active at a time.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Star Guardian Jinx\r\n\r\n**Affects**: Textures, VFX\r\n\r\nDone upon request. Each skin is a chroma for Star Guardian Jinx. You have to load them in separately, because SG Jinx does not have chromas and we can't modify client files in order to make her have more to choose from in champ select, so each file modifies the base skin.\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/65ac971f-7660-4250-9261-f86cde39c2f5\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-jinx-chromas/thumb.webp?v=9ba99d97",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-jinx-chromas-v1.fantome",
+		"size": 6630438,
+		"sha256": "650bb8ccbc335dba3b24d77bf83f1860982c6a5e9c9a93cf9875e25a6a7df120"
+	},
+	"chromas": []
+}

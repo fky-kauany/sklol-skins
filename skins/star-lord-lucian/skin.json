@@ -1,0 +1,24 @@
+{
+	"id": "star-lord-lucian",
+	"name": "Star Lord Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "el7oot",
+	"description": "* Champion: Lucian\n* Skin: Base Skin\n\n## Features\n\n***\n\n* New model and textures\n* Supports all champion texture quality settings\n* Modified loading screen\n* Modified in-game icon\n* Changes his VO\n\n\n\n***\n\n## If the mod broke or if anyone has any suggestions, feel free to DM me at : mahmoud\\_ali\n\n---\n\n**Created by** [EL7OOT](https://runeforge.dev/users/EL7OOT)\n\n**Original:** https://runeforge.dev/mods/c0e35325-0334-4fa3-9e92-93b335a931b1\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-lord-lucian/thumb.webp?v=89e3f628",
+	"file": {
+		"version": 1,
+		"asset": "star-lord-lucian-v1.fantome",
+		"size": 9728243,
+		"sha256": "ae604be7d407b9b10c9a9d252ef4480a90e2cec90d78a55042506d716125e719"
+	},
+	"chromas": []
+}

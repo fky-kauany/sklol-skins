@@ -1,0 +1,26 @@
+{
+	"id": "star-guardian-graves",
+	"name": "Star Guardian Graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Graves with a custom-made model after Bearded Shepherds's original concept for Star Guardian Graves.\n\n## CREDITS\n\n* Model, Texture, VFX, [Splash Art](https://www.artstation.com/artwork/b52yQa) & Concept Art: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)[ ](https://www.artstation.com/siaosia)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n* You can also check out the [artstation post on Graves's model](https://www.artstation.com/artwork/o2Y3PW) for a closer look.\n\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/34c048e3-05c5-4c6f-85f0-1f8b1c41a9e5\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/star-guardian-graves/thumb.webp?v=6fd24fd4",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-graves-v1.fantome",
+		"size": 18921636,
+		"sha256": "4df4c43b8561e213ce43a9cbf74a0836ef968813fd9ec1b2e64678e7827b34ac"
+	},
+	"chromas": []
+}
