@@ -1,0 +1,25 @@
+{
+	"id": "prestige-high-noon-talon-blinding-white",
+	"name": "Prestige High Noon Talon - Blinding White",
+	"champion": 91,
+	"base": 0,
+	"creator": "benata",
+	"description": "(Will make video with the skin a bit later)\r\n\r\nVersion: 1.0.0\r\n\r\nChampion: Talon\r\n\r\nModified skin: Prestige High Noon\r\n\r\n###### Author: Benata\r\n\r\nMod Name: Blinding White\r\n\r\n***\r\n\r\nContact: [benata.contact.mail@gmail.com](https://mail.google.com/mail/u/2/)\n\n---\n\n**Created by** [Benata](https://runeforge.dev/users/Benata)\n\n**Original:** https://runeforge.dev/mods/df74849e-dc26-4e08-8c78-d680b6c62193\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-high-noon-talon-blinding-white/thumb.webp?v=9833a209",
+	"file": {
+		"version": 1,
+		"asset": "prestige-high-noon-talon-blinding-white-v1.fantome",
+		"size": 7729736,
+		"sha256": "2c3ccd9d3e897064471499a58c268ccc7fe54f94489d42ecd01d758db1a02bc2"
+	},
+	"chromas": []
+}

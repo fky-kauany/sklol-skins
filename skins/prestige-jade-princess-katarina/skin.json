@@ -1,0 +1,26 @@
+{
+	"id": "prestige-jade-princess-katarina",
+	"name": "Prestige Jade Princess Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Katarina\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Prestige Jade Princess Katarina\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1AzQxanq37yPr1zcUbPaCOb9_-PYxPWHB?usp=sharing)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/9841715c-cd94-41f2-bc57-55d5bbfb1972\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-jade-princess-katarina/thumb.webp?v=0f9bd858",
+	"file": {
+		"version": 1,
+		"asset": "prestige-jade-princess-katarina-v1.fantome",
+		"size": 16939157,
+		"sha256": "fa25b4cc70d53842f96e86f755e1fbafad9084a101d652e02c8cb88ef2e7b706"
+	},
+	"chromas": []
+}

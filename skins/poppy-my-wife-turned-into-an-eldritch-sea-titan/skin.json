@@ -1,0 +1,24 @@
+{
+	"id": "poppy-my-wife-turned-into-an-eldritch-sea-titan",
+	"name": "My wife turned into an eldritch sea titan",
+	"champion": 78,
+	"base": 0,
+	"creator": "sterak",
+	"description": "makes poppy into nautilus, made for Nautalio ;)\n\n---\n\n**Created by** [Sterak](https://runeforge.dev/users/Sterak)\n\n**Original:** https://runeforge.dev/mods/1c4ec4b1-de3f-4eef-8040-d3ea98243d53\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/poppy-my-wife-turned-into-an-eldritch-sea-titan/thumb.webp?v=15022496",
+	"file": {
+		"version": 1,
+		"asset": "poppy-my-wife-turned-into-an-eldritch-sea-titan-v1.fantome",
+		"size": 1220183,
+		"sha256": "df543d022107fb8b27ee163c08d749c6544080bf4e69912bac789ef96b9146d1"
+	},
+	"chromas": []
+}

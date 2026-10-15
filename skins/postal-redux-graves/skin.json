@@ -1,0 +1,23 @@
+{
+	"id": "postal-redux-graves",
+	"name": "postal redux graves",
+	"champion": 104,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Moving to “Paradise” was a tragic mistake. People here are…sick. I hear gunshots, screams after dark. Now the phone calls, sayin’ I’m being thrown outta this house. MY house, Wearing Kevlar vest and carrying a sidearm at all times now…\"\n\n***\n\n**Modified champion: Graves**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game: Postal redux**\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/d80af70a-cc27-44cd-81e4-0a00b9733e5c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/postal-redux-graves/thumb.webp?v=3f3ccdf4",
+	"file": {
+		"version": 1,
+		"asset": "postal-redux-graves-v1.fantome",
+		"size": 623141,
+		"sha256": "39473c82966cb8428faf6c9277c5a86d07050528c07c91943358ff1a288d4877"
+	},
+	"chromas": []
+}

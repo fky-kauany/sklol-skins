@@ -1,0 +1,26 @@
+{
+	"id": "poppy-s-heroic-yuumi-hammer",
+	"name": "Poppy's Heroic Yuumi-Hammer",
+	"champion": 78,
+	"base": 0,
+	"creator": "defaultbriar",
+	"description": "**Unleash maximum goof upon the rift with the one and only Yuumihammer!**\r\n\r\nThe Yuumihammer would be a well suited weapon for the true hero of demacia.\r\nOne can only wonder if Poppy will ever meet this hero...\n\n---\n\n**Created by** [DefaultBriar](https://runeforge.dev/users/DefaultBriar)\n\n**Original:** https://runeforge.dev/mods/3ed6e519-4f16-4d98-b3c9-605bd709f21e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/poppy-s-heroic-yuumi-hammer/thumb.webp?v=e730afba",
+	"file": {
+		"version": 1,
+		"asset": "poppy-s-heroic-yuumi-hammer-v1.fantome",
+		"size": 10333127,
+		"sha256": "c30e780381d89997a40921b8e5d33469f0aad0403d10efdea1b6d52ec1893bbc"
+	},
+	"chromas": []
+}

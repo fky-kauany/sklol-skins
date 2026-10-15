@@ -1,0 +1,25 @@
+{
+	"id": "prestige-dark-star-mordekaiser",
+	"name": "Prestige Dark Star Mordekaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "A Prestige style variant of Dark Star Mordekaiser.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/94e74749-a811-481c-8a2a-ce24fb60b744\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/prestige-dark-star-mordekaiser/thumb.webp?v=460f770c",
+	"file": {
+		"version": 1,
+		"asset": "prestige-dark-star-mordekaiser-v1.fantome",
+		"size": 22258413,
+		"sha256": "634792f228e6dd4609542132b98cda8e00f7246bfe5ae2e05cf50923ca0f9c35"
+	},
+	"chromas": []
+}

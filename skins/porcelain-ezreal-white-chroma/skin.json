@@ -1,0 +1,23 @@
+{
+	"id": "porcelain-ezreal-white-chroma",
+	"name": "Porcelain Ezreal White Chroma",
+	"champion": 81,
+	"base": 0,
+	"creator": "newdami",
+	"description": "Replacing Porcelain base skin\nPassive is now golden to know when passive is full stacked (if it was black or white u don't notice) Picked golden bc match colors when using Conqueror and Trinity\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/71450bc3-9406-44a1-bb1b-04a20be99e63\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/porcelain-ezreal-white-chroma/thumb.webp?v=c673f0fa",
+	"file": {
+		"version": 1,
+		"asset": "porcelain-ezreal-white-chroma-v1.fantome",
+		"size": 944701,
+		"sha256": "ed23d74043e123c6a2f5297556f993572df828f773399458e5ff86c955ded223"
+	},
+	"chromas": []
+}

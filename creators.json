@@ -262,6 +262,13 @@
 			"youtube": "https://www.youtube.com/c/HuselPusel"
 		}
 	},
+	"benata": {
+		"name": "Benata",
+		"avatar": "creators/benata.jpg?v=223db621",
+		"links": {
+			"site": "https://mail.google.com/mail/u/2/"
+		}
+	},
 	"beyonceknowles": {
 		"name": "beyonceknowles",
 		"links": {
@@ -412,6 +419,12 @@
 		"links": {
 			"site": "https://guns.lol/deepdowncs"
 		}
+	},
+	"defaultbriar": {
+		"name": "DefaultBriar",
+		"avatar": "creators/defaultbriar.jpg?v=e0370fe6",
+		"bio": "Snack?",
+		"links": {}
 	},
 	"defaulti": {
 		"name": "Defaulti",

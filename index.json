@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:28:19.726Z",
+	"generatedAt": "2026-10-15T12:31:27.068Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -265,6 +265,13 @@
 				"youtube": "https://www.youtube.com/c/HuselPusel"
 			}
 		},
+		"benata": {
+			"name": "Benata",
+			"avatar": "creators/benata.jpg?v=223db621",
+			"links": {
+				"site": "https://mail.google.com/mail/u/2/"
+			}
+		},
 		"beyonceknowles": {
 			"name": "beyonceknowles",
 			"links": {
@@ -415,6 +422,12 @@
 			"links": {
 				"site": "https://guns.lol/deepdowncs"
 			}
+		},
+		"defaultbriar": {
+			"name": "DefaultBriar",
+			"avatar": "creators/defaultbriar.jpg?v=e0370fe6",
+			"bio": "Snack?",
+			"links": {}
 		},
 		"defaulti": {
 			"name": "Defaulti",
@@ -25161,6 +25174,79 @@
 			"chromas": []
 		},
 		{
+			"id": "poppy-my-wife-turned-into-an-eldritch-sea-titan",
+			"name": "My wife turned into an eldritch sea titan",
+			"champion": 78,
+			"base": 0,
+			"creator": "sterak",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/poppy-my-wife-turned-into-an-eldritch-sea-titan/thumb.webp?v=15022496",
+			"file": {
+				"version": 1,
+				"asset": "poppy-my-wife-turned-into-an-eldritch-sea-titan-v1.fantome",
+				"size": 1220183,
+				"sha256": "df543d022107fb8b27ee163c08d749c6544080bf4e69912bac789ef96b9146d1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "poppy-s-heroic-yuumi-hammer",
+			"name": "Poppy's Heroic Yuumi-Hammer",
+			"champion": 78,
+			"base": 0,
+			"creator": "defaultbriar",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/poppy-s-heroic-yuumi-hammer/thumb.webp?v=e730afba",
+			"file": {
+				"version": 1,
+				"asset": "poppy-s-heroic-yuumi-hammer-v1.fantome",
+				"size": 10333127,
+				"sha256": "c30e780381d89997a40921b8e5d33469f0aad0403d10efdea1b6d52ec1893bbc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "porcelain-ezreal-white-chroma",
+			"name": "Porcelain Ezreal White Chroma",
+			"champion": 81,
+			"base": 0,
+			"creator": "newdami",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/porcelain-ezreal-white-chroma/thumb.webp?v=c673f0fa",
+			"file": {
+				"version": 1,
+				"asset": "porcelain-ezreal-white-chroma-v1.fantome",
+				"size": 944701,
+				"sha256": "ed23d74043e123c6a2f5297556f993572df828f773399458e5ff86c955ded223"
+			},
+			"chromas": []
+		},
+		{
 			"id": "porcelain-protector-ezreal-chroma-vfx",
 			"name": "Porcelain Protector Ezreal chroma VFX",
 			"champion": 81,
@@ -25182,6 +25268,180 @@
 				"asset": "porcelain-protector-ezreal-chroma-vfx-v1.fantome",
 				"size": 18657048,
 				"sha256": "28728948a7dcf79f6067090fa37d3518d861ce894f39d2c076e86eb60a1ad677"
+			},
+			"chromas": []
+		},
+		{
+			"id": "postal-redux-graves",
+			"name": "postal redux graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/postal-redux-graves/thumb.webp?v=3f3ccdf4",
+			"file": {
+				"version": 1,
+				"asset": "postal-redux-graves-v1.fantome",
+				"size": 623141,
+				"sha256": "39473c82966cb8428faf6c9277c5a86d07050528c07c91943358ff1a288d4877"
+			},
+			"chromas": []
+		},
+		{
+			"id": "postal-royale-graves",
+			"name": "Postal Royale Graves",
+			"champion": 104,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/postal-royale-graves/thumb.webp?v=33d8ce78",
+			"file": {
+				"version": 1,
+				"asset": "postal-royale-graves-v1.fantome",
+				"size": 754739,
+				"sha256": "aab0f1fc90540479496e05a6af1cc787342932ba1dd5cf93eda9998730188c57"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-dark-star-mordekaiser",
+			"name": "Prestige Dark Star Mordekaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-dark-star-mordekaiser/thumb.webp?v=460f770c",
+			"file": {
+				"version": 1,
+				"asset": "prestige-dark-star-mordekaiser-v1.fantome",
+				"size": 22258413,
+				"sha256": "634792f228e6dd4609542132b98cda8e00f7246bfe5ae2e05cf50923ca0f9c35"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-firecracker-soraka",
+			"name": "Prestige Firecracker Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-firecracker-soraka/thumb.webp?v=109f7226",
+			"file": {
+				"version": 1,
+				"asset": "prestige-firecracker-soraka-v1.fantome",
+				"size": 16207116,
+				"sha256": "d16ffece98949fec4ad803cc1007ed17dd285b42089fdacc8f4187909b6b4f7b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-high-noon-talon-blinding-white",
+			"name": "Prestige High Noon Talon - Blinding White",
+			"champion": 91,
+			"base": 0,
+			"creator": "benata",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-high-noon-talon-blinding-white/thumb.webp?v=9833a209",
+			"file": {
+				"version": 1,
+				"asset": "prestige-high-noon-talon-blinding-white-v1.fantome",
+				"size": 7729736,
+				"sha256": "2c3ccd9d3e897064471499a58c268ccc7fe54f94489d42ecd01d758db1a02bc2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-immortal-journey-kayle",
+			"name": "Prestige Immortal Journey Kayle",
+			"champion": 10,
+			"base": 0,
+			"creator": "novaweb",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-immortal-journey-kayle/thumb.webp?v=232aa8a0",
+			"file": {
+				"version": 1,
+				"asset": "prestige-immortal-journey-kayle-v1.fantome",
+				"size": 17857494,
+				"sha256": "9bfd5dcefb96d52b4e513eb714d101d14b04d9e047d3df90230b311bb14807df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "prestige-jade-princess-katarina",
+			"name": "Prestige Jade Princess Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/prestige-jade-princess-katarina/thumb.webp?v=0f9bd858",
+			"file": {
+				"version": 1,
+				"asset": "prestige-jade-princess-katarina-v1.fantome",
+				"size": 16939157,
+				"sha256": "fa25b4cc70d53842f96e86f755e1fbafad9084a101d652e02c8cb88ef2e7b706"
 			},
 			"chromas": []
 		},
