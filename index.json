@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:44:07.834Z",
+	"generatedAt": "2026-10-15T09:47:10.844Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -11624,6 +11624,244 @@
 				"asset": "gold-cosmic-jhin-chroma-v1.fantome",
 				"size": 1084326,
 				"sha256": "5667b51d84fa73941d54738ca19ce4a9f0d656a8fcc7effa30f6328a2de1259a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gold-ship-taliyah",
+			"name": "Gold Ship Taliyah",
+			"champion": 163,
+			"base": 0,
+			"creator": "laiker",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gold-ship-taliyah/thumb.webp?v=59f48ecc",
+			"file": {
+				"version": 1,
+				"asset": "gold-ship-taliyah-v1.fantome",
+				"size": 6604750,
+				"sha256": "9af6561cd47bc35ae44186a6d94c53736909fa58c7a23af8a100fb3aaddfbde4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "golden-braum",
+			"name": "GOLDEN BRAUM",
+			"champion": 201,
+			"base": 0,
+			"creator": "demart",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/golden-braum/thumb.webp?v=0a83c997",
+			"file": {
+				"version": 1,
+				"asset": "golden-braum-v1.fantome",
+				"size": 323089,
+				"sha256": "c9c9dfa1478caf195b7d6e62e15640f6a2ad92a237a6ff90fcaac85969b45c26"
+			},
+			"chromas": []
+		},
+		{
+			"id": "golden-myrmidon-pantheon",
+			"name": "Golden myrmidon pantheon",
+			"champion": 80,
+			"base": 1,
+			"creator": "demart",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/golden-myrmidon-pantheon/thumb.webp?v=06b77b8d",
+			"file": {
+				"version": 1,
+				"asset": "golden-myrmidon-pantheon-v1.fantome",
+				"size": 448695,
+				"sha256": "143fe3d2b9707b40c81e5cd4a301c42317c3980c0149124a8a4b24cbd77a2aaa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "golem-malphite",
+			"name": "Golem Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/golem-malphite/thumb.webp?v=48736681",
+			"file": {
+				"version": 1,
+				"asset": "golem-malphite-v1.fantome",
+				"size": 6691953,
+				"sha256": "78a88670bb8e3bc966cb2fa6019145c83ad36a6a1ca3aa676f2ba34e39df3df4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-briar",
+			"name": "Goth Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goth-briar/thumb.webp?v=123fd77f",
+			"file": {
+				"version": 1,
+				"asset": "goth-briar-v1.fantome",
+				"size": 3200464,
+				"sha256": "998ce7cc91cada4de4709b26cc8ee84fe52e1e5772a4aa7027ac9c070c8867d5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-janna",
+			"name": "Goth Janna",
+			"champion": 40,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goth-janna/thumb.webp?v=e1025a42",
+			"file": {
+				"version": 1,
+				"asset": "goth-janna-v1.fantome",
+				"size": 2251683,
+				"sha256": "b2538af5255056cd5cadf91b1249a729dca72595108699121b70d085736d3364"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-katarina",
+			"name": "Goth Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goth-katarina/thumb.webp?v=c19b51f2",
+			"file": {
+				"version": 1,
+				"asset": "goth-katarina-v1.fantome",
+				"size": 2014459,
+				"sha256": "38d7d0feb7a5edcbacd20174c8207e3794835c09749e68cdd23ac46906d49f31"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-princess-senna",
+			"name": "Goth Princess Senna",
+			"champion": 235,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goth-princess-senna/thumb.webp?v=7325661b",
+			"file": {
+				"version": 1,
+				"asset": "goth-princess-senna-v1.fantome",
+				"size": 37497314,
+				"sha256": "cd31ff27691c6472ae06cfb11d6bf8b249eacba0f1ce9b71796c263824ab00ac"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-seraphine",
+			"name": "Goth Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goth-seraphine/thumb.webp?v=b2826574",
+			"file": {
+				"version": 1,
+				"asset": "goth-seraphine-v1.fantome",
+				"size": 2416321,
+				"sha256": "ed2a5b3e6249f8d7c511ebc76f0c5b8a6fca7792e7fded175888be5fe35fd26e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "goth-yunara",
+			"name": "Goth Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/goth-yunara/thumb.webp?v=6adbef28",
+			"file": {
+				"version": 1,
+				"asset": "goth-yunara-v1.fantome",
+				"size": 2416170,
+				"sha256": "ee5b1fe6354c5c14b143e5427aa14c220e9fbcac6deeba887b279db7f2d700c5"
 			},
 			"chromas": []
 		},

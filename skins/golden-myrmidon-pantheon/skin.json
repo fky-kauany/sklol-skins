@@ -1,0 +1,22 @@
+{
+	"id": "golden-myrmidon-pantheon",
+	"name": "Golden myrmidon pantheon",
+	"champion": 80,
+	"base": 1,
+	"creator": "demart",
+	"description": "Skin required - MANDATORY.\r\nThis is a recolor applied to the in-game skin itself, not to the base model\n\n---\n\n**Created by** [DEMART](https://runeforge.dev/users/DEMART)\n\n**Original:** https://runeforge.dev/mods/45c73744-742d-45b3-bd44-fac392ca1a84\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/golden-myrmidon-pantheon/thumb.webp?v=06b77b8d",
+	"file": {
+		"version": 1,
+		"asset": "golden-myrmidon-pantheon-v1.fantome",
+		"size": 448695,
+		"sha256": "143fe3d2b9707b40c81e5cd4a301c42317c3980c0149124a8a4b24cbd77a2aaa"
+	},
+	"chromas": []
+}

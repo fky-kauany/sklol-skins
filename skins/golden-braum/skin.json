@@ -1,0 +1,22 @@
+{
+	"id": "golden-braum",
+	"name": "GOLDEN BRAUM",
+	"champion": 201,
+	"base": 0,
+	"creator": "demart",
+	"description": "Works on Braum’s base model.\r\nSorry that the loading screen is still the default one - I’ll try to fix this and replace it with an image matching the mod preview.\r\nThank you, and enjoy the game!\n\n---\n\n**Created by** [DEMART](https://runeforge.dev/users/DEMART)\n\n**Original:** https://runeforge.dev/mods/88c4c45c-bb5b-484e-9d15-45c02ddeed04\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/golden-braum/thumb.webp?v=0a83c997",
+	"file": {
+		"version": 1,
+		"asset": "golden-braum-v1.fantome",
+		"size": 323089,
+		"sha256": "c9c9dfa1478caf195b7d6e62e15640f6a2ad92a237a6ff90fcaac85969b45c26"
+	},
+	"chromas": []
+}

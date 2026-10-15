@@ -1,0 +1,24 @@
+{
+	"id": "goth-janna",
+	"name": "Goth Janna",
+	"champion": 40,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Janna Skin.\r\n\r\nAffects: Model, Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Janna Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/3b281f13-b3c0-402a-8b4a-5e079414bd15\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/goth-janna/thumb.webp?v=e1025a42",
+	"file": {
+		"version": 1,
+		"asset": "goth-janna-v1.fantome",
+		"size": 2251683,
+		"sha256": "b2538af5255056cd5cadf91b1249a729dca72595108699121b70d085736d3364"
+	},
+	"chromas": []
+}

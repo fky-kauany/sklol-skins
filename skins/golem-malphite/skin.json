@@ -1,0 +1,26 @@
+{
+	"id": "golem-malphite",
+	"name": "Golem Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Malphite\r\n\r\n**SKIN REPLACE:** Base Skin\r\n\r\n**UNIQUE FEATURE**\r\n\r\n* Extra Emote (Ctrl 5)\r\n* There is now a 1% chance to get a shiny variant at the start of each game.\r\n\r\n**CUSTOM VFX**\r\n\r\n* Q and W Ability\r\n\r\n**CUSTOM ANIMATIONS**\r\n\r\n* Idle\r\n* Attack\r\n* Abilities\r\n* Recall\r\n* Emotes\r\n* Death and Respawn\r\n\r\n**CUSTOM SFX**\r\n\r\n* Emotes\r\n* Recall\r\n* Death and Respawn\r\n\r\n**CUSTOM MODEL AND TEXTURES**\r\n\r\n* Golem model taken from Pokemon X and Y\r\n\r\n**CREDITS**\r\n\r\n* Modded by Nyht\r\n* Recall Music by Refi Sleep Music: [Pokémon Center Theme | Slow & Peaceful Sleep Music](https://www.youtube.com/watch?v=juZ6U3-hM0o)\r\n* Dance Music by Lofi Lia: [Pokémon Original Series - Theme Song (Lofi Lia Remix)](https://www.youtube.com/watch?v=H7awWKXT4T8)\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/325e7b42-28bf-48ae-a857-24371e018dd0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/golem-malphite/thumb.webp?v=48736681",
+	"file": {
+		"version": 1,
+		"asset": "golem-malphite-v1.fantome",
+		"size": 6691953,
+		"sha256": "78a88670bb8e3bc966cb2fa6019145c83ad36a6a1ca3aa676f2ba34e39df3df4"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "goth-yunara",
+	"name": "Goth Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Yunara Skin.\r\n\r\nAffects: Model, Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Yunara Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/ac8de8e3-6aec-4d74-b0f1-ab107c8aad3b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/goth-yunara/thumb.webp?v=6adbef28",
+	"file": {
+		"version": 1,
+		"asset": "goth-yunara-v1.fantome",
+		"size": 2416170,
+		"sha256": "ee5b1fe6354c5c14b143e5427aa14c220e9fbcac6deeba887b279db7f2d700c5"
+	},
+	"chromas": []
+}

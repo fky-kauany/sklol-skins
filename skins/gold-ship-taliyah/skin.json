@@ -1,0 +1,24 @@
+{
+	"id": "gold-ship-taliyah",
+	"name": "Gold Ship Taliyah",
+	"champion": 163,
+	"base": 0,
+	"creator": "laiker",
+	"description": "Champion: Taliyah\r\n\r\n\r\nModified skin: base\r\n\r\n\r\nAuthor: Laiker\r\n\r\n\r\nVersion: 1.0.0\r\n\r\n\r\nwhite lightning\r\n\r\n\r\nPlease report bugs.\n\n---\n\n**Created by** [Laiker](https://runeforge.dev/users/Laiker)\n\n**Original:** https://runeforge.dev/mods/a9dacaf1-c895-47fd-9357-2311a6efcbb3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gold-ship-taliyah/thumb.webp?v=59f48ecc",
+	"file": {
+		"version": 1,
+		"asset": "gold-ship-taliyah-v1.fantome",
+		"size": 6604750,
+		"sha256": "9af6561cd47bc35ae44186a6d94c53736909fa58c7a23af8a100fb3aaddfbde4"
+	},
+	"chromas": []
+}

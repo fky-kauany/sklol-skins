@@ -1,0 +1,24 @@
+{
+	"id": "goth-briar",
+	"name": "Goth Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Briar Skin.\r\n\r\nA big thank you to dc: @zarinna for letting me use his \"Cute Briar\" Skin as a Template\r\n\r\nAffects: Model, Textures, Ability Colors\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Briar Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/76c9174f-1828-4059-80d7-c33cb9782bf4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/goth-briar/thumb.webp?v=123fd77f",
+	"file": {
+		"version": 1,
+		"asset": "goth-briar-v1.fantome",
+		"size": 3200464,
+		"sha256": "998ce7cc91cada4de4709b26cc8ee84fe52e1e5772a4aa7027ac9c070c8867d5"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "goth-seraphine",
+	"name": "Goth Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Seraphine Skin.\r\n\r\nAffects: Model, Textures\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Seraphine Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/0ecfe9e5-3871-4014-989e-46c13f48ceec\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/goth-seraphine/thumb.webp?v=b2826574",
+	"file": {
+		"version": 1,
+		"asset": "goth-seraphine-v1.fantome",
+		"size": 2416321,
+		"sha256": "ed2a5b3e6249f8d7c511ebc76f0c5b8a6fca7792e7fded175888be5fe35fd26e"
+	},
+	"chromas": []
+}
