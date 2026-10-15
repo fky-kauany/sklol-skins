@@ -1,0 +1,23 @@
+{
+	"id": "the-dude-graves-postal",
+	"name": "The Dude graves (Postal)",
+	"champion": 104,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "thanks deric\nthat one was made with me and deric\n\n\n\n**Modified champion: Graves**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game: Postal redux** but was is more a frankestein because it a edit\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/9fb1f263-f97d-47b7-873f-4341d5f69b65\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/the-dude-graves-postal/thumb.webp?v=e4058410",
+	"file": {
+		"version": 1,
+		"asset": "the-dude-graves-postal-v1.fantome",
+		"size": 1431192,
+		"sha256": "8000c8f8475074537a8e592eac87348627bf7d81a0fccc3f7c0f6f06c5caaded"
+	},
+	"chromas": []
+}

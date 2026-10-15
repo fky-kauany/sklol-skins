@@ -1,0 +1,23 @@
+{
+	"id": "tidal-paragon-heartsteel-kayn",
+	"name": "Tidal Paragon | Heartsteel Kayn",
+	"champion": 141,
+	"base": 20,
+	"creator": "northoff",
+	"description": "Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Tezzed from our Discord server!.\n\nhttps://discord.gg/leaguelab\n\n---\n\n**Created by** [northoff](https://runeforge.dev/users/northoff)\n\n**Original:** https://runeforge.dev/mods/b652f09d-87dd-465e-a562-cebd40eb1a39\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tidal-paragon-heartsteel-kayn/thumb.webp?v=192186d9",
+	"file": {
+		"version": 1,
+		"asset": "tidal-paragon-heartsteel-kayn-v1.fantome",
+		"size": 4158301,
+		"sha256": "cc50039c5512671dd32582833a7d851e9a1d7602eee67b48872e6b93be11583e"
+	},
+	"chromas": []
+}

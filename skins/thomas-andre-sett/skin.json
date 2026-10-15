@@ -1,0 +1,26 @@
+{
+	"id": "thomas-andre-sett",
+	"name": "Thomas Andre Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Thomas Andre from [Solo Leveling] as Spirit Blossom Sett.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/6bae276c-524c-4fcc-8f29-0431cbe9126d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/thomas-andre-sett/thumb.webp?v=6ea53fd5",
+	"file": {
+		"version": 1,
+		"asset": "thomas-andre-sett-v1.fantome",
+		"size": 11339515,
+		"sha256": "30e50f2da7ee101e8cac56b1db052961dbacb7a3132565dff1c00d57a481e37e"
+	},
+	"chromas": []
+}

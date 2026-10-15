@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:15:20.798Z",
+	"generatedAt": "2026-10-15T14:21:02.998Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -31938,6 +31938,255 @@
 				"asset": "thanos-zaahen-v1.fantome",
 				"size": 1427743,
 				"sha256": "d878667e3332dce41155a0a4519e8fe02ab3cba8bb5970e2806def7c206506bb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-beast-of-darkness-naafiri",
+			"name": "The Beast of Darkness (Naafiri)",
+			"champion": 950,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/the-beast-of-darkness-naafiri/thumb.webp?v=c3f40373",
+			"file": {
+				"version": 1,
+				"asset": "the-beast-of-darkness-naafiri-v1.fantome",
+				"size": 6356738,
+				"sha256": "6dbe1aa923cc9e2215f9817ac4f618b7890e80b7187eec8d579a2ab6c1f87a7a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-capra-demon-naafiri-2025-repost",
+			"name": "The Capra Demon (Naafiri), 2025 repost",
+			"champion": 950,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/the-capra-demon-naafiri-2025-repost/thumb.webp?v=cf9a2530",
+			"file": {
+				"version": 1,
+				"asset": "the-capra-demon-naafiri-2025-repost-v1.fantome",
+				"size": 21028798,
+				"sha256": "87b7215671dc5ede3e62cfe63f6665627c30243eecedf79a53bd77df89bd146b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-dude-graves-postal",
+			"name": "The Dude graves (Postal)",
+			"champion": 104,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/the-dude-graves-postal/thumb.webp?v=e4058410",
+			"file": {
+				"version": 1,
+				"asset": "the-dude-graves-postal-v1.fantome",
+				"size": 1431192,
+				"sha256": "8000c8f8475074537a8e592eac87348627bf7d81a0fccc3f7c0f6f06c5caaded"
+			},
+			"chromas": []
+		},
+		{
+			"id": "the-weaponmaster-vindicator-draven",
+			"name": "The Weaponmaster Vindicator (Draven)",
+			"champion": 119,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/the-weaponmaster-vindicator-draven/thumb.webp?v=f595fda3",
+			"file": {
+				"version": 1,
+				"asset": "the-weaponmaster-vindicator-draven-v1.fantome",
+				"size": 17237659,
+				"sha256": "fb1e083fd9dadf740988adb78de9e53b221f1a44a6c7ea5d3efb1e675691fd11"
+			},
+			"chromas": []
+		},
+		{
+			"id": "thomas-andre-sett",
+			"name": "Thomas Andre Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/thomas-andre-sett/thumb.webp?v=6ea53fd5",
+			"file": {
+				"version": 1,
+				"asset": "thomas-andre-sett-v1.fantome",
+				"size": 11339515,
+				"sha256": "30e50f2da7ee101e8cac56b1db052961dbacb7a3132565dff1c00d57a481e37e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "thor-olaf",
+			"name": "Thor Olaf",
+			"champion": 2,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/thor-olaf/thumb.webp?v=2cc7ec58",
+			"file": {
+				"version": 1,
+				"asset": "thor-olaf-v1.fantome",
+				"size": 11003317,
+				"sha256": "2135c3da0ee0a5ced0e9b5ea6fb8f72f3987e15bcad63eacfac3349034bc77ef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tidal-paragon-heartsteel-kayn",
+			"name": "Tidal Paragon | Heartsteel Kayn",
+			"champion": 141,
+			"base": 20,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tidal-paragon-heartsteel-kayn/thumb.webp?v=192186d9",
+			"file": {
+				"version": 1,
+				"asset": "tidal-paragon-heartsteel-kayn-v1.fantome",
+				"size": 4158301,
+				"sha256": "cc50039c5512671dd32582833a7d851e9a1d7602eee67b48872e6b93be11583e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toad-cosplay-teemo",
+			"name": "Toad Cosplay Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/toad-cosplay-teemo/thumb.webp?v=96bf26fb",
+			"file": {
+				"version": 1,
+				"asset": "toad-cosplay-teemo-v1.fantome",
+				"size": 7813316,
+				"sha256": "b9c975a95e96723fe5b67747ff84aefabe14be59daf9ee5e59c463c92dda3f06"
+			},
+			"chromas": []
+		},
+		{
+			"id": "togore-dreemurr-xin-zhao",
+			"name": "Togore Dreemurr Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/togore-dreemurr-xin-zhao/thumb.webp?v=aad88e69",
+			"file": {
+				"version": 1,
+				"asset": "togore-dreemurr-xin-zhao-v1.fantome",
+				"size": 277346,
+				"sha256": "7d7b7709187654cc7fa85534de4deb0cbc71af1c02b0f676290564e0d5b5c356"
+			},
+			"chromas": []
+		},
+		{
+			"id": "toki-akshan-blue-archive",
+			"name": "Toki Akshan (Blue Archive)",
+			"champion": 166,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/toki-akshan-blue-archive/thumb.webp?v=8a96f7f6",
+			"file": {
+				"version": 1,
+				"asset": "toki-akshan-blue-archive-v1.fantome",
+				"size": 15512476,
+				"sha256": "e8439fdf0463f44f09959b62bc900c1cae4199405daa41017c4aefa8bbc5ac0a"
 			},
 			"chromas": []
 		},

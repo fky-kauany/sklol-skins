@@ -1,0 +1,25 @@
+{
+	"id": "thor-olaf",
+	"name": "Thor Olaf",
+	"champion": 2,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Olaf\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/6301e34f-d72f-450e-a5cf-3dace2ef4d2b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/thor-olaf/thumb.webp?v=2cc7ec58",
+	"file": {
+		"version": 1,
+		"asset": "thor-olaf-v1.fantome",
+		"size": 11003317,
+		"sha256": "2135c3da0ee0a5ced0e9b5ea6fb8f72f3987e15bcad63eacfac3349034bc77ef"
+	},
+	"chromas": []
+}

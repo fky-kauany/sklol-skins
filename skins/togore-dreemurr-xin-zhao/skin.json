@@ -1,0 +1,24 @@
+{
+	"id": "togore-dreemurr-xin-zhao",
+	"name": "Togore Dreemurr Xin Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "Happy Xin Zhao VU i guess xd. Will make a more serious mod for Xin probably (gotta find or make a good Deltarune design model for her) but I needed to practise for my 3D classes on uni so here's that ig.\n\nCharacter model done by yours truly (that means me) ((ShrimpBack)), rigging by FingaMiro :>\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/b59103d1-10a5-4459-a2c0-0e864c641aa6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/togore-dreemurr-xin-zhao/thumb.webp?v=aad88e69",
+	"file": {
+		"version": 1,
+		"asset": "togore-dreemurr-xin-zhao-v1.fantome",
+		"size": 277346,
+		"sha256": "7d7b7709187654cc7fa85534de4deb0cbc71af1c02b0f676290564e0d5b5c356"
+	},
+	"chromas": []
+}

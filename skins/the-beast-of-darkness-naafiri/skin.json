@@ -1,0 +1,26 @@
+{
+	"id": "the-beast-of-darkness-naafiri",
+	"name": "The Beast of Darkness (Naafiri)",
+	"champion": 950,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Naafiri\n\nModfied Skin:  Default\n\nAuthor: Sauronkaiser\n\nDescription: The beast of darkness from Berserk chapter 352\n\nFeatures:\n\n-New model and textures\n\n-New/edited animations\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-A special prothesis to pet the dog safely\n\n\nSources:\n\n-Base assets for 3D models extracted from Berserk and the band of the Hawk, then modified by me.\n\n-Music is \"My brother\", official Berserk anime OST.\n\n-The splash and image used in the miniature is a panel from Berserk 352 colored by a fan. It was impossible to find out who, but this is the original post: \n\nhttps://www.reddit.com/r/Berserk/comments/7m5ff0/tried_coloring_a_panel_from_the_latest_chapter_352/\n\n\nlegacy Changelog:\n\n-21/07/2023: First official release\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-25/05/2025: Fixed after Naafiri's rework, new textures and effects added, recall made less annoying\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/d88a5f15-c0cc-41b6-b79b-3aa02de860c4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/the-beast-of-darkness-naafiri/thumb.webp?v=c3f40373",
+	"file": {
+		"version": 1,
+		"asset": "the-beast-of-darkness-naafiri-v1.fantome",
+		"size": 6356738,
+		"sha256": "6dbe1aa923cc9e2215f9817ac4f618b7890e80b7187eec8d579a2ab6c1f87a7a"
+	},
+	"chromas": []
+}

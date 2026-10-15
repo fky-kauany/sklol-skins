@@ -1,0 +1,26 @@
+{
+	"id": "the-weaponmaster-vindicator-draven",
+	"name": "The Weaponmaster Vindicator (Draven)",
+	"champion": 119,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Draven\n\nSkin: Default\n\nAuthor: Sauronkaiser\n\nDescription: The first of the three Vindicator brothers, inspired in Minecraft\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles.\n\n-New Voiceover.\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-Two axes.\n\n-Fan of Stephen king.\n\n-Diggy hole enjoyer.\n\n-Likes to scream sometimes.\n\nMeet the other vindicator brothers!\n\n\n\n-The Berserker vindicator (Darius):\n\n[https://runeforge.dev/mods/fb3d8171-bd82-4758-b50a-433538509cda](https://runeforge.dev/mods/fb3d8171-bd82-4758-b50a-433538509cda)\n\n-The Electric vindicator (olaf):\n\nlink to publish later\n\n\n\nLore:\n\nThe Weaponmaster vindicator was in the middle of a friendly competition with his twin brother to see who was better at throwing axes/tridents aganist a villager, when their older brother told them they had a new mission; repel an horde of wither skeletons comming from a nether portal somewhere in the overworld, as, somehow, a legendary beast known as The Wither had appeared and someone had to deal with his army.\n\nDidn't take long to repel the horde to the portal they came from, and soon enough they performing an Omniman reference by entering the wither skeleton's dimension to slay all of them in their own territory.\n\nHowever, while the skeletons army was being neutralized, there is still the problem of who will deal with The Wither itself and how.\n\nLore:\n\nThe Weaponmaster vindicator was in the middle of a friendly competition with his twin brother to see who was better at throwing axes/tridents aganist a villager, when their older brother told them they had a new mission; repel an horde of wither skeletons comming from a nether portal somewhere in the overworld, as, somehow, a legendary beast known as The Wither had appeared and someone had to deal with his army.\n\nDidn't take long to repel the horde to the portal they came from, and soon enough they performing an Omniman reference by entering the wither skeleton's dimension to slay all of them in their own territory.\n\nHowever, while the skeletons army was being neutralized, there is still the problem of who will deal with The Wither itself and how.\n\nSources:\n\n-Several assets extracted from Minecraft, then heavily modified.\n\n-Special thanks to Bud for helping with the render for the splashart.\n\n-Animations made by me. New particles made by me.\n\n-Voiceover from Minecraft.\n\n-The joke emote references Simon from Yogscast.\n\n-Taunt emote references The Shinning.\n\n-Dance emote is Perfect Insanity by Disturbed.\n\n-Laugh emote references Tyler1 and Dinnerbone.\n\nlegacy Changelog:\n\n-30/07/2024: First official release\n\n-08/08/2024: Several bugfixes, new ult animation using an actual bow and arrows, added new effect for passive trigger with emeralds instead coins, arrows in ult fade away a bit faster, better joke emote.\n\n-09/08/2024: Fixed a bug that caused the bow to not work in the ult animation sometimes.\n\n-07/02/2025: Fixed after new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/d93d07c1-a8d9-492e-8ed5-0ca590407e52\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/the-weaponmaster-vindicator-draven/thumb.webp?v=f595fda3",
+	"file": {
+		"version": 1,
+		"asset": "the-weaponmaster-vindicator-draven-v1.fantome",
+		"size": 17237659,
+		"sha256": "fb1e083fd9dadf740988adb78de9e53b221f1a44a6c7ea5d3efb1e675691fd11"
+	},
+	"chromas": []
+}

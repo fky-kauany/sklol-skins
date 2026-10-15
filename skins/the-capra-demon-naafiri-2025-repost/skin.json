@@ -1,0 +1,26 @@
+{
+	"id": "the-capra-demon-naafiri-2025-repost",
+	"name": "The Capra Demon (Naafiri), 2025 repost",
+	"champion": 950,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Disclaimer: This custom skin was tagged as \"Scrapped\" when porting my stuff into the new Runeforge page. It has been fixed by Aurecueil and given a new voiceover by Prowlin. Now it is planned to get an update at some point fixing and upgrading some stuff.\r\n\r\nSpecial thanks to Aurecueil for fixing the mod and repathing it.\r\n\r\nBase champion: Naafiri\r\n\r\nSkin: Default\r\n\r\nAuthor: Sauronkaiser\r\n\r\nDescription: The Capra Demon from Dark Souls 1. Dogs included.\r\n\r\nFeatures:\r\n\r\n-New model and textures.\r\n\r\n-New full set of animations.\r\n\r\n-New particles\r\n\r\n-New Splashart loading screen.\r\n\r\n-New voiceover; courtesy of Prowlin - LR Growlin\r\n\r\n-Dodge minigame (press crl1 twice, then crl2 in the exact moment)\r\n\r\nSources and references:\r\n\r\n-Voiceover made by Prowlin - LR Growlin.\r\n\r\n-Model and textures extracted from Dark Souls 1\r\n\r\n-The laugh animation refernces an old video from Spain that can be seen here: https://www.youtube.com/watch?v=zfE52f9Q58U \r\n\r\n-The splashart is a painting made by max58art. You can check their work here: https://www.deviantart.com/max58art\r\n\r\n-The animated splash used in the voiceover video is from this reddit post: https://www.reddit.com/r/ImaginaryDarkSouls/comments/owj5u4/capra_demon_by_me/\r\n\r\n-All animations made by me.\r\n\r\n-Legacy changelog lost.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/264976ed-0c82-45f9-bbf9-05bb69a5230e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/the-capra-demon-naafiri-2025-repost/thumb.webp?v=cf9a2530",
+	"file": {
+		"version": 1,
+		"asset": "the-capra-demon-naafiri-2025-repost-v1.fantome",
+		"size": 21028798,
+		"sha256": "87b7215671dc5ede3e62cfe63f6665627c30243eecedf79a53bd77df89bd146b"
+	},
+	"chromas": []
+}

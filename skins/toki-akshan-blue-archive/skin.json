@@ -1,0 +1,24 @@
+{
+	"id": "toki-akshan-blue-archive",
+	"name": "Toki Akshan (Blue Archive)",
+	"champion": 166,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/03fdb1a4-3864-436f-aa04-ab7d1fb1bd2f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/toki-akshan-blue-archive/thumb.webp?v=8a96f7f6",
+	"file": {
+		"version": 1,
+		"asset": "toki-akshan-blue-archive-v1.fantome",
+		"size": 15512476,
+		"sha256": "e8439fdf0463f44f09959b62bc900c1cae4199405daa41017c4aefa8bbc5ac0a"
+	},
+	"chromas": []
+}
