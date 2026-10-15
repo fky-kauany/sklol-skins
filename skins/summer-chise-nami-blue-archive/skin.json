@@ -1,0 +1,27 @@
+{
+	"id": "summer-chise-nami-blue-archive",
+	"name": "Summer Chise (Nami) [Blue Archive]",
+	"champion": 267,
+	"base": 0,
+	"creator": "azure",
+	"description": "Replaces Nami’s base skin with Waraku Chise (Swimsuit ver.) from Blue Archive.\n\n\n\nIf you need help with anything you can message me on Discord. My username is Azurne!!\n\n---\n\n**Created by** [Azure](https://runeforge.dev/users/Azure)\n\n**Original:** https://runeforge.dev/mods/ad5f0211-be68-4ee9-aaff-f8e7f7baa660\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/summer-chise-nami-blue-archive/thumb.webp?v=9914edae",
+	"file": {
+		"version": 1,
+		"asset": "summer-chise-nami-blue-archive-v1.fantome",
+		"size": 22397489,
+		"sha256": "4da0fdc8b7fb4ff422f288ba82a8e9292913faa6bf5fd5b095cef4b151390d37"
+	},
+	"chromas": []
+}

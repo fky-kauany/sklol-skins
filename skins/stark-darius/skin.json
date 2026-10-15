@@ -1,0 +1,25 @@
+{
+	"id": "stark-darius",
+	"name": "Stark Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Stark Darius\r\n\r\nSkin modified : Default\r\n\r\nAuthor : rorotea\r\n\r\nMod version : 1.0.0\r\n\r\nFrieren Lux：\r\nhttps://runeforge.dev/mods/de61a885-045f-46b5-ba3f-cfb81fe1ed20\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/c74dba75-7bc5-481f-bb94-ce80580e6a6f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/stark-darius/thumb.webp?v=aa068868",
+	"file": {
+		"version": 1,
+		"asset": "stark-darius-v1.fantome",
+		"size": 1668113,
+		"sha256": "1180adb786ef6610f0b792cd3ad38944bfc505c93ad32d6868e0d8f12ef48d0f"
+	},
+	"chromas": []
+}

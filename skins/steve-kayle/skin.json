@@ -1,0 +1,24 @@
+{
+	"id": "steve-kayle",
+	"name": "Steve Kayle",
+	"champion": 10,
+	"base": 6,
+	"creator": "archlyris",
+	"description": "It is now done\n\nDefault Kayle:\n-\n- lv1: iron sword & helmet\n-\n- lv6: gold sword\n-\n- lv11 onward: dual wield gold sword and diamond helmet\n-\n- Aether wing:\n-\n- lv1: wood sword\n-\n- lv6: iron sword & helmet\n-\n- lv11: dual wield gold diamond sword and gold helmet\n-\n- lv16: dual wield netherite and diamond sword and diamond helmet\n-\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/f8858800-ce3b-49d0-87a7-40d4ed80c882\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/steve-kayle/thumb.webp?v=b147927f",
+	"file": {
+		"version": 1,
+		"asset": "steve-kayle-v1.fantome",
+		"size": 4424961,
+		"sha256": "2c93a7558605e0cf361d2493c0785979be92fb8c53864e7b4470bfc1a965ec66"
+	},
+	"chromas": []
+}

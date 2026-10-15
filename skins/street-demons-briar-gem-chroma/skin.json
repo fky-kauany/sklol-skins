@@ -1,0 +1,26 @@
+{
+	"id": "street-demons-briar-gem-chroma",
+	"name": "Street Demons Briar - Gem Chroma",
+	"champion": 233,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Street Demons Briar\r\n\r\n╰┈➤ _The idea for this mod was to make a chroma for this skin to make it pink and yellow!!_\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here**](https://1gem1.straw.page/customskinsquestions), or message me on discord (1gem1), or here is [**more info**](https://1gem1.straw.page/) for anything else!\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/fc7c2458-bc0d-4319-88fc-9adb5b610a34\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/street-demons-briar-gem-chroma/thumb.webp?v=b96e521d",
+	"file": {
+		"version": 1,
+		"asset": "street-demons-briar-gem-chroma-v1.fantome",
+		"size": 30483712,
+		"sha256": "569ecf1dacda69378585f3f6b61d997a79521a6da9590682971d1399b24c67e7"
+	},
+	"chromas": []
+}

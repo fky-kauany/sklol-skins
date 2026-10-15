@@ -1,0 +1,25 @@
+{
+	"id": "summer-party-katarina",
+	"name": "Summer Party Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "Fully custom model and VFX inspired directly by Summer Party Katarina in Wild Rift. NO assets are reused from Wild Rift. The model, textures, and even some animations are entirely made from scratch.\n\n## CREDITS\n\n* **MODELS, TEXTURES, ANIMATIONS, & VFX**: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/8e6f7f6d-aacd-4242-8297-3515d374b45c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/summer-party-katarina/thumb.webp?v=a74c5c98",
+	"file": {
+		"version": 1,
+		"asset": "summer-party-katarina-v1.fantome",
+		"size": 18394872,
+		"sha256": "db44f672fb4c8ce4c480f98dbcd1e8c932f8b338e1d617a26c819448b6b09ee3"
+	},
+	"chromas": []
+}

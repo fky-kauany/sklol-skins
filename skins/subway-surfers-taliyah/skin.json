@@ -1,0 +1,23 @@
+{
+	"id": "subway-surfers-taliyah",
+	"name": "Subway Surfers Taliyah",
+	"champion": 163,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Taliyah**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\nModels from Subway Surfers\n\nModels submitted to the Models Resource by ModernLixes, SuperTVGRFan18496 and poyo20\n\nKim [https://www.models-resource.com/mobile/subwaysurfers/model/12859/](https://www.models-resource.com/mobile/subwaysurfers/model/12859/)\n\nMystery Boxes [https://www.models-resource.com/mobile/subwaysurfers/model/12431/](https://www.models-resource.com/mobile/subwaysurfers/model/12431/)\n\nHoverboard [https://www.models-resource.com/mobile/subwaysurfers/model/59518/](https://www.models-resource.com/mobile/subwaysurfers/model/59518/)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/4ab4ca19-a47f-44e9-acdc-e1ad9898bdc0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/subway-surfers-taliyah/thumb.webp?v=4a16f1a2",
+	"file": {
+		"version": 1,
+		"asset": "subway-surfers-taliyah-v1.fantome",
+		"size": 357349,
+		"sha256": "ec89b3b16a5104413677cc42c4997a4f23f9d5307b7b68176f6cadb0cb39b255"
+	},
+	"chromas": []
+}

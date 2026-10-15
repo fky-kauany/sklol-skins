@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:52:40.407Z",
+	"generatedAt": "2026-10-15T13:58:20.780Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -30911,6 +30911,55 @@
 			"chromas": []
 		},
 		{
+			"id": "stark-darius",
+			"name": "Stark Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/stark-darius/thumb.webp?v=aa068868",
+			"file": {
+				"version": 1,
+				"asset": "stark-darius-v1.fantome",
+				"size": 1668113,
+				"sha256": "1180adb786ef6610f0b792cd3ad38944bfc505c93ad32d6868e0d8f12ef48d0f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "steve-kayle",
+			"name": "Steve Kayle",
+			"champion": 10,
+			"base": 6,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/steve-kayle/thumb.webp?v=b147927f",
+			"file": {
+				"version": 1,
+				"asset": "steve-kayle-v1.fantome",
+				"size": 4424961,
+				"sha256": "2c93a7558605e0cf361d2493c0785979be92fb8c53864e7b4470bfc1a965ec66"
+			},
+			"chromas": []
+		},
+		{
 			"id": "steve-nautilus",
 			"name": "Steve Nautilus",
 			"champion": 111,
@@ -30932,6 +30981,206 @@
 				"asset": "steve-nautilus-v1.fantome",
 				"size": 662512,
 				"sha256": "4952486c400cc738fc424ec8c221cc770ea4c38ea173e58c3ce6c11fbbe6f2d0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "stitch-teemo",
+			"name": "Stitch Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/stitch-teemo/thumb.webp?v=fadda611",
+			"file": {
+				"version": 1,
+				"asset": "stitch-teemo-v1.fantome",
+				"size": 16950372,
+				"sha256": "d4a7f1720694751d2ad493f4cc77fa586fddd89e741d4772562678f044677869"
+			},
+			"chromas": []
+		},
+		{
+			"id": "street-demons-briar-gem-chroma",
+			"name": "Street Demons Briar - Gem Chroma",
+			"champion": 233,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/street-demons-briar-gem-chroma/thumb.webp?v=b96e521d",
+			"file": {
+				"version": 1,
+				"asset": "street-demons-briar-gem-chroma-v1.fantome",
+				"size": 30483712,
+				"sha256": "569ecf1dacda69378585f3f6b61d997a79521a6da9590682971d1399b24c67e7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sub-zero-sett",
+			"name": "Sub-zero sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sub-zero-sett/thumb.webp?v=d4244e0e",
+			"file": {
+				"version": 1,
+				"asset": "sub-zero-sett-v1.fantome",
+				"size": 4473683,
+				"sha256": "6d44e299d4d6df5b573eb80af1e7c187eb8575be91b67d7364b6108681c76e9b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "subway-surfers-akali",
+			"name": "Subway Surfers Akali",
+			"champion": 84,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/subway-surfers-akali/thumb.webp?v=83d5aceb",
+			"file": {
+				"version": 1,
+				"asset": "subway-surfers-akali-v1.fantome",
+				"size": 206205,
+				"sha256": "1ddc2b9eb1e18c40bb831f796167c0be12cc687e9cb69fe34ae3e65f3e43bd5c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "subway-surfers-taliyah",
+			"name": "Subway Surfers Taliyah",
+			"champion": 163,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/subway-surfers-taliyah/thumb.webp?v=4a16f1a2",
+			"file": {
+				"version": 1,
+				"asset": "subway-surfers-taliyah-v1.fantome",
+				"size": 357349,
+				"sha256": "ec89b3b16a5104413677cc42c4997a4f23f9d5307b7b68176f6cadb0cb39b255"
+			},
+			"chromas": []
+		},
+		{
+			"id": "subway-surfers-yuumi",
+			"name": "Subway Surfers Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/subway-surfers-yuumi/thumb.webp?v=02c6ff3f",
+			"file": {
+				"version": 1,
+				"asset": "subway-surfers-yuumi-v1.fantome",
+				"size": 5591466,
+				"sha256": "a9c6a6dbb6d4e60f4db4f26731d7b9c945d547f31b5dc0b9f5f9eee5798b1d95"
+			},
+			"chromas": []
+		},
+		{
+			"id": "summer-chise-nami-blue-archive",
+			"name": "Summer Chise (Nami) [Blue Archive]",
+			"champion": 267,
+			"base": 0,
+			"creator": "azure",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/summer-chise-nami-blue-archive/thumb.webp?v=9914edae",
+			"file": {
+				"version": 1,
+				"asset": "summer-chise-nami-blue-archive-v1.fantome",
+				"size": 22397489,
+				"sha256": "4da0fdc8b7fb4ff422f288ba82a8e9292913faa6bf5fd5b095cef4b151390d37"
+			},
+			"chromas": []
+		},
+		{
+			"id": "summer-party-katarina",
+			"name": "Summer Party Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/summer-party-katarina/thumb.webp?v=a74c5c98",
+			"file": {
+				"version": 1,
+				"asset": "summer-party-katarina-v1.fantome",
+				"size": 18394872,
+				"sha256": "db44f672fb4c8ce4c480f98dbcd1e8c932f8b338e1d617a26c819448b6b09ee3"
 			},
 			"chromas": []
 		},

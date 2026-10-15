@@ -1,0 +1,25 @@
+{
+	"id": "sub-zero-sett",
+	"name": "Sub-zero sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Sett\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nthis mod changes the visual effects to the Sett skills, animations making it more similar to sub-zero's fighting style\n\n\nmais frio que a neve\n\ndiscord gabrielknn\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/ddc6343b-4ad8-4c72-964a-268439a7ee68\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sub-zero-sett/thumb.webp?v=d4244e0e",
+	"file": {
+		"version": 1,
+		"asset": "sub-zero-sett-v1.fantome",
+		"size": 4473683,
+		"sha256": "6d44e299d4d6df5b573eb80af1e7c187eb8575be91b67d7364b6108681c76e9b"
+	},
+	"chromas": []
+}

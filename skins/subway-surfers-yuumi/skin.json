@@ -1,0 +1,25 @@
+{
+	"id": "subway-surfers-yuumi",
+	"name": "Subway Surfers Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "Adds more visual stimulus so that you can focus on your gameplay\n\n## Information\n\n**Modified champion: Yuumi**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/5fcd9430-d02a-4382-aeb0-73b2a37b9ded\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/subway-surfers-yuumi/thumb.webp?v=02c6ff3f",
+	"file": {
+		"version": 1,
+		"asset": "subway-surfers-yuumi-v1.fantome",
+		"size": 5591466,
+		"sha256": "a9c6a6dbb6d4e60f4db4f26731d7b9c945d547f31b5dc0b9f5f9eee5798b1d95"
+	},
+	"chromas": []
+}
