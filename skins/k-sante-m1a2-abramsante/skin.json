@@ -1,0 +1,23 @@
+{
+	"id": "k-sante-m1a2-abramsante",
+	"name": "M1A2 Abramsante",
+	"champion": 897,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/eceb3be8-1e00-4e61-8f96-8896adf2989a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/k-sante-m1a2-abramsante/thumb.webp?v=9f9aa755",
+	"file": {
+		"version": 1,
+		"asset": "k-sante-m1a2-abramsante-v1.fantome",
+		"size": 695661,
+		"sha256": "01e83c7a29d26aab11fb3882b6ce321f73fff6042bdcdb82d806c758f8e43c25"
+	},
+	"chromas": []
+}

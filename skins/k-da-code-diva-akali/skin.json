@@ -1,0 +1,26 @@
+{
+	"id": "k-da-code-diva-akali",
+	"name": "K/DA Code Diva Akali",
+	"champion": 84,
+	"base": 9,
+	"creator": "lordksop",
+	"description": "# IMPORTANT:\n\nYou need to **OWN** and select **K/DA AKALI in the champion selection to use this custom skin**\n\n## Mod Information\n\n###### Champion: Akali\n\n###### Modified skin: K/DA Akali\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: K/DA Code Diva Akali\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Small VFX changes\n* New animations\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/43564259-bf31-4812-b768-9ae82630667e\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/k-da-code-diva-akali/thumb.webp?v=43f23552",
+	"file": {
+		"version": 1,
+		"asset": "k-da-code-diva-akali-v1.fantome",
+		"size": 19723723,
+		"sha256": "6e5f27e5ffb283a3368ccc22105d780fb97146dc2e18ade38ee7499d04fb8e20"
+	},
+	"chromas": []
+}

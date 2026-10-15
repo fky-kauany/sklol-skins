@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:53:17.986Z",
+	"generatedAt": "2026-10-15T10:56:27.239Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1147,6 +1147,16 @@
 		"rahabani": {
 			"name": "rahabani",
 			"links": {}
+		},
+		"raka": {
+			"name": "Raka",
+			"avatar": "creators/raka.png?v=a8e16e3b",
+			"bio": "New Modder , mainly WR porting and custom texturer , Jinx lover , current project :Jinx <3 . https://discord.gg/3pfzzwj2yr My discord sv for bug fixes and patch releases.",
+			"links": {
+				"discord": "https://discord.gg/3pfzzwj2yr",
+				"kofi": "https://ko-fi.com/raka01#galleryItemView",
+				"youtube": "https://www.youtube.com/watch?v=nqwcVkC7i0g"
+			}
 		},
 		"ramo": {
 			"name": "ramo",
@@ -17311,6 +17321,252 @@
 				"asset": "k-da-code-diva-ahri-v1.fantome",
 				"size": 9154365,
 				"sha256": "e80997e50d96f707c6c5d8c962942619bea41d4550b3f27fe5981ad24afc3512"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-da-code-diva-akali",
+			"name": "K/DA Code Diva Akali",
+			"champion": 84,
+			"base": 9,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k-da-code-diva-akali/thumb.webp?v=43f23552",
+			"file": {
+				"version": 1,
+				"asset": "k-da-code-diva-akali-v1.fantome",
+				"size": 19723723,
+				"sha256": "6e5f27e5ffb283a3368ccc22105d780fb97146dc2e18ade38ee7499d04fb8e20"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-da-code-diva-kai-sa",
+			"name": "K/DA Code Diva Kai'sa",
+			"champion": 145,
+			"base": 14,
+			"creator": "lordksop",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k-da-code-diva-kai-sa/thumb.webp?v=9f76e685",
+			"file": {
+				"version": 1,
+				"asset": "k-da-code-diva-kai-sa-v1.fantome",
+				"size": 8990077,
+				"sha256": "1ff14fb7e9ffef9f9aae390d1e8a9af61dc3fe821b4801c0471eb8cb176be7ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-da-katarina",
+			"name": "K/DA Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k-da-katarina/thumb.webp?v=eb8d5192",
+			"file": {
+				"version": 1,
+				"asset": "k-da-katarina-v1.fantome",
+				"size": 49846092,
+				"sha256": "a1f3911679d3924ba6fdde2a62b5f91e8e873ba9c81b8e777a6bd35b13ee9899"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-sante-m1a2-abramsante",
+			"name": "M1A2 Abramsante",
+			"champion": 897,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k-sante-m1a2-abramsante/thumb.webp?v=9f9aa755",
+			"file": {
+				"version": 1,
+				"asset": "k-sante-m1a2-abramsante-v1.fantome",
+				"size": 695661,
+				"sha256": "01e83c7a29d26aab11fb3882b6ce321f73fff6042bdcdb82d806c758f8e43c25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-sante-yuumi-ksante",
+			"name": "Yuumi Ksante",
+			"champion": 897,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k-sante-yuumi-ksante/thumb.webp?v=d977d806",
+			"file": {
+				"version": 1,
+				"asset": "k-sante-yuumi-ksante-v1.fantome",
+				"size": 408756,
+				"sha256": "7277467c65a6e0aa56d2bca89b1ad897e35e263d6aabce3c60db08de9e6255ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-sante-zeus-ksante",
+			"name": "Zeus Ksante",
+			"champion": 897,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k-sante-zeus-ksante/thumb.webp?v=70025064",
+			"file": {
+				"version": 1,
+				"asset": "k-sante-zeus-ksante-v1.fantome",
+				"size": 12179673,
+				"sha256": "0652ae5579ed63118acc94a70f331e5c3ab6da3aae0ecb418e49b8e4271e43fb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k9-thunder-xerath",
+			"name": "K9 Thunder Xerath",
+			"champion": 101,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k9-thunder-xerath/thumb.webp?v=dc332a5c",
+			"file": {
+				"version": 1,
+				"asset": "k9-thunder-xerath-v1.fantome",
+				"size": 24890982,
+				"sha256": "52bd7910b6741532013e368886865cddcfc5b52cbb4797befd990e3991d1ff8c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-dust-of-ashes-kaisa",
+			"name": "Dust of ashes kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "xxkaynsamaxx",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-dust-of-ashes-kaisa/thumb.webp?v=bb0e8128",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-dust-of-ashes-kaisa-v1.fantome",
+				"size": 2524839,
+				"sha256": "b6efa45ee5dfd576dab4f6e3b53f9349101ce9829daad4d7f58aaa1549a30605"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-kaisa-wild-rift",
+			"name": "Kaisa Wild Rift",
+			"champion": 145,
+			"base": 0,
+			"creator": "raka",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-kaisa-wild-rift/thumb.webp?v=c38adc6d",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-kaisa-wild-rift-v1.fantome",
+				"size": 3875068,
+				"sha256": "9d97e03cfc6fbca01146a540508817208d5d27d3cc95c58649759d61b2620c30"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kai-sa-kda-code-pink-kaisa",
+			"name": "KDA Code Pink Kaisa",
+			"champion": 145,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kai-sa-kda-code-pink-kaisa/thumb.webp?v=7ffe11f8",
+			"file": {
+				"version": 1,
+				"asset": "kai-sa-kda-code-pink-kaisa-v1.fantome",
+				"size": 16772480,
+				"sha256": "c2d310b3323873f10e5f0abeae391c4971dbc723e66692b02ffa414605f3f0c4"
 			},
 			"chromas": []
 		},

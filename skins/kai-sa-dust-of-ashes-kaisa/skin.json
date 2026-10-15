@@ -1,0 +1,23 @@
+{
+	"id": "kai-sa-dust-of-ashes-kaisa",
+	"name": "Dust of ashes kaisa",
+	"champion": 145,
+	"base": 0,
+	"creator": "xxkaynsamaxx",
+	"description": "Modified champion=kai`sa\nModified skin: Default\nAuthor:xXKAYN SAMAXx\nversion:15.16.1.0\nyoutube:https://youtu.be/X4SML6ge6YE?si=BsZDfIYAP-54InQ2\n\n---\n\n**Created by** [xXKAYNSAMAXx](https://runeforge.dev/users/xXKAYNSAMAXx)\n\n**Original:** https://runeforge.dev/mods/291dc437-905d-4d03-8106-f227d5339fe3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kai-sa-dust-of-ashes-kaisa/thumb.webp?v=bb0e8128",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-dust-of-ashes-kaisa-v1.fantome",
+		"size": 2524839,
+		"sha256": "b6efa45ee5dfd576dab4f6e3b53f9349101ce9829daad4d7f58aaa1549a30605"
+	},
+	"chromas": []
+}

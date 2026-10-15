@@ -1,0 +1,24 @@
+{
+	"id": "kai-sa-kaisa-wild-rift",
+	"name": "Kaisa Wild Rift",
+	"champion": 145,
+	"base": 0,
+	"creator": "raka",
+	"description": "Info:\r\n\r\nChampion : Kai'sa\r\n\r\nSkin modified : Base it can be used for all skins up to this patch.\r\n\r\nAuthor : Raka\r\n\r\nFeaturing Kaisa's  Wild Rift model with custom textures.\r\n\r\nContact Info:\r\n\r\nYou can contact me through Discord.\r\n\r\nhttps://discord.gg/3pfzzwj2yr My discord server for skin update patches, upcoming skins and bug fixes u can also report a bug or comission.\n\n---\n\n**Created by** [Raka](https://runeforge.dev/users/Raka)\n\n**Original:** https://runeforge.dev/mods/62f6ceb7-3a4c-47f0-92fe-6c51695ad177\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kai-sa-kaisa-wild-rift/thumb.webp?v=c38adc6d",
+	"file": {
+		"version": 1,
+		"asset": "kai-sa-kaisa-wild-rift-v1.fantome",
+		"size": 3875068,
+		"sha256": "9d97e03cfc6fbca01146a540508817208d5d27d3cc95c58649759d61b2620c30"
+	},
+	"chromas": []
+}

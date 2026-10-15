@@ -1,0 +1,26 @@
+{
+	"id": "k9-thunder-xerath",
+	"name": "K9 Thunder Xerath",
+	"champion": 101,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/31840fe3-846b-42de-96f2-177a4a675609\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/k9-thunder-xerath/thumb.webp?v=dc332a5c",
+	"file": {
+		"version": 1,
+		"asset": "k9-thunder-xerath-v1.fantome",
+		"size": 24890982,
+		"sha256": "52bd7910b6741532013e368886865cddcfc5b52cbb4797befd990e3991d1ff8c"
+	},
+	"chromas": []
+}

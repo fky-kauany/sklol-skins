@@ -1,0 +1,25 @@
+{
+	"id": "k-da-code-diva-kai-sa",
+	"name": "K/DA Code Diva Kai'sa",
+	"champion": 145,
+	"base": 14,
+	"creator": "lordksop",
+	"description": "# IMPORTANT:\n\nYou need to **OWN** and select **K/DA KAI'SA in the champion selection to use this custom skin**\n\n## Mod Information\n\n###### Champion: Kai'sa\n\n###### Modified skin: K/DA Kai'sa\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: K/DA Code Diva Kai'sa\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Small VFX changes\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/5e638d87-d0d1-461a-88b4-e01f062ef4d7\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/k-da-code-diva-kai-sa/thumb.webp?v=9f76e685",
+	"file": {
+		"version": 1,
+		"asset": "k-da-code-diva-kai-sa-v1.fantome",
+		"size": 8990077,
+		"sha256": "1ff14fb7e9ffef9f9aae390d1e8a9af61dc3fe821b4801c0471eb8cb176be7ea"
+	},
+	"chromas": []
+}

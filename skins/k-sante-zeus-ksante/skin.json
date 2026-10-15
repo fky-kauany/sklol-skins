@@ -1,0 +1,24 @@
+{
+	"id": "k-sante-zeus-ksante",
+	"name": "Zeus Ksante",
+	"champion": 897,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 2 For White Chroma\nCtrl 3 For Black Default\nCtrl 4 For Gold\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/c566ac67-5352-4188-a374-cad9cbee45e8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/k-sante-zeus-ksante/thumb.webp?v=70025064",
+	"file": {
+		"version": 1,
+		"asset": "k-sante-zeus-ksante-v1.fantome",
+		"size": 12179673,
+		"sha256": "0652ae5579ed63118acc94a70f331e5c3ab6da3aae0ecb418e49b8e4271e43fb"
+	},
+	"chromas": []
+}

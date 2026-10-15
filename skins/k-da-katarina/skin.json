@@ -1,0 +1,26 @@
+{
+	"id": "k-da-katarina",
+	"name": "K/DA Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Katarina\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.0\r\n\r\n###### Description: K/DA Katarina\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n* In-game transformation, you can use Ctrl+5 to toggle her jacket on/off, use Ctrl+3 to toggle her back weapons on/off.\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/4ff5c719-ee9f-4b6a-99d3-49e907cc9ad9\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/k-da-katarina/thumb.webp?v=eb8d5192",
+	"file": {
+		"version": 1,
+		"asset": "k-da-katarina-v1.fantome",
+		"size": 49846092,
+		"sha256": "a1f3911679d3924ba6fdde2a62b5f91e8e873ba9c81b8e777a6bd35b13ee9899"
+	},
+	"chromas": []
+}
