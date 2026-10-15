@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:43:14.474Z",
+	"generatedAt": "2026-10-15T07:44:12.632Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -355,6 +355,12 @@
 				"youtube": "https://www.youtube.com/@hatssstore"
 			}
 		},
+		"hyperios": {
+			"name": "HYPERIOS",
+			"avatar": "creators/hyperios.jpg?v=e505628c",
+			"bio": "Sett OTP and I like creating custom skins for Sett.\n- Consider donating to my ko-fi! https://ko-fi.com/hyperios 🧡",
+			"links": {}
+		},
 		"ikiryou": {
 			"name": "ikiryou",
 			"avatar": "creators/ikiryou.webp?v=2075acf6",
@@ -602,6 +608,13 @@
 			"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
 			"links": {}
 		},
+		"runeforgerecoveryteam": {
+			"name": "RuneforgeRecoveryTeam",
+			"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
+			"links": {
+				"youtube": "https://youtu.be/bmCLuAUOeGI"
+			}
+		},
 		"s0jaku": {
 			"name": "s0jaku",
 			"avatar": "creators/s0jaku.webp?v=734b9f42",
@@ -726,6 +739,11 @@
 		"vitusmmrc": {
 			"name": "vitusmmrc",
 			"avatar": "creators/vitusmmrc.png?v=e306cf5f",
+			"links": {}
+		},
+		"wastedwaffle": {
+			"name": "WastedWaffle",
+			"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 			"links": {}
 		},
 		"wiko": {
@@ -1082,6 +1100,101 @@
 				"asset": "aatrox-trundox-v1.fantome",
 				"size": 516505,
 				"sha256": "83dd87a2a132cf5790c170f7c34945c3936de6d3f2630bb66a23a62035806a83"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-whatsapp",
+			"name": "Aatrox Whatsapp",
+			"champion": 266,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-whatsapp/thumb.webp?v=c44c42ab",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-whatsapp-v1.fantome",
+				"size": 4468521,
+				"sha256": "db931206557b380fb8cbffaad79d831758404a02bf8b8c79cf139bce6208cb0c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aatrox-without-the-demon",
+			"name": "Aatrox Without the Demon",
+			"champion": 266,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aatrox-without-the-demon/thumb.webp?v=b767acb9",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-without-the-demon-v1.fantome",
+				"size": 21264,
+				"sha256": "eb7729cebfc506e1debbf74a155df1a9e9bc5c9f9a4d396b591302920c567ae2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "abyssal-bel-veth",
+			"name": "Abyssal Bel'Veth",
+			"champion": 200,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/abyssal-bel-veth/thumb.webp?v=d1d7cd4d",
+			"file": {
+				"version": 1,
+				"asset": "abyssal-bel-veth-v1.fantome",
+				"size": 9025729,
+				"sha256": "8728a0003ced0fb0d04d467993bca3f4ff749382e0dcba1a76c5f2ab057b0142"
+			},
+			"chromas": []
+		},
+		{
+			"id": "achilles-pantheon-default",
+			"name": "Achilles Pantheon (Default)",
+			"champion": 80,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/achilles-pantheon-default/thumb.webp?v=a7727332",
+			"file": {
+				"version": 1,
+				"asset": "achilles-pantheon-default-v1.fantome",
+				"size": 6824375,
+				"sha256": "f1a10b1ac7b46d254519c09c21d4964cf6b92b89c03fefa35f9b5a9b0ead2b06"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,25 @@
+{
+	"id": "abyssal-bel-veth",
+	"name": "Abyssal Bel'Veth",
+	"champion": 200,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/f40cfc6a-dfb8-4366-aa02-097ba75a9671\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/abyssal-bel-veth/thumb.webp?v=d1d7cd4d",
+	"file": {
+		"version": 1,
+		"asset": "abyssal-bel-veth-v1.fantome",
+		"size": 9025729,
+		"sha256": "8728a0003ced0fb0d04d467993bca3f4ff749382e0dcba1a76c5f2ab057b0142"
+	},
+	"chromas": []
+}

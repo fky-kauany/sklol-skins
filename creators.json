@@ -352,6 +352,12 @@
 			"youtube": "https://www.youtube.com/@hatssstore"
 		}
 	},
+	"hyperios": {
+		"name": "HYPERIOS",
+		"avatar": "creators/hyperios.jpg?v=e505628c",
+		"bio": "Sett OTP and I like creating custom skins for Sett.\n- Consider donating to my ko-fi! https://ko-fi.com/hyperios 🧡",
+		"links": {}
+	},
 	"ikiryou": {
 		"name": "ikiryou",
 		"avatar": "creators/ikiryou.webp?v=2075acf6",
@@ -599,6 +605,13 @@
 		"bio": "If the skin is broken, please contact me on Discord.\nrorotea1\n\nsupport me：ko-fi.com/roroteaa\n\nJoin the community：https://discord.gg/bzUgNR83FP",
 		"links": {}
 	},
+	"runeforgerecoveryteam": {
+		"name": "RuneforgeRecoveryTeam",
+		"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
+		"links": {
+			"youtube": "https://youtu.be/bmCLuAUOeGI"
+		}
+	},
 	"s0jaku": {
 		"name": "s0jaku",
 		"avatar": "creators/s0jaku.webp?v=734b9f42",
@@ -723,6 +736,11 @@
 	"vitusmmrc": {
 		"name": "vitusmmrc",
 		"avatar": "creators/vitusmmrc.png?v=e306cf5f",
+		"links": {}
+	},
+	"wastedwaffle": {
+		"name": "WastedWaffle",
+		"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 		"links": {}
 	},
 	"wiko": {

@@ -1,0 +1,24 @@
+{
+	"id": "achilles-pantheon-default",
+	"name": "Achilles Pantheon (Default)",
+	"champion": 80,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Achilles (Smite) mod for Default Pantheon. This mod also replaces his default ability icons.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/1ec17e8b-a581-40cf-b796-98f94ae6bfbe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/achilles-pantheon-default/thumb.webp?v=a7727332",
+	"file": {
+		"version": 1,
+		"asset": "achilles-pantheon-default-v1.fantome",
+		"size": 6824375,
+		"sha256": "f1a10b1ac7b46d254519c09c21d4964cf6b92b89c03fefa35f9b5a9b0ead2b06"
+	},
+	"chromas": []
+}

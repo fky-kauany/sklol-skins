@@ -1,0 +1,24 @@
+{
+	"id": "aatrox-whatsapp",
+	"name": "Aatrox Whatsapp",
+	"champion": 266,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "# Mod Info:\n\nChampion : Aatrox\n\n‎\n\nModified skin : Default\n\n‎\n\nOriginal Author : UmCaraQu4lqu3r\n\n‎\n\nRecovered by AleXD\n\n‎\n\nMod version: 1.0.3\n\n‎\n\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n‎\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/2cf81120-1256-4e8c-a8b5-d93af222682a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aatrox-whatsapp/thumb.webp?v=c44c42ab",
+	"file": {
+		"version": 1,
+		"asset": "aatrox-whatsapp-v1.fantome",
+		"size": 4468521,
+		"sha256": "db931206557b380fb8cbffaad79d831758404a02bf8b8c79cf139bce6208cb0c"
+	},
+	"chromas": []
+}
