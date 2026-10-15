@@ -1,0 +1,26 @@
+{
+	"id": "updated-prestige-petals-of-spring-seraphine-wr-p",
+	"name": "UPDATED! Prestige Petals of Spring - Seraphine (WR Port)",
+	"champion": 147,
+	"base": 0,
+	"creator": "beyonceknowles",
+	"description": "this took me so long and was very experimental as it's my first mod to modify vfx to this degree. pls pls let me know if there are any issues!\n\n### UNTICK THE \"REMOVE UNKNOWN\" SETTING IN THE MOD EDIT WINDOW IF NOT DONE ALREADY!\n\nreplaces:\n\nprestige ocean song seraphine\n\nmodifications:\n\ntextures, models, ui (loading screen, in-game), sound fx, visual fx\n\npossible conflicts:\n\nseraphine's base deathloop animation! if u are playing in the same match as any seraphine using any skin, she'll sink into the floor (just a byproduct of my ghetto dissolve vfx LOOL)\n\n---\n\n**Created by** [beyonceknowles](https://runeforge.dev/users/beyonceknowles)\n\n**Original:** https://runeforge.dev/mods/df908f08-abd7-43da-816d-6579594f9b1c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/updated-prestige-petals-of-spring-seraphine-wr-p/thumb.webp?v=841249f2",
+	"file": {
+		"version": 1,
+		"asset": "updated-prestige-petals-of-spring-seraphine-wr-p-v1.fantome",
+		"size": 33833583,
+		"sha256": "13f0042bf1dd383923aa2f71b9daaf87ab70189ef7850f8e37e9e5aeb6b83df9"
+	},
+	"chromas": []
+}

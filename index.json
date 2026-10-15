@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:32:20.628Z",
+	"generatedAt": "2026-10-15T14:33:37.006Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -32719,6 +32719,54 @@
 				"asset": "undead-jhin-v1.fantome",
 				"size": 1336621,
 				"sha256": "84f58d46c856622da9b82a635b5e1d23e6b6531fc8a019f9489d9a2216f96001"
+			},
+			"chromas": []
+		},
+		{
+			"id": "underworld-yasuo",
+			"name": "Underworld Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/underworld-yasuo/thumb.webp?v=2efb2058",
+			"file": {
+				"version": 1,
+				"asset": "underworld-yasuo-v1.fantome",
+				"size": 9682220,
+				"sha256": "dc732d29a60c3a9dfbaa20218b7138db8bf10ea95e001b6a168b697bddcf8a19"
+			},
+			"chromas": []
+		},
+		{
+			"id": "updated-prestige-petals-of-spring-seraphine-wr-p",
+			"name": "UPDATED! Prestige Petals of Spring - Seraphine (WR Port)",
+			"champion": 147,
+			"base": 0,
+			"creator": "beyonceknowles",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/updated-prestige-petals-of-spring-seraphine-wr-p/thumb.webp?v=841249f2",
+			"file": {
+				"version": 1,
+				"asset": "updated-prestige-petals-of-spring-seraphine-wr-p-v1.fantome",
+				"size": 33833583,
+				"sha256": "13f0042bf1dd383923aa2f71b9daaf87ab70189ef7850f8e37e9e5aeb6b83df9"
 			},
 			"chromas": []
 		},
