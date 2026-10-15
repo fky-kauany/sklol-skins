@@ -1,0 +1,26 @@
+{
+	"id": "nightbringer-yasuo-pink",
+	"name": "Nightbringer Yasuo - Pink",
+	"champion": 157,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - Nightbringer Yasuo\r\n\r\n╰┈➤ _The idea for this mod was to make Nightbringer Yasuo as one of the girls /hj, basically just making him pink_\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/2d6c58f2-e7d3-4afb-9511-f0528ce44f78\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nightbringer-yasuo-pink/thumb.webp?v=e2535274",
+	"file": {
+		"version": 1,
+		"asset": "nightbringer-yasuo-pink-v1.fantome",
+		"size": 10563130,
+		"sha256": "aec6f0d0394411769796005835ec2b0ccf1b97908c0e8547de9d796986036dcb"
+	},
+	"chromas": []
+}

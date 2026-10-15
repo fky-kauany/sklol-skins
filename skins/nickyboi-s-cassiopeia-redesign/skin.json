@@ -1,0 +1,25 @@
+{
+	"id": "nickyboi-s-cassiopeia-redesign",
+	"name": "Nickyboi's Cassiopeia Redesign",
+	"champion": 69,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\r\n\r\nThis skin replaces base Cassiopeia with a custom model and texture after Nickyboi's redesign.&#x20;\r\n\r\nIt is a Nickyboi design in collaboration with Erai Violett on concept art and Dwekou for Splash Art.\r\n\r\n## CREDITS\r\n\r\n* Designer: [Nickyboi](https://www.youtube.com/@NickyBoi)\r\n* Concept Art: [Erai Violett](https://www.artstation.com/eraiviolett)\r\n* Splash Art: [Dwekou](https://twitter.com/dwekou)\r\n* Model, Texture, & VFX: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\r\n\r\n## EXTRA INFOS\r\n\r\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\r\n* You can also check out the [artstation post on Cassiopeia's model](https://www.artstation.com/artwork/8bNkbQ) for a closer look.\r\n\r\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/bd7dd237-6d31-4330-bbcf-8a1262dde5b2\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nickyboi-s-cassiopeia-redesign/thumb.webp?v=9f2f8c03",
+	"file": {
+		"version": 1,
+		"asset": "nickyboi-s-cassiopeia-redesign-v1.fantome",
+		"size": 9983219,
+		"sha256": "4fa5918b47bab04971eaa2d7aa1319d167e3d2955c986d65d7dffbe9ffd87e81"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "nightbringer-yasuo-purple-chroma",
+	"name": "Nightbringer Yasuo Purple Chroma",
+	"champion": 157,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: Nightbringer Yasuo\n\nAuthor: alexrogin123\n\nSkin Version: 1.0\n\nIf u wish to support my work u can do it  here : https://paypal.me/Rog04\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/b78b260b-11d9-4ded-918d-3c581cff2e64\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nightbringer-yasuo-purple-chroma/thumb.webp?v=c17f7af4",
+	"file": {
+		"version": 1,
+		"asset": "nightbringer-yasuo-purple-chroma-v1.fantome",
+		"size": 650172,
+		"sha256": "8c73138a168cbaccc3a93d70d57db31c828c5b13a0f641da6858822435a3c4af"
+	},
+	"chromas": []
+}

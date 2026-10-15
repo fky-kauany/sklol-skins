@@ -1,0 +1,26 @@
+{
+	"id": "nilah-rem",
+	"name": "Nilah Rem",
+	"champion": 895,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "# 「 REM 」\r\n### *Replaces Nilah*\r\n\r\n---\r\n\r\n## ✦ FEATURES\r\n**Custom VFX**\r\n\r\n**Custom Voice Lines**\r\n\r\n**Custom 3D Model**\r\n\r\n---\r\n\r\n## ✦ SOCIALS\r\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\r\n\r\n---\r\n\r\n## ✦ CREDITS\r\nSkin made by **YoutZo**\n\n---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/fdb914b4-2e5b-4c8f-ba1e-82f9ac45349c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nilah-rem/thumb.webp?v=228b8557",
+	"file": {
+		"version": 1,
+		"asset": "nilah-rem-v1.fantome",
+		"size": 13326079,
+		"sha256": "19a88bc24e68887bff1de245ae6de686a6d92bc254b836a57751ed2847741d32"
+	},
+	"chromas": []
+}

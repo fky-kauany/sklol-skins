@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:06:01.222Z",
+	"generatedAt": "2026-10-15T12:09:09.135Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -23202,6 +23202,253 @@
 				"asset": "nessa-samira-v1.fantome",
 				"size": 7802667,
 				"sha256": "c23da67f4a6e45f7f7cd9c25b53ac9e7ff303df46defd2304b276f36bc2ff9bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "netflix-yuumi",
+			"name": "Netflix Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "ceratophrys",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/netflix-yuumi/thumb.webp?v=1d94c7ef",
+			"file": {
+				"version": 1,
+				"asset": "netflix-yuumi-v1.fantome",
+				"size": 518727,
+				"sha256": "54226f936cf8fd608adab77b38cb72f7380b4216bbffd5b161ae335dbf0bc6e2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nickyboi-s-cassiopeia-redesign",
+			"name": "Nickyboi's Cassiopeia Redesign",
+			"champion": 69,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nickyboi-s-cassiopeia-redesign/thumb.webp?v=9f2f8c03",
+			"file": {
+				"version": 1,
+				"asset": "nickyboi-s-cassiopeia-redesign-v1.fantome",
+				"size": 9983219,
+				"sha256": "4fa5918b47bab04971eaa2d7aa1319d167e3d2955c986d65d7dffbe9ffd87e81"
+			},
+			"chromas": []
+		},
+		{
+			"id": "night-hunter-vayne-chroma",
+			"name": "Night Hunter Vayne Chroma",
+			"champion": 67,
+			"base": 0,
+			"creator": "zamius",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/night-hunter-vayne-chroma/thumb.webp?v=becae36c",
+			"file": {
+				"version": 1,
+				"asset": "night-hunter-vayne-chroma-v1.fantome",
+				"size": 297642,
+				"sha256": "039b0e0f2b558e388d304eb2f2f3cc0c875288ed5b9f38001537e1ea12b82237"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nightbringer-yasuo-pink",
+			"name": "Nightbringer Yasuo - Pink",
+			"champion": 157,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nightbringer-yasuo-pink/thumb.webp?v=e2535274",
+			"file": {
+				"version": 1,
+				"asset": "nightbringer-yasuo-pink-v1.fantome",
+				"size": 10563130,
+				"sha256": "aec6f0d0394411769796005835ec2b0ccf1b97908c0e8547de9d796986036dcb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nightbringer-yasuo-purple-chroma",
+			"name": "Nightbringer Yasuo Purple Chroma",
+			"champion": 157,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nightbringer-yasuo-purple-chroma/thumb.webp?v=c17f7af4",
+			"file": {
+				"version": 1,
+				"asset": "nightbringer-yasuo-purple-chroma-v1.fantome",
+				"size": 650172,
+				"sha256": "8c73138a168cbaccc3a93d70d57db31c828c5b13a0f641da6858822435a3c4af"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nightgown-and-peaches-yunara",
+			"name": "Nightgown and Peaches Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nightgown-and-peaches-yunara/thumb.webp?v=c3eccf7f",
+			"file": {
+				"version": 1,
+				"asset": "nightgown-and-peaches-yunara-v1.fantome",
+				"size": 10932160,
+				"sha256": "7ccba0368d7cffb8c7b0558b165050be06878cd95781d4889d14df2e5f0102d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nightscar-yone",
+			"name": "Nightscar Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "aun0n",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nightscar-yone/thumb.webp?v=91d60d5b",
+			"file": {
+				"version": 1,
+				"asset": "nightscar-yone-v1.fantome",
+				"size": 12406927,
+				"sha256": "def6eabb9de716d3609eca984740362cf6cf7503baf2a26918323a8d115a77f5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nilah-rem",
+			"name": "Nilah Rem",
+			"champion": 895,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nilah-rem/thumb.webp?v=228b8557",
+			"file": {
+				"version": 1,
+				"asset": "nilah-rem-v1.fantome",
+				"size": 13326079,
+				"sha256": "19a88bc24e68887bff1de245ae6de686a6d92bc254b836a57751ed2847741d32"
+			},
+			"chromas": []
+		},
+		{
+			"id": "noisy-boy-sett",
+			"name": "Noisy Boy Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/noisy-boy-sett/thumb.webp?v=0ac2ce5a",
+			"file": {
+				"version": 1,
+				"asset": "noisy-boy-sett-v1.fantome",
+				"size": 22895408,
+				"sha256": "f97bfd4d6e6ef2e7250009998ea9ec72e0542eedcd5913bf065c9d685b0c25a8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nokotan-yone",
+			"name": "Nokotan Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/nokotan-yone/thumb.webp?v=5a61b95b",
+			"file": {
+				"version": 1,
+				"asset": "nokotan-yone-v1.fantome",
+				"size": 14861533,
+				"sha256": "9b14358eb4b1e394300c5e980db3ef56cb8d9def3ba74111cd36ae3c755dede9"
 			},
 			"chromas": []
 		},

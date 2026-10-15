@@ -1,0 +1,26 @@
+{
+	"id": "nightgown-and-peaches-yunara",
+	"name": "Nightgown and Peaches Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/f25eee46-21eb-42ad-8296-4a4bcec40949\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nightgown-and-peaches-yunara/thumb.webp?v=c3eccf7f",
+	"file": {
+		"version": 1,
+		"asset": "nightgown-and-peaches-yunara-v1.fantome",
+		"size": 10932160,
+		"sha256": "7ccba0368d7cffb8c7b0558b165050be06878cd95781d4889d14df2e5f0102d3"
+	},
+	"chromas": []
+}

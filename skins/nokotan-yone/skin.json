@@ -1,0 +1,26 @@
+{
+	"id": "nokotan-yone",
+	"name": "Nokotan Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion: Yone\r\n* Modified skin: Default\r\n* Author: The Melancholy Of Slime \r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* New voiceover\r\n\r\n## Credits\r\n\r\n* Special Thanks to Frog for swaping code/recall stuffs , Bud/Scuttle for VO Packs\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/0cf77daa-ddbc-42b7-8ad9-26342df7806e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nokotan-yone/thumb.webp?v=5a61b95b",
+	"file": {
+		"version": 1,
+		"asset": "nokotan-yone-v1.fantome",
+		"size": 14861533,
+		"sha256": "9b14358eb4b1e394300c5e980db3ef56cb8d9def3ba74111cd36ae3c755dede9"
+	},
+	"chromas": []
+}

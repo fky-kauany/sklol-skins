@@ -1,0 +1,23 @@
+{
+	"id": "netflix-yuumi",
+	"name": "Netflix Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "ceratophrys",
+	"description": "### Overview:\n\n* Champion: Yuumi\n* Modified skin: Base\n* Author: CERATOPHRYS\n* Version: 1.0.0\n\nPlease report bugs.\n\n---\n\n**Created by** [CERATOPHRYS](https://runeforge.dev/users/CERATOPHRYS)\n\n**Original:** https://runeforge.dev/mods/9b20d7e7-5208-40fc-b82d-ed00a583e406\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/netflix-yuumi/thumb.webp?v=1d94c7ef",
+	"file": {
+		"version": 1,
+		"asset": "netflix-yuumi-v1.fantome",
+		"size": 518727,
+		"sha256": "54226f936cf8fd608adab77b38cb72f7380b4216bbffd5b161ae335dbf0bc6e2"
+	},
+	"chromas": []
+}

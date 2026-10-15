@@ -1,0 +1,25 @@
+{
+	"id": "nightscar-yone",
+	"name": "Nightscar Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "aun0n",
+	"description": "### 🗡️ Nightscar Yone\n\nA darker and sharper take on Yone, featuring a high-contrast black & white aesthetic, enhanced visual effects, and a more powerful cinematic presence.\n\n---\n\n### ✨ Features\n- **Custom base model** – a darker, heavily bandaged form of Yone\n- **Recolored textures** – high-contrast black & white theme for a distinctive look\n- **Enhanced spell particles** – cleaner, heavier and more impactful VFX\n- **Amplified ultimate** – improved effects using various assets to deliver extra power \n- **Custom UI elements** – loading screen, HUD, and in-game icon\n\n---\n\n### 🖼 Artwork\nIf you'd like to download the full 4K version of my graphic without the title text:\n**[Download Here](https://drive.google.com/drive/folders/1Q5r7A_-OCGv1w25qCsMoTo4lbcKaYa7Z?usp=sharing)**\n\n---\n\n### 📝 Additional Notes\n- Feedback / contact: **aun0n** on Discord\n\n---\n\n**Created by** [aun0n](https://runeforge.dev/users/aun0n)\n\n**Original:** https://runeforge.dev/mods/4290b132-431f-4970-b6a7-7931c608a02b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/nightscar-yone/thumb.webp?v=91d60d5b",
+	"file": {
+		"version": 1,
+		"asset": "nightscar-yone-v1.fantome",
+		"size": 12406927,
+		"sha256": "def6eabb9de716d3609eca984740362cf6cf7503baf2a26918323a8d115a77f5"
+	},
+	"chromas": []
+}

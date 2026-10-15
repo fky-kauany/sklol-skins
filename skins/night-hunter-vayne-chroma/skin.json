@@ -1,0 +1,22 @@
+{
+	"id": "night-hunter-vayne-chroma",
+	"name": "Night Hunter Vayne Chroma",
+	"champion": 67,
+	"base": 0,
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\n##\n\n**Champion**: Vayne\n\n**Modified skin**: Base / Default\n\n**Author**: Zamius\n\n**Mod version**: 1.0.1\n\n**Description**: Black & white chroma for Vayne’s base skin.\n\n##\n\n**FEATURES**\n- New textures\n- Supports all champion texture quality settings\n- Modified loading screens\n- Modified champion icon in-game\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/57ffcdf0-98e1-43d2-88db-6343f6127161\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/night-hunter-vayne-chroma/thumb.webp?v=becae36c",
+	"file": {
+		"version": 1,
+		"asset": "night-hunter-vayne-chroma-v1.fantome",
+		"size": 297642,
+		"sha256": "039b0e0f2b558e388d304eb2f2f3cc0c875288ed5b9f38001537e1ea12b82237"
+	},
+	"chromas": []
+}
