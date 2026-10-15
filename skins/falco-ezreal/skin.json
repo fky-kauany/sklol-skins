@@ -1,0 +1,25 @@
+{
+	"id": "falco-ezreal",
+	"name": "Falco Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "notcz",
+	"description": "This was a commission that got stopped half way through but well since it was half made, finished it fast for free : PP\n\n---\n\n**Created by** [notCZ](https://runeforge.dev/users/notCZ)\n\n**Original:** https://runeforge.dev/mods/d554835f-dd7d-450e-b869-e56cedb73573\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/falco-ezreal/thumb.webp?v=8bcb7fd0",
+	"file": {
+		"version": 1,
+		"asset": "falco-ezreal-v1.fantome",
+		"size": 28058390,
+		"sha256": "bb16606fb6447afee4e451e91eaf94ad6dd956c782c2d76b0d52d05d4e53e8d5"
+	},
+	"chromas": []
+}

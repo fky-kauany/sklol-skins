@@ -1,0 +1,23 @@
+{
+	"id": "fake-character-inking-talon",
+	"name": "Fake Character Inking Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### If you have more than one \"Fake Character Inking\" mod enabled you need to go to Cslol-Manager settings and enable \"Supress Install Conflicts\"\n\n#\n\n#### Highly suggest you \"right click > open in a new tab\" the preview image\n\n## Information\n\nBack in 2022 Riot removed the ability to use Character Inking which would add a black outline to characters. In TFT set 15 they used a material that looks almost like the Character Inking of the olden days. However rather than only doing the outline where the model ends it does all of the edges. This mod simply uses that material to create a fake Character Inking look.\n\n**Modified champion: Talon**\n\n**Modified skin: Default & Enduring Sword**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/e8526c66-804d-43ba-a329-19c0b26ddde0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fake-character-inking-talon/thumb.webp?v=1a1fe282",
+	"file": {
+		"version": 1,
+		"asset": "fake-character-inking-talon-v1.fantome",
+		"size": 1963987,
+		"sha256": "a2b5982eef1b901efa22b4cfb8d263c88472d85fcef9a4cd45a8a28ca36b555d"
+	},
+	"chromas": []
+}

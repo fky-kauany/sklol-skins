@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:15:57.878Z",
+	"generatedAt": "2026-10-15T09:19:02.319Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -9356,6 +9356,243 @@
 				"asset": "fake-character-inking-blitzcrank-v1.fantome",
 				"size": 3531833,
 				"sha256": "fc0e85a6cfe2781559d7a0f6d20e1afefb92d0ea6b5de9fa727eaa79e7cae64d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fake-character-inking-jinx",
+			"name": "Fake Character Inking Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fake-character-inking-jinx/thumb.webp?v=586d45a4",
+			"file": {
+				"version": 1,
+				"asset": "fake-character-inking-jinx-v1.fantome",
+				"size": 3380389,
+				"sha256": "14b01868a1c88b5fb6f9b90fb3d754597776bd07406fc532e87253a23b9f4415"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fake-character-inking-kassadin",
+			"name": "Fake Character Inking Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fake-character-inking-kassadin/thumb.webp?v=a8bded91",
+			"file": {
+				"version": 1,
+				"asset": "fake-character-inking-kassadin-v1.fantome",
+				"size": 2468646,
+				"sha256": "31d0bf08b3261a5e1ce9f340753afedc7909247b9456556c87361cb1ea25d14d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fake-character-inking-pyke",
+			"name": "Fake Character Inking Pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fake-character-inking-pyke/thumb.webp?v=552cbe7d",
+			"file": {
+				"version": 1,
+				"asset": "fake-character-inking-pyke-v1.fantome",
+				"size": 6895735,
+				"sha256": "75e69de35db0c5cfeca590aa23e7c5f8f3ba01a1749c0cf4b419aed802cf7658"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fake-character-inking-talon",
+			"name": "Fake Character Inking Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fake-character-inking-talon/thumb.webp?v=1a1fe282",
+			"file": {
+				"version": 1,
+				"asset": "fake-character-inking-talon-v1.fantome",
+				"size": 1963987,
+				"sha256": "a2b5982eef1b901efa22b4cfb8d263c88472d85fcef9a4cd45a8a28ca36b555d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fake-character-inking-yasuo",
+			"name": "Fake Character Inking Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fake-character-inking-yasuo/thumb.webp?v=ac2af1df",
+			"file": {
+				"version": 1,
+				"asset": "fake-character-inking-yasuo-v1.fantome",
+				"size": 2812354,
+				"sha256": "77980ede94275980308bdc07cff374c8c77e8203f0ff21f3ddd11face6b74d91"
+			},
+			"chromas": []
+		},
+		{
+			"id": "falco-ezreal",
+			"name": "Falco Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "notcz",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/falco-ezreal/thumb.webp?v=8bcb7fd0",
+			"file": {
+				"version": 1,
+				"asset": "falco-ezreal-v1.fantome",
+				"size": 28058390,
+				"sha256": "bb16606fb6447afee4e451e91eaf94ad6dd956c782c2d76b0d52d05d4e53e8d5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fall-of-cybertron-optimus-sion",
+			"name": "Fall of Cybertron Optimus Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fall-of-cybertron-optimus-sion/thumb.webp?v=09189c6d",
+			"file": {
+				"version": 1,
+				"asset": "fall-of-cybertron-optimus-sion-v1.fantome",
+				"size": 5210551,
+				"sha256": "ccd1756141584bbbff3abfdddff3851374ade7f09668c5beb83e2bbc5aad4696"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fallen-angel-zaahen-base-chroma",
+			"name": "Fallen Angel Zaahen Base Chroma",
+			"champion": 904,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fallen-angel-zaahen-base-chroma/thumb.webp?v=6139e4b7",
+			"file": {
+				"version": 1,
+				"asset": "fallen-angel-zaahen-base-chroma-v1.fantome",
+				"size": 4078251,
+				"sha256": "6b98f53b1397f82b71e6938846aa5fefd1f3ff996859034a40b1d6a1659f6f64"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-aphelios",
+			"name": "Feline Weapons Aphelios",
+			"champion": 523,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-aphelios/thumb.webp?v=d8e8c99f",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-aphelios-v1.fantome",
+				"size": 1376742,
+				"sha256": "fc64d719fe0b04904858967f0567fbaf1ea4f3d611db25e7ec3384cbd13f7794"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-draven",
+			"name": "Feline Weapons Draven",
+			"champion": 119,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-draven/thumb.webp?v=15dc4086",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-draven-v1.fantome",
+				"size": 1356794,
+				"sha256": "17cc8e2019d3bd2fea2b469f899211466660307523604d6bf0f7dbe7e8b0c498"
 			},
 			"chromas": []
 		},

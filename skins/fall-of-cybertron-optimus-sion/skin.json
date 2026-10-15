@@ -1,0 +1,24 @@
+{
+	"id": "fall-of-cybertron-optimus-sion",
+	"name": "Fall of Cybertron Optimus Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "blaster",
+	"description": "---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/f3f9aed7-6da9-4b36-9d1b-866ae2994a08\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fall-of-cybertron-optimus-sion/thumb.webp?v=09189c6d",
+	"file": {
+		"version": 1,
+		"asset": "fall-of-cybertron-optimus-sion-v1.fantome",
+		"size": 5210551,
+		"sha256": "ccd1756141584bbbff3abfdddff3851374ade7f09668c5beb83e2bbc5aad4696"
+	},
+	"chromas": []
+}

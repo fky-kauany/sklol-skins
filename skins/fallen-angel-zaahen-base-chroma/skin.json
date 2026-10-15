@@ -1,0 +1,23 @@
+{
+	"id": "fallen-angel-zaahen-base-chroma",
+	"name": "Fallen Angel Zaahen Base Chroma",
+	"champion": 904,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Zaahen Skin.\r\n\r\nAffects: Skin & Ability Color\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Zaahen Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/a0b3928b-3f2b-4929-a0a1-302a8625667a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fallen-angel-zaahen-base-chroma/thumb.webp?v=6139e4b7",
+	"file": {
+		"version": 1,
+		"asset": "fallen-angel-zaahen-base-chroma-v1.fantome",
+		"size": 4078251,
+		"sha256": "6b98f53b1397f82b71e6938846aa5fefd1f3ff996859034a40b1d6a1659f6f64"
+	},
+	"chromas": []
+}

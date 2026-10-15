@@ -1,0 +1,25 @@
+{
+	"id": "fake-character-inking-pyke",
+	"name": "Fake Character Inking Pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### If you have more than one \"Fake Character Inking\" mod enabled you need to go to Cslol-Manager settings and enable \"Supress Install Conflicts\"\n\n#\n\n#### Highly suggest you \"right click > open in a new tab\" the preview image\n\n#\n\n##### This mod works with my Pyke with Blåhaj mod: https://runeforge.dev/mods/351736a0-cef3-4682-a880-b9f5ded0bab8\n\n## Information\n\nBack in 2022 Riot removed the ability to use Character Inking which would add a black outline to characters. In TFT set 15 they used a material that looks almost like the Character Inking of the olden days. However rather than only doing the outline where the model ends it does all of the edges. This mod simply uses that material to create a fake Character Inking look.\n\n**Modified champion: Pyke**\n\n**Modified skin: Default & Sand**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/8e62049e-e51b-4746-a71f-5ed1634a6caf\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fake-character-inking-pyke/thumb.webp?v=552cbe7d",
+	"file": {
+		"version": 1,
+		"asset": "fake-character-inking-pyke-v1.fantome",
+		"size": 6895735,
+		"sha256": "75e69de35db0c5cfeca590aa23e7c5f8f3ba01a1749c0cf4b419aed802cf7658"
+	},
+	"chromas": []
+}

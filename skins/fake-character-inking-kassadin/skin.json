@@ -1,0 +1,23 @@
+{
+	"id": "fake-character-inking-kassadin",
+	"name": "Fake Character Inking Kassadin",
+	"champion": 38,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### If you have more than one \"Fake Character Inking\" mod enabled you need to go to Cslol-Manager settings and enable \"Supress Install Conflicts\"\n\n#\n\n#### Highly suggest you \"right click > open in a new tab\" the preview image\n\n## Information\n\nBack in 2022 Riot removed the ability to use Character Inking which would add a black outline to characters. In TFT set 15 they used a material that looks almost like the Character Inking of the olden days. However rather than only doing the outline where the model ends it does all of the edges. This mod simply uses that material to create a fake Character Inking look.\n\n**Modified champion: Kassadin**\n\n**Modified skin: Default + Cosmic Reaver**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/2ef7a611-8817-4812-b894-759101411391\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fake-character-inking-kassadin/thumb.webp?v=a8bded91",
+	"file": {
+		"version": 1,
+		"asset": "fake-character-inking-kassadin-v1.fantome",
+		"size": 2468646,
+		"sha256": "31d0bf08b3261a5e1ce9f340753afedc7909247b9456556c87361cb1ea25d14d"
+	},
+	"chromas": []
+}
