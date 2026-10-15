@@ -1,0 +1,24 @@
+{
+	"id": "kirbys-and-burgers-gragas",
+	"name": "Kirbys and Burgers Gragas",
+	"champion": 79,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Gragas**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\n**Models are from:**\n\n* Kirby 64 The Crystal Shards\n* [https://www.models-resource.com/nintendo\\_64/kirby64/model/9291/](https://www.models-resource.com/nintendo_64/kirby64/model/9291/)\n\n* Kirby and the Forgotten Land\n* [https://www.models-resource.com/nintendo\\_switch/kirbyandtheforgottenland/model/51620/](https://www.models-resource.com/nintendo_switch/kirbyandtheforgottenland/model/51620/)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/f6fd85ea-09b3-4587-b059-c6cebf32fe0b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kirbys-and-burgers-gragas/thumb.webp?v=2f19d1ed",
+	"file": {
+		"version": 1,
+		"asset": "kirbys-and-burgers-gragas-v1.fantome",
+		"size": 616054,
+		"sha256": "6a24f739c038bfdc3a25e69733a9aee11f199733a8c840d1115e1843318987e1"
+	},
+	"chromas": []
+}

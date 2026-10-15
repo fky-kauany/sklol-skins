@@ -1,0 +1,24 @@
+{
+	"id": "killer-bean-lucian",
+	"name": "Killer Bean Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "annown",
+	"description": "### Mod Information-\n* Champion: Lucian\n* Modified Skin: Default\n* Author: Annown\n* Mod Version: 1.1.4\n* Model from \"Killer Bean: Unleashed\"\n\n### Features-\n* New Model and Texture\n* Supports all Quality settings\n* New Loading Screen\n\nJoin my [Discord](https://discord.com/invite/js3CDHe4tD \"Discord\") if any of my skins are out of order.\n\n---\n\n**Created by** [Annown](https://runeforge.dev/users/Annown)\n\n**Original:** https://runeforge.dev/mods/ee237700-f12e-4a33-9c7b-42639ed04364\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/killer-bean-lucian/thumb.webp?v=1350b290",
+	"file": {
+		"version": 1,
+		"asset": "killer-bean-lucian-v1.fantome",
+		"size": 550642,
+		"sha256": "ffed2223f2ddecb2f9e914e0084103bdfbcf2c4eddae733a44c1bae4b06bf882"
+	},
+	"chromas": []
+}

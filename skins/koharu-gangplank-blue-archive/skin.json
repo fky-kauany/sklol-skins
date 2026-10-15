@@ -1,0 +1,26 @@
+{
+	"id": "koharu-gangplank-blue-archive",
+	"name": "Koharu Gangplank (Blue Archive)",
+	"champion": 41,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "credit to the original maker of the model https://www.youtube.com/@_HCHA\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/043e5d42-667a-4de3-a4c0-19e1cb84ee99\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/koharu-gangplank-blue-archive/thumb.webp?v=79f17de5",
+	"file": {
+		"version": 1,
+		"asset": "koharu-gangplank-blue-archive-v1.fantome",
+		"size": 13471798,
+		"sha256": "9b4eab98aed91e16cfb4fd41cd63ff230711a22dc87d5d03f45d9092cddffacc"
+	},
+	"chromas": []
+}

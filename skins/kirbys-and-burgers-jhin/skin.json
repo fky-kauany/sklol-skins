@@ -1,0 +1,24 @@
+{
+	"id": "kirbys-and-burgers-jhin",
+	"name": "Kirbys and Burgers Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Jhin**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\n**Models are from:**\n\n* Kirby 64 The Crystal Shards\n* [https://www.models-resource.com/nintendo\\_64/kirby64/model/9291/](https://www.models-resource.com/nintendo_64/kirby64/model/9291/)\n\n* Kirby and the Forgotten Land\n* [https://www.models-resource.com/nintendo\\_switch/kirbyandtheforgottenland/model/51620/](https://www.models-resource.com/nintendo_switch/kirbyandtheforgottenland/model/51620/)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/29c9a005-3a63-4c49-9d84-64f3b94ef1b8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kirbys-and-burgers-jhin/thumb.webp?v=34377ccf",
+	"file": {
+		"version": 1,
+		"asset": "kirbys-and-burgers-jhin-v1.fantome",
+		"size": 1040918,
+		"sha256": "3dd3b2b11fa164546d5150676bb47e67211ba9ed11d40e375eb8d4aa2f8ba743"
+	},
+	"chromas": []
+}

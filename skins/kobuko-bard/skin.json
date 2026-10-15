@@ -1,0 +1,25 @@
+{
+	"id": "kobuko-bard",
+	"name": "Kobuko (Bard)",
+	"champion": 432,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\n**Modified champion:** Bard\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n#\n\n### Features\n* New model\n* New animations\n* New Voicelines\n* New HUD icons\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/db9eae09-3b42-4014-9866-93d706e89791\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kobuko-bard/thumb.webp?v=065d391e",
+	"file": {
+		"version": 1,
+		"asset": "kobuko-bard-v1.fantome",
+		"size": 2398793,
+		"sha256": "a40ccd622259913839a401758f08c203170e6187d3dc61a97d972fa2f99bb86b"
+	},
+	"chromas": []
+}

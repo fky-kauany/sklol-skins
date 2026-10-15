@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:05:53.547Z",
+	"generatedAt": "2026-10-15T11:08:54.387Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -18332,6 +18332,247 @@
 				"asset": "kiana-hov-irelia-v1.fantome",
 				"size": 12246920,
 				"sha256": "e0c169cbb30042bbc9c3412fa95dae1457488fe0526011d0c80a2951eda2f696"
+			},
+			"chromas": []
+		},
+		{
+			"id": "killer-bean-lucian",
+			"name": "Killer Bean Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "annown",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/killer-bean-lucian/thumb.webp?v=1350b290",
+			"file": {
+				"version": 1,
+				"asset": "killer-bean-lucian-v1.fantome",
+				"size": 550642,
+				"sha256": "ffed2223f2ddecb2f9e914e0084103bdfbcf2c4eddae733a44c1bae4b06bf882"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kirbys-and-burgers-gragas",
+			"name": "Kirbys and Burgers Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kirbys-and-burgers-gragas/thumb.webp?v=2f19d1ed",
+			"file": {
+				"version": 1,
+				"asset": "kirbys-and-burgers-gragas-v1.fantome",
+				"size": 616054,
+				"sha256": "6a24f739c038bfdc3a25e69733a9aee11f199733a8c840d1115e1843318987e1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kirbys-and-burgers-jhin",
+			"name": "Kirbys and Burgers Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kirbys-and-burgers-jhin/thumb.webp?v=34377ccf",
+			"file": {
+				"version": 1,
+				"asset": "kirbys-and-burgers-jhin-v1.fantome",
+				"size": 1040918,
+				"sha256": "3dd3b2b11fa164546d5150676bb47e67211ba9ed11d40e375eb8d4aa2f8ba743"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kirbys-and-burgers-malzahar",
+			"name": "Kirbys and Burgers Malzahar",
+			"champion": 90,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kirbys-and-burgers-malzahar/thumb.webp?v=8720a67c",
+			"file": {
+				"version": 1,
+				"asset": "kirbys-and-burgers-malzahar-v1.fantome",
+				"size": 399201,
+				"sha256": "562fc49eda90ad6a6995ead3d57124cb913d423ec79c12dcb5ff7fabfe9eadc3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kirbys-and-burgers-teemo",
+			"name": "Kirbys and Burgers Teemo",
+			"champion": 17,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kirbys-and-burgers-teemo/thumb.webp?v=aa451436",
+			"file": {
+				"version": 1,
+				"asset": "kirbys-and-burgers-teemo-v1.fantome",
+				"size": 517636,
+				"sha256": "0f0cfa0891ca0c110a5a81d6ac69006b500395f1b8f66f083a329372957b0c71"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kobuko-bard",
+			"name": "Kobuko (Bard)",
+			"champion": 432,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kobuko-bard/thumb.webp?v=065d391e",
+			"file": {
+				"version": 1,
+				"asset": "kobuko-bard-v1.fantome",
+				"size": 2398793,
+				"sha256": "a40ccd622259913839a401758f08c203170e6187d3dc61a97d972fa2f99bb86b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kog-maw-yuumi-kogmaw",
+			"name": "Yuumi KogMaw",
+			"champion": 96,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kog-maw-yuumi-kogmaw/thumb.webp?v=0bc415ad",
+			"file": {
+				"version": 1,
+				"asset": "kog-maw-yuumi-kogmaw-v1.fantome",
+				"size": 467215,
+				"sha256": "517e70c850023566ebf2b6b08929813c99554ecec9e851b7f5ace2e8e48bd6d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "koharu-gangplank-blue-archive",
+			"name": "Koharu Gangplank (Blue Archive)",
+			"champion": 41,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/koharu-gangplank-blue-archive/thumb.webp?v=79f17de5",
+			"file": {
+				"version": 1,
+				"asset": "koharu-gangplank-blue-archive-v1.fantome",
+				"size": 13471798,
+				"sha256": "9b4eab98aed91e16cfb4fd41cd63ff230711a22dc87d5d03f45d9092cddffacc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "koishi-malzahar",
+			"name": "Koishi Malzahar",
+			"champion": 90,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/koishi-malzahar/thumb.webp?v=faa30640",
+			"file": {
+				"version": 1,
+				"asset": "koishi-malzahar-v1.fantome",
+				"size": 2014969,
+				"sha256": "277e1229132e985363f59fb0e18b26a0bdfef58ed105b14dc7809a6f4842b3d1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kokomi-janna",
+			"name": "Kokomi Janna",
+			"champion": 40,
+			"base": 7,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kokomi-janna/thumb.webp?v=ecad2bff",
+			"file": {
+				"version": 1,
+				"asset": "kokomi-janna-v1.fantome",
+				"size": 4345934,
+				"sha256": "7596f14544bb77f36f6f3c17345b07837d9be55138fe9d1feccab0b81f542553"
 			},
 			"chromas": []
 		},
