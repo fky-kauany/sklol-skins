@@ -1,0 +1,23 @@
+{
+	"id": "monika-karma",
+	"name": "Monika Karma",
+	"champion": 43,
+	"base": 3,
+	"creator": "rorotea",
+	"description": "Mod name : Monika Karma\n\n\n\nSkin modified : Default\n\n\n\nAuthor : rorotea\n\n\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/a6ff55ca-aee2-40e8-978f-f22f962c903d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/monika-karma/thumb.webp?v=669e147c",
+	"file": {
+		"version": 1,
+		"asset": "monika-karma-v1.fantome",
+		"size": 3412358,
+		"sha256": "702850f47473bb0301ca0aa3c9fbc089521e832b81961b5cff7a0ba1fd6eacef"
+	},
+	"chromas": []
+}

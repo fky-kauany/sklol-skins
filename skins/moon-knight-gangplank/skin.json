@@ -1,0 +1,25 @@
+{
+	"id": "moon-knight-gangplank",
+	"name": "Moon Knight Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "jioubin",
+	"description": "Mod Information\n\nChampion : Gangplank\n\nModified Skin : Base&#x20;\n\nAuthor : Jioubin\n\nMod Version : 1.0\n\nFeatures\n\n-New model and texture\n\n-New particles\n\n-Modified loading screen art\n\n-Modified champion icon\n\n-New VO\n\n---\n\n**Created by** [Jioubin](https://runeforge.dev/users/Jioubin)\n\n**Original:** https://runeforge.dev/mods/90fd5f96-688b-44af-aee0-e10071f94664\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/moon-knight-gangplank/thumb.webp?v=d22769b1",
+	"file": {
+		"version": 1,
+		"asset": "moon-knight-gangplank-v1.fantome",
+		"size": 31045598,
+		"sha256": "a04981e42d054942fa0d99b169ce62d3617bf662a857824504f314750dce231c"
+	},
+	"chromas": []
+}

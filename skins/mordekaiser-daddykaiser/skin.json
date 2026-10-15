@@ -1,0 +1,25 @@
+{
+	"id": "mordekaiser-daddykaiser",
+	"name": "Daddykaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Daddykaiser mod for Mordekaiser.\n- Custom Model & Textures.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/43e9ff82-972c-418f-8cf8-e5aa88e33710\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mordekaiser-daddykaiser/thumb.webp?v=dbfcff91",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-daddykaiser-v1.fantome",
+		"size": 5265223,
+		"sha256": "3e00724bccefe79b6731bc767dd458a6e22516fe0e759446f4425281d7770eaa"
+	},
+	"chromas": []
+}

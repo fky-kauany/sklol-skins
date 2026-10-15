@@ -1,0 +1,26 @@
+{
+	"id": "mordekaiser-metal-revenant",
+	"name": "Mordekaiser Metal Revenant",
+	"champion": 82,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\n\nBase champion: Mordekaiser\n\nModified Skin: Default, Infernal and Dragon knight\n\nAuthor: Sauronkaiser\n\nDescription: Like metal? Liked old Mordekaiser? This skin is for you.\n\nFeatures:\n\n-New model and texture\n\n-Music in abilities\n\n-New Voiceover\n\n-Hud and ability icons changes.\n\n-3 horns and a spiked mace!\n\n\nlegacy Changelog:\n\n-15/09/22: First official release.\n\n-23/01/23: Added new ult animation, new particles and some other tweaks.\n\n-29/10/23: Added voiceover support for all languages.\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-28/04/2024: 2.0 version launch. Support for infernal and dragon knight skins.\n\n-10/05/2024: Added music version again.\n\n\nSources:\n\n-All songs listed above.\n\n-Model made using League assets.\n\n-Lance Vance gave his voice to the voiceover.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/e2b47566-2d7b-486e-a0be-fc976585aa56\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mordekaiser-metal-revenant/thumb.webp?v=1a51aee8",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-metal-revenant-v1.fantome",
+		"size": 16482056,
+		"sha256": "5b5eedfafe447c08e10ad54e5c1f0a43858e30156d05c1951f4e5a3c7c853f83"
+	},
+	"chromas": []
+}

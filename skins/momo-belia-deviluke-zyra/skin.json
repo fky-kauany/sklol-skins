@@ -1,0 +1,25 @@
+{
+	"id": "momo-belia-deviluke-zyra",
+	"name": "Momo Belia Deviluke Zyra",
+	"champion": 143,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Zyra\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Zyra with Momo from To LOVE-Ru\r\n\r\nモモちゃんの太ももぺろぺろしたい。。。ぺろぺろぺろぺろ\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified animations\r\n* New voiceover\r\n\r\n### Credits\r\n* Model from 300 Heroes\r\n* Visual assets and voicelines from TLR anime and assorted TLR games/collabs (Senran Kagura mobage, VN, etc)\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/9e40e8b5-1f54-4b06-a947-734f68729924\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/momo-belia-deviluke-zyra/thumb.webp?v=0f3e7d46",
+	"file": {
+		"version": 1,
+		"asset": "momo-belia-deviluke-zyra-v1.fantome",
+		"size": 4003876,
+		"sha256": "4390cd7624a5c836cf8020411792f797dfa5fe294cbdd21da1c5a1c4761642f1"
+	},
+	"chromas": []
+}

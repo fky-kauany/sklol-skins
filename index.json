@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:56:39.133Z",
+	"generatedAt": "2026-10-15T11:59:45.417Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -690,6 +690,10 @@
 			"links": {
 				"site": "https://skfb.ly/pE9UL"
 			}
+		},
+		"grudy": {
+			"name": "Grudy",
+			"links": {}
 		},
 		"harpyqueen": {
 			"name": "HarpyQueen",
@@ -22444,6 +22448,251 @@
 				"asset": "mochi-pop-seraphine-v1.fantome",
 				"size": 13917316,
 				"sha256": "3a1610a7d9e98207ddb3389793ebee589d435e9cdd2f0d2f4e579306f9b12a9d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "momo-belia-deviluke-zyra",
+			"name": "Momo Belia Deviluke Zyra",
+			"champion": 143,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/momo-belia-deviluke-zyra/thumb.webp?v=0f3e7d46",
+			"file": {
+				"version": 1,
+				"asset": "momo-belia-deviluke-zyra-v1.fantome",
+				"size": 4003876,
+				"sha256": "4390cd7624a5c836cf8020411792f797dfa5fe294cbdd21da1c5a1c4761642f1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "monika-karma",
+			"name": "Monika Karma",
+			"champion": 43,
+			"base": 3,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/monika-karma/thumb.webp?v=669e147c",
+			"file": {
+				"version": 1,
+				"asset": "monika-karma-v1.fantome",
+				"size": 3412358,
+				"sha256": "702850f47473bb0301ca0aa3c9fbc089521e832b81961b5cff7a0ba1fd6eacef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "monochromatic-ashe",
+			"name": "Monochromatic Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/monochromatic-ashe/thumb.webp?v=91de0ba0",
+			"file": {
+				"version": 1,
+				"asset": "monochromatic-ashe-v1.fantome",
+				"size": 1590938,
+				"sha256": "14ec84f97a0d8065abe94d3fe99c2a21751dc997c0e2f625201d2e872517c007"
+			},
+			"chromas": []
+		},
+		{
+			"id": "monochromatic-zed",
+			"name": "Monochromatic Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/monochromatic-zed/thumb.webp?v=58e60403",
+			"file": {
+				"version": 1,
+				"asset": "monochromatic-zed-v1.fantome",
+				"size": 2704873,
+				"sha256": "0d0f6f1c9ba9ebd21e004a44e0d78f381e1bb11b62e0d25b77d3c9b685773bb4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "moon-knight-gangplank",
+			"name": "Moon Knight Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "jioubin",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/moon-knight-gangplank/thumb.webp?v=d22769b1",
+			"file": {
+				"version": 1,
+				"asset": "moon-knight-gangplank-v1.fantome",
+				"size": 31045598,
+				"sha256": "a04981e42d054942fa0d99b169ce62d3617bf662a857824504f314750dce231c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "moon-knight-zed",
+			"name": "Moon Knight Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/moon-knight-zed/thumb.webp?v=70d17d92",
+			"file": {
+				"version": 1,
+				"asset": "moon-knight-zed-v1.fantome",
+				"size": 987085,
+				"sha256": "41ba13e6a9348e6af809fe23ad805e20e1c54beed9e21a1ffce19b8960d93e2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-daddykaiser",
+			"name": "Daddykaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-daddykaiser/thumb.webp?v=dbfcff91",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-daddykaiser-v1.fantome",
+				"size": 5265223,
+				"sha256": "3e00724bccefe79b6731bc767dd458a6e22516fe0e759446f4425281d7770eaa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-metal-revenant",
+			"name": "Mordekaiser Metal Revenant",
+			"champion": 82,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-metal-revenant/thumb.webp?v=1a51aee8",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-metal-revenant-v1.fantome",
+				"size": 16482056,
+				"sha256": "5b5eedfafe447c08e10ad54e5c1f0a43858e30156d05c1951f4e5a3c7c853f83"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-pants-and-old-shadow-face-sahn-uzal",
+			"name": "Pants and Old Shadow Face Sahn-Uzal",
+			"champion": 82,
+			"base": 0,
+			"creator": "grudy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-pants-and-old-shadow-face-sahn-uzal/thumb.webp?v=70721231",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-pants-and-old-shadow-face-sahn-uzal-v1.fantome",
+				"size": 2089283,
+				"sha256": "8ea7534a2e22d59ba90c3bd6a6c0ecc9db8894ab09eb1b9660206820a49631b2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mordekaiser-poppy",
+			"name": "Mordekaiser (Poppy)",
+			"champion": 78,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mordekaiser-poppy/thumb.webp?v=baa283e8",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-poppy-v1.fantome",
+				"size": 8255849,
+				"sha256": "e2ad33177b2a41b37bb258ea3ee96ca4ba89f58401186013fa2cf27c0c231cfc"
 			},
 			"chromas": []
 		},

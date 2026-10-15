@@ -1,0 +1,23 @@
+{
+	"id": "mordekaiser-pants-and-old-shadow-face-sahn-uzal",
+	"name": "Pants and Old Shadow Face Sahn-Uzal",
+	"champion": 82,
+	"base": 0,
+	"creator": "grudy",
+	"description": "!! YOU NEED TO HAVE THE SAHN-UZAL SKIN, THIS MOD DOESN'T GIVE YOU ACCESS TO THE SKIN\n\nAdds pants to ult and second form, old shadow face to second form and the abilities from the sanctum.\n\n---\n\n**Created by** [Grudy](https://runeforge.dev/users/Grudy)\n\n**Original:** https://runeforge.dev/mods/c686da45-e5eb-479f-b73a-4219398d3a52\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mordekaiser-pants-and-old-shadow-face-sahn-uzal/thumb.webp?v=70721231",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-pants-and-old-shadow-face-sahn-uzal-v1.fantome",
+		"size": 2089283,
+		"sha256": "8ea7534a2e22d59ba90c3bd6a6c0ecc9db8894ab09eb1b9660206820a49631b2"
+	},
+	"chromas": []
+}

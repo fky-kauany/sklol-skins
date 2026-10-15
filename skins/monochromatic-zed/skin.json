@@ -1,0 +1,24 @@
+{
+	"id": "monochromatic-zed",
+	"name": "Monochromatic Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion:** Zed\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n## Shoutouts\n\nShoutout the Polish city of Bydgoszcz\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/8d141157-5984-4089-a52f-887646ee8e2e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/monochromatic-zed/thumb.webp?v=58e60403",
+	"file": {
+		"version": 1,
+		"asset": "monochromatic-zed-v1.fantome",
+		"size": 2704873,
+		"sha256": "0d0f6f1c9ba9ebd21e004a44e0d78f381e1bb11b62e0d25b77d3c9b685773bb4"
+	},
+	"chromas": []
+}

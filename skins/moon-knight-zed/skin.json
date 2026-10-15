@@ -1,0 +1,24 @@
+{
+	"id": "moon-knight-zed",
+	"name": "Moon Knight Zed",
+	"champion": 238,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Zed\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/d7723065-1f3d-4923-a972-280ffb5dbfc0\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/moon-knight-zed/thumb.webp?v=70d17d92",
+	"file": {
+		"version": 1,
+		"asset": "moon-knight-zed-v1.fantome",
+		"size": 987085,
+		"sha256": "41ba13e6a9348e6af809fe23ad805e20e1c54beed9e21a1ffce19b8960d93e2c"
+	},
+	"chromas": []
+}

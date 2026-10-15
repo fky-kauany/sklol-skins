@@ -1,0 +1,25 @@
+{
+	"id": "mordekaiser-poppy",
+	"name": "Mordekaiser (Poppy)",
+	"champion": 78,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Poppy**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/4eb1b4e3-c958-4864-a494-b89b4a745bc0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mordekaiser-poppy/thumb.webp?v=baa283e8",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-poppy-v1.fantome",
+		"size": 8255849,
+		"sha256": "e2ad33177b2a41b37bb258ea3ee96ca4ba89f58401186013fa2cf27c0c231cfc"
+	},
+	"chromas": []
+}
