@@ -1,0 +1,26 @@
+{
+	"id": "left-4-dead-2-nick-akshan",
+	"name": "Left 4 Dead 2 Nick Akshan",
+	"champion": 166,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "nick, from l4d2. 3 guns and sfx, used for regular attack, while on e and r\r\n\r\nvoice dub added\r\n\r\nplus some sfx\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/70dcef2c-fe02-4d31-bfdd-6836fae370db\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/left-4-dead-2-nick-akshan/thumb.webp?v=4568806a",
+	"file": {
+		"version": 1,
+		"asset": "left-4-dead-2-nick-akshan-v1.fantome",
+		"size": 13096691,
+		"sha256": "4eaea95bbb46263b99c0638946833a8772ff20124668ab7aa3a4a06a724931d9"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "lightning-mcqueen-crocs-briar",
+	"name": "Lightning McQueen Crocs Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "maygik",
+	"description": "Briar's got that drip\n\n***\n\n\\- Edits default Briar\n\n***\n\nPorting, Rigging by: Me 😊\n\nModelling by: [Beeean](https://www.instagram.com/ben_weii3d/?img_index=1)\n\n***\n\nDownload .fantome: [Google Drive](https://drive.google.com/file/d/1Mrlibv9YJ-StMudAwli7i9GIPFN9m6tF/view?usp=sharing)\n\n---\n\n**Created by** [Maygik](https://runeforge.dev/users/Maygik)\n\n**Original:** https://runeforge.dev/mods/3e02701a-4689-43fb-bbbb-fae9278850e7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lightning-mcqueen-crocs-briar/thumb.webp?v=b74ea0cb",
+	"file": {
+		"version": 1,
+		"asset": "lightning-mcqueen-crocs-briar-v1.fantome",
+		"size": 2666139,
+		"sha256": "05d458812c20f02a1f98df6f5d96b3d32aee89f6742bedbfcc411095ab738832"
+	},
+	"chromas": []
+}

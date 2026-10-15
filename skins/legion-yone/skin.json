@@ -1,0 +1,26 @@
+{
+	"id": "legion-yone",
+	"name": "Legion Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "reza",
+	"description": "---\n\n**Created by** [Reza](https://runeforge.dev/users/Reza)\n\n**Original:** https://runeforge.dev/mods/00a71737-c3ee-48bc-8121-649a44be115e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/legion-yone/thumb.webp?v=f2aa9996",
+	"file": {
+		"version": 1,
+		"asset": "legion-yone-v1.fantome",
+		"size": 8023689,
+		"sha256": "33cbd8d5dfad1cf628a4ac92b14fd732eb25635b6aa4de9565b7aa7c071b01ed"
+	},
+	"chromas": []
+}

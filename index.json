@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:18:28.763Z",
+	"generatedAt": "2026-10-15T11:21:38.066Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -19375,6 +19375,127 @@
 			"chromas": []
 		},
 		{
+			"id": "left-4-dead-2-nick-akshan",
+			"name": "Left 4 Dead 2 Nick Akshan",
+			"champion": 166,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/left-4-dead-2-nick-akshan/thumb.webp?v=4568806a",
+			"file": {
+				"version": 1,
+				"asset": "left-4-dead-2-nick-akshan-v1.fantome",
+				"size": 13096691,
+				"sha256": "4eaea95bbb46263b99c0638946833a8772ff20124668ab7aa3a4a06a724931d9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "left-4-dead-louis-jhin",
+			"name": "Left 4 Dead Louis Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/left-4-dead-louis-jhin/thumb.webp?v=c7e87bd8",
+			"file": {
+				"version": 1,
+				"asset": "left-4-dead-louis-jhin-v1.fantome",
+				"size": 14108415,
+				"sha256": "11e176ea408b58d7871fa0298267728edf8711d290689506a18772b3d7ad28bd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "legion-yone",
+			"name": "Legion Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "reza",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/legion-yone/thumb.webp?v=f2aa9996",
+			"file": {
+				"version": 1,
+				"asset": "legion-yone-v1.fantome",
+				"size": 8023689,
+				"sha256": "33cbd8d5dfad1cf628a4ac92b14fd732eb25635b6aa4de9565b7aa7c071b01ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lemongrab-yasuo",
+			"name": "Lemongrab Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lemongrab-yasuo/thumb.webp?v=e73bf67e",
+			"file": {
+				"version": 1,
+				"asset": "lemongrab-yasuo-v1.fantome",
+				"size": 13354871,
+				"sha256": "5be18269af595734924bef63273c0d99bc1bcb188cede29f6f2d198718f91c72"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lemongrab-yasuo-vo-those-who-know",
+			"name": "Lemongrab Yasuo Vo (those who know)",
+			"champion": 157,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lemongrab-yasuo-vo-those-who-know/thumb.webp?v=bc2d1e71",
+			"file": {
+				"version": 1,
+				"asset": "lemongrab-yasuo-vo-those-who-know-v1.fantome",
+				"size": 1270204,
+				"sha256": "55c7ca9c518993a58dd3792db9f4ee36dadcc02eb659e38a0ecdf5ca1ead6c79"
+			},
+			"chromas": []
+		},
+		{
 			"id": "leprous-sylas",
 			"name": "Leprous Sylas",
 			"champion": 517,
@@ -19393,6 +19514,124 @@
 				"asset": "leprous-sylas-v1.fantome",
 				"size": 223897,
 				"sha256": "86e8612ac705b12c2e854c20949a03a5a7417377fb8ff54c13a3f1e2ebb26c3a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lethal-company-barber-gwen",
+			"name": "Lethal Company Barber Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lethal-company-barber-gwen/thumb.webp?v=034cc578",
+			"file": {
+				"version": 1,
+				"asset": "lethal-company-barber-gwen-v1.fantome",
+				"size": 566823,
+				"sha256": "777bb5da7578a5e2ad62c93f7774cef675a66096123c69c04e72ee4434e276f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "levi-ackerman-camille",
+			"name": "Levi Ackerman Camille",
+			"champion": 164,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/levi-ackerman-camille/thumb.webp?v=a82c03b7",
+			"file": {
+				"version": 1,
+				"asset": "levi-ackerman-camille-v1.fantome",
+				"size": 37616823,
+				"sha256": "2c0fd9452514e15e9b152403acbddfd44aa4ec9ce2faf705386d1460b4010e83"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lightning-mcqueen-crocs-briar",
+			"name": "Lightning McQueen Crocs Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "maygik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lightning-mcqueen-crocs-briar/thumb.webp?v=b74ea0cb",
+			"file": {
+				"version": 1,
+				"asset": "lightning-mcqueen-crocs-briar-v1.fantome",
+				"size": 2666139,
+				"sha256": "05d458812c20f02a1f98df6f5d96b3d32aee89f6742bedbfcc411095ab738832"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lillia-sleep-snoring-sfx",
+			"name": "Sleep Snoring SFX",
+			"champion": 876,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/lillia-sleep-snoring-sfx/thumb.webp?v=664e2b83",
+			"file": {
+				"version": 1,
+				"asset": "lillia-sleep-snoring-sfx-v1.fantome",
+				"size": 21503891,
+				"sha256": "9ad7ca939c47561661c6c8fad019542d4b97b6877df74a94e3c07239d6d35a87"
+			},
+			"chromas": []
+		},
+		{
+			"id": "linux-xerath",
+			"name": "Linux Xerath",
+			"champion": 101,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/linux-xerath/thumb.webp?v=26436896",
+			"file": {
+				"version": 1,
+				"asset": "linux-xerath-v1.fantome",
+				"size": 878165,
+				"sha256": "1be5e1a16dfb6dba9b2f42424c3cb1d4536947cdcef379019cb97a73d62b972d"
 			},
 			"chromas": []
 		},

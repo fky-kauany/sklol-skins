@@ -1,0 +1,23 @@
+{
+	"id": "lethal-company-barber-gwen",
+	"name": "Lethal Company Barber Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "###### \"Barber\n\nI had a dream about the Barber\n\nOne day he made me a wig\n\nBecause his scissors were too bi&#x67;*\"*\n\n***\n\n**Modified champion: Gwen**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n**3D model from: Lethal company**\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/b81ad74c-ed0a-459d-a49e-47090eaa6b03\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lethal-company-barber-gwen/thumb.webp?v=034cc578",
+	"file": {
+		"version": 1,
+		"asset": "lethal-company-barber-gwen-v1.fantome",
+		"size": 566823,
+		"sha256": "777bb5da7578a5e2ad62c93f7774cef675a66096123c69c04e72ee4434e276f4"
+	},
+	"chromas": []
+}

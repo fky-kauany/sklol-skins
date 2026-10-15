@@ -1,0 +1,26 @@
+{
+	"id": "levi-ackerman-camille",
+	"name": "Levi Ackerman Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/XH4xqwKM5 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/78b0af26-6d2c-4dc1-9cbc-40726783e75a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/levi-ackerman-camille/thumb.webp?v=a82c03b7",
+	"file": {
+		"version": 1,
+		"asset": "levi-ackerman-camille-v1.fantome",
+		"size": 37616823,
+		"sha256": "2c0fd9452514e15e9b152403acbddfd44aa4ec9ce2faf705386d1460b4010e83"
+	},
+	"chromas": []
+}

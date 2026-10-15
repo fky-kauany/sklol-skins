@@ -1,0 +1,22 @@
+{
+	"id": "lillia-sleep-snoring-sfx",
+	"name": "Sleep Snoring SFX",
+	"champion": 876,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champions: Lillia and Zoe**\n\n**Modified skins: All of them (at the time of release)**\n\n**Author: Aropatnik**\n\n## Features\n\n* AAAAUUUUUGH\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/0e6dc90f-a7a4-42aa-ab5a-c5eafd341c4d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lillia-sleep-snoring-sfx/thumb.webp?v=664e2b83",
+	"file": {
+		"version": 1,
+		"asset": "lillia-sleep-snoring-sfx-v1.fantome",
+		"size": 21503891,
+		"sha256": "9ad7ca939c47561661c6c8fad019542d4b97b6877df74a94e3c07239d6d35a87"
+	},
+	"chromas": []
+}

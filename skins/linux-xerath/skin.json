@@ -1,0 +1,23 @@
+{
+	"id": "linux-xerath",
+	"name": "Linux Xerath",
+	"champion": 101,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/e47fe1ab-ab83-4edf-b1b3-0f00e8b7195a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/linux-xerath/thumb.webp?v=26436896",
+	"file": {
+		"version": 1,
+		"asset": "linux-xerath-v1.fantome",
+		"size": 878165,
+		"sha256": "1be5e1a16dfb6dba9b2f42424c3cb1d4536947cdcef379019cb97a73d62b972d"
+	},
+	"chromas": []
+}

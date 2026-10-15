@@ -1,0 +1,20 @@
+{
+	"id": "lemongrab-yasuo-vo-those-who-know",
+	"name": "Lemongrab Yasuo Vo (those who know)",
+	"champion": 157,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "replace some of yasuo's vo with that of drututt\n\nfor those who didnt know [https://www.youtube.com/shorts/XPuK\\_mNyEJo](https://www.youtube.com/shorts/XPuK_mNyEJo)\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/20944a43-b624-45cc-bf4b-5c98ec3e7aba\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/lemongrab-yasuo-vo-those-who-know/thumb.webp?v=bc2d1e71",
+	"file": {
+		"version": 1,
+		"asset": "lemongrab-yasuo-vo-those-who-know-v1.fantome",
+		"size": 1270204,
+		"sha256": "55c7ca9c518993a58dd3792db9f4ee36dadcc02eb659e38a0ecdf5ca1ead6c79"
+	},
+	"chromas": []
+}

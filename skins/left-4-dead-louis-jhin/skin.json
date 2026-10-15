@@ -1,0 +1,25 @@
+{
+	"id": "left-4-dead-louis-jhin",
+	"name": "Left 4 Dead Louis Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "scout, magnum and even pistol? console command hax louis gg\r\n\r\ni had a random idea of making this skin possible today when i was traveling today in about 20 25 kms or so. Tho sounds are all modified like the scout, pistol magnum and ost etc..., all werent quite polished cause i did everything in only like 5 hours, if you find any inconvenience let me know.\r\n\r\n![skibidichungus](https://cdn.discordapp.com/attachments/1144209658945486981/1457826695011893301/xIs55Tv.png?ex=695d6a69&is=695c18e9&hm=e41bfc3069def36a6331afa5ccf608975d4574760d8636746fdd03679be2d2c6&)\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/721bcc53-c4a2-496e-996d-cea7ed19a0bf\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/left-4-dead-louis-jhin/thumb.webp?v=c7e87bd8",
+	"file": {
+		"version": 1,
+		"asset": "left-4-dead-louis-jhin-v1.fantome",
+		"size": 14108415,
+		"sha256": "11e176ea408b58d7871fa0298267728edf8711d290689506a18772b3d7ad28bd"
+	},
+	"chromas": []
+}
