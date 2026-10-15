@@ -1,0 +1,23 @@
+{
+	"id": "hiyori-caitlyn-blue-archive",
+	"name": "Hiyori Caitlyn (Blue Archive)",
+	"champion": 51,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "replacing default caitlyn with hiyori from blue archive. original model from https://x.com/chikuwa_exe\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/d8157461-56ca-4e75-bfff-55bc99b96eaf\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hiyori-caitlyn-blue-archive/thumb.webp?v=9fe58423",
+	"file": {
+		"version": 1,
+		"asset": "hiyori-caitlyn-blue-archive-v1.fantome",
+		"size": 10400445,
+		"sha256": "babfcb564de9125f7079b943e5b1fb7437fe80256e82f0aecd0bfca99edce4a4"
+	},
+	"chromas": []
+}

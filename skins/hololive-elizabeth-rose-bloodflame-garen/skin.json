@@ -1,0 +1,24 @@
+{
+	"id": "hololive-elizabeth-rose-bloodflame-garen",
+	"name": "Hololive Elizabeth Rose Bloodflame Garen",
+	"champion": 86,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Garen\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description:世界のため、人々のため、道を切り開く『緋色の女王』\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* Opening Lore Video: sena [https://x.com/sena\\_2521](https://www.youtube.com/redirect?event=video_description\\&redir_token=QUFFLUhqbGJLR0g3aXpIUUQ3OGZpbzBrZkNVRmFWdC16QXxBQ3Jtc0ttcjdHaGdVakFIYU5ZbGlfc2hoUXprTHJKZXlPNlQ2M09BdDhyZldNWmJBRDdXek9QRXA4a2dJMURjbUNnemw3V3hhTzRWVm16VzJPQlJpMlJFTFh3N1ktR0M4Q1gzVzAxWmx2Vy1BTlB5WnMzUXV3Yw\\&q=https%3A%2F%2Fx.com%2Fsena_2521\\&v=q-EVR4Hnd5k)\n* Opening Lore BGM: 西野将哉(TRIFRONTIER) [https://x.com/nishino\\_masaya](https://www.youtube.com/redirect?event=video_description\\&redir_token=QUFFLUhqbkpHUWNJYXlQTEN5YmEwWkY5dG1QY0tyQnc3UXxBQ3Jtc0ttb05FbEFmUG5najdhckU0RndRajV3ZjhPdjhhaDBCc014eTg5ZTR2U3Zob2x4R3FRd0gtVy1WOUZZeU5XV29BTUdWWl9lcjlSd28tQlR3QWdNSy1oVlQ5ZGhjNEdEdWhaVUZtZnp3ZTRoV0pTajNYbw\\&q=https%3A%2F%2Fx.com%2Fnishino_masaya\\&v=q-EVR4Hnd5k)\n* The Elizabeth Rose Bloodflame 3d model in this mod is free download at: [https://3d.nicovideo.jp/works/td93832](https://3d.nicovideo.jp/works/td93832)\n* Loading screen art by : [https://x.com/a401ff/status/1804384037554794980](https://x.com/a401ff/status/1804384037554794980)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/53161e07-408a-4772-9e7d-20319fafb6f4\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-elizabeth-rose-bloodflame-garen/thumb.webp?v=c571da38",
+	"file": {
+		"version": 1,
+		"asset": "hololive-elizabeth-rose-bloodflame-garen-v1.fantome",
+		"size": 6975496,
+		"sha256": "420364fbc711e13c1defad54f5ecbab8fd2597420f13fca601baa8bbdbefffa9"
+	},
+	"chromas": []
+}

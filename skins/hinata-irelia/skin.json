@@ -1,0 +1,25 @@
+{
+	"id": "hinata-irelia",
+	"name": "Hinata Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (MatthSpotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n______________________________________________________________________________________________________\n\nMy Contacts:\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/6ab2f7f1-c118-4eac-90e1-02262881db59\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hinata-irelia/thumb.webp?v=2192f081",
+	"file": {
+		"version": 1,
+		"asset": "hinata-irelia-v1.fantome",
+		"size": 11779949,
+		"sha256": "a453524ff7316572f911004366735f9e25a2a0374ea8445aedafd35ad253fa8f"
+	},
+	"chromas": []
+}

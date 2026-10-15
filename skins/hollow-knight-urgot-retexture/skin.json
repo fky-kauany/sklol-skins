@@ -1,0 +1,26 @@
+{
+	"id": "hollow-knight-urgot-retexture",
+	"name": "Hollow Knight Urgot Retexture",
+	"champion": 6,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/428bb74a-43d3-45ac-8510-8ecb72671f89\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hollow-knight-urgot-retexture/thumb.webp?v=a62ee0f5",
+	"file": {
+		"version": 1,
+		"asset": "hollow-knight-urgot-retexture-v1.fantome",
+		"size": 10646951,
+		"sha256": "309ff95d0920b4ddcf4ac720e504660b7397e748d2805cf84d9709499c4af237"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:08:34.749Z",
+	"generatedAt": "2026-10-15T10:11:44.970Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -13686,6 +13686,102 @@
 			"chromas": []
 		},
 		{
+			"id": "hinata-ahri",
+			"name": "Hinata Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hinata-ahri/thumb.webp?v=35682377",
+			"file": {
+				"version": 1,
+				"asset": "hinata-ahri-v1.fantome",
+				"size": 17934163,
+				"sha256": "275963535b6020eefaa1d31495190e2dceeb9c28bc42babe0da8fd9b0b6cb435"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hinata-irelia",
+			"name": "Hinata Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hinata-irelia/thumb.webp?v=2192f081",
+			"file": {
+				"version": 1,
+				"asset": "hinata-irelia-v1.fantome",
+				"size": 11779949,
+				"sha256": "a453524ff7316572f911004366735f9e25a2a0374ea8445aedafd35ad253fa8f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hiyori-caitlyn-blue-archive",
+			"name": "Hiyori Caitlyn (Blue Archive)",
+			"champion": 51,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hiyori-caitlyn-blue-archive/thumb.webp?v=9fe58423",
+			"file": {
+				"version": 1,
+				"asset": "hiyori-caitlyn-blue-archive-v1.fantome",
+				"size": 10400445,
+				"sha256": "babfcb564de9125f7079b943e5b1fb7437fe80256e82f0aecd0bfca99edce4a4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hollow-ichigo-master-yi-classic",
+			"name": "Hollow Ichigo Master Yi - Classic",
+			"champion": 11,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hollow-ichigo-master-yi-classic/thumb.webp?v=0f90417e",
+			"file": {
+				"version": 1,
+				"asset": "hollow-ichigo-master-yi-classic-v1.fantome",
+				"size": 8074433,
+				"sha256": "cbb59e76c3ac38df59a0e7c8d3bc99bcdd7135cd7db874f0b88a38ef587e3ad7"
+			},
+			"chromas": []
+		},
+		{
 			"id": "hollow-knight-silksong-kindred-hornet",
 			"name": "hollow knight silksong kindred hornet",
 			"champion": 203,
@@ -13708,6 +13804,155 @@
 				"asset": "hollow-knight-silksong-kindred-hornet-v1.fantome",
 				"size": 10283303,
 				"sha256": "b7728611a314c87199264d4ac02355d350304e6af21f612619cbe93383cf09d0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hollow-knight-urgot-retexture",
+			"name": "Hollow Knight Urgot Retexture",
+			"champion": 6,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hollow-knight-urgot-retexture/thumb.webp?v=a62ee0f5",
+			"file": {
+				"version": 1,
+				"asset": "hollow-knight-urgot-retexture-v1.fantome",
+				"size": 10646951,
+				"sha256": "309ff95d0920b4ddcf4ac720e504660b7397e748d2805cf84d9709499c4af237"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-aki-rosenthal-irelia",
+			"name": "Hololive Aki Rosenthal Irelia",
+			"champion": 39,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-aki-rosenthal-irelia/thumb.webp?v=123b363d",
+			"file": {
+				"version": 1,
+				"asset": "hololive-aki-rosenthal-irelia-v1.fantome",
+				"size": 29501926,
+				"sha256": "a821de8b9b0349ec46f092529f30eb708d062a5e8a967c5c91b90659a857d78e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-amane-kanata-pantheon",
+			"name": "Hololive Amane Kanata Pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-amane-kanata-pantheon/thumb.webp?v=6ecdcd78",
+			"file": {
+				"version": 1,
+				"asset": "hololive-amane-kanata-pantheon-v1.fantome",
+				"size": 10108353,
+				"sha256": "815c4bcf889faee9ed8cefd58ecc79c33e46b557e7612a9732e57dee15d22997"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-amane-kanata-sett",
+			"name": "Hololive Amane Kanata Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-amane-kanata-sett/thumb.webp?v=3f7e1b66",
+			"file": {
+				"version": 1,
+				"asset": "hololive-amane-kanata-sett-v1.fantome",
+				"size": 11558539,
+				"sha256": "8b0008541b21aa5a34cac59e3022242fe6f4b871271fc90168ed9d6777ec03ff"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-cecilia-immergreen-rell",
+			"name": "Hololive Cecilia Immergreen Rell",
+			"champion": 526,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-cecilia-immergreen-rell/thumb.webp?v=e6ecf50d",
+			"file": {
+				"version": 1,
+				"asset": "hololive-cecilia-immergreen-rell-v1.fantome",
+				"size": 18678539,
+				"sha256": "15eed2b18840ec332c7d6cf4c9bd5fc4f7a014c6e05765046fbf86fff1e151c8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-elizabeth-rose-bloodflame-garen",
+			"name": "Hololive Elizabeth Rose Bloodflame Garen",
+			"champion": 86,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-elizabeth-rose-bloodflame-garen/thumb.webp?v=c571da38",
+			"file": {
+				"version": 1,
+				"asset": "hololive-elizabeth-rose-bloodflame-garen-v1.fantome",
+				"size": 6975496,
+				"sha256": "420364fbc711e13c1defad54f5ecbab8fd2597420f13fca601baa8bbdbefffa9"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,25 @@
+{
+	"id": "hololive-cecilia-immergreen-rell",
+	"name": "Hololive Cecilia Immergreen Rell",
+	"champion": 526,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Rell\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.0\n* Description:「こんな旋律を思いついたの。聞いてくれる？」\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* Opening Lore Video: KUNITARO [https://x.com/kunitarouart](https://x.com/kunitarouart)\n* Opening Lore BGM: 西野将哉(TRIFRONTIER) [https://x.com/nishino\\_masaya](https://x.com/nishino\\_masaya)\n* The Cecilia Immergreen 3d model in this mod is free download at: [https://booth.pm/ja/items/5934365?srsltid=AfmBOooeQAcTPHTnDWBq_UBE13KHYOFqhZoRTR6FyGQWJf4dcYLfwp8i](https://booth.pm/ja/items/5934365?srsltid=AfmBOooeQAcTPHTnDWBq_UBE13KHYOFqhZoRTR6FyGQWJf4dcYLfwp8i)\n* Loading screen art by : [https://youtu.be/ilLEj-SCCn8?si=vIlB42VOdrwfrk0F](https://youtu.be/ilLEj-SCCn8?si=vIlB42VOdrwfrk0F)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/bbb4a14d-8136-48a7-8a5d-5effe80671ff\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-cecilia-immergreen-rell/thumb.webp?v=e6ecf50d",
+	"file": {
+		"version": 1,
+		"asset": "hololive-cecilia-immergreen-rell-v1.fantome",
+		"size": 18678539,
+		"sha256": "15eed2b18840ec332c7d6cf4c9bd5fc4f7a014c6e05765046fbf86fff1e151c8"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "hinata-ahri",
+	"name": "Hinata Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (MatthSpotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n______________________________________________________________________________________________________\n\nMy Contacts:\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/399cfb77-14bd-4524-8267-e2bfc4904b24\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hinata-ahri/thumb.webp?v=35682377",
+	"file": {
+		"version": 1,
+		"asset": "hinata-ahri-v1.fantome",
+		"size": 17934163,
+		"sha256": "275963535b6020eefaa1d31495190e2dceeb9c28bc42babe0da8fd9b0b6cb435"
+	},
+	"chromas": []
+}

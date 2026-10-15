@@ -1,0 +1,25 @@
+{
+	"id": "hololive-amane-kanata-sett",
+	"name": "Hololive Amane Kanata Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Sett\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: 天界学園に通う天使。人を癒すための研究をしている。恥ずかしがりやな性格を隠すために、クールを装おうとする。\n\n### SPECIFICATIONS\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n* Modified particles\n\n### CREDITS\n\n* The Amane Kanata model used in this mod is created by げのげ: [https://3d.nicovideo.jp/users/123169438](https://3d.nicovideo.jp/users/123169438)\n* Loadingscreen art by Fude : [https://twitter.com/FudepenBrushpen](https://twitter.com/FudepenBrushpen)\n* Particle recolored by Noctune#1315\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Sakura Miko Brand.\n* The original author will not update/add mods anymore...Mods.Now the original author has transferred it to me to update, and the handover ceremony has been completed.All works about tarngaina will be continuously updated and remade.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/2353e4fa-7f48-4982-aeb4-b17a20a9cea4\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-amane-kanata-sett/thumb.webp?v=3f7e1b66",
+	"file": {
+		"version": 1,
+		"asset": "hololive-amane-kanata-sett-v1.fantome",
+		"size": 11558539,
+		"sha256": "8b0008541b21aa5a34cac59e3022242fe6f4b871271fc90168ed9d6777ec03ff"
+	},
+	"chromas": []
+}

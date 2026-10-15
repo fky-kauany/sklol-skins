@@ -1,0 +1,25 @@
+{
+	"id": "hololive-aki-rosenthal-irelia",
+	"name": "Hololive Aki Rosenthal Irelia",
+	"champion": 39,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Irelia\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Mod version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Aki Rosenthal 3D model in this mod is from : ( [https://3d.nicovideo.jp/works/td63644](https://3d.nicovideo.jp/works/td63644) )\n* Loadscreen art from : ( [https://twitter.com/yua\\_n0/status/1494316616192258048?s=20\\&t=cNssk1GGncPfYP9mFv3pJQ](https://twitter.com/yua_n0/status/1494316616192258048?s=20\\&t=cNssk1GGncPfYP9mFv3pJQ) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/edc627bf-129f-41c5-b210-eb5fe42b4f77\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-aki-rosenthal-irelia/thumb.webp?v=123b363d",
+	"file": {
+		"version": 1,
+		"asset": "hololive-aki-rosenthal-irelia-v1.fantome",
+		"size": 29501926,
+		"sha256": "a821de8b9b0349ec46f092529f30eb708d062a5e8a967c5c91b90659a857d78e"
+	},
+	"chromas": []
+}

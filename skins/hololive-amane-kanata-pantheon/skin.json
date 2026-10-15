@@ -1,0 +1,24 @@
+{
+	"id": "hololive-amane-kanata-pantheon",
+	"name": "Hololive Amane Kanata Pantheon",
+	"champion": 80,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Pantheon\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Mod version: 1.2\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Amane Kanata 3D model in this mod is from : ( [https://3d.nicovideo.jp/works/td78501)](https://3d.nicovideo.jp/works/td78501\\))\n* Loadscreen art from : ( [https://www.pixiv.net/artworks/90259879](https://www.pixiv.net/artworks/90259879) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/cc48017b-2227-4b72-9669-b66dda400de7\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-amane-kanata-pantheon/thumb.webp?v=6ecdcd78",
+	"file": {
+		"version": 1,
+		"asset": "hololive-amane-kanata-pantheon-v1.fantome",
+		"size": 10108353,
+		"sha256": "815c4bcf889faee9ed8cefd58ecc79c33e46b557e7612a9732e57dee15d22997"
+	},
+	"chromas": []
+}
