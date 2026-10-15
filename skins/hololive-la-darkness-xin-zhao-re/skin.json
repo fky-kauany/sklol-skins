@@ -1,0 +1,24 @@
+{
+	"id": "hololive-la-darkness-xin-zhao-re",
+	"name": "Hololive LA+ Darkness Xin Zhao-RE",
+	"champion": 5,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\r\n* Champion: Xin Zhao\r\n* Modified skin: Default\r\n* Author: Your PoonNotaniShisui\r\n* Skin Version: 1.1\r\n* Description: 「貴様ら、刮目せよ！！」\r\n\r\n### SPECIFICATIONS\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* New voiceover\r\n\r\n### CREDITS\r\n* The LA+ Darkness 3D model in this mod is from : Friends\r\n* Loadscreen art from : (https://tw.sports.yahoo.com/news/%E7%A7%98%E5%AF%86%E7%B5%84%E7%B9%94%E8%A5%B2%E4%BE%86-hololive%E5%85%AD%E6%9C%9F%E7%94%9F-holox-%E9%96%83%E9%9B%BB%E5%87%BA%E9%81%93-090400907.html)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/1a849a7a-d77b-40ce-865f-ae9dbd970c31\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-la-darkness-xin-zhao-re/thumb.webp?v=7526deee",
+	"file": {
+		"version": 1,
+		"asset": "hololive-la-darkness-xin-zhao-re-v1.fantome",
+		"size": 5751259,
+		"sha256": "ff34f97bbd31b65511bdb8fecf97c0b44b839eb866fb20d515b76c7afdbde7ea"
+	},
+	"chromas": []
+}

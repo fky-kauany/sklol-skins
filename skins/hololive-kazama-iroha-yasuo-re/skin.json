@@ -1,0 +1,24 @@
+{
+	"id": "hololive-kazama-iroha-yasuo-re",
+	"name": "Hololive Kazama Iroha Yasuo-RE",
+	"champion": 157,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Yasuo\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.3-RE\n* Description: 168~\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified animations\n* New voiceover\n\n### CREDITS\n\n* The Kazama Iroha 3D moidel in this mod is from ( [https://3d.nicovideo.jp/works/td82341](https://3d.nicovideo.jp/works/td82341) )\n* Loadscreen art by: [(https://twitter.com/ambercrown/status/1530111578195996672?s=20\\&t=4Ta1H3It4iwxdU\\_98uIJjA](\\(https://twitter.com/ambercrown/status/1530111578195996672?s=20\\&t=4Ta1H3It4iwxdU_98uIJjA) )\n* Huge thanks to tarngaina for teach me fix problem.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/d0975cff-7333-41ff-b902-fd995d629b76\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-kazama-iroha-yasuo-re/thumb.webp?v=81fb2870",
+	"file": {
+		"version": 1,
+		"asset": "hololive-kazama-iroha-yasuo-re-v1.fantome",
+		"size": 7447135,
+		"sha256": "33bda07d99157959cb58a3f9ac9d5d11fc3990086d772a22b8f51a84532fdc31"
+	},
+	"chromas": []
+}

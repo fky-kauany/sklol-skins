@@ -1,0 +1,25 @@
+{
+	"id": "hololive-mano-aloe-seraphine",
+	"name": "Hololive Mano Aloe Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Seraphine\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified animations\n\n### CREDITS\n\n* The Mano Aloe 3D model in this mod is from : ( [https://3d.nicovideo.jp/works/td73730](https://3d.nicovideo.jp/works/td73730) )\n* Loadscreen art from : ( [https://twitter.com/fuyouchu/status/1409808975445434369?s=20\\&t=eu9qVAqbxiZ6C4h2-SgHBQ](https://twitter.com/fuyouchu/status/1409808975445434369?s=20\\&t=eu9qVAqbxiZ6C4h2-SgHBQ) )\n* today(10/28) is Mano Aloe Happy Birthday.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/957dfa33-459f-410e-9536-2f2e1d500ee4\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-mano-aloe-seraphine/thumb.webp?v=7d0e503a",
+	"file": {
+		"version": 1,
+		"asset": "hololive-mano-aloe-seraphine-v1.fantome",
+		"size": 22440963,
+		"sha256": "8119c60343edef78cce3acc90861e16472a994cf9c55fbff04ea4872783a1755"
+	},
+	"chromas": []
+}

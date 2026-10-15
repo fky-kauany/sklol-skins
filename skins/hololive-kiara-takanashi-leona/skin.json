@@ -1,0 +1,24 @@
+{
+	"id": "hololive-kiara-takanashi-leona",
+	"name": "Hololive Kiara Takanashi Leona",
+	"champion": 89,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Leona\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Mod version: 1.1\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Kiara Takanashi 3D moidel in this mod is from ( [https://sketchfab.com/3d-models/takan...](https://sketchfab.com/3d-models/takan...) )&#x20;\n* Loadscreen art by: [https://yande.re/post/show/923532](https://yande.re/post/show/923532)\n* thank VO from : ( Kingshound and SMOL KIARA LEONA  )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/0b65bac7-3db0-4389-937d-993d1c8ca7d2\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-kiara-takanashi-leona/thumb.webp?v=675b3f13",
+	"file": {
+		"version": 1,
+		"asset": "hololive-kiara-takanashi-leona-v1.fantome",
+		"size": 16768901,
+		"sha256": "2b60ef1bd70a7dcc08b84348fe822ce180b027877fcb0c8f73fae9e8d827fab3"
+	},
+	"chromas": []
+}

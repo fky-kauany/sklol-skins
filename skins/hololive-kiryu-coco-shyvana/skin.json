@@ -1,0 +1,24 @@
+{
+	"id": "hololive-kiryu-coco-shyvana",
+	"name": "Hololive Kiryu Coco Shyvana",
+	"champion": 102,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Shyvana\n* Modified skin: Default\n* Author: tarngaina + PoonNotaniShisui\n* Skin Version: 1.3\n\n### SPECIFICATIONS\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified animations\n* New voiceover\n\n### CREDITS\n\n* The Kiryu Coco 3d model in this mod is from: [https://www.deviantart.com/goldencarrotmlp/art/Kiryu-Coco-download-882326193](https://www.deviantart.com/goldencarrotmlp/art/Kiryu-Coco-download-882326193)\n* Loadscreen art by: [https://twitter.com/yamanta\\_15](https://twitter.com/yamanta_15)\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Kiryu Coco Shyvana.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/ca3c154d-0461-427c-98d2-c935943a06eb\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-kiryu-coco-shyvana/thumb.webp?v=3e7434b5",
+	"file": {
+		"version": 1,
+		"asset": "hololive-kiryu-coco-shyvana-v1.fantome",
+		"size": 5806303,
+		"sha256": "38520ea674ab11d96a1506f961bf9e564ea422adee212cc331f1ab229edf25a5"
+	},
+	"chromas": []
+}

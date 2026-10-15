@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:17:58.537Z",
+	"generatedAt": "2026-10-15T10:21:07.587Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14445,6 +14445,249 @@
 				"asset": "hololive-kazama-iroha-master-yi-v1.fantome",
 				"size": 6359938,
 				"sha256": "56ab43a09e30b3819d73a7373310d121daf06874f37f20dd8c233e4e39e944f8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kazama-iroha-shen",
+			"name": "Hololive Kazama Iroha Shen",
+			"champion": 98,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kazama-iroha-shen/thumb.webp?v=a8dd011b",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kazama-iroha-shen-v1.fantome",
+				"size": 6011253,
+				"sha256": "0065d0c7021df03dfb496c56a7aa8db61365fa6ebf29b1dfdf69c85b3af5431b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kazama-iroha-yasuo-re",
+			"name": "Hololive Kazama Iroha Yasuo-RE",
+			"champion": 157,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kazama-iroha-yasuo-re/thumb.webp?v=81fb2870",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kazama-iroha-yasuo-re-v1.fantome",
+				"size": 7447135,
+				"sha256": "33bda07d99157959cb58a3f9ac9d5d11fc3990086d772a22b8f51a84532fdc31"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kazama-iroha-zed",
+			"name": "Hololive Kazama Iroha Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kazama-iroha-zed/thumb.webp?v=d01c5a49",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kazama-iroha-zed-v1.fantome",
+				"size": 9503805,
+				"sha256": "47aaebbb41a8c76b81619f7b494e6f5304667815ef2e0bcd8604569059f51bba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kiara-takanashi-leona",
+			"name": "Hololive Kiara Takanashi Leona",
+			"champion": 89,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kiara-takanashi-leona/thumb.webp?v=675b3f13",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kiara-takanashi-leona-v1.fantome",
+				"size": 16768901,
+				"sha256": "2b60ef1bd70a7dcc08b84348fe822ce180b027877fcb0c8f73fae9e8d827fab3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kiryu-coco-shyvana",
+			"name": "Hololive Kiryu Coco Shyvana",
+			"champion": 102,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kiryu-coco-shyvana/thumb.webp?v=3e7434b5",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kiryu-coco-shyvana-v1.fantome",
+				"size": 5806303,
+				"sha256": "38520ea674ab11d96a1506f961bf9e564ea422adee212cc331f1ab229edf25a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-kobo-kanaeru-nami",
+			"name": "Hololive Kobo Kanaeru Nami",
+			"champion": 267,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-kobo-kanaeru-nami/thumb.webp?v=9ba5a037",
+			"file": {
+				"version": 1,
+				"asset": "hololive-kobo-kanaeru-nami-v1.fantome",
+				"size": 5860394,
+				"sha256": "b8953c24342722a1342ca9d8809146d03c8045c58ee0e73c6422c467118549ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-la-darkness-swain",
+			"name": "Hololive LA+ Darkness Swain",
+			"champion": 50,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-la-darkness-swain/thumb.webp?v=8be5d9ec",
+			"file": {
+				"version": 1,
+				"asset": "hololive-la-darkness-swain-v1.fantome",
+				"size": 26844115,
+				"sha256": "25b0e84defac54779fd14da100e6d66c3f59a19597d68815faf98de53638744f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-la-darkness-xin-zhao-re",
+			"name": "Hololive LA+ Darkness Xin Zhao-RE",
+			"champion": 5,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-la-darkness-xin-zhao-re/thumb.webp?v=7526deee",
+			"file": {
+				"version": 1,
+				"asset": "hololive-la-darkness-xin-zhao-re-v1.fantome",
+				"size": 5751259,
+				"sha256": "ff34f97bbd31b65511bdb8fecf97c0b44b839eb866fb20d515b76c7afdbde7ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-mano-aloe-seraphine",
+			"name": "Hololive Mano Aloe Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-mano-aloe-seraphine/thumb.webp?v=7d0e503a",
+			"file": {
+				"version": 1,
+				"asset": "hololive-mano-aloe-seraphine-v1.fantome",
+				"size": 22440963,
+				"sha256": "8119c60343edef78cce3acc90861e16472a994cf9c55fbff04ea4872783a1755"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-minato-aqua-yone",
+			"name": "Hololive Minato Aqua Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-minato-aqua-yone/thumb.webp?v=ff01c52c",
+			"file": {
+				"version": 1,
+				"asset": "hololive-minato-aqua-yone-v1.fantome",
+				"size": 14200738,
+				"sha256": "149134df5ccb64009d441b87e310105f7684d403787b22d2d23cbda61591d0e7"
 			},
 			"chromas": []
 		},
