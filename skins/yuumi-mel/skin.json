@@ -1,0 +1,23 @@
+{
+	"id": "yuumi-mel",
+	"name": "Yuumi Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### *The release on the site does NOT have a dress. Mod variants have not yet been implemented into Runeforge v2.0. In the meantime if you wish to download* *the version with the dress use this link:* [https://www.mediafire.com/file/uly9u1q0wng9iud/Mel\\_Yuumi\\_with\\_dress\\_V1.0.0\\_by\\_Aropatnik.fantome/file](https://www.mediafire.com/file/uly9u1q0wng9iud/Mel_Yuumi_with_dress_V1.0.0_by_Aropatnik.fantome/file)\n\n## Information\n\n**Modified champion: Mel**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/dd6140cf-96ae-4e0c-a3f3-83239f0e6985\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuumi-mel/thumb.webp?v=ce029a31",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-mel-v1.fantome",
+		"size": 342562,
+		"sha256": "9265b23159b934058ea69039ee756400fd5d0914e84632324858b288bfbb27ce"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "yuumi-briar",
+	"name": "Yuumi Briar",
+	"champion": 233,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Briar**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/42f51a21-c04c-4d29-8b0e-c93ce06719f5\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuumi-briar/thumb.webp?v=35744426",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-briar-v1.fantome",
+		"size": 515306,
+		"sha256": "491543bd98030254278b294c280b7c88cc60aac47da6bfba8e9bf3ad6601d181"
+	},
+	"chromas": []
+}

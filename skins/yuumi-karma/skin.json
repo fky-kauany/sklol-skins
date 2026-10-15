@@ -1,0 +1,23 @@
+{
+	"id": "yuumi-karma",
+	"name": "Yuumi Karma",
+	"champion": 43,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Karma**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b5f917ba-4734-44e6-a5f9-b1b2a80c3ed8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuumi-karma/thumb.webp?v=52d18e47",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-karma-v1.fantome",
+		"size": 1673894,
+		"sha256": "3a352c27338c45f934d6339e550b2c75424315fc2f40dd96540d0d675a648c5c"
+	},
+	"chromas": []
+}

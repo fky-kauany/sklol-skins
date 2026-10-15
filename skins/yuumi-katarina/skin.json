@@ -1,0 +1,23 @@
+{
+	"id": "yuumi-katarina",
+	"name": "Yuumi Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Katarina**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/ccc33944-4752-4484-b46b-06a727b19eaf\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuumi-katarina/thumb.webp?v=2008d8b9",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-katarina-v1.fantome",
+		"size": 463931,
+		"sha256": "d0ad375aedb070957188061fd1d5c5e6598b0813692588d054b11e364e964e2b"
+	},
+	"chromas": []
+}

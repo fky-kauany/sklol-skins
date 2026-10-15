@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T15:04:36.628Z",
+	"generatedAt": "2026-10-15T15:06:52.956Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -35191,6 +35191,167 @@
 				"asset": "yuumi-brand-v1.fantome",
 				"size": 281873,
 				"sha256": "a22cfb84574bc8b77de5a4ea1ffaa8744dcf51f62ecd29aee04f26d9e0e392f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-briar",
+			"name": "Yuumi Briar",
+			"champion": 233,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-briar/thumb.webp?v=35744426",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-briar-v1.fantome",
+				"size": 515306,
+				"sha256": "491543bd98030254278b294c280b7c88cc60aac47da6bfba8e9bf3ad6601d181"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-darius",
+			"name": "Yuumi Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-darius/thumb.webp?v=89e5c56f",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-darius-v1.fantome",
+				"size": 670726,
+				"sha256": "a8f393250a26dac84e390eb8ff275a06e929254bc1ef24c16e98ade6bbacffef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-karma",
+			"name": "Yuumi Karma",
+			"champion": 43,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-karma/thumb.webp?v=52d18e47",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-karma-v1.fantome",
+				"size": 1673894,
+				"sha256": "3a352c27338c45f934d6339e550b2c75424315fc2f40dd96540d0d675a648c5c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-katarina",
+			"name": "Yuumi Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-katarina/thumb.webp?v=2008d8b9",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-katarina-v1.fantome",
+				"size": 463931,
+				"sha256": "d0ad375aedb070957188061fd1d5c5e6598b0813692588d054b11e364e964e2b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-lillia",
+			"name": "Yuumi Lillia",
+			"champion": 876,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-lillia/thumb.webp?v=9c82e126",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-lillia-v1.fantome",
+				"size": 424063,
+				"sha256": "5e4d44dee59e73756b2ac3e823ca1dbc040639139e3bf19f5a8ca45aedf32dfd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-lulu",
+			"name": "Yuumi Lulu",
+			"champion": 117,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-lulu/thumb.webp?v=85bc229b",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-lulu-v1.fantome",
+				"size": 726459,
+				"sha256": "dd46da0a2104f230c5368f33b90e5466cffd843339f16bed6309b294f47a3f2f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-mel",
+			"name": "Yuumi Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-mel/thumb.webp?v=ce029a31",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-mel-v1.fantome",
+				"size": 342562,
+				"sha256": "9265b23159b934058ea69039ee756400fd5d0914e84632324858b288bfbb27ce"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,23 @@
+{
+	"id": "yuumi-darius",
+	"name": "Yuumi Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Darius**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/af89e049-9863-4518-aaf4-99eac62c749c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuumi-darius/thumb.webp?v=89e5c56f",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-darius-v1.fantome",
+		"size": 670726,
+		"sha256": "a8f393250a26dac84e390eb8ff275a06e929254bc1ef24c16e98ade6bbacffef"
+	},
+	"chromas": []
+}
