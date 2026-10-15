@@ -1,0 +1,26 @@
+{
+	"id": "l4d-hunter-warwick",
+	"name": "L4D Hunter Warwick",
+	"champion": 19,
+	"base": 0,
+	"creator": "noctune",
+	"description": "### SKIN INFORMATION\r\n\r\nChampion: Warwick\r\n\r\nModified skin: Base\r\n\r\nAuthor: Noctune\r\n\r\nVersion: 1.5\r\n\r\nDescription: changes warwick to hunter from left 4 dead You can reach out to me through Discord(noctune.)\n\n---\n\n**Created by** [Noctune](https://runeforge.dev/users/Noctune)\n\n**Original:** https://runeforge.dev/mods/0ce2d1e7-7472-4006-97da-567e7c979e64\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/l4d-hunter-warwick/thumb.webp?v=eadf9a72",
+	"file": {
+		"version": 1,
+		"asset": "l4d-hunter-warwick-v1.fantome",
+		"size": 14697579,
+		"sha256": "ddd9a587a32a02fb47a4f5ed54f08c33111337c4306b416eb1a6c8fa21ea9c5a"
+	},
+	"chromas": []
+}

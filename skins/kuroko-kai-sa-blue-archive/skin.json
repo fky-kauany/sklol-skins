@@ -1,0 +1,26 @@
+{
+	"id": "kuroko-kai-sa-blue-archive",
+	"name": "Kuroko Kai'sa (Blue Archive)",
+	"champion": 145,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Original author: tarngaina\n\nmodel updated by me with the addition of sounds and  vfx\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/b802c2bb-a6dd-4df3-bec0-40d8d2c20cce\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kuroko-kai-sa-blue-archive/thumb.webp?v=9f2cd52b",
+	"file": {
+		"version": 1,
+		"asset": "kuroko-kai-sa-blue-archive-v1.fantome",
+		"size": 22841201,
+		"sha256": "45009a45f7b5b6ca381be68a81ad1c54d68c8c5236c0a47c02579f93249a9c11"
+	},
+	"chromas": []
+}

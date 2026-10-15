@@ -1,0 +1,23 @@
+{
+	"id": "kumoko-elise",
+	"name": "Kumoko Elise",
+	"champion": 60,
+	"base": 0,
+	"creator": "goldor",
+	"description": "Features :\r\nFully reworked character models.\r\nCustom voice integration from the anime.\r\nFor fans of Kumoko and Shiraori.\r\n\r\nThis mod uses models that are not created by me.\r\n\r\nModels sourced from Sketchfab (CC Attribution)\r\nShiraori model from VRoid Hub\r\n\r\nAll models are used, modified, and shared in accordance with their respective licenses.\r\nProper credit is given to the original creators.\r\n\r\nNo endorsement by the original creators is implied.\r\n\r\nElise (human form): https://hub.vroid.com/en/characters/8315894382068785983/models/6529671661026594939\r\n\r\nSpiderling : https://sketchfab.com/3d-models/kumoko-del-anime-kumo-desu-ga-nani-ka-333c775a05984a77a149d59dfe19538d\r\n\r\nElise (Spider Form) : https://sketchfab.com/3d-models/arachne-0fb250df28dd4c84ab2473a5935107bb\n\n---\n\n**Created by** [Goldor](https://runeforge.dev/users/Goldor)\n\n**Original:** https://runeforge.dev/mods/41b985b1-d61f-459c-9bb4-cab0c01473a0\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kumoko-elise/thumb.webp?v=e3262250",
+	"file": {
+		"version": 1,
+		"asset": "kumoko-elise-v1.fantome",
+		"size": 7417376,
+		"sha256": "38408f9b73a0016c45851afbc737c31f5756f7b5cec7753ee904557161e9c49a"
+	},
+	"chromas": []
+}

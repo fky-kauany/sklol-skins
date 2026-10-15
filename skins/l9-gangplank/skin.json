@@ -1,0 +1,23 @@
+{
+	"id": "l9-gangplank",
+	"name": "L9 Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "radahn",
+	"description": "## SKIN INFORMATION\n\n***\n\n* Champion: Gangplank\n* Modified skin: Base\n* Author: Radahn\n* Version: 1.0.0\n* Mod description: A (generally) black and white skin with very simple but well-crafted effects.\n\n## CONTACT INFO\n\n***\n\nDiscord: **\\_.radahn.**\n\n# SUPPORT\n\n***\n\n* If you'd like to support my work, you can do so here: [Buy me a coffee](https://ko-fi.com/radahn \"Buy me a coffee\")&#x20;\n\n---\n\n**Created by** [Radahn](https://runeforge.dev/users/Radahn)\n\n**Original:** https://runeforge.dev/mods/ce979c94-75c0-4355-bd1c-53f87f91ae09\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/l9-gangplank/thumb.webp?v=0e7c979b",
+	"file": {
+		"version": 1,
+		"asset": "l9-gangplank-v1.fantome",
+		"size": 1713882,
+		"sha256": "72472ed06f60d4ea452e720e42ba200ab139f990e5b9578528c62f2f3c534f76"
+	},
+	"chromas": []
+}

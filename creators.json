@@ -653,6 +653,13 @@
 		"bio": "girl",
 		"links": {}
 	},
+	"goldor": {
+		"name": "Goldor",
+		"avatar": "creators/goldor.png?v=aa42eefe",
+		"links": {
+			"site": "https://hub.vroid.com/en/characters/8315894382068785983/models/6529671661026594939"
+		}
+	},
 	"gone": {
 		"name": "gone",
 		"avatar": "creators/gone.jpg?v=b8f46352",
@@ -753,6 +760,12 @@
 		"bio": "Discord: chechbyn",
 		"links": {
 			"youtube": "https://youtu.be/Pug6GF3g7-g"
+		}
+	},
+	"johnum3335": {
+		"name": "johnum3335",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=CkYXeKqktZo&ab_channel=MandelMenendez"
 		}
 	},
 	"justv": {
@@ -1151,6 +1164,15 @@
 		"name": "R_e_Z_a",
 		"avatar": "creators/r-e-z-a.webp?v=59b2a08d",
 		"links": {}
+	},
+	"radahn": {
+		"name": "Radahn",
+		"avatar": "creators/radahn.jpg?v=b10c3fd9",
+		"bio": "**I'm just getting started with custom skins, but I like to think I'm pretty creative—most days! If you're interested in a unique, personalized skin, feel free to reach out.**",
+		"links": {
+			"kofi": "https://ko-fi.com/radahn",
+			"youtube": "https://youtu.be/V8HwQvLqW6Y"
+		}
 	},
 	"rahabani": {
 		"name": "rahabani",

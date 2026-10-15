@@ -1,0 +1,23 @@
+{
+	"id": "l4d2-coach-lucian",
+	"name": "L4D2 Coach Lucian",
+	"champion": 236,
+	"base": 0,
+	"creator": "gone",
+	"description": "### INFO:\n\n* Coach from Left 4 Dead 2 gets added to the game (epic).\n* Replaces base Lucian.\n\n---\n\n### FEATURES:\n* VO.\n* HUD icons.\n* Loading Screen.\n* This a burger tank?\n\n---\n\n**Created by** [gone](https://runeforge.dev/users/gone)\n\n**Original:** https://runeforge.dev/mods/9c86d907-e0c3-4930-aa81-200433790f8e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/l4d2-coach-lucian/thumb.webp?v=3237f4f2",
+	"file": {
+		"version": 1,
+		"asset": "l4d2-coach-lucian-v1.fantome",
+		"size": 5235278,
+		"sha256": "a17b102458e6b868061f0f6d2bf15e8dbc4e39dc61b1f6bb1b2e5a45a726ceab"
+	},
+	"chromas": []
+}

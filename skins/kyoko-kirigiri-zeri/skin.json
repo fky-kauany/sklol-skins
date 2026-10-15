@@ -1,0 +1,23 @@
+{
+	"id": "kyoko-kirigiri-zeri",
+	"name": "Kyoko Kirigiri Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\n**Modified champion:** Zeri\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n#\n\n### Credits\n\nKyoko Kirigiri model from Cyber Danganronpa VR: The Class Trial\n\nShoutout  [Ziella over at The Models Resource](https://www.models-resource.com/playstation_4/cyberdanganronpavrtheclasstrial/model/25708/) for ripping the model\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n#\n\n### Click the Kyoko to join my discord server\n\n[![Kyoko pointing at you telling to join the discord server](https://runeforge.dev/cdn-cgi/image/width=1280,height=720,quality=85,format=webp,fit=scale-down/https://r2-images-prod.runeforge.dev/09454746-60d1-4876-6daa-9b02c262ae00.png)](https://discord.gg/ue5t7tGW32)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/bda9e2df-8453-4e02-a4a3-786f83b60627\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kyoko-kirigiri-zeri/thumb.webp?v=064b1295",
+	"file": {
+		"version": 1,
+		"asset": "kyoko-kirigiri-zeri-v1.fantome",
+		"size": 1808031,
+		"sha256": "888e16952ace458fa04c59fd148b09c884519a4a079938ac1213c2703b8093be"
+	},
+	"chromas": []
+}

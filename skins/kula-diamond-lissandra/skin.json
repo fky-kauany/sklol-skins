@@ -1,0 +1,26 @@
+{
+	"id": "kula-diamond-lissandra",
+	"name": "Kula Diamond Lissandra",
+	"champion": 127,
+	"base": 0,
+	"creator": "matth",
+	"description": "--------------------------------THIS MOD HAS SOUNDS AND VOICE LINES---------------------------------\r\n\r\n______________________________________________________________________________________________________\r\n\r\nSkin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/f39fef8b-9824-4043-88ec-ee2dc27c1c5b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kula-diamond-lissandra/thumb.webp?v=b116e37b",
+	"file": {
+		"version": 1,
+		"asset": "kula-diamond-lissandra-v1.fantome",
+		"size": 48451218,
+		"sha256": "af14f994cf6933c26d7e2efe887bf5b4a29b954c6711622a64125af0b0d2d456"
+	},
+	"chromas": []
+}

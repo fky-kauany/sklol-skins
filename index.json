@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:12:09.593Z",
+	"generatedAt": "2026-10-15T11:15:18.475Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -656,6 +656,13 @@
 			"bio": "girl",
 			"links": {}
 		},
+		"goldor": {
+			"name": "Goldor",
+			"avatar": "creators/goldor.png?v=aa42eefe",
+			"links": {
+				"site": "https://hub.vroid.com/en/characters/8315894382068785983/models/6529671661026594939"
+			}
+		},
 		"gone": {
 			"name": "gone",
 			"avatar": "creators/gone.jpg?v=b8f46352",
@@ -756,6 +763,12 @@
 			"bio": "Discord: chechbyn",
 			"links": {
 				"youtube": "https://youtu.be/Pug6GF3g7-g"
+			}
+		},
+		"johnum3335": {
+			"name": "johnum3335",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=CkYXeKqktZo&ab_channel=MandelMenendez"
 			}
 		},
 		"justv": {
@@ -1154,6 +1167,15 @@
 			"name": "R_e_Z_a",
 			"avatar": "creators/r-e-z-a.webp?v=59b2a08d",
 			"links": {}
+		},
+		"radahn": {
+			"name": "Radahn",
+			"avatar": "creators/radahn.jpg?v=b10c3fd9",
+			"bio": "**I'm just getting started with custom skins, but I like to think I'm pretty creative—most days! If you're interested in a unique, personalized skin, feel free to reach out.**",
+			"links": {
+				"kofi": "https://ko-fi.com/radahn",
+				"youtube": "https://youtu.be/V8HwQvLqW6Y"
+			}
 		},
 		"rahabani": {
 			"name": "rahabani",
@@ -18829,6 +18851,249 @@
 				"asset": "kratos-varus-v1.fantome",
 				"size": 21318679,
 				"sha256": "839e8c500b4abf234ba156cb0615179b72bd016102219a87eb128ea158f284ef"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kris-riven",
+			"name": "kris riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "johnum3335",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kris-riven/thumb.webp?v=9b02e3a4",
+			"file": {
+				"version": 1,
+				"asset": "kris-riven-v1.fantome",
+				"size": 13801648,
+				"sha256": "28dce03c3ce0631cab77333b7b404656a7c1f15c25983168f2aa977142b605d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "krug-malphite",
+			"name": "Krug Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/krug-malphite/thumb.webp?v=4a58d974",
+			"file": {
+				"version": 1,
+				"asset": "krug-malphite-v1.fantome",
+				"size": 579873,
+				"sha256": "edb42c04a90685085287e9d3bd8cbb76f89ef92d8ef94d8a9e891e56d3169891"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kula-diamond-lissandra",
+			"name": "Kula Diamond Lissandra",
+			"champion": 127,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kula-diamond-lissandra/thumb.webp?v=b116e37b",
+			"file": {
+				"version": 1,
+				"asset": "kula-diamond-lissandra-v1.fantome",
+				"size": 48451218,
+				"sha256": "af14f994cf6933c26d7e2efe887bf5b4a29b954c6711622a64125af0b0d2d456"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kumoko-elise",
+			"name": "Kumoko Elise",
+			"champion": 60,
+			"base": 0,
+			"creator": "goldor",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kumoko-elise/thumb.webp?v=e3262250",
+			"file": {
+				"version": 1,
+				"asset": "kumoko-elise-v1.fantome",
+				"size": 7417376,
+				"sha256": "38408f9b73a0016c45851afbc737c31f5756f7b5cec7753ee904557161e9c49a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kuroko-kai-sa-blue-archive",
+			"name": "Kuroko Kai'sa (Blue Archive)",
+			"champion": 145,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kuroko-kai-sa-blue-archive/thumb.webp?v=9f2cd52b",
+			"file": {
+				"version": 1,
+				"asset": "kuroko-kai-sa-blue-archive-v1.fantome",
+				"size": 22841201,
+				"sha256": "45009a45f7b5b6ca381be68a81ad1c54d68c8c5236c0a47c02579f93249a9c11"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kyoko-kirigiri-zeri",
+			"name": "Kyoko Kirigiri Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kyoko-kirigiri-zeri/thumb.webp?v=064b1295",
+			"file": {
+				"version": 1,
+				"asset": "kyoko-kirigiri-zeri-v1.fantome",
+				"size": 1808031,
+				"sha256": "888e16952ace458fa04c59fd148b09c884519a4a079938ac1213c2703b8093be"
+			},
+			"chromas": []
+		},
+		{
+			"id": "l4d-hunter-warwick",
+			"name": "L4D Hunter Warwick",
+			"champion": 19,
+			"base": 0,
+			"creator": "noctune",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/l4d-hunter-warwick/thumb.webp?v=eadf9a72",
+			"file": {
+				"version": 1,
+				"asset": "l4d-hunter-warwick-v1.fantome",
+				"size": 14697579,
+				"sha256": "ddd9a587a32a02fb47a4f5ed54f08c33111337c4306b416eb1a6c8fa21ea9c5a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "l4d2-coach-lucian",
+			"name": "L4D2 Coach Lucian",
+			"champion": 236,
+			"base": 0,
+			"creator": "gone",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/l4d2-coach-lucian/thumb.webp?v=3237f4f2",
+			"file": {
+				"version": 1,
+				"asset": "l4d2-coach-lucian-v1.fantome",
+				"size": 5235278,
+				"sha256": "a17b102458e6b868061f0f6d2bf15e8dbc4e39dc61b1f6bb1b2e5a45a726ceab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "l4d2-ellis-master-yi",
+			"name": "L4D2 Ellis Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "gone",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/l4d2-ellis-master-yi/thumb.webp?v=3c4378ac",
+			"file": {
+				"version": 1,
+				"asset": "l4d2-ellis-master-yi-v1.fantome",
+				"size": 3563224,
+				"sha256": "497ba29fadc86f43eee0aec212cd5ca12c2f2234c625102196fed7f8d8a98c2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "l9-gangplank",
+			"name": "L9 Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "radahn",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/l9-gangplank/thumb.webp?v=0e7c979b",
+			"file": {
+				"version": 1,
+				"asset": "l9-gangplank-v1.fantome",
+				"size": 1713882,
+				"sha256": "72472ed06f60d4ea452e720e42ba200ab139f990e5b9578528c62f2f3c534f76"
 			},
 			"chromas": []
 		},

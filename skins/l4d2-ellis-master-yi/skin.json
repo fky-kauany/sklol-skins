@@ -1,0 +1,24 @@
+{
+	"id": "l4d2-ellis-master-yi",
+	"name": "L4D2 Ellis Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "gone",
+	"description": "### INFO:\n\n* Ellis from Left 4 Dead 2 is now a league champion.\n* Replaces base Master Yi.\n\n---\n\n### FEATURES:\n* Voiceover\n* HUD icons\n* SFX\n* Loading Screen\n* I ever tell you about the time...\n\n---\n\n**Created by** [gone](https://runeforge.dev/users/gone)\n\n**Original:** https://runeforge.dev/mods/2723f808-470b-4858-97c8-27b8346c8b2e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/l4d2-ellis-master-yi/thumb.webp?v=3c4378ac",
+	"file": {
+		"version": 1,
+		"asset": "l4d2-ellis-master-yi-v1.fantome",
+		"size": 3563224,
+		"sha256": "497ba29fadc86f43eee0aec212cd5ca12c2f2234c625102196fed7f8d8a98c2c"
+	},
+	"chromas": []
+}

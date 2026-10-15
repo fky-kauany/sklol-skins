@@ -1,0 +1,25 @@
+{
+	"id": "kris-riven",
+	"name": "kris riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "johnum3335",
+	"description": "Skin features:\r\n-Custom SFX\r\n-Custom \"Voiceover\"\r\n-icon and loadscreen\r\n\r\nChoose between having sound or no sound version on ultimate (plays rude buster)\r\nNo VFX(Custom particles) i dont know how to make those + \r\na bit bad on the modeling.\r\n\r\nReferences:\r\n\r\nDeltarune from Toby Fox for Sound effects and music.\r\nKris model from Vibapop (Sketchfab).\n\n---\n\n**Created by** [johnum3335](https://runeforge.dev/users/johnum3335)\n\n**Original:** https://runeforge.dev/mods/4d3bcd87-4d6f-4694-a8ff-4eef91a27ade\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kris-riven/thumb.webp?v=9b02e3a4",
+	"file": {
+		"version": 1,
+		"asset": "kris-riven-v1.fantome",
+		"size": 13801648,
+		"sha256": "28dce03c3ce0631cab77333b7b404656a7c1f15c25983168f2aa977142b605d3"
+	},
+	"chromas": []
+}
