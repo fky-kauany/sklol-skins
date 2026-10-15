@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:40:56.580Z",
+	"generatedAt": "2026-10-15T11:44:02.411Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -682,6 +682,13 @@
 			"bio": "i just mess around",
 			"links": {
 				"youtube": "https://youtu.be/xpjDl0EewWk?si=P9FX0K5Th2NBcYLq"
+			}
+		},
+		"goro": {
+			"name": "Goro",
+			"avatar": "creators/goro.jpg?v=6bc0a30e",
+			"links": {
+				"site": "https://skfb.ly/pE9UL"
 			}
 		},
 		"harpyqueen": {
@@ -21178,6 +21185,252 @@
 				"asset": "megaman-zero-yasuo-v1.fantome",
 				"size": 16128122,
 				"sha256": "2d931eb53588554b92e11f2caec95cd7cb53bdf2cd03a0ffef983d90df3374bc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "megu-rumble-blue-archive",
+			"name": "Megu Rumble (Blue Archive)",
+			"champion": 68,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/megu-rumble-blue-archive/thumb.webp?v=172adb55",
+			"file": {
+				"version": 1,
+				"asset": "megu-rumble-blue-archive-v1.fantome",
+				"size": 4534623,
+				"sha256": "b072e6208846d98062cc2b9cef562364bca253a208dcdfa3cb838759e99e58ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "megumin-kai-sa",
+			"name": "Megumin (Kai'sa)",
+			"champion": 145,
+			"base": 0,
+			"creator": "nimu",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/megumin-kai-sa/thumb.webp?v=6a210dbe",
+			"file": {
+				"version": 1,
+				"asset": "megumin-kai-sa-v1.fantome",
+				"size": 22220049,
+				"sha256": "c49d704a9367d523db13aeb36871423dcda72e6f59da5307ee4a07b51d0bff0e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "meisho-doto-vayne",
+			"name": "Meisho Doto Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "goro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/meisho-doto-vayne/thumb.webp?v=0fe2df7c",
+			"file": {
+				"version": 1,
+				"asset": "meisho-doto-vayne-v1.fantome",
+				"size": 14170599,
+				"sha256": "5ff356a95619fdf5ebefb02c72f4494bfa418b92e1675c7defb1e10ce4244f6f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-arcane-battlesuit",
+			"name": "Mel Arcane Battlesuit",
+			"champion": 800,
+			"base": 0,
+			"creator": "charsles",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mel-arcane-battlesuit/thumb.webp?v=b8fd2438",
+			"file": {
+				"version": 1,
+				"asset": "mel-arcane-battlesuit-v1.fantome",
+				"size": 3374954,
+				"sha256": "97eb42bc70c96992896a24bdff5cc49ed81ed7d313d765e0747796eb47ceff0e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-atonin",
+			"name": "Mel Atonin",
+			"champion": 800,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mel-atonin/thumb.webp?v=41f47fce",
+			"file": {
+				"version": 1,
+				"asset": "mel-atonin-v1.fantome",
+				"size": 1733625,
+				"sha256": "09f68f0e9ba044b6f472c8388c3310b9596b84d43a81ee756413a2170d7e9fba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-base-chroma",
+			"name": "Mel Base Chroma",
+			"champion": 800,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mel-base-chroma/thumb.webp?v=bbf5d485",
+			"file": {
+				"version": 1,
+				"asset": "mel-base-chroma-v1.fantome",
+				"size": 2019768,
+				"sha256": "0c9e2bfa6cad559db3829a17ffb0e713441850719c9d4e448fcfd8a438317c90"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-melaphine",
+			"name": "melaphine",
+			"champion": 800,
+			"base": 0,
+			"creator": "wuffsky",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mel-melaphine/thumb.webp?v=3ad9f6f4",
+			"file": {
+				"version": 1,
+				"asset": "mel-melaphine-v1.fantome",
+				"size": 6508417,
+				"sha256": "b0270b43f5e3a4ec020e2d207110bc1897a9239c0e3fc2ae0c804f376b3b5e4c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "melmetal-ambessa",
+			"name": "Melmetal Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/melmetal-ambessa/thumb.webp?v=c213a04d",
+			"file": {
+				"version": 1,
+				"asset": "melmetal-ambessa-v1.fantome",
+				"size": 7117500,
+				"sha256": "fb99bf0a8473b9ac4f14dd2a381a8016813fa717153dcfd22cc1f70324e4b662"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metagross-vel-koz",
+			"name": "Metagross Vel'Koz",
+			"champion": 161,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metagross-vel-koz/thumb.webp?v=6da52f88",
+			"file": {
+				"version": 1,
+				"asset": "metagross-vel-koz-v1.fantome",
+				"size": 11090967,
+				"sha256": "24d0283581afbdcded3b2fb91e41b515a0988ea45cb1188861f88aeb5307c686"
+			},
+			"chromas": []
+		},
+		{
+			"id": "metin2-aatrox",
+			"name": "Metin2 Aatrox",
+			"champion": 266,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/metin2-aatrox/thumb.webp?v=dc70879c",
+			"file": {
+				"version": 1,
+				"asset": "metin2-aatrox-v1.fantome",
+				"size": 1361516,
+				"sha256": "23eeb19fb8ac3793e94eb4b15a839395f91d99353ffa4c1da6453f9a8c792226"
 			},
 			"chromas": []
 		},

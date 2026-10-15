@@ -1,0 +1,25 @@
+{
+	"id": "megu-rumble-blue-archive",
+	"name": "Megu Rumble (Blue Archive)",
+	"champion": 68,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "join discord when my mod breaks or if you want to suggest any ba characters, link https://discord.gg/yaByNwaxsP\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/582df938-d2c7-4418-a1c9-eabef22e04b6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/megu-rumble-blue-archive/thumb.webp?v=172adb55",
+	"file": {
+		"version": 1,
+		"asset": "megu-rumble-blue-archive-v1.fantome",
+		"size": 4534623,
+		"sha256": "b072e6208846d98062cc2b9cef562364bca253a208dcdfa3cb838759e99e58ee"
+	},
+	"chromas": []
+}

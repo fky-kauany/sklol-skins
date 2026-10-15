@@ -1,0 +1,26 @@
+{
+	"id": "meisho-doto-vayne",
+	"name": "Meisho Doto Vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "goro",
+	"description": "Changes Vayne's Model and Voice To Meisho Doto From Umamusume\r\nWorks on all skins\r\n\r\n\"Meisho Doto - Uma Musume\" (https://skfb.ly/pE9UL) by Alexandra is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/a2e2c593-ac77-4197-85a2-202469c5fb8c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/meisho-doto-vayne/thumb.webp?v=0fe2df7c",
+	"file": {
+		"version": 1,
+		"asset": "meisho-doto-vayne-v1.fantome",
+		"size": 14170599,
+		"sha256": "5ff356a95619fdf5ebefb02c72f4494bfa418b92e1675c7defb1e10ce4244f6f"
+	},
+	"chromas": []
+}

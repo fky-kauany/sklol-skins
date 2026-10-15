@@ -1,0 +1,24 @@
+{
+	"id": "mel-arcane-battlesuit",
+	"name": "Mel Arcane Battlesuit",
+	"champion": 800,
+	"base": 0,
+	"creator": "charsles",
+	"description": "CHAMPION: Mel\n\nSKIN: Default\n\n## FEATURES\n\n* **New Model and Textures.**\n* **Particles Recolor**\n* **New Splash-Art for Loading Screen**\n\n## MY SOCIALS\n\nDISCORD: Chars\\_\n\nYOUTUBE: [youtube.com/@charsles.m4a](http://youtube.com/@charsles.m4a)\n\nTWITTER: [https://twitter.com/charsles\\_](https://twitter.com/charsles_)\n\nBLUESKY: [https://bsky.app/profile/charsles.bsky.social](https://bsky.app/profile/charsles.bsky.social)\n\n(please contact me if there is anything wrong with this mod so i can fix it)\n\n---\n\n**Created by** [Charsles](https://runeforge.dev/users/Charsles)\n\n**Original:** https://runeforge.dev/mods/0b3ff32d-e508-4606-8260-3f188163ec8f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mel-arcane-battlesuit/thumb.webp?v=b8fd2438",
+	"file": {
+		"version": 1,
+		"asset": "mel-arcane-battlesuit-v1.fantome",
+		"size": 3374954,
+		"sha256": "97eb42bc70c96992896a24bdff5cc49ed81ed7d313d765e0747796eb47ceff0e"
+	},
+	"chromas": []
+}

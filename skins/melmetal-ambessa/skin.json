@@ -1,0 +1,26 @@
+{
+	"id": "melmetal-ambessa",
+	"name": "Melmetal Ambessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Ambessa\r\n\r\n**SKIN REPLACE:** Base Skin\r\n\r\n**UNIQUE FEATURE**\r\n\r\n* There is now a 1% chance to get a shiny variant at the start of each game.\r\n\r\n**CUSTOM ANIMATIONS**\r\n\r\n* Idle\r\n* Attack\r\n* Abilities\r\n* Recall\r\n* Emotes\r\n* Death and Respawn\r\n\r\n**CUSTOM SFX**\r\n\r\n* Recall\r\n* Autos\r\n* Emotes\r\n* Respawn\r\n\r\n**CUSTOM MODEL AND TEXTURES**\r\n\r\n* Melmetal model taken from Pokemon Sword and Shield\r\n\r\n**CREDITS**\r\n\r\n* Modded by Nyht Seven\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/997278e1-1ec6-4250-ac8f-c1125413b6f3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/melmetal-ambessa/thumb.webp?v=c213a04d",
+	"file": {
+		"version": 1,
+		"asset": "melmetal-ambessa-v1.fantome",
+		"size": 7117500,
+		"sha256": "fb99bf0a8473b9ac4f14dd2a381a8016813fa717153dcfd22cc1f70324e4b662"
+	},
+	"chromas": []
+}

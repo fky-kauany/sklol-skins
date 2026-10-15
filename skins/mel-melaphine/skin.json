@@ -1,0 +1,24 @@
+{
+	"id": "mel-melaphine",
+	"name": "melaphine",
+	"champion": 800,
+	"base": 0,
+	"creator": "wuffsky",
+	"description": "if you ever wanted to play a melodic mid lane mage, now you can\n\n\n\nthis mod replaces mel's base and councilor skin with seraphine's base model and features these swapped assets\n\n* model\n* texture\n* loading screen and ingame portraits\n* ability icons\n* vo\n\n---\n\n**Created by** [mikko](https://runeforge.dev/users/wuffsky)\n\n**Original:** https://runeforge.dev/mods/76d400a0-c5a8-47d8-86c3-0fb10fdb9dfc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mel-melaphine/thumb.webp?v=3ad9f6f4",
+	"file": {
+		"version": 1,
+		"asset": "mel-melaphine-v1.fantome",
+		"size": 6508417,
+		"sha256": "b0270b43f5e3a4ec020e2d207110bc1897a9239c0e3fc2ae0c804f376b3b5e4c"
+	},
+	"chromas": []
+}

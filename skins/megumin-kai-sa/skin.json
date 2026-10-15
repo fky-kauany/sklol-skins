@@ -1,0 +1,26 @@
+{
+	"id": "megumin-kai-sa",
+	"name": "Megumin (Kai'sa)",
+	"champion": 145,
+	"base": 0,
+	"creator": "nimu",
+	"description": "- Champion: Kai'sa\r\n - Skin: Base Skin\r\n - Mod version: 1.1.0\r\n\r\nFeatures: New Model, Textures, Loading Screen, Hud Images, VFX and SFX.\r\n\r\nA special thanks to Modder Nyht and Aryasdemise who taught me a lot. <3\n\n---\n\n**Created by** [Nimu](https://runeforge.dev/users/Nimu)\n\n**Original:** https://runeforge.dev/mods/dc047f54-21cf-48a1-aece-292e2bc1e3be\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/megumin-kai-sa/thumb.webp?v=6a210dbe",
+	"file": {
+		"version": 1,
+		"asset": "megumin-kai-sa-v1.fantome",
+		"size": 22220049,
+		"sha256": "c49d704a9367d523db13aeb36871423dcda72e6f59da5307ee4a07b51d0bff0e"
+	},
+	"chromas": []
+}

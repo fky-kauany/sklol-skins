@@ -1,0 +1,22 @@
+{
+	"id": "mel-base-chroma",
+	"name": "Mel Base Chroma",
+	"champion": 800,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Mel Skin.\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Mel Skin\r\n\r\nAffects: Skin Texture\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/9ce8b567-ce84-4c26-ad1d-d2758859db9a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mel-base-chroma/thumb.webp?v=bbf5d485",
+	"file": {
+		"version": 1,
+		"asset": "mel-base-chroma-v1.fantome",
+		"size": 2019768,
+		"sha256": "0c9e2bfa6cad559db3829a17ffb0e713441850719c9d4e448fcfd8a438317c90"
+	},
+	"chromas": []
+}
