@@ -382,6 +382,11 @@
 			"youtube": "https://youtu.be/VT5gR_etr-o"
 		}
 	},
+	"fallen": {
+		"name": "Fallen",
+		"avatar": "creators/fallen.jpg?v=30b5b415",
+		"links": {}
+	},
 	"fingamiro": {
 		"name": "FingaMiro",
 		"avatar": "creators/fingamiro.jpg?v=c7261b21",

@@ -1,0 +1,23 @@
+{
+	"id": "better-ambessa",
+	"name": "Better Ambessa",
+	"champion": 799,
+	"base": 0,
+	"creator": "fallen",
+	"description": "Me and my friend have been working on this, we made her fur black because green is ugly and we added her mask as well as added golden weapons to the mod i hope you enjoy!\r\n\r\nIf there is any problem with the mod dont hesitate to dm us!&#x20;\r\n\r\nMy discord is youhavefallen&#x20;\r\n\r\nMy friends discord is undr\\_wtr\n\n---\n\n**Created by** [Fallen](https://runeforge.dev/users/Fallen)\n\n**Original:** https://runeforge.dev/mods/6eb3d0cd-1b37-48eb-acee-90d7f5012fe7\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/better-ambessa/thumb.webp?v=4bf631b0",
+	"file": {
+		"version": 1,
+		"asset": "better-ambessa-v1.fantome",
+		"size": 2298408,
+		"sha256": "63c8d1affc190491d183929cf853db371189400fba7fc28eacb1708834c0339f"
+	},
+	"chromas": []
+}

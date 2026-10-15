@@ -1,0 +1,24 @@
+{
+	"id": "sylas-kratos",
+	"name": "Sylas Kratos",
+	"champion": 517,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/8a577e75-1423-46c5-869e-0720a876b8eb\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/sylas-kratos/thumb.webp?v=ed1f4fc3",
+	"file": {
+		"version": 1,
+		"asset": "sylas-kratos-v1.fantome",
+		"size": 5749752,
+		"sha256": "410fd128395978800492fdd4bdd00e40287483373bbd2e0f2af2e1b05d9a9f68"
+	},
+	"chromas": []
+}

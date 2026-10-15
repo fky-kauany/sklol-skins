@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:08:56.745Z",
+	"generatedAt": "2026-10-15T08:09:21.589Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -384,6 +384,11 @@
 			"links": {
 				"youtube": "https://youtu.be/VT5gR_etr-o"
 			}
+		},
+		"fallen": {
+			"name": "Fallen",
+			"avatar": "creators/fallen.jpg?v=30b5b415",
+			"links": {}
 		},
 		"fingamiro": {
 			"name": "FingaMiro",
@@ -3469,6 +3474,55 @@
 			"chromas": []
 		},
 		{
+			"id": "ben-tennyson-udyr-ben-10-ultimate-alien",
+			"name": "Ben Tennyson Udyr (Ben 10: Ultimate Alien)",
+			"champion": 77,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ben-tennyson-udyr-ben-10-ultimate-alien/thumb.webp?v=1090ee67",
+			"file": {
+				"version": 1,
+				"asset": "ben-tennyson-udyr-ben-10-ultimate-alien-v1.fantome",
+				"size": 82896291,
+				"sha256": "2c7f6404f477b04d8efa20b8dba211441a5afbd367eaf4233e8646f8d2bc4bd0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "better-ambessa",
+			"name": "Better Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "fallen",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/better-ambessa/thumb.webp?v=4bf631b0",
+			"file": {
+				"version": 1,
+				"asset": "better-ambessa-v1.fantome",
+				"size": 2298408,
+				"sha256": "63c8d1affc190491d183929cf853db371189400fba7fc28eacb1708834c0339f"
+			},
+			"chromas": []
+		},
+		{
 			"id": "better-masquerade-evelynn",
 			"name": "Better Masquerade Evelynn",
 			"champion": 28,
@@ -4647,6 +4701,30 @@
 				"asset": "steve-nautilus-v1.fantome",
 				"size": 662512,
 				"sha256": "4952486c400cc738fc424ec8c221cc770ea4c38ea173e58c3ce6c11fbbe6f2d0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sylas-kratos",
+			"name": "Sylas Kratos",
+			"champion": 517,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/sylas-kratos/thumb.webp?v=ed1f4fc3",
+			"file": {
+				"version": 1,
+				"asset": "sylas-kratos-v1.fantome",
+				"size": 5749752,
+				"sha256": "410fd128395978800492fdd4bdd00e40287483373bbd2e0f2af2e1b05d9a9f68"
 			},
 			"chromas": []
 		},
