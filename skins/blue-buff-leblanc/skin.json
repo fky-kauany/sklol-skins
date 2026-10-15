@@ -1,0 +1,25 @@
+{
+	"id": "blue-buff-leblanc",
+	"name": "Blue Buff LeBlanc",
+	"champion": 7,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion:** LeBlanc\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord Name: aropatnik\n\nDiscord Server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/5d2e79ab-e718-4cc1-86d6-e72f0a2f62e9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/blue-buff-leblanc/thumb.webp?v=4592a8f9",
+	"file": {
+		"version": 1,
+		"asset": "blue-buff-leblanc-v1.fantome",
+		"size": 3256984,
+		"sha256": "96b6abe8a44ce5e617962ba95723ad35fa32093de5b9b705f5d695784534935b"
+	},
+	"chromas": []
+}

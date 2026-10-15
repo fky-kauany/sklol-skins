@@ -1,0 +1,23 @@
+{
+	"id": "brigitte-leona",
+	"name": "Brigitte Leona",
+	"champion": 89,
+	"base": 0,
+	"creator": "veenox",
+	"description": "Replaces base Leona skin.\n\n\nHavent edited the particle effects because of that some particle effects might not look right.\n\n---\n\n**Created by** [Veenox](https://runeforge.dev/users/Veenox)\n\n**Original:** https://runeforge.dev/mods/db19af9e-0d2e-4947-aab0-5a09fae76db6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/brigitte-leona/thumb.webp?v=ab2c9a16",
+	"file": {
+		"version": 1,
+		"asset": "brigitte-leona-v1.fantome",
+		"size": 8811296,
+		"sha256": "907826bffd713ce2dc507e078714b04670a5710263677e3537066ccb683b015f"
+	},
+	"chromas": []
+}

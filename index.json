@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:15:47.557Z",
+	"generatedAt": "2026-10-15T08:18:52.799Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -99,6 +99,11 @@
 				"site": "https://paypal.me/aclysfaya",
 				"youtube": "https://www.youtube.com/@ascila"
 			}
+		},
+		"arielmaw": {
+			"name": "ArielMaw",
+			"avatar": "creators/arielmaw.jpg?v=9659fc31",
+			"links": {}
 		},
 		"arkera": {
 			"name": "Arkera",
@@ -263,6 +268,18 @@
 			"name": "daka",
 			"avatar": "creators/daka.webp?v=90c8597e",
 			"links": {}
+		},
+		"davex": {
+			"name": "davex",
+			"avatar": "creators/davex.jpg?v=f39befb4",
+			"bio": "# 💫Welcome to my profile! 💫\n\nHi! I'm **Davex**, I create custom content and skins for the community. I love bringing new visuals to the rift and sharing them with all of you.\n\n---\n\n### 💼 Custom Commissions\nIf you want a personalized skin, feel free to reach out:\n\n[![Discord](https://img.shields.io/badge/Contact_me_on_Discord-davex45a-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XDF5Xma456)\n\n---\n\n### ☕ Support my work\nIf you enjoy my creations and want to help m",
+			"links": {
+				"discord": "https://discord.com/invite/XDF5Xma456",
+				"kofi": "https://ko-fi.com/davex45",
+				"site": "https://www.deviantart.com/nekumaneko",
+				"tiktok": "https://www.tiktok.com/@davexskins",
+				"youtube": "https://www.youtube.com/davexfn"
+			}
 		},
 		"davexfn": {
 			"name": "davexFN",
@@ -712,6 +729,11 @@
 				"youtube": "https://youtu.be/YKvNNoDdvu4"
 			}
 		},
+		"maygik": {
+			"name": "Maygik",
+			"avatar": "creators/maygik.jpg?v=4868e9b4",
+			"links": {}
+		},
 		"megaomg": {
 			"name": "megaomg",
 			"bio": "just a gojo fan",
@@ -763,6 +785,14 @@
 			"name": "neoritch",
 			"avatar": "creators/neoritch.jpg?v=b937361e",
 			"links": {}
+		},
+		"noctune": {
+			"name": "Noctune",
+			"avatar": "creators/noctune.png?v=5557239c",
+			"bio": "we are so back",
+			"links": {
+				"youtube": "https://youtu.be/uFj_KUjryuM"
+			}
 		},
 		"noice": {
 			"name": "NOICE",
@@ -1092,6 +1122,12 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 			}
+		},
+		"veenox": {
+			"name": "Veenox",
+			"avatar": "creators/veenox.jpg?v=9d25f45a",
+			"bio": "If you want to talk to me for some reason, on discord: veenox.",
+			"links": {}
 		},
 		"vincealucard": {
 			"name": "VinceAlucard",
@@ -4226,6 +4262,242 @@
 				"asset": "blue-ashe-chroma-v1.fantome",
 				"size": 90499,
 				"sha256": "2b761b1cfcac2daaccf26442cc923405bb5036992d625d338ed835885212d9fd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "blue-buff-leblanc",
+			"name": "Blue Buff LeBlanc",
+			"champion": 7,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/blue-buff-leblanc/thumb.webp?v=4592a8f9",
+			"file": {
+				"version": 1,
+				"asset": "blue-buff-leblanc-v1.fantome",
+				"size": 3256984,
+				"sha256": "96b6abe8a44ce5e617962ba95723ad35fa32093de5b9b705f5d695784534935b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bocchi-taliyah",
+			"name": "Bocchi Taliyah",
+			"champion": 163,
+			"base": 0,
+			"creator": "noctune",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bocchi-taliyah/thumb.webp?v=32a14105",
+			"file": {
+				"version": 1,
+				"asset": "bocchi-taliyah-v1.fantome",
+				"size": 11999778,
+				"sha256": "e82b52f4a991950e383f79f7b8911b7b7a7e85e33c59bca53b7d23820032d9f4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bocchi-the-rock-malphite",
+			"name": "Bocchi THE ROCK Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "davex",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bocchi-the-rock-malphite/thumb.webp?v=90efcbe7",
+			"file": {
+				"version": 1,
+				"asset": "bocchi-the-rock-malphite-v1.fantome",
+				"size": 2490632,
+				"sha256": "b4769d3d56d8d8d5576540703b2d13e5107a46a82b4986cf3016fc5009e5b9e2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bombini-guspini-azir",
+			"name": "Bombini guspini Azir",
+			"champion": 268,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/bombini-guspini-azir/thumb.webp?v=2fd499ed",
+			"file": {
+				"version": 1,
+				"asset": "bombini-guspini-azir-v1.fantome",
+				"size": 411199,
+				"sha256": "81009c07aed5d9fe66b66d59251189471eb8e55ab66c6b5bfa62a8f3a5f65003"
+			},
+			"chromas": []
+		},
+		{
+			"id": "boykisser-smolder",
+			"name": "boykisser smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "arielmaw",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/boykisser-smolder/thumb.webp?v=ca23ac36",
+			"file": {
+				"version": 1,
+				"asset": "boykisser-smolder-v1.fantome",
+				"size": 5494654,
+				"sha256": "797b87a2d7f40b991c3849f9eacc3b02b7ca8fba1461e4a97be37d0c217f486d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "braum-without-the-guy",
+			"name": "Braum Without the Guy",
+			"champion": 201,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/braum-without-the-guy/thumb.webp?v=1ea75efd",
+			"file": {
+				"version": 1,
+				"asset": "braum-without-the-guy-v1.fantome",
+				"size": 79874,
+				"sha256": "056813ed70378714ddce340c7474b7a338b7791b927c77a1e963440b4cb9fd1e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "brazilian-jarvan-iv",
+			"name": "Brazilian Jarvan IV",
+			"champion": 59,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/brazilian-jarvan-iv/thumb.webp?v=d84b2b4e",
+			"file": {
+				"version": 1,
+				"asset": "brazilian-jarvan-iv-v1.fantome",
+				"size": 876538,
+				"sha256": "5dedf4a5117f8b832ce5c8d7cc0c68bd1486607d7f9796df4daaf8b7faed822b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-shoes",
+			"name": "Briar Shoes",
+			"champion": 233,
+			"base": 1,
+			"creator": "maygik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/briar-shoes/thumb.webp?v=a322abd1",
+			"file": {
+				"version": 1,
+				"asset": "briar-shoes-v1.fantome",
+				"size": 2068466,
+				"sha256": "92b15c36aeb3c1cac21e0c85bfcfe9d8039e9d681ceca7f5855cd63ee261a51b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "briar-without-shackles",
+			"name": "Briar Without Shackles",
+			"champion": 233,
+			"base": 1,
+			"creator": "agomsmoga",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/briar-without-shackles/thumb.webp?v=32e99b65",
+			"file": {
+				"version": 1,
+				"asset": "briar-without-shackles-v1.fantome",
+				"size": 3008967,
+				"sha256": "1c5df6649f939a54a46bde994c2398417e5293d83cb15d7f6bc422dd33e8a705"
+			},
+			"chromas": []
+		},
+		{
+			"id": "brigitte-leona",
+			"name": "Brigitte Leona",
+			"champion": 89,
+			"base": 0,
+			"creator": "veenox",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/brigitte-leona/thumb.webp?v=ab2c9a16",
+			"file": {
+				"version": 1,
+				"asset": "brigitte-leona-v1.fantome",
+				"size": 8811296,
+				"sha256": "907826bffd713ce2dc507e078714b04670a5710263677e3537066ccb683b015f"
 			},
 			"chromas": []
 		},

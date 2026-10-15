@@ -1,0 +1,23 @@
+{
+	"id": "boykisser-smolder",
+	"name": "boykisser smolder",
+	"champion": 901,
+	"base": 0,
+	"creator": "arielmaw",
+	"description": "boykisser smolder x3\n\n---\n\n**Created by** [ArielMaw](https://runeforge.dev/users/ArielMaw)\n\n**Original:** https://runeforge.dev/mods/9db8c223-05ac-4dbf-80f1-8856f4caa533\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/boykisser-smolder/thumb.webp?v=ca23ac36",
+	"file": {
+		"version": 1,
+		"asset": "boykisser-smolder-v1.fantome",
+		"size": 5494654,
+		"sha256": "797b87a2d7f40b991c3849f9eacc3b02b7ca8fba1461e4a97be37d0c217f486d"
+	},
+	"chromas": []
+}

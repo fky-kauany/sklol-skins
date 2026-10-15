@@ -1,0 +1,26 @@
+{
+	"id": "bocchi-taliyah",
+	"name": "Bocchi Taliyah",
+	"champion": 163,
+	"base": 0,
+	"creator": "noctune",
+	"description": "### SKIN INFORMATION\r\n\r\nChampion: Taliyah\r\n\r\nModified skin: Base\r\n\r\nAuthor: Noctune\r\n\r\nVersion: 1.4\r\n\r\nDescription: changes taliyah to hitori gotoh from bocchi the rock anime You can reach out to me through Discord(noctune.)\n\n---\n\n**Created by** [Noctune](https://runeforge.dev/users/Noctune)\n\n**Original:** https://runeforge.dev/mods/7dee4d30-b654-4544-aa92-4f07134ea536\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bocchi-taliyah/thumb.webp?v=32a14105",
+	"file": {
+		"version": 1,
+		"asset": "bocchi-taliyah-v1.fantome",
+		"size": 11999778,
+		"sha256": "e82b52f4a991950e383f79f7b8911b7b7a7e85e33c59bca53b7d23820032d9f4"
+	},
+	"chromas": []
+}

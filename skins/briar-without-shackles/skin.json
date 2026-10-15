@@ -1,0 +1,23 @@
+{
+	"id": "briar-without-shackles",
+	"name": "Briar Without Shackles",
+	"champion": 233,
+	"base": 1,
+	"creator": "agomsmoga",
+	"description": "#### Overview:\n\n* Skins Modified: ALL SKINS\n#\n\n#### Mod Information:\n\n* Author: Moga\n* Mod Version: 15.19.1.0\n\n![](https://i.imgur.com/oQKnUeC.png)\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/8cdf5a33-fc9f-42e8-8405-7adb7f436484\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/briar-without-shackles/thumb.webp?v=32e99b65",
+	"file": {
+		"version": 1,
+		"asset": "briar-without-shackles-v1.fantome",
+		"size": 3008967,
+		"sha256": "1c5df6649f939a54a46bde994c2398417e5293d83cb15d7f6bc422dd33e8a705"
+	},
+	"chromas": []
+}

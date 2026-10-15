@@ -97,6 +97,11 @@
 			"youtube": "https://www.youtube.com/@ascila"
 		}
 	},
+	"arielmaw": {
+		"name": "ArielMaw",
+		"avatar": "creators/arielmaw.jpg?v=9659fc31",
+		"links": {}
+	},
 	"arkera": {
 		"name": "Arkera",
 		"avatar": "creators/arkera.png?v=2b7e58e7",
@@ -260,6 +265,18 @@
 		"name": "daka",
 		"avatar": "creators/daka.webp?v=90c8597e",
 		"links": {}
+	},
+	"davex": {
+		"name": "davex",
+		"avatar": "creators/davex.jpg?v=f39befb4",
+		"bio": "# 💫Welcome to my profile! 💫\n\nHi! I'm **Davex**, I create custom content and skins for the community. I love bringing new visuals to the rift and sharing them with all of you.\n\n---\n\n### 💼 Custom Commissions\nIf you want a personalized skin, feel free to reach out:\n\n[![Discord](https://img.shields.io/badge/Contact_me_on_Discord-davex45a-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XDF5Xma456)\n\n---\n\n### ☕ Support my work\nIf you enjoy my creations and want to help m",
+		"links": {
+			"discord": "https://discord.com/invite/XDF5Xma456",
+			"kofi": "https://ko-fi.com/davex45",
+			"site": "https://www.deviantart.com/nekumaneko",
+			"tiktok": "https://www.tiktok.com/@davexskins",
+			"youtube": "https://www.youtube.com/davexfn"
+		}
 	},
 	"davexfn": {
 		"name": "davexFN",
@@ -709,6 +726,11 @@
 			"youtube": "https://youtu.be/YKvNNoDdvu4"
 		}
 	},
+	"maygik": {
+		"name": "Maygik",
+		"avatar": "creators/maygik.jpg?v=4868e9b4",
+		"links": {}
+	},
 	"megaomg": {
 		"name": "megaomg",
 		"bio": "just a gojo fan",
@@ -760,6 +782,14 @@
 		"name": "neoritch",
 		"avatar": "creators/neoritch.jpg?v=b937361e",
 		"links": {}
+	},
+	"noctune": {
+		"name": "Noctune",
+		"avatar": "creators/noctune.png?v=5557239c",
+		"bio": "we are so back",
+		"links": {
+			"youtube": "https://youtu.be/uFj_KUjryuM"
+		}
 	},
 	"noice": {
 		"name": "NOICE",
@@ -1089,6 +1119,12 @@
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 		}
+	},
+	"veenox": {
+		"name": "Veenox",
+		"avatar": "creators/veenox.jpg?v=9d25f45a",
+		"bio": "If you want to talk to me for some reason, on discord: veenox.",
+		"links": {}
 	},
 	"vincealucard": {
 		"name": "VinceAlucard",

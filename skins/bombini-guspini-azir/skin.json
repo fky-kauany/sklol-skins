@@ -1,0 +1,23 @@
+{
+	"id": "bombini-guspini-azir",
+	"name": "Bombini guspini Azir",
+	"champion": 268,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/bd864e34-b81f-4c99-89ab-1882a77b5734\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bombini-guspini-azir/thumb.webp?v=2fd499ed",
+	"file": {
+		"version": 1,
+		"asset": "bombini-guspini-azir-v1.fantome",
+		"size": 411199,
+		"sha256": "81009c07aed5d9fe66b66d59251189471eb8e55ab66c6b5bfa62a8f3a5f65003"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "briar-shoes",
+	"name": "Briar Shoes",
+	"champion": 233,
+	"base": 1,
+	"creator": "maygik",
+	"description": "Makes briar put those dogs away.\n\n\n\n***\n\n&#x20;\n\n\\- Edits both Base and Street Demon Briar\n\n\\- I might or might not update this when new skins are added\n\n\n\n***\n\n&#x20;\n\nPorting, Model Editing and Retexturing by: Me 😊\n\n\n\n***\n\n---\n\n**Created by** [Maygik](https://runeforge.dev/users/Maygik)\n\n**Original:** https://runeforge.dev/mods/3cc8571c-b2fa-4d47-bfdd-cffb3fe1875c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/briar-shoes/thumb.webp?v=a322abd1",
+	"file": {
+		"version": 1,
+		"asset": "briar-shoes-v1.fantome",
+		"size": 2068466,
+		"sha256": "92b15c36aeb3c1cac21e0c85bfcfe9d8039e9d681ceca7f5855cd63ee261a51b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "bocchi-the-rock-malphite",
+	"name": "Bocchi THE ROCK Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "davex",
+	"description": "# BOCCHI THE ROCK:\n\n***\n\n***\n\n> 🎸HITORI GOTOH FROM BOCCHI THE ROCK AS MALPHITE SO SHE IS LITERALLY A ROCK !🎸\n\n* Champion: Malphite\n* Skin: Base Skin\n* Character Quality: All\n\n## Features:\n\n***\n\n***\n\n* New Custom Model\n* New VFX\n* New Ability Icons\n* New Loading Screen\n* New Champion Icons\n\n#### ***I hope you like it 👍🏻👍🏻***\n\n## Credits:\n\n***\n\n***\n\n* Downloaded the 3D model from [nekumaneko](https://www.deviantart.com/nekumaneko)\n* Bocchi the Rock 🤘🏻&#x20;\n\n---\n\n**Created by** [davex](https://runeforge.dev/users/davex)\n\n**Original:** https://runeforge.dev/mods/75b90f1b-e84c-40bf-944f-a47cf3d1d2df\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/bocchi-the-rock-malphite/thumb.webp?v=90efcbe7",
+	"file": {
+		"version": 1,
+		"asset": "bocchi-the-rock-malphite-v1.fantome",
+		"size": 2490632,
+		"sha256": "b4769d3d56d8d8d5576540703b2d13e5107a46a82b4986cf3016fc5009e5b9e2"
+	},
+	"chromas": []
+}
