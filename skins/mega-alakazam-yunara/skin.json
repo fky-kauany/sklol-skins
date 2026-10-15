@@ -1,0 +1,25 @@
+{
+	"id": "mega-alakazam-yunara",
+	"name": "Mega Alakazam Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 For Shiny\r\nCtrl 2 For Default\r\nBase Skin\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/cb2f1f79-f117-40de-84da-5560aa025cc7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mega-alakazam-yunara/thumb.webp?v=d6c471bc",
+	"file": {
+		"version": 1,
+		"asset": "mega-alakazam-yunara-v1.fantome",
+		"size": 5263102,
+		"sha256": "6971b9d5ffe261927272cc1dbf9715be4de8c48a132d682546865fb6a6159924"
+	},
+	"chromas": []
+}

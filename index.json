@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:37:46.276Z",
+	"generatedAt": "2026-10-15T11:40:56.580Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -20913,6 +20913,29 @@
 			"chromas": []
 		},
 		{
+			"id": "mecha-kingdoms-darius-white-red-chroma",
+			"name": "Mecha Kingdoms Darius White Red Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-kingdoms-darius-white-red-chroma/thumb.webp?v=c3071f23",
+			"file": {
+				"version": 1,
+				"asset": "mecha-kingdoms-darius-white-red-chroma-v1.fantome",
+				"size": 3221078,
+				"sha256": "1327ae80e1b7c823cb677415fa4a7ed2e05eaf7b1bf7321273a56ab61ddc7c7e"
+			},
+			"chromas": []
+		},
+		{
 			"id": "mecha-kingdoms-garen-purple-chroma",
 			"name": "Mecha Kingdoms Garen Purple Chroma",
 			"champion": 86,
@@ -20932,6 +20955,229 @@
 				"asset": "mecha-kingdoms-garen-purple-chroma-v1.fantome",
 				"size": 3232742,
 				"sha256": "83164591fb7e34381d2c1e34cfd9da1c8732dbb623fdf2243e045fbcde33c6ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-ninja-jhin",
+			"name": "Mecha Ninja Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-ninja-jhin/thumb.webp?v=9d715e9c",
+			"file": {
+				"version": 1,
+				"asset": "mecha-ninja-jhin-v1.fantome",
+				"size": 25212868,
+				"sha256": "2b3aa5af6e55b99bf51a658b8d241ff21c5d937bb6265fa7eab7358519110b7b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-ninja-katarina",
+			"name": "Mecha Ninja Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-ninja-katarina/thumb.webp?v=ba88d2e9",
+			"file": {
+				"version": 1,
+				"asset": "mecha-ninja-katarina-v1.fantome",
+				"size": 9688300,
+				"sha256": "7030140b182ad456c3ae2993bd4c1fd7b2d5bfb865bda8fca13a5a33f5bc17cf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mega-alakazam-yunara",
+			"name": "Mega Alakazam Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mega-alakazam-yunara/thumb.webp?v=d6c471bc",
+			"file": {
+				"version": 1,
+				"asset": "mega-alakazam-yunara-v1.fantome",
+				"size": 5263102,
+				"sha256": "6971b9d5ffe261927272cc1dbf9715be4de8c48a132d682546865fb6a6159924"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mega-chesnaught-zaahen",
+			"name": "Mega Chesnaught Zaahen",
+			"champion": 904,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mega-chesnaught-zaahen/thumb.webp?v=afa06d0f",
+			"file": {
+				"version": 1,
+				"asset": "mega-chesnaught-zaahen-v1.fantome",
+				"size": 6370024,
+				"sha256": "77195b9a1c3e5f9ebd64db74e728f9ac68e0f5af7a3c3980dec6c6e6137fdad9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mega-feraligatr-warwick",
+			"name": "Mega Feraligatr Warwick",
+			"champion": 19,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mega-feraligatr-warwick/thumb.webp?v=4fa1e1b8",
+			"file": {
+				"version": 1,
+				"asset": "mega-feraligatr-warwick-v1.fantome",
+				"size": 8294301,
+				"sha256": "c461abe87a97df26bd5610c6bdb77b7aa9a9263fab9301b17ca0bb01bd31ca9d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mega-gallade-talon",
+			"name": "Mega Gallade Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mega-gallade-talon/thumb.webp?v=b89aaef8",
+			"file": {
+				"version": 1,
+				"asset": "mega-gallade-talon-v1.fantome",
+				"size": 4270063,
+				"sha256": "c41b0fe561bb6e9d25f4f457b80e424c7a5754deba1778926d34aef5c1c76f01"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mega-lucario-jax-v2",
+			"name": "Mega Lucario Jax V2",
+			"champion": 24,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mega-lucario-jax-v2/thumb.webp?v=5f91dc4d",
+			"file": {
+				"version": 1,
+				"asset": "mega-lucario-jax-v2-v1.fantome",
+				"size": 2853494,
+				"sha256": "067623601776d0580ab3391eaf8f45b862b4a1acea70fbc9db0999748984d58b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mega-medicham-ryze",
+			"name": "Mega Medicham Ryze",
+			"champion": 13,
+			"base": 0,
+			"creator": "blaster",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mega-medicham-ryze/thumb.webp?v=a2b2fb68",
+			"file": {
+				"version": 1,
+				"asset": "mega-medicham-ryze-v1.fantome",
+				"size": 8280492,
+				"sha256": "b073979340afe2cf0d2592f9f8ce8162728ffbfd14e751da0e294316d3c3b1a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "megaman-zero-yasuo",
+			"name": "Megaman Zero (Yasuo)",
+			"champion": 157,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/megaman-zero-yasuo/thumb.webp?v=4c06d9dc",
+			"file": {
+				"version": 1,
+				"asset": "megaman-zero-yasuo-v1.fantome",
+				"size": 16128122,
+				"sha256": "2d931eb53588554b92e11f2caec95cd7cb53bdf2cd03a0ffef983d90df3374bc"
 			},
 			"chromas": []
 		},

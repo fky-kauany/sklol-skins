@@ -1,0 +1,24 @@
+{
+	"id": "mega-lucario-jax-v2",
+	"name": "Mega Lucario Jax V2",
+	"champion": 24,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 For Default Lucario\r\nCtrl 2 For Mega\r\nCtrl 3 To Remove Hat\r\nCtrl 4 To Return Hat\r\n\r\nFor the updated ver\r\nCtrl 3 To Mega Z\r\nCtrl 4 To Mega Z Shiny\r\n\r\nif you downloaded the first release with mega lucario z please redownload it i fixed a tiny code that make it dont work\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/d9d0b1df-88d1-440a-8afd-d6e57857f3d6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mega-lucario-jax-v2/thumb.webp?v=5f91dc4d",
+	"file": {
+		"version": 1,
+		"asset": "mega-lucario-jax-v2-v1.fantome",
+		"size": 2853494,
+		"sha256": "067623601776d0580ab3391eaf8f45b862b4a1acea70fbc9db0999748984d58b"
+	},
+	"chromas": []
+}

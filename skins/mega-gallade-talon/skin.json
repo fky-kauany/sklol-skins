@@ -1,0 +1,24 @@
+{
+	"id": "mega-gallade-talon",
+	"name": "Mega Gallade Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 for shiny \r\nCtrl 2 for default\r\nUse Default Skin\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/920da743-c031-4be3-8f4b-6f03ed0a6f5f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mega-gallade-talon/thumb.webp?v=b89aaef8",
+	"file": {
+		"version": 1,
+		"asset": "mega-gallade-talon-v1.fantome",
+		"size": 4270063,
+		"sha256": "c41b0fe561bb6e9d25f4f457b80e424c7a5754deba1778926d34aef5c1c76f01"
+	},
+	"chromas": []
+}

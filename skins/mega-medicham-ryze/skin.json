@@ -1,0 +1,24 @@
+{
+	"id": "mega-medicham-ryze",
+	"name": "Mega Medicham Ryze",
+	"champion": 13,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 for shiny\r\nCtrl 2 for default\r\nBase Skin\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/2eb23326-f292-42f4-b90f-e22b23757870\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mega-medicham-ryze/thumb.webp?v=a2b2fb68",
+	"file": {
+		"version": 1,
+		"asset": "mega-medicham-ryze-v1.fantome",
+		"size": 8280492,
+		"sha256": "b073979340afe2cf0d2592f9f8ce8162728ffbfd14e751da0e294316d3c3b1a2"
+	},
+	"chromas": []
+}

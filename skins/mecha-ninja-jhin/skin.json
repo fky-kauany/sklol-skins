@@ -1,0 +1,26 @@
+{
+	"id": "mecha-ninja-jhin",
+	"name": "Mecha Ninja Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Jhin\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Mecha Ninja Jhin\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* In-game transformations, you can toggle forms using Ctrl+1, Ctrl+2, Ctrl+4 & Ctrl+5.\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/9e00517e-658a-4b5e-b8c1-797eaa92fe9a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-ninja-jhin/thumb.webp?v=9d715e9c",
+	"file": {
+		"version": 1,
+		"asset": "mecha-ninja-jhin-v1.fantome",
+		"size": 25212868,
+		"sha256": "2b3aa5af6e55b99bf51a658b8d241ff21c5d937bb6265fa7eab7358519110b7b"
+	},
+	"chromas": []
+}

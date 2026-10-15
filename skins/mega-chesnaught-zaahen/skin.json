@@ -1,0 +1,24 @@
+{
+	"id": "mega-chesnaught-zaahen",
+	"name": "Mega Chesnaught Zaahen",
+	"champion": 904,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 For Shiny \r\nCtrl 2 For Default\r\nBase Skin\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/ce21bab4-c75b-4e86-b911-52fd25bcd43e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mega-chesnaught-zaahen/thumb.webp?v=afa06d0f",
+	"file": {
+		"version": 1,
+		"asset": "mega-chesnaught-zaahen-v1.fantome",
+		"size": 6370024,
+		"sha256": "77195b9a1c3e5f9ebd64db74e728f9ac68e0f5af7a3c3980dec6c6e6137fdad9"
+	},
+	"chromas": []
+}

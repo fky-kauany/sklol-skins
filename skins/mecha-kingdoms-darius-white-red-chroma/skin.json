@@ -1,0 +1,23 @@
+{
+	"id": "mecha-kingdoms-darius-white-red-chroma",
+	"name": "Mecha Kingdoms Darius White Red Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Mecha Kingdoms Darius White Red Chroma\r\n\r\nSkin modified : Mecha Kingdoms Darius\r\n\r\nAuthor : Dempsey20\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/63a5a364-1837-43aa-bfc8-41630dfd2de0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-kingdoms-darius-white-red-chroma/thumb.webp?v=c3071f23",
+	"file": {
+		"version": 1,
+		"asset": "mecha-kingdoms-darius-white-red-chroma-v1.fantome",
+		"size": 3221078,
+		"sha256": "1327ae80e1b7c823cb677415fa4a7ed2e05eaf7b1bf7321273a56ab61ddc7c7e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "megaman-zero-yasuo",
+	"name": "Megaman Zero (Yasuo)",
+	"champion": 157,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\n\n\nBase champion: Yasuo\n\nSkin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Megaman Zero from the Megaman X series.\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles.\n\n-New Voiceover.\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-Amazing hair.\n\n\n\n\n\nSources:\n\n-The splashart is from a Zero miniature released by Capcom.\n\n-Special thanks to Frog for helping with the fire particles in R\n\n-Also special thanks to Goat for warning me that Yasuo's W changes size depending the level (Yes, I had forgot that and I was going to release it bugged...)\n\n-Animations made by me. Some particle effects also made by me, others ported from the game.\n\n-Voiceover in japanese extracted from Marvel vs Capcom 3.\n\n-The joke emote references the infamous Zero anime meme.\n\n-Taunt emote references the old L'oreal shampoo ads.\n\n-Dance emote has the main theme of Megaman Zero from GBA.\n\n-Recall emote has the stage selection music from megaman X.\n\n\n\nlegacy Changelog:\n\n-01/07/2024: First official release\n\n-08/07/2024: Voiceover fixed\n\n-31/08/2024: Healthbar fixed for new patch\n\n-25/02/2025: Fixed for new patch (Credits of this fix to AleXD)\n\n-02/05/2025: Fixed sounds for new patch\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/ee64c79b-2e2b-40cd-a3e0-ba7a46f54f1f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/megaman-zero-yasuo/thumb.webp?v=4c06d9dc",
+	"file": {
+		"version": 1,
+		"asset": "megaman-zero-yasuo-v1.fantome",
+		"size": 16128122,
+		"sha256": "2d931eb53588554b92e11f2caec95cd7cb53bdf2cd03a0ffef983d90df3374bc"
+	},
+	"chromas": []
+}

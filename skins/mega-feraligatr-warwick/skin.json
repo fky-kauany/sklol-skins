@@ -1,0 +1,24 @@
+{
+	"id": "mega-feraligatr-warwick",
+	"name": "Mega Feraligatr Warwick",
+	"champion": 19,
+	"base": 0,
+	"creator": "blaster",
+	"description": "Ctrl 1 for Default\r\nCtrl 2 For Shiny\n\n---\n\n**Created by** [Blaster](https://runeforge.dev/users/Blaster)\n\n**Original:** https://runeforge.dev/mods/4e30da37-9edf-4a02-8f56-8fb5d748a2bb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mega-feraligatr-warwick/thumb.webp?v=4fa1e1b8",
+	"file": {
+		"version": 1,
+		"asset": "mega-feraligatr-warwick-v1.fantome",
+		"size": 8294301,
+		"sha256": "c461abe87a97df26bd5610c6bdb77b7aa9a9263fab9301b17ca0bb01bd31ca9d"
+	},
+	"chromas": []
+}
