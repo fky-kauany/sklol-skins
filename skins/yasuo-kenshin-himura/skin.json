@@ -1,0 +1,24 @@
+{
+	"id": "yasuo-kenshin-himura",
+	"name": "Yasuo Kenshin Himura",
+	"champion": 157,
+	"base": 9,
+	"creator": "matth",
+	"description": "Skin Modified: Nightbringer\n\nAuthor: matthilobo (MatthSpotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n______________________________________________________________________________________________________\n\nMy Contacts:\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/4e9c07f9-c2e9-47ef-8775-e9c9923f79e0\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yasuo-kenshin-himura/thumb.webp?v=4282bb48",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-kenshin-himura-v1.fantome",
+		"size": 127463041,
+		"sha256": "e746bff4ddbac166f16ea6514b9f2f686166a20ab09d7d40e99639f140bd8f40"
+	},
+	"chromas": []
+}

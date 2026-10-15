@@ -1,0 +1,25 @@
+{
+	"id": "yae-sakura-yasuo",
+	"name": "Yae Sakura Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Important Note\r\n\r\n* **This mod need** [**Old VFX Base Mod**](https://runeforge.dev/mods/eeebe09e-b838-49fb-b2ef-93cb3aa743a9 \"Old Yasuo VFX Base Mod\") **to fully working**.\r\n  If you encounter any problems during installation, please contact me or join RuneForge Discord.\r\n\r\n## Skin information\r\n\r\n* Champion Replaced: Yasuo\r\n* Skin Replaced: Default\r\n* Original author: Timewe\r\n* Re-uploaded by: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* Re-Uploaded with Old Yasuo VFX\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified particles\r\n\r\n\r\n## Disclaimer\r\n\r\nI am not the original author of this mod, I only updated it so it works again as a mod for League of Legends.\r\nThe original author is **Timewe**. Whose social media I cannot find.\r\n\r\nIf the original authors wants this mod to be taken down, I will take it down again.\r\nYou can contact me here: Victorious#9216\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/f466607c-8ab2-4c21-9efc-6bc3c27af6ee\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yae-sakura-yasuo/thumb.webp?v=f2567947",
+	"file": {
+		"version": 1,
+		"asset": "yae-sakura-yasuo-v1.fantome",
+		"size": 5674708,
+		"sha256": "ad009b0640219879f7c05f883e163ed1527c6f57289a79ff4235e41d2a006fd1"
+	},
+	"chromas": []
+}

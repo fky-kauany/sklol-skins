@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:55:35.581Z",
+	"generatedAt": "2026-10-15T14:58:08.844Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -61,6 +61,10 @@
 				"discord": "https://discord.gg/HEjuFmbm6g",
 				"site": "https://runeforge.dev/users/Moga"
 			}
+		},
+		"aiakos": {
+			"name": "aiakos",
+			"links": {}
 		},
 		"aki": {
 			"name": "aki",
@@ -34511,6 +34515,202 @@
 				"asset": "xin-zhao-xin-without-the-zhao-v1.fantome",
 				"size": 32734,
 				"sha256": "8ed6a1d44ad0994f4ceec13a496334f66e93206e41f71b63d519d0ee564f4333"
+			},
+			"chromas": []
+		},
+		{
+			"id": "xmas-gwen",
+			"name": "Xmas Gwen",
+			"champion": 887,
+			"base": 0,
+			"creator": "harpyqueen",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/xmas-gwen/thumb.webp?v=b0a9e780",
+			"file": {
+				"version": 1,
+				"asset": "xmas-gwen-v1.fantome",
+				"size": 20216283,
+				"sha256": "7982abde804c033d94a22ef0e2665327577b9369a070f3f50e91fd40428afb59"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yae-miko-ahri",
+			"name": "Yae Miko Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "maygik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yae-miko-ahri/thumb.webp?v=5bf08837",
+			"file": {
+				"version": 1,
+				"asset": "yae-miko-ahri-v1.fantome",
+				"size": 3232070,
+				"sha256": "1454af65756649b7e823a8380f0a8d95c0e31c386be5868e8b0bd606044e505d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yae-sakura-yasuo",
+			"name": "Yae Sakura Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yae-sakura-yasuo/thumb.webp?v=f2567947",
+			"file": {
+				"version": 1,
+				"asset": "yae-sakura-yasuo-v1.fantome",
+				"size": 5674708,
+				"sha256": "ad009b0640219879f7c05f883e163ed1527c6f57289a79ff4235e41d2a006fd1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yagami-hayate-malzahar",
+			"name": "Yagami Hayate Malzahar",
+			"champion": 90,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yagami-hayate-malzahar/thumb.webp?v=14f9b3ff",
+			"file": {
+				"version": 1,
+				"asset": "yagami-hayate-malzahar-v1.fantome",
+				"size": 8790816,
+				"sha256": "25993abd7b6d92de3f2297876c5edd23cbee907d5ebc6e1d2c17431631c50f2b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yangyang-yasuo",
+			"name": "YangYang Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yangyang-yasuo/thumb.webp?v=388aba1c",
+			"file": {
+				"version": 1,
+				"asset": "yangyang-yasuo-v1.fantome",
+				"size": 12500011,
+				"sha256": "c6c3f8116c23c77b6872281f67d8e6931bb598510248f6df2f88caacd2bad0ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-base-chromas",
+			"name": "Yasuo Base Chromas",
+			"champion": 157,
+			"base": 0,
+			"creator": "zamius",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yasuo-base-chromas/thumb.webp?v=25f5da4a",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-base-chromas-v1.fantome",
+				"size": 524658,
+				"sha256": "8e36e5d7945191c46b979eb42da03e574b8eb4e442e78adf5dd6cab48bfa8147"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-kenshin-himura",
+			"name": "Yasuo Kenshin Himura",
+			"champion": 157,
+			"base": 9,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yasuo-kenshin-himura/thumb.webp?v=4282bb48",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-kenshin-himura-v1.fantome",
+				"size": 127463041,
+				"sha256": "e746bff4ddbac166f16ea6514b9f2f686166a20ab09d7d40e99639f140bd8f40"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yasuo-nightbringernoulti",
+			"name": "nightbringerNOULTI",
+			"champion": 157,
+			"base": 0,
+			"creator": "aiakos",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yasuo-nightbringernoulti/thumb.webp?v=f3743da4",
+			"file": {
+				"version": 1,
+				"asset": "yasuo-nightbringernoulti-v1.fantome",
+				"size": 3639006,
+				"sha256": "49548ab6d3f0c70abf879f6585439db47448d7bae8410c40b5572b2adf7ccd01"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,24 @@
+{
+	"id": "xmas-gwen",
+	"name": "Xmas Gwen",
+	"champion": 887,
+	"base": 0,
+	"creator": "harpyqueen",
+	"description": "Information\r\n\r\n* Champion: Gwen\r\n* Modified Skin: Base\r\n* Author: HapiKuin\r\n* Version: 1.0\r\n\r\n***\r\n\r\nFeatures\r\n\r\n* New Model\r\n* New Loading screen\r\n* New HUD\r\n* Supports all graphic textures\n\n---\n\n**Created by** [HarpyQueen](https://runeforge.dev/users/HarpyQueen)\n\n**Original:** https://runeforge.dev/mods/48988a51-4582-4c72-8778-1ce57d3e9678\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/xmas-gwen/thumb.webp?v=b0a9e780",
+	"file": {
+		"version": 1,
+		"asset": "xmas-gwen-v1.fantome",
+		"size": 20216283,
+		"sha256": "7982abde804c033d94a22ef0e2665327577b9369a070f3f50e91fd40428afb59"
+	},
+	"chromas": []
+}

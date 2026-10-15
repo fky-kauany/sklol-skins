@@ -1,0 +1,22 @@
+{
+	"id": "yasuo-base-chromas",
+	"name": "Yasuo Base Chromas",
+	"champion": 157,
+	"base": 0,
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\n\n* Champion: Yasuo\n* Modified skin: Default\n* Author: Zamius\n* Mod version: 1.0.1 (19.08.2025 updated all 4 skins)\n* Description: 4 colored Yasuo’s default/base skins: Red (Blood), Black (Dark Blade), White (Master of Wind), and Green (Forest Guardian). This mod also includes a custom loading screen for each chroma!\n\n### FEATURES\n\n* New textures\n* Supports all champion texture quality settings\n* Modified loading screens\n\n### ABOUT THE MOD\n\n* In the download link, you will find all 4 chromas, but you can use only 1 at a time in CSLoL-Manager!\n\n### CREDITS\n\n* [LxVer (the skull guy)](https://www.twitch.tv/lxver8) for coloring the loading screen splash-arts/portraits\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/414af646-371b-4ae5-83b5-3e647ea31f7c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yasuo-base-chromas/thumb.webp?v=25f5da4a",
+	"file": {
+		"version": 1,
+		"asset": "yasuo-base-chromas-v1.fantome",
+		"size": 524658,
+		"sha256": "8e36e5d7945191c46b979eb42da03e574b8eb4e442e78adf5dd6cab48bfa8147"
+	},
+	"chromas": []
+}

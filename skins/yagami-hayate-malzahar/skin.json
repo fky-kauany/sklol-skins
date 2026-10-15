@@ -1,0 +1,27 @@
+{
+	"id": "yagami-hayate-malzahar",
+	"name": "Yagami Hayate Malzahar",
+	"champion": 90,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Malzahar\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Malzahar with Yagami Hayate (and ReinⅡ) from Nanoha A’s/INNOCENT/movie timeline\r\n\r\nはやてちゃんぺろぺろしたい。。。もちろんリインもぺろぺろしたい。。。ぺろぺろぺろぺろぺろぺろぺろぺろ\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations\r\n* Edited ability sounds\r\n* New voiceover\r\n* New model, animations, voiceover for Voidling pets (replaced with ReinⅡ/Zwei)\r\n\r\n### Credits\r\n* Model from 300 Heroes\r\n* Visual assets from Nanoha movies, key visuals, INNOCENT manga and mobile game\r\n* Voiceover from Nanoha x Magia Record collab, Nanoha Gears of Destiny\r\n* Ult background music from Nanoha A’s movie Snow Rain ver. Blessing Wind\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/b2064f93-f075-44b1-b23b-14b59b832d92\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yagami-hayate-malzahar/thumb.webp?v=14f9b3ff",
+	"file": {
+		"version": 1,
+		"asset": "yagami-hayate-malzahar-v1.fantome",
+		"size": 8790816,
+		"sha256": "25993abd7b6d92de3f2297876c5edd23cbee907d5ebc6e1d2c17431631c50f2b"
+	},
+	"chromas": []
+}
