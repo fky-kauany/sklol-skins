@@ -1,0 +1,25 @@
+{
+	"id": "vivian-soraka",
+	"name": "Vivian Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "shroomed",
+	"description": "Mod Information\n\nChampion: Soraka\n\nModified skin: Default\n\nAuthor: Shroomed\n\nMod version: 1.0\n\nDescription: Vivian Soraka\n\n\\------------------------------------------------------------------------------------------------------------------------\n\nFeatures\n\nNew model and textures\n\nSupports all champion texture quality settings\n\nMinor VFX changes\n\nModified LoadScreen\n\n---\n\n**Created by** [Shroomed](https://runeforge.dev/users/Shroomed)\n\n**Original:** https://runeforge.dev/mods/674939cc-3805-4b5f-8fc4-2d84e7068d60\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vivian-soraka/thumb.webp?v=52794669",
+	"file": {
+		"version": 1,
+		"asset": "vivian-soraka-v1.fantome",
+		"size": 9386418,
+		"sha256": "d6af19948438ea0eb6433122c4271fbd1ad9b5f7a5026292d98ba48328d6f40c"
+	},
+	"chromas": []
+}
