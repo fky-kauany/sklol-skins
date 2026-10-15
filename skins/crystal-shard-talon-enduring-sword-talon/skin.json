@@ -1,0 +1,26 @@
+{
+	"id": "crystal-shard-talon-enduring-sword-talon",
+	"name": "Crystal Shard Talon - Enduring Sword Talon",
+	"champion": 91,
+	"base": 12,
+	"creator": "perseus",
+	"description": "- Modified Skin = Enduring Sword Talon\n\n- Author = Perseus\n\n- if any bug or error happens you can contact me on discord = percyyw\n\n- This custom skin was made upon request.\n\n---\n\n**Created by** [Perseus](https://runeforge.dev/users/Perseus)\n\n**Original:** https://runeforge.dev/mods/fb7b73cb-b645-492c-b798-2f4b4a38b4aa\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-shard-talon-enduring-sword-talon/thumb.webp?v=659ba468",
+	"file": {
+		"version": 1,
+		"asset": "crystal-shard-talon-enduring-sword-talon-v1.fantome",
+		"size": 7817381,
+		"sha256": "d7921c1333df4cd6c9686f27e95a34d66d2805da837ed92be3a2e4d3d78f6788"
+	},
+	"chromas": []
+}

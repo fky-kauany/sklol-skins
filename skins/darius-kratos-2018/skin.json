@@ -1,0 +1,25 @@
+{
+	"id": "darius-kratos-2018",
+	"name": "Darius Kratos 2018",
+	"champion": 122,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Darius\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nIn this mod I used the Kratos model from Fortnite, I changed the effects and vfx sound effects only when he is passive\n\nmy dc gabrielpicademel123\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/55ad4266-ed98-4825-b2f7-163f53fbb426\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/darius-kratos-2018/thumb.webp?v=646ff8cf",
+	"file": {
+		"version": 1,
+		"asset": "darius-kratos-2018-v1.fantome",
+		"size": 16346471,
+		"sha256": "10005f6575fe04af198c079255e311ea27abf9a8e5245192b78b191e310e7e1d"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:47:20.341Z",
+	"generatedAt": "2026-10-15T08:50:28.888Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -6862,6 +6862,250 @@
 				"asset": "crystal-rose-viego-wr-port-v1.fantome",
 				"size": 20059763,
 				"sha256": "24826ed6cd4d27d0ab3cb06550154b94d25f50b354959808dd6771f69b0c8044"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-rose-yone-wr-port",
+			"name": "Crystal Rose Yone WR Port",
+			"champion": 777,
+			"base": 0,
+			"creator": "fingamiro",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-rose-yone-wr-port/thumb.webp?v=a198f9d1",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-yone-wr-port-v1.fantome",
+				"size": 4237255,
+				"sha256": "b323e54c7ce953fc8c0bcd51391b545d6f382fa9a7acc02d8ed253402f059adf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "crystal-shard-talon-enduring-sword-talon",
+			"name": "Crystal Shard Talon - Enduring Sword Talon",
+			"champion": 91,
+			"base": 12,
+			"creator": "perseus",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/crystal-shard-talon-enduring-sword-talon/thumb.webp?v=659ba468",
+			"file": {
+				"version": 1,
+				"asset": "crystal-shard-talon-enduring-sword-talon-v1.fantome",
+				"size": 7817381,
+				"sha256": "d7921c1333df4cd6c9686f27e95a34d66d2805da837ed92be3a2e4d3d78f6788"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cs-source-tr-phoenix-zeri",
+			"name": "cs source TR phoenix zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cs-source-tr-phoenix-zeri/thumb.webp?v=71009ae6",
+			"file": {
+				"version": 1,
+				"asset": "cs-source-tr-phoenix-zeri-v1.fantome",
+				"size": 2328344,
+				"sha256": "d5ad2f80fac814ff92ed163b72aa41cd6218add9755a6822ee9230029feed85d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cyberpunk-edgerunners-zeri",
+			"name": "CyberPunk - Edgerunners Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "wronglane",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cyberpunk-edgerunners-zeri/thumb.webp?v=26ff41f1",
+			"file": {
+				"version": 1,
+				"asset": "cyberpunk-edgerunners-zeri-v1.fantome",
+				"size": 6082767,
+				"sha256": "0ccb9c771ac754bb17f370cae34cf731730c8a5a5b7e77076814c003ef42b01e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cyberpunk-urgot",
+			"name": "Cyberpunk Urgot",
+			"champion": 6,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cyberpunk-urgot/thumb.webp?v=d9392190",
+			"file": {
+				"version": 1,
+				"asset": "cyberpunk-urgot-v1.fantome",
+				"size": 22449408,
+				"sha256": "4dfc9ae02487c640090013bb5ac38c1be4e5718b7ac27731063e3883d88000dc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cyclops-warrior-sett",
+			"name": "Cyclops Warrior Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cyclops-warrior-sett/thumb.webp?v=490ebe42",
+			"file": {
+				"version": 1,
+				"asset": "cyclops-warrior-sett-v1.fantome",
+				"size": 749480,
+				"sha256": "47d62784e4f6ee802bee9898aa6db99b41c06e84f26608eabc4d5be703760cde"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cyrax-viktor",
+			"name": "cyrax viktor",
+			"champion": 112,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cyrax-viktor/thumb.webp?v=1961cb31",
+			"file": {
+				"version": 1,
+				"asset": "cyrax-viktor-v1.fantome",
+				"size": 1088695,
+				"sha256": "8ef22b7ae876c2ee715347a155783982ce0dfb54bdc7ef41ff49d141f2651611"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-corinthiano",
+			"name": "Darius Corinthiano",
+			"champion": 122,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darius-corinthiano/thumb.webp?v=5d75b498",
+			"file": {
+				"version": 1,
+				"asset": "darius-corinthiano-v1.fantome",
+				"size": 26442952,
+				"sha256": "0e24fdb78a8867ca514a68a0824c47222e1862ee1aac446f34330847be879f7b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-kratos-2018",
+			"name": "Darius Kratos 2018",
+			"champion": 122,
+			"base": 0,
+			"creator": "gabe",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darius-kratos-2018/thumb.webp?v=646ff8cf",
+			"file": {
+				"version": 1,
+				"asset": "darius-kratos-2018-v1.fantome",
+				"size": 16346471,
+				"sha256": "10005f6575fe04af198c079255e311ea27abf9a8e5245192b78b191e310e7e1d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-nightbringer",
+			"name": "Darius nightbringer",
+			"champion": 122,
+			"base": 15,
+			"creator": "gabe",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/darius-nightbringer/thumb.webp?v=b2dccf1e",
+			"file": {
+				"version": 1,
+				"asset": "darius-nightbringer-v1.fantome",
+				"size": 6798698,
+				"sha256": "0465f48f8c6a32811183075377c1240b1bd3608816a6f0bad681bd4982e3fb02"
 			},
 			"chromas": []
 		},

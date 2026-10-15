@@ -1,0 +1,25 @@
+{
+	"id": "darius-nightbringer",
+	"name": "Darius nightbringer",
+	"champion": 122,
+	"base": 15,
+	"creator": "gabe",
+	"description": "Modified champion: darius\r\n\r\nModified skin: god king darius\r\n\r\nauthor:gabe\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/0ec8bdd8-895d-4a0a-957f-c316998545e0\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/darius-nightbringer/thumb.webp?v=b2dccf1e",
+	"file": {
+		"version": 1,
+		"asset": "darius-nightbringer-v1.fantome",
+		"size": 6798698,
+		"sha256": "0465f48f8c6a32811183075377c1240b1bd3608816a6f0bad681bd4982e3fb02"
+	},
+	"chromas": []
+}

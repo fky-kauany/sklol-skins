@@ -1,0 +1,23 @@
+{
+	"id": "cyclops-warrior-sett",
+	"name": "Cyclops Warrior Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "Default Sett skin using \"Grendel\" skin for Gauntlet from Heroes of Newerth. This mod is very buggy, but it is a very fun and fitting model for Sett!\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/3e72b55f-1d30-47cd-abaf-6c704773407c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cyclops-warrior-sett/thumb.webp?v=490ebe42",
+	"file": {
+		"version": 1,
+		"asset": "cyclops-warrior-sett-v1.fantome",
+		"size": 749480,
+		"sha256": "47d62784e4f6ee802bee9898aa6db99b41c06e84f26608eabc4d5be703760cde"
+	},
+	"chromas": []
+}

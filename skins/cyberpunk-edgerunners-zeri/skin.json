@@ -1,0 +1,24 @@
+{
+	"id": "cyberpunk-edgerunners-zeri",
+	"name": "CyberPunk - Edgerunners Zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "wronglane",
+	"description": "## Information\n\n***\n\n**Modified champion: Zeri**\n\n**Modified skin: Default**\n\n**Authors: WrongLane, Aurecuceil**\n\n## Features\n\n***\n\n* Loading screen\n* Hud images\n* SFX\n* Textures\n\n## Issues\n\n***\n\nIf/When this mod breaks let me know\n\nDiscord: wrongestlane\n\n---\n\n**Created by** [WrongLane](https://runeforge.dev/users/WrongLane)\n\n**Original:** https://runeforge.dev/mods/43183d47-0eee-4d09-a448-dab7f8dffdab\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cyberpunk-edgerunners-zeri/thumb.webp?v=26ff41f1",
+	"file": {
+		"version": 1,
+		"asset": "cyberpunk-edgerunners-zeri-v1.fantome",
+		"size": 6082767,
+		"sha256": "0ccb9c771ac754bb17f370cae34cf731730c8a5a5b7e77076814c003ef42b01e"
+	},
+	"chromas": []
+}

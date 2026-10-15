@@ -1,0 +1,24 @@
+{
+	"id": "darius-corinthiano",
+	"name": "Darius Corinthiano",
+	"champion": 122,
+	"base": 0,
+	"creator": "gabe",
+	"description": "Modified champion: Darius\n\nModified skin: Default\n\nAuthor: gabrielpicademel\n\nCustom do Darius timao, nessa custom mudei as texturas e particulas parecidas com do corinthias, mudeia algum sons das habilidades como da passivo E W R, Aproveite :}\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/a7933667-3299-464f-b9c3-b6d59590db35\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/darius-corinthiano/thumb.webp?v=5d75b498",
+	"file": {
+		"version": 1,
+		"asset": "darius-corinthiano-v1.fantome",
+		"size": 26442952,
+		"sha256": "0e24fdb78a8867ca514a68a0824c47222e1862ee1aac446f34330847be879f7b"
+	},
+	"chromas": []
+}

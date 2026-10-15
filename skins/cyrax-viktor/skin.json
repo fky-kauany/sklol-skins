@@ -1,0 +1,23 @@
+{
+	"id": "cyrax-viktor",
+	"name": "cyrax viktor",
+	"champion": 112,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"Safeties disabled, combat mode engaged\"\n\n***\n\n**Modified champion: Viktor**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model from the game: Mortal kombat 9**\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/26511e9e-2097-44f8-b4c7-e2fc2a08d08d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cyrax-viktor/thumb.webp?v=1961cb31",
+	"file": {
+		"version": 1,
+		"asset": "cyrax-viktor-v1.fantome",
+		"size": 1088695,
+		"sha256": "8ef22b7ae876c2ee715347a155783982ce0dfb54bdc7ef41ff49d141f2651611"
+	},
+	"chromas": []
+}

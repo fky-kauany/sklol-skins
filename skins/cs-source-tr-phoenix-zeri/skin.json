@@ -1,0 +1,24 @@
+{
+	"id": "cs-source-tr-phoenix-zeri",
+	"name": "cs source TR phoenix zeri",
+	"champion": 221,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "**all right, let move out**\"\n\n***\n\n**Modified champion: Zeri**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**extracted from the game:** cs: Source\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/b0337d60-20ec-4447-8f5c-39dfab0dcede\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cs-source-tr-phoenix-zeri/thumb.webp?v=71009ae6",
+	"file": {
+		"version": 1,
+		"asset": "cs-source-tr-phoenix-zeri-v1.fantome",
+		"size": 2328344,
+		"sha256": "d5ad2f80fac814ff92ed163b72aa41cd6218add9755a6822ee9230029feed85d"
+	},
+	"chromas": []
+}

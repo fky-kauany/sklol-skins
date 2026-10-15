@@ -1,0 +1,26 @@
+{
+	"id": "cyberpunk-urgot",
+	"name": "Cyberpunk Urgot",
+	"champion": 6,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Urgot with a custom-made model after Spinebreaker's original concept for Cyberpunk Urgot.\n\n## CREDITS\n\n* Model, Texture, & VFX: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n* Concept & Splash Art: [Spinebreaker](https://twitter.com/breaking_spine)\n* Videographer & SFX: [HuselPusel](https://www.youtube.com/c/HuselPusel)\n* SFX File Management:[ LxVer8](https://www.twitch.tv/lxver8)\n* Animations: [Sauronkaiser](https://twitter.com/Sauronkaiser)\n* In-Game HUD Accessories: [TinyBallSnow](https://www.twitch.tv/tinyballsnow)\n* Story: [Frazzlol](https://www.twitch.tv/frazzlol)\n* Co-Writer: [Samushoter](https://twitter.com/samushoter)\n\n\n\nCinematic Trailer: [https://www.youtube.com/watch?v=htqcX2vl89E\\&t=10s](https://www.youtube.com/watch?v=htqcX2vl89E\\&t=10s)\n\nGameplay Trailer: [https://www.youtube.com/watch?v=4HIBIbuJfLQ](https://www.youtube.com/watch?v=4HIBIbuJfLQ)\n\nStory and Creds: [https://cyberpunkurgot.carrd.co/](https://cyberpunkurgot.carrd.co/)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/9c8911a7-3b14-4db7-ae35-69cba701769d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cyberpunk-urgot/thumb.webp?v=d9392190",
+	"file": {
+		"version": 1,
+		"asset": "cyberpunk-urgot-v1.fantome",
+		"size": 22449408,
+		"sha256": "4dfc9ae02487c640090013bb5ac38c1be4e5718b7ac27731063e3883d88000dc"
+	},
+	"chromas": []
+}

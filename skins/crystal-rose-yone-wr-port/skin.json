@@ -1,0 +1,24 @@
+{
+	"id": "crystal-rose-yone-wr-port",
+	"name": "Crystal Rose Yone WR Port",
+	"champion": 777,
+	"base": 0,
+	"creator": "fingamiro",
+	"description": "# Mod Information:\n\n##### Skins applied: Base\n\n##### Author: FingaMiro\n\n##### Version: 1.0.3\n\n> More about the creator visit the linktree ([FingaMiro | Facebook | Linktree](https://linktr.ee/FingaMiro \"Linktree | FingaMiro\"))\n\n> If you need support, you can join my discord ([Discord](https://discord.com/invite/ZyqhFGne2B))\n\n> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n>\n\n> WR Models: [https://discord.gg/sHSFj8zP29](https://discord.gg/sHSFj8zP29 \"DIscord | WR Modding Community\")\n\n---\n\n**Created by** [FingaMiro](https://runeforge.dev/users/FingaMiro)\n\n**Original:** https://runeforge.dev/mods/f5067c7e-2728-41a8-b4ec-86139e9b1892\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/crystal-rose-yone-wr-port/thumb.webp?v=a198f9d1",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-yone-wr-port-v1.fantome",
+		"size": 4237255,
+		"sha256": "b323e54c7ce953fc8c0bcd51391b545d6f382fa9a7acc02d8ed253402f059adf"
+	},
+	"chromas": []
+}
