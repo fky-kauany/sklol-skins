@@ -1,0 +1,26 @@
+{
+	"id": "withered-rose-soraka",
+	"name": "Withered Rose Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\r\n\r\n###### Champion: Soraka\r\n\r\n###### Modified skin: Default\r\n\r\n###### Author: LordksOP\r\n\r\n###### Mod version: 1.2\r\n\r\n###### Description: Withered Rose Soraka\r\n\r\n## [Download Chromas here](https://drive.google.com/drive/folders/1gPHCjIdgOkOKZkTqjEgyX9ogJnvmYa5g?usp=sharing)\r\n\r\n\\--------------------------------------------------------------------------------------------------------------------------\r\n\r\n## Features\r\n\r\n* New model and textures\r\n* Supports all champion texture quality settings\r\n* New VFX and SFX\r\n* New animations\r\n* Modified LoadScreen\r\n\r\n##### ----------------------------------------------------------------------------------------------------------------------------\r\n\r\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/16a82b8b-878d-47eb-a78b-cd94a03c08f7\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/withered-rose-soraka/thumb.webp?v=6e3b6a0a",
+	"file": {
+		"version": 1,
+		"asset": "withered-rose-soraka-v1.fantome",
+		"size": 12844745,
+		"sha256": "7555521006157302b2ee6faeded0cfde9a98dab1c6ef9bb4c02ce848cfdb66f1"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:48:26.600Z",
+	"generatedAt": "2026-10-15T14:50:00.602Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -33979,6 +33979,105 @@
 				"asset": "winx-club-lux-2024-version-v1.fantome",
 				"size": 13569411,
 				"sha256": "7f4c69a4ba765002afc50442bbec54595c49eb89396bbf9634aa00edd178d740"
+			},
+			"chromas": []
+		},
+		{
+			"id": "withered-rose-katarina",
+			"name": "Withered Rose Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/withered-rose-katarina/thumb.webp?v=a131b5b9",
+			"file": {
+				"version": 1,
+				"asset": "withered-rose-katarina-v1.fantome",
+				"size": 8076649,
+				"sha256": "24149e597326cc879d4168d8e0c3023cb874b81a3b0d52dd691354b5ba0fe5e5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "withered-rose-leblanc",
+			"name": "Withered Rose LeBlanc",
+			"champion": 7,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/withered-rose-leblanc/thumb.webp?v=1b9dbea2",
+			"file": {
+				"version": 1,
+				"asset": "withered-rose-leblanc-v1.fantome",
+				"size": 6859591,
+				"sha256": "5fffa0eee0083d46ca2007c0e0c3357959577affed13bdd009cfa6b25dcd9505"
+			},
+			"chromas": []
+		},
+		{
+			"id": "withered-rose-soraka",
+			"name": "Withered Rose Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/withered-rose-soraka/thumb.webp?v=6e3b6a0a",
+			"file": {
+				"version": 1,
+				"asset": "withered-rose-soraka-v1.fantome",
+				"size": 12844745,
+				"sha256": "7555521006157302b2ee6faeded0cfde9a98dab1c6ef9bb4c02ce848cfdb66f1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "woad-king-darius-berserker",
+			"name": "Woad King Darius Berserker",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/woad-king-darius-berserker/thumb.webp?v=18fa7c4c",
+			"file": {
+				"version": 1,
+				"asset": "woad-king-darius-berserker-v1.fantome",
+				"size": 908600,
+				"sha256": "02356c466c793c08a6b5275045adaa223aaaf4712722c069483f575a2e280e67"
 			},
 			"chromas": []
 		},

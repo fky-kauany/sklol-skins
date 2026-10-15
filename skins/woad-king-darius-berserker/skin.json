@@ -1,0 +1,23 @@
+{
+	"id": "woad-king-darius-berserker",
+	"name": "Woad King Darius Berserker",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Woad King Darius Berserker\r\n\r\nSkin modified : Woad King\r\n\r\nAuthor : Dempsey20\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/34d8fe4a-5c82-4304-a9ae-4e2c8ec3f0bd\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/woad-king-darius-berserker/thumb.webp?v=18fa7c4c",
+	"file": {
+		"version": 1,
+		"asset": "woad-king-darius-berserker-v1.fantome",
+		"size": 908600,
+		"sha256": "02356c466c793c08a6b5275045adaa223aaaf4712722c069483f575a2e280e67"
+	},
+	"chromas": []
+}

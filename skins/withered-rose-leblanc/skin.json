@@ -1,0 +1,25 @@
+{
+	"id": "withered-rose-leblanc",
+	"name": "Withered Rose LeBlanc",
+	"champion": 7,
+	"base": 0,
+	"creator": "yoruqueenofnight",
+	"description": "* Champion: LeBlanc\n* Skin: Default\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game icon\n* Modified VFX\n\n## Credits\n\n* Edited animations by Froggles\n* Background image: Assets from © EA Games\n\n## Completely optional: if you enjoy my work you can...\n\n[**Support me on Ko-Fi**](https://ko-fi.com/yoruqueenofnight) **or** [Become a Patreon](https://www.patreon.com/c/user?u=63840897)\n\n---\n\n**Created by** [YoruQueenOfNight](https://runeforge.dev/users/YoruQueenOfNight)\n\n**Original:** https://runeforge.dev/mods/5ae99e73-8a48-41be-b833-b8f63dd220db\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/withered-rose-leblanc/thumb.webp?v=1b9dbea2",
+	"file": {
+		"version": 1,
+		"asset": "withered-rose-leblanc-v1.fantome",
+		"size": 6859591,
+		"sha256": "5fffa0eee0083d46ca2007c0e0c3357959577affed13bdd009cfa6b25dcd9505"
+	},
+	"chromas": []
+}
