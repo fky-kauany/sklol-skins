@@ -1,0 +1,22 @@
+{
+	"id": "yunara-theme-on-ult",
+	"name": "Yunara theme on ult",
+	"champion": 804,
+	"base": 1,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Yunara**\n\n**Modified skin: Default + Spirit Blossom Springs**\n\n**Author: Aropatnik**\n\n## Features\n\n* Music when you R 🐔👍\n\n## Credits\n\nYunara Theme: https://www.youtube.com/watch?v=gni4Zh-9Z94\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/42b6a61d-2ef5-4da8-a304-7a6d2a24dd8f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yunara-theme-on-ult/thumb.webp?v=a1e78506",
+	"file": {
+		"version": 1,
+		"asset": "yunara-theme-on-ult-v1.fantome",
+		"size": 4926108,
+		"sha256": "a05a534b1196c9353e997408614d745b5b8a9e6a4be8ba487e7ea8502990759e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "yoru-shaco",
+	"name": "Yoru Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Yoru Shaco\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.1\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/16459fef-8c02-4161-a456-83b667c37448\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yoru-shaco/thumb.webp?v=225165ad",
+	"file": {
+		"version": 1,
+		"asset": "yoru-shaco-v1.fantome",
+		"size": 8224598,
+		"sha256": "cdb961fe4480320fe40f2255f286962f7bf32b9218f88a9fbd5406ba517e6335"
+	},
+	"chromas": []
+}

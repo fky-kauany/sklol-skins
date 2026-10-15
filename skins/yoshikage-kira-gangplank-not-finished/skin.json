@@ -1,0 +1,26 @@
+{
+	"id": "yoshikage-kira-gangplank-not-finished",
+	"name": "Yoshikage Kira Gangplank (Not Finished)",
+	"champion": 41,
+	"base": 0,
+	"creator": "jioubin",
+	"description": "Mod Information\r\nChampion : Gangplank\r\nModified Skin : Base\r\nAuthor : Jioubin\r\nMod Version : 0.9\r\nFeatures\r\n-New model and texture\r\n-New particles\r\n-Modified loading screen art\r\n-Modified champion icon\r\n-Custom Animations\r\n-New VO\r\n\r\nIncomplete List\r\n1. Animations for Death, Recall, Spawn, Emote1 and Emote2\r\n2. Replace Passive Fire with Aura\n\n---\n\n**Created by** [Jioubin](https://runeforge.dev/users/Jioubin)\n\n**Original:** https://runeforge.dev/mods/46c37b58-2dcb-4795-afee-e7f4a6021cfa\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yoshikage-kira-gangplank-not-finished/thumb.webp?v=e77f2c28",
+	"file": {
+		"version": 1,
+		"asset": "yoshikage-kira-gangplank-not-finished-v1.fantome",
+		"size": 28377794,
+		"sha256": "7877f402f58c845c0844f0e709baeb9288a12cccc103458e5757a52a8e37800c"
+	},
+	"chromas": []
+}

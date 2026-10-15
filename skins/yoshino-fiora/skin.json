@@ -1,0 +1,24 @@
+{
+	"id": "yoshino-fiora",
+	"name": "Yoshino Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Yoshino Fiora\r\n\r\n\r\n\r\nSkin modified : Default\r\n\r\n\r\n\r\nAuthor : rorotea\r\n\r\n\r\n\r\nMod version : 1.0.2\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/eb2ce972-5eef-494e-ac8a-71f0bf0fcaee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yoshino-fiora/thumb.webp?v=b232479f",
+	"file": {
+		"version": 1,
+		"asset": "yoshino-fiora-v1.fantome",
+		"size": 4853529,
+		"sha256": "c6d180ff23ec30f23bede8ddbadeca6b0744b2d60ba3c7116913db56bb32c30d"
+	},
+	"chromas": []
+}

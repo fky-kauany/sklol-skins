@@ -1,0 +1,24 @@
+{
+	"id": "youmu-konpaku-master-yi",
+	"name": "Youmu Konpaku Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion Replaced: Annie\r\n* Skin Replaced: Default\r\n* Original author: Zuma & RusselZ\r\n* Re-Uploaded by: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Replaces loadingscreen\r\n* Replaces in-game icons\r\n* Modified particles\r\n* Modified animations ( 2 versions ultimate ( R ) Animation: Running or Flying )\r\n\r\n## Disclaimer\r\n\r\nI am not the original author of this skin, I only updated it so it works again as a custom skin for League of Legends.\r\nThe original authors are **Zuma & RusselZ**. You can find them here: [RusselZ](https://www.youtube.com/channel/UCbnlXm-aeLFCsw1D5X5lpVA)\r\n\r\nIf the original author wants this skin to be taken down, I will take it down again.\r\nYou can contact me here: Victorious#9216\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/ee74dacb-c367-479e-9390-2a54fa16ce47\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/youmu-konpaku-master-yi/thumb.webp?v=d147d6a5",
+	"file": {
+		"version": 1,
+		"asset": "youmu-konpaku-master-yi-v1.fantome",
+		"size": 3593910,
+		"sha256": "eff8900ddd5f74ec0513a626087462ca3bb4d2a41227a3936c755c0dcd7605ed"
+	},
+	"chromas": []
+}

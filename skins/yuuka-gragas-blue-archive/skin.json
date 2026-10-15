@@ -1,0 +1,25 @@
+{
+	"id": "yuuka-gragas-blue-archive",
+	"name": "Yuuka Gragas (Blue Archive)",
+	"champion": 79,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "This person is lazy and wish to not write anything even in his own mods\n\nBut do tell him when this mod is broken\n\nOr any other mod in that regards.\n\n\n\n![https://media.discordapp.net/attachments/1144209658945486981/1389685365371310210/Screenshot\\_20250702\\_021241\\_Wix.jpg?ex=686584da\\&is=6864335a\\&hm=a9884bc290f4c1dee58bcb9fc41d15260d9f68ffae843864f411d2aad120a0d3&=\\&format=webp\\&width=143\\&height=697](https://media.discordapp.net/attachments/1144209658945486981/1389685365371310210/Screenshot_20250702_021241_Wix.jpg?ex=686584da\\&is=6864335a\\&hm=a9884bc290f4c1dee58bcb9fc41d15260d9f68ffae843864f411d2aad120a0d3&=\\&format=webp\\&width=143\\&height=697 \"a\")\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/0c6754ac-2999-43e2-bbf0-8f102c608ad4\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuuka-gragas-blue-archive/thumb.webp?v=031de731",
+	"file": {
+		"version": 1,
+		"asset": "yuuka-gragas-blue-archive-v1.fantome",
+		"size": 3711625,
+		"sha256": "bec6dee57cb93136725953d1c9bc8c4604cf091e6d26eb35e1876c014dddebd6"
+	},
+	"chromas": []
+}

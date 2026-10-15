@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T15:01:27.640Z",
+	"generatedAt": "2026-10-15T15:04:36.628Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -34954,6 +34954,243 @@
 				"asset": "yorick-yorickaiser-v1.fantome",
 				"size": 25057237,
 				"sha256": "ea85cb469f11acd182093375853cd309ebe14352687cc63b3843f112253b9832"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yoru-shaco",
+			"name": "Yoru Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yoru-shaco/thumb.webp?v=225165ad",
+			"file": {
+				"version": 1,
+				"asset": "yoru-shaco-v1.fantome",
+				"size": 8224598,
+				"sha256": "cdb961fe4480320fe40f2255f286962f7bf32b9218f88a9fbd5406ba517e6335"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yoshikage-kira-gangplank-not-finished",
+			"name": "Yoshikage Kira Gangplank (Not Finished)",
+			"champion": 41,
+			"base": 0,
+			"creator": "jioubin",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yoshikage-kira-gangplank-not-finished/thumb.webp?v=e77f2c28",
+			"file": {
+				"version": 1,
+				"asset": "yoshikage-kira-gangplank-not-finished-v1.fantome",
+				"size": 28377794,
+				"sha256": "7877f402f58c845c0844f0e709baeb9288a12cccc103458e5757a52a8e37800c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yoshino-fiora",
+			"name": "Yoshino Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yoshino-fiora/thumb.webp?v=b232479f",
+			"file": {
+				"version": 1,
+				"asset": "yoshino-fiora-v1.fantome",
+				"size": 4853529,
+				"sha256": "c6d180ff23ec30f23bede8ddbadeca6b0744b2d60ba3c7116913db56bb32c30d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yotohime-yasuo",
+			"name": "Yotohime Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yotohime-yasuo/thumb.webp?v=e4c848a9",
+			"file": {
+				"version": 1,
+				"asset": "yotohime-yasuo-v1.fantome",
+				"size": 33520226,
+				"sha256": "d11f80addb4e6821b233057a93472dd95b31c6839791b53d64b430a9c3436af9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "youmu-konpaku-master-yi",
+			"name": "Youmu Konpaku Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/youmu-konpaku-master-yi/thumb.webp?v=d147d6a5",
+			"file": {
+				"version": 1,
+				"asset": "youmu-konpaku-master-yi-v1.fantome",
+				"size": 3593910,
+				"sha256": "eff8900ddd5f74ec0513a626087462ca3bb4d2a41227a3936c755c0dcd7605ed"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yunara-theme-on-ult",
+			"name": "Yunara theme on ult",
+			"champion": 804,
+			"base": 1,
+			"creator": "aropatnik",
+			"parts": [
+				"sounds"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yunara-theme-on-ult/thumb.webp?v=a1e78506",
+			"file": {
+				"version": 1,
+				"asset": "yunara-theme-on-ult-v1.fantome",
+				"size": 4926108,
+				"sha256": "a05a534b1196c9353e997408614d745b5b8a9e6a4be8ba487e7ea8502990759e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuuka-gragas-blue-archive",
+			"name": "Yuuka Gragas (Blue Archive)",
+			"champion": 79,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuuka-gragas-blue-archive/thumb.webp?v=031de731",
+			"file": {
+				"version": 1,
+				"asset": "yuuka-gragas-blue-archive-v1.fantome",
+				"size": 3711625,
+				"sha256": "bec6dee57cb93136725953d1c9bc8c4604cf091e6d26eb35e1876c014dddebd6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-ambessa",
+			"name": "Yuumi Ambessa",
+			"champion": 799,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-ambessa/thumb.webp?v=4668b7fe",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-ambessa-v1.fantome",
+				"size": 896027,
+				"sha256": "db6d85759557513eb068e34ae2ec858230b9fca2cf62f59840e33a0894406b26"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-ashe",
+			"name": "Yuumi Ashe",
+			"champion": 22,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-ashe/thumb.webp?v=65d764aa",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-ashe-v1.fantome",
+				"size": 637742,
+				"sha256": "9c9ecb472ae6dd1cf0612222d5a8cb56820d4ced6c928ff0cb334e112776899e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-brand",
+			"name": "Yuumi Brand",
+			"champion": 63,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-brand/thumb.webp?v=f9d8ed2c",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-brand-v1.fantome",
+				"size": 281873,
+				"sha256": "a22cfb84574bc8b77de5a4ea1ffaa8744dcf51f62ecd29aee04f26d9e0e392f4"
 			},
 			"chromas": []
 		},
