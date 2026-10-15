@@ -1,0 +1,26 @@
+{
+	"id": "hololive-gawr-gura-nidalee",
+	"name": "Hololive Gawr Gura Nidalee",
+	"champion": 76,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Nidalee\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n* Description: Cursed feet.\n\n### SPECIFICATIONS\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified animations\n* New voiceover\n\n### CREDITS\n\n* The Gawr Gura 3D moidel in this mod is from [https://fantia.jp/posts/1638013](https://fantia.jp/posts/1638013)\n* Loadscreen art by: [https://twitter.com/hasewo0706/status/1330014788605263873?s=20\\&t=DO971t01Tpm10r6KjjFDfA](https://twitter.com/hasewo0706/status/1330014788605263873?s=20\\&t=DO971t01Tpm10r6KjjFDfA)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/5fb464c6-ea61-4cc0-836b-b31f4c7fa6db\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-gawr-gura-nidalee/thumb.webp?v=372a12c8",
+	"file": {
+		"version": 1,
+		"asset": "hololive-gawr-gura-nidalee-v1.fantome",
+		"size": 9276392,
+		"sha256": "05a28b700f455bb78f97a19efa839964bca76adeb80b314f6a118451294b0ca7"
+	},
+	"chromas": []
+}

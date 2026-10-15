@@ -1,0 +1,24 @@
+{
+	"id": "hololive-gigi-murin-vi",
+	"name": "Hololive Gigi Murin Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Vi\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.0\n* Description:「え？でも面白かったじゃん！怒らないでよ！」 &#x20;\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Gigi Murin 3d model in this mod is free download at: [https://x.com/morandblend/status/1875823240062627991](https://x.com/morandblend/status/1875823240062627991)\n* Loading screen art by : [https://youtu.be/ilLEj-SCCn8?si=vIlB42VOdrwfrk0F](https://youtu.be/ilLEj-SCCn8?si=vIlB42VOdrwfrk0F)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/32a92808-bdba-46d9-be5f-554d7d65e7ac\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-gigi-murin-vi/thumb.webp?v=f6ea1912",
+	"file": {
+		"version": 1,
+		"asset": "hololive-gigi-murin-vi-v1.fantome",
+		"size": 8940748,
+		"sha256": "66af84eb7572918409cd22545e4db5289ad2f3d47d1d315f1364c4e5a18452a4"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "hololive-hakos-baelz-twisted-fate",
+	"name": "Hololive Hakos Baelz Twisted Fate",
+	"champion": 4,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Twisted Fate\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n\n### SPECIFICATIONSNew model and texture****&#x20;\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Hakos Baelz 3D moidel in this mod is from (https://3d.nicovideo.jp/works/td86819)\n* Loadscreen art by: ( [https://x.com/MikaPikaZo/status/1429600270594416643?s=20)](https://x.com/MikaPikaZo/status/1429600270594416643?s=20\\))\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/eec9a649-e5bc-4b97-b99e-2fe01dd0080b\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-hakos-baelz-twisted-fate/thumb.webp?v=4b3cae3d",
+	"file": {
+		"version": 1,
+		"asset": "hololive-hakos-baelz-twisted-fate-v1.fantome",
+		"size": 5873371,
+		"sha256": "550c3e63dcd74ddc53bf4c6dfa898acd0e50c7141bc6f4b0be8641a86ba14e3e"
+	},
+	"chromas": []
+}

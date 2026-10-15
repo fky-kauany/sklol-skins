@@ -1,0 +1,24 @@
+{
+	"id": "hololive-hakui-koyori-renata-glasc",
+	"name": "Hololive Hakui Koyori Renata Glasc",
+	"champion": 888,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Renata Glasc\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.3\n\n### SPECIFICATIONS\n\n* New model and texture\\*\\*\\*\\*&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Hakui Koyori 3D model in this mod is from : ( [https://fantia.jp/posts/1289878](https://fantia.jp/posts/1289878) )\n* Loadscreen art from : ( [https://twitter.com/HinataN\\_krnk/status/1525771958943895553?s=20\\&t=9AokS5AoR3xTv-qqq6omqw](https://twitter.com/HinataN_krnk/status/1525771958943895553?s=20\\&t=9AokS5AoR3xTv-qqq6omqw) )\n* art from : ( [https://wall.alphacoders.com/big.php?i=1251991](https://wall.alphacoders.com/big.php?i=1251991)  )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/305a3b63-63e7-4bd0-a5f3-f2ef291c47ff\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-hakui-koyori-renata-glasc/thumb.webp?v=116d58f2",
+	"file": {
+		"version": 1,
+		"asset": "hololive-hakui-koyori-renata-glasc-v1.fantome",
+		"size": 15484811,
+		"sha256": "85e989435901f595eacd02e0875af8940e21ff6c7d9be8b3bfd3ec726936d382"
+	},
+	"chromas": []
+}

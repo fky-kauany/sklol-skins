@@ -1,0 +1,26 @@
+{
+	"id": "hololive-gawr-gura-fizz",
+	"name": "Hololive Gawr Gura Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Fizz\n* Modified skin: Default\n* Author: tarngaina+PoonNotaniShisui\n* Skin Version: 1.1\n* Description: Cursed feet.\n\n### SPECIFICATIONS\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified animations\n* New voiceover\n\n### CREDITS\n\n* The Gawr Gura 3d model in this mod is from: [https://sketchfab.com/3d-models/gawr-gura-casual-outfit-857aa07505364ae891d402ed052da2e6](https://sketchfab.com/3d-models/gawr-gura-casual-outfit-857aa07505364ae891d402ed052da2e6)\n* Loadscreen art by: [https://www.pixiv.net/en/users/3036679](https://www.pixiv.net/en/users/3036679)\n* Huge thanks to Kingshound for let me borrow Smol Gura Fizz assets.\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Gawr Gura Fizz.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/b519a645-7d00-4ec6-b3e5-23cf6bcbc22b\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-gawr-gura-fizz/thumb.webp?v=3f3e71b3",
+	"file": {
+		"version": 1,
+		"asset": "hololive-gawr-gura-fizz-v1.fantome",
+		"size": 7877446,
+		"sha256": "e481468b954c99dc4643cd94d65ef60bf937158167ba38abd0dbfeee4d145bcf"
+	},
+	"chromas": []
+}

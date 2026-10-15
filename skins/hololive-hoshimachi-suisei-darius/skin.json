@@ -1,0 +1,26 @@
+{
+	"id": "hololive-hoshimachi-suisei-darius",
+	"name": "Hololive Hoshimachi Suisei Darius",
+	"champion": 122,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Darius\n* Modified skin: Default\n* Author: tarngaina + PoonNotaniShisui\n* Skin Version: 1.4\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* Modified animations\n* New voiceover\n\n### CREDITS\n\n* The Hoshimachi Suisei 3d model in this mod is created by TararaTarako.\n* Loadingscreen art by Heckler乄Kai: [https://www.pixiv.net/en/users/2298143](https://www.pixiv.net/en/users/2298143)\n* Huge thanks to GuiSai#7920 for helping me alot.\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Hoshimachi Suisei Darius.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/a76a5696-97a4-4a66-a980-02716f845381\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-hoshimachi-suisei-darius/thumb.webp?v=2bc2dda7",
+	"file": {
+		"version": 1,
+		"asset": "hololive-hoshimachi-suisei-darius-v1.fantome",
+		"size": 8839243,
+		"sha256": "b8622bd165bef47be822adf7a5836ab61c0a3ce4374d9ceeb8c2cac0a36fbd07"
+	},
+	"chromas": []
+}

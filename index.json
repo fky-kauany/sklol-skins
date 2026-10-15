@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:11:44.970Z",
+	"generatedAt": "2026-10-15T10:14:50.882Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -13953,6 +13953,255 @@
 				"asset": "hololive-elizabeth-rose-bloodflame-garen-v1.fantome",
 				"size": 6975496,
 				"sha256": "420364fbc711e13c1defad54f5ecbab8fd2597420f13fca601baa8bbdbefffa9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-gawr-gura-fizz",
+			"name": "Hololive Gawr Gura Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-gawr-gura-fizz/thumb.webp?v=3f3e71b3",
+			"file": {
+				"version": 1,
+				"asset": "hololive-gawr-gura-fizz-v1.fantome",
+				"size": 7877446,
+				"sha256": "e481468b954c99dc4643cd94d65ef60bf937158167ba38abd0dbfeee4d145bcf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-gawr-gura-nidalee",
+			"name": "Hololive Gawr Gura Nidalee",
+			"champion": 76,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-gawr-gura-nidalee/thumb.webp?v=372a12c8",
+			"file": {
+				"version": 1,
+				"asset": "hololive-gawr-gura-nidalee-v1.fantome",
+				"size": 9276392,
+				"sha256": "05a28b700f455bb78f97a19efa839964bca76adeb80b314f6a118451294b0ca7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-gigi-murin-vi",
+			"name": "Hololive Gigi Murin Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-gigi-murin-vi/thumb.webp?v=f6ea1912",
+			"file": {
+				"version": 1,
+				"asset": "hololive-gigi-murin-vi-v1.fantome",
+				"size": 8940748,
+				"sha256": "66af84eb7572918409cd22545e4db5289ad2f3d47d1d315f1364c4e5a18452a4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-hakos-baelz-twisted-fate",
+			"name": "Hololive Hakos Baelz Twisted Fate",
+			"champion": 4,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-hakos-baelz-twisted-fate/thumb.webp?v=4b3cae3d",
+			"file": {
+				"version": 1,
+				"asset": "hololive-hakos-baelz-twisted-fate-v1.fantome",
+				"size": 5873371,
+				"sha256": "550c3e63dcd74ddc53bf4c6dfa898acd0e50c7141bc6f4b0be8641a86ba14e3e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-hakui-koyori-renata-glasc",
+			"name": "Hololive Hakui Koyori Renata Glasc",
+			"champion": 888,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-hakui-koyori-renata-glasc/thumb.webp?v=116d58f2",
+			"file": {
+				"version": 1,
+				"asset": "hololive-hakui-koyori-renata-glasc-v1.fantome",
+				"size": 15484811,
+				"sha256": "85e989435901f595eacd02e0875af8940e21ff6c7d9be8b3bfd3ec726936d382"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-headpats-ouro-kronii-zilean",
+			"name": "Hololive Headpats Ouro Kronii Zilean",
+			"champion": 26,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-headpats-ouro-kronii-zilean/thumb.webp?v=6731a603",
+			"file": {
+				"version": 1,
+				"asset": "hololive-headpats-ouro-kronii-zilean-v1.fantome",
+				"size": 3612874,
+				"sha256": "0755405be3fc92bbfd20fd35fb4155704f94a1935bc872dfec2dfacbf97ca3f3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-hoshimachi-suisei-alistar",
+			"name": "Hololive Hoshimachi Suisei Alistar",
+			"champion": 12,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-hoshimachi-suisei-alistar/thumb.webp?v=5a154bf5",
+			"file": {
+				"version": 1,
+				"asset": "hololive-hoshimachi-suisei-alistar-v1.fantome",
+				"size": 5040816,
+				"sha256": "612d3b002664066a95fbdf12bd4e125f77cbf758269b448d7d18e94d92ea77ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-hoshimachi-suisei-darius",
+			"name": "Hololive Hoshimachi Suisei Darius",
+			"champion": 122,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-hoshimachi-suisei-darius/thumb.webp?v=2bc2dda7",
+			"file": {
+				"version": 1,
+				"asset": "hololive-hoshimachi-suisei-darius-v1.fantome",
+				"size": 8839243,
+				"sha256": "b8622bd165bef47be822adf7a5836ab61c0a3ce4374d9ceeb8c2cac0a36fbd07"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-hoshimachi-suisei-diana",
+			"name": "Hololive Hoshimachi Suisei Diana",
+			"champion": 131,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-hoshimachi-suisei-diana/thumb.webp?v=98efebbe",
+			"file": {
+				"version": 1,
+				"asset": "hololive-hoshimachi-suisei-diana-v1.fantome",
+				"size": 8591998,
+				"sha256": "7127c4b1daaecbff7c795040aab5a9c980786150e8f9081521c4689438e58a88"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-hoshimachi-suisei-olaf",
+			"name": "Hololive Hoshimachi Suisei Olaf",
+			"champion": 2,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-hoshimachi-suisei-olaf/thumb.webp?v=80276524",
+			"file": {
+				"version": 1,
+				"asset": "hololive-hoshimachi-suisei-olaf-v1.fantome",
+				"size": 6204104,
+				"sha256": "fe6786ee881fae772798ce66c389ca5bc2e30730975085c132928b5971039697"
 			},
 			"chromas": []
 		},
