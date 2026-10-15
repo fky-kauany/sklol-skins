@@ -1,0 +1,23 @@
+{
+	"id": "femme-fatale-soraka",
+	"name": "Femme Fatale Soraka",
+	"champion": 16,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Soraka Skin.\r\n\r\nAffects: Model, Textures\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Soraka Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/d598d156-bd2d-4852-b733-7cdacd7eaad8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/femme-fatale-soraka/thumb.webp?v=eb0c2126",
+	"file": {
+		"version": 1,
+		"asset": "femme-fatale-soraka-v1.fantome",
+		"size": 2145891,
+		"sha256": "989b1ae7bf1a19e05ea25d47473055ebf01873f25648f352fc5077429f523405"
+	},
+	"chromas": []
+}

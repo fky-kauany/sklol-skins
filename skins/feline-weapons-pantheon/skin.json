@@ -1,0 +1,24 @@
+{
+	"id": "feline-weapons-pantheon",
+	"name": "Feline Weapons Pantheon",
+	"champion": 80,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Pantheon**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/bcad3e43-057d-418a-91e4-e1064dda203a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/feline-weapons-pantheon/thumb.webp?v=b33be4f2",
+	"file": {
+		"version": 1,
+		"asset": "feline-weapons-pantheon-v1.fantome",
+		"size": 1190177,
+		"sha256": "21ccdbfe9b5c617e3cdd752c05ad3bf4e5ba8d3ca833ed2c3d3bec45151660df"
+	},
+	"chromas": []
+}

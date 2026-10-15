@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:19:02.319Z",
+	"generatedAt": "2026-10-15T09:22:05.262Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -9593,6 +9593,243 @@
 				"asset": "feline-weapons-draven-v1.fantome",
 				"size": 1356794,
 				"sha256": "17cc8e2019d3bd2fea2b469f899211466660307523604d6bf0f7dbe7e8b0c498"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-jax",
+			"name": "Feline Weapons Jax",
+			"champion": 24,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-jax/thumb.webp?v=d9c65727",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-jax-v1.fantome",
+				"size": 692775,
+				"sha256": "9d330a1db3ab9e87ea6282360c6650084abe220eea1b44f8226e57735cf72e02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-kalista",
+			"name": "Feline Weapons Kalista",
+			"champion": 429,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-kalista/thumb.webp?v=a647ad80",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-kalista-v1.fantome",
+				"size": 974397,
+				"sha256": "4ad358089191056e40e2983830de778dbb86cc34875c5ed94ba7c8d87bc66d94"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-master-yi",
+			"name": "Feline Weapons Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-master-yi/thumb.webp?v=bf25f83c",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-master-yi-v1.fantome",
+				"size": 1108987,
+				"sha256": "f8b509266e9002925f16573197a467ab02b5b909716d2d43835da8e3c40db1a3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-pantheon",
+			"name": "Feline Weapons Pantheon",
+			"champion": 80,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-pantheon/thumb.webp?v=b33be4f2",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-pantheon-v1.fantome",
+				"size": 1190177,
+				"sha256": "21ccdbfe9b5c617e3cdd752c05ad3bf4e5ba8d3ca833ed2c3d3bec45151660df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-poppy",
+			"name": "Feline Weapons Poppy",
+			"champion": 78,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-poppy/thumb.webp?v=cccd846c",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-poppy-v1.fantome",
+				"size": 1725281,
+				"sha256": "ae94b14f741ab60d88ed5639c82675c1bf8c1003e59c4bc1fc3ae6a2d729a808"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feline-weapons-xin-zhao",
+			"name": "Feline Weapons Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feline-weapons-xin-zhao/thumb.webp?v=9865e04f",
+			"file": {
+				"version": 1,
+				"asset": "feline-weapons-xin-zhao-v1.fantome",
+				"size": 1040352,
+				"sha256": "bb453047b96644dbeb2a857651156fdafba163f16eff44470cd1341597684860"
+			},
+			"chromas": []
+		},
+		{
+			"id": "femme-fatale-soraka",
+			"name": "Femme Fatale Soraka",
+			"champion": 16,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/femme-fatale-soraka/thumb.webp?v=eb0c2126",
+			"file": {
+				"version": 1,
+				"asset": "femme-fatale-soraka-v1.fantome",
+				"size": 2145891,
+				"sha256": "989b1ae7bf1a19e05ea25d47473055ebf01873f25648f352fc5077429f523405"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fenrir-smite-2-warwick",
+			"name": "Fenrir (Smite 2) Warwick",
+			"champion": 19,
+			"base": 0,
+			"creator": "viralcyclopes",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fenrir-smite-2-warwick/thumb.webp?v=27d9ca67",
+			"file": {
+				"version": 1,
+				"asset": "fenrir-smite-2-warwick-v1.fantome",
+				"size": 11181718,
+				"sha256": "a3b9c679fe75f7dd79faa8aebfc901a0b9fd74ac71aded8a5bc787f1261c3c93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "feviknight-bard",
+			"name": "Feviknight Bard",
+			"champion": 432,
+			"base": 0,
+			"creator": "maygik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/feviknight-bard/thumb.webp?v=1ce5f114",
+			"file": {
+				"version": 1,
+				"asset": "feviknight-bard-v1.fantome",
+				"size": 2669829,
+				"sha256": "c406b2dbc8461c521cc503b42fd7a33a09a4b4f06cb77e5c18c700202d06df27"
+			},
+			"chromas": []
+		},
+		{
+			"id": "fiddlesticks-fiddleyuumi",
+			"name": "Fiddleyuumi",
+			"champion": 9,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/fiddlesticks-fiddleyuumi/thumb.webp?v=6b354933",
+			"file": {
+				"version": 1,
+				"asset": "fiddlesticks-fiddleyuumi-v1.fantome",
+				"size": 2686209,
+				"sha256": "0efadabc4ab3544767735349e0db54471720dd197f254356ab3a39a5c081a5ad"
 			},
 			"chromas": []
 		},

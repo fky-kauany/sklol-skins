@@ -1,0 +1,24 @@
+{
+	"id": "fiddlesticks-fiddleyuumi",
+	"name": "Fiddleyuumi",
+	"champion": 9,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Fiddleyuumi by fbs&#x20;\n\n\n\n***\n\n&#x20;\n\nReplaces default fiddlesticks.\n\n\n\nVA by Fabi\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/4f256eb6-eeea-4466-bf69-b1ee63bd1829\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fiddlesticks-fiddleyuumi/thumb.webp?v=6b354933",
+	"file": {
+		"version": 1,
+		"asset": "fiddlesticks-fiddleyuumi-v1.fantome",
+		"size": 2686209,
+		"sha256": "0efadabc4ab3544767735349e0db54471720dd197f254356ab3a39a5c081a5ad"
+	},
+	"chromas": []
+}

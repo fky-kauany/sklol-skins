@@ -1,0 +1,26 @@
+{
+	"id": "fenrir-smite-2-warwick",
+	"name": "Fenrir (Smite 2) Warwick",
+	"champion": 19,
+	"base": 0,
+	"creator": "viralcyclopes",
+	"description": "This skin changes Warwick's default skin into the Fenrir model from Smite 2!\n\n---\n\n**Created by** [ViraL Cyclopes](https://runeforge.dev/users/ViraLCyclopes)\n\n**Original:** https://runeforge.dev/mods/6b642ef6-3038-4886-965a-34398cc93619\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/fenrir-smite-2-warwick/thumb.webp?v=27d9ca67",
+	"file": {
+		"version": 1,
+		"asset": "fenrir-smite-2-warwick-v1.fantome",
+		"size": 11181718,
+		"sha256": "a3b9c679fe75f7dd79faa8aebfc901a0b9fd74ac71aded8a5bc787f1261c3c93"
+	},
+	"chromas": []
+}

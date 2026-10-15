@@ -1,0 +1,24 @@
+{
+	"id": "feviknight-bard",
+	"name": "Feviknight Bard",
+	"champion": 432,
+	"base": 0,
+	"creator": "maygik",
+	"description": "BARDO\n\n---\n\n**Created by** [Maygik](https://runeforge.dev/users/Maygik)\n\n**Original:** https://runeforge.dev/mods/41896aac-970e-407f-8d1b-03101e00b771\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/feviknight-bard/thumb.webp?v=1ce5f114",
+	"file": {
+		"version": 1,
+		"asset": "feviknight-bard-v1.fantome",
+		"size": 2669829,
+		"sha256": "c406b2dbc8461c521cc503b42fd7a33a09a4b4f06cb77e5c18c700202d06df27"
+	},
+	"chromas": []
+}
