@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:21:07.587Z",
+	"generatedAt": "2026-10-15T10:24:13.350Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -14688,6 +14688,250 @@
 				"asset": "hololive-minato-aqua-yone-v1.fantome",
 				"size": 14200738,
 				"sha256": "149134df5ccb64009d441b87e310105f7684d403787b22d2d23cbda61591d0e7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-minato-aqua-zeri",
+			"name": "Hololive Minato Aqua Zeri",
+			"champion": 221,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-minato-aqua-zeri/thumb.webp?v=aaa73718",
+			"file": {
+				"version": 1,
+				"asset": "hololive-minato-aqua-zeri-v1.fantome",
+				"size": 12345067,
+				"sha256": "9ac1bedce89e459ee19dbd242ca37842fcbd874dce3d88497edf2cc6efa4ac2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-mococo-abyssgard-rengar",
+			"name": "Hololive Mococo Abyssgard Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-mococo-abyssgard-rengar/thumb.webp?v=8b7471e5",
+			"file": {
+				"version": 1,
+				"asset": "hololive-mococo-abyssgard-rengar-v1.fantome",
+				"size": 6382819,
+				"sha256": "9d57400f329f6be6e5c93544ff9e4f4e95154652729a8899a7f7d3d1b204ac90"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-momosuzu-nene-quinn",
+			"name": "Hololive Momosuzu Nene Quinn",
+			"champion": 133,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-momosuzu-nene-quinn/thumb.webp?v=6ff9b407",
+			"file": {
+				"version": 1,
+				"asset": "hololive-momosuzu-nene-quinn-v1.fantome",
+				"size": 5549900,
+				"sha256": "138d98e021392bcb5e6f9b1cdfbd8d7028fd5b50069390398a25aa49ab91c606"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-moona-hoshinova-syndra",
+			"name": "Hololive Moona Hoshinova Syndra",
+			"champion": 134,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-moona-hoshinova-syndra/thumb.webp?v=f1df3a00",
+			"file": {
+				"version": 1,
+				"asset": "hololive-moona-hoshinova-syndra-v1.fantome",
+				"size": 5019665,
+				"sha256": "02e574e20d682cb773d957013ce7d6abcc2768000534fc9832b55379acce83b1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-mori-calliope-kayn",
+			"name": "Hololive Mori Calliope Kayn",
+			"champion": 141,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-mori-calliope-kayn/thumb.webp?v=f71c4f15",
+			"file": {
+				"version": 1,
+				"asset": "hololive-mori-calliope-kayn-v1.fantome",
+				"size": 21490759,
+				"sha256": "cb345d989870cc8f05ba454835332bde117afe204100ab11a59ed83dd50697fe"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-murasaki-shion-galio",
+			"name": "Hololive Murasaki Shion Galio",
+			"champion": 3,
+			"base": 4,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-murasaki-shion-galio/thumb.webp?v=d8089625",
+			"file": {
+				"version": 1,
+				"asset": "hololive-murasaki-shion-galio-v1.fantome",
+				"size": 19329346,
+				"sha256": "082ae3713cbe743bd0bdbc46d2401034ac2e22919be63431245dc37ad808a27a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-murasaki-shion-lux",
+			"name": "Hololive Murasaki Shion Lux",
+			"champion": 99,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-murasaki-shion-lux/thumb.webp?v=e1739590",
+			"file": {
+				"version": 1,
+				"asset": "hololive-murasaki-shion-lux-v1.fantome",
+				"size": 8129786,
+				"sha256": "c903e5845f6ff34f4ca16b106cb9d185056a5fd708d14717e9af07e12073bf70"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-murasaki-shion-veigar",
+			"name": "Hololive Murasaki Shion Veigar",
+			"champion": 45,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-murasaki-shion-veigar/thumb.webp?v=a7f5b8d6",
+			"file": {
+				"version": 1,
+				"asset": "hololive-murasaki-shion-veigar-v1.fantome",
+				"size": 4933517,
+				"sha256": "bae8631fdd8be5b83ad2116965c58158a5080625825df312ecd89dc6e8f551c9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-nakiri-ayame-yone",
+			"name": "Hololive Nakiri Ayame Yone",
+			"champion": 777,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-nakiri-ayame-yone/thumb.webp?v=7f10fbbd",
+			"file": {
+				"version": 1,
+				"asset": "hololive-nakiri-ayame-yone-v1.fantome",
+				"size": 8337065,
+				"sha256": "90a87956e27d548fb6e82920566b4f3de69a12a17d3b950ac2c97e81818d6064"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hololive-nakiri-ayame-yone-casual-outfit",
+			"name": "Hololive Nakiri Ayame Yone - Casual Outfit",
+			"champion": 777,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hololive-nakiri-ayame-yone-casual-outfit/thumb.webp?v=a5467624",
+			"file": {
+				"version": 1,
+				"asset": "hololive-nakiri-ayame-yone-casual-outfit-v1.fantome",
+				"size": 11597543,
+				"sha256": "6b37a34e4ec0d0eb1323d7468eb9e593dd6edb79b828f829726ab6e718c700a8"
 			},
 			"chromas": []
 		},

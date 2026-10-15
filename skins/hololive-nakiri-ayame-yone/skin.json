@@ -1,0 +1,24 @@
+{
+	"id": "hololive-nakiri-ayame-yone",
+	"name": "Hololive Nakiri Ayame Yone",
+	"champion": 777,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Yone\n* Modified skin: Default&#x20;\n* Author: tarngaina+PoonNotaniShisui\n* Skin Version: 2.7\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* New voiceover\n\n### CREDITS\n\n* Nakiri Ayame 3d model in this mod is from: yuki0402\n  Nakiri Ayame Casual outfit 3d model in this mod is from: TararaTarako\n* Loadscreen art by: [https://twitter.com/torinoaqua](https://twitter.com/torinoaqua)\n  Casual outfit loadscreen art by: hitokuchii\n* A huge thanks to GuiSai#7920 for help me alot.\n* OutData Update – Original Author : **tarngaina** . so…..**rip**\n* I took over the continuous update the Nakiri Ayame Yone.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/6efcfe9a-c6ea-4195-a239-8981fca8209f\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-nakiri-ayame-yone/thumb.webp?v=7f10fbbd",
+	"file": {
+		"version": 1,
+		"asset": "hololive-nakiri-ayame-yone-v1.fantome",
+		"size": 8337065,
+		"sha256": "90a87956e27d548fb6e82920566b4f3de69a12a17d3b950ac2c97e81818d6064"
+	},
+	"chromas": []
+}

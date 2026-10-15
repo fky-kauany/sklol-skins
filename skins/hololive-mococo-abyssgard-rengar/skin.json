@@ -1,0 +1,26 @@
+{
+	"id": "hololive-mococo-abyssgard-rengar",
+	"name": "Hololive Mococo Abyssgard Rengar",
+	"champion": 107,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Rengar\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.0\n* Description:「遊びの時間だー！みんな、準備は出来てるよね！」\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* Opening Lore Video: FUWAMOCO [https://www.youtube.com/live/Kttt7pb5o6I?si=nlA7cA_Iy5U5P2ll&t=120](https://www.youtube.com/live/Kttt7pb5o6I?si=nlA7cA_Iy5U5P2ll&t=120)\n* Opening Lore BGM: solfa\n* The Mococo Abyssgard 3d model in this mod is free download at: [https://3d.nicovideo.jp/works/td94450](https://3d.nicovideo.jp/works/td94450)\n* Loading screen art by : [https://www.youtube.com/watch?v=SxRbAEjDS9k](https://www.youtube.com/watch?v=SxRbAEjDS9k)\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/b2b028e0-72ed-45d3-af8c-85fa0516528a\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-mococo-abyssgard-rengar/thumb.webp?v=8b7471e5",
+	"file": {
+		"version": 1,
+		"asset": "hololive-mococo-abyssgard-rengar-v1.fantome",
+		"size": 6382819,
+		"sha256": "9d57400f329f6be6e5c93544ff9e4f4e95154652729a8899a7f7d3d1b204ac90"
+	},
+	"chromas": []
+}

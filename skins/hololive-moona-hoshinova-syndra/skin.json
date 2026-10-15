@@ -1,0 +1,24 @@
+{
+	"id": "hololive-moona-hoshinova-syndra",
+	"name": "Hololive Moona Hoshinova Syndra",
+	"champion": 134,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Syndra\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Mod version: 1.1\n\n### SPECIFICATIONS\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The Moona Hoshinova 3D model in this mod is from ( [https://sketchfab.com/3d-models/moona-hoshinova-ed6bf73318544e489b10ed804d9316dc](https://sketchfab.com/3d-models/moona-hoshinova-ed6bf73318544e489b10ed804d9316dc) )\n* Loadscreen art from : ( [https://youtu.be/stmZAThUl64](https://youtu.be/stmZAThUl64) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/24288504-6aa7-4b17-9e7a-b52708ea5113\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-moona-hoshinova-syndra/thumb.webp?v=f1df3a00",
+	"file": {
+		"version": 1,
+		"asset": "hololive-moona-hoshinova-syndra-v1.fantome",
+		"size": 5019665,
+		"sha256": "02e574e20d682cb773d957013ce7d6abcc2768000534fc9832b55379acce83b1"
+	},
+	"chromas": []
+}

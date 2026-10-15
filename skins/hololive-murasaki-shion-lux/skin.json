@@ -1,0 +1,24 @@
+{
+	"id": "hololive-murasaki-shion-lux",
+	"name": "Hololive Murasaki Shion Lux",
+	"champion": 99,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Lux\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.1\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* Modified particles\n* New voiceover\n\n### CREDITS\n\n* The Murasaki Shion 3D model in this mod is from ( [https://3d.nicovideo.jp/works/td63632](https://3d.nicovideo.jp/works/td63632) )\n* Loadscreen art by: ( [https://twitter.com/matchapain/status/1522607613296648192?s=20\\&t=oIyR0\\_W5FOShww4rKdV2yA](https://twitter.com/matchapain/status/1522607613296648192?s=20\\&t=oIyR0_W5FOShww4rKdV2yA) )\n* Huge thanks to tarngaina for teach me problem.\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/39f3663e-2948-4a45-a578-ea9ce4517205\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-murasaki-shion-lux/thumb.webp?v=e1739590",
+	"file": {
+		"version": 1,
+		"asset": "hololive-murasaki-shion-lux-v1.fantome",
+		"size": 8129786,
+		"sha256": "c903e5845f6ff34f4ca16b106cb9d185056a5fd708d14717e9af07e12073bf70"
+	},
+	"chromas": []
+}

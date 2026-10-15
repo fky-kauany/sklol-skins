@@ -1,0 +1,24 @@
+{
+	"id": "hololive-momosuzu-nene-quinn",
+	"name": "Hololive Momosuzu Nene Quinn",
+	"champion": 133,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\r\n\r\n* Champion: Quinn\r\n* Modified skin: Default\r\n* Author: PoonNotaniShisui\r\n* Mod version: 1.5\r\n\r\n### SPECIFICATIONS\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* New voiceover\r\n* Modified particles\r\n\r\n### CREDITS\r\n\r\n* The Momosuzu Nene 3D model in this mod is from : ( [https://3d.nicovideo.jp/works/td78505](https://3d.nicovideo.jp/works/td78505) )\r\n* Loadscreen art from : ( [https://www.pixiv.net/artworks/91294554fbclid=IwAR0F57c173cI8EfF0kZRASB0D2Q-SXg3ryvcuAqk1O8379iT4Y10Mxx2WlU](https://www.pixiv.net/artworks/91294554fbclid=IwAR0F57c173cI8EfF0kZRASB0D2Q-SXg3ryvcuAqk1O8379iT4Y10Mxx2WlU) )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/cee60e85-d596-494b-be5e-884c085031a6\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hololive-momosuzu-nene-quinn/thumb.webp?v=6ff9b407",
+	"file": {
+		"version": 1,
+		"asset": "hololive-momosuzu-nene-quinn-v1.fantome",
+		"size": 5549900,
+		"sha256": "138d98e021392bcb5e6f9b1cdfbd8d7028fd5b50069390398a25aa49ab91c606"
+	},
+	"chromas": []
+}
