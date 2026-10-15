@@ -1,0 +1,24 @@
+{
+	"id": "show-accurate-arcane-brawler-vi",
+	"name": "Show accurate Arcane Brawler Vi",
+	"champion": 254,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview **\n\n** Modified skin:**\nArcane Brawler Vi\n\nSince I wasnt happy with how the Arcane Brawler Legendary skin for Vi looked, I decided to make a custom skin to make her look closer ot her acual appearance in Arcane Season 2.\nI mostly used the preview model of Arcane Chainbreaker Vi in Wild Rift and modified a lot of it to work with the rig of Arcane Brawler.\n\n***\n\nIf you find issues with this skin feel free to contact me on Discord: Snorr_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/dab70c78-1bc5-4d07-a94e-2da7ffef6ae2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/show-accurate-arcane-brawler-vi/thumb.webp?v=b8635b7f",
+	"file": {
+		"version": 1,
+		"asset": "show-accurate-arcane-brawler-vi-v1.fantome",
+		"size": 2355062,
+		"sha256": "9e7f5ac247110fa7af0d69cb6a78e0b41314b2049fbc661f9ac86503c3a4a764"
+	},
+	"chromas": []
+}

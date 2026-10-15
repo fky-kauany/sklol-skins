@@ -1,0 +1,23 @@
+{
+	"id": "shredder-renekton",
+	"name": "Shredder Renekton",
+	"champion": 58,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Renekton\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/186e5453-67f1-4c60-a3a3-b277651fc98e\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shredder-renekton/thumb.webp?v=c657ead0",
+	"file": {
+		"version": 1,
+		"asset": "shredder-renekton-v1.fantome",
+		"size": 7482379,
+		"sha256": "7f1b01f7ce654b1d372c3d7b369a52042edd039bee4e4e58a4b838c8f5f8dbbf"
+	},
+	"chromas": []
+}

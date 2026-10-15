@@ -1,0 +1,23 @@
+{
+	"id": "shockblade-zed-chroma-vfx-not-a-skinhack-you-nee",
+	"name": "Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO",
+	"champion": 238,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK\r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n\r\n### Information\r\n\r\n**Modified champion: Zed**\r\n\r\n**Modified skin: Shockblade Chromas**\r\n\r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK\r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK \r\n# YOU NEED TO OWN AND CHOOSE A CHROMA FOR THIS MOD TO WORK\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/4a423002-4ef4-4a15-9840-1b132b6dc041\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shockblade-zed-chroma-vfx-not-a-skinhack-you-nee/thumb.webp?v=3675d37d",
+	"file": {
+		"version": 1,
+		"asset": "shockblade-zed-chroma-vfx-not-a-skinhack-you-nee-v1.fantome",
+		"size": 17025126,
+		"sha256": "e18225ccd242e3e09b70b31824faf7569f06bc0b40bfb07a845dee358ab89a7a"
+	},
+	"chromas": []
+}

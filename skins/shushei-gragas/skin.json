@@ -1,0 +1,24 @@
+{
+	"id": "shushei-gragas",
+	"name": "Shushei Gragas",
+	"champion": 79,
+	"base": 4,
+	"creator": "cam",
+	"description": "Fnatic Gragas with a water bottle to celebrate the life of Maciej \"**Shushei**\" Ratuszniak, an absolute legend of league pro and a dedicated gragas lover.\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/aa71865d-cd8a-4282-8218-a7b4a0ec9cdc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shushei-gragas/thumb.webp?v=7cbaf0ea",
+	"file": {
+		"version": 1,
+		"asset": "shushei-gragas-v1.fantome",
+		"size": 2262085,
+		"sha256": "1a8a2df23ee5b31a1aef3a4bf6f74f068a9ee29c8f129cb72a0ebafc80c54a39"
+	},
+	"chromas": []
+}

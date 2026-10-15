@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:16:23.824Z",
+	"generatedAt": "2026-10-15T13:19:29.948Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -29137,6 +29137,250 @@
 				"asset": "shamrock-akshan-v1.fantome",
 				"size": 3272557,
 				"sha256": "42ae2ec0a5272f2328d67eb890aefb3392ab1131f81cc728deded6be4abd7506"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shego-katarina-kim-possible",
+			"name": "Shego Katarina (Kim Possible)",
+			"champion": 55,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shego-katarina-kim-possible/thumb.webp?v=3a3342bc",
+			"file": {
+				"version": 1,
+				"asset": "shego-katarina-kim-possible-v1.fantome",
+				"size": 19348393,
+				"sha256": "ae3f7d2a60a6931be80ccaaf653b0a1c37596cdc764fc83f8e925796b25167a2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shia-mel-stella-sora",
+			"name": "Shia Mel (Stella Sora)",
+			"champion": 800,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shia-mel-stella-sora/thumb.webp?v=63aa790e",
+			"file": {
+				"version": 1,
+				"asset": "shia-mel-stella-sora-v1.fantome",
+				"size": 19557012,
+				"sha256": "43ebf6aedcec715e71c6bccffc46b29bae05e03c64597c5d161964e351c09045"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shockblade-talon",
+			"name": "Shockblade Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shockblade-talon/thumb.webp?v=c1c8c7cf",
+			"file": {
+				"version": 1,
+				"asset": "shockblade-talon-v1.fantome",
+				"size": 2348191,
+				"sha256": "5e2ba3529a7cfe91b3a68a5c292ff1148e8dea7626d4aae98cb6e9e64b07aee3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shockblade-zed-chroma-vfx-not-a-skinhack-you-nee",
+			"name": "Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO",
+			"champion": 238,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shockblade-zed-chroma-vfx-not-a-skinhack-you-nee/thumb.webp?v=3675d37d",
+			"file": {
+				"version": 1,
+				"asset": "shockblade-zed-chroma-vfx-not-a-skinhack-you-nee-v1.fantome",
+				"size": 17025126,
+				"sha256": "e18225ccd242e3e09b70b31824faf7569f06bc0b40bfb07a845dee358ab89a7a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "show-accurate-arcane-brawler-vi",
+			"name": "Show accurate Arcane Brawler Vi",
+			"champion": 254,
+			"base": 0,
+			"creator": "snorr",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/show-accurate-arcane-brawler-vi/thumb.webp?v=b8635b7f",
+			"file": {
+				"version": 1,
+				"asset": "show-accurate-arcane-brawler-vi-v1.fantome",
+				"size": 2355062,
+				"sha256": "9e7f5ac247110fa7af0d69cb6a78e0b41314b2049fbc661f9ac86503c3a4a764"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shredder-renekton",
+			"name": "Shredder Renekton",
+			"champion": 58,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shredder-renekton/thumb.webp?v=c657ead0",
+			"file": {
+				"version": 1,
+				"asset": "shredder-renekton-v1.fantome",
+				"size": 7482379,
+				"sha256": "7f1b01f7ce654b1d372c3d7b369a52042edd039bee4e4e58a4b838c8f5f8dbbf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shredder-zed",
+			"name": "Shredder Zed",
+			"champion": 238,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shredder-zed/thumb.webp?v=d799f31c",
+			"file": {
+				"version": 1,
+				"asset": "shredder-zed-v1.fantome",
+				"size": 2462503,
+				"sha256": "54becca4895bcdfb100c6ce0677931f13c14bbf4d2b96dc79def5ded9f6e5a7a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shunny-caitlyn-blue-archive",
+			"name": "Shunny Caitlyn (Blue Archive)",
+			"champion": 51,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shunny-caitlyn-blue-archive/thumb.webp?v=174dc124",
+			"file": {
+				"version": 1,
+				"asset": "shunny-caitlyn-blue-archive-v1.fantome",
+				"size": 6048834,
+				"sha256": "80d452fd0863a8486701feaf62d677cf3644d4dd04084a401bc7ec51b553b59d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shuriman-sylas",
+			"name": "Shuriman Sylas",
+			"champion": 517,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shuriman-sylas/thumb.webp?v=9c99595f",
+			"file": {
+				"version": 1,
+				"asset": "shuriman-sylas-v1.fantome",
+				"size": 12565367,
+				"sha256": "27c1578e4afc09617d794bb09394739748eb9edc097398bfb3be9d263096fadd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "shushei-gragas",
+			"name": "Shushei Gragas",
+			"champion": 79,
+			"base": 4,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/shushei-gragas/thumb.webp?v=7cbaf0ea",
+			"file": {
+				"version": 1,
+				"asset": "shushei-gragas-v1.fantome",
+				"size": 2262085,
+				"sha256": "1a8a2df23ee5b31a1aef3a4bf6f74f068a9ee29c8f129cb72a0ebafc80c54a39"
 			},
 			"chromas": []
 		},

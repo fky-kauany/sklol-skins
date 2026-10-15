@@ -1,0 +1,26 @@
+{
+	"id": "shunny-caitlyn-blue-archive",
+	"name": "Shunny Caitlyn (Blue Archive)",
+	"champion": 51,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "original author: tarngaina\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/e51fda7e-7cd8-4725-8031-337b79d1e030\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shunny-caitlyn-blue-archive/thumb.webp?v=174dc124",
+	"file": {
+		"version": 1,
+		"asset": "shunny-caitlyn-blue-archive-v1.fantome",
+		"size": 6048834,
+		"sha256": "80d452fd0863a8486701feaf62d677cf3644d4dd04084a401bc7ec51b553b59d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "shego-katarina-kim-possible",
+	"name": "Shego Katarina (Kim Possible)",
+	"champion": 55,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\n\nAuthor: matthilobo (Matth Spotlight)\n\nVersion: 1.0\n\nCommissions: https://ko-fi.com/matthspotlight 💛\n\n_________________________________________________________________________________________________\n\nMy Contacts:\n\nInstagram: https://www.instagram.com/matthilobo/\n\nDiscord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/28f554ca-8970-4a68-a185-a671906ce9bf\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/shego-katarina-kim-possible/thumb.webp?v=3a3342bc",
+	"file": {
+		"version": 1,
+		"asset": "shego-katarina-kim-possible-v1.fantome",
+		"size": 19348393,
+		"sha256": "ae3f7d2a60a6931be80ccaaf653b0a1c37596cdc764fc83f8e925796b25167a2"
+	},
+	"chromas": []
+}
