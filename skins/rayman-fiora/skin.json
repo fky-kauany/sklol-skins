@@ -1,0 +1,23 @@
+{
+	"id": "rayman-fiora",
+	"name": "Rayman Fiora",
+	"champion": 114,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Fiora**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\nRayman Model from Rayman Raving Rabbids\n\nRayman Model submitted to the Models Resource by AxuXB, milesthecreator\n[https://www.models-resource.com/pc\\_computer/raymanravingrabbids/model/35335/](https://www.models-resource.com/pc_computer/raymanravingrabbids/model/35335/)\n\nPlunger Model from Rayman Raving Rabbids\n\nPlunger Model submitted to the Models Resource by lanto\\_nia\n\n[https://www.models-resource.com/pc\\_computer/raymanravingrabbids/model/72978/](https://www.models-resource.com/pc_computer/raymanravingrabbids/model/72978/)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b07c69a4-d3b5-4ad5-85cd-99737b38b765\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rayman-fiora/thumb.webp?v=7261e2e0",
+	"file": {
+		"version": 1,
+		"asset": "rayman-fiora-v1.fantome",
+		"size": 87517,
+		"sha256": "4ebca5826f19403d10c76f1b122c4b10108669ad8b43cc04afead0e67b0f0fca"
+	},
+	"chromas": []
+}

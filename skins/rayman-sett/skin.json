@@ -1,0 +1,23 @@
+{
+	"id": "rayman-sett",
+	"name": "Rayman Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Sett**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* New model\n* New textures\n* Supports all texture qualities\n\n## Credits\n\nModel from Rayman Raving Rabbids\n\nModel submitted to the Models Resource by AxuXB, milesthecreator\n[https://www.models-resource.com/pc\\_computer/raymanravingrabbids/model/35335/](https://www.models-resource.com/pc_computer/raymanravingrabbids/model/35335/)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/a093e226-1f13-461e-b074-e76ee3c739c1\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rayman-sett/thumb.webp?v=1b7664fd",
+	"file": {
+		"version": 1,
+		"asset": "rayman-sett-v1.fantome",
+		"size": 149847,
+		"sha256": "aaf8b8090fab5ee197ebfe2592242173cc59cef6f1fa715b91d3cf482129e521"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "ravana-sett",
+	"name": "Ravana Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Ravana skin for Sett. Replaces the Obsidian Dragon Sett skin.\n\n- Custom Model & Textures, VFX, Voiceover and icons (ability icons too).\n- Ensure that this mod is not enabled with other mods that also replaces the other ability icons. Otherwise it will result into different icon. (Same as for VO too)\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/46349586-2c2b-4800-b015-674f7ec0cf24\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ravana-sett/thumb.webp?v=99557591",
+	"file": {
+		"version": 1,
+		"asset": "ravana-sett-v1.fantome",
+		"size": 28708961,
+		"sha256": "6d2314727b1a3f4d9f91998873c075ca5fc6c1bc1c71c521da92d21a0936607e"
+	},
+	"chromas": []
+}

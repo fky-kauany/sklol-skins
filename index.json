@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:47:22.830Z",
+	"generatedAt": "2026-10-15T12:50:33.193Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -622,6 +622,12 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=_wu1ywvc2c8"
 			}
+		},
+		"fris-riven": {
+			"name": "Fris_riven",
+			"avatar": "creators/fris-riven.png?v=07028a36",
+			"bio": "Riven enjoyer making custom skins for myself and sharing them with those who might be interested.",
+			"links": {}
 		},
 		"frog": {
 			"name": "Frog",
@@ -26751,6 +26757,150 @@
 			"chromas": []
 		},
 		{
+			"id": "rat-dance-twitch",
+			"name": "Rat Dance Twitch",
+			"champion": 29,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rat-dance-twitch/thumb.webp?v=236756db",
+			"file": {
+				"version": 1,
+				"asset": "rat-dance-twitch-v1.fantome",
+				"size": 609086,
+				"sha256": "0f850aab935a5375ad89b649d91bd72ab6d9fa7cb3b8480e1a458eb386fff537"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ravana-sett",
+			"name": "Ravana Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ravana-sett/thumb.webp?v=99557591",
+			"file": {
+				"version": 1,
+				"asset": "ravana-sett-v1.fantome",
+				"size": 28708961,
+				"sha256": "6d2314727b1a3f4d9f91998873c075ca5fc6c1bc1c71c521da92d21a0936607e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rave-kassadin",
+			"name": "Rave Kassadin",
+			"champion": 38,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rave-kassadin/thumb.webp?v=9d636efa",
+			"file": {
+				"version": 1,
+				"asset": "rave-kassadin-v1.fantome",
+				"size": 3242355,
+				"sha256": "92c9e9bcf8cd0bef3ab3537784173dcc767537c9513aafab0ac4c59f115c513c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rayman-fiora",
+			"name": "Rayman Fiora",
+			"champion": 114,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rayman-fiora/thumb.webp?v=7261e2e0",
+			"file": {
+				"version": 1,
+				"asset": "rayman-fiora-v1.fantome",
+				"size": 87517,
+				"sha256": "4ebca5826f19403d10c76f1b122c4b10108669ad8b43cc04afead0e67b0f0fca"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rayman-sett",
+			"name": "Rayman Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rayman-sett/thumb.webp?v=1b7664fd",
+			"file": {
+				"version": 1,
+				"asset": "rayman-sett-v1.fantome",
+				"size": 149847,
+				"sha256": "aaf8b8090fab5ee197ebfe2592242173cc59cef6f1fa715b91d3cf482129e521"
+			},
+			"chromas": []
+		},
+		{
+			"id": "real-crimson-elite-riven",
+			"name": "Real Crimson Elite Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "fris-riven",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/real-crimson-elite-riven/thumb.webp?v=8a3e9028",
+			"file": {
+				"version": 1,
+				"asset": "real-crimson-elite-riven-v1.fantome",
+				"size": 337311,
+				"sha256": "9856fb52443a67c6355acf1bcfcb63a99b10c89f1438d0750d17e7819df927d3"
+			},
+			"chromas": []
+		},
+		{
 			"id": "realistic-qiyana",
 			"name": "Realistic Qiyana",
 			"champion": 246,
@@ -26771,6 +26921,101 @@
 				"asset": "realistic-qiyana-v1.fantome",
 				"size": 4310219,
 				"sha256": "bbc975a422aadeeed466198ddbf4aa15cc9db0cd6d55b0a2793c43e589385ed3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "reckoner-riven",
+			"name": "Reckoner Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "vanecessary",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/reckoner-riven/thumb.webp?v=c421644f",
+			"file": {
+				"version": 1,
+				"asset": "reckoner-riven-v1.fantome",
+				"size": 819276,
+				"sha256": "858553698280e4f0bf337d6fef7a54c9b4af121fdf586450cfe4133e526e261b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "red-dragon-lee-sin",
+			"name": "Red Dragon Lee Sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "oaed-skins",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/red-dragon-lee-sin/thumb.webp?v=555d205d",
+			"file": {
+				"version": 1,
+				"asset": "red-dragon-lee-sin-v1.fantome",
+				"size": 9715477,
+				"sha256": "727cb5684dcfb9ce96a99023a81381ad4dcb30da75d884f74b5a210457977da8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "red-galio-classic",
+			"name": "Red Galio - Classic",
+			"champion": 3,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/red-galio-classic/thumb.webp?v=71d42a26",
+			"file": {
+				"version": 1,
+				"asset": "red-galio-classic-v1.fantome",
+				"size": 10216548,
+				"sha256": "f7610a4e93d4b1bfb6371443d0b6698e1428c567522555ca74eb015b0a021b38"
+			},
+			"chromas": []
+		},
+		{
+			"id": "red-obsidian-zaahen-base-chroma",
+			"name": "Red Obsidian Zaahen Base Chroma",
+			"champion": 904,
+			"base": 0,
+			"creator": "aluna",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/red-obsidian-zaahen-base-chroma/thumb.webp?v=79fa6937",
+			"file": {
+				"version": 1,
+				"asset": "red-obsidian-zaahen-base-chroma-v1.fantome",
+				"size": 3346742,
+				"sha256": "9005c90994aef50d0c4130fada02dba28f3d079fde51c42100f25bdc83fb40c8"
 			},
 			"chromas": []
 		},

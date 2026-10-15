@@ -1,0 +1,24 @@
+{
+	"id": "reckoner-riven",
+	"name": "Reckoner Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "vanecessary",
+	"description": "# Reckoner Riven\n\nUpdates Riven's outdated base model to match what she looks like in the awaken cinematic!\n\n## Information\n\nChampion: Riven\n\nChanged Skin: Base\n\nChanges: Model, Textures\n\nDiscord: @vanessa.zone\n\n\n\n### Screenshots\n\n![](https://runeforge.dev/images/d1409db7-f732-49e9-e2e2-b55c71beb800/gallery)\n\n![](https://runeforge.dev/images/f7d8b0e1-7165-4183-fe89-4c79cd734500/gallery)\n\n---\n\n**Created by** [Vanecessary](https://runeforge.dev/users/Vanecessary)\n\n**Original:** https://runeforge.dev/mods/b72006f3-700a-4749-8950-d35c383a5e2a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/reckoner-riven/thumb.webp?v=c421644f",
+	"file": {
+		"version": 1,
+		"asset": "reckoner-riven-v1.fantome",
+		"size": 819276,
+		"sha256": "858553698280e4f0bf337d6fef7a54c9b4af121fdf586450cfe4133e526e261b"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "red-obsidian-zaahen-base-chroma",
+	"name": "Red Obsidian Zaahen Base Chroma",
+	"champion": 904,
+	"base": 0,
+	"creator": "aluna",
+	"description": "Important info: Chroma only works with Base Zaahen Skin.\r\n\r\nAffects: Skin & Ability Color\r\n\r\nAuthor: aluna\r\n\r\nSkin: Base Zaahen Skin\r\n\r\nContact: discord: @alunalol\n\n---\n\n**Created by** [aluna](https://runeforge.dev/users/aluna)\n\n**Original:** https://runeforge.dev/mods/8b2a26d3-5e43-4b4e-ad90-23151893196e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/red-obsidian-zaahen-base-chroma/thumb.webp?v=79fa6937",
+	"file": {
+		"version": 1,
+		"asset": "red-obsidian-zaahen-base-chroma-v1.fantome",
+		"size": 3346742,
+		"sha256": "9005c90994aef50d0c4130fada02dba28f3d079fde51c42100f25bdc83fb40c8"
+	},
+	"chromas": []
+}

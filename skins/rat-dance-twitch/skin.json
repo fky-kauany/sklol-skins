@@ -1,0 +1,25 @@
+{
+	"id": "rat-dance-twitch",
+	"name": "Rat Dance Twitch",
+	"champion": 29,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Twitch\r\n\r\n**SKIN REPLACE:** Base Skin\r\n\r\n**CUSTOM ANIMATION**\r\n\r\n* Dance Emote\r\n\r\n**CUSTOM SFX**\r\n\r\n* Dance Emote\r\n\r\n**CREDITS**\r\n\r\n* Modded by Nyht Seven\r\n* Music by Joyful: [Jesús Mus1c - Chess Type Beat (tiktok rat version, extended)](https://www.youtube.com/watch?v=qS0HlqjQHnk)\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/d6c25942-7f6d-416c-8b15-21188c2eb279\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rat-dance-twitch/thumb.webp?v=236756db",
+	"file": {
+		"version": 1,
+		"asset": "rat-dance-twitch-v1.fantome",
+		"size": 609086,
+		"sha256": "0f850aab935a5375ad89b649d91bd72ab6d9fa7cb3b8480e1a458eb386fff537"
+	},
+	"chromas": []
+}

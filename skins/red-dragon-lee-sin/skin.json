@@ -1,0 +1,26 @@
+{
+	"id": "red-dragon-lee-sin",
+	"name": "Red Dragon Lee Sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "oaed-skins",
+	"description": "Anergia goes brrr\r\n\r\nWorks on: Default Lee Sin\r\n\r\nInspired by the thumbnail image. This is an unofficial, non-commercial fan modification. It is not affiliated with Riot Games or the individual depicted.\n\n---\n\n**Created by** [OAED skins](https://runeforge.dev/users/oaed_skins)\n\n**Original:** https://runeforge.dev/mods/af3796be-9ccc-4137-a549-9ca62b6fc495\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/red-dragon-lee-sin/thumb.webp?v=555d205d",
+	"file": {
+		"version": 1,
+		"asset": "red-dragon-lee-sin-v1.fantome",
+		"size": 9715477,
+		"sha256": "727cb5684dcfb9ce96a99023a81381ad4dcb30da75d884f74b5a210457977da8"
+	},
+	"chromas": []
+}

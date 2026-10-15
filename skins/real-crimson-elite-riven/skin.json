@@ -1,0 +1,23 @@
+{
+	"id": "real-crimson-elite-riven",
+	"name": "Real Crimson Elite Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "fris-riven",
+	"description": "Crimson Elite Riven is ready to take on the new season of Noxus. Complete with red particle effects and a few color changes on the skin to bring the Crimson Elite Riven we always deserved.\n\n\n\n*Red particle effects are applied to all default variation skins (base, redeemed, crimson elite.).*\n\n---\n\n**Created by** [Fris_riven](https://runeforge.dev/users/Fris_riven)\n\n**Original:** https://runeforge.dev/mods/85d352a8-bfc3-4525-8b07-3c34bd28b80c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/real-crimson-elite-riven/thumb.webp?v=8a3e9028",
+	"file": {
+		"version": 1,
+		"asset": "real-crimson-elite-riven-v1.fantome",
+		"size": 337311,
+		"sha256": "9856fb52443a67c6355acf1bcfcb63a99b10c89f1438d0750d17e7819df927d3"
+	},
+	"chromas": []
+}
