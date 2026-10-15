@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-gangplank",
+	"name": "Hextech Chest Gangplank",
+	"champion": 41,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Gangplank Base Skin\n\nGives Gangplank a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/d4a3417a-c2e6-41d7-a998-fc9c1cbe8c25\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-gangplank/thumb.webp?v=8a62cf79",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-gangplank-v1.fantome",
+		"size": 1975754,
+		"sha256": "f4b12b9fe93df6d518a0d6bd8f6cac29ac3caeb095a25d335b6becf0aa3f8aa2"
+	},
+	"chromas": []
+}

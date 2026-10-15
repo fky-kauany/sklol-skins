@@ -1325,6 +1325,14 @@
 		"bio": "Hello! I'm a youtuber and a beggining modder of league of legends, especifically Skarner!\n\n my channel:\nhttps://www.youtube.com/@SkarnerCientista",
 		"links": {}
 	},
+	"snorr": {
+		"name": "Snorr",
+		"avatar": "creators/snorr.jpg?v=c259a759",
+		"links": {
+			"site": "https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98",
+			"youtube": "https://www.youtube.com/watch?v=jJYGbsDVAn0"
+		}
+	},
 	"sofi9": {
 		"name": "Sofi9",
 		"avatar": "creators/sofi9.jpg?v=9a0354ea",

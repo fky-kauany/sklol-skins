@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-kindred",
+	"name": "Hextech Chest Kindred",
+	"champion": 203,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Kindred Base Skin\n\nGives Kindred a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/ae608eca-9943-4b1c-b329-f8237c9af63b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-kindred/thumb.webp?v=9782c733",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-kindred-v1.fantome",
+		"size": 1256926,
+		"sha256": "932a03925907b63f602fec481006dc3d6b75b5b48036cf1221070b81177c46a1"
+	},
+	"chromas": []
+}

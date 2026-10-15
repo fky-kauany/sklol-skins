@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-amumu",
+	"name": "Hextech Chest Amumu",
+	"champion": 32,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Amumu**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Credits\n\nThe Hextech Chest model [\"hextech\"](https://skfb.ly/pqIwu) by Thuy Chau is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/a94f30f9-fd28-4eca-aded-0c69d633e9b4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-amumu/thumb.webp?v=882c70db",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-amumu-v1.fantome",
+		"size": 766342,
+		"sha256": "ce92667fced2f4d52a5409689be1a208934edae22e6dc8a5841be76419b874df"
+	},
+	"chromas": []
+}

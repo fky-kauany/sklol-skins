@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-malphite",
+	"name": "Hextech Chest Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Malphite Base Skin\n\nGives Malphite a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/5b6178a0-c3bc-4c0f-b7e8-2966b388ac99\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-malphite/thumb.webp?v=e180fd4a",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-malphite-v1.fantome",
+		"size": 1266252,
+		"sha256": "3047bb65e519d04579533a81a28b2dde349ddfa18ddc5abdefd5883ccce6a49c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-caitlyn",
+	"name": "Hextech Chest Caitlyn",
+	"champion": 51,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Caitlyn Base Skin\n\nGives Caitlyn a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/db201694-d340-4e8f-99c3-53b2b83e2bae\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-caitlyn/thumb.webp?v=95e0d43d",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-caitlyn-v1.fantome",
+		"size": 1656561,
+		"sha256": "dcfda089bc119ee640814984ab1bb2640a7b099452458cc2db55e2fa8197f27f"
+	},
+	"chromas": []
+}

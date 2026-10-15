@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-heimerdinger",
+	"name": "Hextech Chest Heimerdinger",
+	"champion": 74,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Heimerdinger Base Skin\n\nGives Heimerdinger a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/5edccf30-a2e5-4eba-b56c-caddda9f5287\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-heimerdinger/thumb.webp?v=7202372a",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-heimerdinger-v1.fantome",
+		"size": 1376395,
+		"sha256": "01b4010fc568a85e2f8820e74a464c1e10441277cb28b46bfadc7d90744d1124"
+	},
+	"chromas": []
+}

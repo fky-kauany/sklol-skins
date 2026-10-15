@@ -1,0 +1,23 @@
+{
+	"id": "hextech-chest-cho-gath",
+	"name": "Hextech Chest Cho'Gath",
+	"champion": 31,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Cho'Gath Base Skin\n\nGives Cho'Gath a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/c5ddae46-4eb2-4123-b836-9fa0c52c35ae\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-cho-gath/thumb.webp?v=04ace329",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-cho-gath-v1.fantome",
+		"size": 1276985,
+		"sha256": "7ed768e4a585c6ef02ae1ff023ba1b7b2f201cbae638951d3c3bfd9037042ea6"
+	},
+	"chromas": []
+}

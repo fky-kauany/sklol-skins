@@ -1,0 +1,24 @@
+{
+	"id": "hextech-chest-jinx",
+	"name": "Hextech Chest Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\nModifies Jinx Base Skin\n\nGives Jinx a themed skin\n\nReplaces all Loadscreens and Icons\n\n***\n\n**Credits**\n\nModel work by Snorr\n\nAdditional Texture work by budlibu500\n\nHextech Chest model by [Thuy Chau on Sketchfab](https://sketchfab.com/3d-models/hextech-c37c9be352d94870a802888e9dccac98)\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/0beb9790-53c3-47d4-9367-bd5c6eb8038e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hextech-chest-jinx/thumb.webp?v=5e80593e",
+	"file": {
+		"version": 1,
+		"asset": "hextech-chest-jinx-v1.fantome",
+		"size": 1296019,
+		"sha256": "da484625492ba9db07a23136ed1c19d46d66a7e1ad5f83bc2bb4fe65b7aac33b"
+	},
+	"chromas": []
+}
