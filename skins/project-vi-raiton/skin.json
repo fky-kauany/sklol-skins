@@ -1,0 +1,23 @@
+{
+	"id": "project-vi-raiton",
+	"name": "PROJECT: Vi Raiton",
+	"champion": 254,
+	"base": 0,
+	"creator": "vallain",
+	"description": "---\n\n**Created by** [Vallain66](https://runeforge.dev/users/Vallain)\n\n**Original:** https://runeforge.dev/mods/3a4be845-e20d-4e3c-bea6-db03f5b21b1c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-vi-raiton/thumb.webp?v=a0068452",
+	"file": {
+		"version": 1,
+		"asset": "project-vi-raiton-v1.fantome",
+		"size": 3122069,
+		"sha256": "e8ca8939178caa64926b926126225043555fe8409503953732db60828b0ca2eb"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "project-kai-sa",
+	"name": "PROJECT: Kai'Sa",
+	"champion": 145,
+	"base": 0,
+	"creator": "yoruqueenofnight",
+	"description": "## About\n\n* Champion: Kai'Sa\n* Skin: Default\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Loadingscreen\n* in-game icon\n* VFX\n* SFX\n\n## Completely optional: if you enjoy my work you can...\n\n[**Support me on Ko-Fi**](https://ko-fi.com/yoruqueenofnight) **or** [Become a Patreon](https://www.patreon.com/c/user?u=63840897)\n\n---\n\n**Created by** [YoruQueenOfNight](https://runeforge.dev/users/YoruQueenOfNight)\n\n**Original:** https://runeforge.dev/mods/b780bc52-b505-4818-9b2d-622345b71d0a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-kai-sa/thumb.webp?v=73802ff2",
+	"file": {
+		"version": 1,
+		"asset": "project-kai-sa-v1.fantome",
+		"size": 10127424,
+		"sha256": "a18972e7c4895d769a76ce4ea17e626bd68af0d97a1ab74e13a013f5577e1eb1"
+	},
+	"chromas": []
+}

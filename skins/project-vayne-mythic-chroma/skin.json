@@ -1,0 +1,26 @@
+{
+	"id": "project-vayne-mythic-chroma",
+	"name": "PROJECT: VAYNE Mythic Chroma",
+	"champion": 67,
+	"base": 0,
+	"creator": "goro",
+	"description": "What If Vayne Got The Mythic Chroma Instead Of Ashe?\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/6a229d48-2a29-47f2-9754-732681c57052\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-vayne-mythic-chroma/thumb.webp?v=5269d240",
+	"file": {
+		"version": 1,
+		"asset": "project-vayne-mythic-chroma-v1.fantome",
+		"size": 5167779,
+		"sha256": "1d9d24c6af487ba998b667cd2b7676993208dbaceb3d84497f9aa455cb45a4cc"
+	},
+	"chromas": []
+}

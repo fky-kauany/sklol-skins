@@ -1,0 +1,24 @@
+{
+	"id": "project-zeri-base-chromas",
+	"name": "Project Zeri (Base & Chromas)",
+	"champion": 221,
+	"base": 0,
+	"creator": "nineotwooneo",
+	"description": "Project Zeri WR Port, Base form and 3 of her Chromas (LINK FOR CHROMAS IN RELEASE SECTION)\n\nReplace Base Skin\n\nVersion : 1.0.0\n\nAuthor : 90210\n\nCustom VFX for every chroma but ULT texture stays the same for every chroma\n\nIF SOMEONE OWNS THE SKIN AND a chroma (any) on Wild Rift OR manage to find a video showing a chroma of this skin ULT please let me know on discord : nine0twoone0\n\nYou can also feel free to DM me for anything else :D\n\n---\n\n**Created by** [90210](https://runeforge.dev/users/nineotwooneo)\n\n**Original:** https://runeforge.dev/mods/f416bf2b-bcc6-4154-b330-8961f25c5127\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-zeri-base-chromas/thumb.webp?v=e998c71c",
+	"file": {
+		"version": 1,
+		"asset": "project-zeri-base-chromas-v1.fantome",
+		"size": 7697526,
+		"sha256": "9959390cfa78566f9a7884ad1096675fc652e8d007deef0b569603caeec2e772"
+	},
+	"chromas": []
+}

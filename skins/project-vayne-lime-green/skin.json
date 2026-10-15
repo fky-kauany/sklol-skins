@@ -1,0 +1,23 @@
+{
+	"id": "project-vayne-lime-green",
+	"name": "PROJECT: Vayne - Lime Green",
+	"champion": 67,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "# **➫ DETAILS:**\n\n**Skin modified: PROJECT: Vayne**\n\n**Premise: PROJECT: Vayne but with Lime Green Chroma**\n\n# **➫ EXTRA INFO:**\n\n**MAKE SURE TO DISABLE WHEN USING ANY OTHER SKIN/CHROMA FOR THIS CHAMP !!**\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\n**Send them over** [**here**](https://secreto.site/a8rmu7), or message me on discord (1gem1), or here is [**My Linktree \\<3**](https://linktr.ee/1gem1) for anything else!\n\n### ***Originally created as a Commission and uploaded with permission from commissioner, thank you!! \\<3***\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/dc5fc131-2114-4fc9-96d1-7e15821dfc07\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-vayne-lime-green/thumb.webp?v=3d45436e",
+	"file": {
+		"version": 1,
+		"asset": "project-vayne-lime-green-v1.fantome",
+		"size": 1268874,
+		"sha256": "2514f07b0ec26e32e1e3fd11032cc0a8a5ebd7df7f3b45cde7b397f1900b2890"
+	},
+	"chromas": []
+}

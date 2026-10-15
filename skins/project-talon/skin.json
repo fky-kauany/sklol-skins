@@ -1,0 +1,25 @@
+{
+	"id": "project-talon",
+	"name": "Project: Talon",
+	"champion": 91,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2057858895947723179?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Talon\r\n* Skin: Default/Enduring Sword\r\n* Project: Talon\r\n\r\n# Features\r\n\r\n- NO LOADING SCREEN\r\n- FULL VFX\r\n- Model + Weapon\r\n\r\n# ![](https://i.imgur.com/6xkgPno.gif)\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/4e7642e4-bc1a-46e2-849c-cafd4540f9db\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-talon/thumb.webp?v=7f44c5ed",
+	"file": {
+		"version": 1,
+		"asset": "project-talon-v1.fantome",
+		"size": 18855634,
+		"sha256": "4d70ff924d4c8b8ffc221c505c2bf207105e3b840bd9bab627e0345cb84df012"
+	},
+	"chromas": []
+}

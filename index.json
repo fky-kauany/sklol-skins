@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:37:48.313Z",
+	"generatedAt": "2026-10-15T12:41:02.613Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1129,6 +1129,15 @@
 				"youtube": "https://www.youtube.com/watch?v=Nzaj8JioSJw"
 			}
 		},
+		"nineotwooneo": {
+			"name": "90210",
+			"avatar": "creators/nineotwooneo.jpg?v=1bd411c6",
+			"bio": "Zeri fan account",
+			"links": {
+				"discord": "https://discord.com/users/482900514795683842",
+				"youtube": "https://youtu.be/-7CSZW90MhA"
+			}
+		},
 		"noctune": {
 			"name": "Noctune",
 			"avatar": "creators/noctune.png?v=5557239c",
@@ -1661,6 +1670,11 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=o9blUNkEdDQ"
 			}
+		},
+		"vallain": {
+			"name": "Vallain66",
+			"avatar": "creators/vallain.jpg?v=eb572af4",
+			"links": {}
 		},
 		"vanecessary": {
 			"name": "Vanecessary",
@@ -25967,6 +25981,229 @@
 			"chromas": []
 		},
 		{
+			"id": "project-kai-sa",
+			"name": "PROJECT: Kai'Sa",
+			"champion": 145,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-kai-sa/thumb.webp?v=73802ff2",
+			"file": {
+				"version": 1,
+				"asset": "project-kai-sa-v1.fantome",
+				"size": 10127424,
+				"sha256": "a18972e7c4895d769a76ce4ea17e626bd68af0d97a1ab74e13a013f5577e1eb1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-kalista",
+			"name": "Project: Kalista",
+			"champion": 429,
+			"base": 0,
+			"creator": "itsameandrio-0",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-kalista/thumb.webp?v=98caf11d",
+			"file": {
+				"version": 1,
+				"asset": "project-kalista-v1.fantome",
+				"size": 6162312,
+				"sha256": "0e5c6b175a537b046237a577072c146d9b917a7b36f167ee2a29acb700f29e7d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-katarina-black-white",
+			"name": "PROJECT: Katarina - Black&White",
+			"champion": 55,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-katarina-black-white/thumb.webp?v=82e7ba5b",
+			"file": {
+				"version": 1,
+				"asset": "project-katarina-black-white-v1.fantome",
+				"size": 6803510,
+				"sha256": "1ce43d160453c20313812f2cc9e824a9719f6804c59914920294bc2425835f00"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-talon",
+			"name": "Project: Talon",
+			"champion": 91,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-talon/thumb.webp?v=7f44c5ed",
+			"file": {
+				"version": 1,
+				"asset": "project-talon-v1.fantome",
+				"size": 18855634,
+				"sha256": "4d70ff924d4c8b8ffc221c505c2bf207105e3b840bd9bab627e0345cb84df012"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-urgot",
+			"name": "PROJECT: Urgot",
+			"champion": 6,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-urgot/thumb.webp?v=62e7e048",
+			"file": {
+				"version": 1,
+				"asset": "project-urgot-v1.fantome",
+				"size": 16395703,
+				"sha256": "bb99e6b2f2310336293b3121ecb4c430c762ac6654cd73b848c564fbc8e87c8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-vayne-lime-green",
+			"name": "PROJECT: Vayne - Lime Green",
+			"champion": 67,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-vayne-lime-green/thumb.webp?v=3d45436e",
+			"file": {
+				"version": 1,
+				"asset": "project-vayne-lime-green-v1.fantome",
+				"size": 1268874,
+				"sha256": "2514f07b0ec26e32e1e3fd11032cc0a8a5ebd7df7f3b45cde7b397f1900b2890"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-vayne-mythic-chroma",
+			"name": "PROJECT: VAYNE Mythic Chroma",
+			"champion": 67,
+			"base": 0,
+			"creator": "goro",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-vayne-mythic-chroma/thumb.webp?v=5269d240",
+			"file": {
+				"version": 1,
+				"asset": "project-vayne-mythic-chroma-v1.fantome",
+				"size": 5167779,
+				"sha256": "1d9d24c6af487ba998b667cd2b7676993208dbaceb3d84497f9aa455cb45a4cc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-vi-raiton",
+			"name": "PROJECT: Vi Raiton",
+			"champion": 254,
+			"base": 0,
+			"creator": "vallain",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-vi-raiton/thumb.webp?v=a0068452",
+			"file": {
+				"version": 1,
+				"asset": "project-vi-raiton-v1.fantome",
+				"size": 3122069,
+				"sha256": "e8ca8939178caa64926b926126225043555fe8409503953732db60828b0ca2eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-warwick-unbound-version",
+			"name": "Project Warwick Unbound Version",
+			"champion": 19,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-warwick-unbound-version/thumb.webp?v=d41f1ce6",
+			"file": {
+				"version": 1,
+				"asset": "project-warwick-unbound-version-v1.fantome",
+				"size": 11184732,
+				"sha256": "562744885978afe26ed5c64a1afdd7bec4f14dc11f4ad60f77aee179ca088f0c"
+			},
+			"chromas": []
+		},
+		{
 			"id": "project-yone-vfx-update",
 			"name": "Project Yone (VFX Update)",
 			"champion": 777,
@@ -25987,6 +26224,30 @@
 				"asset": "project-yone-vfx-update-v1.fantome",
 				"size": 8501341,
 				"sha256": "77d8db034bf60ec982bedb182fb8c450963337fe150af6f882924d37f4bbf17e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "project-zeri-base-chromas",
+			"name": "Project Zeri (Base & Chromas)",
+			"champion": 221,
+			"base": 0,
+			"creator": "nineotwooneo",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/project-zeri-base-chromas/thumb.webp?v=e998c71c",
+			"file": {
+				"version": 1,
+				"asset": "project-zeri-base-chromas-v1.fantome",
+				"size": 7697526,
+				"sha256": "9959390cfa78566f9a7884ad1096675fc652e8d007deef0b569603caeec2e772"
 			},
 			"chromas": []
 		},

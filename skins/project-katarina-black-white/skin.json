@@ -1,0 +1,26 @@
+{
+	"id": "project-katarina-black-white",
+	"name": "PROJECT: Katarina - Black&White",
+	"champion": 55,
+	"base": 0,
+	"creator": "1gem1",
+	"description": "## Skin modified - PROJECT: Katarina\n\n╰┈➤ _The idea for this mod was to give Kata a chroma for PROJECT. its pretty sad she doesnt have any honestly_\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm), or check my other mods over on DivineSkins [here](https://www.divineskins.gg/@1gem1)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/c65d5ad5-9e78-43fc-b820-409802852c5b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-katarina-black-white/thumb.webp?v=82e7ba5b",
+	"file": {
+		"version": 1,
+		"asset": "project-katarina-black-white-v1.fantome",
+		"size": 6803510,
+		"sha256": "1ce43d160453c20313812f2cc9e824a9719f6804c59914920294bc2425835f00"
+	},
+	"chromas": []
+}

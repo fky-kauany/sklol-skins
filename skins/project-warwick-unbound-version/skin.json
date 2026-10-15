@@ -1,0 +1,25 @@
+{
+	"id": "project-warwick-unbound-version",
+	"name": "Project Warwick Unbound Version",
+	"champion": 19,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2016406651054465407?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Warwick\r\n* Skin: Project\r\n* Remodel to TFT Unbound Version\r\n\r\n# Features\r\n\r\n- no features just remodel\r\n# ![](https://i.imgur.com/esDYfVR.png)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/e0e8ad08-5462-46c1-a537-0e8c235fd369\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/project-warwick-unbound-version/thumb.webp?v=d41f1ce6",
+	"file": {
+		"version": 1,
+		"asset": "project-warwick-unbound-version-v1.fantome",
+		"size": 11184732,
+		"sha256": "562744885978afe26ed5c64a1afdd7bec4f14dc11f4ad60f77aee179ca088f0c"
+	},
+	"chromas": []
+}
