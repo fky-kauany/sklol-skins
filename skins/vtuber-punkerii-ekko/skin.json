@@ -1,0 +1,24 @@
+{
+	"id": "vtuber-punkerii-ekko",
+	"name": "Vtuber PunkErii Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Ekko\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.3\n\n### SPECIFICATIONSNew model and texture\n\n* New model and texture&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The LadyErii Fiora 3D model in this mod is from LadyErii's designer\n* Loadscreen art from : ( LadyErii's designer )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/c3724a1f-619b-46cc-ba2b-336fee130aef\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vtuber-punkerii-ekko/thumb.webp?v=2ee3bf43",
+	"file": {
+		"version": 1,
+		"asset": "vtuber-punkerii-ekko-v1.fantome",
+		"size": 11613621,
+		"sha256": "406ab24d76a49a2c72622d31a9fbf625ac7705e94aaec37569756f51b1dfe664"
+	},
+	"chromas": []
+}

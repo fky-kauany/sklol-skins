@@ -1,0 +1,26 @@
+{
+	"id": "vyke-xin-zhao",
+	"name": "Vyke Xin Zhao",
+	"champion": 5,
+	"base": 0,
+	"creator": "totalgriller",
+	"description": "Xin Zhao as Vyke from Elden Ring.\n\n---\n\n**Created by** [TotalGriller](https://runeforge.dev/users/TotalGriller)\n\n**Original:** https://runeforge.dev/mods/82a777cc-c268-40b1-a026-daba5856a894\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vyke-xin-zhao/thumb.webp?v=7d779886",
+	"file": {
+		"version": 1,
+		"asset": "vyke-xin-zhao-v1.fantome",
+		"size": 11762640,
+		"sha256": "6e6386a6f5036eb19c43882f887340400353bef24c0738644e9916e2be0b9c44"
+	},
+	"chromas": []
+}

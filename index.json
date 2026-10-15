@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:42:08.253Z",
+	"generatedAt": "2026-10-15T14:44:24.916Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -33466,6 +33466,177 @@
 				"asset": "vtuber-ladyerii-veigar-v1.fantome",
 				"size": 5215487,
 				"sha256": "38bf341690a4065cece7828c9d41be6960ac1beadf426e860886f0faf64bc14d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vtuber-ladyerii-yasuo",
+			"name": "Vtuber LadyErii Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vtuber-ladyerii-yasuo/thumb.webp?v=a92056da",
+			"file": {
+				"version": 1,
+				"asset": "vtuber-ladyerii-yasuo-v1.fantome",
+				"size": 6380948,
+				"sha256": "e8bd37de11995ab4465679449f9d0ff8458d24236b430bef2ce76a0635cd5763"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vtuber-punkerii-ekko",
+			"name": "Vtuber PunkErii Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vtuber-punkerii-ekko/thumb.webp?v=2ee3bf43",
+			"file": {
+				"version": 1,
+				"asset": "vtuber-punkerii-ekko-v1.fantome",
+				"size": 11613621,
+				"sha256": "406ab24d76a49a2c72622d31a9fbf625ac7705e94aaec37569756f51b1dfe664"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vtuber-shigure-ui-vel-koz",
+			"name": "Vtuber Shigure Ui Vel'koz",
+			"champion": 161,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vtuber-shigure-ui-vel-koz/thumb.webp?v=192a9464",
+			"file": {
+				"version": 1,
+				"asset": "vtuber-shigure-ui-vel-koz-v1.fantome",
+				"size": 7599960,
+				"sha256": "a21171da4145d8af7210847cc9223a11f6aef92975a7f0424c322d6d746e4263"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vyke-xin-zhao",
+			"name": "Vyke Xin Zhao",
+			"champion": 5,
+			"base": 0,
+			"creator": "totalgriller",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vyke-xin-zhao/thumb.webp?v=7d779886",
+			"file": {
+				"version": 1,
+				"asset": "vyke-xin-zhao-v1.fantome",
+				"size": 11762640,
+				"sha256": "6e6386a6f5036eb19c43882f887340400353bef24c0738644e9916e2be0b9c44"
+			},
+			"chromas": []
+		},
+		{
+			"id": "waguri-sona",
+			"name": "Waguri Sona",
+			"champion": 37,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/waguri-sona/thumb.webp?v=e29e61bb",
+			"file": {
+				"version": 1,
+				"asset": "waguri-sona-v1.fantome",
+				"size": 15004840,
+				"sha256": "f5a18c3cc675c7123911133c99a0ba0b5aea5d4848cc5d2eae49b606c6253d5e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "warring-kingdoms-galio",
+			"name": "Warring Kingdoms Galio",
+			"champion": 3,
+			"base": 0,
+			"creator": "elpibefixer",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/warring-kingdoms-galio/thumb.webp?v=dc230af4",
+			"file": {
+				"version": 1,
+				"asset": "warring-kingdoms-galio-v1.fantome",
+				"size": 1749297,
+				"sha256": "0196aac30894625e91ff352139c2a5e6c428512298490265e0b580018235f964"
+			},
+			"chromas": []
+		},
+		{
+			"id": "warring-kingdoms-gangplank",
+			"name": "Warring Kingdoms Gangplank",
+			"champion": 41,
+			"base": 0,
+			"creator": "elpibefixer",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/warring-kingdoms-gangplank/thumb.webp?v=c753f34a",
+			"file": {
+				"version": 1,
+				"asset": "warring-kingdoms-gangplank-v1.fantome",
+				"size": 1000438,
+				"sha256": "3ffc6d223f283b2598389ba6364b0beba2114fbcb22d738c9747f9e045a03e7f"
 			},
 			"chromas": []
 		},

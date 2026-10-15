@@ -1,0 +1,23 @@
+{
+	"id": "warring-kingdoms-galio",
+	"name": "Warring Kingdoms Galio",
+	"champion": 3,
+	"base": 0,
+	"creator": "elpibefixer",
+	"description": "Champion: Galio\r\n\r\nSkin: Default\r\n\r\nAuthor:\r\n\r\n* Threshous (Original creator)\r\n\r\nFeatures:\r\n\r\n* New model and texture\r\n\r\n\r\n## EXTRA INFO\r\n\r\nThis mod was originally made by Threshous around 2018, this it's only a fixed version of the mod by Marbix\n\n---\n\n**Created by** [MarbixFixer](https://runeforge.dev/users/ElPibeFixer)\n\n**Original:** https://runeforge.dev/mods/78cad7c5-29e4-4c90-abf1-5dbb10c2a518\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/warring-kingdoms-galio/thumb.webp?v=dc230af4",
+	"file": {
+		"version": 1,
+		"asset": "warring-kingdoms-galio-v1.fantome",
+		"size": 1749297,
+		"sha256": "0196aac30894625e91ff352139c2a5e6c428512298490265e0b580018235f964"
+	},
+	"chromas": []
+}

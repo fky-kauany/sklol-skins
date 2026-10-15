@@ -1,0 +1,25 @@
+{
+	"id": "waguri-sona",
+	"name": "Waguri Sona",
+	"champion": 37,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (Matth Spotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/08b09648-c112-4a51-92f8-1880d25790a5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/waguri-sona/thumb.webp?v=e29e61bb",
+	"file": {
+		"version": 1,
+		"asset": "waguri-sona-v1.fantome",
+		"size": 15004840,
+		"sha256": "f5a18c3cc675c7123911133c99a0ba0b5aea5d4848cc5d2eae49b606c6253d5e"
+	},
+	"chromas": []
+}
