@@ -1,0 +1,26 @@
+{
+	"id": "yorick-yorickaiser",
+	"name": "Yorickaiser",
+	"champion": 83,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Yorick\n\nModified Skin: Default\n\nAuthor: Sauronkaiser\n\nDescription: In an alternative universe, Mordekaiser was never reworked and used the fusion technique with Yorick.\n\nFeatures: \n\n-New model and textures. \n\n-New skill icons. \n\n-New loading screen and potrait. \n\n-New particles effects.\n\n-New animations \n\n-Modified voiceover.\n\n-New sounds.\n\n-New models, animations and textures for the pets.\n\n-Fully new joke animation.\n\n-Free nostalgia for old mordemains.\n\n-Also try Aatroxkaiser!\n\n\n\nSources:\n\n-The model and texture is a mix from Yorick and Mordekaiser (the Morde assets were built using and modifying some of the old mord stuff and the new mord stuff).\n\n-The voiceover is a mix of oldmord and Yorick's voiceovers.\n\n-All the animations and particle changes were hand-made by me (Except the dragon which is just the Summoner's rift one).\n\n\n\nlegacy Changelog:\n\n-06/11/2022: First official release\n\n-02/03/2023: Added new effects, joke animation, upgraded dragon, splash. and some other little stuff.\n\n-29/10/2023: Fixed a bug that made the shadow be invisible, added voiceover for all languages.\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-11/06/2024: Fixed voiceover and now is global for all languages\n\n-02/09/2024: Fixed after a patch made it crash the game\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/ce766dbd-1a35-4576-8bb6-b8bc68c9dbda\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yorick-yorickaiser/thumb.webp?v=5cf2236e",
+	"file": {
+		"version": 1,
+		"asset": "yorick-yorickaiser-v1.fantome",
+		"size": 25057237,
+		"sha256": "ea85cb469f11acd182093375853cd309ebe14352687cc63b3843f112253b9832"
+	},
+	"chromas": []
+}
