@@ -1,0 +1,23 @@
+{
+	"id": "cinematic-accurate-foreseen-yasuo",
+	"name": "Cinematic Accurate Foreseen Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "sweetspot",
+	"description": "Modified Skin: Foreseen\r\n\r\nSupports all champion texture quality settings\r\n\r\nI FIXED THE HAT BTW\r\n\r\n\r\nWorks with Chromas\r\n\r\n\r\n&#x20;If you find any problem contact **undr\\_wtr** on discord\n\n---\n\n**Created by** [sweetspot](https://runeforge.dev/users/sweetspot)\n\n**Original:** https://runeforge.dev/mods/4592a83b-2c43-44da-b71b-7af986127482\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cinematic-accurate-foreseen-yasuo/thumb.webp?v=6ee2d852",
+	"file": {
+		"version": 1,
+		"asset": "cinematic-accurate-foreseen-yasuo-v1.fantome",
+		"size": 31576382,
+		"sha256": "668165128019f0a1ce083c4103ea5027ca39b61a3b38de280ff4c4d24b0fcd16"
+	},
+	"chromas": []
+}

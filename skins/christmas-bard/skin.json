@@ -1,0 +1,24 @@
+{
+	"id": "christmas-bard",
+	"name": "Christmas Bard",
+	"champion": 432,
+	"base": 0,
+	"creator": "maygik",
+	"description": "Santa Bardo, replaces base skin.\n\n---\n\n**Created by** [Maygik](https://runeforge.dev/users/Maygik)\n\n**Original:** https://runeforge.dev/mods/ffc3db35-0cf5-43d8-8fc1-d9b561d0855d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/christmas-bard/thumb.webp?v=5b014d75",
+	"file": {
+		"version": 1,
+		"asset": "christmas-bard-v1.fantome",
+		"size": 1738190,
+		"sha256": "3d565724d3f82d1aefdbfe47460b4be8a1a014f68054e555c45ed2169968d62f"
+	},
+	"chromas": []
+}

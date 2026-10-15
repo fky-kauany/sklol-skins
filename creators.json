@@ -240,6 +240,14 @@
 			"youtube": "https://www.youtube.com/@CMS-k1n"
 		}
 	},
+	"catlover": {
+		"name": "CatLover",
+		"avatar": "creators/catlover.png?v=b6130ca6",
+		"bio": "Please join this discord server if you need help with the mod\nhttps://discord.gg/B6WpFDGs",
+		"links": {
+			"discord": "https://discord.gg/B6WpFDGs"
+		}
+	},
 	"ceerel": {
 		"name": "ceerel",
 		"avatar": "creators/ceerel.webp?v=72038c18",
@@ -874,6 +882,11 @@
 			"x": "https://x.com/Nyxns0"
 		}
 	},
+	"oaed-skins": {
+		"name": "OAED skins",
+		"avatar": "creators/oaed-skins.jpg?v=7e7ec8f7",
+		"links": {}
+	},
 	"odr": {
 		"name": "ODR",
 		"avatar": "creators/odr.webp?v=1f669470",
@@ -1118,6 +1131,13 @@
 			"kofi": "https://ko-fi.com/suriinruneforge"
 		}
 	},
+	"sweetspot": {
+		"name": "sweetspot",
+		"avatar": "creators/sweetspot.jpg?v=8081078c",
+		"links": {
+			"youtube": "https://youtu.be/A89bjunxEhY"
+		}
+	},
 	"tanaa": {
 		"name": "Tanaa",
 		"avatar": "creators/tanaa.webp?v=a5946f9b",
@@ -1198,6 +1218,14 @@
 		"avatar": "creators/veenox.jpg?v=9d25f45a",
 		"bio": "If you want to talk to me for some reason, on discord: veenox.",
 		"links": {}
+	},
+	"veryverycoolname": {
+		"name": "VeryVeryCoolName",
+		"avatar": "creators/veryverycoolname.png?v=c4a5956b",
+		"links": {
+			"kofi": "https://ko-fi.com/veryverycoolname",
+			"youtube": "https://www.youtube.com/watch?v=Ev7UT_YlRcY"
+		}
 	},
 	"vincealucard": {
 		"name": "VinceAlucard",

@@ -1,0 +1,26 @@
+{
+	"id": "cipher-leblanc",
+	"name": "Cipher Leblanc",
+	"champion": 7,
+	"base": 0,
+	"creator": "catlover",
+	"description": "- Mod champion: Leblanc (Default)\n- Author: CatLover\n- Mod Version: 1.0.0\n- If you need have any questions about the mod, Please join the discord server\n\n---\n\n**Created by** [CatLover](https://runeforge.dev/users/CatLover)\n\n**Original:** https://runeforge.dev/mods/4f74a542-2693-40e6-af11-c8205a59dfa8\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cipher-leblanc/thumb.webp?v=00a5fbcd",
+	"file": {
+		"version": 1,
+		"asset": "cipher-leblanc-v1.fantome",
+		"size": 8698429,
+		"sha256": "ee1416637f423ed6f2431837aa903aceb92389b03c1484bb94d2731b6f2ccdce"
+	},
+	"chromas": []
+}

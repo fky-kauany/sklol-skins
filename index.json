@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:31:28.582Z",
+	"generatedAt": "2026-10-15T08:34:50.914Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -241,6 +241,14 @@
 			"avatar": "creators/carkibamanaboni.png?v=71759587",
 			"links": {
 				"youtube": "https://www.youtube.com/@CMS-k1n"
+			}
+		},
+		"catlover": {
+			"name": "CatLover",
+			"avatar": "creators/catlover.png?v=b6130ca6",
+			"bio": "Please join this discord server if you need help with the mod\nhttps://discord.gg/B6WpFDGs",
+			"links": {
+				"discord": "https://discord.gg/B6WpFDGs"
 			}
 		},
 		"ceerel": {
@@ -877,6 +885,11 @@
 				"x": "https://x.com/Nyxns0"
 			}
 		},
+		"oaed-skins": {
+			"name": "OAED skins",
+			"avatar": "creators/oaed-skins.jpg?v=7e7ec8f7",
+			"links": {}
+		},
 		"odr": {
 			"name": "ODR",
 			"avatar": "creators/odr.webp?v=1f669470",
@@ -1121,6 +1134,13 @@
 				"kofi": "https://ko-fi.com/suriinruneforge"
 			}
 		},
+		"sweetspot": {
+			"name": "sweetspot",
+			"avatar": "creators/sweetspot.jpg?v=8081078c",
+			"links": {
+				"youtube": "https://youtu.be/A89bjunxEhY"
+			}
+		},
 		"tanaa": {
 			"name": "Tanaa",
 			"avatar": "creators/tanaa.webp?v=a5946f9b",
@@ -1201,6 +1221,14 @@
 			"avatar": "creators/veenox.jpg?v=9d25f45a",
 			"bio": "If you want to talk to me for some reason, on discord: veenox.",
 			"links": {}
+		},
+		"veryverycoolname": {
+			"name": "VeryVeryCoolName",
+			"avatar": "creators/veryverycoolname.png?v=c4a5956b",
+			"links": {
+				"kofi": "https://ko-fi.com/veryverycoolname",
+				"youtube": "https://www.youtube.com/watch?v=Ev7UT_YlRcY"
+			}
 		},
 		"vincealucard": {
 			"name": "VinceAlucard",
@@ -5536,6 +5564,256 @@
 				"asset": "cho-gath-dino-gura-chogath-v1.fantome",
 				"size": 4521367,
 				"sha256": "1e6a56ae79dcc58cd70d145d9e307c15fe5eb0c0fac171407d3f16c5e6388661"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chrisasmr-gragas",
+			"name": "ChrisASMR Gragas",
+			"champion": 79,
+			"base": 0,
+			"creator": "oaed-skins",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chrisasmr-gragas/thumb.webp?v=f4ec8f75",
+			"file": {
+				"version": 1,
+				"asset": "chrisasmr-gragas-v1.fantome",
+				"size": 7202192,
+				"sha256": "b977e633df5c86e0ddb31650ff2b4e47bb18277e6b351b7e9c67eb60e85affc6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "christmas-bard",
+			"name": "Christmas Bard",
+			"champion": 432,
+			"base": 0,
+			"creator": "maygik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/christmas-bard/thumb.webp?v=5b014d75",
+			"file": {
+				"version": 1,
+				"asset": "christmas-bard-v1.fantome",
+				"size": 1738190,
+				"sha256": "3d565724d3f82d1aefdbfe47460b4be8a1a014f68054e555c45ed2169968d62f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "chun-li-lee-sin",
+			"name": "Chun li lee sin",
+			"champion": 64,
+			"base": 0,
+			"creator": "ceerel",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/chun-li-lee-sin/thumb.webp?v=045e825a",
+			"file": {
+				"version": 1,
+				"asset": "chun-li-lee-sin-v1.fantome",
+				"size": 1372594,
+				"sha256": "7df7f4bc216a81c75ea2898e88cf7fb0cbc77bb8b53dd839755bd60929d18332"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cinderella-seraphine",
+			"name": "Cinderella Seraphine",
+			"champion": 147,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cinderella-seraphine/thumb.webp?v=64188f8e",
+			"file": {
+				"version": 1,
+				"asset": "cinderella-seraphine-v1.fantome",
+				"size": 258088456,
+				"sha256": "1a196acec2f16ec389791d4bde69b4742117ac939056a0b154a650ea5f32f875"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cinematic-accurate-foreseen-yasuo",
+			"name": "Cinematic Accurate Foreseen Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "sweetspot",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cinematic-accurate-foreseen-yasuo/thumb.webp?v=6ee2d852",
+			"file": {
+				"version": 1,
+				"asset": "cinematic-accurate-foreseen-yasuo-v1.fantome",
+				"size": 31576382,
+				"sha256": "668165128019f0a1ce083c4103ea5027ca39b61a3b38de280ff4c4d24b0fcd16"
+			},
+			"chromas": []
+		},
+		{
+			"id": "cipher-leblanc",
+			"name": "Cipher Leblanc",
+			"champion": 7,
+			"base": 0,
+			"creator": "catlover",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/cipher-leblanc/thumb.webp?v=00a5fbcd",
+			"file": {
+				"version": 1,
+				"asset": "cipher-leblanc-v1.fantome",
+				"size": 8698429,
+				"sha256": "ee1416637f423ed6f2431837aa903aceb92389b03c1484bb94d2731b6f2ccdce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "classic-2011-surprise-party-fiddlesticks",
+			"name": "Classic (2011) Surprise Party Fiddlesticks",
+			"champion": 9,
+			"base": 0,
+			"creator": "veryverycoolname",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/classic-2011-surprise-party-fiddlesticks/thumb.webp?v=5ffbf912",
+			"file": {
+				"version": 1,
+				"asset": "classic-2011-surprise-party-fiddlesticks-v1.fantome",
+				"size": 2105356,
+				"sha256": "1facc0b8e3f347ec6f4ae12e46d2201d64a86f3f79b76880fadd9e3485c13660"
+			},
+			"chromas": []
+		},
+		{
+			"id": "classic-grunt-sett",
+			"name": "classic grunt sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/classic-grunt-sett/thumb.webp?v=d157ddf8",
+			"file": {
+				"version": 1,
+				"asset": "classic-grunt-sett-v1.fantome",
+				"size": 392940,
+				"sha256": "3ba7f30228ff0c9093761301a08025c3a89def76c35a079518b59cabf3b5627b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "clown-kalista",
+			"name": "Clown Kalista",
+			"champion": 429,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/clown-kalista/thumb.webp?v=5bfd49d3",
+			"file": {
+				"version": 1,
+				"asset": "clown-kalista-v1.fantome",
+				"size": 13933102,
+				"sha256": "799ae414fbd8499c036380ad8da07eae3523071b733ac841694fd0feb3a9ff5d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "clown-katarina",
+			"name": "Clown Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/clown-katarina/thumb.webp?v=c6089fd2",
+			"file": {
+				"version": 1,
+				"asset": "clown-katarina-v1.fantome",
+				"size": 13311039,
+				"sha256": "ac2e72f7e7a8f42902e459b8934686c71163fe5bea244f68311a46be2416fa6e"
 			},
 			"chromas": []
 		},

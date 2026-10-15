@@ -1,0 +1,26 @@
+{
+	"id": "classic-2011-surprise-party-fiddlesticks",
+	"name": "Classic (2011) Surprise Party Fiddlesticks",
+	"champion": 9,
+	"base": 0,
+	"creator": "veryverycoolname",
+	"description": "Modified Skin: Classic Fiddlesticks\n\nAuthor: VeryVeryCoolName\n\nVideo Preview:\n\nhttps://www.youtube.com/watch?v=Ev7UT_YlRcY\n\nAll assets are Riot Games'. This mod packages them for league classic.\nClassic Surprise Party Fiddlesticks was created under Riot Games' \"Legal Jibber Jabber\" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.\n\n---\n\n**Created by** [VeryVeryCoolName](https://runeforge.dev/users/VeryVeryCoolName)\n\n**Original:** https://runeforge.dev/mods/ff06a34e-a30f-4e9f-b227-90a1f376aa7b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/classic-2011-surprise-party-fiddlesticks/thumb.webp?v=5ffbf912",
+	"file": {
+		"version": 1,
+		"asset": "classic-2011-surprise-party-fiddlesticks-v1.fantome",
+		"size": 2105356,
+		"sha256": "1facc0b8e3f347ec6f4ae12e46d2201d64a86f3f79b76880fadd9e3485c13660"
+	},
+	"chromas": []
+}

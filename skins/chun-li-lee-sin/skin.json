@@ -1,0 +1,24 @@
+{
+	"id": "chun-li-lee-sin",
+	"name": "Chun li lee sin",
+	"champion": 64,
+	"base": 0,
+	"creator": "ceerel",
+	"description": "What changed\r\n\r\nModel\r\nAttacks vo\n\n---\n\n**Created by** [ceerel](https://runeforge.dev/users/ceerel)\n\n**Original:** https://runeforge.dev/mods/725dfa04-603c-4b1d-8fa7-468ff99b8108\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/chun-li-lee-sin/thumb.webp?v=045e825a",
+	"file": {
+		"version": 1,
+		"asset": "chun-li-lee-sin-v1.fantome",
+		"size": 1372594,
+		"sha256": "7df7f4bc216a81c75ea2898e88cf7fb0cbc77bb8b53dd839755bd60929d18332"
+	},
+	"chromas": []
+}

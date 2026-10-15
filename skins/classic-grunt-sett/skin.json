@@ -1,0 +1,24 @@
+{
+	"id": "classic-grunt-sett",
+	"name": "classic grunt sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"they didnt taked my stuff :D\"\n\n***\n\n**Modified champion: Sett**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3D made by:  [L̶i̶l̶\\_RedShift](https://steamcommunity.com/sharedfiles/filedetails/?id=2554447204)\n\n[Krinkels](https://twitter.com/MRKrinkels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) the creator of this madness\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/ea833886-af1b-4b03-ab78-32e88eb3701a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/classic-grunt-sett/thumb.webp?v=d157ddf8",
+	"file": {
+		"version": 1,
+		"asset": "classic-grunt-sett-v1.fantome",
+		"size": 392940,
+		"sha256": "3ba7f30228ff0c9093761301a08025c3a89def76c35a079518b59cabf3b5627b"
+	},
+	"chromas": []
+}

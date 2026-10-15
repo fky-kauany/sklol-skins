@@ -1,0 +1,25 @@
+{
+	"id": "cinderella-seraphine",
+	"name": "Cinderella Seraphine",
+	"champion": 147,
+	"base": 0,
+	"creator": "matth",
+	"description": "Skin Modified: Default\r\n\r\nAuthor: matthilobo (MatthSpotlight)\r\n\r\nVersion: 1.0\r\n\r\nCommissions: https://ko-fi.com/matthspotlight 💛\r\n\r\n______________________________________________________________________________________________________\r\n\r\nMy Contacts:\r\n\r\nDiscord server: https://discord.gg/d6JYnSvsg 💛\r\n\r\nInstagram: https://www.instagram.com/matthilobo/\r\n\r\nDiscord: matthilobo (Mattt#0697)\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/5dbb46c0-e40d-431e-bb34-664dda1dbe77\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/cinderella-seraphine/thumb.webp?v=64188f8e",
+	"file": {
+		"version": 1,
+		"asset": "cinderella-seraphine-v1.fantome",
+		"size": 258088456,
+		"sha256": "1a196acec2f16ec389791d4bde69b4742117ac939056a0b154a650ea5f32f875"
+	},
+	"chromas": []
+}
