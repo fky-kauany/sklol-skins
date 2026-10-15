@@ -1,0 +1,26 @@
+{
+	"id": "jaw-gath-shark-cho-gath-skin-v1-2",
+	"name": "JAW'GATH: Shark Cho'Gath Skin V1.2",
+	"champion": 31,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "Champion: Cho'Gath (Default Skin)\n\nVersion: 1.2 (15/07/25)\n\nChanges: Square, Circle and Skill icons; Default skin model and texture; Sfx and Particles.\n\nAuthor: Sirdy789\n\nOld version:\n\n[https://youtu.be/mqc0f2TWIfQ](https://youtu.be/mqc0f2TWIfQ)\n\nCredits Links:\n\nUsed Model: (NEW): [https://rigmodels.com/model.php?view=White\\_Shark-3d-model\\_\\_f75282013b6e4a93892e992e70342b94\\&searchkeyword=shark\\&manualsearch=1](https://rigmodels.com/model.php?view=White_Shark-3d-model__f75282013b6e4a93892e992e70342b94\\&searchkeyword=shark\\&manualsearch=1) (OLD): [https://www.turbosquid.com/3d-models/free-big-shark-animation-3d-model/1113550](https://www.turbosquid.com/3d-models/free-big-shark-animation-3d-model/1113550); author: Flytet\n\nSfx Sound: [https://www.youtube.com/watch?v=n2\\_QhIMM-uM](https://www.youtube.com/watch?v=n2_QhIMM-uM), [https://www.youtube.com/watch?v=GrNl\\_EEHVeM](https://www.youtube.com/watch?v=GrNl_EEHVeM), [https://www.youtube.com/watch?v=pegXwgZXKdI](https://www.youtube.com/watch?v=pegXwgZXKdI)\n\nMusic Video:[https://www.youtube.com/watch?v=BX3bN5YeiQs](https://www.youtube.com/watch?v=BX3bN5YeiQs)\n\nUsed Ai Image editors: [https://mokker.ai/](https://mokker.ai/), [https://letsenhance.io/](https://letsenhance.io/).\n\nObs: There is a visual bug in R particles when playing in arena mode. NO, THERE IS NO THING TRALALELO TRALALA\n\nContact\n\n[sirdy789@gmail.com](mailto:sirdy789@gmail.com) Discord: Sirdy789\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/35a08f51-876c-4cff-a73d-f5f427a78d23\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/jaw-gath-shark-cho-gath-skin-v1-2/thumb.webp?v=698fa66b",
+	"file": {
+		"version": 1,
+		"asset": "jaw-gath-shark-cho-gath-skin-v1-2-v1.fantome",
+		"size": 27402644,
+		"sha256": "3b85e76a476ffe2009a8eef93f92248e98d99daa049509d03e0c16e6eddf493e"
+	},
+	"chromas": []
+}

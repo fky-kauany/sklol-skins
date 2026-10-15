@@ -1,0 +1,23 @@
+{
+	"id": "jarvan-iv-black-kingdoms-chroma-blackout",
+	"name": "Jarvan IV Black Kingdoms Chroma (BLACKOUT)",
+	"champion": 59,
+	"base": 0,
+	"creator": "newdami",
+	"description": "Need to own Warring Kindoms skin\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/738ccd90-5730-44eb-a237-1cb4289ca1f0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/jarvan-iv-black-kingdoms-chroma-blackout/thumb.webp?v=25762164",
+	"file": {
+		"version": 1,
+		"asset": "jarvan-iv-black-kingdoms-chroma-blackout-v1.fantome",
+		"size": 476011,
+		"sha256": "e413eb4d8719c1d3b1b6d7a28cc0ac1be288128d1b5370ec044a6ce008b03d3f"
+	},
+	"chromas": []
+}

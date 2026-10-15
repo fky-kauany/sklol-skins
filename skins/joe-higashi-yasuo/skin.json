@@ -1,0 +1,26 @@
+{
+	"id": "joe-higashi-yasuo",
+	"name": "Joe Higashi (Yasuo)",
+	"champion": 157,
+	"base": 0,
+	"creator": "sirdy789",
+	"description": "★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★\n\nChampion: Yasuo(Base)\n\nVersion: 1.2\n\nChanges: Square and Circle icons; Skin model and texture; Animation; Voice; Sfx and Particles.\n\n★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★\n\nFor a better experience, I recommend playing while listening to this song:\n\n[https://youtu.be/IbXRceytXfk?si=HcjiK7XOAZmIhgAX](https://youtu.be/IbXRceytXfk?si=HcjiK7XOAZmIhgAX)\n\n★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★\n\nCredits links:\n\nSkin Model Resource: [https://www.models-resource.com/nintendo\\_switch/supersmashbrosultimate/model/32441/](https://www.models-resource.com/nintendo_switch/supersmashbrosultimate/model/32441/)\n\nVo Resource: [https://www.sounds-resource.com/mobile/thekingoffightersallstar/sound/36733/](https://www.sounds-resource.com/mobile/thekingoffightersallstar/sound/36733/)\n\nOuther links: [https://www.fightersgeneration.com/characters2/joehigashi.html](https://www.fightersgeneration.com/characters2/joehigashi.html)\n\n★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★\n\nContact:\n\n[sirdyasd@gmail.com](mailto:sirdyasd@gmail.com)        Discord: sirdyasd\n\n---\n\n**Created by** [Sirdy  (🇧🇷)](https://runeforge.dev/users/sirdy789)\n\n**Original:** https://runeforge.dev/mods/9299cf45-9aed-484b-b8d3-0ab4c4629f41\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/joe-higashi-yasuo/thumb.webp?v=c21a8858",
+	"file": {
+		"version": 1,
+		"asset": "joe-higashi-yasuo-v1.fantome",
+		"size": 49803553,
+		"sha256": "750d9b6e1fa331b1174ce00adc5b9a7fc17f6626465b9ce00baacba78544e27f"
+	},
+	"chromas": []
+}

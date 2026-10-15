@@ -1,0 +1,22 @@
+{
+	"id": "jinx-hair-recolors",
+	"name": "Jinx Hair Recolors",
+	"champion": 222,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "![](https://imagedelivery.net/jSCO7XHWhtXOc_Ojz3D3xA/6a7e02b0-5807-49c8-e3e5-3b2b5c7a9e00/gallery)\n\n### *Mod variants have not yet been implemented into Runeforge v2.0. In the meantime if you wish to download other variants please use this mediafire link:* [*https://www.mediafire.com/folder/ybp6lmw2byzjz/Jinx\\_Hair\\_Recolors\\_v1.1.0*](https://www.mediafire.com/folder/ybp6lmw2byzjz/Jinx_Hair_Recolors_v1.1.0)\n\n## Information\n\n**Modified champion: Jinx**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/37884a04-2e42-4705-a0f7-c19d42dbd867\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/jinx-hair-recolors/thumb.webp?v=86b9bc52",
+	"file": {
+		"version": 1,
+		"asset": "jinx-hair-recolors-v1.fantome",
+		"size": 298177,
+		"sha256": "7619587df6a03cc45d1e633a40a953e8936931bf8753d12fc28c7855e84b5f0d"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "jax-with-a-huge-blunt",
+	"name": "Jax with a huge blunt",
+	"champion": 24,
+	"base": 0,
+	"creator": "icebreaker",
+	"description": "Blunt 3D model: https://sketchfab.com/3d-models/blunt-88ebacfc95c0442691d8590225421ee2\r\n\r\nAn alternate Warden Jax version is available in the releases.\r\n\r\nIf the mod stops working contact me on discord: realicebreaker\n\n---\n\n**Created by** [Icebreaker](https://runeforge.dev/users/Icebreaker)\n\n**Original:** https://runeforge.dev/mods/f59717d1-cb9f-45eb-8543-97152ef02501\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/jax-with-a-huge-blunt/thumb.webp?v=2f230149",
+	"file": {
+		"version": 1,
+		"asset": "jax-with-a-huge-blunt-v1.fantome",
+		"size": 623290,
+		"sha256": "0a74c6b892c8e96f9a37eadde44167de265bd99b0774e3c13cc3e65493535f64"
+	},
+	"chromas": []
+}

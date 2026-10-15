@@ -1,0 +1,25 @@
+{
+	"id": "junko-lucian-blue-archive",
+	"name": "Junko Lucian (Blue Archive)",
+	"champion": 236,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/8977ae43-3953-4ee0-9da1-75ae092d1d7f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/junko-lucian-blue-archive/thumb.webp?v=dff81a4e",
+	"file": {
+		"version": 1,
+		"asset": "junko-lucian-blue-archive-v1.fantome",
+		"size": 10154851,
+		"sha256": "846047215d3605c1662a91e02e49983c3c34582f750465b93ab146e90f547c6e"
+	},
+	"chromas": []
+}

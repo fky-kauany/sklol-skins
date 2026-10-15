@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:50:10.523Z",
+	"generatedAt": "2026-10-15T10:53:17.986Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -688,6 +688,13 @@
 			"avatar": "creators/hyperios.jpg?v=e505628c",
 			"bio": "Sett OTP and I like creating custom skins for Sett.\n- Consider donating to my ko-fi! https://ko-fi.com/hyperios 🧡",
 			"links": {}
+		},
+		"icebreaker": {
+			"name": "Icebreaker",
+			"avatar": "creators/icebreaker.jpg?v=1a4832da",
+			"links": {
+				"site": "https://sketchfab.com/3d-models/blunt-88ebacfc95c0442691d8590225421ee2"
+			}
 		},
 		"ikiryou": {
 			"name": "ikiryou",
@@ -17039,6 +17046,127 @@
 			"chromas": []
 		},
 		{
+			"id": "jarvan-iv-black-kingdoms-chroma-blackout",
+			"name": "Jarvan IV Black Kingdoms Chroma (BLACKOUT)",
+			"champion": 59,
+			"base": 0,
+			"creator": "newdami",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jarvan-iv-black-kingdoms-chroma-blackout/thumb.webp?v=25762164",
+			"file": {
+				"version": 1,
+				"asset": "jarvan-iv-black-kingdoms-chroma-blackout-v1.fantome",
+				"size": 476011,
+				"sha256": "e413eb4d8719c1d3b1b6d7a28cc0ac1be288128d1b5370ec044a6ce008b03d3f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jaw-gath-shark-cho-gath-skin-v1-2",
+			"name": "JAW'GATH: Shark Cho'Gath Skin V1.2",
+			"champion": 31,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jaw-gath-shark-cho-gath-skin-v1-2/thumb.webp?v=698fa66b",
+			"file": {
+				"version": 1,
+				"asset": "jaw-gath-shark-cho-gath-skin-v1-2-v1.fantome",
+				"size": 27402644,
+				"sha256": "3b85e76a476ffe2009a8eef93f92248e98d99daa049509d03e0c16e6eddf493e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jax-arcane-rictus",
+			"name": "Arcane Rictus",
+			"champion": 24,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jax-arcane-rictus/thumb.webp?v=131e63d7",
+			"file": {
+				"version": 1,
+				"asset": "jax-arcane-rictus-v1.fantome",
+				"size": 9261670,
+				"sha256": "0b69728b947a71010465f9876bdb94ba3597f90362bfcd8e8eab4b75d4cc5698"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jax-with-a-huge-blunt",
+			"name": "Jax with a huge blunt",
+			"champion": 24,
+			"base": 0,
+			"creator": "icebreaker",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jax-with-a-huge-blunt/thumb.webp?v=2f230149",
+			"file": {
+				"version": 1,
+				"asset": "jax-with-a-huge-blunt-v1.fantome",
+				"size": 623290,
+				"sha256": "0a74c6b892c8e96f9a37eadde44167de265bd99b0774e3c13cc3e65493535f64"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jax-without-a-weapon",
+			"name": "Jax Without a Weapon",
+			"champion": 24,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jax-without-a-weapon/thumb.webp?v=0129c3ab",
+			"file": {
+				"version": 1,
+				"asset": "jax-without-a-weapon-v1.fantome",
+				"size": 540774,
+				"sha256": "a4113ac2c0df4f3cdef5747d2a7f45481674d97e30e7bb7173844a946dee758f"
+			},
+			"chromas": []
+		},
+		{
 			"id": "jewel-of-flesh-urgot",
 			"name": "Jewel of Flesh Urgot",
 			"champion": 6,
@@ -17061,6 +17189,128 @@
 				"asset": "jewel-of-flesh-urgot-v1.fantome",
 				"size": 10671786,
 				"sha256": "4d446a7873be1b3079764651a4f800edc16ef0735665f8d5270e7276f328fa4f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jinx-hair-recolors",
+			"name": "Jinx Hair Recolors",
+			"champion": 222,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jinx-hair-recolors/thumb.webp?v=86b9bc52",
+			"file": {
+				"version": 1,
+				"asset": "jinx-hair-recolors-v1.fantome",
+				"size": 298177,
+				"sha256": "7619587df6a03cc45d1e633a40a953e8936931bf8753d12fc28c7855e84b5f0d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jinx-traps",
+			"name": "Jinx Traps",
+			"champion": 222,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/jinx-traps/thumb.webp?v=c416509e",
+			"file": {
+				"version": 1,
+				"asset": "jinx-traps-v1.fantome",
+				"size": 405011,
+				"sha256": "9f85c02e67ff72fbf98a9fc737b43d3ce2d90bbf606bd0ec45ed6d9d6ae69b4e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "joe-higashi-yasuo",
+			"name": "Joe Higashi (Yasuo)",
+			"champion": 157,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/joe-higashi-yasuo/thumb.webp?v=c21a8858",
+			"file": {
+				"version": 1,
+				"asset": "joe-higashi-yasuo-v1.fantome",
+				"size": 49803553,
+				"sha256": "750d9b6e1fa331b1174ce00adc5b9a7fc17f6626465b9ce00baacba78544e27f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "junko-lucian-blue-archive",
+			"name": "Junko Lucian (Blue Archive)",
+			"champion": 236,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/junko-lucian-blue-archive/thumb.webp?v=dff81a4e",
+			"file": {
+				"version": 1,
+				"asset": "junko-lucian-blue-archive-v1.fantome",
+				"size": 10154851,
+				"sha256": "846047215d3605c1662a91e02e49983c3c34582f750465b93ab146e90f547c6e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "k-da-code-diva-ahri",
+			"name": "K/DA Code Diva Ahri",
+			"champion": 103,
+			"base": 15,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/k-da-code-diva-ahri/thumb.webp?v=469afeaf",
+			"file": {
+				"version": 1,
+				"asset": "k-da-code-diva-ahri-v1.fantome",
+				"size": 9154365,
+				"sha256": "e80997e50d96f707c6c5d8c962942619bea41d4550b3f27fe5981ad24afc3512"
 			},
 			"chromas": []
 		},
