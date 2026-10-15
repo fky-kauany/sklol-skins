@@ -1,0 +1,26 @@
+{
+	"id": "diana-as-riku-kingdom-hearts-2",
+	"name": "Diana as Riku - Kingdom Hearts 2",
+	"champion": 131,
+	"base": 0,
+	"creator": "eko",
+	"description": "Champion: Diana\r\n\r\nModified skin: Base Diana\r\n\r\nAuthor: Eko\r\n\r\nMod features:\r\n\r\n·) Riku Model + Keyblade\r\n\r\n·) Riku Voice Over & SFX\r\n\r\n·) New Animations\r\n\r\n·) New VFX\r\n\r\n·) New Loadingscreen\r\n\r\n·) New Ability Icons\r\n\r\nIf you like my mods and want more Kingdom Hearts skins you can support me here: https://ko-fi.com/ekofreezy\n\n---\n\n**Created by** [Eko](https://runeforge.dev/users/Eko)\n\n**Original:** https://runeforge.dev/mods/11df4ffc-291b-411c-b338-93357c370323\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/diana-as-riku-kingdom-hearts-2/thumb.webp?v=3f4ebf21",
+	"file": {
+		"version": 1,
+		"asset": "diana-as-riku-kingdom-hearts-2-v1.fantome",
+		"size": 12117000,
+		"sha256": "361fedfc50effcb2ce9a314c6af0ded43c9c9653e1f5853c145e33c57586bf1f"
+	},
+	"chromas": []
+}

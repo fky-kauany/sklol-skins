@@ -1,0 +1,26 @@
+{
+	"id": "decidueye-varus",
+	"name": "Decidueye Varus",
+	"champion": 110,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Varus\r\n\r\n**SKIN REPLACE:** Base Skin\r\n\r\n**UNIQUE FEATURE:**\r\n\r\n* There is now a 1% chance to get a shiny variant at the start of each game.\r\n\r\n**CUSTOM VFX**\r\n\r\n* Abilities&#x20;\r\n\r\n**CUSTOM ANIMATIONS**\r\n\r\n* Idle\r\n* Attack\r\n* Abilities\r\n* Recall\r\n* Emotes\r\n* Death and Respawn\r\n\r\n**CUSTOM SFX**\r\n\r\n* Recall\r\n* Abilities\r\n* Emotes\r\n* Respawn\r\n\r\n**CUSTOM MODEL AND TEXTURES**\r\n\r\n* Decidueye model taken from Pokemon Sun and Moon\r\n\r\n**CREDITS**\r\n\r\n* Modded by Nyht Seven\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/ba676975-abaa-4709-b0ea-484c12e855b8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/decidueye-varus/thumb.webp?v=cf967d63",
+	"file": {
+		"version": 1,
+		"asset": "decidueye-varus-v1.fantome",
+		"size": 7035877,
+		"sha256": "c16ce2f628c725d99b6af01ff52cafd198e2a08f89465985f18fee1d19ae618f"
+	},
+	"chromas": []
+}

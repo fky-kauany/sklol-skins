@@ -1,0 +1,24 @@
+{
+	"id": "diablo-galio",
+	"name": "Diablo Galio",
+	"champion": 3,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "Diablo from the series named after him as default Galio!\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/8a62c5f6-ee9d-4147-8702-efd615b7fcea\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/diablo-galio/thumb.webp?v=c4f9b767",
+	"file": {
+		"version": 1,
+		"asset": "diablo-galio-v1.fantome",
+		"size": 2054279,
+		"sha256": "018b75e8cac6bc6f5881c332187ce8836a3d17e935a62e8b41c7fd653b5b2f27"
+	},
+	"chromas": []
+}

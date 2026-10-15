@@ -1,0 +1,23 @@
+{
+	"id": "desperado-darius",
+	"name": "Desperado Darius",
+	"champion": 122,
+	"base": 14,
+	"creator": "thanatosdrakon",
+	"description": "MOD INFORMATION:\n\n\nChampion: Darius\n\n\nModified skin: Dreadnova\n\n-------------------------------------------------------------------------\nFEATURES:\n\n\nFully replaces Darius' VO with Khamsin's voicelines from MGR\n\n\nA new Purple Chroma alongside purple ability effects\n\n\nNoxian Might Sound effect replaced with The Hot Wind Blowing\n\n\nAdds the Desperado symbol to darius' armor and loadscreen\n\n-----------------------------------------------------------------------\nPLANS FOR FUTURE FEATURES:\n\n\nAn actual new model and Animations (when i learn how to do them)\n\n\nA new loadscreen\n\n\nbetter vfx and sfx touch-ups\n\n---\n\n**Created by** [Thanatosdrakon](https://runeforge.dev/users/Thanatosdrakon)\n\n**Original:** https://runeforge.dev/mods/8f37e412-646b-4608-8e0e-345f7b44fddb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/desperado-darius/thumb.webp?v=b53e9919",
+	"file": {
+		"version": 1,
+		"asset": "desperado-darius-v1.fantome",
+		"size": 3425885,
+		"sha256": "9e72012dc84553003faa76b0da4fcc526be0a2db07accc7e4bf130f4eef75560"
+	},
+	"chromas": []
+}

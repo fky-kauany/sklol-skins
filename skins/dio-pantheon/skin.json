@@ -1,0 +1,26 @@
+{
+	"id": "dio-pantheon",
+	"name": "Dio (Pantheon)",
+	"champion": 80,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Base champions: Pantheon \n\nSkin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Dio from JJBA Stardust crusaders.\n\nFeatures:\n\n-New model and textures.\n\n-New full set of animations.\n\n-New sounds.\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-New voiceover (for both mods)\n\n-Roadroller driving licence not included.\n\n\n\nSources:\n\n-Dio's and Stand model extracted from JJBA Diamond records.\n\n-Voices extracted from JJBA Stardust crusaders.\n\n-Roadroller model made by DopamineWarlock. You can find his works in his sketchfab: https://sketchfab.com/DopamineWarlock\n\n-All animations and effects made by me.\n\nLegacy Changelog:\n\n-08/01/2023: First official release\n\n-03/05/2023: Fixed after a League patch made it crash the game, some particles fixes.\n\n-29/10/2023: Fixed voiceover for all languages, added new particles.\n\n-21/06/2024: Fixed voiceover and made global for all languages, mod fixed for low quality settings and several particle problems.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/d3ccbeed-7ed8-4e4c-a7f5-f300fb0de6f8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dio-pantheon/thumb.webp?v=68f2935c",
+	"file": {
+		"version": 1,
+		"asset": "dio-pantheon-v1.fantome",
+		"size": 15182660,
+		"sha256": "79c8769eb06b2b9bb61a3ecff2bb0f412bde6ba3a79450d59452ad28e9a9ada0"
+	},
+	"chromas": []
+}

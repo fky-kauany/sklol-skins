@@ -1,0 +1,26 @@
+{
+	"id": "dingodile-rumble",
+	"name": "Dingodile Rumble",
+	"champion": 68,
+	"base": 0,
+	"creator": "notcz",
+	"description": "[https://youtu.be/HbsTdUTWKds](https://youtu.be/HbsTdUTWKds)\n\nAnd yet again another big commission to make Dingodile from Crash Bandicoot N.Sane Trilogy : p, with the help of @Goat\n\nThe mod includes :&#x20;\n\n* Unique model extracted from the game\n* Unique animations both made by my self and with some made by Goat\n* New VFX inspired in the game\n* Full VO included\n* HUD\n\n---\n\n**Created by** [notCZ](https://runeforge.dev/users/notCZ)\n\n**Original:** https://runeforge.dev/mods/0be2bce7-4ad4-41ef-b0c8-472444e8f434\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dingodile-rumble/thumb.webp?v=93789e5c",
+	"file": {
+		"version": 1,
+		"asset": "dingodile-rumble-v1.fantome",
+		"size": 14865376,
+		"sha256": "c11527e6e9ef13d24b0fbe6dabc0308591d8d142f93c99ad48a043e72649d022"
+	},
+	"chromas": []
+}

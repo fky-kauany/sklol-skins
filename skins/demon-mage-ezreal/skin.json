@@ -1,0 +1,24 @@
+{
+	"id": "demon-mage-ezreal",
+	"name": "Demon Mage Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "gehamond",
+	"description": "### Mod Info:\r\n* Champion: Ezreal\r\n* Modified skin: Base skin\r\n* Author: Luna\r\n* Description: Demon Mage Ezreal\r\n---\r\n### Features:\r\n* New chroma\r\n* VFX\r\n* New Splashart loading screen\n\n---\n\n**Created by** [Luna](https://runeforge.dev/users/Gehamond)\n\n**Original:** https://runeforge.dev/mods/e1b10460-bf19-4f07-96ec-146361f16f9e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/demon-mage-ezreal/thumb.webp?v=4944b0ab",
+	"file": {
+		"version": 1,
+		"asset": "demon-mage-ezreal-v1.fantome",
+		"size": 14643506,
+		"sha256": "ed800d371e3ebeb3f0ea7cb43d9cd9ac89be2586fad6ae0711b94147cc72df10"
+	},
+	"chromas": []
+}

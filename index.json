@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:53:37.808Z",
+	"generatedAt": "2026-10-15T08:56:46.252Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -442,6 +442,15 @@
 				"youtube": "https://www.youtube.com/@nbdyeikori"
 			}
 		},
+		"eko": {
+			"name": "Eko",
+			"avatar": "creators/eko.jpg?v=cbb71c4b",
+			"bio": "Time for a true display of skill or something like that.\n\n\n\nFor those who want to support me:\n\nhttps://ko-fi.com/ekofreezy\n\nDiscord: https://discord.gg/runeforge",
+			"links": {
+				"kofi": "https://ko-fi.com/ekofreezy",
+				"x": "https://x.com/ecofreezy"
+			}
+		},
 		"el7oot": {
 			"name": "EL7OOT",
 			"avatar": "creators/el7oot.webp?v=c33a5b49",
@@ -568,6 +577,11 @@
 		"gazor": {
 			"name": "Gazor",
 			"avatar": "creators/gazor.webp?v=e4d83a29",
+			"links": {}
+		},
+		"gehamond": {
+			"name": "Luna",
+			"avatar": "creators/gehamond.png?v=e386811d",
 			"links": {}
 		},
 		"glacierfrozzt": {
@@ -1197,6 +1211,13 @@
 		"texugo-lol": {
 			"name": "Texugo_LoL",
 			"links": {}
+		},
+		"thanatosdrakon": {
+			"name": "Thanatosdrakon",
+			"avatar": "creators/thanatosdrakon.jpg?v=d850ca2b",
+			"links": {
+				"youtube": "https://youtu.be/D21XlVY1zMQ"
+			}
 		},
 		"thicario": {
 			"name": "Thicario",
@@ -7394,6 +7415,254 @@
 				"asset": "dawnbringer-yunara-v1.fantome",
 				"size": 4021674,
 				"sha256": "ba410d192eb1f304329fa8c2f1027eb7974feb9ff2c1ff30caa801dc6aa5dbbb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dead-cells-bobby-animated-riven",
+			"name": "DEAD CELLS bobby animated riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dead-cells-bobby-animated-riven/thumb.webp?v=57a1b372",
+			"file": {
+				"version": 1,
+				"asset": "dead-cells-bobby-animated-riven-v1.fantome",
+				"size": 956389,
+				"sha256": "247c07168260d703d2f802bab66b19b36bd6c6063c3cf95330b586cbb719049f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "deadpool-shen",
+			"name": "Deadpool Shen",
+			"champion": 98,
+			"base": 0,
+			"creator": "yigitvercetti",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/deadpool-shen/thumb.webp?v=a61e3ac2",
+			"file": {
+				"version": 1,
+				"asset": "deadpool-shen-v1.fantome",
+				"size": 1107119,
+				"sha256": "8bbfa2074f6a6031f78ff54fc81f8e65e56e4c527718fb76a3a25ab6173a6470"
+			},
+			"chromas": []
+		},
+		{
+			"id": "debonair-evelynn",
+			"name": "Debonair Evelynn",
+			"champion": 28,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/debonair-evelynn/thumb.webp?v=e27c2d37",
+			"file": {
+				"version": 1,
+				"asset": "debonair-evelynn-v1.fantome",
+				"size": 35282003,
+				"sha256": "eef9ebe9f3c2f1d3d66f98cf01c9af8e0b0c509b8decc99a6a494b4135fa7c6b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "decidueye-varus",
+			"name": "Decidueye Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/decidueye-varus/thumb.webp?v=cf967d63",
+			"file": {
+				"version": 1,
+				"asset": "decidueye-varus-v1.fantome",
+				"size": 7035877,
+				"sha256": "c16ce2f628c725d99b6af01ff52cafd198e2a08f89465985f18fee1d19ae618f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "demon-mage-ezreal",
+			"name": "Demon Mage Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "gehamond",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/demon-mage-ezreal/thumb.webp?v=4944b0ab",
+			"file": {
+				"version": 1,
+				"asset": "demon-mage-ezreal-v1.fantome",
+				"size": 14643506,
+				"sha256": "ed800d371e3ebeb3f0ea7cb43d9cd9ac89be2586fad6ae0711b94147cc72df10"
+			},
+			"chromas": []
+		},
+		{
+			"id": "desperado-darius",
+			"name": "Desperado Darius",
+			"champion": 122,
+			"base": 14,
+			"creator": "thanatosdrakon",
+			"parts": [
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/desperado-darius/thumb.webp?v=b53e9919",
+			"file": {
+				"version": 1,
+				"asset": "desperado-darius-v1.fantome",
+				"size": 3425885,
+				"sha256": "9e72012dc84553003faa76b0da4fcc526be0a2db07accc7e4bf130f4eef75560"
+			},
+			"chromas": []
+		},
+		{
+			"id": "diablo-galio",
+			"name": "Diablo Galio",
+			"champion": 3,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/diablo-galio/thumb.webp?v=c4f9b767",
+			"file": {
+				"version": 1,
+				"asset": "diablo-galio-v1.fantome",
+				"size": 2054279,
+				"sha256": "018b75e8cac6bc6f5881c332187ce8836a3d17e935a62e8b41c7fd653b5b2f27"
+			},
+			"chromas": []
+		},
+		{
+			"id": "diana-as-riku-kingdom-hearts-2",
+			"name": "Diana as Riku - Kingdom Hearts 2",
+			"champion": 131,
+			"base": 0,
+			"creator": "eko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/diana-as-riku-kingdom-hearts-2/thumb.webp?v=3f4ebf21",
+			"file": {
+				"version": 1,
+				"asset": "diana-as-riku-kingdom-hearts-2-v1.fantome",
+				"size": 12117000,
+				"sha256": "361fedfc50effcb2ce9a314c6af0ded43c9c9653e1f5853c145e33c57586bf1f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dingodile-rumble",
+			"name": "Dingodile Rumble",
+			"champion": 68,
+			"base": 0,
+			"creator": "notcz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dingodile-rumble/thumb.webp?v=93789e5c",
+			"file": {
+				"version": 1,
+				"asset": "dingodile-rumble-v1.fantome",
+				"size": 14865376,
+				"sha256": "c11527e6e9ef13d24b0fbe6dabc0308591d8d142f93c99ad48a043e72649d022"
+			},
+			"chromas": []
+		},
+		{
+			"id": "dio-pantheon",
+			"name": "Dio (Pantheon)",
+			"champion": 80,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/dio-pantheon/thumb.webp?v=68f2935c",
+			"file": {
+				"version": 1,
+				"asset": "dio-pantheon-v1.fantome",
+				"size": 15182660,
+				"sha256": "79c8769eb06b2b9bb61a3ecff2bb0f412bde6ba3a79450d59452ad28e9a9ada0"
 			},
 			"chromas": []
 		},

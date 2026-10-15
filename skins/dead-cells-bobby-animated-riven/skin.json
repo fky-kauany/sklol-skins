@@ -1,0 +1,24 @@
+{
+	"id": "dead-cells-bobby-animated-riven",
+	"name": "DEAD CELLS bobby animated riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "*\"thanks goat to help me on code part\"*\n\n***\n\n**Modified champion: Riven**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n**3D model made by:** sylvie\\_pendragon\nMotion Twin made the game\nGoat helped me on code stuff\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/17759b9b-53ab-41d5-8f7e-461b4752d7cd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/dead-cells-bobby-animated-riven/thumb.webp?v=57a1b372",
+	"file": {
+		"version": 1,
+		"asset": "dead-cells-bobby-animated-riven-v1.fantome",
+		"size": 956389,
+		"sha256": "247c07168260d703d2f802bab66b19b36bd6c6063c3cf95330b586cbb719049f"
+	},
+	"chromas": []
+}

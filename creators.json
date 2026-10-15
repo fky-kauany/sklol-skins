@@ -439,6 +439,15 @@
 			"youtube": "https://www.youtube.com/@nbdyeikori"
 		}
 	},
+	"eko": {
+		"name": "Eko",
+		"avatar": "creators/eko.jpg?v=cbb71c4b",
+		"bio": "Time for a true display of skill or something like that.\n\n\n\nFor those who want to support me:\n\nhttps://ko-fi.com/ekofreezy\n\nDiscord: https://discord.gg/runeforge",
+		"links": {
+			"kofi": "https://ko-fi.com/ekofreezy",
+			"x": "https://x.com/ecofreezy"
+		}
+	},
 	"el7oot": {
 		"name": "EL7OOT",
 		"avatar": "creators/el7oot.webp?v=c33a5b49",
@@ -565,6 +574,11 @@
 	"gazor": {
 		"name": "Gazor",
 		"avatar": "creators/gazor.webp?v=e4d83a29",
+		"links": {}
+	},
+	"gehamond": {
+		"name": "Luna",
+		"avatar": "creators/gehamond.png?v=e386811d",
 		"links": {}
 	},
 	"glacierfrozzt": {
@@ -1194,6 +1208,13 @@
 	"texugo-lol": {
 		"name": "Texugo_LoL",
 		"links": {}
+	},
+	"thanatosdrakon": {
+		"name": "Thanatosdrakon",
+		"avatar": "creators/thanatosdrakon.jpg?v=d850ca2b",
+		"links": {
+			"youtube": "https://youtu.be/D21XlVY1zMQ"
+		}
 	},
 	"thicario": {
 		"name": "Thicario",

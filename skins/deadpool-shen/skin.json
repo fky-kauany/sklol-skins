@@ -1,0 +1,23 @@
+{
+	"id": "deadpool-shen",
+	"name": "Deadpool Shen",
+	"champion": 98,
+	"base": 0,
+	"creator": "yigitvercetti",
+	"description": "## SKIN INFORMATION ##\r\n- Champion: Shen\r\n- Modified skin: Base\r\n- Author: Yigit Vercetti\r\n- Version: 1.0.0\r\n## SUPPORT ME ##\r\n- Thanks for checking out my channel! I'm passionate about creating custom designs, working late into the night. If you like my work, feel free to buy me a coffee to keep my creativity flowing.\r\n- https://buymeacoffee.com/yigitvercetti\n\n---\n\n**Created by** [Yigit Vercetti](https://runeforge.dev/users/yigitvercetti)\n\n**Original:** https://runeforge.dev/mods/3275d5b7-4ea1-489d-8351-26a1020d18e4\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/deadpool-shen/thumb.webp?v=a61e3ac2",
+	"file": {
+		"version": 1,
+		"asset": "deadpool-shen-v1.fantome",
+		"size": 1107119,
+		"sha256": "8bbfa2074f6a6031f78ff54fc81f8e65e56e4c527718fb76a3a25ab6173a6470"
+	},
+	"chromas": []
+}

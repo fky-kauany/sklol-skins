@@ -1,0 +1,26 @@
+{
+	"id": "debonair-evelynn",
+	"name": "Debonair Evelynn",
+	"champion": 28,
+	"base": 0,
+	"creator": "lordksop",
+	"description": "## Mod Information\n\n###### Champion: Evelynn\n\n###### Modified skin: Default\n\n###### Author: LordksOP\n\n###### Mod version: 1.0\n\n###### Description: Debonair Evelynn\n\n## [Download Chromas here](https://drive.google.com/drive/folders/1gEGYDTDPPtl5hf1Di4aYzoR3sERXS4gG?usp=sharing)\n\n\\--------------------------------------------------------------------------------------------------------------------------\n\n## Features\n\n* In-game transformations, you can toggle forms using Ctrl+1, Ctrl+2, Ctrl+3 and Ctrl+4.\n* New model and textures\n* Supports all champion texture quality settings\n* New VFX and SFX\n* VFX changes for each form\n* New animations\n* Modified LoadScreen\n\n##### ----------------------------------------------------------------------------------------------------------------------------\n\n## [SUPPORT MY WORK HERE](https://paypal.me/JLordksOP?country.x=ES\\&locale.x=es_ES)\n\n---\n\n**Created by** [LordksOP](https://runeforge.dev/users/LordksOP)\n\n**Original:** https://runeforge.dev/mods/5262a7eb-6332-4513-9812-ab0830556ab6\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/debonair-evelynn/thumb.webp?v=e27c2d37",
+	"file": {
+		"version": 1,
+		"asset": "debonair-evelynn-v1.fantome",
+		"size": 35282003,
+		"sha256": "eef9ebe9f3c2f1d3d66f98cf01c9af8e0b0c509b8decc99a6a494b4135fa7c6b"
+	},
+	"chromas": []
+}
