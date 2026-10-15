@@ -1,0 +1,23 @@
+{
+	"id": "riven-broken-covenant-mastery-prestige",
+	"name": "Riven Broken Covenant Mastery Prestige",
+	"champion": 92,
+	"base": 0,
+	"creator": "sanandreas",
+	"description": "# **Information**\n\nModified champion: Riven\n\nModified skin: Broken Covenant Basic\n\nAuthor: SanAndreas\n\nFeatures:\n\n1. New particle\n2. New textures\n3. Quality touches on every detail\n\n***\n\n# **Important**\n\nIf/When this mod breaks let me know on discord. It can happen after any update when Riot messes up file names.\n\n# **Donate**\n\nMade with passion for Riven players. Donations are optional but appreciated. I worked 30 days for this skin touching every detail.\n\n**Discord: **sanandreasstoic\n\n**Support** paypal : [sebastian.stoica97@yahoo.ro](mailto:sebastian.stoica97@yahoo.ro) revolut : 0726656837\n\n---\n\n**Created by** [SanAndreas](https://runeforge.dev/users/SanAndreas)\n\n**Original:** https://runeforge.dev/mods/ab3777c1-b883-460d-83de-51b59bbbd10d\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-broken-covenant-mastery-prestige/thumb.webp?v=fd3dd82c",
+	"file": {
+		"version": 1,
+		"asset": "riven-broken-covenant-mastery-prestige-v1.fantome",
+		"size": 3096039,
+		"sha256": "2779a7a6e10ac2af9eff0fa3c94e4f20c36c20e3a18e988344f05b7d7b5c4f54"
+	},
+	"chromas": []
+}

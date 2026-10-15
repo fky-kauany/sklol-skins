@@ -1,0 +1,26 @@
+{
+	"id": "rhaast-malphite",
+	"name": "Rhaast Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "THIS WAS SUPPOSED TO BE THE LONGER ONE idfk anymore i don't have anything else to say here sorry\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/f2332663-5c2f-41e0-ae7d-26ee6d400856\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rhaast-malphite/thumb.webp?v=388b1238",
+	"file": {
+		"version": 1,
+		"asset": "rhaast-malphite-v1.fantome",
+		"size": 10980661,
+		"sha256": "232481c79f9042b1455768664f4972197f61fe9d0ee3c2eb664b0ba2fc8d760e"
+	},
+	"chromas": []
+}

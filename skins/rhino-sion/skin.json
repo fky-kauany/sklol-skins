@@ -1,0 +1,24 @@
+{
+	"id": "rhino-sion",
+	"name": "Rhino Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "hendrix21",
+	"description": "Rhino Warrior skin for base Sion\n\n---\n\n**Created by** [hendrix21](https://runeforge.dev/users/hendrix21)\n\n**Original:** https://runeforge.dev/mods/a664cb12-06b1-4537-8358-a717afea4e4c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rhino-sion/thumb.webp?v=d549a48d",
+	"file": {
+		"version": 1,
+		"asset": "rhino-sion-v1.fantome",
+		"size": 436500,
+		"sha256": "b17e13e4b5162a9233c92da49cef8c8a5f3614a20e6772b16ed8fffcac89ca02"
+	},
+	"chromas": []
+}

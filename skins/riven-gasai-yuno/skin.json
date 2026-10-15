@@ -1,0 +1,24 @@
+{
+	"id": "riven-gasai-yuno",
+	"name": "Riven Gasai Yuno",
+	"champion": 92,
+	"base": 55,
+	"creator": "matth",
+	"description": "> ***Mod name : Riven Gasai Yuno***\n\n> ***Skin modified : Broken Covenant***\n\n> ***Visual Effects are also changed.***\n\n> ***Author : matthilobo***\n\n> ***Axe are added instead of sword.***\n\n> ***Mod version : 1.1.2***\n\n## Commissions: [https://ko-fi.com/matthspotlight](https://ko-fi.com/matthspotlight) 💛\n\n***\n\nIf you wanna contact me for questions or something:\n\n[https://www.instagram.com/matthilobo/](https://www.instagram.com/matthilobo/) Discord: matthilobo 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/4b5ddd8b-a80a-4095-9556-5ecf8f1cb849\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-gasai-yuno/thumb.webp?v=19ac6256",
+	"file": {
+		"version": 1,
+		"asset": "riven-gasai-yuno-v1.fantome",
+		"size": 13269538,
+		"sha256": "22edc8c85fb5db5099fd271ce3617b8542f7ff1fc6d0e02f620ca115b538fc75"
+	},
+	"chromas": []
+}

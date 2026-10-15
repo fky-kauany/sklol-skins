@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:56:40.952Z",
+	"generatedAt": "2026-10-15T12:59:53.468Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1433,6 +1433,14 @@
 			"avatar": "creators/sabafutka.webp?v=97ea8aca",
 			"links": {}
 		},
+		"sanandreas": {
+			"name": "SanAndreas",
+			"avatar": "creators/sanandreas.jpg?v=b9b15e49",
+			"bio": "Please donate anything for the hard work I put in and quality !",
+			"links": {
+				"youtube": "https://youtu.be/knppYo-AJug"
+			}
+		},
 		"sauronkaiser": {
 			"name": "Sauronkaiser",
 			"avatar": "creators/sauronkaiser.webp?v=ad096d82",
@@ -1593,6 +1601,13 @@
 			"avatar": "creators/sweetspot.jpg?v=8081078c",
 			"links": {
 				"youtube": "https://youtu.be/A89bjunxEhY"
+			}
+		},
+		"tabby": {
+			"name": "Tabby",
+			"avatar": "creators/tabby.jpg?v=f05ca4cc",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=B-uaSzuMCl4"
 			}
 		},
 		"tanaa": {
@@ -27521,6 +27536,32 @@
 			"chromas": []
 		},
 		{
+			"id": "rhaast-malphite",
+			"name": "Rhaast Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rhaast-malphite/thumb.webp?v=388b1238",
+			"file": {
+				"version": 1,
+				"asset": "rhaast-malphite-v1.fantome",
+				"size": 10980661,
+				"sha256": "232481c79f9042b1455768664f4972197f61fe9d0ee3c2eb664b0ba2fc8d760e"
+			},
+			"chromas": []
+		},
+		{
 			"id": "rhaast-singed",
 			"name": "Rhaast Singed",
 			"champion": 27,
@@ -27543,6 +27584,226 @@
 				"asset": "rhaast-singed-v1.fantome",
 				"size": 4005021,
 				"sha256": "b133740fc79c2a9c59ac25058fa7636cc63cb7e746afef6788ee739cff393e00"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rhaast-sivir",
+			"name": "Rhaast Sivir",
+			"champion": 15,
+			"base": 0,
+			"creator": "shrimpback",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rhaast-sivir/thumb.webp?v=5d3722df",
+			"file": {
+				"version": 1,
+				"asset": "rhaast-sivir-v1.fantome",
+				"size": 7214303,
+				"sha256": "eaff6978d3c3fae5f77e13a896b7c2fd10825daf2b226d76c1e3bd1660cb1a8b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rhino-sion",
+			"name": "Rhino Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "hendrix21",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rhino-sion/thumb.webp?v=d549a48d",
+			"file": {
+				"version": 1,
+				"asset": "rhino-sion-v1.fantome",
+				"size": 436500,
+				"sha256": "b17e13e4b5162a9233c92da49cef8c8a5f3614a20e6772b16ed8fffcac89ca02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rica-games-warwick-renekton",
+			"name": "Rica Games (Warwick/Renekton)",
+			"champion": 58,
+			"base": 0,
+			"creator": "sirdy789",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/rica-games-warwick-renekton/thumb.webp?v=e989b400",
+			"file": {
+				"version": 1,
+				"asset": "rica-games-warwick-renekton-v1.fantome",
+				"size": 16758011,
+				"sha256": "e750eb30246d4fc00273ddea91f70917b35516abe5a48f740a64f2638bd5ee51"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-as-sora-kingdom-hearts-2",
+			"name": "Riven as Sora - Kingdom Hearts 2",
+			"champion": 92,
+			"base": 0,
+			"creator": "eko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-as-sora-kingdom-hearts-2/thumb.webp?v=b9c76cb6",
+			"file": {
+				"version": 1,
+				"asset": "riven-as-sora-kingdom-hearts-2-v1.fantome",
+				"size": 7767110,
+				"sha256": "f19570d2d3c530ad0c105e866ba0c479995aba5fa82389e8040a28ec11e5b0b1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-as-yasuo",
+			"name": "Riven as Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "tabby",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-as-yasuo/thumb.webp?v=476d46f4",
+			"file": {
+				"version": 1,
+				"asset": "riven-as-yasuo-v1.fantome",
+				"size": 5082870,
+				"sha256": "2b9b4dde06035d4ffe6cee2e10e21cd192f5383ae90a5cbafcff15f1ccdbe8ee"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-broken-covenant-mastery-prestige",
+			"name": "Riven Broken Covenant Mastery Prestige",
+			"champion": 92,
+			"base": 0,
+			"creator": "sanandreas",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-broken-covenant-mastery-prestige/thumb.webp?v=fd3dd82c",
+			"file": {
+				"version": 1,
+				"asset": "riven-broken-covenant-mastery-prestige-v1.fantome",
+				"size": 3096039,
+				"sha256": "2779a7a6e10ac2af9eff0fa3c94e4f20c36c20e3a18e988344f05b7d7b5c4f54"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-gasai-yuno",
+			"name": "Riven Gasai Yuno",
+			"champion": 92,
+			"base": 55,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-gasai-yuno/thumb.webp?v=19ac6256",
+			"file": {
+				"version": 1,
+				"asset": "riven-gasai-yuno-v1.fantome",
+				"size": 13269538,
+				"sha256": "22edc8c85fb5db5099fd271ce3617b8542f7ff1fc6d0e02f620ca115b538fc75"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-makima",
+			"name": "Riven Makima",
+			"champion": 92,
+			"base": 23,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-makima/thumb.webp?v=356b358b",
+			"file": {
+				"version": 1,
+				"asset": "riven-makima-v1.fantome",
+				"size": 16520797,
+				"sha256": "ffa9a8b306e81076da956e069faa4c22fa7371a4d4a3d2c7a5f1753ca54d719e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "riven-sasuke",
+			"name": "Riven Sasuke",
+			"champion": 92,
+			"base": 23,
+			"creator": "matth",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/riven-sasuke/thumb.webp?v=22a301f8",
+			"file": {
+				"version": 1,
+				"asset": "riven-sasuke-v1.fantome",
+				"size": 9059117,
+				"sha256": "9c6328583bc7acd57f4a5e8200b5c96ce61c3698c5709fb79a78280d84a9f7f3"
 			},
 			"chromas": []
 		},

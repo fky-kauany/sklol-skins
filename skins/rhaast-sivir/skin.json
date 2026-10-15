@@ -1,0 +1,25 @@
+{
+	"id": "rhaast-sivir",
+	"name": "Rhaast Sivir",
+	"champion": 15,
+	"base": 0,
+	"creator": "shrimpback",
+	"description": "---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/04019db9-81db-4592-9eeb-8e2e55b03769\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/rhaast-sivir/thumb.webp?v=5d3722df",
+	"file": {
+		"version": 1,
+		"asset": "rhaast-sivir-v1.fantome",
+		"size": 7214303,
+		"sha256": "eaff6978d3c3fae5f77e13a896b7c2fd10825daf2b226d76c1e3bd1660cb1a8b"
+	},
+	"chromas": []
+}

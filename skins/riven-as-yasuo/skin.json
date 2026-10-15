@@ -1,0 +1,26 @@
+{
+	"id": "riven-as-yasuo",
+	"name": "Riven as Yasuo",
+	"champion": 157,
+	"base": 0,
+	"creator": "tabby",
+	"description": "# Riven as Yasuo\r\n\r\nMod Information\r\n\r\nChampion : Yasuo\r\n\r\nModified Skin : Base\r\n\r\nAuthor : Tabby\r\n\r\nMod Version : 1.0.4\r\n\r\n## Features\r\n\r\nReplaces base Yasuo with base Riven's:\r\n\r\n-model\r\n\r\n-loading screen art\r\n\r\n-champion icon\r\n\r\n-VO\r\n\r\nand:\r\n\r\n-custom skill icons\r\n\r\n-custom texture\r\n\r\n-custom ult passive particles\r\n\r\n## Changelog\r\n\r\nJan/06/2025 : Mod released on runeforge.io\r\n\r\nMar/19/2025: v1.0.1 Patched missing health bar\r\n\r\nOct/25/2025: v1.0.2 Patched missing SFX and textures\r\n\r\nFeb/17/2026: v1.0.3 Patched missing VO and particles\r\n\r\nMay/13/2026: v1.0.4 Patched missing VO\n\n---\n\n**Created by** [Tabby](https://runeforge.dev/users/Tabby)\n\n**Original:** https://runeforge.dev/mods/6ffde3fa-b888-4284-a232-02107b3fc675\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-as-yasuo/thumb.webp?v=476d46f4",
+	"file": {
+		"version": 1,
+		"asset": "riven-as-yasuo-v1.fantome",
+		"size": 5082870,
+		"sha256": "2b9b4dde06035d4ffe6cee2e10e21cd192f5383ae90a5cbafcff15f1ccdbe8ee"
+	},
+	"chromas": []
+}

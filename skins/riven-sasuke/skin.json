@@ -1,0 +1,24 @@
+{
+	"id": "riven-sasuke",
+	"name": "Riven Sasuke",
+	"champion": 92,
+	"base": 23,
+	"creator": "matth",
+	"description": "> ***Mod name: Riven Sasuke***\n\n> ***Skin modified : Spirit Blossom***\n\n> ***Visual Effects and particles also changed.***\n\n> ***Author : matthilobo***\n\n> ***Mod version : 1.0.2***\n\n### DONATIONS FOR COMMISSIONS: [https://ko-fi.com/matthspotlight](https://ko-fi.com/matthspotlight) *💛*\n\n***\n\n*If you wanna contact me for questions or something:*\n\n[*math (@matthilobo) • Fotos y videos de Instagram*](https://www.instagram.com/matthilobo/) */ Discord: matthilobo 💛*\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/ca1fe2d4-cd00-4f1f-bfee-4fae457e8fc2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-sasuke/thumb.webp?v=22a301f8",
+	"file": {
+		"version": 1,
+		"asset": "riven-sasuke-v1.fantome",
+		"size": 9059117,
+		"sha256": "9c6328583bc7acd57f4a5e8200b5c96ce61c3698c5709fb79a78280d84a9f7f3"
+	},
+	"chromas": []
+}

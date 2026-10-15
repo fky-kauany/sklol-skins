@@ -1,0 +1,24 @@
+{
+	"id": "riven-makima",
+	"name": "Riven Makima",
+	"champion": 92,
+	"base": 23,
+	"creator": "matth",
+	"description": "> ***Mod name : Riven Makima***\n\n> ***Skin modified : Spirit Blossom (Others soon)***\n\n> ***Sword in base form Eliminated.***\n\n> ***Visual Effects are also changed.***\n\n> ***Author : matthilobo***\n\n> ***Mod version : 1.1***\n\n### ***Commissions:*** [***https://ko-fi.com/matthspotlight***](https://ko-fi.com/matthspotlight) ***💛***\n\n***\n\nIf you wanna contact me for questions or something: [https://www.instagram.com/matthilobo/](https://www.instagram.com/matthilobo/) Discord: matthilobo (Mattt#0697) 💛\n\n---\n\n**Created by** [matth](https://runeforge.dev/users/matth)\n\n**Original:** https://runeforge.dev/mods/8faba987-54bc-4b08-a001-23565b314d1f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-makima/thumb.webp?v=356b358b",
+	"file": {
+		"version": 1,
+		"asset": "riven-makima-v1.fantome",
+		"size": 16520797,
+		"sha256": "ffa9a8b306e81076da956e069faa4c22fa7371a4d4a3d2c7a5f1753ca54d719e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "riven-as-sora-kingdom-hearts-2",
+	"name": "Riven as Sora - Kingdom Hearts 2",
+	"champion": 92,
+	"base": 0,
+	"creator": "eko",
+	"description": "Champion: Riven\r\n\r\nModified skin: Base Riven\r\n\r\nAuthor: Eko\r\n\r\nMod features:\r\n\r\n·) Sora Model + Keyblade\r\n\r\n·) Sora Voice Over & SFX\r\n\r\n·) New Animations\r\n\r\n·) New VFX\r\n\r\n·) New Loadingscreen\r\n\r\n·) New Ability Icons\r\n\r\n·) New Keyblade and Battle Soundtracks from KH2 while in Ult form\r\n\r\nHuge shoutout to my buddy hatstore for helping me create this mod!\r\n\r\nHere you can find his amazing work: https://runeforge.dev/users/hatstore/mods\r\n\r\nIf you like my mods and want more Kingdom Hearts skins you can support me here: https://ko-fi.com/ekofreezy\n\n---\n\n**Created by** [Eko](https://runeforge.dev/users/Eko)\n\n**Original:** https://runeforge.dev/mods/2ae207b6-a661-46ed-8a46-26d3ca87315e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/riven-as-sora-kingdom-hearts-2/thumb.webp?v=b9c76cb6",
+	"file": {
+		"version": 1,
+		"asset": "riven-as-sora-kingdom-hearts-2-v1.fantome",
+		"size": 7767110,
+		"sha256": "f19570d2d3c530ad0c105e866ba0c479995aba5fa82389e8040a28ec11e5b0b1"
+	},
+	"chromas": []
+}

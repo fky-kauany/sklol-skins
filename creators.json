@@ -1430,6 +1430,14 @@
 		"avatar": "creators/sabafutka.webp?v=97ea8aca",
 		"links": {}
 	},
+	"sanandreas": {
+		"name": "SanAndreas",
+		"avatar": "creators/sanandreas.jpg?v=b9b15e49",
+		"bio": "Please donate anything for the hard work I put in and quality !",
+		"links": {
+			"youtube": "https://youtu.be/knppYo-AJug"
+		}
+	},
 	"sauronkaiser": {
 		"name": "Sauronkaiser",
 		"avatar": "creators/sauronkaiser.webp?v=ad096d82",
@@ -1590,6 +1598,13 @@
 		"avatar": "creators/sweetspot.jpg?v=8081078c",
 		"links": {
 			"youtube": "https://youtu.be/A89bjunxEhY"
+		}
+	},
+	"tabby": {
+		"name": "Tabby",
+		"avatar": "creators/tabby.jpg?v=f05ca4cc",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=B-uaSzuMCl4"
 		}
 	},
 	"tanaa": {
