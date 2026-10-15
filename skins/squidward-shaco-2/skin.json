@@ -1,0 +1,23 @@
+{
+	"id": "squidward-shaco-2",
+	"name": "Squidward Shaco",
+	"champion": 35,
+	"base": 0,
+	"creator": "annown",
+	"description": "**Mod Information**\n\n* Champion: Shaco\n* Modified Skin: Default\n* Author: Annown\n* Mod Version: 1.2.0\n* Model from \"SpongeBob SquarePants: Lights, Camera, Pants!\"\n\n**Features**\n\n* New Model, Texture and Boxes\n* Supports all Quality settings\n* New Loading Screen\n\nJoin my [Discord](discord.gg/js3CDHe4tD \"Discord\") if any of my skins are out of order.\n\n---\n\n**Created by** [Annown](https://runeforge.dev/users/Annown)\n\n**Original:** https://runeforge.dev/mods/75aa1cf4-d1bc-4899-aaa4-3c725090e26e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/squidward-shaco-2/thumb.webp?v=25739870",
+	"file": {
+		"version": 1,
+		"asset": "squidward-shaco-2-v1.fantome",
+		"size": 281479,
+		"sha256": "7ee3490e73aa5ec2fb0de461a5282012191dc49b3aaff7115d4788b493dd3d49"
+	},
+	"chromas": []
+}

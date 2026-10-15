@@ -1,0 +1,25 @@
+{
+	"id": "spirit-blossom-taliyah",
+	"name": "Spirit Blossom Taliyah",
+	"champion": 163,
+	"base": 0,
+	"creator": "froggles",
+	"description": "#### MOD INFORMATION\n\n* CHAMPION: Taliyah\n* MODIFIED SKIN: Default\n* AUTHOR: Froggles\n* CREDITS: Q,W,R Decals -> @AuraMiller975 (at x.com also NSFW WARNING...)\n\n#### FEATURES\n\n* New model & textures\n* Supports all champion quality settings\n* Modified recall particles\n* Modified Loading Splash\n* Edited Animations (Hair physics + Recall)\n\n---\n\n**Created by** [Froggles](https://runeforge.dev/users/Froggles)\n\n**Original:** https://runeforge.dev/mods/cfc45bb3-8d54-4dfa-bfca-f56b2ae64ab6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-taliyah/thumb.webp?v=18ff975e",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-taliyah-v1.fantome",
+		"size": 10237444,
+		"sha256": "fd345cba839ad2460684739e8980f2b8f5df9657842c37e8311184a787580dea"
+	},
+	"chromas": []
+}

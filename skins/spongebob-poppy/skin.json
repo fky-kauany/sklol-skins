@@ -1,0 +1,25 @@
+{
+	"id": "spongebob-poppy",
+	"name": "SpongeBob Poppy",
+	"champion": 78,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "## Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\r\n\r\n## All credits for Kingshound\r\n\r\n‎\r\n\r\nIf it breaks or has problems contact me on discord @AleXD\r\n\r\n* Mod information:\r\n* Type of mod: Skin\r\n* Author: Kingshound\r\n* Skin Version: 1.1.1\r\n* Specifications:\r\n* New Model\r\n* Some Vfx\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/a977d594-1fb4-4f4e-8974-8fe16eebc957\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spongebob-poppy/thumb.webp?v=7f61abbe",
+	"file": {
+		"version": 1,
+		"asset": "spongebob-poppy-v1.fantome",
+		"size": 33872694,
+		"sha256": "0efdd3a1c9f469cb46c1876fce2322755caf43534fd5c245e0d2c8e6d5b5441b"
+	},
+	"chromas": []
+}

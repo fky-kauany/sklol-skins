@@ -1,0 +1,26 @@
+{
+	"id": "spirit-blossom-jhin",
+	"name": "Spirit Blossom Jhin",
+	"champion": 202,
+	"base": 0,
+	"creator": "yoruqueenofnight",
+	"description": "* Champion: Jhin\n* Skin: Default\n\n## Features\n\n* New model and textures\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game icon\n* Modified VFX\n* Modified SFX\n\n## Completely optional: if you enjoy my work you can...\n\n[**Support me on Ko-Fi**](https://ko-fi.com/yoruqueenofnight) **or** [Become a Patreon](https://www.patreon.com/c/user?u=63840897)\n\n---\n\n**Created by** [YoruQueenOfNight](https://runeforge.dev/users/YoruQueenOfNight)\n\n**Original:** https://runeforge.dev/mods/16e6bd39-df9e-4e02-b2d1-71a1b814eb94\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-jhin/thumb.webp?v=2d1a9057",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-jhin-v1.fantome",
+		"size": 18564336,
+		"sha256": "3b6eefac94544168dcfaa48f1fd511e6c8edfa49135b03f1975f3bd80367b461"
+	},
+	"chromas": []
+}

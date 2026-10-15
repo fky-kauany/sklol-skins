@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:41:15.407Z",
+	"generatedAt": "2026-10-15T13:46:59.186Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -30408,6 +30408,256 @@
 				"asset": "spirit-blossom-janna-akana-v1.fantome",
 				"size": 11131620,
 				"sha256": "fa93a381394f1a64439a3775be94ed86207ad0e9ef38b06a9d057b1f1966714f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-jhin",
+			"name": "Spirit Blossom Jhin",
+			"champion": 202,
+			"base": 0,
+			"creator": "yoruqueenofnight",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-jhin/thumb.webp?v=2d1a9057",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-jhin-v1.fantome",
+				"size": 18564336,
+				"sha256": "3b6eefac94544168dcfaa48f1fd511e6c8edfa49135b03f1975f3bd80367b461"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-mel",
+			"name": "Spirit Blossom Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-mel/thumb.webp?v=772cb8ec",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-mel-v1.fantome",
+				"size": 22744942,
+				"sha256": "b1c98cde14f608af20d7d5227d990b177f9d7c86928543afbcc78ed910207dd8"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-springs-sivir",
+			"name": "Spirit Blossom Springs Sivir",
+			"champion": 15,
+			"base": 0,
+			"creator": "lordksop",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-springs-sivir/thumb.webp?v=d43f74f9",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-springs-sivir-v1.fantome",
+				"size": 10171576,
+				"sha256": "949d6cd5a1d521471b1f12144a948aae2deffc480ab4dfde9b2ef221544f42d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-taliyah",
+			"name": "Spirit Blossom Taliyah",
+			"champion": 163,
+			"base": 0,
+			"creator": "froggles",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-taliyah/thumb.webp?v=18ff975e",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-taliyah-v1.fantome",
+				"size": 10237444,
+				"sha256": "fd345cba839ad2460684739e8980f2b8f5df9657842c37e8311184a787580dea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-urgot",
+			"name": "Spirit Blossom Urgot",
+			"champion": 6,
+			"base": 0,
+			"creator": "beardedshepherd",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-urgot/thumb.webp?v=bf6386ff",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-urgot-v1.fantome",
+				"size": 34360238,
+				"sha256": "f8fd05a5732e2c736493eb5db89bea9d537b1007133cdd5e15e101cdf08668ae"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spirit-blossom-viego",
+			"name": "Spirit Blossom Viego",
+			"champion": 234,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spirit-blossom-viego/thumb.webp?v=f19e3ef7",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-viego-v1.fantome",
+				"size": 13273067,
+				"sha256": "c12f9b99029e27b2ad4ccc4c97225ffe189e7438fb5b77ca69d3a61bfed5043c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "splendor-opus-sett",
+			"name": "Splendor Opus Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/splendor-opus-sett/thumb.webp?v=c64067e5",
+			"file": {
+				"version": 1,
+				"asset": "splendor-opus-sett-v1.fantome",
+				"size": 17423891,
+				"sha256": "45bb41859393e3b6c31b58f95d3a41f8698b42b078c68fb6dd73c2a3ed24a78a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spongebob-poppy",
+			"name": "SpongeBob Poppy",
+			"champion": 78,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spongebob-poppy/thumb.webp?v=7f61abbe",
+			"file": {
+				"version": 1,
+				"asset": "spongebob-poppy-v1.fantome",
+				"size": 33872694,
+				"sha256": "0efdd3a1c9f469cb46c1876fce2322755caf43534fd5c245e0d2c8e6d5b5441b"
+			},
+			"chromas": []
+		},
+		{
+			"id": "spyro-smolder",
+			"name": "Spyro Smolder",
+			"champion": 901,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/spyro-smolder/thumb.webp?v=1403d297",
+			"file": {
+				"version": 1,
+				"asset": "spyro-smolder-v1.fantome",
+				"size": 3821691,
+				"sha256": "4de25fbb8a3bd3a82864674dd311ffe29f0827febac7812a7c97eb518e031dbd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "squidward-shaco-2",
+			"name": "Squidward Shaco",
+			"champion": 35,
+			"base": 0,
+			"creator": "annown",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/squidward-shaco-2/thumb.webp?v=25739870",
+			"file": {
+				"version": 1,
+				"asset": "squidward-shaco-2-v1.fantome",
+				"size": 281479,
+				"sha256": "7ee3490e73aa5ec2fb0de461a5282012191dc49b3aaff7115d4788b493dd3d49"
 			},
 			"chromas": []
 		},

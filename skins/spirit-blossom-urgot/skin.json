@@ -1,0 +1,26 @@
+{
+	"id": "spirit-blossom-urgot",
+	"name": "Spirit Blossom Urgot",
+	"champion": 6,
+	"base": 0,
+	"creator": "beardedshepherd",
+	"description": "# MOD INFORMATION\n\nThis skin replaces base Urgot with a custom-made model after Bearded Shepherd's original concept for Spirit Blossom Urgot.\n\n## CREDITS\n\n* Project Lead: [Urpog](https://www.twitch.tv/Urpog)\n* Model, Texture, VFX & Concept: [Bearded Shepherd](https://linktr.ee/BeardedShepherd)\n* SFX & Cinematics: [HuselPusel](https://www.youtube.com/channel/UCZGFSL3BYS1ksf0yk5QJUzw)\n* Splash Art: [Spine Breaker](https://twitter.com/breaking_spine?lang=en)\n* Artistic Staging& Editing: [Snow](https://www.twitch.tv/SnowAF)\n* Original Story: [Sam](https://twitter.com/samushoter)\n* Translation & Oversight: [Clueless DM](https://twitter.com/clueless_dm)\n* Video consideration: [Konradosj](https://twitter.com/konradosj)\n\n## EXTRA INFOS\n\n* If you would like to support me personally, **Bearded Shepherd**, with the models and textures I create for custom skins made completely from scratch, please consider donating to my [PayPal](https://www.paypal.com/paypalme/DanielMatosArtwork)!\n\nEnjoy!&#x20;\n\n---\n\n**Created by** [Bearded Shepherd](https://runeforge.dev/users/BeardedShepherd)\n\n**Original:** https://runeforge.dev/mods/cc6bdb43-bf8a-4e46-8481-21fc326174a8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/spirit-blossom-urgot/thumb.webp?v=bf6386ff",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-urgot-v1.fantome",
+		"size": 34360238,
+		"sha256": "f8fd05a5732e2c736493eb5db89bea9d537b1007133cdd5e15e101cdf08668ae"
+	},
+	"chromas": []
+}
