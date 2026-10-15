@@ -1,0 +1,23 @@
+{
+	"id": "voxel-cho-gath",
+	"name": "Voxel Cho'Gath",
+	"champion": 31,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "# Voxelized ChoGath [Minecraft]\r\n\r\n# ![](https://i.imgur.com/RJvmNil.png)\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/8269a200-ebf9-4abe-9f71-7f31850dafe6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/voxel-cho-gath/thumb.webp?v=9f41246f",
+	"file": {
+		"version": 1,
+		"asset": "voxel-cho-gath-v1.fantome",
+		"size": 5509640,
+		"sha256": "82a2c949e49fa4988e728c5619b887388a03bfb5c8fe27c495174aaf5c2ffd6c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "vtuber-ladyerii-fiora",
+	"name": "Vtuber LadyErii Fiora",
+	"champion": 114,
+	"base": 60,
+	"creator": "poonnotanishisui",
+	"description": "### MOD INFORMATION\n\n* Champion: Fiora\n* Modified skin: Default\n* Author: PoonNotaniShisui\n* Skin Version: 1.2\n\n### SPECIFICATIONSNew model and texture****&#x20;\n\n* New model and texture****&#x20;\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Modified in-game/skill icons\n* New voiceover\n\n### CREDITS\n\n* The LadyErii Fiora 3D model in this mod is from LadyErii's designer\n* Loadscreen art from : ( LadyErii's designer )\n\n---\n\n**Created by** [PoonNotaniShisui](https://runeforge.dev/users/PoonNotaniShisui)\n\n**Original:** https://runeforge.dev/mods/34944bd4-b1b8-43d0-b6e3-27543ff01f42\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vtuber-ladyerii-fiora/thumb.webp?v=fb35ea3a",
+	"file": {
+		"version": 1,
+		"asset": "vtuber-ladyerii-fiora-v1.fantome",
+		"size": 4743733,
+		"sha256": "3836552d93727ecdd77191e76b2a186d3fed0c21b563b48347fe198dd9dbe687"
+	},
+	"chromas": []
+}

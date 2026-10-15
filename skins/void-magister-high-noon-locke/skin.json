@@ -1,0 +1,23 @@
+{
+	"id": "void-magister-high-noon-locke",
+	"name": "Void Magister | High Noon Locke",
+	"champion": 805,
+	"base": 1,
+	"creator": "northoff",
+	"description": "Have fun trying this skin out!. We have over 100 custom skins in our discord server all for free and lifetime updating! We also do weekly polls and skin releases. This skin was made by Tezzed from our Discord server!.\n\nhttps://discord.gg/leaguelab\n\n---\n\n**Created by** [northoff](https://runeforge.dev/users/northoff)\n\n**Original:** https://runeforge.dev/mods/6a256a93-c5fa-4d52-a5cd-f5309f97fbd1\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/void-magister-high-noon-locke/thumb.webp?v=2f323770",
+	"file": {
+		"version": 1,
+		"asset": "void-magister-high-noon-locke-v1.fantome",
+		"size": 4108252,
+		"sha256": "c4d41698494121145ca5f3ea4ce8deea1ee38f64b51a1bee97785c236a58ff4a"
+	},
+	"chromas": []
+}

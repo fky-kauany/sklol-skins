@@ -1,0 +1,22 @@
+{
+	"id": "vladimir-blood-lord-2-0-colorful",
+	"name": "Vladimir Blood Lord 2.0 Colorful",
+	"champion": 8,
+	"base": 5,
+	"creator": "newdami",
+	"description": "You have to own the skin, it's an improvement <3\r\nVladimir ingame doesn't look like splash art so i fixed it adding more colors to model and effects. Now match a little bit better with splash art\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/0737903d-199a-4aa5-9021-43151240d9b0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vladimir-blood-lord-2-0-colorful/thumb.webp?v=6a7029a6",
+	"file": {
+		"version": 1,
+		"asset": "vladimir-blood-lord-2-0-colorful-v1.fantome",
+		"size": 378032,
+		"sha256": "050a991f68c342f3747e5ae1e73c3345527455c6053617c1e2b27feb6cf0bf57"
+	},
+	"chromas": []
+}

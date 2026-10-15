@@ -1,0 +1,22 @@
+{
+	"id": "void-rengar",
+	"name": "Void Rengar",
+	"champion": 107,
+	"base": 0,
+	"creator": "reklewt",
+	"description": "Void Rengar\n\nIn his relentless pursuit of Kha'Zix, Rengar ventured into the Void; from that moment on, he was changed forever.\n\n\n\nMod Features:\n\n\n\nRecolored existing textures to fit Void aesthetic.\n\n---\n\n**Created by** [Reklewt](https://runeforge.dev/users/Reklewt)\n\n**Original:** https://runeforge.dev/mods/44f8e8f7-3c8b-4168-b725-ce2d05635840\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/void-rengar/thumb.webp?v=e331b145",
+	"file": {
+		"version": 1,
+		"asset": "void-rengar-v1.fantome",
+		"size": 454033,
+		"sha256": "e99a8bae1daeb171f46e33e3cd97b753470c2f75af422069da19a807ff74f444"
+	},
+	"chromas": []
+}

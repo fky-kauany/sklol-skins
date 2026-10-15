@@ -1,0 +1,23 @@
+{
+	"id": "vladimir-dark-lord-and-base-dark",
+	"name": "Vladimir Dark Lord and Base Dark",
+	"champion": 8,
+	"base": 0,
+	"creator": "newdami",
+	"description": "Blood Lord skin and base skin replacement (not Blood Lord as base skin)\nCheck out the releases there's different combinations of base skin and effects\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/eb891652-e6dc-447e-bd71-58fd18383d99\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/vladimir-dark-lord-and-base-dark/thumb.webp?v=486cd1ec",
+	"file": {
+		"version": 1,
+		"asset": "vladimir-dark-lord-and-base-dark-v1.fantome",
+		"size": 1895824,
+		"sha256": "1f316d284f78c2145d8cc9b21db263437a46ad9c8ad192f7b9234cb8df0af9c6"
+	},
+	"chromas": []
+}

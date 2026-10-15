@@ -1,0 +1,25 @@
+{
+	"id": "voidgrub-ezreal",
+	"name": "Voidgrub Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\n**Modified champion: Ezreal**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/823fd83f-37b1-4873-bdfa-2e624e5f6169\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/voidgrub-ezreal/thumb.webp?v=3c2e846b",
+	"file": {
+		"version": 1,
+		"asset": "voidgrub-ezreal-v1.fantome",
+		"size": 2670567,
+		"sha256": "e12e678b5f7f2e0052b5ffe9287be1de556daa29e96177c676366878255503f6"
+	},
+	"chromas": []
+}

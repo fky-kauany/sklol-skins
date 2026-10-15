@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:39:03.550Z",
+	"generatedAt": "2026-10-15T14:42:08.253Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1404,6 +1404,10 @@
 			"links": {
 				"youtube": "https://www.youtube.com/@stalos3094"
 			}
+		},
+		"reklewt": {
+			"name": "Reklewt",
+			"links": {}
 		},
 		"retardead": {
 			"name": "retardead",
@@ -33227,6 +33231,241 @@
 				"asset": "vivian-soraka-v1.fantome",
 				"size": 9386418,
 				"sha256": "d6af19948438ea0eb6433122c4271fbd1ad9b5f7a5026292d98ba48328d6f40c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vladimir-blood-lord-2-0-colorful",
+			"name": "Vladimir Blood Lord 2.0 Colorful",
+			"champion": 8,
+			"base": 5,
+			"creator": "newdami",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vladimir-blood-lord-2-0-colorful/thumb.webp?v=6a7029a6",
+			"file": {
+				"version": 1,
+				"asset": "vladimir-blood-lord-2-0-colorful-v1.fantome",
+				"size": 378032,
+				"sha256": "050a991f68c342f3747e5ae1e73c3345527455c6053617c1e2b27feb6cf0bf57"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vladimir-dark-lord-and-base-dark",
+			"name": "Vladimir Dark Lord and Base Dark",
+			"champion": 8,
+			"base": 0,
+			"creator": "newdami",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vladimir-dark-lord-and-base-dark/thumb.webp?v=486cd1ec",
+			"file": {
+				"version": 1,
+				"asset": "vladimir-dark-lord-and-base-dark-v1.fantome",
+				"size": 1895824,
+				"sha256": "1f316d284f78c2145d8cc9b21db263437a46ad9c8ad192f7b9234cb8df0af9c6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "void-magister-high-noon-locke",
+			"name": "Void Magister | High Noon Locke",
+			"champion": 805,
+			"base": 1,
+			"creator": "northoff",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/void-magister-high-noon-locke/thumb.webp?v=2f323770",
+			"file": {
+				"version": 1,
+				"asset": "void-magister-high-noon-locke-v1.fantome",
+				"size": 4108252,
+				"sha256": "c4d41698494121145ca5f3ea4ce8deea1ee38f64b51a1bee97785c236a58ff4a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "void-rengar",
+			"name": "Void Rengar",
+			"champion": 107,
+			"base": 0,
+			"creator": "reklewt",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/void-rengar/thumb.webp?v=e331b145",
+			"file": {
+				"version": 1,
+				"asset": "void-rengar-v1.fantome",
+				"size": 454033,
+				"sha256": "e99a8bae1daeb171f46e33e3cd97b753470c2f75af422069da19a807ff74f444"
+			},
+			"chromas": []
+		},
+		{
+			"id": "voidgrub-ezreal",
+			"name": "Voidgrub Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/voidgrub-ezreal/thumb.webp?v=3c2e846b",
+			"file": {
+				"version": 1,
+				"asset": "voidgrub-ezreal-v1.fantome",
+				"size": 2670567,
+				"sha256": "e12e678b5f7f2e0052b5ffe9287be1de556daa29e96177c676366878255503f6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "voxel-cho-gath",
+			"name": "Voxel Cho'Gath",
+			"champion": 31,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/voxel-cho-gath/thumb.webp?v=9f41246f",
+			"file": {
+				"version": 1,
+				"asset": "voxel-cho-gath-v1.fantome",
+				"size": 5509640,
+				"sha256": "82a2c949e49fa4988e728c5619b887388a03bfb5c8fe27c495174aaf5c2ffd6c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vshojo-zentreya-yasuo",
+			"name": "VShojo Zentreya Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vshojo-zentreya-yasuo/thumb.webp?v=71fbe5a6",
+			"file": {
+				"version": 1,
+				"asset": "vshojo-zentreya-yasuo-v1.fantome",
+				"size": 8037424,
+				"sha256": "a4767d9c287a32a27537077e737b713961bfdfc0201ea3ebdb1cbcf574e33b98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vtuber-ladyerii-ekko",
+			"name": "Vtuber LadyErii Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vtuber-ladyerii-ekko/thumb.webp?v=9470e34a",
+			"file": {
+				"version": 1,
+				"asset": "vtuber-ladyerii-ekko-v1.fantome",
+				"size": 10383738,
+				"sha256": "359d5fd0df4a3759627d0e7a20b87e31af22c8cdde22d076f0ae780a0bd30153"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vtuber-ladyerii-fiora",
+			"name": "Vtuber LadyErii Fiora",
+			"champion": 114,
+			"base": 60,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vtuber-ladyerii-fiora/thumb.webp?v=fb35ea3a",
+			"file": {
+				"version": 1,
+				"asset": "vtuber-ladyerii-fiora-v1.fantome",
+				"size": 4743733,
+				"sha256": "3836552d93727ecdd77191e76b2a186d3fed0c21b563b48347fe198dd9dbe687"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vtuber-ladyerii-veigar",
+			"name": "Vtuber LadyErii Veigar",
+			"champion": 45,
+			"base": 0,
+			"creator": "poonnotanishisui",
+			"parts": [
+				"model",
+				"textures",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/vtuber-ladyerii-veigar/thumb.webp?v=990803e8",
+			"file": {
+				"version": 1,
+				"asset": "vtuber-ladyerii-veigar-v1.fantome",
+				"size": 5215487,
+				"sha256": "38bf341690a4065cece7828c9d41be6960ac1beadf426e860886f0faf64bc14d"
 			},
 			"chromas": []
 		},
