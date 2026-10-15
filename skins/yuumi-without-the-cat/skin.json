@@ -1,0 +1,23 @@
+{
+	"id": "yuumi-without-the-cat",
+	"name": "Yuumi without the cat",
+	"champion": 350,
+	"base": 0,
+	"creator": "yuumi",
+	"description": "Removes Yuumi from the base Yuumi skin\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/af4c8075-499e-4740-9973-eaf079bd8e0e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuumi-without-the-cat/thumb.webp?v=2e988f33",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-without-the-cat-v1.fantome",
+		"size": 101293,
+		"sha256": "d1f3da2b4c1003a40df7e4b8352149075d410babb74cabc29541289553d1f527"
+	},
+	"chromas": []
+}

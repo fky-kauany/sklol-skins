@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T15:06:52.956Z",
+	"generatedAt": "2026-10-15T15:07:39.480Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -35352,6 +35352,75 @@
 				"asset": "yuumi-mel-v1.fantome",
 				"size": 342562,
 				"sha256": "9265b23159b934058ea69039ee756400fd5d0914e84632324858b288bfbb27ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-samira",
+			"name": "Yuumi Samira",
+			"champion": 360,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-samira/thumb.webp?v=95291368",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-samira-v1.fantome",
+				"size": 872464,
+				"sha256": "cfcd6376fc4b47fb2731c889d13efed60d9309319435da5f78e1c4d1b3d11cc5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-without-the-cat",
+			"name": "Yuumi without the cat",
+			"champion": 350,
+			"base": 0,
+			"creator": "yuumi",
+			"parts": [
+				"model",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-without-the-cat/thumb.webp?v=2e988f33",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-without-the-cat-v1.fantome",
+				"size": 101293,
+				"sha256": "d1f3da2b4c1003a40df7e4b8352149075d410babb74cabc29541289553d1f527"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yuumi-yunara",
+			"name": "Yuumi Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/yuumi-yunara/thumb.webp?v=b27a3008",
+			"file": {
+				"version": 1,
+				"asset": "yuumi-yunara-v1.fantome",
+				"size": 512799,
+				"sha256": "4257d7f120d285b0fc2ce969d45ed14e59ab44342119267717b5f19a4668f769"
 			},
 			"chromas": []
 		},

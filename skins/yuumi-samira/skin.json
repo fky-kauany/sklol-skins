@@ -1,0 +1,23 @@
+{
+	"id": "yuumi-samira",
+	"name": "Yuumi Samira",
+	"champion": 360,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "### Information\n\n**Modified champion: Samira**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/49831806-ef0f-4184-96ee-ff085672e220\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/yuumi-samira/thumb.webp?v=95291368",
+	"file": {
+		"version": 1,
+		"asset": "yuumi-samira-v1.fantome",
+		"size": 872464,
+		"sha256": "cfcd6376fc4b47fb2731c889d13efed60d9309319435da5f78e1c4d1b3d11cc5"
+	},
+	"chromas": []
+}
