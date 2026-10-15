@@ -1,0 +1,25 @@
+{
+	"id": "akaza-sett",
+	"name": "Akaza Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "matamorosalex",
+	"description": "Champion:Sett\n\nModified skin:Base\n\nAkaza from Kimetsu no Yaiba\n\n---\n\n**Created by** [matamoros](https://runeforge.dev/users/matamorosalex)\n\n**Original:** https://runeforge.dev/mods/2d9e726e-a4f6-4d43-9b3b-b88e8cec51ff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/akaza-sett/thumb.webp?v=d4363cd5",
+	"file": {
+		"version": 1,
+		"asset": "akaza-sett-v1.fantome",
+		"size": 9406046,
+		"sha256": "bf513a2479d5ea51d0dd58f8396e4040e0235e2eb346bcbddfc85a20d78e422d"
+	},
+	"chromas": []
+}

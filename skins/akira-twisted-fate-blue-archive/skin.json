@@ -1,0 +1,24 @@
+{
+	"id": "akira-twisted-fate-blue-archive",
+	"name": "Akira Twisted Fate (Blue Archive)",
+	"champion": 4,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "original mod belongs to tarn. i reupload\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/0f12a2a8-9bca-4a23-ada1-93ce20c7e707\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/akira-twisted-fate-blue-archive/thumb.webp?v=b8fec772",
+	"file": {
+		"version": 1,
+		"asset": "akira-twisted-fate-blue-archive-v1.fantome",
+		"size": 5491140,
+		"sha256": "e4d7ad1936181a2b4df8f704c6b6f67f8191062dc97e254990afdb7d6b5f7b7c"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "akane-jhin-blue-archive",
+	"name": "Akane Jhin (Blue Archive)",
+	"champion": 202,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "Author: Tarngaina\n\nNow with updated texture and new soundbanks\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/21434458-4aac-4035-b3ce-0b642c8ef381\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/akane-jhin-blue-archive/thumb.webp?v=f54921eb",
+	"file": {
+		"version": 1,
+		"asset": "akane-jhin-blue-archive-v1.fantome",
+		"size": 14944814,
+		"sha256": "80f848722560533ae293f5b391d21a06d277969d78368f457d6bd49c58d35fdb"
+	},
+	"chromas": []
+}

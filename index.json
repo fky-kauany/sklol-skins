@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:45:04.968Z",
+	"generatedAt": "2026-10-15T07:47:10.111Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -152,6 +152,12 @@
 		"comasquash": {
 			"name": "ComaSquash",
 			"avatar": "creators/comasquash.png?v=7903d54b",
+			"links": {}
+		},
+		"cz": {
+			"name": "CZ",
+			"avatar": "creators/cz.jpg?v=1c45cb0c",
+			"bio": "i like one woman and thats it, spiderman is cool, and also XD XD XD XD",
 			"links": {}
 		},
 		"czcz": {
@@ -446,6 +452,11 @@
 				"discord": "https://discord.gg/qS4hsN5NrJ"
 			}
 		},
+		"laiker": {
+			"name": "Laiker",
+			"avatar": "creators/laiker.jpg?v=4682a9a7",
+			"links": {}
+		},
 		"lexa2209": {
 			"name": "lexa2209",
 			"bio": "PRRRRRRR PAPA SKIBIDI PAPA",
@@ -469,6 +480,12 @@
 		"magnaplayer": {
 			"name": "MagnaPlayer",
 			"avatar": "creators/magnaplayer.png?v=f78784d6",
+			"links": {}
+		},
+		"matamorosalex": {
+			"name": "matamoros",
+			"avatar": "creators/matamorosalex.jpg?v=ed035c8d",
+			"bio": "i like anime mods",
 			"links": {}
 		},
 		"mava": {
@@ -1276,6 +1293,177 @@
 				"asset": "after-hours-ahri-no-tails-v1.fantome",
 				"size": 856750,
 				"sha256": "6a2937f83886ac7e5364f278e9bf34338bbb2a146bec2b9f8956a7635a607d32"
+			},
+			"chromas": []
+		},
+		{
+			"id": "agnes-tachyon-akali",
+			"name": "Agnes Tachyon Akali",
+			"champion": 84,
+			"base": 2,
+			"creator": "laiker",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/agnes-tachyon-akali/thumb.webp?v=3fe1c4f0",
+			"file": {
+				"version": 1,
+				"asset": "agnes-tachyon-akali-v1.fantome",
+				"size": 3227927,
+				"sha256": "2c8697f7b9e7c023fa1612c850e9b419de8f5f20e604932419c1a22597da209a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ahri-po",
+			"name": "Ahri Po",
+			"champion": 103,
+			"base": 0,
+			"creator": "cz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/ahri-po/thumb.webp?v=20904e7c",
+			"file": {
+				"version": 1,
+				"asset": "ahri-po-v1.fantome",
+				"size": 18323217,
+				"sha256": "3fa4928e214d61d9ffd07dc939e298239b330df4bdc7f702f96a701c39a51309"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-briar",
+			"name": "Akali (Briar)",
+			"champion": 233,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akali-briar/thumb.webp?v=b65a31c0",
+			"file": {
+				"version": 1,
+				"asset": "akali-briar-v1.fantome",
+				"size": 722172,
+				"sha256": "a231c9503553ab7b5f06b04233fd21d869e6052812024b25c67a08497097eaea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akame-ga-kill-yasuo",
+			"name": "Akame Ga Kill Yasuo",
+			"champion": 157,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akame-ga-kill-yasuo/thumb.webp?v=8620dfbe",
+			"file": {
+				"version": 1,
+				"asset": "akame-ga-kill-yasuo-v1.fantome",
+				"size": 3670967,
+				"sha256": "07635536df38199f288b4470c8a6fc3d3ae4eab5d192511125b8cdbf90920ada"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akane-jhin-blue-archive",
+			"name": "Akane Jhin (Blue Archive)",
+			"champion": 202,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akane-jhin-blue-archive/thumb.webp?v=f54921eb",
+			"file": {
+				"version": 1,
+				"asset": "akane-jhin-blue-archive-v1.fantome",
+				"size": 14944814,
+				"sha256": "80f848722560533ae293f5b391d21a06d277969d78368f457d6bd49c58d35fdb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akaza-sett",
+			"name": "Akaza Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "matamorosalex",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akaza-sett/thumb.webp?v=d4363cd5",
+			"file": {
+				"version": 1,
+				"asset": "akaza-sett-v1.fantome",
+				"size": 9406046,
+				"sha256": "bf513a2479d5ea51d0dd58f8396e4040e0235e2eb346bcbddfc85a20d78e422d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akira-twisted-fate-blue-archive",
+			"name": "Akira Twisted Fate (Blue Archive)",
+			"champion": 4,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/akira-twisted-fate-blue-archive/thumb.webp?v=b8fec772",
+			"file": {
+				"version": 1,
+				"asset": "akira-twisted-fate-blue-archive-v1.fantome",
+				"size": 5491140,
+				"sha256": "e4d7ad1936181a2b4df8f704c6b6f67f8191062dc97e254990afdb7d6b5f7b7c"
 			},
 			"chromas": []
 		},

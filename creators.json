@@ -151,6 +151,12 @@
 		"avatar": "creators/comasquash.png?v=7903d54b",
 		"links": {}
 	},
+	"cz": {
+		"name": "CZ",
+		"avatar": "creators/cz.jpg?v=1c45cb0c",
+		"bio": "i like one woman and thats it, spiderman is cool, and also XD XD XD XD",
+		"links": {}
+	},
 	"czcz": {
 		"name": "czcz",
 		"avatar": "creators/czcz.webp?v=d8cb95e7",
@@ -443,6 +449,11 @@
 			"discord": "https://discord.gg/qS4hsN5NrJ"
 		}
 	},
+	"laiker": {
+		"name": "Laiker",
+		"avatar": "creators/laiker.jpg?v=4682a9a7",
+		"links": {}
+	},
 	"lexa2209": {
 		"name": "lexa2209",
 		"bio": "PRRRRRRR PAPA SKIBIDI PAPA",
@@ -466,6 +477,12 @@
 	"magnaplayer": {
 		"name": "MagnaPlayer",
 		"avatar": "creators/magnaplayer.png?v=f78784d6",
+		"links": {}
+	},
+	"matamorosalex": {
+		"name": "matamoros",
+		"avatar": "creators/matamorosalex.jpg?v=ed035c8d",
+		"bio": "i like anime mods",
 		"links": {}
 	},
 	"mava": {

@@ -1,0 +1,24 @@
+{
+	"id": "agnes-tachyon-akali",
+	"name": "Agnes Tachyon Akali",
+	"champion": 84,
+	"base": 2,
+	"creator": "laiker",
+	"description": "Champion: Akali\r\n\r\n\r\nModified skin: base\r\n\r\n\r\nAuthor: Laiker\r\n\r\n\r\nVersion: 1.0.0\r\n\r\n\r\nThe Phantom Triple Crown\r\n\r\n\r\nPlease report bugs.\n\n---\n\n**Created by** [Laiker](https://runeforge.dev/users/Laiker)\n\n**Original:** https://runeforge.dev/mods/5494d841-5e40-4d6a-96e3-1e1eeeefa1f1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/agnes-tachyon-akali/thumb.webp?v=3fe1c4f0",
+	"file": {
+		"version": 1,
+		"asset": "agnes-tachyon-akali-v1.fantome",
+		"size": 3227927,
+		"sha256": "2c8697f7b9e7c023fa1612c850e9b419de8f5f20e604932419c1a22597da209a"
+	},
+	"chromas": []
+}

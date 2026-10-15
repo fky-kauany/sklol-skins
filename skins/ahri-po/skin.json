@@ -1,0 +1,26 @@
+{
+	"id": "ahri-po",
+	"name": "Ahri Po",
+	"champion": 103,
+	"base": 0,
+	"creator": "cz",
+	"description": "Po Ahri for my panda\n\n---\n\n**Created by** [CZ](https://runeforge.dev/users/CZ)\n\n**Original:** https://runeforge.dev/mods/ede331de-6956-4a26-a7ac-0474e6041523\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/ahri-po/thumb.webp?v=20904e7c",
+	"file": {
+		"version": 1,
+		"asset": "ahri-po-v1.fantome",
+		"size": 18323217,
+		"sha256": "3fa4928e214d61d9ffd07dc939e298239b330df4bdc7f702f96a701c39a51309"
+	},
+	"chromas": []
+}
