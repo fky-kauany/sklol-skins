@@ -1,0 +1,23 @@
+{
+	"id": "master-yi-tempest-sword",
+	"name": "master yi tempest sword",
+	"champion": 11,
+	"base": 11,
+	"creator": "vision4rio",
+	"description": "this skin changes the VFX, SFX and some animations. skin made with eternal sword as base, and some custom skins.\r\n\r\nHere you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/d8920e13-ef9e-4722-ba6c-10f457add9ba\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/master-yi-tempest-sword/thumb.webp?v=bbea0f24",
+	"file": {
+		"version": 1,
+		"asset": "master-yi-tempest-sword-v1.fantome",
+		"size": 25905129,
+		"sha256": "2f208e51ceebe643ce0c7fc793ec4c71bd9c305e1e437737ab2f7afb4fa5503c"
+	},
+	"chromas": []
+}

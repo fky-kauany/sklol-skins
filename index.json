@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:34:36.474Z",
+	"generatedAt": "2026-10-15T11:37:46.276Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -20673,6 +20673,242 @@
 				"asset": "master-yi-project-neon-yi-v1.fantome",
 				"size": 2860706,
 				"sha256": "5faaa8936147bebf7876655492f45279aa319f7e6654c0354f840d0738fae705"
+			},
+			"chromas": []
+		},
+		{
+			"id": "master-yi-tempest-sword",
+			"name": "master yi tempest sword",
+			"champion": 11,
+			"base": 11,
+			"creator": "vision4rio",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/master-yi-tempest-sword/thumb.webp?v=bbea0f24",
+			"file": {
+				"version": 1,
+				"asset": "master-yi-tempest-sword-v1.fantome",
+				"size": 25905129,
+				"sha256": "2f208e51ceebe643ce0c7fc793ec4c71bd9c305e1e437737ab2f7afb4fa5503c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "matcha-spirit-blossom-ahri",
+			"name": "Matcha Spirit Blossom Ahri",
+			"champion": 103,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/matcha-spirit-blossom-ahri/thumb.webp?v=0aa86d47",
+			"file": {
+				"version": 1,
+				"asset": "matcha-spirit-blossom-ahri-v1.fantome",
+				"size": 5487215,
+				"sha256": "62487adfaeded5ea19c296efc90fba1833e62408d35fa8ba65d6b28ae0005289"
+			},
+			"chromas": []
+		},
+		{
+			"id": "matikane-tannhauser-sett-umamu-sumeko",
+			"name": "Matikane Tannhauser Sett (Umamu Sumeko)",
+			"champion": 875,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/matikane-tannhauser-sett-umamu-sumeko/thumb.webp?v=0d9da62b",
+			"file": {
+				"version": 1,
+				"asset": "matikane-tannhauser-sett-umamu-sumeko-v1.fantome",
+				"size": 9786396,
+				"sha256": "d9700893b610eeebdb668891615af6225a817dbb25de2f75174d0aa7b17840a6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "maxwell-yuumi",
+			"name": "Maxwell Yuumi",
+			"champion": 350,
+			"base": 0,
+			"creator": "snorr",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/maxwell-yuumi/thumb.webp?v=e40e2026",
+			"file": {
+				"version": 1,
+				"asset": "maxwell-yuumi-v1.fantome",
+				"size": 52331869,
+				"sha256": "9e46e5186516619dbfb2b835a98bb913c20610bb94ae1d3a9231c40125c0d468"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-fizz",
+			"name": "Mecha Fizz",
+			"champion": 105,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-fizz/thumb.webp?v=f47be723",
+			"file": {
+				"version": 1,
+				"asset": "mecha-fizz-v1.fantome",
+				"size": 1539560,
+				"sha256": "1a4c2c370546b1c18bd3b48d46d8324b4d06a5e5b6ce368e66bd8a490e44289c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-kingdoms-darius-black-golden-chroma",
+			"name": "Mecha Kingdoms Darius Black Golden Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-kingdoms-darius-black-golden-chroma/thumb.webp?v=dd90ad28",
+			"file": {
+				"version": 1,
+				"asset": "mecha-kingdoms-darius-black-golden-chroma-v1.fantome",
+				"size": 1976244,
+				"sha256": "9aec51ebe4f27463fe41293da660d3a2bcaa7f6aee48ced60a5e7b9ba37863f1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-kingdoms-darius-black-red-chroma",
+			"name": "Mecha Kingdoms Darius Black Red Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-kingdoms-darius-black-red-chroma/thumb.webp?v=e3ddb3b9",
+			"file": {
+				"version": 1,
+				"asset": "mecha-kingdoms-darius-black-red-chroma-v1.fantome",
+				"size": 1912496,
+				"sha256": "e11812e18f5cbd0617e96615ed0537a03db7fcc2d65487a9f24802901f0cc27a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-kingdoms-darius-purple-chroma",
+			"name": "Mecha Kingdoms Darius Purple Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-kingdoms-darius-purple-chroma/thumb.webp?v=d00b46f5",
+			"file": {
+				"version": 1,
+				"asset": "mecha-kingdoms-darius-purple-chroma-v1.fantome",
+				"size": 3141043,
+				"sha256": "18c94ea07e3da6b346ba64c11a5166bc13ab28b3062fe85eb4cb176d07abc48c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-kingdoms-darius-red-chroma",
+			"name": "Mecha Kingdoms Darius Red Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "alexrogin123",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-kingdoms-darius-red-chroma/thumb.webp?v=2a5dca0a",
+			"file": {
+				"version": 1,
+				"asset": "mecha-kingdoms-darius-red-chroma-v1.fantome",
+				"size": 2960035,
+				"sha256": "d81c3f55336e3273f0eb5977b3c1918f39c1f4c1ac95995f223b2fcd48174bdd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mecha-kingdoms-darius-white-blue-chroma",
+			"name": "Mecha Kingdoms Darius White Blue Chroma",
+			"champion": 122,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mecha-kingdoms-darius-white-blue-chroma/thumb.webp?v=502509af",
+			"file": {
+				"version": 1,
+				"asset": "mecha-kingdoms-darius-white-blue-chroma-v1.fantome",
+				"size": 3451299,
+				"sha256": "655ecc7feb22ed7fe60717003f68cb879fd7b235339b23d83feae18fdc77cf6e"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,24 @@
+{
+	"id": "mecha-fizz",
+	"name": "Mecha Fizz",
+	"champion": 105,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "Champion : Fizz\n\n‎\n\nModified skin : Default\n\n‎\n\nOriginal Author : BaeckerSkins\n\n\n\nRecovered by: Imora\n\n‎\n\nMod version: 1.0.0\n\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/13e448b9-2618-4bf0-8426-07e99127d3c3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-fizz/thumb.webp?v=f47be723",
+	"file": {
+		"version": 1,
+		"asset": "mecha-fizz-v1.fantome",
+		"size": 1539560,
+		"sha256": "1a4c2c370546b1c18bd3b48d46d8324b4d06a5e5b6ce368e66bd8a490e44289c"
+	},
+	"chromas": []
+}

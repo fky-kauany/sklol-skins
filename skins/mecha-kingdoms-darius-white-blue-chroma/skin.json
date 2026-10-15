@@ -1,0 +1,23 @@
+{
+	"id": "mecha-kingdoms-darius-white-blue-chroma",
+	"name": "Mecha Kingdoms Darius White Blue Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Mecha Kingdoms Darius White Blue Chroma\r\n\r\nSkin modified : Mecha Kingdoms Darius\r\n\r\nAuthor : Dempsey20\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/f9f976f3-dfdf-4aaa-ac28-c86584fb4ad6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-kingdoms-darius-white-blue-chroma/thumb.webp?v=502509af",
+	"file": {
+		"version": 1,
+		"asset": "mecha-kingdoms-darius-white-blue-chroma-v1.fantome",
+		"size": 3451299,
+		"sha256": "655ecc7feb22ed7fe60717003f68cb879fd7b235339b23d83feae18fdc77cf6e"
+	},
+	"chromas": []
+}

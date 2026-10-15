@@ -1,0 +1,24 @@
+{
+	"id": "maxwell-yuumi",
+	"name": "Maxwell Yuumi",
+	"champion": 350,
+	"base": 0,
+	"creator": "snorr",
+	"description": "**Overview**\n\n\\- Replaces Yuumi in all her Skins and Chromas with Maxwell the cat\n\n\\- Replaces some sounds effects to different meme-sounds\n\n\\- Replaces all Loadscreens and Icons\n\n\\- Fully mutes all of Yuumi's voicelines, leaving only meows and purrs\n\n***\n\n**Credits**\n\n\\- Model work by Abdomera and Snorr\n\n\\- Sounds/Voice and Texture work by Snorr\n\n\\- Thank you to mintess. and kanarina for helping me test some skins\n\n***\n\n**Install instructions**\n\n\\- Download the file, run it with cslol\n\n\\- Enjoy Maxwell a lot\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/a3f54986-fd38-43ba-8fa0-a5a637962f29\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/maxwell-yuumi/thumb.webp?v=e40e2026",
+	"file": {
+		"version": 1,
+		"asset": "maxwell-yuumi-v1.fantome",
+		"size": 52331869,
+		"sha256": "9e46e5186516619dbfb2b835a98bb913c20610bb94ae1d3a9231c40125c0d468"
+	},
+	"chromas": []
+}

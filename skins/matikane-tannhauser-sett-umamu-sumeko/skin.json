@@ -1,0 +1,25 @@
+{
+	"id": "matikane-tannhauser-sett-umamu-sumeko",
+	"name": "Matikane Tannhauser Sett (Umamu Sumeko)",
+	"champion": 875,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "do not make league of legend mods at 3 am or league of legend will come to your house\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/03d98e9b-f729-416b-a70f-3d4c6c09f947\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/matikane-tannhauser-sett-umamu-sumeko/thumb.webp?v=0d9da62b",
+	"file": {
+		"version": 1,
+		"asset": "matikane-tannhauser-sett-umamu-sumeko-v1.fantome",
+		"size": 9786396,
+		"sha256": "d9700893b610eeebdb668891615af6225a817dbb25de2f75174d0aa7b17840a6"
+	},
+	"chromas": []
+}

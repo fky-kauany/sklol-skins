@@ -1,0 +1,25 @@
+{
+	"id": "matcha-spirit-blossom-ahri",
+	"name": "Matcha Spirit Blossom Ahri",
+	"champion": 103,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\n\nTo use this skin you need to own Spirit Blossom Ahri (base) and use it in champ select.\n\n\n## Description\n**Author**: Suriin\n\n**Skin**: Spirit Blossom Ahri\n\n**Changes**: Textures.\n\n\nGreen chroma for Spirit Blossom Ahri. Only works on the base (no chroma selected). Might change some of the glow effects (ult, fox form) later.\n\n\n## Contact\n\n\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/f158b1ca-ee37-4a77-bb3e-ce9b532693d9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/matcha-spirit-blossom-ahri/thumb.webp?v=0aa86d47",
+	"file": {
+		"version": 1,
+		"asset": "matcha-spirit-blossom-ahri-v1.fantome",
+		"size": 5487215,
+		"sha256": "62487adfaeded5ea19c296efc90fba1833e62408d35fa8ba65d6b28ae0005289"
+	},
+	"chromas": []
+}

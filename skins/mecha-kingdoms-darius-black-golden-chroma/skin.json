@@ -1,0 +1,23 @@
+{
+	"id": "mecha-kingdoms-darius-black-golden-chroma",
+	"name": "Mecha Kingdoms Darius Black Golden Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Mecha Kingdoms Darius Black Golden Chroma\r\n\r\nSkin modified : Mecha Kingdoms Darius\r\n\r\nAuthor : Dempsey20\r\n\r\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/611854a9-545d-4968-963a-4040f204d65c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-kingdoms-darius-black-golden-chroma/thumb.webp?v=dd90ad28",
+	"file": {
+		"version": 1,
+		"asset": "mecha-kingdoms-darius-black-golden-chroma-v1.fantome",
+		"size": 1976244,
+		"sha256": "9aec51ebe4f27463fe41293da660d3a2bcaa7f6aee48ced60a5e7b9ba37863f1"
+	},
+	"chromas": []
+}

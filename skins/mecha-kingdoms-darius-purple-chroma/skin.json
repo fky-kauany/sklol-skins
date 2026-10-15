@@ -1,0 +1,23 @@
+{
+	"id": "mecha-kingdoms-darius-purple-chroma",
+	"name": "Mecha Kingdoms Darius Purple Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin:  Mecha Kingdoms Darius\r\n\r\nAuthor: alexrogin123\r\n\r\nSkin Version: 1.0\r\n\r\nIf u wish to support my work u can do it here : https://paypal.me/Rog04\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/7a68b44d-e1d6-410f-80fa-919ff1016da7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-kingdoms-darius-purple-chroma/thumb.webp?v=d00b46f5",
+	"file": {
+		"version": 1,
+		"asset": "mecha-kingdoms-darius-purple-chroma-v1.fantome",
+		"size": 3141043,
+		"sha256": "18c94ea07e3da6b346ba64c11a5166bc13ab28b3062fe85eb4cb176d07abc48c"
+	},
+	"chromas": []
+}

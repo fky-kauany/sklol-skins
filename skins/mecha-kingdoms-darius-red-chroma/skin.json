@@ -1,0 +1,23 @@
+{
+	"id": "mecha-kingdoms-darius-red-chroma",
+	"name": "Mecha Kingdoms Darius Red Chroma",
+	"champion": 122,
+	"base": 0,
+	"creator": "alexrogin123",
+	"description": "Modifled skin: Mecha Kingdoms Darius\r\n\r\nAuthor: alexrogin123\r\n\r\nSkin Version: 1.0\r\n\r\nIf u wish to support my work u can do it here : https://paypal.me/Rog04\n\n---\n\n**Created by** [alexrogin123](https://runeforge.dev/users/alexrogin123)\n\n**Original:** https://runeforge.dev/mods/3a10bf92-a353-4c1a-aee6-1413128383b9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mecha-kingdoms-darius-red-chroma/thumb.webp?v=2a5dca0a",
+	"file": {
+		"version": 1,
+		"asset": "mecha-kingdoms-darius-red-chroma-v1.fantome",
+		"size": 2960035,
+		"sha256": "d81c3f55336e3273f0eb5977b3c1918f39c1f4c1ac95995f223b2fcd48174bdd"
+	},
+	"chromas": []
+}
