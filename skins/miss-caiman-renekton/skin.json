@@ -1,0 +1,23 @@
+{
+	"id": "miss-caiman-renekton",
+	"name": "Miss Caiman Renekton",
+	"champion": 58,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "## **Mod Information**\n\n***\n\n***\n\n* **Champion:** Renekton\n* **Modified Skin:** Default\n* **Author:** Capwill\n* **Mod Version:** 1.0.0\n* Renekton as a pretty croc\n\n## **Features**\n\n***\n\n***\n\n* Custom textures\n\nThis mod was recovered by Vexrage.\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/d351b7ff-3b14-453c-857c-f5fecbc6585c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/miss-caiman-renekton/thumb.webp?v=78ef1268",
+	"file": {
+		"version": 1,
+		"asset": "miss-caiman-renekton-v1.fantome",
+		"size": 1503807,
+		"sha256": "8e7abfbb244cdfa7d24e1165e644d1884907ee6fcfdfa34fa51e3d97292d04d3"
+	},
+	"chromas": []
+}

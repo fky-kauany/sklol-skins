@@ -1,0 +1,27 @@
+{
+	"id": "misono-mika-sion-blue-archive",
+	"name": "Misono Mika Sion (Blue Archive)",
+	"champion": 14,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "# Skin Info:\r\n\r\nChampion : Sion\r\n\r\n‎\r\n\r\nModified skin : Default\r\n\r\n‎\r\n\r\nOriginal Author : お兄ちゃんの苗床\r\n\r\n‎\r\n\r\nRecovered by: Yuumi\r\n\r\n‎\r\n\r\nMod version: 1.0.0\r\n\r\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\r\n\r\n‎\r\n\r\n‎\r\n\r\nIf it breaks or has problems contact me on discord: @fbsyuumi\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/45e4e781-eafb-4f27-9dd4-6d29cca05ba1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/misono-mika-sion-blue-archive/thumb.webp?v=acc74b51",
+	"file": {
+		"version": 1,
+		"asset": "misono-mika-sion-blue-archive-v1.fantome",
+		"size": 15516020,
+		"sha256": "29a9203472f836ef80f256f5330b73ec3654dbfe286a53f16b000d27101a0f33"
+	},
+	"chromas": []
+}

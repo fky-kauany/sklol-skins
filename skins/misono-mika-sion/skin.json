@@ -1,0 +1,27 @@
+{
+	"id": "misono-mika-sion",
+	"name": "Misono Mika Sion",
+	"champion": 14,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Sion\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Sion with Misono Mika from Blue Archive\r\n\r\nミカちゃんのロールケーキぺろぺろしたい。。。ぺろぺろぺろぺろ\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations\r\n* Edited ability sounds\r\n* New voiceover fully replacing Sion’s 150+ lines and various store interactions\r\n\r\n### Credits\r\n* Model from Blue Archive\r\n* Particle effects, textures from Blue Archive and various free BA MMD releases\r\n* Visual assets from Blue Archive CGs\r\n* Voiceover primarily from Blue Archive. Some combat voices from other  games done by Mika’s VA Touyama Nao (FGO, Shironeko Project, etc)\r\n* Ult global background music Theme 136 from Blue Archive\r\n* Dance background music All 4 You from Kaminomi (VA Touyama Nao)\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/26f3976d-174e-4230-bbe2-a3da7bc03cfc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/misono-mika-sion/thumb.webp?v=8d5788bd",
+	"file": {
+		"version": 1,
+		"asset": "misono-mika-sion-v1.fantome",
+		"size": 16651883,
+		"sha256": "0c769e8469dd4bc7b67670609a326d719d4c559f7e7b534793552015011a8115"
+	},
+	"chromas": []
+}

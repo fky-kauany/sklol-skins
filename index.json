@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:50:29.446Z",
+	"generatedAt": "2026-10-15T11:53:33.424Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -846,6 +846,14 @@
 			"avatar": "creators/kesa.webp?v=25b19952",
 			"links": {}
 		},
+		"khare": {
+			"name": "Khare",
+			"avatar": "creators/khare.jpg?v=b5d7c533",
+			"links": {
+				"discord": "https://discord.gg/zhHPtHpr",
+				"youtube": "https://youtu.be/gM_5-Rf-9Lw"
+			}
+		},
 		"konari": {
 			"name": "Konari",
 			"avatar": "creators/konari.webp?v=1028128d",
@@ -866,6 +874,12 @@
 			"name": "Laiker",
 			"avatar": "creators/laiker.jpg?v=4682a9a7",
 			"links": {}
+		},
+		"lemonsquare": {
+			"name": "LemonSquare",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=Dh4Z56HrZaA"
+			}
 		},
 		"lensquik2003": {
 			"name": "Lensquik",
@@ -21915,6 +21929,257 @@
 				"asset": "minecraft-aatrox-v1.fantome",
 				"size": 1499595,
 				"sha256": "882a576170903a3bc0cf126b883364c03039578464d657743a08e64b44a538b7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minecraft-steve-camille",
+			"name": "Minecraft Steve Camille",
+			"champion": 164,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/minecraft-steve-camille/thumb.webp?v=0674fa8f",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-steve-camille-v1.fantome",
+				"size": 386624,
+				"sha256": "cd4c3c9c7d5755b86296784c957e779de0eab0ffa19013714387f96e35bfa58d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minoho-bourbon-caitlyn-uma-musume",
+			"name": "Minoho Bourbon Caitlyn (Uma Musume)",
+			"champion": 51,
+			"base": 0,
+			"creator": "lemonsquare",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/minoho-bourbon-caitlyn-uma-musume/thumb.webp?v=34abb5f4",
+			"file": {
+				"version": 1,
+				"asset": "minoho-bourbon-caitlyn-uma-musume-v1.fantome",
+				"size": 13341440,
+				"sha256": "bedd7e5128bdcdc92a13f87db92cd7589a59a383b304b314c901c2f74332aaf4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "minori-sylas-blue-archive",
+			"name": "Minori Sylas (Blue Archive)",
+			"champion": 517,
+			"base": 0,
+			"creator": "khare",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/minori-sylas-blue-archive/thumb.webp?v=d2f65333",
+			"file": {
+				"version": 1,
+				"asset": "minori-sylas-blue-archive-v1.fantome",
+				"size": 3435039,
+				"sha256": "a4e72863083acc9bba0b0cdac8300867281ed7b3213c1a6b211f710cf4c3ebc4"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mio-ookami-sett",
+			"name": "Mio Ookami Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "konari",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/mio-ookami-sett/thumb.webp?v=07f732d7",
+			"file": {
+				"version": 1,
+				"asset": "mio-ookami-sett-v1.fantome",
+				"size": 10855805,
+				"sha256": "16147a4b5f6152838c75fcf77dff44cdb56ef809dcb5b3885320fa33e0b648d2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "misono-mika-sion",
+			"name": "Misono Mika Sion",
+			"champion": 14,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/misono-mika-sion/thumb.webp?v=8d5788bd",
+			"file": {
+				"version": 1,
+				"asset": "misono-mika-sion-v1.fantome",
+				"size": 16651883,
+				"sha256": "0c769e8469dd4bc7b67670609a326d719d4c559f7e7b534793552015011a8115"
+			},
+			"chromas": []
+		},
+		{
+			"id": "misono-mika-sion-blue-archive",
+			"name": "Misono Mika Sion (Blue Archive)",
+			"champion": 14,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/misono-mika-sion-blue-archive/thumb.webp?v=acc74b51",
+			"file": {
+				"version": 1,
+				"asset": "misono-mika-sion-blue-archive-v1.fantome",
+				"size": 15516020,
+				"sha256": "29a9203472f836ef80f256f5330b73ec3654dbfe286a53f16b000d27101a0f33"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miss-caiman-renekton",
+			"name": "Miss Caiman Renekton",
+			"champion": 58,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/miss-caiman-renekton/thumb.webp?v=78ef1268",
+			"file": {
+				"version": 1,
+				"asset": "miss-caiman-renekton-v1.fantome",
+				"size": 1503807,
+				"sha256": "8e7abfbb244cdfa7d24e1165e644d1884907ee6fcfdfa34fa51e3d97292d04d3"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miss-fortune-bugs-bunny-mf",
+			"name": "Bugs Bunny MF",
+			"champion": 21,
+			"base": 0,
+			"creator": "cz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/miss-fortune-bugs-bunny-mf/thumb.webp?v=b51cde67",
+			"file": {
+				"version": 1,
+				"asset": "miss-fortune-bugs-bunny-mf-v1.fantome",
+				"size": 7877176,
+				"sha256": "7b974634db4e39eb7a22a68038a68f019da098f787be789573f0b11e3586fc7c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miss-fortune-hat-removal",
+			"name": "Miss Fortune Hat Removal",
+			"champion": 21,
+			"base": 0,
+			"creator": "aropatnik",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/miss-fortune-hat-removal/thumb.webp?v=12bc1b21",
+			"file": {
+				"version": 1,
+				"asset": "miss-fortune-hat-removal-v1.fantome",
+				"size": 1500111,
+				"sha256": "97f5ab16ec00edd8b8342a4729f78190fe63a181e544bbca85a57a36ddf7e1cc"
+			},
+			"chromas": []
+		},
+		{
+			"id": "miyu-teemo-blue-archive",
+			"name": "Miyu Teemo (Blue Archive)",
+			"champion": 17,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/miyu-teemo-blue-archive/thumb.webp?v=93fc8cf5",
+			"file": {
+				"version": 1,
+				"asset": "miyu-teemo-blue-archive-v1.fantome",
+				"size": 15636475,
+				"sha256": "82d0c4cf1d46526b0765de1e42d23cc55fe726b9100c9603060049e6d7a00854"
 			},
 			"chromas": []
 		},

@@ -1,0 +1,26 @@
+{
+	"id": "minori-sylas-blue-archive",
+	"name": "Minori Sylas (Blue Archive)",
+	"champion": 517,
+	"base": 0,
+	"creator": "khare",
+	"description": "Replaces Sylas base skin with Minori from Blue Archive\r\n\r\nAny issue call me on Discord: `khare_`\r\n\r\nVisit our Blue Archive to League of Legends modding community on Discord (`Links` tab) :)\n\n---\n\n**Created by** [Khare](https://runeforge.dev/users/khare)\n\n**Original:** https://runeforge.dev/mods/89143e1d-dd2b-455c-a135-1bb5c31ec832\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/minori-sylas-blue-archive/thumb.webp?v=d2f65333",
+	"file": {
+		"version": 1,
+		"asset": "minori-sylas-blue-archive-v1.fantome",
+		"size": 3435039,
+		"sha256": "a4e72863083acc9bba0b0cdac8300867281ed7b3213c1a6b211f710cf4c3ebc4"
+	},
+	"chromas": []
+}

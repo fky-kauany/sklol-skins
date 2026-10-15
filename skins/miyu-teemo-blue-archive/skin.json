@@ -1,0 +1,26 @@
+{
+	"id": "miyu-teemo-blue-archive",
+	"name": "Miyu Teemo (Blue Archive)",
+	"champion": 17,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "join my dis if skin doesnt work or break\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/997f6d32-7f7b-4279-bfc8-c406be2f661b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/miyu-teemo-blue-archive/thumb.webp?v=93fc8cf5",
+	"file": {
+		"version": 1,
+		"asset": "miyu-teemo-blue-archive-v1.fantome",
+		"size": 15636475,
+		"sha256": "82d0c4cf1d46526b0765de1e42d23cc55fe726b9100c9603060049e6d7a00854"
+	},
+	"chromas": []
+}

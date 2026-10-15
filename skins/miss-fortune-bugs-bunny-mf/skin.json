@@ -1,0 +1,26 @@
+{
+	"id": "miss-fortune-bugs-bunny-mf",
+	"name": "Bugs Bunny MF",
+	"champion": 21,
+	"base": 0,
+	"creator": "cz",
+	"description": "Bugs Bunny for my duffy duck\n\n---\n\n**Created by** [CZ](https://runeforge.dev/users/CZ)\n\n**Original:** https://runeforge.dev/mods/e10aa372-e191-4c73-8cd7-4d38ccfbb4f2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/miss-fortune-bugs-bunny-mf/thumb.webp?v=b51cde67",
+	"file": {
+		"version": 1,
+		"asset": "miss-fortune-bugs-bunny-mf-v1.fantome",
+		"size": 7877176,
+		"sha256": "7b974634db4e39eb7a22a68038a68f019da098f787be789573f0b11e3586fc7c"
+	},
+	"chromas": []
+}

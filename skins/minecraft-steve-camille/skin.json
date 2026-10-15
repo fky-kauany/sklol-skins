@@ -1,0 +1,24 @@
+{
+	"id": "minecraft-steve-camille",
+	"name": "Minecraft Steve Camille",
+	"champion": 164,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "###  Information\n\n**Modified champion:** Camille\n\n**Modified skin:** Default\n\n**Author:** Aropatnik\n\n#\n\n### Credits\n\n[\"Minecraft Swords\"](https://skfb.ly/TNRs) by ShadowBubbles is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).\n\n[\"Minecraft - Steve\"](https://skfb.ly/6RsFO) by Vincent Yanez is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/1df3ee57-ab4e-43dd-9a8c-fee04e63d95d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/minecraft-steve-camille/thumb.webp?v=0674fa8f",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-steve-camille-v1.fantome",
+		"size": 386624,
+		"sha256": "cd4c3c9c7d5755b86296784c957e779de0eab0ffa19013714387f96e35bfa58d"
+	},
+	"chromas": []
+}

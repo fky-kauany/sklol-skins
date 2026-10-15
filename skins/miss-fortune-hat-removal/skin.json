@@ -1,0 +1,22 @@
+{
+	"id": "miss-fortune-hat-removal",
+	"name": "Miss Fortune Hat Removal",
+	"champion": 21,
+	"base": 0,
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Miss Fortune**\n\n**Modified skin: Default, Broken Covenant (+prestige), Battle Queen**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/aad78ae7-fda8-40e3-8a70-a251c1d07853\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/miss-fortune-hat-removal/thumb.webp?v=12bc1b21",
+	"file": {
+		"version": 1,
+		"asset": "miss-fortune-hat-removal-v1.fantome",
+		"size": 1500111,
+		"sha256": "97f5ab16ec00edd8b8342a4729f78190fe63a181e544bbca85a57a36ddf7e1cc"
+	},
+	"chromas": []
+}

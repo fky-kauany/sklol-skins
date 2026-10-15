@@ -843,6 +843,14 @@
 		"avatar": "creators/kesa.webp?v=25b19952",
 		"links": {}
 	},
+	"khare": {
+		"name": "Khare",
+		"avatar": "creators/khare.jpg?v=b5d7c533",
+		"links": {
+			"discord": "https://discord.gg/zhHPtHpr",
+			"youtube": "https://youtu.be/gM_5-Rf-9Lw"
+		}
+	},
 	"konari": {
 		"name": "Konari",
 		"avatar": "creators/konari.webp?v=1028128d",
@@ -863,6 +871,12 @@
 		"name": "Laiker",
 		"avatar": "creators/laiker.jpg?v=4682a9a7",
 		"links": {}
+	},
+	"lemonsquare": {
+		"name": "LemonSquare",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=Dh4Z56HrZaA"
+		}
 	},
 	"lensquik2003": {
 		"name": "Lensquik",

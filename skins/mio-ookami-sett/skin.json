@@ -1,0 +1,24 @@
+{
+	"id": "mio-ookami-sett",
+	"name": "Mio Ookami Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "konari",
+	"description": "## Skin information\r\n\r\n* Champion: Sett\r\n* Modified skin: Default\r\n* Author: The Melancholy Of Slime\r\n\r\n## Specifications\r\n\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations ( R skill: 100% she will spin after grab u up )\r\n* New voiceover\r\n\r\n## Credits\r\n\r\n* PoonShisui Ch.潘シスイ for VO Packs\r\n* Thanks tarngaina for helping me with the model.\r\n\r\n## Known issues\r\n\r\n* The model’s weighting isn’t perfect so it might have some issues regarding some animations.\r\n* Voice Over is little hard to hear but pls dun't change ur VO Volume too high or VO when using skill shot will kill ur ear :3\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/19da3c7c-567f-4e10-b65f-a933b7d23557\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/mio-ookami-sett/thumb.webp?v=07f732d7",
+	"file": {
+		"version": 1,
+		"asset": "mio-ookami-sett-v1.fantome",
+		"size": 10855805,
+		"sha256": "16147a4b5f6152838c75fcf77dff44cdb56ef809dcb5b3885320fa33e0b648d2"
+	},
+	"chromas": []
+}

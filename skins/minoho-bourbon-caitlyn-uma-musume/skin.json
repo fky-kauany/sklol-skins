@@ -1,0 +1,26 @@
+{
+	"id": "minoho-bourbon-caitlyn-uma-musume",
+	"name": "Minoho Bourbon Caitlyn (Uma Musume)",
+	"champion": 51,
+	"base": 0,
+	"creator": "lemonsquare",
+	"description": "Turns Caitlyn from League of Legends into Minoho Bourbon from Uma Musume: Pretty Derby.\r\nWe needed more Uma skins so I set out to make one. First ever skin! \r\nModifies the Base skin\n\n---\n\n**Created by** [LemonSquare](https://runeforge.dev/users/LemonSquare)\n\n**Original:** https://runeforge.dev/mods/4c19ed23-97bb-4db0-aca8-ff7a7fb25461\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/minoho-bourbon-caitlyn-uma-musume/thumb.webp?v=34abb5f4",
+	"file": {
+		"version": 1,
+		"asset": "minoho-bourbon-caitlyn-uma-musume-v1.fantome",
+		"size": 13341440,
+		"sha256": "bedd7e5128bdcdc92a13f87db92cd7589a59a383b304b314c901c2f74332aaf4"
+	},
+	"chromas": []
+}
