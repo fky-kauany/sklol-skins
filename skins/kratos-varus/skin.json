@@ -1,0 +1,25 @@
+{
+	"id": "kratos-varus",
+	"name": "Kratos Varus",
+	"champion": 110,
+	"base": 0,
+	"creator": "michaelmyers",
+	"description": "**MOD INFORMATION**\r\n\r\n* Champion: Varus\r\n* Modified skin: Base Varus\r\n* Author: Michael Myers\r\n* Version: 1.0.0\r\n* **Description**: Changes Varus into Kratos from God of War with Typhon's bane as his bow.\r\n* Features \r\n* New model and textures.\r\n* New sounds.\r\n* New voiceover\r\n* New particles\r\n* New Splashart loading screen.\r\n* New Ability icons and HUD.\n\n---\n\n**Created by** [MichaelMyers](https://runeforge.dev/users/MichaelMyers)\n\n**Original:** https://runeforge.dev/mods/34959e0f-4a51-49e8-b8a6-dba42038baf8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kratos-varus/thumb.webp?v=a7393203",
+	"file": {
+		"version": 1,
+		"asset": "kratos-varus-v1.fantome",
+		"size": 21318679,
+		"sha256": "839e8c500b4abf234ba156cb0615179b72bd016102219a87eb128ea158f284ef"
+	},
+	"chromas": []
+}

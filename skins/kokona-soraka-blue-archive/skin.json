@@ -1,0 +1,25 @@
+{
+	"id": "kokona-soraka-blue-archive",
+	"name": "Kokona (Soraka) [Blue Archive]",
+	"champion": 16,
+	"base": 0,
+	"creator": "azure",
+	"description": "Replaces Soraka's base skin with Sunohara Kokona from Blue Archive.\n\nIf you need help with anything you can message me on Discord. My username is Azurne!!\n\n---\n\n**Created by** [Azure](https://runeforge.dev/users/Azure)\n\n**Original:** https://runeforge.dev/mods/cdf12d54-52db-48f7-a4ec-f043f3fa9984\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kokona-soraka-blue-archive/thumb.webp?v=c6c52c18",
+	"file": {
+		"version": 1,
+		"asset": "kokona-soraka-blue-archive-v1.fantome",
+		"size": 4914843,
+		"sha256": "d0c2b95dc51eaeebd96c96766fb6e06c94b95aa7d4011143566c6eeb0f17bfaa"
+	},
+	"chromas": []
+}

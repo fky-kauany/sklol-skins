@@ -1,0 +1,23 @@
+{
+	"id": "komachi-as-thresh",
+	"name": "Komachi as Thresh",
+	"champion": 412,
+	"base": 0,
+	"creator": "elbobbin",
+	"description": "Komachi Onozuka from Touhou Project as Thresh\n\n---\n\n**Created by** [ElBobbin](https://runeforge.dev/users/ElBobbin)\n\n**Original:** https://runeforge.dev/mods/b5fc1621-5cc3-4d0a-a2e1-2840728cb4cd\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/komachi-as-thresh/thumb.webp?v=23282598",
+	"file": {
+		"version": 1,
+		"asset": "komachi-as-thresh-v1.fantome",
+		"size": 2088166,
+		"sha256": "b304c1cdc019fa38b052c08cdb663c88314f5b08a3d120834ad82f1823e683fb"
+	},
+	"chromas": []
+}

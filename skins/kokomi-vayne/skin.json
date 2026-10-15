@@ -1,0 +1,23 @@
+{
+	"id": "kokomi-vayne",
+	"name": "Kokomi Vayne",
+	"champion": 67,
+	"base": 0,
+	"creator": "rorotea",
+	"description": "Mod name : Kokomi Vayne\n\nSkin modified : Default\n\nAuthor : rorotea\n\nMod version : 1.0.0\n\n---\n\n**Created by** [rorotea](https://runeforge.dev/users/rorotea)\n\n**Original:** https://runeforge.dev/mods/d9e7ea9b-7531-4871-9b4d-4ab91705c1ee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kokomi-vayne/thumb.webp?v=381b9fdd",
+	"file": {
+		"version": 1,
+		"asset": "kokomi-vayne-v1.fantome",
+		"size": 2177179,
+		"sha256": "4e3445be4b4e5442f668caec20b61a930ab89e464f2d2ac39ef56fbe54b5d04e"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "kratos-darius",
+	"name": "Kratos (Darius)",
+	"champion": 122,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Darius\n\nModified Skin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Kratos from God of War\n\nFeatures:\n\n-New model and textures.\n\n-New animations.\n\n-New sounds.\n\n-New voiceover\n\n-New particles\n\n-New Splashart loading screen.\n\n-New Ability icons and HUD.\n\n-A lot of hate towards Teemo.\n\n-BOOOOOYYY!!!!\n\n  \n\nSources:\n\n-The model and textures are extracted from GoW3 and then modified to fit the game. \n\nSpecial thanks to JesusMessiah for helping this task. If you like JoJo's BA, you should check his mods.\n-Sounds extracted from different GoW games.\n\n-Voiceover built from GoW3 quotes.\n\n-Splashart from the Mortal Kombat / Gow Crossover.\n\n\n\nlegacy Changelog:\n\n-09/12/2022: First official release\n\n-06/03/2023: Added new effects, new ult animation, no armor kratos, new sounds and some fixes.\n\n-22/03/2023: Added all languages voiceover support.\n\n-10/04/2023: Fixed: the champion didn't have shadows in some parts of the map.\n\n-06/05/2023: Fixed the Q bug from the Darius base skin.\n\n-26/10/2023: Improved textures, run and idle animations, some particles and voiceovers fixed for all languages.\n\n-25/01/2024: Fixed some bugs after S14 patch.\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-18/02/2025: Fixed for new patch and voiceover now included in main mod (special thanks to AlxPoppy for fixing it this time)\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/050862a2-1100-4dfa-b5aa-73635297dba5\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kratos-darius/thumb.webp?v=75440aec",
+	"file": {
+		"version": 1,
+		"asset": "kratos-darius-v1.fantome",
+		"size": 15036501,
+		"sha256": "ad37a2c20a824ba110bc7345686d92bef88ee4b6474c0cc605a90446fac28bf1"
+	},
+	"chromas": []
+}

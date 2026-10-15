@@ -1,0 +1,26 @@
+{
+	"id": "koyuki-ziggs-kennen-blue-archive",
+	"name": "Koyuki Ziggs & Kennen (Blue Archive)",
+	"champion": 85,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "This mod is really loud \r\n\r\njoin discord if skin breaks\r\n\r\nsome minor bugs, will patch in the next update\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/9efcdb41-9712-47ed-8acc-98a368308676\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/koyuki-ziggs-kennen-blue-archive/thumb.webp?v=80044f58",
+	"file": {
+		"version": 1,
+		"asset": "koyuki-ziggs-kennen-blue-archive-v1.fantome",
+		"size": 13421518,
+		"sha256": "0e0005a49632b3d2b8cf194866e315747c6842c7e803433da2d20863e90f3a2f"
+	},
+	"chromas": []
+}

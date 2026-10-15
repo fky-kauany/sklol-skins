@@ -1,0 +1,25 @@
+{
+	"id": "komano-manato-sett",
+	"name": "Komano Manato Sett",
+	"champion": 875,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "Komano Manato from ZZZ skin for Sett. Replaces the default skin.\n- Custom Model & Textures, VFX and Icons.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/069183c8-13b6-4d09-8039-c1a82a33aa71\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/komano-manato-sett/thumb.webp?v=158a0d7c",
+	"file": {
+		"version": 1,
+		"asset": "komano-manato-sett-v1.fantome",
+		"size": 16488552,
+		"sha256": "c5d48088993b044f5567529879e49a4fec2842d76fbc1e404421a99192c0ea89"
+	},
+	"chromas": []
+}

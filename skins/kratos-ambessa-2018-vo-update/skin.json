@@ -1,0 +1,26 @@
+{
+	"id": "kratos-ambessa-2018-vo-update",
+	"name": "Kratos Ambessa (2018) + VO UPDATE",
+	"champion": 799,
+	"base": 0,
+	"creator": "cz",
+	"description": "Kratos Ambessa,  \"What can I say to you? I remember how it felt to take that throne. All that it meant and all that it did not. A God of war. God of pain, of suffering, of destruction. The Norns said I chase redemption that I know I can never deserve. What does that make me? God of fools. A God of... Hope.\"\nVo made by @johum3335\nthe rest by me\ni could post kaizens remaster but he probs wouldnt like it here XD ggs\n\n---\n\n**Created by** [CZ](https://runeforge.dev/users/CZ)\n\n**Original:** https://runeforge.dev/mods/7b1b00fd-4fb1-4416-ba45-3b2c22e13a9a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/kratos-ambessa-2018-vo-update/thumb.webp?v=3e1fc581",
+	"file": {
+		"version": 1,
+		"asset": "kratos-ambessa-2018-vo-update-v1.fantome",
+		"size": 26159499,
+		"sha256": "904d2bedba0240151f6d51748e047e6b5b0244cdfcab698d5f3811f5acc19b1f"
+	},
+	"chromas": []
+}

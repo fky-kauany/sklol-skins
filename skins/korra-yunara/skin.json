@@ -1,0 +1,24 @@
+{
+	"id": "korra-yunara",
+	"name": "Korra Yunara",
+	"champion": 804,
+	"base": 0,
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/1994944183623131296?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Yunara\r\n* Skin: Default\r\n* Description: Korra from Legends of Korra as Yunara\r\n\r\n# Features\r\n\r\n* Recolored Abilities to Fireish and Waterish\r\n* Weapon unchanged [will do in future]\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/4016dce2-7780-48e3-b514-478c324d26fc\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/korra-yunara/thumb.webp?v=67ccfbd4",
+	"file": {
+		"version": 1,
+		"asset": "korra-yunara-v1.fantome",
+		"size": 4142685,
+		"sha256": "7afc6b0c9de9c35a835c42e2b8c845946575f0dfda8fa3f4400fe649253bee6d"
+	},
+	"chromas": []
+}

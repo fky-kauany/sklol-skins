@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:08:54.387Z",
+	"generatedAt": "2026-10-15T11:12:09.593Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -221,6 +221,13 @@
 			"links": {
 				"kofi": "https://ko-fi.com/azerkan",
 				"youtube": "https://www.youtube.com/c/Xazerkan67X/"
+			}
+		},
+		"azure": {
+			"name": "Azure",
+			"avatar": "creators/azure.png?v=3b37fb7c",
+			"links": {
+				"youtube": "https://youtu.be/kFrdNrVfHLw?si=sl1WCrj5PkX7Kahr"
 			}
 		},
 		"babaenvo": {
@@ -18573,6 +18580,255 @@
 				"asset": "kokomi-janna-v1.fantome",
 				"size": 4345934,
 				"sha256": "7596f14544bb77f36f6f3c17345b07837d9be55138fe9d1feccab0b81f542553"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kokomi-vayne",
+			"name": "Kokomi Vayne",
+			"champion": 67,
+			"base": 0,
+			"creator": "rorotea",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kokomi-vayne/thumb.webp?v=381b9fdd",
+			"file": {
+				"version": 1,
+				"asset": "kokomi-vayne-v1.fantome",
+				"size": 2177179,
+				"sha256": "4e3445be4b4e5442f668caec20b61a930ab89e464f2d2ac39ef56fbe54b5d04e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kokona-soraka-blue-archive",
+			"name": "Kokona (Soraka) [Blue Archive]",
+			"champion": 16,
+			"base": 0,
+			"creator": "azure",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kokona-soraka-blue-archive/thumb.webp?v=c6c52c18",
+			"file": {
+				"version": 1,
+				"asset": "kokona-soraka-blue-archive-v1.fantome",
+				"size": 4914843,
+				"sha256": "d0c2b95dc51eaeebd96c96766fb6e06c94b95aa7d4011143566c6eeb0f17bfaa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "komachi-as-thresh",
+			"name": "Komachi as Thresh",
+			"champion": 412,
+			"base": 0,
+			"creator": "elbobbin",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/komachi-as-thresh/thumb.webp?v=23282598",
+			"file": {
+				"version": 1,
+				"asset": "komachi-as-thresh-v1.fantome",
+				"size": 2088166,
+				"sha256": "b304c1cdc019fa38b052c08cdb663c88314f5b08a3d120834ad82f1823e683fb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "komano-manato-sett",
+			"name": "Komano Manato Sett",
+			"champion": 875,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/komano-manato-sett/thumb.webp?v=158a0d7c",
+			"file": {
+				"version": 1,
+				"asset": "komano-manato-sett-v1.fantome",
+				"size": 16488552,
+				"sha256": "c5d48088993b044f5567529879e49a4fec2842d76fbc1e404421a99192c0ea89"
+			},
+			"chromas": []
+		},
+		{
+			"id": "korra-yunara",
+			"name": "Korra Yunara",
+			"champion": 804,
+			"base": 0,
+			"creator": "p1mek",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/korra-yunara/thumb.webp?v=67ccfbd4",
+			"file": {
+				"version": 1,
+				"asset": "korra-yunara-v1.fantome",
+				"size": 4142685,
+				"sha256": "7afc6b0c9de9c35a835c42e2b8c845946575f0dfda8fa3f4400fe649253bee6d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "koyuki-ziggs-kennen-blue-archive",
+			"name": "Koyuki Ziggs & Kennen (Blue Archive)",
+			"champion": 85,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/koyuki-ziggs-kennen-blue-archive/thumb.webp?v=80044f58",
+			"file": {
+				"version": 1,
+				"asset": "koyuki-ziggs-kennen-blue-archive-v1.fantome",
+				"size": 13421518,
+				"sha256": "0e0005a49632b3d2b8cf194866e315747c6842c7e803433da2d20863e90f3a2f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kratos-ambessa-2018-vo-update",
+			"name": "Kratos Ambessa (2018) + VO UPDATE",
+			"champion": 799,
+			"base": 0,
+			"creator": "cz",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kratos-ambessa-2018-vo-update/thumb.webp?v=3e1fc581",
+			"file": {
+				"version": 1,
+				"asset": "kratos-ambessa-2018-vo-update-v1.fantome",
+				"size": 26159499,
+				"sha256": "904d2bedba0240151f6d51748e047e6b5b0244cdfcab698d5f3811f5acc19b1f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kratos-ambessa-gow-3",
+			"name": "Kratos Ambessa GOW 3",
+			"champion": 799,
+			"base": 0,
+			"creator": "matth",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kratos-ambessa-gow-3/thumb.webp?v=9f2ec816",
+			"file": {
+				"version": 1,
+				"asset": "kratos-ambessa-gow-3-v1.fantome",
+				"size": 121910628,
+				"sha256": "b63200b070b74e38dc618375ede4d6d0751a5ebcbbe766afca5eafc3de029695"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kratos-darius",
+			"name": "Kratos (Darius)",
+			"champion": 122,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kratos-darius/thumb.webp?v=75440aec",
+			"file": {
+				"version": 1,
+				"asset": "kratos-darius-v1.fantome",
+				"size": 15036501,
+				"sha256": "ad37a2c20a824ba110bc7345686d92bef88ee4b6474c0cc605a90446fac28bf1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kratos-varus",
+			"name": "Kratos Varus",
+			"champion": 110,
+			"base": 0,
+			"creator": "michaelmyers",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/kratos-varus/thumb.webp?v=a7393203",
+			"file": {
+				"version": 1,
+				"asset": "kratos-varus-v1.fantome",
+				"size": 21318679,
+				"sha256": "839e8c500b4abf234ba156cb0615179b72bd016102219a87eb128ea158f284ef"
 			},
 			"chromas": []
 		},
