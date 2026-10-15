@@ -1,0 +1,22 @@
+{
+	"id": "better-darkin-tryndamere-chroma",
+	"name": "Better Darkin Tryndamere Chroma",
+	"champion": 23,
+	"base": 0,
+	"creator": "unum",
+	"description": "Just Better Textures for Darkin Tryndamere.\nMaybe i'll change the sfx (sounds) of AA later but i think they are not that bad finally.\n\n---\n\n**Created by** [unum](https://runeforge.dev/users/unum)\n\n**Original:** https://runeforge.dev/mods/4eab241f-ac04-4cb5-87b3-0435f37c8498\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/better-darkin-tryndamere-chroma/thumb.webp?v=5ce95267",
+	"file": {
+		"version": 1,
+		"asset": "better-darkin-tryndamere-chroma-v1.fantome",
+		"size": 370145,
+		"sha256": "031db49b8cc4a29a17e4a645585a63d2e9f4119b172941687bd6f8c83a7f0f11"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "traditional-shyvana",
+	"name": "Traditional Shyvana",
+	"champion": 102,
+	"base": 0,
+	"creator": "charsles",
+	"description": "Replaces Base Shyvana\n\n---\n\n**Created by** [Charsles](https://runeforge.dev/users/Charsles)\n\n**Original:** https://runeforge.dev/mods/ec7ebb3a-5681-413d-a00e-50174998f289\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/traditional-shyvana/thumb.webp?v=e987fd46",
+	"file": {
+		"version": 1,
+		"asset": "traditional-shyvana-v1.fantome",
+		"size": 3114516,
+		"sha256": "777e5ac1a90c15f739751ada238f9e6a510c4f2e5957ac96faa509c980edddd1"
+	},
+	"chromas": []
+}

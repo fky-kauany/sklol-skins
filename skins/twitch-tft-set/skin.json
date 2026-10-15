@@ -1,0 +1,22 @@
+{
+	"id": "twitch-tft-set",
+	"name": "Twitch TFT Set",
+	"champion": 29,
+	"base": 0,
+	"creator": "angelzr",
+	"description": "---\n\n**Created by** [AngelZR](https://runeforge.dev/users/AngelZR)\n\n**Original:** https://runeforge.dev/mods/8a527eba-23c5-46d5-8c94-62026256738f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/twitch-tft-set/thumb.webp?v=74eccc3d",
+	"file": {
+		"version": 1,
+		"asset": "twitch-tft-set-v1.fantome",
+		"size": 408504,
+		"sha256": "399b925dd4ad8c58bc52428086e3b908b62cd716eab5c69e9e02c60562548f5b"
+	},
+	"chromas": []
+}

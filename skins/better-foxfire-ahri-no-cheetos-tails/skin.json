@@ -1,0 +1,25 @@
+{
+	"id": "better-foxfire-ahri-no-cheetos-tails",
+	"name": "Better Foxfire Ahri (no cheetos tails)",
+	"champion": 103,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\n\nThis skin doesn't interfere with any other Ahri skin, so you can keep it on and use other skins without any changes made to them.\n\n## Description\n\n**Author**: Suriin\n\n**Skin**: Foxfire Ahri\n\n**Affects**: Textures, VFX\n\nChanged the tails' textures so they aren't made out of cheetos. Also changed the tail glow when you cast Q or W from blue to orange.\n\n\n## Contact\n\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/9df1ee93-0bd8-4c92-9e91-e956929b8247\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/better-foxfire-ahri-no-cheetos-tails/thumb.webp?v=9d791895",
+	"file": {
+		"version": 1,
+		"asset": "better-foxfire-ahri-no-cheetos-tails-v1.fantome",
+		"size": 10670884,
+		"sha256": "525df8b6bf9c1cfd5f78943c3d043745dd4eb6fd666dfa2bb564d2a462989a14"
+	},
+	"chromas": []
+}

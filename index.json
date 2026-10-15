@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:09:21.589Z",
+	"generatedAt": "2026-10-15T08:10:10.730Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -52,6 +52,13 @@
 		"anakin025": {
 			"name": "anakin025",
 			"links": {}
+		},
+		"angelzr": {
+			"name": "AngelZR",
+			"avatar": "creators/angelzr.jpg?v=7ee269e3",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=w6sodP3NYZM"
+			}
 		},
 		"antton": {
 			"name": "Antton",
@@ -202,6 +209,12 @@
 			"name": "celestia-mod-recovery",
 			"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
 			"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+			"links": {}
+		},
+		"charsles": {
+			"name": "Charsles",
+			"avatar": "creators/charsles.jpg?v=615feff2",
+			"bio": "Here there, Chars here! i'm not posting here that much anymore since i leved up my custom skins quality, so if you are wondering where did my Marvel custom skins went, here it is: [KO-FI](https://ko-fi.com/charsles/shop). consider supporting me if you like those custom skins, i put a lot of love and effort on them.\n\n[DISCORD](https://discord.gg/E8cRZEkDgj): My Mod Discord\n\n[TWITTER](https://twitter.com/charsles_): is Where i Post Everything i Do.\n\n[YOUTUBE](https://www.youtube.com/@modder.charsl",
 			"links": {}
 		},
 		"comasquash": {
@@ -1007,6 +1020,13 @@
 				"kofi": "https://ko-fi.com/tyre_4770/commissions",
 				"site": "https://tyre4770.carrd.co/",
 				"youtube": "https://www.youtube.com/watch?v=-paHm135V88"
+			}
+		},
+		"unum": {
+			"name": "unum",
+			"avatar": "creators/unum.png?v=a1750d80",
+			"links": {
+				"youtube": "https://youtu.be/3nDtTH50bLI"
 			}
 		},
 		"valfren": {
@@ -3523,6 +3543,53 @@
 			"chromas": []
 		},
 		{
+			"id": "better-darkin-tryndamere-chroma",
+			"name": "Better Darkin Tryndamere Chroma",
+			"champion": 23,
+			"base": 0,
+			"creator": "unum",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/better-darkin-tryndamere-chroma/thumb.webp?v=5ce95267",
+			"file": {
+				"version": 1,
+				"asset": "better-darkin-tryndamere-chroma-v1.fantome",
+				"size": 370145,
+				"sha256": "031db49b8cc4a29a17e4a645585a63d2e9f4119b172941687bd6f8c83a7f0f11"
+			},
+			"chromas": []
+		},
+		{
+			"id": "better-foxfire-ahri-no-cheetos-tails",
+			"name": "Better Foxfire Ahri (no cheetos tails)",
+			"champion": 103,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/better-foxfire-ahri-no-cheetos-tails/thumb.webp?v=9d791895",
+			"file": {
+				"version": 1,
+				"asset": "better-foxfire-ahri-no-cheetos-tails-v1.fantome",
+				"size": 10670884,
+				"sha256": "525df8b6bf9c1cfd5f78943c3d043745dd4eb6fd666dfa2bb564d2a462989a14"
+			},
+			"chromas": []
+		},
+		{
 			"id": "better-masquerade-evelynn",
 			"name": "Better Masquerade Evelynn",
 			"champion": 28,
@@ -4725,6 +4792,51 @@
 				"asset": "sylas-kratos-v1.fantome",
 				"size": 5749752,
 				"sha256": "410fd128395978800492fdd4bdd00e40287483373bbd2e0f2af2e1b05d9a9f68"
+			},
+			"chromas": []
+		},
+		{
+			"id": "traditional-shyvana",
+			"name": "Traditional Shyvana",
+			"champion": 102,
+			"base": 0,
+			"creator": "charsles",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/traditional-shyvana/thumb.webp?v=e987fd46",
+			"file": {
+				"version": 1,
+				"asset": "traditional-shyvana-v1.fantome",
+				"size": 3114516,
+				"sha256": "777e5ac1a90c15f739751ada238f9e6a510c4f2e5957ac96faa509c980edddd1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "twitch-tft-set",
+			"name": "Twitch TFT Set",
+			"champion": 29,
+			"base": 0,
+			"creator": "angelzr",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/twitch-tft-set/thumb.webp?v=74eccc3d",
+			"file": {
+				"version": 1,
+				"asset": "twitch-tft-set-v1.fantome",
+				"size": 408504,
+				"sha256": "399b925dd4ad8c58bc52428086e3b908b62cd716eab5c69e9e02c60562548f5b"
 			},
 			"chromas": []
 		},
