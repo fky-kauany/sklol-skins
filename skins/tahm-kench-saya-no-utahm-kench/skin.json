@@ -1,0 +1,27 @@
+{
+	"id": "tahm-kench-saya-no-utahm-kench",
+	"name": "Saya no Utahm Kench",
+	"champion": 223,
+	"base": 0,
+	"creator": "oniichannonaedoko",
+	"description": "### Mod Information:\r\n* Champion: Tahm Kench\r\n* Modified skin: Default\r\n* Author: お兄ちゃんの苗床\r\n* Description: Replaces base Tahm with Saya from Saya no Uta\r\n\r\n沙耶ちゃんのすぺありぶぺろぺろしたい。。。ぺろぺろぺろぺろ\r\n\r\n### Features:\r\n* New model and texture\r\n* Supports all champion texture quality settings\r\n* Modified loadingscreen\r\n* Modified in-game/skill icons\r\n* Modified particles\r\n* Modified animations\r\n* Edited ability sounds\r\n* New voiceover fully replacing Tahm’s 200+ lines and various interactions\r\n\r\n### Credits\r\n* Model from 300 Heroes\r\n* Visual assets from Saya no Uta VN, Nitroplus Blasterz, Nitroplus Sabato Nabe Amusement Disc\r\n* Voiceover from Saya no Uta, Nitroplus Blasterz\r\n* Dance emote music from Saya no Uta ED theme ガラスのくつ\r\n\r\n### Contact\r\n* Discord: oniichannonaedoko | お兄ちゃんの苗床#3074\r\n* If any of the mod particles, voices,  etc break after a LoL update patch, feel free to let me know through DMs or comments.\n\n---\n\n**Created by** [oniichannonaedoko](https://runeforge.dev/users/oniichannonaedoko)\n\n**Original:** https://runeforge.dev/mods/57022b65-1da2-4bf8-bfd2-2c5058b1870d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tahm-kench-saya-no-utahm-kench/thumb.webp?v=7f7c6ac5",
+	"file": {
+		"version": 1,
+		"asset": "tahm-kench-saya-no-utahm-kench-v1.fantome",
+		"size": 20180578,
+		"sha256": "5cb4cc2413096267a028348626bcda35d40a31bf3ef5cea0ba3d45e0b889f1aa"
+	},
+	"chromas": []
+}

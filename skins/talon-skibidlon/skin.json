@@ -1,0 +1,24 @@
+{
+	"id": "talon-skibidlon",
+	"name": "Skibidlon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "idi\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/b0516b30-a92f-49bc-9392-d13d4298973f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/talon-skibidlon/thumb.webp?v=70604d8f",
+	"file": {
+		"version": 1,
+		"asset": "talon-skibidlon-v1.fantome",
+		"size": 1580500,
+		"sha256": "a3cb51865564ab1472ee804629c8b196d7ef095a4e4a8aad998b9b1cb78f6c50"
+	},
+	"chromas": []
+}

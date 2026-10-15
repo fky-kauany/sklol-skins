@@ -1,0 +1,24 @@
+{
+	"id": "tahm-kench-kench-west",
+	"name": "Kench West",
+	"champion": 223,
+	"base": 0,
+	"creator": "cam",
+	"description": "(no budget for the ad)\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/2c85ec9a-b121-435b-ba87-689ec94b750b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tahm-kench-kench-west/thumb.webp?v=5a82061b",
+	"file": {
+		"version": 1,
+		"asset": "tahm-kench-kench-west-v1.fantome",
+		"size": 28142622,
+		"sha256": "b399f55bb39142b82d1dea5042e60c6043c680cb0830c5f79e978cf57ac31909"
+	},
+	"chromas": []
+}

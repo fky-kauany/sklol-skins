@@ -1,0 +1,23 @@
+{
+	"id": "talon-birdlon",
+	"name": "Birdlon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "I love hamburgers\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/e8537dc0-a16f-418f-895c-090aaab2b8e3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/talon-birdlon/thumb.webp?v=01b16319",
+	"file": {
+		"version": 1,
+		"asset": "talon-birdlon-v1.fantome",
+		"size": 649227,
+		"sha256": "207fdd07ca087d525ff4e502b0f3bf81a8ff6e68cca29564ee71a6e603143b1e"
+	},
+	"chromas": []
+}

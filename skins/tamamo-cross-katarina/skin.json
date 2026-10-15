@@ -1,0 +1,25 @@
+{
+	"id": "tamamo-cross-katarina",
+	"name": "Tamamo Cross Katarina",
+	"champion": 55,
+	"base": 0,
+	"creator": "laiker",
+	"description": "Champion: Katarina\r\n\r\nModified skin: base\r\n\r\nAuthor: Laiker\r\n\r\nVersion: 1.0.0\r\n\r\n\r\n\r\nwhite lightning\r\n\r\n\r\n\r\n\r\nPlease report bugs.\n\n---\n\n**Created by** [Laiker](https://runeforge.dev/users/Laiker)\n\n**Original:** https://runeforge.dev/mods/a383c2aa-3a91-4818-ac59-81828af7c4e0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tamamo-cross-katarina/thumb.webp?v=189bb451",
+	"file": {
+		"version": 1,
+		"asset": "tamamo-cross-katarina-v1.fantome",
+		"size": 13752617,
+		"sha256": "1f02cc6ee13132c566f34e9b295c96dae89bc75863505c2fb584cf0996357b67"
+	},
+	"chromas": []
+}

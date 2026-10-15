@@ -1,0 +1,23 @@
+{
+	"id": "tankman-corki",
+	"name": "Tankman corki",
+	"champion": 42,
+	"base": 0,
+	"creator": "mojkqueira",
+	"description": "\"You remember quotes, yet need a script for a movie. You my friend, are a dumbass.\"\n\n***\n\n**Modified champion: Corki**\n\n**Modified skin: Default**\n\n**Author: Mojkqueira**\n\n**Discord: serrandoafimose**\n\n3D model of sgt: [Cally3D](https://www.deviantart.com/dimickfoxed65/art/Cally3D-Newgrounds-FNF-Tankman-MMD-Download-877333867)\n3D model of tank: [Th3BadWolf](https://grabcad.com/th3badwolf)\n\n---\n\n**Created by** [mojkqueira](https://runeforge.dev/users/mojkqueira)\n\n**Original:** https://runeforge.dev/mods/296132ca-9987-4104-9515-97bd1e0cc0d4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/tankman-corki/thumb.webp?v=242007ec",
+	"file": {
+		"version": 1,
+		"asset": "tankman-corki-v1.fantome",
+		"size": 779928,
+		"sha256": "6d91ee897dabbe15cb984d8be4631cc5ff2dbf734a9a9ddd5941f92c2be458d1"
+	},
+	"chromas": []
+}

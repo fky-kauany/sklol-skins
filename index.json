@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T14:04:02.173Z",
+	"generatedAt": "2026-10-15T14:09:40.390Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -31458,6 +31458,247 @@
 				"asset": "tahm-kench-hat-edition-v1.fantome",
 				"size": 26430,
 				"sha256": "423be5b55c087c2711b1cf471fb2ae91a0ceab9828e71e071ecbc44a158c7dbf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tahm-kench-kench-west",
+			"name": "Kench West",
+			"champion": 223,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tahm-kench-kench-west/thumb.webp?v=5a82061b",
+			"file": {
+				"version": 1,
+				"asset": "tahm-kench-kench-west-v1.fantome",
+				"size": 28142622,
+				"sha256": "b399f55bb39142b82d1dea5042e60c6043c680cb0830c5f79e978cf57ac31909"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tahm-kench-saya-no-utahm-kench",
+			"name": "Saya no Utahm Kench",
+			"champion": 223,
+			"base": 0,
+			"creator": "oniichannonaedoko",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tahm-kench-saya-no-utahm-kench/thumb.webp?v=7f7c6ac5",
+			"file": {
+				"version": 1,
+				"asset": "tahm-kench-saya-no-utahm-kench-v1.fantome",
+				"size": 20180578,
+				"sha256": "5cb4cc2413096267a028348626bcda35d40a31bf3ef5cea0ba3d45e0b889f1aa"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-birdlon",
+			"name": "Birdlon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/talon-birdlon/thumb.webp?v=01b16319",
+			"file": {
+				"version": 1,
+				"asset": "talon-birdlon-v1.fantome",
+				"size": 649227,
+				"sha256": "207fdd07ca087d525ff4e502b0f3bf81a8ff6e68cca29564ee71a6e603143b1e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-black-moon-chroma",
+			"name": "Talon Black Moon (Chroma)",
+			"champion": 91,
+			"base": 0,
+			"creator": "newdami",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/talon-black-moon-chroma/thumb.webp?v=36ad1c39",
+			"file": {
+				"version": 1,
+				"asset": "talon-black-moon-chroma-v1.fantome",
+				"size": 391703,
+				"sha256": "24193b19f3c2ec396c24d265a7854481bdac6ebc3d39e1a527000f0bbc216344"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-enduring-white-chroma",
+			"name": "Talon Enduring White (Chroma)",
+			"champion": 91,
+			"base": 0,
+			"creator": "newdami",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/talon-enduring-white-chroma/thumb.webp?v=014e20dd",
+			"file": {
+				"version": 1,
+				"asset": "talon-enduring-white-chroma-v1.fantome",
+				"size": 190994,
+				"sha256": "77acb35a77ecea914336c565490687de6866cbd7405c30d7b78259f802d4773e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-malphlon",
+			"name": "Malphlon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/talon-malphlon/thumb.webp?v=1facc1f0",
+			"file": {
+				"version": 1,
+				"asset": "talon-malphlon-v1.fantome",
+				"size": 4905928,
+				"sha256": "08b371fa008c5057245acd13278a235db27a109ee4c3958c15fc50bdcbbecba2"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-samsung-black-ssw-black-chroma",
+			"name": "Talon Samsung BLACK (SSW Black Chroma)",
+			"champion": 91,
+			"base": 0,
+			"creator": "newdami",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/talon-samsung-black-ssw-black-chroma/thumb.webp?v=b38dae9a",
+			"file": {
+				"version": 1,
+				"asset": "talon-samsung-black-ssw-black-chroma-v1.fantome",
+				"size": 120230,
+				"sha256": "9d98bc775511ead31836ed463a42aedb34890095b7b90b6f64f0238be07e7175"
+			},
+			"chromas": []
+		},
+		{
+			"id": "talon-skibidlon",
+			"name": "Skibidlon",
+			"champion": 91,
+			"base": 0,
+			"creator": "cam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/talon-skibidlon/thumb.webp?v=70604d8f",
+			"file": {
+				"version": 1,
+				"asset": "talon-skibidlon-v1.fantome",
+				"size": 1580500,
+				"sha256": "a3cb51865564ab1472ee804629c8b196d7ef095a4e4a8aad998b9b1cb78f6c50"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tamamo-cross-katarina",
+			"name": "Tamamo Cross Katarina",
+			"champion": 55,
+			"base": 0,
+			"creator": "laiker",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tamamo-cross-katarina/thumb.webp?v=189bb451",
+			"file": {
+				"version": 1,
+				"asset": "tamamo-cross-katarina-v1.fantome",
+				"size": 13752617,
+				"sha256": "1f02cc6ee13132c566f34e9b295c96dae89bc75863505c2fb584cf0996357b67"
+			},
+			"chromas": []
+		},
+		{
+			"id": "tankman-corki",
+			"name": "Tankman corki",
+			"champion": 42,
+			"base": 0,
+			"creator": "mojkqueira",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/tankman-corki/thumb.webp?v=242007ec",
+			"file": {
+				"version": 1,
+				"asset": "tankman-corki-v1.fantome",
+				"size": 779928,
+				"sha256": "6d91ee897dabbe15cb984d8be4631cc5ff2dbf734a9a9ddd5941f92c2be458d1"
 			},
 			"chromas": []
 		},

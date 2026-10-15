@@ -1,0 +1,23 @@
+{
+	"id": "talon-enduring-white-chroma",
+	"name": "Talon Enduring White (Chroma)",
+	"champion": 91,
+	"base": 0,
+	"creator": "newdami",
+	"description": "Replace Enduring Sword base (without chroma)\nReleases:\n1.1 more whiter\n1.0 non satured\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/a2789108-2e7b-4d1e-8335-0dc8154d6686\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/talon-enduring-white-chroma/thumb.webp?v=014e20dd",
+	"file": {
+		"version": 1,
+		"asset": "talon-enduring-white-chroma-v1.fantome",
+		"size": 190994,
+		"sha256": "77acb35a77ecea914336c565490687de6866cbd7405c30d7b78259f802d4773e"
+	},
+	"chromas": []
+}

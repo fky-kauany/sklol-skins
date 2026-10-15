@@ -1,0 +1,23 @@
+{
+	"id": "talon-black-moon-chroma",
+	"name": "Talon Black Moon (Chroma)",
+	"champion": 91,
+	"base": 0,
+	"creator": "newdami",
+	"description": "2 Versions: satured and non satured, try both and enjoy.\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/37834288-d910-42a1-a488-a37b2ab5a5ee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/talon-black-moon-chroma/thumb.webp?v=36ad1c39",
+	"file": {
+		"version": 1,
+		"asset": "talon-black-moon-chroma-v1.fantome",
+		"size": 391703,
+		"sha256": "24193b19f3c2ec396c24d265a7854481bdac6ebc3d39e1a527000f0bbc216344"
+	},
+	"chromas": []
+}

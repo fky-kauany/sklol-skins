@@ -1,0 +1,23 @@
+{
+	"id": "talon-samsung-black-ssw-black-chroma",
+	"name": "Talon Samsung BLACK (SSW Black Chroma)",
+	"champion": 91,
+	"base": 0,
+	"creator": "newdami",
+	"description": "Replacing SSW skin, need to own\n\nModified:\n-Skin color\n-Textures colors when jumping, casting abilities, passive stacks\n-Splash art\n-HUD icons\n\n---\n\n**Created by** [NewDami](https://runeforge.dev/users/NewDami)\n\n**Original:** https://runeforge.dev/mods/b77fceba-96e9-437e-8bf3-a5b09f8a5ed6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/talon-samsung-black-ssw-black-chroma/thumb.webp?v=b38dae9a",
+	"file": {
+		"version": 1,
+		"asset": "talon-samsung-black-ssw-black-chroma-v1.fantome",
+		"size": 120230,
+		"sha256": "9d98bc775511ead31836ed463a42aedb34890095b7b90b6f64f0238be07e7175"
+	},
+	"chromas": []
+}

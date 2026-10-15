@@ -1,0 +1,26 @@
+{
+	"id": "talon-malphlon",
+	"name": "Malphlon",
+	"champion": 91,
+	"base": 0,
+	"creator": "cam",
+	"description": "---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/a56eceb2-e25a-4d28-ab28-69cf9ec3e91a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/talon-malphlon/thumb.webp?v=1facc1f0",
+	"file": {
+		"version": 1,
+		"asset": "talon-malphlon-v1.fantome",
+		"size": 4905928,
+		"sha256": "08b371fa008c5057245acd13278a235db27a109ee4c3958c15fc50bdcbbecba2"
+	},
+	"chromas": []
+}
