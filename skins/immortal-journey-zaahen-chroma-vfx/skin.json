@@ -1,0 +1,25 @@
+{
+	"id": "immortal-journey-zaahen-chroma-vfx",
+	"name": "Immortal Journey Zaahen chroma VFX",
+	"champion": 904,
+	"base": 0,
+	"creator": "suriin",
+	"description": "# For the sparkly E, R and P on sapphire and amethyst chroma download [the version with sparkles](https://runeforge.dev/mods/5762cb8d-7d12-4859-bbb5-1a81435342e7/releases)\n\n## Important info\n\nThis will clash with any custom skin that modifies Immortal Journey Zaahen. 1 file for all chromas.\n\n## Description\n\n**Author**: Suriin\n\n**Skin**: Immortal Journey Zaahen\n\n**Affects**: VFX colors\n\nDone upon request. Adds matching VFX to every chroma. There are 2 versions, because the person that commissioned this asked for sparkly particles.\n\n---\n\nVersions\n\n- 2.0.0 - All chromas - standard changes\n- 1.0.0 - All chromas - sparkles on E, R and P (max stacks)\n\n---\n\n## Contact\n\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/5762cb8d-7d12-4859-bbb5-1a81435342e7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/immortal-journey-zaahen-chroma-vfx/thumb.webp?v=ddf8fb92",
+	"file": {
+		"version": 1,
+		"asset": "immortal-journey-zaahen-chroma-vfx-v1.fantome",
+		"size": 25944037,
+		"sha256": "a875a55bd6a7b07096bbd2668951cd3c1c7a0c4a02ba52a944036f559615d29c"
+	},
+	"chromas": []
+}

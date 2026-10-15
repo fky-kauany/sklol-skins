@@ -1,0 +1,25 @@
+{
+	"id": "hornet-silkbutt-silk-android-kai-sa",
+	"name": "Hornet Silkbutt -- Silk Android Kai'sa",
+	"champion": 145,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/719a9cb0-d829-4615-8569-1074122ff9a8\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hornet-silkbutt-silk-android-kai-sa/thumb.webp?v=6efb737c",
+	"file": {
+		"version": 1,
+		"asset": "hornet-silkbutt-silk-android-kai-sa-v1.fantome",
+		"size": 5966559,
+		"sha256": "1087958cc225bd0ccda4b831618422e3bd9914de576fce93dda5eb29b21c6c23"
+	},
+	"chromas": []
+}

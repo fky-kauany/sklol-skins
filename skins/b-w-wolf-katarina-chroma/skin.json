@@ -1,0 +1,23 @@
+{
+	"id": "b-w-wolf-katarina-chroma",
+	"name": "B/W Wolf Katarina Chroma",
+	"champion": 55,
+	"base": 0,
+	"creator": "livinginteligente",
+	"description": "Mod Finish. Is Chorma for Katarina Wolf. Skin59 number\n\n---\n\n**Created by** [LivingInteligente](https://runeforge.dev/users/LivingInteligente)\n\n**Original:** https://runeforge.dev/mods/299a1b80-d869-4ea8-8abd-1b67ca217246\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/b-w-wolf-katarina-chroma/thumb.webp?v=0573a522",
+	"file": {
+		"version": 1,
+		"asset": "b-w-wolf-katarina-chroma-v1.fantome",
+		"size": 10443321,
+		"sha256": "2bb46807be7143f4728149fc7b40a491762e4e381246679485deb3abadb92108"
+	},
+	"chromas": []
+}

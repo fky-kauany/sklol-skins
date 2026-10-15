@@ -1,0 +1,24 @@
+{
+	"id": "atsuko-gwen-blue-archive",
+	"name": "Atsuko Gwen (Blue Archive)",
+	"champion": 887,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "ctrl 1 and some animation associatted with gwen's doll is broken and will be looked into in the future, theres the pre release version\nenjoy, hf\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/61365c40-12b5-48e6-84fc-18c68bae7da6\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/atsuko-gwen-blue-archive/thumb.webp?v=bc6e2fb2",
+	"file": {
+		"version": 1,
+		"asset": "atsuko-gwen-blue-archive-v1.fantome",
+		"size": 6495957,
+		"sha256": "6cc733de257d5cb30109813cb875a18d79db6bfa0fc98186a5b140522f3105fe"
+	},
+	"chromas": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "astolfo-bean-yorick-ghouls",
+	"name": "Astolfo Bean Yorick Ghouls",
+	"champion": 83,
+	"base": 0,
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for Kingshound\n\nOther Note: THE MUSIC DOESNT WORK, I couldn't get it back :'v‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n* Champion: Yorick\n* Modified skin: Default\n* Author: Kingshound\n* Mod version: 1.0.0\n* Description: S U C C\n\n### Features\n\n* New model and texture\n* Supports all champion texture quality settings\n* Modified loadingscreen\n* Edited ability sounds\n\n### Credits\n\n* Bean model from [https://steamcommunity.com/sharedfiles/filedetails/?id=1397341821\\&searchtext=astolfo](https://steamcommunity.com/sharedfiles/filedetails/?id=1397341821\\&searchtext=astolfo)\n* Ult song: [https://youtu.be/UfD2ELcKBvM](https://youtu.be/UfD2ELcKBvM)\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/333a0faf-3db4-48c5-b634-ce0d4e0e83ac\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/astolfo-bean-yorick-ghouls/thumb.webp?v=0a908b88",
+	"file": {
+		"version": 1,
+		"asset": "astolfo-bean-yorick-ghouls-v1.fantome",
+		"size": 51344168,
+		"sha256": "3afe52aab917a2df8161f0dce3a9bf1e2af31a74ff3791960e2c6d73f5760cdd"
+	},
+	"chromas": []
+}

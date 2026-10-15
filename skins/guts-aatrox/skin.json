@@ -1,0 +1,26 @@
+{
+	"id": "guts-aatrox",
+	"name": "Guts (Aatrox)",
+	"champion": 266,
+	"base": 0,
+	"creator": "sauronkaiser",
+	"description": "Important note: if this mod has visual bugs, try our autofixer (Available in the Runeforge official discord). If the bugs persist, please comment it to the author by DM or in the same discord so it can be put in the manual fixes list.\n\nBase champion: Aatrox\n\nModified Skin: Default\n\nAuthor: Sauronkaiser\n\nDescription: Guts from Berserk\n\nFeatures: \n\n-New model and textures.\n\n-Toggleable helmet (press crl+5)\n\n-New skill icons. \n\n-New loading screen and potrait.\n\n-New icons and HUD.\n\n-New particle effects.\n\n-Total overhaul for all the animations\n\n-New sounds.\n\n-Cameos of Puck, Schnoz, the beast of darkness and also a tribute to Berserk's author.\n\n-And yes, you can pet the dog.\n\n\nSources:\n\n-Recolor for 3.0 version made by NeoXstyles\n\n-Most models and textures are extracted from the \"Berserk And The Band Of The Hawk\" game.\n\n-Voices for the voiceover extracted from \"Berserk And The Band Of The Hawk\".\n\n-The song \"My brother\" belongs to the Berserk anime adaptations.\n\n-All the animations and particle changes were made by me.\n\n-The music playing in the dance emote is \"Beast in black\" by the band of the same name. \n\n\n\nlegacy Changelog:\n\n-05/12/2022: First prototype release\n\n-20/02/2023: Second version release\n\n-03/10/2023: Third and last version release\n\n-06/01/2024: Some tweaks\n\n-20/01/2022: Tweaks for first Q and some fixes for new season\n\n-05/04/2024: Fixed after patch 14.7 made most mods healthbar non-existent\n\n-13/02/2025: 3.0 version launch\n\n-28/04/2025: Both versions fixed for new patch. Legacy Version posted in a more obvious place in the post.\n\n-27/07/2025: Legacy version removed for now, since the page doesn't support alternative versions at this date.\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/004f7ffa-b1a1-47f3-88bf-fa018060d256\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/guts-aatrox/thumb.webp?v=6707d04a",
+	"file": {
+		"version": 1,
+		"asset": "guts-aatrox-v1.fantome",
+		"size": 34622725,
+		"sha256": "ff8a41b9fe244c87183c051b03a6aa320cfa68b700c67aa0fe1daa44044cda08"
+	},
+	"chromas": []
+}

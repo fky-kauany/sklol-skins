@@ -1,0 +1,25 @@
+{
+	"id": "infernal-vel-koz-chroma-vfx",
+	"name": "Infernal Vel'Koz chroma VFX",
+	"champion": 161,
+	"base": 0,
+	"creator": "suriin",
+	"description": "## Important info\n\nThis will clash with any custom skin that modifies Infernal Vel'Koz. 1 file for all chromas. \n\n## Description\n\n**Author**: Suriin\n\n**Skin**: Infernal Vel'Koz\n\n**Affects**: VFX colors\n\nDone as a commission. Adds matching VFX to every chroma, base remains the same. I couldn't test the ruby chroma so if you use it and it looks broken please dm me on discord: .suriin.\n\n\n## Contact\n\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/e7a42853-3f48-445b-bf9b-74cbf4cd55f0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/infernal-vel-koz-chroma-vfx/thumb.webp?v=51d0b4ee",
+	"file": {
+		"version": 1,
+		"asset": "infernal-vel-koz-chroma-vfx-v1.fantome",
+		"size": 37432884,
+		"sha256": "99a41610d96282fa7abd06375360396448c0b99d15b03494258f3d205af31d15"
+	},
+	"chromas": []
+}

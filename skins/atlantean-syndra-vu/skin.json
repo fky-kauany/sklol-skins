@@ -1,0 +1,23 @@
+{
+	"id": "atlantean-syndra-vu",
+	"name": "Atlantean Syndra VU",
+	"champion": 134,
+	"base": 2,
+	"creator": "novaweb",
+	"description": "I recently got this skin and I really liked its aesthetic so I decided to make an upgraded version of it based on my preferences.\r\n\r\nFor it to work you need to own the Atlantean Syndra skin and use it in champ select\n\n---\n\n**Created by** [novaweb](https://runeforge.dev/users/novaweb)\n\n**Original:** https://runeforge.dev/mods/f57e4a61-e402-426d-9613-8bec3e04abad\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/atlantean-syndra-vu/thumb.webp?v=69d7f6a1",
+	"file": {
+		"version": 1,
+		"asset": "atlantean-syndra-vu-v1.fantome",
+		"size": 2768687,
+		"sha256": "6d6f0769ef20f06ed6419e400841966bb2ccd851c679e273cdf6ebf07affd94c"
+	},
+	"chromas": []
+}

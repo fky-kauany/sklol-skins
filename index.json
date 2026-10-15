@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:56:53.168Z",
+	"generatedAt": "2026-10-15T07:59:51.576Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -30,6 +30,15 @@
 			"name": "AGAVUURHA",
 			"avatar": "creators/agavuurha.jpg?v=974746b3",
 			"links": {}
+		},
+		"agomsmoga": {
+			"name": "Moga",
+			"avatar": "creators/agomsmoga.png?v=b18a379a",
+			"bio": "<a href=\"https://discord.gg/gSXbEmPQCA\"> <img src=\"https://i.imgur.com/vV5RqTA.png\" style=\"width: 780; height: 670px; display: inline-block; vertical-align: middle;\"> </a>\n\nMain Moga here: https://runeforge.dev/users/Moga",
+			"links": {
+				"discord": "https://discord.gg/HEjuFmbm6g",
+				"site": "https://runeforge.dev/users/Moga"
+			}
 		},
 		"anakin025": {
 			"name": "anakin025",
@@ -516,6 +525,12 @@
 			"avatar": "creators/laiker.jpg?v=4682a9a7",
 			"links": {}
 		},
+		"leon135": {
+			"name": "Leon135",
+			"avatar": "creators/leon135.jpg?v=d74e10a5",
+			"bio": "[My website](https://leon135.xyz)",
+			"links": {}
+		},
 		"lexa2209": {
 			"name": "lexa2209",
 			"bio": "PRRRRRRR PAPA SKIBIDI PAPA",
@@ -534,6 +549,11 @@
 		"lita": {
 			"name": "lita",
 			"avatar": "creators/lita.webp?v=7618fc10",
+			"links": {}
+		},
+		"livinginteligente": {
+			"name": "LivingInteligente",
+			"avatar": "creators/livinginteligente.jpg?v=cd5ee8a4",
 			"links": {}
 		},
 		"lordksop": {
@@ -627,6 +647,11 @@
 			"links": {
 				"discord": "https://discord.gg/RxQWbrTyhs"
 			}
+		},
+		"novaweb": {
+			"name": "novaweb",
+			"avatar": "creators/novaweb.jpg?v=875950ff",
+			"links": {}
 		},
 		"nyht": {
 			"name": "nyht",
@@ -2349,6 +2374,77 @@
 			"chromas": []
 		},
 		{
+			"id": "astolfo-bean-yorick-ghouls",
+			"name": "Astolfo Bean Yorick Ghouls",
+			"champion": 83,
+			"base": 0,
+			"creator": "runeforgerecoveryteam",
+			"parts": [
+				"model",
+				"sounds",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/astolfo-bean-yorick-ghouls/thumb.webp?v=0a908b88",
+			"file": {
+				"version": 1,
+				"asset": "astolfo-bean-yorick-ghouls-v1.fantome",
+				"size": 51344168,
+				"sha256": "3afe52aab917a2df8161f0dce3a9bf1e2af31a74ff3791960e2c6d73f5760cdd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "atlantean-syndra-vu",
+			"name": "Atlantean Syndra VU",
+			"champion": 134,
+			"base": 2,
+			"creator": "novaweb",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/atlantean-syndra-vu/thumb.webp?v=69d7f6a1",
+			"file": {
+				"version": 1,
+				"asset": "atlantean-syndra-vu-v1.fantome",
+				"size": 2768687,
+				"sha256": "6d6f0769ef20f06ed6419e400841966bb2ccd851c679e273cdf6ebf07affd94c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "atsuko-gwen-blue-archive",
+			"name": "Atsuko Gwen (Blue Archive)",
+			"champion": 887,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/atsuko-gwen-blue-archive/thumb.webp?v=bc6e2fb2",
+			"file": {
+				"version": 1,
+				"asset": "atsuko-gwen-blue-archive-v1.fantome",
+				"size": 6495957,
+				"sha256": "6cc733de257d5cb30109813cb875a18d79db6bfa0fc98186a5b140522f3105fe"
+			},
+			"chromas": []
+		},
+		{
 			"id": "aurelion-sol-red-flame-divine-architect-porcelai",
 			"name": "Red Flame Divine Architect Porcelain Aurelion Sol Chroma",
 			"champion": 136,
@@ -2375,6 +2471,131 @@
 			"chromas": []
 		},
 		{
+			"id": "aurora-without-a-hat",
+			"name": "Aurora without a hat",
+			"champion": 893,
+			"base": 0,
+			"creator": "1gem1",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aurora-without-a-hat/thumb.webp?v=25be040c",
+			"file": {
+				"version": 1,
+				"asset": "aurora-without-a-hat-v1.fantome",
+				"size": 10459014,
+				"sha256": "1b82a155b194d95f03d48d0244dc07e2aff0ad60744e8b77207a6df414d1f111"
+			},
+			"chromas": []
+		},
+		{
+			"id": "aurora-without-her-hat-ears-tail-and-glasses",
+			"name": "Aurora Without Her Hat, Ears, Tail and Glasses",
+			"champion": 893,
+			"base": 0,
+			"creator": "agomsmoga",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/aurora-without-her-hat-ears-tail-and-glasses/thumb.webp?v=21469e95",
+			"file": {
+				"version": 1,
+				"asset": "aurora-without-her-hat-ears-tail-and-glasses-v1.fantome",
+				"size": 6572676,
+				"sha256": "9a6c6893119f5e1887ac8e3f2189adacbf5392da528d73b396b90c7966ed01da"
+			},
+			"chromas": []
+		},
+		{
+			"id": "avast-malzahar",
+			"name": "Avast Malzahar",
+			"champion": 90,
+			"base": 4,
+			"creator": "leon135",
+			"parts": [
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/avast-malzahar/thumb.webp?v=6ae2ca83",
+			"file": {
+				"version": 1,
+				"asset": "avast-malzahar-v1.fantome",
+				"size": 12383081,
+				"sha256": "ead248ca34a48314eaa2b7d28f1f9e62176aa3ae3566178393feeafa02a151ce"
+			},
+			"chromas": []
+		},
+		{
+			"id": "azazel-mordekaiser",
+			"name": "Azazel Mordekaiser",
+			"champion": 82,
+			"base": 0,
+			"creator": "nyht",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/azazel-mordekaiser/thumb.webp?v=436f0187",
+			"file": {
+				"version": 1,
+				"asset": "azazel-mordekaiser-v1.fantome",
+				"size": 12099635,
+				"sha256": "88209147b34545b447ad7da07972bf056737bc8fef72cec7bb8f59b6c49a9fb0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "azir-ichika-archive-blue-archive",
+			"name": "Ichika Archive (Blue Archive)",
+			"champion": 268,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/azir-ichika-archive-blue-archive/thumb.webp?v=90ded9b4",
+			"file": {
+				"version": 1,
+				"asset": "azir-ichika-archive-blue-archive-v1.fantome",
+				"size": 20603606,
+				"sha256": "07debca45c42240446a806477e6f796814e3881ef1b3ec6cc8c80959c35d81f6"
+			},
+			"chromas": []
+		},
+		{
 			"id": "b-o-p-e-gangplank",
 			"name": "B.O.P.E Gangplank",
 			"champion": 41,
@@ -2393,6 +2614,52 @@
 				"asset": "b-o-p-e-gangplank-v1.fantome",
 				"size": 115452,
 				"sha256": "be71d5cf56a7d3139674a4c65e88e97cd56b87f593228bd12c912386154e6b43"
+			},
+			"chromas": []
+		},
+		{
+			"id": "b-w-empyrean-pyke",
+			"name": "b&w empyrean pyke",
+			"champion": 555,
+			"base": 0,
+			"creator": "spykeep",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/b-w-empyrean-pyke/thumb.webp?v=47ae7bc7",
+			"file": {
+				"version": 1,
+				"asset": "b-w-empyrean-pyke-v1.fantome",
+				"size": 5222281,
+				"sha256": "485094c6240510624dc240a305ab8303e902c59deda5a4ef73a30c94f6119eb7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "b-w-wolf-katarina-chroma",
+			"name": "B/W Wolf Katarina Chroma",
+			"champion": 55,
+			"base": 0,
+			"creator": "livinginteligente",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/b-w-wolf-katarina-chroma/thumb.webp?v=0573a522",
+			"file": {
+				"version": 1,
+				"asset": "b-w-wolf-katarina-chroma-v1.fantome",
+				"size": 10443321,
+				"sha256": "2bb46807be7143f4728149fc7b40a491762e4e381246679485deb3abadb92108"
 			},
 			"chromas": []
 		},
@@ -2764,6 +3031,229 @@
 				"asset": "green-blood-moon-pyke-v1.fantome",
 				"size": 1311139,
 				"sha256": "688b68b377ecfd7df42384c9c94d20bd2a466f7292ef8743eb131e0f04b93d1a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "guan-yu-zaahen-default",
+			"name": "Guan Yu Zaahen (Default)",
+			"champion": 904,
+			"base": 0,
+			"creator": "hyperios",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/guan-yu-zaahen-default/thumb.webp?v=833e975a",
+			"file": {
+				"version": 1,
+				"asset": "guan-yu-zaahen-default-v1.fantome",
+				"size": 7053384,
+				"sha256": "3460c43802725b19439dc532eb363dfc9a49df5ceb243765d6b2b3498ef1cc25"
+			},
+			"chromas": []
+		},
+		{
+			"id": "guts-aatrox",
+			"name": "Guts (Aatrox)",
+			"champion": 266,
+			"base": 0,
+			"creator": "sauronkaiser",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/guts-aatrox/thumb.webp?v=6707d04a",
+			"file": {
+				"version": 1,
+				"asset": "guts-aatrox-v1.fantome",
+				"size": 34622725,
+				"sha256": "ff8a41b9fe244c87183c051b03a6aa320cfa68b700c67aa0fe1daa44044cda08"
+			},
+			"chromas": []
+		},
+		{
+			"id": "gwen-rannigwenretexture",
+			"name": "RanniGwenRetexture",
+			"champion": 887,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/gwen-rannigwenretexture/thumb.webp?v=2ac44a10",
+			"file": {
+				"version": 1,
+				"asset": "gwen-rannigwenretexture-v1.fantome",
+				"size": 10589616,
+				"sha256": "4f876edb6e6c52203d5a55d9aca2112c0e3070fea5c4b72a444c65168ef5ee28"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hollow-knight-silksong-kindred-hornet",
+			"name": "hollow knight silksong kindred hornet",
+			"champion": 203,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hollow-knight-silksong-kindred-hornet/thumb.webp?v=72270125",
+			"file": {
+				"version": 1,
+				"asset": "hollow-knight-silksong-kindred-hornet-v1.fantome",
+				"size": 10283303,
+				"sha256": "b7728611a314c87199264d4ac02355d350304e6af21f612619cbe93383cf09d0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "hornet-silkbutt-silk-android-kai-sa",
+			"name": "Hornet Silkbutt -- Silk Android Kai'sa",
+			"champion": 145,
+			"base": 0,
+			"creator": "wastedwaffle",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/hornet-silkbutt-silk-android-kai-sa/thumb.webp?v=6efb737c",
+			"file": {
+				"version": 1,
+				"asset": "hornet-silkbutt-silk-android-kai-sa-v1.fantome",
+				"size": 5966559,
+				"sha256": "1087958cc225bd0ccda4b831618422e3bd9914de576fce93dda5eb29b21c6c23"
+			},
+			"chromas": []
+		},
+		{
+			"id": "immortal-journey-zaahen-chroma-vfx",
+			"name": "Immortal Journey Zaahen chroma VFX",
+			"champion": 904,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/immortal-journey-zaahen-chroma-vfx/thumb.webp?v=ddf8fb92",
+			"file": {
+				"version": 1,
+				"asset": "immortal-journey-zaahen-chroma-vfx-v1.fantome",
+				"size": 25944037,
+				"sha256": "a875a55bd6a7b07096bbd2668951cd3c1c7a0c4a02ba52a944036f559615d29c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "infernal-vel-koz-chroma-vfx",
+			"name": "Infernal Vel'Koz chroma VFX",
+			"champion": 161,
+			"base": 0,
+			"creator": "suriin",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/infernal-vel-koz-chroma-vfx/thumb.webp?v=51d0b4ee",
+			"file": {
+				"version": 1,
+				"asset": "infernal-vel-koz-chroma-vfx-v1.fantome",
+				"size": 37432884,
+				"sha256": "99a41610d96282fa7abd06375360396448c0b99d15b03494258f3d205af31d15"
+			},
+			"chromas": []
+		},
+		{
+			"id": "inverted-hwei",
+			"name": "Inverted Hwei",
+			"champion": 910,
+			"base": 0,
+			"creator": "rahabani",
+			"parts": [
+				"model"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/inverted-hwei/thumb.webp?v=ec9324f2",
+			"file": {
+				"version": 1,
+				"asset": "inverted-hwei-v1.fantome",
+				"size": 2343441,
+				"sha256": "809f4b7b3d6b5753511e74ff43425341d9deacca53f43cfc6d643560d4199e63"
+			},
+			"chromas": []
+		},
+		{
+			"id": "irelia-vasco",
+			"name": "Irelia Vasco",
+			"champion": 39,
+			"base": 0,
+			"creator": "rahabani",
+			"parts": [
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "skins/irelia-vasco/thumb.webp?v=cd9b2a4c",
+			"file": {
+				"version": 1,
+				"asset": "irelia-vasco-v1.fantome",
+				"size": 686854,
+				"sha256": "679109ef06688fd27c1f8aa5cf11060504294a6c5554cf8f5eae13e417f7941f"
 			},
 			"chromas": []
 		},

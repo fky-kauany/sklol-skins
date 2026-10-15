@@ -1,0 +1,26 @@
+{
+	"id": "azir-ichika-archive-blue-archive",
+	"name": "Ichika Archive (Blue Archive)",
+	"champion": 268,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/3454c3fe-db45-40eb-bc3f-579d9c9d1734\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/azir-ichika-archive-blue-archive/thumb.webp?v=90ded9b4",
+	"file": {
+		"version": 1,
+		"asset": "azir-ichika-archive-blue-archive-v1.fantome",
+		"size": 20603606,
+		"sha256": "07debca45c42240446a806477e6f796814e3881ef1b3ec6cc8c80959c35d81f6"
+	},
+	"chromas": []
+}

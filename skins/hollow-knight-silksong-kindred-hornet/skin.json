@@ -1,0 +1,26 @@
+{
+	"id": "hollow-knight-silksong-kindred-hornet",
+	"name": "hollow knight silksong kindred hornet",
+	"champion": 203,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/cb131904-609b-431f-8b8c-1e4b39d87192\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/hollow-knight-silksong-kindred-hornet/thumb.webp?v=72270125",
+	"file": {
+		"version": 1,
+		"asset": "hollow-knight-silksong-kindred-hornet-v1.fantome",
+		"size": 10283303,
+		"sha256": "b7728611a314c87199264d4ac02355d350304e6af21f612619cbe93383cf09d0"
+	},
+	"chromas": []
+}

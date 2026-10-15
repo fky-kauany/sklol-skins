@@ -1,0 +1,23 @@
+{
+	"id": "aurora-without-her-hat-ears-tail-and-glasses",
+	"name": "Aurora Without Her Hat, Ears, Tail and Glasses",
+	"champion": 893,
+	"base": 0,
+	"creator": "agomsmoga",
+	"description": "### Overview:\n\n* Skins Affected: ALL SKINS - INCLUDING ARCANA\n* Hat, Ears, Tail all removed.\n\nPlease report bugs.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/028e1b71-836e-48ed-bb91-c2c9b82f68a3\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/aurora-without-her-hat-ears-tail-and-glasses/thumb.webp?v=21469e95",
+	"file": {
+		"version": 1,
+		"asset": "aurora-without-her-hat-ears-tail-and-glasses-v1.fantome",
+		"size": 6572676,
+		"sha256": "9a6c6893119f5e1887ac8e3f2189adacbf5392da528d73b396b90c7966ed01da"
+	},
+	"chromas": []
+}

@@ -1,0 +1,22 @@
+{
+	"id": "inverted-hwei",
+	"name": "Inverted Hwei",
+	"champion": 910,
+	"base": 0,
+	"creator": "rahabani",
+	"description": "The Roles are reversed\n\n---\n\n**Created by** [Rahabani](https://runeforge.dev/users/Rahabani)\n\n**Original:** https://runeforge.dev/mods/aae64b06-b6ee-48a9-b6c2-df2b8c902973\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/inverted-hwei/thumb.webp?v=ec9324f2",
+	"file": {
+		"version": 1,
+		"asset": "inverted-hwei-v1.fantome",
+		"size": 2343441,
+		"sha256": "809f4b7b3d6b5753511e74ff43425341d9deacca53f43cfc6d643560d4199e63"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "gwen-rannigwenretexture",
+	"name": "RanniGwenRetexture",
+	"champion": 887,
+	"base": 0,
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/5511ce8b-6e5b-4d7f-aed8-33f9e00e04a2\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/gwen-rannigwenretexture/thumb.webp?v=2ac44a10",
+	"file": {
+		"version": 1,
+		"asset": "gwen-rannigwenretexture-v1.fantome",
+		"size": 10589616,
+		"sha256": "4f876edb6e6c52203d5a55d9aca2112c0e3070fea5c4b72a444c65168ef5ee28"
+	},
+	"chromas": []
+}

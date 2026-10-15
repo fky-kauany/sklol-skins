@@ -1,0 +1,23 @@
+{
+	"id": "b-w-empyrean-pyke",
+	"name": "b&w empyrean pyke",
+	"champion": 555,
+	"base": 0,
+	"creator": "spykeep",
+	"description": "Champion: Pyke\n\nModified skin: Empyrean\n\nAbility color changed\n\nModel color changed\n\nReset available form changed\n\nIt looks pretty good IMO\n\n---\n\n**Created by** [spykeep](https://runeforge.dev/users/spykeep)\n\n**Original:** https://runeforge.dev/mods/9e346565-f077-4846-96bc-2d53c8d13356\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/b-w-empyrean-pyke/thumb.webp?v=47ae7bc7",
+	"file": {
+		"version": 1,
+		"asset": "b-w-empyrean-pyke-v1.fantome",
+		"size": 5222281,
+		"sha256": "485094c6240510624dc240a305ab8303e902c59deda5a4ef73a30c94f6119eb7"
+	},
+	"chromas": []
+}

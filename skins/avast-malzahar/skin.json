@@ -1,0 +1,24 @@
+{
+	"id": "avast-malzahar",
+	"name": "Avast Malzahar",
+	"champion": 90,
+	"base": 4,
+	"creator": "leon135",
+	"description": "Malzahar skin with theme of Avast - antivirus software.\nIt has Avast sounds in polish and a few tts voicelines about viruses, defenders and spyware (avast is spyware)\n\n---\n\n**Created by** [Leon135](https://runeforge.dev/users/Leon135)\n\n**Original:** https://runeforge.dev/mods/158a7115-54b9-4a3d-9e65-15ddeee6737c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/avast-malzahar/thumb.webp?v=6ae2ca83",
+	"file": {
+		"version": 1,
+		"asset": "avast-malzahar-v1.fantome",
+		"size": 12383081,
+		"sha256": "ead248ca34a48314eaa2b7d28f1f9e62176aa3ae3566178393feeafa02a151ce"
+	},
+	"chromas": []
+}

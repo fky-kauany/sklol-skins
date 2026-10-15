@@ -1,0 +1,24 @@
+{
+	"id": "guan-yu-zaahen-default",
+	"name": "Guan Yu Zaahen (Default)",
+	"champion": 904,
+	"base": 0,
+	"creator": "hyperios",
+	"description": "This mod replaces Default Zaahen skin. Custom Ability Icons.\n\n---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/c70c9ed1-2a2a-40eb-86e6-c70b9545b442\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/guan-yu-zaahen-default/thumb.webp?v=833e975a",
+	"file": {
+		"version": 1,
+		"asset": "guan-yu-zaahen-default-v1.fantome",
+		"size": 7053384,
+		"sha256": "3460c43802725b19439dc532eb363dfc9a49df5ceb243765d6b2b3498ef1cc25"
+	},
+	"chromas": []
+}

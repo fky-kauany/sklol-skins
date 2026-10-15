@@ -1,0 +1,26 @@
+{
+	"id": "azazel-mordekaiser",
+	"name": "Azazel Mordekaiser",
+	"champion": 82,
+	"base": 0,
+	"creator": "nyht",
+	"description": "**CHAMPION:** Mordekaiser\n\n**SKIN REPLACE:** Base Skin\n\n**CUSTOM VFX**\n\n* Ability (Q and R)\n* Recall\n* Respawn&#x20;\n\n**CUSTOM ANIMATIONS**\n\n* Idle\n* Attack\n* Abilities\n* Recall\n* Emotes\n* Death and Respawn\n\n**CUSTOM SFX**\n\n* Abilities (Q and R)\n* Recall\n* Emotes\n* Respawn\n\n**CUSTOM MODEL AND TEXTURES**\n\n* Azazel Model taken from Tekken 8\n\n**CREDITS**\n\n* Modded by Nyht Seven\n\n---\n\n**Created by** [Nyht Seven](https://runeforge.dev/users/Nyht)\n\n**Original:** https://runeforge.dev/mods/c0272f5f-e9a5-4759-9368-e5f52cb6c037\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "skins/azazel-mordekaiser/thumb.webp?v=436f0187",
+	"file": {
+		"version": 1,
+		"asset": "azazel-mordekaiser-v1.fantome",
+		"size": 12099635,
+		"sha256": "88209147b34545b447ad7da07972bf056737bc8fef72cec7bb8f59b6c49a9fb0"
+	},
+	"chromas": []
+}
