@@ -1,4 +1,4 @@
-# Atualiza o número de downloads de cada skin no index.json (de 6 em 6 horas, ou à mão pela aba Actions).
+# Atualiza o número de downloads de cada skin no index.json (e das pagas no paid.json) (de 6 em 6 horas, ou à mão pela aba Actions).
 name: downloads
 
 on:
@@ -26,8 +26,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: commit
         run: |
-          if git diff --quiet index.json; then exit 0; fi
+          if git diff --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "downloads" index.json
+          git commit -am "downloads"
           git push

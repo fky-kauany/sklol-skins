@@ -1,6 +1,6 @@
 # SkLoL Skins
 
-O repositório oficial de skins do [SkLoL](https://github.com/fky-kauany/sklol-plugin): as skins que já vêm na loja do app.
+O repositório oficial de skins do [SkLoL](https://github.com/fky-kauany/sklol): as skins que já vêm na loja do app.
 
 Nada aqui é editado à mão. Tudo é gerado pelo `bun run skins` do SkLoL, e os números de download são atualizados por uma GitHub Action.
 
