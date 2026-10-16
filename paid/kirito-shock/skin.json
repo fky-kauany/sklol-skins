@@ -14,7 +14,7 @@
 	],
 	"patch": "16.20",
 	"publishedAt": "2026-10-15",
-	"updatedAt": "2026-10-15",
+	"updatedAt": "2026-10-16",
 	"thumb": "paid/kirito-shock/thumb.webp?v=7282de21",
 	"file": {
 		"version": 1,
@@ -22,5 +22,19 @@
 		"size": 11435705,
 		"sha256": "979aebf418ab05517f7b0c94208d58a525cb2fd3495bc2188c30d70f0dfa2b2b"
 	},
-	"chromas": []
+	"chromas": [
+		{
+			"id": "kirito-shock-branco",
+			"name": "Kirito Shock (Branco)",
+			"color": "#ffffff",
+			"thumb": "paid/kirito-shock/chromas/kirito-shock-branco.webp?v=d63a8eea",
+			"patch": "16.20",
+			"file": {
+				"version": 1,
+				"asset": "kirito-shock--kirito-shock-branco-v1.bin",
+				"size": 11435705,
+				"sha256": "076cc534c144cf9bc895793badc152d5a68109831a6d3cbe3dc6aa54c939e681"
+			}
+		}
+	]
 }
