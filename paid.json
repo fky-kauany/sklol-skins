@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-16T19:25:40.702Z",
+	"generatedAt": "2026-10-16T20:47:27.721Z",
 	"skins": [
 		{
 			"id": "kirito-shock",
@@ -26,21 +26,7 @@
 				"size": 11435705,
 				"sha256": "979aebf418ab05517f7b0c94208d58a525cb2fd3495bc2188c30d70f0dfa2b2b"
 			},
-			"chromas": [
-				{
-					"id": "kirito-shock-branco",
-					"name": "Kirito Shock (Branco)",
-					"color": "#ffffff",
-					"thumb": "paid/kirito-shock/chromas/kirito-shock-branco.webp?v=a67a834c",
-					"patch": "16.20",
-					"file": {
-						"version": 2,
-						"asset": "kirito-shock--kirito-shock-branco-v2.bin",
-						"size": 9987402,
-						"sha256": "93bc4f58688b5f7ae7c0e43b309b5f8cc68dd89f6fe501e098d5aff0c4c31e87"
-					}
-				}
-			]
+			"chromas": []
 		}
 	]
 }
