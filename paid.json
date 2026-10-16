@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-16T20:48:21.767Z",
+	"generatedAt": "2026-10-16T20:56:04.350Z",
 	"skins": [
 		{
 			"id": "kirito-shock",
@@ -26,6 +26,7 @@
 				"size": 11435705,
 				"sha256": "979aebf418ab05517f7b0c94208d58a525cb2fd3495bc2188c30d70f0dfa2b2b"
 			},
+			"color": "#1b1b1b",
 			"chromas": [
 				{
 					"id": "branco",
