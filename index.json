@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T15:41:51.975Z",
+	"generatedAt": "2026-10-16T18:19:23.629Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1654,6 +1654,10 @@
 			"name": "SkarnerCientista",
 			"avatar": "creators/skarnercientista.jpg?v=8960feba",
 			"bio": "Hello! I'm a youtuber and a beggining modder of league of legends, especifically Skarner!\n\n my channel:\nhttps://www.youtube.com/@SkarnerCientista",
+			"links": {}
+		},
+		"sluucke": {
+			"name": "Sluucke",
 			"links": {}
 		},
 		"slyger": {
