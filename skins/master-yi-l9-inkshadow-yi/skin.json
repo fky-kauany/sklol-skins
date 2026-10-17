@@ -4,15 +4,15 @@
 	"champion": 11,
 	"base": 89,
 	"creator": "vision4rio",
-	"description": "YOU NEED THE SKIN!!\r\nYOU NEED THE SKIN!!\r\nYOU NEED THE SKIN!!\r\n\r\n03/19 edit - bigger and darker shadows\r\nL9 INSPIRED CHROMA\r\n\r\nHere you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/1f56ec10-95d1-4e7c-b78e-d98b174d13e9\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"description": "03/19 edit - bigger and darker shadows\nL9 INSPIRED CHROMA\n\nHere you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\n\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/1f56ec10-95d1-4e7c-b78e-d98b174d13e9\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
 	"parts": [
 		"textures",
 		"vfx"
 	],
 	"patch": "16.20",
 	"publishedAt": "2026-10-15",
-	"updatedAt": "2026-10-15",
-	"thumb": "skins/master-yi-l9-inkshadow-yi/thumb.webp?v=d8e27c1b",
+	"updatedAt": "2026-10-17",
+	"thumb": "skins/master-yi-l9-inkshadow-yi/thumb.webp?v=5ec1e987",
 	"file": {
 		"version": 1,
 		"asset": "master-yi-l9-inkshadow-yi-v1.fantome",
