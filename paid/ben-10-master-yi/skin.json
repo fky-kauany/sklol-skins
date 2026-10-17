@@ -1,0 +1,27 @@
+{
+	"id": "ben-10-master-yi",
+	"name": "Ben 10 Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "sluucke",
+	"description": "",
+	"parts": [
+		"model",
+		"textures",
+		"vfx",
+		"animations",
+		"sounds"
+	],
+	"patch": "16.20",
+	"publishedAt": "2026-10-17",
+	"updatedAt": "2026-10-17",
+	"thumb": "paid/ben-10-master-yi/thumb.webp?v=cf524d80",
+	"file": {
+		"version": 1,
+		"asset": "ben-10-master-yi-v1.bin",
+		"size": 9429017,
+		"sha256": "eeee654cbe13cae3c7e53d91b868c3d4f24e243b7a62155f1846affcb3dc4bcf"
+	},
+	"color": "#3ae84b",
+	"chromas": []
+}
