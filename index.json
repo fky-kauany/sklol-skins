@@ -2365,7 +2365,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/aatrox-without-the-demon/thumb.webp?v=b767acb9",
 			"file": {
 				"version": 1,
@@ -2720,7 +2720,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/akshan-classic-pure-black-chroma/thumb.webp?v=898c6c49",
 			"file": {
 				"version": 1,
@@ -6711,7 +6711,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/cosmic-princess-kassadin/thumb.webp?v=d6f2ea06",
 			"file": {
 				"version": 1,
@@ -20799,7 +20799,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/master-yi-inkshadow-prestige/thumb.webp?v=9d9e86c7",
 			"file": {
 				"version": 1,
@@ -20822,7 +20822,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/master-yi-inkshadow-yi-black-gold/thumb.webp?v=d668ac4d",
 			"file": {
 				"version": 1,
@@ -32458,7 +32458,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/tung-tung-tung-sahur-qiyana/thumb.webp?v=b08d737c",
 			"file": {
 				"version": 1,
@@ -35147,7 +35147,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "skins/yuumi-ashe/thumb.webp?v=65d764aa",
 			"file": {
 				"version": 1,
@@ -37234,7 +37234,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/hellfire-kindred/thumb.webp?v=cdd35dc7",
 			"file": {
 				"version": 1,
@@ -62983,7 +62983,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/blood-queen-diana/thumb.webp?v=6604d381",
 			"file": {
 				"version": 1,
