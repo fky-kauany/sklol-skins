@@ -1,0 +1,26 @@
+{
+	"id": "makoto-yuki-master-yi",
+	"name": "Makoto Yuki Master Yi",
+	"champion": 11,
+	"base": 0,
+	"creator": "kassalich",
+	"description": "My favorite potential man with themes and such\n\n**Works on every skin**\n\n**this mod changes:**\nmodel\neffects\n\nIf you have any questions feel free to dm me on discord @soywarriordeluxe\n\n---\n\n**Created by** [KassaLich](https://runeforge.dev/users/KassaLich)\n\n**Original:** https://runeforge.dev/mods/39b5df10-a2ec-4644-b744-bba32bd04e48\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/makoto-yuki-master-yi/thumb.webp?v=02c962d1",
+	"file": {
+		"version": 1,
+		"asset": "makoto-yuki-master-yi-v1.fantome",
+		"size": 9654685,
+		"sha256": "abce1a86dc10a9d71bc1faf0d55ffd8e78e3df2fcb034fb0c14054dad0464898"
+	},
+	"chromas": []
+}

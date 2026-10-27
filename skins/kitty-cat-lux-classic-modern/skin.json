@@ -1,0 +1,23 @@
+{
+	"id": "kitty-cat-lux-classic-modern",
+	"name": "Kitty Cat Lux - Classic & Modern",
+	"champion": 99,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Lux in Classic & Modern\n\n## SPECIAL THANKS TO\n\nPentaKing the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/862) and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/9ec8bb61-e6f0-4b25-8cea-f0eb3c6c1324\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/kitty-cat-lux-classic-modern/thumb.webp?v=a050e23b",
+	"file": {
+		"version": 1,
+		"asset": "kitty-cat-lux-classic-modern-v1.fantome",
+		"size": 8563054,
+		"sha256": "e7a2ac2d6c1c86cdd4f3f21eac3d8ef4705241b432cfe46a9601156236c45a2c"
+	},
+	"chromas": []
+}

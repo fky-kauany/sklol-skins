@@ -1,0 +1,23 @@
+{
+	"id": "magikarp-nami-classic-modern",
+	"name": "Magikarp Nami - Classic & Modern",
+	"champion": 267,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Nami in Classic & Modern\n\n## SPECIAL THANKS TO\n\nRedRiotRoss the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/a58b4d02-8bf1-4a76-acea-eadf2d8a1fe0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/magikarp-nami-classic-modern/thumb.webp?v=32d7d93d",
+	"file": {
+		"version": 1,
+		"asset": "magikarp-nami-classic-modern-v1.fantome",
+		"size": 16959862,
+		"sha256": "690d1b5050394a514d22c74597fa2997295ffc54a29cd0b0c104bf32a641bd66"
+	},
+	"chromas": []
+}

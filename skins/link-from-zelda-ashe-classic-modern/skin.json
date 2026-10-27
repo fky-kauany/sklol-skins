@@ -1,0 +1,23 @@
+{
+	"id": "link-from-zelda-ashe-classic-modern",
+	"name": "Link from Zelda Ashe - Classic & Modern",
+	"champion": 22,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base, Freljord, & Sherwood Forest Ash in Classic & Modern\n\n## SPECIAL THANKS TO\n\nthe Unknown creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/124) and was broken so I fixed it and reuploaded it.\nThere are three versions of this skin: Green, Blue & Red.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/a56001fa-37c7-4409-a6e2-1c32c4095e80\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/link-from-zelda-ashe-classic-modern/thumb.webp?v=bdca2e34",
+	"file": {
+		"version": 1,
+		"asset": "link-from-zelda-ashe-classic-modern-v1.fantome",
+		"size": 4719506,
+		"sha256": "f2cb31629ef6377d860db65da94f56fe592b659778bb83d00a2f061c31839d20"
+	},
+	"chromas": []
+}

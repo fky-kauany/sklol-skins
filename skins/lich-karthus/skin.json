@@ -1,0 +1,26 @@
+{
+	"id": "lich-karthus",
+	"name": "Lich Karthus",
+	"champion": 30,
+	"base": 0,
+	"creator": "humane11",
+	"description": "**Features**:\n> Custom Animations\n> Custom VFX\n> Custom Icons\n> Custom Sfx/VO\n> Custom Assets (Pumpkins)\n\n**Credits**:\n> Model: https://sketchfab.com/3d-models/lich-4ad4ece50273473ba1d843797b8f4fa6\n\n---\n\n**Created by** [humane11](https://www.divineskins.gg/humane11)\n\n**Original:** https://www.divineskins.gg/humane11/lich-karthus\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/lich-karthus/thumb.webp?v=da9db515",
+	"file": {
+		"version": 1,
+		"asset": "lich-karthus-v1.fantome",
+		"size": 27132458,
+		"sha256": "31c558f9e3e5c611ca1ececb5ee959d055a0df458097d2aae7a5af8d29698759"
+	},
+	"chromas": []
+}

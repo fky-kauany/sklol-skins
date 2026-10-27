@@ -1,0 +1,23 @@
+{
+	"id": "lux-sailor-moon-classic-modern",
+	"name": "Lux Sailor Moon - Classic & Modern",
+	"champion": 99,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Star Guardian Lux in Classic & Modern\n\n## SPECIAL THANKS TO\n\nTyre_4770 the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/783) and was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/43b577d4-5ef8-4a16-a3ab-cfdf59c56ed7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/lux-sailor-moon-classic-modern/thumb.webp?v=819803bd",
+	"file": {
+		"version": 1,
+		"asset": "lux-sailor-moon-classic-modern-v1.fantome",
+		"size": 9575996,
+		"sha256": "699ee490ed12b88c5b5856be15d3ab7eed65731d07416acb3f3c2ed5e42b692d"
+	},
+	"chromas": []
+}

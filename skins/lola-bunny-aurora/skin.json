@@ -1,0 +1,25 @@
+{
+	"id": "lola-bunny-aurora",
+	"name": "Lola Bunny - Aurora",
+	"champion": 893,
+	"base": 0,
+	"creator": "sabafutka",
+	"description": "---\n\n**Created by** [SabaFutka](https://www.divineskins.gg/SabaFutka)\n\n**Original:** https://www.divineskins.gg/SabaFutka/lola-bunny-aurora\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/lola-bunny-aurora/thumb.webp?v=b23a96a3",
+	"file": {
+		"version": 1,
+		"asset": "lola-bunny-aurora-v1.fantome",
+		"size": 8937877,
+		"sha256": "837d5d5690941c0c97d5043d3e62b9fd194df1b77ff17fa2d8ef905f838d0b2e"
+	},
+	"chromas": []
+}

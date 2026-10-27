@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T04:22:56.419Z",
+	"generatedAt": "2026-10-27T04:26:10.914Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -815,6 +815,15 @@
 				"youtube": "https://youtu.be/k4mrgQVbDfs?si=odskvjy8nk7g2iLo"
 			}
 		},
+		"humane11": {
+			"name": "humane11",
+			"avatar": "creators/humane11.webp?v=22268a47",
+			"bio": "very cool custom skin creator\ndiscord: humanealtv2",
+			"links": {
+				"discord": "https://discord.com/users/1490018050311983184",
+				"site": "https://github.com/humane125"
+			}
+		},
 		"hyperballad": {
 			"name": "hyperballad",
 			"avatar": "creators/hyperballad.jpg?v=7a4a621d",
@@ -939,6 +948,13 @@
 				"kofi": "https://ko-fi.com/mordekaizen/commissions",
 				"x": "https://x.com/MordeKaizen",
 				"youtube": "https://www.youtube.com/@MordeKaizen"
+			}
+		},
+		"kassalich": {
+			"name": "KassaLich",
+			"avatar": "creators/kassalich.jpg?v=29cd9362",
+			"links": {
+				"kofi": "https://ko-fi.com/seweski"
 			}
 		},
 		"katarina2121": {
@@ -2529,6 +2545,251 @@
 				"asset": "killua-ekko-v1.fantome",
 				"size": 4855046,
 				"sha256": "148fc2011609800acb316025125d4f3304516cca1adb2ddfd21396ac357b80a5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kitty-cat-lux-classic-modern",
+			"name": "Kitty Cat Lux - Classic & Modern",
+			"champion": 99,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/kitty-cat-lux-classic-modern/thumb.webp?v=a050e23b",
+			"file": {
+				"version": 1,
+				"asset": "kitty-cat-lux-classic-modern-v1.fantome",
+				"size": 8563054,
+				"sha256": "e7a2ac2d6c1c86cdd4f3f21eac3d8ef4705241b432cfe46a9601156236c45a2c"
+			},
+			"chromas": []
+		},
+		{
+			"id": "kled-only-lizard-the-1v9-lizard",
+			"name": "ONLY Lizard (THE 1V9 LIZARD)",
+			"champion": 240,
+			"base": 0,
+			"creator": "arkera",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/kled-only-lizard-the-1v9-lizard/thumb.webp?v=d65bd7aa",
+			"file": {
+				"version": 1,
+				"asset": "kled-only-lizard-the-1v9-lizard-v1.fantome",
+				"size": 7425313,
+				"sha256": "6856cac5dede486cfda0e359acc4d971cf9f8e6b56941550d7610b20b6d60967"
+			},
+			"chromas": []
+		},
+		{
+			"id": "l9-jinx",
+			"name": "L9 Jinx",
+			"champion": 222,
+			"base": 0,
+			"creator": "thoxainn",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/l9-jinx/thumb.webp?v=c3561b93",
+			"file": {
+				"version": 1,
+				"asset": "l9-jinx-v1.fantome",
+				"size": 5151197,
+				"sha256": "40da32468c8cbdc0cc8518a0f4bc2b5d10bdf42df8b8001e38d94744efb240ba"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lich-karthus",
+			"name": "Lich Karthus",
+			"champion": 30,
+			"base": 0,
+			"creator": "humane11",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/lich-karthus/thumb.webp?v=da9db515",
+			"file": {
+				"version": 1,
+				"asset": "lich-karthus-v1.fantome",
+				"size": 27132458,
+				"sha256": "31c558f9e3e5c611ca1ececb5ee959d055a0df458097d2aae7a5af8d29698759"
+			},
+			"chromas": []
+		},
+		{
+			"id": "link-from-zelda-ashe-classic-modern",
+			"name": "Link from Zelda Ashe - Classic & Modern",
+			"champion": 22,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/link-from-zelda-ashe-classic-modern/thumb.webp?v=bdca2e34",
+			"file": {
+				"version": 1,
+				"asset": "link-from-zelda-ashe-classic-modern-v1.fantome",
+				"size": 4719506,
+				"sha256": "f2cb31629ef6377d860db65da94f56fe592b659778bb83d00a2f061c31839d20"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lola-bunny-aurora",
+			"name": "Lola Bunny - Aurora",
+			"champion": 893,
+			"base": 0,
+			"creator": "sabafutka",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/lola-bunny-aurora/thumb.webp?v=b23a96a3",
+			"file": {
+				"version": 1,
+				"asset": "lola-bunny-aurora-v1.fantome",
+				"size": 8937877,
+				"sha256": "837d5d5690941c0c97d5043d3e62b9fd194df1b77ff17fa2d8ef905f838d0b2e"
+			},
+			"chromas": []
+		},
+		{
+			"id": "lux-sailor-moon-classic-modern",
+			"name": "Lux Sailor Moon - Classic & Modern",
+			"champion": 99,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/lux-sailor-moon-classic-modern/thumb.webp?v=819803bd",
+			"file": {
+				"version": 1,
+				"asset": "lux-sailor-moon-classic-modern-v1.fantome",
+				"size": 9575996,
+				"sha256": "699ee490ed12b88c5b5856be15d3ab7eed65731d07416acb3f3c2ed5e42b692d"
+			},
+			"chromas": []
+		},
+		{
+			"id": "magikarp-nami-classic-modern",
+			"name": "Magikarp Nami - Classic & Modern",
+			"champion": 267,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/magikarp-nami-classic-modern/thumb.webp?v=32d7d93d",
+			"file": {
+				"version": 1,
+				"asset": "magikarp-nami-classic-modern-v1.fantome",
+				"size": 16959862,
+				"sha256": "690d1b5050394a514d22c74597fa2997295ffc54a29cd0b0c104bf32a641bd66"
+			},
+			"chromas": []
+		},
+		{
+			"id": "makoto-yuki-master-yi",
+			"name": "Makoto Yuki Master Yi",
+			"champion": 11,
+			"base": 0,
+			"creator": "kassalich",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/makoto-yuki-master-yi/thumb.webp?v=02c962d1",
+			"file": {
+				"version": 1,
+				"asset": "makoto-yuki-master-yi-v1.fantome",
+				"size": 9654685,
+				"sha256": "abce1a86dc10a9d71bc1faf0d55ffd8e78e3df2fcb034fb0c14054dad0464898"
+			},
+			"chromas": []
+		},
+		{
+			"id": "mel-bonnie-aishah-sofey",
+			"name": "Mel Bonnie Aishah Sofey",
+			"champion": 800,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/mel-bonnie-aishah-sofey/thumb.webp?v=84f6d775",
+			"file": {
+				"version": 1,
+				"asset": "mel-bonnie-aishah-sofey-v1.fantome",
+				"size": 26743772,
+				"sha256": "30a3350a7a45a9321f4c4dbb0318430082800a4d6b71fd8da6c5dfdeda1f7041"
 			},
 			"chromas": []
 		},

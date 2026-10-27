@@ -1,0 +1,26 @@
+{
+	"id": "mel-bonnie-aishah-sofey",
+	"name": "Mel Bonnie Aishah Sofey",
+	"champion": 800,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 BONNIE AISHah SOFEY 」\n### *Replaces Mel*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Loading Screen**\n\n**Custom In-Game Icons**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/mel-bonnie-aishah-sofey\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/mel-bonnie-aishah-sofey/thumb.webp?v=84f6d775",
+	"file": {
+		"version": 1,
+		"asset": "mel-bonnie-aishah-sofey-v1.fantome",
+		"size": 26743772,
+		"sha256": "30a3350a7a45a9321f4c4dbb0318430082800a4d6b71fd8da6c5dfdeda1f7041"
+	},
+	"chromas": []
+}

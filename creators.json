@@ -812,6 +812,15 @@
 			"youtube": "https://youtu.be/k4mrgQVbDfs?si=odskvjy8nk7g2iLo"
 		}
 	},
+	"humane11": {
+		"name": "humane11",
+		"avatar": "creators/humane11.webp?v=22268a47",
+		"bio": "very cool custom skin creator\ndiscord: humanealtv2",
+		"links": {
+			"discord": "https://discord.com/users/1490018050311983184",
+			"site": "https://github.com/humane125"
+		}
+	},
 	"hyperballad": {
 		"name": "hyperballad",
 		"avatar": "creators/hyperballad.jpg?v=7a4a621d",
@@ -936,6 +945,13 @@
 			"kofi": "https://ko-fi.com/mordekaizen/commissions",
 			"x": "https://x.com/MordeKaizen",
 			"youtube": "https://www.youtube.com/@MordeKaizen"
+		}
+	},
+	"kassalich": {
+		"name": "KassaLich",
+		"avatar": "creators/kassalich.jpg?v=29cd9362",
+		"links": {
+			"kofi": "https://ko-fi.com/seweski"
 		}
 	},
 	"katarina2121": {

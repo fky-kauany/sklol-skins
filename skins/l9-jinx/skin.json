@@ -1,0 +1,25 @@
+{
+	"id": "l9-jinx",
+	"name": "L9 Jinx",
+	"champion": 222,
+	"base": 0,
+	"creator": "thoxainn",
+	"description": "***L9***\n\n---\n\n**Created by** [Thoxain](https://www.divineskins.gg/Thoxainn)\n\n**Original:** https://www.divineskins.gg/Thoxainn/l9-jinx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/l9-jinx/thumb.webp?v=c3561b93",
+	"file": {
+		"version": 1,
+		"asset": "l9-jinx-v1.fantome",
+		"size": 5151197,
+		"sha256": "40da32468c8cbdc0cc8518a0f4bc2b5d10bdf42df8b8001e38d94744efb240ba"
+	},
+	"chromas": []
+}

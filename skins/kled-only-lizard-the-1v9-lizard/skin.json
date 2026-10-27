@@ -1,0 +1,25 @@
+{
+	"id": "kled-only-lizard-the-1v9-lizard",
+	"name": "ONLY Lizard (THE 1V9 LIZARD)",
+	"champion": 240,
+	"base": 0,
+	"creator": "arkera",
+	"description": "## 🦎 ONLY LIZARD — The 1v9 Lizard\r\n*Who needs a Yordle when you have raw reptilian power?*\r\n\r\n\r\nKled has been completely removed from the game. Skaarl is now fighting 1v9 on her own !!\r\n\r\n\r\n**🌟 Features :**\r\n- Solo Skaarl Model : Kled removed from the 3D mesh.\r\n\r\n- Cleaned VFX : Removed floating weapon glows and trails + Red shield.\r\n\r\n- Custom Assets : Dedicated loading screen, minimap icon & thumbnail.\r\n\r\nBase Champion: Kled | Replaces: All Skin's\n\n---\n\n**Created by** [Arkera](https://www.divineskins.gg/Arkera)\n\n**Original:** https://www.divineskins.gg/Arkera/only-lizard-the-1v9-lizard\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/kled-only-lizard-the-1v9-lizard/thumb.webp?v=d65bd7aa",
+	"file": {
+		"version": 1,
+		"asset": "kled-only-lizard-the-1v9-lizard-v1.fantome",
+		"size": 7425313,
+		"sha256": "6856cac5dede486cfda0e359acc4d971cf9f8e6b56941550d7610b20b6d60967"
+	},
+	"chromas": []
+}
