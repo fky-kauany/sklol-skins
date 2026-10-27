@@ -1,0 +1,23 @@
+{
+	"id": "super-saiyan-vegeta-lucian-classic-modern",
+	"name": "Super Saiyan Vegeta Lucian - Classic & Modern",
+	"champion": 236,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Lucian in Classic & Modern\n\n## SPECIAL THANKS TO\n\nPentaKing the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/2fd73b2a-9de6-46d2-90e7-c6ece7af0d76\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/super-saiyan-vegeta-lucian-classic-modern/thumb.webp?v=451f83d3",
+	"file": {
+		"version": 1,
+		"asset": "super-saiyan-vegeta-lucian-classic-modern-v1.fantome",
+		"size": 2946938,
+		"sha256": "333fed03723ce29e5983a2e223fec289d44cc4835885c481a56514d9578b0b87"
+	},
+	"chromas": []
+}

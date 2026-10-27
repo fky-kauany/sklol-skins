@@ -1,0 +1,25 @@
+{
+	"id": "taliyah-raven",
+	"name": "Taliyah Raven",
+	"champion": 163,
+	"base": 0,
+	"creator": "neferpitou",
+	"description": "Raven Taliyah\n\n---\n\n**Created by** [neferpitou](https://runeforge.dev/users/neferpitou)\n\n**Original:** https://runeforge.dev/mods/4b9ee346-3b28-4bec-8bf3-a4857e54a909\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/taliyah-raven/thumb.webp?v=2057e317",
+	"file": {
+		"version": 1,
+		"asset": "taliyah-raven-v1.fantome",
+		"size": 6787985,
+		"sha256": "6c9642248971248c41c7563c0a3cdc45676a031344feae913fa2fdb1b9e26a09"
+	},
+	"chromas": []
+}

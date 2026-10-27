@@ -1,0 +1,24 @@
+{
+	"id": "smite-s-loki-shaco-classic-modern",
+	"name": "Smite’s Loki Shaco - Classic & Modern",
+	"champion": 35,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Shaco in Classic & Modern\n\n## SPECIAL THANKS TO\n\nKonradosj the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/59d76531-249d-43e3-ab60-2fe5a43388fc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/smite-s-loki-shaco-classic-modern/thumb.webp?v=329a43de",
+	"file": {
+		"version": 1,
+		"asset": "smite-s-loki-shaco-classic-modern-v1.fantome",
+		"size": 36836525,
+		"sha256": "2e914dacc9837c9a68097c94e2fc4de16c1abe7b08b9b13b23567d7652ebaaa6"
+	},
+	"chromas": []
+}

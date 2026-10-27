@@ -1,0 +1,25 @@
+{
+	"id": "transformers-jarvan-iv-classic-modern",
+	"name": "Transformers Jarvan IV - Classic & Modern",
+	"champion": 59,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Jarven IV in Classic & Modern\n\n## SPECIAL THANKS TO\n\nthe Unknown creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/0e6b9f08-d030-4fd1-ac69-efa4c084fc7f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/transformers-jarvan-iv-classic-modern/thumb.webp?v=82637a8a",
+	"file": {
+		"version": 1,
+		"asset": "transformers-jarvan-iv-classic-modern-v1.fantome",
+		"size": 15850663,
+		"sha256": "2af7605621a951e7b6982ded55b81e3fd7371a1d480b53e0f3ecd49d457ea5eb"
+	},
+	"chromas": []
+}

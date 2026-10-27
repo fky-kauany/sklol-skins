@@ -1,0 +1,26 @@
+{
+	"id": "syndra-witch-kurumi-tokisaki",
+	"name": "Syndra Witch Kurumi Tokisaki",
+	"champion": 134,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 🎃「 WITCH KURUMI TOKISAKI 」🎃\n### *Halloween Edition — Replaces Syndra*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Loading Screen**\n\n**Custom In-Game Icons**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/syndra-witch-kurumi-tokisaki\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/syndra-witch-kurumi-tokisaki/thumb.webp?v=f1cadbd4",
+	"file": {
+		"version": 1,
+		"asset": "syndra-witch-kurumi-tokisaki-v1.modpkg",
+		"size": 18875548,
+		"sha256": "197d42012495eb53302d0dc5d4d8ea2cad8a7dd92f404b48931902d10a64c1f5"
+	},
+	"chromas": []
+}

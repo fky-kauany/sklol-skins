@@ -1,0 +1,26 @@
+{
+	"id": "syndra-witch-kurumi",
+	"name": "Syndra Witch Kurumi",
+	"champion": 134,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "# 🎃「 WITCH KURUMI TOKISAKI 」🎃\n### *Halloween Edition — Replaces Syndra*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Loading Screen**\n\n**Custom In-Game Icons**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/689966c6-ebf1-48a0-a87f-dc5ec99b79ee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/syndra-witch-kurumi/thumb.webp?v=785a5bfa",
+	"file": {
+		"version": 1,
+		"asset": "syndra-witch-kurumi-v1.fantome",
+		"size": 24205041,
+		"sha256": "eaaa47fc9755fe206daf925ad72172bc47c248af8978e00c3d7c299da54589eb"
+	},
+	"chromas": []
+}

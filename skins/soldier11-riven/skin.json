@@ -1,0 +1,26 @@
+{
+	"id": "soldier11-riven",
+	"name": "Soldier11 Riven",
+	"champion": 92,
+	"base": 0,
+	"creator": "kaplan8479",
+	"description": "Hey I did voice over this time hope you like it.\r\nThis mod works with every skin!\r\nenjoy ♥\r\nmodel: https://sketchfab.com/3d-models/soldier-11-zzz-9d7c57cc52ba4021972c2d3e81f60a70\n\n---\n\n**Created by** [Cboychik](https://www.divineskins.gg/kaplan8479)\n\n**Original:** https://www.divineskins.gg/kaplan8479/soldier11-riven\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/soldier11-riven/thumb.webp?v=dc7a6477",
+	"file": {
+		"version": 1,
+		"asset": "soldier11-riven-v1.fantome",
+		"size": 12928941,
+		"sha256": "3276dbcd7f7fb14c8dc4cea352ef74831d0d56b86078539263de9ff3ceaa63dd"
+	},
+	"chromas": []
+}

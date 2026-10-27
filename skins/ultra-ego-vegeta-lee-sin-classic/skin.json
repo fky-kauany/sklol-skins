@@ -1,0 +1,23 @@
+{
+	"id": "ultra-ego-vegeta-lee-sin-classic",
+	"name": "Ultra Ego Vegeta Lee Sin - Classic",
+	"champion": 64,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Acolyte Chroma in Classic ONLY\n\n## SPECIAL THANKS TO\n\nNoxli the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and was broken so I fixed it and reuploaded it.\nThere are two versions of this skin available for download:\n\n- Ultra Ego Vegeta Lee Sin - Classic\n- Ultra Ego Vegeta Shirtless Lee Sin - Classic\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/18bfbe65-6a66-41b4-9113-8034a5dab877\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/ultra-ego-vegeta-lee-sin-classic/thumb.webp?v=b91e3af2",
+	"file": {
+		"version": 1,
+		"asset": "ultra-ego-vegeta-lee-sin-classic-v1.fantome",
+		"size": 11992255,
+		"sha256": "328b5ebf11692a65e8360ed57ed6ef4d1a3cab6412937873f1738573068def61"
+	},
+	"chromas": []
+}

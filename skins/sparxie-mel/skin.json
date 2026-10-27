@@ -1,0 +1,26 @@
+{
+	"id": "sparxie-mel",
+	"name": "Sparxie Mel",
+	"champion": 800,
+	"base": 0,
+	"creator": "kassalich",
+	"description": "made for a friend who larps the game\n\n**Works on every skin**\n\n**this mod changes:**\nmodel\neffects\nvoiceover\n\nIf you have any questions or want to commission a custom skin feel free to dm me on discord @soywarriordeluxe\n\n---\n\n**Created by** [KassaLich](https://runeforge.dev/users/KassaLich)\n\n**Original:** https://runeforge.dev/mods/3074f020-a456-443e-96f2-539c00c33733\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/sparxie-mel/thumb.webp?v=550096c0",
+	"file": {
+		"version": 1,
+		"asset": "sparxie-mel-v1.fantome",
+		"size": 16883552,
+		"sha256": "a89015ef391d12adfc252eea0f21edd74f90bff3ff9f56c5bd93369a7434e6d5"
+	},
+	"chromas": []
+}

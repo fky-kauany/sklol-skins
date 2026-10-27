@@ -1,0 +1,23 @@
+{
+	"id": "striker-ezreal-15-colors-chromas",
+	"name": "Striker Ezreal 15 Colors Chromas",
+	"champion": 81,
+	"base": 0,
+	"creator": "mattgicien",
+	"description": "15 custom colors for Striker Ezreal, with matching ability effects. Just wanted more color options for this skin.\n\nRequires Striker Ezreal. Keep it equipped and enable only one version at a time. Graphite Black uses silver effects so they stay visible.\n\nColors: Soft Red, Orange, Yellow, Lime, Green, Turquoise, Light Blue, Dark Blue, Purple, Pink, Magenta, Copper Brown, White, Silver, Graphite Black.\n\nThe preview images are recolored mockups. In-game lighting may look a little different. The mod changes the model and effects and loading screen.\n\nStriker Ezreal Chromas was created under Riot Games' \"Legal Jibber Jabber\" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.\n\n---\n\n**Created by** [mattgicien](https://runeforge.dev/users/mattgicien)\n\n**Original:** https://runeforge.dev/mods/765cf7cb-a0b5-43fa-83b7-55568e6ee8a6\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/striker-ezreal-15-colors-chromas/thumb.webp?v=3c44a48b",
+	"file": {
+		"version": 1,
+		"asset": "striker-ezreal-15-colors-chromas-v1.fantome",
+		"size": 1611089,
+		"sha256": "34c3c73719885b7e602173eb8d70e3a8421e77ce85a5fbc1ab308d0d80f19c76"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T04:29:24.232Z",
+	"generatedAt": "2026-10-27T04:33:32.123Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -954,6 +954,13 @@
 				"kofi": "https://ko-fi.com/mordekaizen/commissions",
 				"x": "https://x.com/MordeKaizen",
 				"youtube": "https://www.youtube.com/@MordeKaizen"
+			}
+		},
+		"kaplan8479": {
+			"name": "Cboychik",
+			"avatar": "creators/kaplan8479.webp?v=49629f0d",
+			"links": {
+				"site": "https://sketchfab.com/3d-models/soldier-11-zzz-9d7c57cc52ba4021972c2d3e81f60a70"
 			}
 		},
 		"kassalich": {
@@ -3058,6 +3065,253 @@
 				"asset": "seina-aatrox-stella-sora-v1.modpkg",
 				"size": 28523697,
 				"sha256": "7b61da9d0490b9b1491b551898c1dcb3c12c14c7213e88a44aa3ae72ac8818a9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "smite-s-loki-shaco-classic-modern",
+			"name": "Smite’s Loki Shaco - Classic & Modern",
+			"champion": 35,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/smite-s-loki-shaco-classic-modern/thumb.webp?v=329a43de",
+			"file": {
+				"version": 1,
+				"asset": "smite-s-loki-shaco-classic-modern-v1.fantome",
+				"size": 36836525,
+				"sha256": "2e914dacc9837c9a68097c94e2fc4de16c1abe7b08b9b13b23567d7652ebaaa6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "soldier11-riven",
+			"name": "Soldier11 Riven",
+			"champion": 92,
+			"base": 0,
+			"creator": "kaplan8479",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/soldier11-riven/thumb.webp?v=dc7a6477",
+			"file": {
+				"version": 1,
+				"asset": "soldier11-riven-v1.fantome",
+				"size": 12928941,
+				"sha256": "3276dbcd7f7fb14c8dc4cea352ef74831d0d56b86078539263de9ff3ceaa63dd"
+			},
+			"chromas": []
+		},
+		{
+			"id": "sparxie-mel",
+			"name": "Sparxie Mel",
+			"champion": 800,
+			"base": 0,
+			"creator": "kassalich",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/sparxie-mel/thumb.webp?v=550096c0",
+			"file": {
+				"version": 1,
+				"asset": "sparxie-mel-v1.fantome",
+				"size": 16883552,
+				"sha256": "a89015ef391d12adfc252eea0f21edd74f90bff3ff9f56c5bd93369a7434e6d5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "striker-ezreal-15-colors-chromas",
+			"name": "Striker Ezreal 15 Colors Chromas",
+			"champion": 81,
+			"base": 0,
+			"creator": "mattgicien",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/striker-ezreal-15-colors-chromas/thumb.webp?v=3c44a48b",
+			"file": {
+				"version": 1,
+				"asset": "striker-ezreal-15-colors-chromas-v1.fantome",
+				"size": 1611089,
+				"sha256": "34c3c73719885b7e602173eb8d70e3a8421e77ce85a5fbc1ab308d0d80f19c76"
+			},
+			"chromas": []
+		},
+		{
+			"id": "super-saiyan-vegeta-lucian-classic-modern",
+			"name": "Super Saiyan Vegeta Lucian - Classic & Modern",
+			"champion": 236,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/super-saiyan-vegeta-lucian-classic-modern/thumb.webp?v=451f83d3",
+			"file": {
+				"version": 1,
+				"asset": "super-saiyan-vegeta-lucian-classic-modern-v1.fantome",
+				"size": 2946938,
+				"sha256": "333fed03723ce29e5983a2e223fec289d44cc4835885c481a56514d9578b0b87"
+			},
+			"chromas": []
+		},
+		{
+			"id": "syndra-witch-kurumi",
+			"name": "Syndra Witch Kurumi",
+			"champion": 134,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/syndra-witch-kurumi/thumb.webp?v=785a5bfa",
+			"file": {
+				"version": 1,
+				"asset": "syndra-witch-kurumi-v1.fantome",
+				"size": 24205041,
+				"sha256": "eaaa47fc9755fe206daf925ad72172bc47c248af8978e00c3d7c299da54589eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "syndra-witch-kurumi-tokisaki",
+			"name": "Syndra Witch Kurumi Tokisaki",
+			"champion": 134,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/syndra-witch-kurumi-tokisaki/thumb.webp?v=f1cadbd4",
+			"file": {
+				"version": 1,
+				"asset": "syndra-witch-kurumi-tokisaki-v1.modpkg",
+				"size": 18875548,
+				"sha256": "197d42012495eb53302d0dc5d4d8ea2cad8a7dd92f404b48931902d10a64c1f5"
+			},
+			"chromas": []
+		},
+		{
+			"id": "taliyah-raven",
+			"name": "Taliyah Raven",
+			"champion": 163,
+			"base": 0,
+			"creator": "neferpitou",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/taliyah-raven/thumb.webp?v=2057e317",
+			"file": {
+				"version": 1,
+				"asset": "taliyah-raven-v1.fantome",
+				"size": 6787985,
+				"sha256": "6c9642248971248c41c7563c0a3cdc45676a031344feae913fa2fdb1b9e26a09"
+			},
+			"chromas": []
+		},
+		{
+			"id": "transformers-jarvan-iv-classic-modern",
+			"name": "Transformers Jarvan IV - Classic & Modern",
+			"champion": 59,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/transformers-jarvan-iv-classic-modern/thumb.webp?v=82637a8a",
+			"file": {
+				"version": 1,
+				"asset": "transformers-jarvan-iv-classic-modern-v1.fantome",
+				"size": 15850663,
+				"sha256": "2af7605621a951e7b6982ded55b81e3fd7371a1d480b53e0f3ecd49d457ea5eb"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ultra-ego-vegeta-lee-sin-classic",
+			"name": "Ultra Ego Vegeta Lee Sin - Classic",
+			"champion": 64,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/ultra-ego-vegeta-lee-sin-classic/thumb.webp?v=b91e3af2",
+			"file": {
+				"version": 1,
+				"asset": "ultra-ego-vegeta-lee-sin-classic-v1.fantome",
+				"size": 11992255,
+				"sha256": "328b5ebf11692a65e8360ed57ed6ef4d1a3cab6412937873f1738573068def61"
 			},
 			"chromas": []
 		},
