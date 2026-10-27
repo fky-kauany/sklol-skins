@@ -1,0 +1,23 @@
+{
+	"id": "morty-lulu-classic-modern",
+	"name": "Morty Lulu - Classic & Modern",
+	"champion": 117,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Star Guardian Lulu in Classic & Modern\n\n## SPECIAL THANKS TO\n\nRedRiotRoss the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/85f9d93a-d798-4a07-98c0-1d628529d195\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/morty-lulu-classic-modern/thumb.webp?v=71b947e7",
+	"file": {
+		"version": 1,
+		"asset": "morty-lulu-classic-modern-v1.fantome",
+		"size": 9450845,
+		"sha256": "2d5782596634dc4ab74de2b57c44bf2d1eaaef51e029cd54cf9b83607962185a"
+	},
+	"chromas": []
+}

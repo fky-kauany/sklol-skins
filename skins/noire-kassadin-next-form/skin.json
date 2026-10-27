@@ -1,0 +1,26 @@
+{
+	"id": "noire-kassadin-next-form",
+	"name": "Noire Kassadin Next Form",
+	"champion": 38,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "Original creator was MuvLuv, i found this mod on runeforge a while ago but it always had been broken, ive fixed it ages ago but recently i noticed that it dispaearred on runeforge probably since the mod has been borken forever. Anyway hf\n\n---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/noire-kassadin-next-form\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/noire-kassadin-next-form/thumb.webp?v=9bc985eb",
+	"file": {
+		"version": 1,
+		"asset": "noire-kassadin-next-form-v1.fantome",
+		"size": 3760499,
+		"sha256": "4774e4d104eb2ed745ff847f693adfa972524d3cb3bd7dc3928a1fa49a0db195"
+	},
+	"chromas": []
+}

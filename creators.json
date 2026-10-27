@@ -38,6 +38,12 @@
 			"x": "https://x.com/3dd3v"
 		}
 	},
+	"adreamofspring": {
+		"name": "ADreamOfSpring",
+		"links": {
+			"kofi": "https://ko-fi.com/adreamofspring"
+		}
+	},
 	"adrigowon": {
 		"name": "adrigowon",
 		"avatar": "creators/adrigowon.jpg?v=d7ebe59f",
@@ -1285,6 +1291,14 @@
 			"discord": "https://discord.gg/RxQWbrTyhs"
 		}
 	},
+	"notcoconut": {
+		"name": "NotCoconut",
+		"avatar": "creators/notcoconut.webp?v=3212d014",
+		"links": {
+			"discord": "https://discord.com/users/920705896936513556",
+			"site": "https://github.com/clarityandwings"
+		}
+	},
 	"notcz": {
 		"name": "notCZ",
 		"avatar": "creators/notcz.jpg?v=9fa915bb",
@@ -1843,6 +1857,11 @@
 		"name": "ExeTheGreat",
 		"avatar": "creators/uygarexe.jpg?v=8e9583aa",
 		"bio": "Old Udyr Visual Effect / Sound Effect Developer",
+		"links": {}
+	},
+	"vajaskenyerhun": {
+		"name": "EmilTheBread",
+		"avatar": "creators/vajaskenyerhun.png?v=fc16992a",
 		"links": {}
 	},
 	"valfren": {

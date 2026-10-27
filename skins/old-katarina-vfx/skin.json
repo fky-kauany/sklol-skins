@@ -1,0 +1,25 @@
+{
+	"id": "old-katarina-vfx",
+	"name": "Old Katarina Vfx",
+	"champion": 55,
+	"base": 0,
+	"creator": "katarina2121",
+	"description": "Old vfx and animations for SR katarina it has old w vfx and e vfx and old animations only for deafult skin\n\n---\n\n**Created by** [katarina2121](https://runeforge.dev/users/katarina2121)\n\n**Original:** https://runeforge.dev/mods/f2ddf72a-9ee7-4d79-bee5-f1c7e956418a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/old-katarina-vfx/thumb.webp?v=07000e49",
+	"file": {
+		"version": 1,
+		"asset": "old-katarina-vfx-v1.fantome",
+		"size": 4771495,
+		"sha256": "f4cef4927d5e26391e045bf31cba68b3c98ee2434448ccaa63c6fb51f468c467"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "moltres-anivia-classic-modern",
+	"name": "Moltres Anivia - Classic & Modern",
+	"champion": 34,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Anivia in Classic & Modern\n\n## SPECIAL THANKS TO\n\nThornnn the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/595) and it was broken so I fixed it and reuploaded it.\nThere are two versions of the skin available for download:\n\n- Moltres Anivia - Classic: Has Custom Red/Orange VFX\n- Moltres Anivia (No VFX) - Classic: Has Default VFX\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/6d8fb935-12fe-4f4c-800a-d5461adc725a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/moltres-anivia-classic-modern/thumb.webp?v=c692263b",
+	"file": {
+		"version": 1,
+		"asset": "moltres-anivia-classic-modern-v1.fantome",
+		"size": 11697057,
+		"sha256": "4ba50f3fbac7b07e87c4c1a48c9b580e0c77b87db3ebf74161de3a8f1b509149"
+	},
+	"chromas": []
+}

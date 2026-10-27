@@ -1,0 +1,27 @@
+{
+	"id": "rat-king-twitch-deadlock",
+	"name": "Rat King Twitch (Deadlock)",
+	"champion": 29,
+	"base": 0,
+	"creator": "adreamofspring",
+	"description": "Rat king from deadlock as twitch!\n\n---\n\n**Created by** [ADreamOfSpring](https://www.divineskins.gg/ADreamOfSpring)\n\n**Original:** https://www.divineskins.gg/ADreamOfSpring/rat-king-twitch-deadlock\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/rat-king-twitch-deadlock/thumb.webp?v=968fa438",
+	"file": {
+		"version": 1,
+		"asset": "rat-king-twitch-deadlock-v1.fantome",
+		"size": 22139343,
+		"sha256": "43feec131b988a08ad3a00ecc7d550319ae3f280d03e21bf241e91b67ba2bb8a"
+	},
+	"chromas": []
+}

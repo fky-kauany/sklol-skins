@@ -1,0 +1,23 @@
+{
+	"id": "primordian-aatrox-blue",
+	"name": "Primordian Aatrox - Blue",
+	"champion": 266,
+	"base": 0,
+	"creator": "dempsey20",
+	"description": "Mod name : Primordian Aatrox - Blue\n\nSkin modified : Primordian (It only works for Primordian Aatrox)\n\nAuthor : Dempsey20\n\nMod version : 1.0.0\n\n---\n\n**Created by** [Dempsey20](https://runeforge.dev/users/Dempsey20)\n\n**Original:** https://runeforge.dev/mods/6f6e8c89-8a1a-4b90-9ccb-7daa43a3b7ab\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/primordian-aatrox-blue/thumb.webp?v=4dd1e9b0",
+	"file": {
+		"version": 1,
+		"asset": "primordian-aatrox-blue-v1.fantome",
+		"size": 2460032,
+		"sha256": "c120a0071640b83d2d4c89ab322bfa96eb725ff35efc368d73731070b4953503"
+	},
+	"chromas": []
+}

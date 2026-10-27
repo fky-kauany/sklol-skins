@@ -1,0 +1,25 @@
+{
+	"id": "nidalee-ninja-tabe-nidale",
+	"name": "Ninja tabe nidale",
+	"champion": 76,
+	"base": 0,
+	"creator": "vajaskenyerhun",
+	"description": "thank you _slicko_ for helping with textures\nthank you kolosthebomb for inspiring the mod\nreport ino._._. inter\n\n---\n\n**Created by** [EmilTheBread](https://www.divineskins.gg/vajaskenyerhun)\n\n**Original:** https://www.divineskins.gg/vajaskenyerhun/ninja-tabe-nidale\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/nidalee-ninja-tabe-nidale/thumb.webp?v=87ee994c",
+	"file": {
+		"version": 1,
+		"asset": "nidalee-ninja-tabe-nidale-v1.fantome",
+		"size": 7708596,
+		"sha256": "c40ef396178ea44a6722cac5016118b2e58097fbd771f30a8bb1a13d68b1e8ab"
+	},
+	"chromas": []
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T04:26:10.914Z",
+	"generatedAt": "2026-10-27T04:29:24.232Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -39,6 +39,12 @@
 			"bio": "Making skins, games, music.",
 			"links": {
 				"x": "https://x.com/3dd3v"
+			}
+		},
+		"adreamofspring": {
+			"name": "ADreamOfSpring",
+			"links": {
+				"kofi": "https://ko-fi.com/adreamofspring"
 			}
 		},
 		"adrigowon": {
@@ -1288,6 +1294,14 @@
 				"discord": "https://discord.gg/RxQWbrTyhs"
 			}
 		},
+		"notcoconut": {
+			"name": "NotCoconut",
+			"avatar": "creators/notcoconut.webp?v=3212d014",
+			"links": {
+				"discord": "https://discord.com/users/920705896936513556",
+				"site": "https://github.com/clarityandwings"
+			}
+		},
 		"notcz": {
 			"name": "notCZ",
 			"avatar": "creators/notcz.jpg?v=9fa915bb",
@@ -1846,6 +1860,11 @@
 			"name": "ExeTheGreat",
 			"avatar": "creators/uygarexe.jpg?v=8e9583aa",
 			"bio": "Old Udyr Visual Effect / Sound Effect Developer",
+			"links": {}
+		},
+		"vajaskenyerhun": {
+			"name": "EmilTheBread",
+			"avatar": "creators/vajaskenyerhun.png?v=fc16992a",
 			"links": {}
 		},
 		"valfren": {
@@ -2790,6 +2809,255 @@
 				"asset": "mel-bonnie-aishah-sofey-v1.fantome",
 				"size": 26743772,
 				"sha256": "30a3350a7a45a9321f4c4dbb0318430082800a4d6b71fd8da6c5dfdeda1f7041"
+			},
+			"chromas": []
+		},
+		{
+			"id": "moltres-anivia-classic-modern",
+			"name": "Moltres Anivia - Classic & Modern",
+			"champion": 34,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/moltres-anivia-classic-modern/thumb.webp?v=c692263b",
+			"file": {
+				"version": 1,
+				"asset": "moltres-anivia-classic-modern-v1.fantome",
+				"size": 11697057,
+				"sha256": "4ba50f3fbac7b07e87c4c1a48c9b580e0c77b87db3ebf74161de3a8f1b509149"
+			},
+			"chromas": []
+		},
+		{
+			"id": "morty-lulu-classic-modern",
+			"name": "Morty Lulu - Classic & Modern",
+			"champion": 117,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/morty-lulu-classic-modern/thumb.webp?v=71b947e7",
+			"file": {
+				"version": 1,
+				"asset": "morty-lulu-classic-modern-v1.fantome",
+				"size": 9450845,
+				"sha256": "2d5782596634dc4ab74de2b57c44bf2d1eaaef51e029cd54cf9b83607962185a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "nidalee-ninja-tabe-nidale",
+			"name": "Ninja tabe nidale",
+			"champion": 76,
+			"base": 0,
+			"creator": "vajaskenyerhun",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/nidalee-ninja-tabe-nidale/thumb.webp?v=87ee994c",
+			"file": {
+				"version": 1,
+				"asset": "nidalee-ninja-tabe-nidale-v1.fantome",
+				"size": 7708596,
+				"sha256": "c40ef396178ea44a6722cac5016118b2e58097fbd771f30a8bb1a13d68b1e8ab"
+			},
+			"chromas": []
+		},
+		{
+			"id": "noire-kassadin-next-form",
+			"name": "Noire Kassadin Next Form",
+			"champion": 38,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/noire-kassadin-next-form/thumb.webp?v=9bc985eb",
+			"file": {
+				"version": 1,
+				"asset": "noire-kassadin-next-form-v1.fantome",
+				"size": 3760499,
+				"sha256": "4774e4d104eb2ed745ff847f693adfa972524d3cb3bd7dc3928a1fa49a0db195"
+			},
+			"chromas": []
+		},
+		{
+			"id": "old-katarina-vfx",
+			"name": "Old Katarina Vfx",
+			"champion": 55,
+			"base": 0,
+			"creator": "katarina2121",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/old-katarina-vfx/thumb.webp?v=07000e49",
+			"file": {
+				"version": 1,
+				"asset": "old-katarina-vfx-v1.fantome",
+				"size": 4771495,
+				"sha256": "f4cef4927d5e26391e045bf31cba68b3c98ee2434448ccaa63c6fb51f468c467"
+			},
+			"chromas": []
+		},
+		{
+			"id": "primordian-aatrox-blue",
+			"name": "Primordian Aatrox - Blue",
+			"champion": 266,
+			"base": 0,
+			"creator": "dempsey20",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/primordian-aatrox-blue/thumb.webp?v=4dd1e9b0",
+			"file": {
+				"version": 1,
+				"asset": "primordian-aatrox-blue-v1.fantome",
+				"size": 2460032,
+				"sha256": "c120a0071640b83d2d4c89ab322bfa96eb725ff35efc368d73731070b4953503"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ram-vex",
+			"name": "Ram Vex",
+			"champion": 711,
+			"base": 0,
+			"creator": "notcoconut",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/ram-vex/thumb.webp?v=b2f37e78",
+			"file": {
+				"version": 1,
+				"asset": "ram-vex-v1.modpkg",
+				"size": 15425055,
+				"sha256": "7316605eb0acbdf60798f6208196723cfbf3bc0785478bf915116b6e69eeb0e6"
+			},
+			"chromas": []
+		},
+		{
+			"id": "rat-king-twitch-deadlock",
+			"name": "Rat King Twitch (Deadlock)",
+			"champion": 29,
+			"base": 0,
+			"creator": "adreamofspring",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/rat-king-twitch-deadlock/thumb.webp?v=968fa438",
+			"file": {
+				"version": 1,
+				"asset": "rat-king-twitch-deadlock-v1.fantome",
+				"size": 22139343,
+				"sha256": "43feec131b988a08ad3a00ecc7d550319ae3f280d03e21bf241e91b67ba2bb8a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "satotz-ivern",
+			"name": "Satotz - Ivern",
+			"champion": 427,
+			"base": 0,
+			"creator": "sabafutka",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/satotz-ivern/thumb.webp?v=b219aa93",
+			"file": {
+				"version": 1,
+				"asset": "satotz-ivern-v1.fantome",
+				"size": 4810969,
+				"sha256": "0a589f02166df7affde840af05a99399e63c3b949c7a6cfe85463a68041ac0df"
+			},
+			"chromas": []
+		},
+		{
+			"id": "seina-aatrox-stella-sora",
+			"name": "Seina Aatrox (Stella Sora)",
+			"champion": 266,
+			"base": 0,
+			"creator": "archlyris",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/seina-aatrox-stella-sora/thumb.webp?v=ed61514f",
+			"file": {
+				"version": 1,
+				"asset": "seina-aatrox-stella-sora-v1.modpkg",
+				"size": 28523697,
+				"sha256": "7b61da9d0490b9b1491b551898c1dcb3c12c14c7213e88a44aa3ae72ac8818a9"
 			},
 			"chromas": []
 		},

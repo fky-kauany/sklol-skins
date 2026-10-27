@@ -1,0 +1,25 @@
+{
+	"id": "satotz-ivern",
+	"name": "Satotz - Ivern",
+	"champion": 427,
+	"base": 0,
+	"creator": "sabafutka",
+	"description": "Banger\n\n---\n\n**Created by** [SabaFutka](https://www.divineskins.gg/SabaFutka)\n\n**Original:** https://www.divineskins.gg/SabaFutka/satotz-ivern\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/satotz-ivern/thumb.webp?v=b219aa93",
+	"file": {
+		"version": 1,
+		"asset": "satotz-ivern-v1.fantome",
+		"size": 4810969,
+		"sha256": "0a589f02166df7affde840af05a99399e63c3b949c7a6cfe85463a68041ac0df"
+	},
+	"chromas": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": "ram-vex",
+	"name": "Ram Vex",
+	"champion": 711,
+	"base": 0,
+	"creator": "notcoconut",
+	"description": "**Features**:\r\n   > Custom VFX\r\n   > Custom Icons\r\n   > Custom Sfx/VO\r\n\r\n**Credits**:\r\n> Model: https://models.spriters-resource.com/mobile/rezeroinfinity/asset/327810/\r\n> Helped on creating the mod: https://www.divineskins.gg/@humane11\n\n---\n\n**Created by** [NotCoconut](https://www.divineskins.gg/NotCoconut), [humane11](https://www.divineskins.gg/humane11)\n\n**Original:** https://www.divineskins.gg/NotCoconut/ram-vex\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/ram-vex/thumb.webp?v=b2f37e78",
+	"file": {
+		"version": 1,
+		"asset": "ram-vex-v1.modpkg",
+		"size": 15425055,
+		"sha256": "7316605eb0acbdf60798f6208196723cfbf3bc0785478bf915116b6e69eeb0e6"
+	},
+	"chromas": []
+}

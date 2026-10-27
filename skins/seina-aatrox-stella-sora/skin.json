@@ -1,0 +1,26 @@
+{
+	"id": "seina-aatrox-stella-sora",
+	"name": "Seina Aatrox (Stella Sora)",
+	"champion": 266,
+	"base": 0,
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://www.divineskins.gg/archlyris)\n\n**Original:** https://www.divineskins.gg/archlyris/seina-aatrox-stella-sora\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/seina-aatrox-stella-sora/thumb.webp?v=ed61514f",
+	"file": {
+		"version": 1,
+		"asset": "seina-aatrox-stella-sora-v1.modpkg",
+		"size": 28523697,
+		"sha256": "7b61da9d0490b9b1491b551898c1dcb3c12c14c7213e88a44aa3ae72ac8818a9"
+	},
+	"chromas": []
+}
