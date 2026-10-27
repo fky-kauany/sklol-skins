@@ -1,0 +1,24 @@
+{
+	"id": "vegeta-veigar-classic",
+	"name": "Vegeta Veigar - Classic",
+	"champion": 45,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Leprechaun Veigar in Classic ONLY\n\n## SPECIAL THANKS TO\n\nFrog creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://www.divineskins.gg/Frog/vegeta-veigar) but was not ported to classic, so I ported it and reuploaded it.\nThere are 4 different downloads for this mod that change the color of the hair:\n\n- Vegeta Veigar - Classic\n- Vegeta Veigar Blue - Classic\n- Vegeta Veigar  Purple - Classic\n- Vegeta Veigar Yellow- Classic\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/8a9fd2d1-09fd-4a07-9f8a-5ea9b2c3f902\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/vegeta-veigar-classic/thumb.webp?v=1ec3f8a0",
+	"file": {
+		"version": 1,
+		"asset": "vegeta-veigar-classic-v1.fantome",
+		"size": 7490483,
+		"sha256": "5065c04feb30a198445d08b19e34ce7d103e6a540c2596d1b4a4aea8a7c72eaf"
+	},
+	"chromas": []
+}

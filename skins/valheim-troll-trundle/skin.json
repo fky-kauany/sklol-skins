@@ -1,0 +1,26 @@
+{
+	"id": "valheim-troll-trundle",
+	"name": "Valheim Troll - Trundle",
+	"champion": 48,
+	"base": 0,
+	"creator": "sabafutka",
+	"description": "Inspired by one of the greatest co-op survival games, this skin brings Valheim’s iconic blue troll to the Rift as Trundle. With his massive wooden club, authentic Valheim sounds, forest effects, and a glowing runestone pillar.\n\n---\n\n**Created by** [SabaFutka](https://www.divineskins.gg/SabaFutka)\n\n**Original:** https://www.divineskins.gg/SabaFutka/valheim-troll-trundle\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/valheim-troll-trundle/thumb.webp?v=11a5a636",
+	"file": {
+		"version": 1,
+		"asset": "valheim-troll-trundle-v1.fantome",
+		"size": 6447760,
+		"sha256": "11024716265d5bcda7f3497a43afd676868d2f34706e9f22294da1989102de49"
+	},
+	"chromas": []
+}

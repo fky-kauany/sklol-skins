@@ -1,0 +1,27 @@
+{
+	"id": "zeri-tf2-scout",
+	"name": "Zeri: TF2 Scout",
+	"champion": 221,
+	"base": 0,
+	"creator": "adreamofspring",
+	"description": "tf2 scout as zeri!\n\n---\n\n**Created by** [ADreamOfSpring](https://www.divineskins.gg/ADreamOfSpring)\n\n**Original:** https://www.divineskins.gg/ADreamOfSpring/zeri-tf2-scout\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx",
+		"voice"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/zeri-tf2-scout/thumb.webp?v=a614010e",
+	"file": {
+		"version": 1,
+		"asset": "zeri-tf2-scout-v1.modpkg",
+		"size": 8889416,
+		"sha256": "3d5574f4ff4ebd8b11c30027ae485195b155ba9d0d02b45dc65b77994b88ae2a"
+	},
+	"chromas": []
+}

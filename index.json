@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T04:33:32.123Z",
+	"generatedAt": "2026-10-27T04:35:11.055Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -2054,6 +2054,16 @@
 				"discord": "https://discord.com/invite/AKCjefCcMK"
 			}
 		},
+		"yuum1king": {
+			"name": "Yuum1king",
+			"avatar": "creators/yuum1king.webp?v=cb3383a3",
+			"bio": "Yuumi Lover that doesn't play Yuumi.\n• I'll be Yuumifying league champs my way HAHA just for fun\n• If you want me to Yuumify your champ, you can request it to me on my dc and I'll see what I can do (Please say it in your first message that you want to request me something)",
+			"links": {
+				"discord": "https://discord.com/users/508835837098721310",
+				"kofi": "https://ko-fi.com/yuum1king",
+				"tiktok": "https://www.tiktok.com/@yuum1king"
+			}
+		},
 		"yuumadin": {
 			"name": "Yuumadin",
 			"links": {
@@ -3312,6 +3322,132 @@
 				"asset": "ultra-ego-vegeta-lee-sin-classic-v1.fantome",
 				"size": 11992255,
 				"sha256": "328b5ebf11692a65e8360ed57ed6ef4d1a3cab6412937873f1738573068def61"
+			},
+			"chromas": []
+		},
+		{
+			"id": "valheim-troll-trundle",
+			"name": "Valheim Troll - Trundle",
+			"champion": 48,
+			"base": 0,
+			"creator": "sabafutka",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/valheim-troll-trundle/thumb.webp?v=11a5a636",
+			"file": {
+				"version": 1,
+				"asset": "valheim-troll-trundle-v1.fantome",
+				"size": 6447760,
+				"sha256": "11024716265d5bcda7f3497a43afd676868d2f34706e9f22294da1989102de49"
+			},
+			"chromas": []
+		},
+		{
+			"id": "vegeta-veigar-classic",
+			"name": "Vegeta Veigar - Classic",
+			"champion": 45,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"animations",
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/vegeta-veigar-classic/thumb.webp?v=1ec3f8a0",
+			"file": {
+				"version": 1,
+				"asset": "vegeta-veigar-classic-v1.fantome",
+				"size": 7490483,
+				"sha256": "5065c04feb30a198445d08b19e34ce7d103e6a540c2596d1b4a4aea8a7c72eaf"
+			},
+			"chromas": []
+		},
+		{
+			"id": "x-wing-pilot-corki-classic-modern",
+			"name": "X-Wing Pilot Corki - Classic & Modern",
+			"champion": 42,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/x-wing-pilot-corki-classic-modern/thumb.webp?v=c5df0bec",
+			"file": {
+				"version": 1,
+				"asset": "x-wing-pilot-corki-classic-modern-v1.fantome",
+				"size": 9727869,
+				"sha256": "bf5aba81838b8a61835991973b8b82f293bb7fc01095899b9a719977d8affc09"
+			},
+			"chromas": []
+		},
+		{
+			"id": "yett-yuumi-as-sett",
+			"name": "Yett (Yuumi as Sett)",
+			"champion": 875,
+			"base": 0,
+			"creator": "yuum1king",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/yett-yuumi-as-sett/thumb.webp?v=42950ffd",
+			"file": {
+				"version": 1,
+				"asset": "yett-yuumi-as-sett-v1.fantome",
+				"size": 19925478,
+				"sha256": "7d3047f89d455b0943f4d4ad0d208ed69100b22a7bbd23d3501897063769b6a7"
+			},
+			"chromas": []
+		},
+		{
+			"id": "zeri-tf2-scout",
+			"name": "Zeri: TF2 Scout",
+			"champion": 221,
+			"base": 0,
+			"creator": "adreamofspring",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx",
+				"voice"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/zeri-tf2-scout/thumb.webp?v=a614010e",
+			"file": {
+				"version": 1,
+				"asset": "zeri-tf2-scout-v1.modpkg",
+				"size": 8889416,
+				"sha256": "3d5574f4ff4ebd8b11c30027ae485195b155ba9d0d02b45dc65b77994b88ae2a"
 			},
 			"chromas": []
 		},

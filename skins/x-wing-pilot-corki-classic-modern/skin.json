@@ -1,0 +1,23 @@
+{
+	"id": "x-wing-pilot-corki-classic-modern",
+	"name": "X-Wing Pilot Corki - Classic & Modern",
+	"champion": 42,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Corki in Classic & Modern\n\n## SPECIAL THANKS TO\n\nMundonator the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/784) and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/45b9e945-47eb-4828-b943-67082ba8ecbb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/x-wing-pilot-corki-classic-modern/thumb.webp?v=c5df0bec",
+	"file": {
+		"version": 1,
+		"asset": "x-wing-pilot-corki-classic-modern-v1.fantome",
+		"size": 9727869,
+		"sha256": "bf5aba81838b8a61835991973b8b82f293bb7fc01095899b9a719977d8affc09"
+	},
+	"chromas": []
+}
