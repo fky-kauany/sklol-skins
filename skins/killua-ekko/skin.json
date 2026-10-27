@@ -1,0 +1,25 @@
+{
+	"id": "killua-ekko",
+	"name": "Killua Ekko",
+	"champion": 245,
+	"base": 0,
+	"creator": "neferpitou",
+	"description": "New VFX\nNew animation\n\nPlay Killua as Ekko!\n\n---\n\n**Created by** [neferpitou](https://runeforge.dev/users/neferpitou)\n\n**Original:** https://runeforge.dev/mods/f101a34e-6f1d-4231-bd23-03a5197b9397\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/killua-ekko/thumb.webp?v=cedd0861",
+	"file": {
+		"version": 1,
+		"asset": "killua-ekko-v1.fantome",
+		"size": 4855046,
+		"sha256": "148fc2011609800acb316025125d4f3304516cca1adb2ddfd21396ac357b80a5"
+	},
+	"chromas": []
+}

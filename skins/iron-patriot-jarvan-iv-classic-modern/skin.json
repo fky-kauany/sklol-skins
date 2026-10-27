@@ -1,0 +1,25 @@
+{
+	"id": "iron-patriot-jarvan-iv-classic-modern",
+	"name": "Iron Patriot Jarvan IV - Classic & Modern",
+	"champion": 59,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Jarven IV in Classic & Modern\n\n## SPECIAL THANKS TO\n\nthe Unknown creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/28c8d2b0-a4d4-4b28-baa7-ec00e182387c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/iron-patriot-jarvan-iv-classic-modern/thumb.webp?v=4baea421",
+	"file": {
+		"version": 1,
+		"asset": "iron-patriot-jarvan-iv-classic-modern-v1.fantome",
+		"size": 15203334,
+		"sha256": "c7baf8ab32e13f134b952ec0171850de2a10c95c0874e38ed01e731bad90b58f"
+	},
+	"chromas": []
+}

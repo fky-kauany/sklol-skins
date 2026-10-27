@@ -1,0 +1,25 @@
+{
+	"id": "high-noon-twisted-fate-chromas",
+	"name": "High Noon Twisted Fate Chromas",
+	"champion": 4,
+	"base": 0,
+	"creator": "deliriumoverdose",
+	"description": "chroma for high noon tf\n\n---\n\n**Created by** [deliriumoverdose](https://www.divineskins.gg/deliriumoverdose)\n\n**Original:** https://www.divineskins.gg/deliriumoverdose/high-noon-twisted-fate-chromas\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/high-noon-twisted-fate-chromas/thumb.webp?v=0f6a626c",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-twisted-fate-chromas-v1.fantome",
+		"size": 5198951,
+		"sha256": "878cd82d27e51bfe2aff4703613029069344dec7c7cb3f300a6cccd338bed30a"
+	},
+	"chromas": []
+}

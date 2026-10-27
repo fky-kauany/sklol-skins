@@ -1,0 +1,23 @@
+{
+	"id": "green-lantern-lucian-classic-modern",
+	"name": "Green Lantern Lucian - Classic & Modern",
+	"champion": 236,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Lucian in Classic & Modern\n\n## SPECIAL THANKS TO\n\nthe unknown creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted in Discord and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/487a9e1f-0341-47e0-8e21-2a01c0cd9292\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/green-lantern-lucian-classic-modern/thumb.webp?v=6adbb9e2",
+	"file": {
+		"version": 1,
+		"asset": "green-lantern-lucian-classic-modern-v1.fantome",
+		"size": 8701352,
+		"sha256": "295ae7b18f294a2aabb3bf8c67a85ec25b271a11a4c67cfef3bba0b4d63b68e1"
+	},
+	"chromas": []
+}

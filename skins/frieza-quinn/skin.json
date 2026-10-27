@@ -1,0 +1,26 @@
+{
+	"id": "frieza-quinn",
+	"name": "Frieza (Quinn)",
+	"champion": 133,
+	"base": 0,
+	"creator": "arkera",
+	"description": "# 👑 FRIEZA QUINN — The Galactic Tyrant\n*The Lord of the Universe descends upon the Rift !*\n\nFrieza abandons his cosmic throne to conquer Summoner's Rift. The galactic tyrant unleashes his ruthlessness, energy blasts, and explosive landings upon his opponents.\n\n**🌟 Features & Technical Changes :**\n\n- Model & Textures :\nKept the same 3D mesh and base textures from the original model.\n\nCompletely removed the Golden Frieza and Black Frieza variants to focus on the definitive base form.\n\n- Animations & Emotes :\nModified and heavily improved almost every single animation to fit Quinn's gameplay.\n\nRe-timed auto-attack animations so Frieza quickly returns to his normal stance/idle position.\n\nFine-tuned and smoothed out the tail movements for a much more natural and fluid animation flow.\n\n- Interactive Emotes (Ctrl+1 to Ctrl+4) :\nCtrl + 1 : Black Aura\n\nCtrl + 2 : Blue Lightning / Sparks\n\nCtrl + 3 : White Aura\n\nCtrl + 4 : Yellow Aura (Spamming Ctrl+4 increases the yellow aura intensity, making it glow brighter and stronger!)\n\n- 🎨 Aura Color Options:\n\nIncludes 3 different aura color variants ! The first one features the original Ezreal color scheme by Frog. Simply select your aura color using the Layers option in CSLOL / Celestial Launcher.\n\n- VFX (Visual Effects) :\nCompletely wiped all original Quinn VFX.\n\nExtensive work was done to adapt all VFX timing so they match Quinn’s animations seamlessly.\n\nPassive : Replaced Quinn's default mark with a custom burning fire effect on the target, repurposed from the \"Final Form\" in VFX hub.\n\nW : Created a brand-new custom W visual effect.\n\nRecall (Back) : Fully re-programmed all VFX timers to sync perfectly with the jump and charging animation stages.\n\nR (Ultimate) :\n\nRe-used the aura from Ezreal's original emote animations during the channel stage, followed by an explosion crater effect placed right when Frieza lands on the ground.\n\nUltimate State Indicator : Added a dynamic Storm Effect while under the ultimate transformation, making it crystal clear to distinguish when Frieza is actively in Ult form versus normal form.\n\nRe-used and adapted the Ezreal auto-attack VFX to match Quinn's attack pattern.\n\n- SFX (Sound Effects) :\nAdjusted and re-aligned all sound effects so they sync properly with Quinn's new timings and actions.\n\n- Custom Assets :\nIncludes a dedicated loading screen, thumbnail, and custom HUD/minimap icons.\n\n**⏳ Dev Note :**\n\nWhile this mod is based on the original Ezreal Frieza, this is NOT a direct copy or simple port. I heavily modified, upgraded, and reworked almost every aspect to make it feel smooth and tailored specifically for Quinn. I spent over 35 to 40 hours of non-stop work (4 full days, 8-10 hours each) solely to re-time every single animation, fix physics, re-program VFX timings, and polish the entire mod for maximum fluidity!\n\n**📜 Credits :**\n\nOriginal Ezreal Base Mod : Frog\n\nQuinn Rework, Overhaul & Adaptation : Arkera\n\n(Preserved original mesh & textures, but completely overhauled and upgraded animations, emotes & aura triggers, tail physics, recall/skill VFX timing, storm ult indicators, SFX timing, and re-created custom VFX for Quinn's kit).\n\nBase Champion : Quinn | Replaces : All Skins\n\n---\n\n**Created by** [Arkera](https://runeforge.dev/users/Arkera)\n\n**Original:** https://runeforge.dev/mods/64eba053-d1e0-4cd6-9d6a-3a1fb498f7cf\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/frieza-quinn/thumb.webp?v=d42e4705",
+	"file": {
+		"version": 1,
+		"asset": "frieza-quinn-v1.fantome",
+		"size": 20700489,
+		"sha256": "c671c7edb271888f2cf09e3525200b2844a8dcbf818c0010a6f0e473db766861"
+	},
+	"chromas": []
+}

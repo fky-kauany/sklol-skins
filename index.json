@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T04:19:39.938Z",
+	"generatedAt": "2026-10-27T04:22:56.419Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1084,6 +1084,14 @@
 			"avatar": "creators/matamorosalex.jpg?v=ed035c8d",
 			"bio": "i like anime mods",
 			"links": {}
+		},
+		"mattgicien": {
+			"name": "mattgicien",
+			"avatar": "creators/mattgicien.jpg?v=6783094b",
+			"links": {
+				"kofi": "https://ko-fi.com/mattgicien",
+				"youtube": "https://youtu.be/_w_eLZf9aR4"
+			}
 		},
 		"matth": {
 			"name": "matth",
@@ -2277,6 +2285,250 @@
 				"asset": "ff-xiii-2-serah-farron-beachwear-lux-classic-mod-v1.fantome",
 				"size": 8945681,
 				"sha256": "1cbd43226b386184e3cb3af2adecffda46305808267c44ce85165511eb9c481a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "frieza-quinn",
+			"name": "Frieza (Quinn)",
+			"champion": 133,
+			"base": 0,
+			"creator": "arkera",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/frieza-quinn/thumb.webp?v=d42e4705",
+			"file": {
+				"version": 1,
+				"asset": "frieza-quinn-v1.fantome",
+				"size": 20700489,
+				"sha256": "c671c7edb271888f2cf09e3525200b2844a8dcbf818c0010a6f0e473db766861"
+			},
+			"chromas": []
+		},
+		{
+			"id": "green-lantern-lucian-classic-modern",
+			"name": "Green Lantern Lucian - Classic & Modern",
+			"champion": 236,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/green-lantern-lucian-classic-modern/thumb.webp?v=6adbb9e2",
+			"file": {
+				"version": 1,
+				"asset": "green-lantern-lucian-classic-modern-v1.fantome",
+				"size": 8701352,
+				"sha256": "295ae7b18f294a2aabb3bf8c67a85ec25b271a11a4c67cfef3bba0b4d63b68e1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "guardian-of-the-night-lux-classic-modern",
+			"name": "Guardian of the Night Lux - Classic & Modern",
+			"champion": 99,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/guardian-of-the-night-lux-classic-modern/thumb.webp?v=6187e223",
+			"file": {
+				"version": 1,
+				"asset": "guardian-of-the-night-lux-classic-modern-v1.fantome",
+				"size": 9748821,
+				"sha256": "85a4f4ab160374a1f918d3ccea10de97a02ffd3c9ebee63562d8618fe043c22f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "halloween-lux-classic-modern",
+			"name": "Halloween Lux - Classic & Modern",
+			"champion": 99,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/halloween-lux-classic-modern/thumb.webp?v=144aa394",
+			"file": {
+				"version": 1,
+				"asset": "halloween-lux-classic-modern-v1.fantome",
+				"size": 13583990,
+				"sha256": "c2c2ecfd475a8840abc37b3f2d8fc5416aa6af93dff876ebd0efa6085ef53169"
+			},
+			"chromas": []
+		},
+		{
+			"id": "high-noon-ezreal",
+			"name": "High Noon Ezreal",
+			"champion": 81,
+			"base": 0,
+			"creator": "mattgicien",
+			"parts": [
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/high-noon-ezreal/thumb.webp?v=acb23885",
+			"file": {
+				"version": 1,
+				"asset": "high-noon-ezreal-v1.fantome",
+				"size": 31839835,
+				"sha256": "9fc627f57307cf6a3658064eb735e9a9febe15796ac709c7945d7b86f6b8da27"
+			},
+			"chromas": []
+		},
+		{
+			"id": "high-noon-twisted-fate-chromas",
+			"name": "High Noon Twisted Fate Chromas",
+			"champion": 4,
+			"base": 0,
+			"creator": "deliriumoverdose",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/high-noon-twisted-fate-chromas/thumb.webp?v=0f6a626c",
+			"file": {
+				"version": 1,
+				"asset": "high-noon-twisted-fate-chromas-v1.fantome",
+				"size": 5198951,
+				"sha256": "878cd82d27e51bfe2aff4703613029069344dec7c7cb3f300a6cccd338bed30a"
+			},
+			"chromas": []
+		},
+		{
+			"id": "iron-patriot-jarvan-iv-classic-modern",
+			"name": "Iron Patriot Jarvan IV - Classic & Modern",
+			"champion": 59,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/iron-patriot-jarvan-iv-classic-modern/thumb.webp?v=4baea421",
+			"file": {
+				"version": 1,
+				"asset": "iron-patriot-jarvan-iv-classic-modern-v1.fantome",
+				"size": 15203334,
+				"sha256": "c7baf8ab32e13f134b952ec0171850de2a10c95c0874e38ed01e731bad90b58f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "jimmy-neutron-corki-classic-modern",
+			"name": "Jimmy Neutron Corki - Classic & Modern",
+			"champion": 42,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/jimmy-neutron-corki-classic-modern/thumb.webp?v=bf1049b6",
+			"file": {
+				"version": 1,
+				"asset": "jimmy-neutron-corki-classic-modern-v1.fantome",
+				"size": 12817982,
+				"sha256": "a5b829b873f592fd2468a95dfeb3e07c5b6e7ef59062ced21c494c2e2eebae98"
+			},
+			"chromas": []
+		},
+		{
+			"id": "karma-freddy-sophie-rain",
+			"name": "Karma Freddy Sophie Rain",
+			"champion": 43,
+			"base": 0,
+			"creator": "youtzo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/karma-freddy-sophie-rain/thumb.webp?v=324a7d67",
+			"file": {
+				"version": 1,
+				"asset": "karma-freddy-sophie-rain-v1.fantome",
+				"size": 28040833,
+				"sha256": "6c2afd5de9607cf6b5b0970ebddef69bad90961431c91054eb1ab4b8ec28c028"
+			},
+			"chromas": []
+		},
+		{
+			"id": "killua-ekko",
+			"name": "Killua Ekko",
+			"champion": 245,
+			"base": 0,
+			"creator": "neferpitou",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/killua-ekko/thumb.webp?v=cedd0861",
+			"file": {
+				"version": 1,
+				"asset": "killua-ekko-v1.fantome",
+				"size": 4855046,
+				"sha256": "148fc2011609800acb316025125d4f3304516cca1adb2ddfd21396ac357b80a5"
 			},
 			"chromas": []
 		},

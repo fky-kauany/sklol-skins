@@ -1,0 +1,23 @@
+{
+	"id": "halloween-lux-classic-modern",
+	"name": "Halloween Lux - Classic & Modern",
+	"champion": 99,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Lux in Classic & Modern\n\n## SPECIAL THANKS TO\n\nCrestfall the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/467) and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/5758532d-0dd2-48e1-ab62-e3fad7b140b3\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/halloween-lux-classic-modern/thumb.webp?v=144aa394",
+	"file": {
+		"version": 1,
+		"asset": "halloween-lux-classic-modern-v1.fantome",
+		"size": 13583990,
+		"sha256": "c2c2ecfd475a8840abc37b3f2d8fc5416aa6af93dff876ebd0efa6085ef53169"
+	},
+	"chromas": []
+}

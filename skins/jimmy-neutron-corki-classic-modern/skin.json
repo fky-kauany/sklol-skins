@@ -1,0 +1,23 @@
+{
+	"id": "jimmy-neutron-corki-classic-modern",
+	"name": "Jimmy Neutron Corki - Classic & Modern",
+	"champion": 42,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Corki in Classic & Modern\n\n## SPECIAL THANKS TO\n\nRedRiotRoss the creator of the skin & Karma Enthusiast for updating the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/93bb75be-1391-4bd8-a493-8a06f0b2b0b2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/jimmy-neutron-corki-classic-modern/thumb.webp?v=bf1049b6",
+	"file": {
+		"version": 1,
+		"asset": "jimmy-neutron-corki-classic-modern-v1.fantome",
+		"size": 12817982,
+		"sha256": "a5b829b873f592fd2468a95dfeb3e07c5b6e7ef59062ced21c494c2e2eebae98"
+	},
+	"chromas": []
+}

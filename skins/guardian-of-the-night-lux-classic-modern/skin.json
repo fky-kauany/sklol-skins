@@ -1,0 +1,23 @@
+{
+	"id": "guardian-of-the-night-lux-classic-modern",
+	"name": "Guardian of the Night Lux - Classic & Modern",
+	"champion": 99,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base & Star Guardian Lux in Classic & Modern\n\n## SPECIAL THANKS TO\n\nYoru the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\nCustom VFX only working on Star Guardian Lux (skin06)\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/ad5aae28-bf49-48eb-97b0-751f9c5cb4ba\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/guardian-of-the-night-lux-classic-modern/thumb.webp?v=6187e223",
+	"file": {
+		"version": 1,
+		"asset": "guardian-of-the-night-lux-classic-modern-v1.fantome",
+		"size": 9748821,
+		"sha256": "85a4f4ab160374a1f918d3ccea10de97a02ffd3c9ebee63562d8618fe043c22f"
+	},
+	"chromas": []
+}

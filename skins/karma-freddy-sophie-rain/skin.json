@@ -1,0 +1,26 @@
+{
+	"id": "karma-freddy-sophie-rain",
+	"name": "Karma Freddy Sophie Rain",
+	"champion": 43,
+	"base": 0,
+	"creator": "youtzo",
+	"description": "# 「 FREDDY SOPHIE RAIN 」\n### *Replaces Karma*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Loading Screen**\n\n**Custom In-Game Icons**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [YoutZo](https://runeforge.dev/users/YoutZo)\n\n**Original:** https://runeforge.dev/mods/528ff05e-c5e4-4c5d-939a-1a161f4b0589\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/karma-freddy-sophie-rain/thumb.webp?v=324a7d67",
+	"file": {
+		"version": 1,
+		"asset": "karma-freddy-sophie-rain-v1.fantome",
+		"size": 28040833,
+		"sha256": "6c2afd5de9607cf6b5b0970ebddef69bad90961431c91054eb1ab4b8ec28c028"
+	},
+	"chromas": []
+}

@@ -1,0 +1,25 @@
+{
+	"id": "high-noon-ezreal",
+	"name": "High Noon Ezreal",
+	"champion": 81,
+	"base": 0,
+	"creator": "mattgicien",
+	"description": "### Preview video released !\n\nA dusty hat, a raised bandana, and a gauntlet that smells of gunpowder. Ezreal has found his next adventure.\n\nAfter seeing people on r/EzrealMains repeatedly ask for more masculine Ezreal skins, with High Noon coming up as a theme they wanted, I felt inspired to make one myself. It was something I wanted to play too, and once I’d brought it to life, I decided to share it with the community.\n\nHigh Noon Ezreal reimagines the explorer as a young outlaw in League of Legends’ supernatural Wild West, with worn leather, smoldering embers, and black smoke, while keeping his familiar adventurous spirit.\n\nThis is the first release, and I plan to keep improving it over time. Feedback and suggestions are welcome!\n\nI hope you enjoy playing him as much as I enjoyed making and playing him.\n\n---\n\n**Created by** [mattgicien](https://runeforge.dev/users/mattgicien)\n\n**Original:** https://runeforge.dev/mods/e50cc84a-2004-4151-a1a2-994707a6071a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/high-noon-ezreal/thumb.webp?v=acb23885",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-ezreal-v1.fantome",
+		"size": 31839835,
+		"sha256": "9fc627f57307cf6a3658064eb735e9a9febe15796ac709c7945d7b86f6b8da27"
+	},
+	"chromas": []
+}
