@@ -1,0 +1,26 @@
+{
+	"id": "akali-gyutaro",
+	"name": "Akali Gyutaro",
+	"champion": 84,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 GYUTARO 」\n### *Replaces Akali*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/akali-gyutaro\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/akali-gyutaro/thumb.webp?v=5014688a",
+	"file": {
+		"version": 1,
+		"asset": "akali-gyutaro-v1.fantome",
+		"size": 44002640,
+		"sha256": "9da11f3b9ab8a77524bc03e18c6e81313dc88d70f5cb9789397ab0ff796a1602"
+	},
+	"chromas": []
+}

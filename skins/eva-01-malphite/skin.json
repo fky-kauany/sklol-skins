@@ -1,0 +1,25 @@
+{
+	"id": "eva-01-malphite",
+	"name": "EVA 01 Malphite",
+	"champion": 54,
+	"base": 0,
+	"creator": "neferpitou",
+	"description": "Play with EVA 01\n\n---\n\n**Created by** [neferpitou](https://runeforge.dev/users/neferpitou)\n\n**Original:** https://runeforge.dev/mods/1cbf9665-0675-4deb-a44d-9b820485b505\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/eva-01-malphite/thumb.webp?v=b5a6c514",
+	"file": {
+		"version": 1,
+		"asset": "eva-01-malphite-v1.fantome",
+		"size": 10068434,
+		"sha256": "ea220e09e635982f88bb518ddf8d90b4339d5b4771d300b68ed64f9a0fe62cb9"
+	},
+	"chromas": []
+}

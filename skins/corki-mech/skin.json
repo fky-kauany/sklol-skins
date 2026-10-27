@@ -1,0 +1,26 @@
+{
+	"id": "corki-mech",
+	"name": "Corki Mech",
+	"champion": 42,
+	"base": 0,
+	"creator": "squirrelman",
+	"description": "Imagine corki, but instead of corki its corki if he was released with legs, more armor, bigger cannon, without plane, and with a lot more polygons.\r\n\r\nWhat does this skin have?\r\n-\r\n- Fully custom animations + rig\r\n- Custom model\r\n\r\nWhat will this skin get in the future?\r\n- Custom R and Q projectiles\n\n---\n\n**Created by** [squirrelman](https://www.divineskins.gg/squirrelman)\n\n**Original:** https://www.divineskins.gg/squirrelman/corki-reimagined\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/corki-mech/thumb.webp?v=ae91c9c4",
+	"file": {
+		"version": 1,
+		"asset": "corki-mech-v1.fantome",
+		"size": 7631236,
+		"sha256": "c32790f086f7664dbc56ed8640c394c59517ca65521ff4613bc9304a9708c4ea"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "donald-duck-veigar-classic-modern",
+	"name": "Donald Duck Veigar - Classic & Modern",
+	"champion": 45,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base, White Mage, & Leprechaun Veigar in Classic & Modern\n\n## SPECIAL THANKS TO\n\nXzanderzone creator of the skin and Karma Enthusiast for updating the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/dffe32b5-2eee-4a93-bcb5-7e275da7c493\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/donald-duck-veigar-classic-modern/thumb.webp?v=8d259a74",
+	"file": {
+		"version": 1,
+		"asset": "donald-duck-veigar-classic-modern-v1.fantome",
+		"size": 6231067,
+		"sha256": "f6472f79e2f6b682d50667a8159e842bfef6a9e06db8f7df6e6c2c40364f2bc0"
+	},
+	"chromas": []
+}

@@ -1,0 +1,23 @@
+{
+	"id": "duke-nukem-graves-classic-modern",
+	"name": "Duke Nukem Graves - Classic & Modern",
+	"champion": 104,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base, Hired Gun, Jailbreak, Crime City & Cutthroat Graves in Classic & Modern\n\n## SPECIAL THANKS TO\n\nthe unknown creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted online and was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/74ea5953-51a8-4429-a0c6-d66e7845cbf5\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/duke-nukem-graves-classic-modern/thumb.webp?v=5a7d143e",
+	"file": {
+		"version": 1,
+		"asset": "duke-nukem-graves-classic-modern-v1.fantome",
+		"size": 13645026,
+		"sha256": "da46f4ca41d96110922a649ba3e3ed2b39f6f23ac97619a6b630f5968223411f"
+	},
+	"chromas": []
+}

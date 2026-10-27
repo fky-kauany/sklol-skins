@@ -1,0 +1,23 @@
+{
+	"id": "ff-xiii-2-serah-farron-beachwear-lux-classic-mod",
+	"name": "FF XIII-2 Serah Farron Beachwear Lux - Classic & Modern",
+	"champion": 99,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Lux in Classic & Modern\n\n## SPECIAL THANKS TO\n\nthe unknown creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted on Discord and it was broken so I fixed it and reuploaded it.\nThe weapon's spark vfx is bugged to be under the character model\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/a845e483-bec4-4fb4-9549-2430410250f9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"model",
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/ff-xiii-2-serah-farron-beachwear-lux-classic-mod/thumb.webp?v=387b62b4",
+	"file": {
+		"version": 1,
+		"asset": "ff-xiii-2-serah-farron-beachwear-lux-classic-mod-v1.fantome",
+		"size": 8945681,
+		"sha256": "1cbd43226b386184e3cb3af2adecffda46305808267c44ce85165511eb9c481a"
+	},
+	"chromas": []
+}

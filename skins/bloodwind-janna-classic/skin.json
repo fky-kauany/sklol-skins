@@ -1,0 +1,22 @@
+{
+	"id": "bloodwind-janna-classic",
+	"name": "Bloodwind Janna - Classic",
+	"champion": 40,
+	"base": 0,
+	"creator": "alexygalaxy",
+	"description": "## Working for Base Janna in Classic ONLY\n\n## SPECIAL THANKS TO\n\nThornnn the creator of the skin.\n\n## SKIN INFORMATION\n\nThis skin was originally posted [online](https://danmuji2box.tistory.com/740) and it was broken so I fixed it and reuploaded it.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/165be892-3b6a-45e7-aa2f-defacbecb7e0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"textures"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/bloodwind-janna-classic/thumb.webp?v=5c2aa866",
+	"file": {
+		"version": 1,
+		"asset": "bloodwind-janna-classic-v1.fantome",
+		"size": 5640105,
+		"sha256": "c5f3eff8e8364688268e8bdff3c0e366ff655a9a96b4449616004c4fc4f81e14"
+	},
+	"chromas": []
+}

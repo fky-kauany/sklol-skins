@@ -1,0 +1,26 @@
+{
+	"id": "akali-chica-ava-reyes",
+	"name": "Akali Chica Ava Reyes",
+	"champion": 84,
+	"base": 0,
+	"creator": "youtzooooo",
+	"description": "# 「 CHICA AVA REYES 」\n### *Replaces Akali*\n\n---\n\n## ✦ FEATURES\n**Custom VFX**\n\n**Custom Voice Lines**\n\n**Custom 3D Model**\n\n**Custom Loading Screen**\n\n**Custom In-Game Icons**\n\n---\n\n## ✦ SOCIALS\n150+ custom skins available on my Discord: [Join here](https://discord.com/invite/AKCjefCcMK)\n\n---\n\n## ✦ CREDITS\nSkin made by **YoutZo**\n\n---\n\n**Created by** [youtzooooo](https://www.divineskins.gg/youtzooooo)\n\n**Original:** https://www.divineskins.gg/youtzooooo/akali-chica-ava-reyes\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"parts": [
+		"animations",
+		"model",
+		"sounds",
+		"textures",
+		"vfx"
+	],
+	"patch": "16.21",
+	"publishedAt": "2026-10-27",
+	"updatedAt": "2026-10-27",
+	"thumb": "skins/akali-chica-ava-reyes/thumb.webp?v=c031676d",
+	"file": {
+		"version": 1,
+		"asset": "akali-chica-ava-reyes-v1.fantome",
+		"size": 25941681,
+		"sha256": "0380deea6ce205e87fb7f63b2d87c849da4d50f3dbfb4cc1f10d67935db06b93"
+	},
+	"chromas": []
+}

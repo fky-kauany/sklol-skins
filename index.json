@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-17T22:42:59.094Z",
+	"generatedAt": "2026-10-27T04:19:39.938Z",
 	"creators": {
 		"12371234asd": {
 			"name": "12371234asd",
@@ -1201,6 +1201,13 @@
 				"site": "https://skfb.ly/pxGyt"
 			}
 		},
+		"neferpitou": {
+			"name": "neferpitou",
+			"avatar": "creators/neferpitou.jpg?v=cafbe55d",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=tkc8qhYBzkU"
+			}
+		},
 		"neonalt9": {
 			"name": "NeonAlt9",
 			"links": {}
@@ -1686,6 +1693,11 @@
 				"youtube": "https://youtu.be/srxLuS36qKk"
 			}
 		},
+		"squirrelman": {
+			"name": "squirrelman",
+			"avatar": "creators/squirrelman.png?v=477b3fb3",
+			"links": {}
+		},
 		"sterak": {
 			"name": "Sterak",
 			"avatar": "creators/sterak.jpg?v=dc7abcff",
@@ -2024,6 +2036,250 @@
 		}
 	},
 	"skins": [
+		{
+			"id": "akali-chica-ava-reyes",
+			"name": "Akali Chica Ava Reyes",
+			"champion": 84,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/akali-chica-ava-reyes/thumb.webp?v=c031676d",
+			"file": {
+				"version": 1,
+				"asset": "akali-chica-ava-reyes-v1.fantome",
+				"size": 25941681,
+				"sha256": "0380deea6ce205e87fb7f63b2d87c849da4d50f3dbfb4cc1f10d67935db06b93"
+			},
+			"chromas": []
+		},
+		{
+			"id": "akali-gyutaro",
+			"name": "Akali Gyutaro",
+			"champion": 84,
+			"base": 0,
+			"creator": "youtzooooo",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/akali-gyutaro/thumb.webp?v=5014688a",
+			"file": {
+				"version": 1,
+				"asset": "akali-gyutaro-v1.fantome",
+				"size": 44002640,
+				"sha256": "9da11f3b9ab8a77524bc03e18c6e81313dc88d70f5cb9789397ab0ff796a1602"
+			},
+			"chromas": []
+		},
+		{
+			"id": "bloodwind-janna-classic",
+			"name": "Bloodwind Janna - Classic",
+			"champion": 40,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/bloodwind-janna-classic/thumb.webp?v=5c2aa866",
+			"file": {
+				"version": 1,
+				"asset": "bloodwind-janna-classic-v1.fantome",
+				"size": 5640105,
+				"sha256": "c5f3eff8e8364688268e8bdff3c0e366ff655a9a96b4449616004c4fc4f81e14"
+			},
+			"chromas": []
+		},
+		{
+			"id": "copyliace-blitzcrank-classic-modern",
+			"name": "Copyliace Blitzcrank - Classic & Modern",
+			"champion": 53,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/copyliace-blitzcrank-classic-modern/thumb.webp?v=1460bdc4",
+			"file": {
+				"version": 1,
+				"asset": "copyliace-blitzcrank-classic-modern-v1.fantome",
+				"size": 51049183,
+				"sha256": "68df5a1c5ffa91d64645374abfad7ff6d0a994feaa5c05f3b5f95403ca4d6af1"
+			},
+			"chromas": []
+		},
+		{
+			"id": "corki-mech",
+			"name": "Corki Mech",
+			"champion": 42,
+			"base": 0,
+			"creator": "squirrelman",
+			"parts": [
+				"animations",
+				"model",
+				"sounds",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/corki-mech/thumb.webp?v=ae91c9c4",
+			"file": {
+				"version": 1,
+				"asset": "corki-mech-v1.fantome",
+				"size": 7631236,
+				"sha256": "c32790f086f7664dbc56ed8640c394c59517ca65521ff4613bc9304a9708c4ea"
+			},
+			"chromas": []
+		},
+		{
+			"id": "darius-nightbringer",
+			"name": "Darius nightbringer",
+			"champion": 122,
+			"base": 15,
+			"creator": "gabe",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.20",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/darius-nightbringer/thumb.webp?v=b2dccf1e",
+			"file": {
+				"version": 1,
+				"asset": "darius-nightbringer-v1.fantome",
+				"size": 6798698,
+				"sha256": "0465f48f8c6a32811183075377c1240b1bd3608816a6f0bad681bd4982e3fb02"
+			},
+			"chromas": []
+		},
+		{
+			"id": "donald-duck-veigar-classic-modern",
+			"name": "Donald Duck Veigar - Classic & Modern",
+			"champion": 45,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/donald-duck-veigar-classic-modern/thumb.webp?v=8d259a74",
+			"file": {
+				"version": 1,
+				"asset": "donald-duck-veigar-classic-modern-v1.fantome",
+				"size": 6231067,
+				"sha256": "f6472f79e2f6b682d50667a8159e842bfef6a9e06db8f7df6e6c2c40364f2bc0"
+			},
+			"chromas": []
+		},
+		{
+			"id": "duke-nukem-graves-classic-modern",
+			"name": "Duke Nukem Graves - Classic & Modern",
+			"champion": 104,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/duke-nukem-graves-classic-modern/thumb.webp?v=5a7d143e",
+			"file": {
+				"version": 1,
+				"asset": "duke-nukem-graves-classic-modern-v1.fantome",
+				"size": 13645026,
+				"sha256": "da46f4ca41d96110922a649ba3e3ed2b39f6f23ac97619a6b630f5968223411f"
+			},
+			"chromas": []
+		},
+		{
+			"id": "eva-01-malphite",
+			"name": "EVA 01 Malphite",
+			"champion": 54,
+			"base": 0,
+			"creator": "neferpitou",
+			"parts": [
+				"animations",
+				"model",
+				"textures",
+				"vfx"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/eva-01-malphite/thumb.webp?v=b5a6c514",
+			"file": {
+				"version": 1,
+				"asset": "eva-01-malphite-v1.fantome",
+				"size": 10068434,
+				"sha256": "ea220e09e635982f88bb518ddf8d90b4339d5b4771d300b68ed64f9a0fe62cb9"
+			},
+			"chromas": []
+		},
+		{
+			"id": "ff-xiii-2-serah-farron-beachwear-lux-classic-mod",
+			"name": "FF XIII-2 Serah Farron Beachwear Lux - Classic & Modern",
+			"champion": 99,
+			"base": 0,
+			"creator": "alexygalaxy",
+			"parts": [
+				"model",
+				"textures"
+			],
+			"patch": "16.21",
+			"publishedAt": "2026-10-27",
+			"updatedAt": "2026-10-27",
+			"downloads": 0,
+			"thumb": "skins/ff-xiii-2-serah-farron-beachwear-lux-classic-mod/thumb.webp?v=387b62b4",
+			"file": {
+				"version": 1,
+				"asset": "ff-xiii-2-serah-farron-beachwear-lux-classic-mod-v1.fantome",
+				"size": 8945681,
+				"sha256": "1cbd43226b386184e3cb3af2adecffda46305808267c44ce85165511eb9c481a"
+			},
+			"chromas": []
+		},
 		{
 			"id": "100-dollar-zed-skin",
 			"name": "100 dollar Zed skin",

@@ -1198,6 +1198,13 @@
 			"site": "https://skfb.ly/pxGyt"
 		}
 	},
+	"neferpitou": {
+		"name": "neferpitou",
+		"avatar": "creators/neferpitou.jpg?v=cafbe55d",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=tkc8qhYBzkU"
+		}
+	},
 	"neonalt9": {
 		"name": "NeonAlt9",
 		"links": {}
@@ -1682,6 +1689,11 @@
 		"links": {
 			"youtube": "https://youtu.be/srxLuS36qKk"
 		}
+	},
+	"squirrelman": {
+		"name": "squirrelman",
+		"avatar": "creators/squirrelman.png?v=477b3fb3",
+		"links": {}
 	},
 	"sterak": {
 		"name": "Sterak",
