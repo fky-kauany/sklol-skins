@@ -2160,7 +2160,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/bloodwind-janna-classic/thumb.webp?v=5c2aa866",
 			"file": {
 				"version": 1,
@@ -2211,7 +2211,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/corki-mech/thumb.webp?v=ae91c9c4",
 			"file": {
 				"version": 1,
@@ -2574,7 +2574,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "skins/killua-ekko/thumb.webp?v=cedd0861",
 			"file": {
 				"version": 1,
@@ -2964,7 +2964,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/primordian-aatrox-blue/thumb.webp?v=4dd1e9b0",
 			"file": {
 				"version": 1,
@@ -4005,7 +4005,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/akame-ga-kill-yasuo/thumb.webp?v=8620dfbe",
 			"file": {
 				"version": 1,
@@ -4170,7 +4170,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/akshan-crime-city-ratshan-l9-mafia-final-boss/thumb.webp?v=a7438a21",
 			"file": {
 				"version": 1,
@@ -4611,7 +4611,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 2,
+			"downloads": 4,
 			"thumb": "skins/aris-ezreal-blue-archive/thumb.webp?v=43dbdc10",
 			"file": {
 				"version": 1,
@@ -4636,7 +4636,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/aris-senna-blue-archive/thumb.webp?v=a9db4400",
 			"file": {
 				"version": 1,
@@ -5706,7 +5706,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/battle-principal-yuumi-tft-set-15-chroma/thumb.webp?v=faa74d17",
 			"file": {
 				"version": 1,
@@ -6069,7 +6069,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/black-and-white-chroma-for-blood-moon-aatrox/thumb.webp?v=fe7292ab",
 			"file": {
 				"version": 1,
@@ -6093,7 +6093,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/black-and-white-dark-cosmic-lux/thumb.webp?v=bedef305",
 			"file": {
 				"version": 1,
@@ -6950,7 +6950,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/byakuya-yasuo/thumb.webp?v=59d2050b",
 			"file": {
 				"version": 1,
@@ -6996,7 +6996,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/caitlyn-pool-party-cait-no-shirt-no-hat/thumb.webp?v=e853341b",
 			"file": {
 				"version": 1,
@@ -7088,7 +7088,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/candly-apple-rek-sai/thumb.webp?v=b2ad1a92",
 			"file": {
 				"version": 1,
@@ -8138,7 +8138,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/cosmic-princess-kassadin/thumb.webp?v=d6f2ea06",
 			"file": {
 				"version": 1,
@@ -9249,7 +9249,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/dark-matter-genesis-yasuo/thumb.webp?v=016aa52a",
 			"file": {
 				"version": 1,
@@ -10281,7 +10281,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/dragonmancer-yotohime-yasuo/thumb.webp?v=99a19acc",
 			"file": {
 				"version": 1,
@@ -13645,7 +13645,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/goth-princess-senna/thumb.webp?v=7325661b",
 			"file": {
 				"version": 1,
@@ -13692,7 +13692,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/goth-yunara/thumb.webp?v=6adbef28",
 			"file": {
 				"version": 1,
@@ -14482,7 +14482,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/heartsteel-death-kayn-chroma/thumb.webp?v=410ee898",
 			"file": {
 				"version": 1,
@@ -16266,7 +16266,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/hololive-kazama-iroha-yasuo-re/thumb.webp?v=81fb2870",
 			"file": {
 				"version": 1,
@@ -17261,7 +17261,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/hololive-shirakami-fubuki-kayn/thumb.webp?v=76bf0cec",
 			"file": {
 				"version": 1,
@@ -17798,7 +17798,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/hornet-fiora/thumb.webp?v=53940538",
 			"file": {
 				"version": 1,
@@ -19702,7 +19702,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/kayn-odyssey-chroma-black-and-red/thumb.webp?v=708b1d0b",
 			"file": {
 				"version": 1,
@@ -20539,7 +20539,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-17",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/kratos-darius/thumb.webp?v=cf5f4641",
 			"file": {
 				"version": 1,
@@ -23451,7 +23451,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "skins/milio-without-the-kid/thumb.webp?v=c4751c60",
 			"file": {
 				"version": 1,
@@ -24760,7 +24760,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/navy-blue-odyssey-kayn/thumb.webp?v=876c205d",
 			"file": {
 				"version": 1,
@@ -32990,7 +32990,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 2,
+			"downloads": 3,
 			"thumb": "skins/talon-birdlon/thumb.webp?v=01b16319",
 			"file": {
 				"version": 1,
@@ -33013,7 +33013,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/talon-black-moon-chroma/thumb.webp?v=36ad1c39",
 			"file": {
 				"version": 1,
@@ -35488,7 +35488,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/woad-king-darius-berserker/thumb.webp?v=18fa7c4c",
 			"file": {
 				"version": 1,
@@ -41220,7 +41220,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/kai-sa-boba-fett/thumb.webp?v=d4c91547",
 			"file": {
 				"version": 1,
@@ -53828,7 +53828,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/sylas-sung-jinwoo/thumb.webp?v=90fe3e66",
 			"file": {
 				"version": 1,
@@ -54494,7 +54494,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/talon-pengu/thumb.webp?v=8f3d08ee",
 			"file": {
 				"version": 1,
@@ -57133,7 +57133,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/viego-anos-voldigoad/thumb.webp?v=669b524c",
 			"file": {
 				"version": 1,
@@ -65850,7 +65850,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/chibi-neeko/thumb.webp?v=58ae86fe",
 			"file": {
 				"version": 1,
@@ -67205,7 +67205,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/crystal-rose-nami-wr-port/thumb.webp?v=1a534088",
 			"file": {
 				"version": 1,
@@ -68476,7 +68476,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 2,
+			"downloads": 3,
 			"thumb": "skins/demon-of-lightning-talon/thumb.webp?v=dc8eb81d",
 			"file": {
 				"version": 1,
@@ -69141,7 +69141,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/draven-jinx/thumb.webp?v=cdeca482",
 			"file": {
 				"version": 1,
@@ -69167,7 +69167,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/draven-sukuna-cyan/thumb.webp?v=8e475d35",
 			"file": {
 				"version": 1,
@@ -69445,7 +69445,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/elise-demon/thumb.webp?v=722e7d3f",
 			"file": {
 				"version": 1,
@@ -71752,7 +71752,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/glorious-crimson-draven-wild-rift/thumb.webp?v=fdd8df09",
 			"file": {
 				"version": 1,
