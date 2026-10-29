@@ -2941,7 +2941,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/old-katarina-vfx/thumb.webp?v=07000e49",
 			"file": {
 				"version": 1,
@@ -22203,7 +22203,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/master-yi-infiltrator-yi/thumb.webp?v=ac14790e",
 			"file": {
 				"version": 1,
@@ -22272,7 +22272,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-17",
-			"downloads": 11,
+			"downloads": 12,
 			"thumb": "skins/master-yi-l9-inkshadow-yi/thumb.webp?v=5ec1e987",
 			"file": {
 				"version": 1,
@@ -24400,7 +24400,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/mugetsu-yone/thumb.webp?v=e4f3a080",
 			"file": {
 				"version": 1,
@@ -71571,7 +71571,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-17",
-			"downloads": 15,
+			"downloads": 16,
 			"thumb": "skins/ghostface-master-yi/thumb.webp?v=532d67c4",
 			"file": {
 				"version": 1,
