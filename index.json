@@ -2185,7 +2185,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/copyliace-blitzcrank-classic-modern/thumb.webp?v=1460bdc4",
 			"file": {
 				"version": 1,
@@ -2282,7 +2282,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/duke-nukem-graves-classic-modern/thumb.webp?v=5a7d143e",
 			"file": {
 				"version": 1,
@@ -2307,7 +2307,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 2,
+			"downloads": 5,
 			"thumb": "skins/eva-01-malphite/thumb.webp?v=b5a6c514",
 			"file": {
 				"version": 1,
@@ -2767,7 +2767,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/magikarp-nami-classic-modern/thumb.webp?v=32d7d93d",
 			"file": {
 				"version": 1,
@@ -3144,7 +3144,7 @@
 			"patch": "16.21",
 			"publishedAt": "2026-10-27",
 			"updatedAt": "2026-10-27",
-			"downloads": 7,
+			"downloads": 8,
 			"thumb": "skins/sparxie-mel/thumb.webp?v=550096c0",
 			"file": {
 				"version": 1,
@@ -5755,7 +5755,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 10,
+			"downloads": 11,
 			"thumb": "skins/bed-zoe/thumb.webp?v=f4f78938",
 			"file": {
 				"version": 1,
@@ -6069,7 +6069,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-28",
-			"downloads": 9,
+			"downloads": 10,
 			"thumb": "skins/black-and-white-chroma-for-blood-moon-aatrox/thumb.webp?v=b8a386da",
 			"file": {
 				"version": 1,
@@ -7976,7 +7976,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/corki-bombardiro-crocadilo-corgi-smolder-renekto/thumb.webp?v=0c0de4e6",
 			"file": {
 				"version": 1,
@@ -8316,7 +8316,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-27",
-			"downloads": 10,
+			"downloads": 12,
 			"thumb": "skins/coven-qiyana-asu/thumb.webp?v=48984006",
 			"file": {
 				"version": 1,
@@ -8367,7 +8367,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 4,
 			"thumb": "skins/crash-bandicoot-garen/thumb.webp?v=0800e121",
 			"file": {
 				"version": 1,
@@ -9125,7 +9125,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/darius-corinthiano/thumb.webp?v=5d75b498",
 			"file": {
 				"version": 1,
@@ -10790,7 +10790,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 2,
+			"downloads": 4,
 			"thumb": "skins/ekko-minecraft/thumb.webp?v=3e933333",
 			"file": {
 				"version": 1,
@@ -12833,7 +12833,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/gigachad-k-sante/thumb.webp?v=58ef9f9d",
 			"file": {
 				"version": 1,
@@ -13883,7 +13883,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/graves-b-w/thumb.webp?v=e07368c6",
 			"file": {
 				"version": 1,
@@ -17115,7 +17115,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 3,
 			"thumb": "skins/hololive-sakamata-chloe-singed/thumb.webp?v=2e024423",
 			"file": {
 				"version": 1,
@@ -17261,7 +17261,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 5,
+			"downloads": 7,
 			"thumb": "skins/hololive-shirakami-fubuki-kayn/thumb.webp?v=76bf0cec",
 			"file": {
 				"version": 1,
@@ -17454,7 +17454,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/hololive-smol-ceres-fauna-lulu/thumb.webp?v=1badc904",
 			"file": {
 				"version": 1,
@@ -19167,7 +19167,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/k-sante-m1a2-abramsante/thumb.webp?v=9f9aa755",
 			"file": {
 				"version": 1,
@@ -19679,7 +19679,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/kayn-always-human-form/thumb.webp?v=69055748",
 			"file": {
 				"version": 1,
@@ -19825,7 +19825,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 2,
+			"downloads": 3,
 			"thumb": "skins/kda-all-out-gragas/thumb.webp?v=d35ba30a",
 			"file": {
 				"version": 1,
@@ -19979,7 +19979,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 3,
 			"thumb": "skins/kendrick-ekko/thumb.webp?v=5667898c",
 			"file": {
 				"version": 1,
@@ -21806,7 +21806,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 12,
+			"downloads": 13,
 			"thumb": "skins/madara-zed/thumb.webp?v=59375977",
 			"file": {
 				"version": 1,
@@ -22107,7 +22107,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/margeaphine-seraphine-w-voice/thumb.webp?v=f2df1f5e",
 			"file": {
 				"version": 1,
@@ -28092,7 +28092,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/quantum-galaxy-slayer-zed-blue-chroma/thumb.webp?v=9d8ff7a4",
 			"file": {
 				"version": 1,
@@ -30112,7 +30112,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/saul-goodman-ezreal/thumb.webp?v=42ad8933",
 			"file": {
 				"version": 1,
@@ -30550,7 +30550,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 2,
+			"downloads": 3,
 			"thumb": "skins/shadow-from-eits-as-talon/thumb.webp?v=7de69087",
 			"file": {
 				"version": 1,
@@ -33497,7 +33497,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 2,
+			"downloads": 3,
 			"thumb": "skins/the-weaponmaster-vindicator-draven/thumb.webp?v=f595fda3",
 			"file": {
 				"version": 1,
@@ -33621,7 +33621,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 5,
 			"thumb": "skins/togore-dreemurr-xin-zhao/thumb.webp?v=aad88e69",
 			"file": {
 				"version": 1,
@@ -36528,7 +36528,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/yuuka-gragas-blue-archive/thumb.webp?v=031de731",
 			"file": {
 				"version": 1,
@@ -40270,7 +40270,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "skins/isagi-yoichi-viego-from-blue-lock/thumb.webp?v=e33b727a",
 			"file": {
 				"version": 1,
@@ -40912,7 +40912,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/jinx-fallen-star/thumb.webp?v=d74a2043",
 			"file": {
 				"version": 1,
@@ -41168,7 +41168,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "skins/k-sante-denji-ksante/thumb.webp?v=c70b2192",
 			"file": {
 				"version": 1,
@@ -41503,7 +41503,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 7,
+			"downloads": 8,
 			"thumb": "skins/kalista-minecraft/thumb.webp?v=85d15a52",
 			"file": {
 				"version": 1,
@@ -42552,7 +42552,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/kiana-samira/thumb.webp?v=8269437d",
 			"file": {
 				"version": 1,
@@ -42889,7 +42889,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 1,
+			"downloads": 3,
 			"thumb": "skins/kog-maw-rin-itoshi/thumb.webp?v=12f353b7",
 			"file": {
 				"version": 1,
@@ -43582,7 +43582,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/leona-thor/thumb.webp?v=18d397a4",
 			"file": {
 				"version": 1,
@@ -43919,7 +43919,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 2,
+			"downloads": 3,
 			"thumb": "skins/lucian-dante/thumb.webp?v=da9f5b69",
 			"file": {
 				"version": 1,
@@ -45229,7 +45229,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/mel-aviv/thumb.webp?v=b9a0f859",
 			"file": {
 				"version": 1,
@@ -45896,7 +45896,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 2,
+			"downloads": 4,
 			"thumb": "skins/miles-morales-ekko/thumb.webp?v=8b87ddb5",
 			"file": {
 				"version": 1,
@@ -47765,7 +47765,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/okarun-pyke/thumb.webp?v=40be8d49",
 			"file": {
 				"version": 1,
@@ -48794,7 +48794,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/primordian-kog-maw/thumb.webp?v=b83ef157",
 			"file": {
 				"version": 1,
@@ -49309,7 +49309,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 7,
+			"downloads": 8,
 			"thumb": "skins/real-rat-twitch/thumb.webp?v=5b0cc0c6",
 			"file": {
 				"version": 1,
@@ -49691,7 +49691,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/reze-neeko/thumb.webp?v=b0d23f6b",
 			"file": {
 				"version": 1,
@@ -53053,7 +53053,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "skins/star-guardian-qiyana/thumb.webp?v=5ca89bab",
 			"file": {
 				"version": 1,
@@ -53494,7 +53494,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 6,
+			"downloads": 7,
 			"thumb": "skins/sungjinwoo-zed/thumb.webp?v=4454570d",
 			"file": {
 				"version": 1,
@@ -54494,7 +54494,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "skins/talon-pengu/thumb.webp?v=8f3d08ee",
 			"file": {
 				"version": 1,
@@ -55077,7 +55077,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 14,
+			"downloads": 16,
 			"thumb": "skins/the-deepest-drowned-azir/thumb.webp?v=3d06d602",
 			"file": {
 				"version": 1,
@@ -55155,7 +55155,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 7,
+			"downloads": 9,
 			"thumb": "skins/the-enderman-fiddlesticks/thumb.webp?v=9258ab5d",
 			"file": {
 				"version": 1,
@@ -57565,7 +57565,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 3,
+			"downloads": 4,
 			"thumb": "skins/viper-renata-glasc/thumb.webp?v=8091c28d",
 			"file": {
 				"version": 1,
@@ -58508,7 +58508,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-13",
 			"updatedAt": "2026-10-13",
-			"downloads": 5,
+			"downloads": 6,
 			"thumb": "skins/yasuo-ichigo-kurosaki/thumb.webp?v=b8e53b68",
 			"file": {
 				"version": 1,
@@ -63550,7 +63550,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/ballerina-cappuccina-annie/thumb.webp?v=eb9620eb",
 			"file": {
 				"version": 1,
@@ -66903,7 +66903,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/coven-gwen/thumb.webp?v=d0b69fa1",
 			"file": {
 				"version": 1,
@@ -68860,7 +68860,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 4,
+			"downloads": 6,
 			"thumb": "skins/diana-vampire-emilia/thumb.webp?v=06455056",
 			"file": {
 				"version": 1,
@@ -69063,7 +69063,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/dr-mundo-push-sfx/thumb.webp?v=78c503f7",
 			"file": {
 				"version": 1,
@@ -69623,7 +69623,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "skins/eren-renekton/thumb.webp?v=5a5ee476",
 			"file": {
 				"version": 1,
@@ -69830,7 +69830,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "skins/evelynn-elysian-angel/thumb.webp?v=2dd1983f",
 			"file": {
 				"version": 1,
@@ -71389,7 +71389,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 3,
 			"thumb": "skins/gebura-diana/thumb.webp?v=d0ee45d6",
 			"file": {
 				"version": 1,
@@ -71595,7 +71595,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-12",
 			"updatedAt": "2026-10-12",
-			"downloads": 0,
+			"downloads": 3,
 			"thumb": "skins/ghostface-pyke/thumb.webp?v=afd2403f",
 			"file": {
 				"version": 1,
