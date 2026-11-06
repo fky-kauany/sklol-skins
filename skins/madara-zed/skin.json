@@ -12,15 +12,15 @@
 		"textures",
 		"vfx"
 	],
-	"patch": "16.20",
+	"patch": "16.22",
 	"publishedAt": "2026-10-15",
-	"updatedAt": "2026-10-15",
+	"updatedAt": "2026-11-06",
 	"thumb": "skins/madara-zed/thumb.webp?v=59375977",
 	"file": {
-		"version": 1,
-		"asset": "madara-zed-v1.fantome",
-		"size": 37410492,
-		"sha256": "a4eb8a12fe466e4250474270a3a81cfe3b34613eb3a7d240f57cdfd0a15c774b"
+		"version": 2,
+		"asset": "madara-zed-v2.fantome",
+		"size": 42051274,
+		"sha256": "a4a55d63d713a5845db653b0a2528272ad10ead21f138d314cdf8498adbc64fb"
 	},
 	"chromas": []
 }
